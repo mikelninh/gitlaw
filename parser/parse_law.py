@@ -17,23 +17,68 @@ def download_xml(xml_url: str) -> bytes:
     return z.read(xml_filename)
 
 
+def _get_la_text(dd_node) -> str:
+    """Extract text from LA elements inside a DD, joining them."""
+    texts = []
+    for la in dd_node.findall(".//LA"):
+        t = "".join(la.itertext()).strip()
+        if t:
+            texts.append(t)
+    if texts:
+        return " ".join(texts)
+    # Fallback: get all text from DD
+    return "".join(dd_node.itertext()).strip()
+
+
 def extract_text(content_node) -> str:
-    """Extract text from a <Content> node, handling all nested elements."""
+    """Extract text from a <Content> node, handling DL/DT/DD/LA structures."""
     if content_node is None:
         return ""
 
-    # Use itertext() to get ALL text recursively, preserving order
-    # Then process the raw text to clean it up
-    raw = "".join(content_node.itertext())
+    parts = []
 
-    # Clean up whitespace: collapse multiple spaces, preserve paragraph breaks
-    lines = []
-    for line in raw.split("\n"):
-        line = " ".join(line.split())  # collapse whitespace
-        if line:
-            lines.append(line)
+    for elem in content_node.iter():
+        tag = elem.tag if isinstance(elem.tag, str) else ""
 
-    return "\n\n".join(lines)
+        if tag == "P":
+            # Check if P contains a DL (definition list)
+            dl = elem.find(".//DL")
+            if dl is not None:
+                # Get intro text before the DL
+                intro = (elem.text or "").strip()
+                if intro:
+                    parts.append(intro)
+                # Process DT/DD pairs
+                dts = dl.findall("DT")
+                dds = dl.findall("DD")
+                for i, dt in enumerate(dts):
+                    num = "".join(dt.itertext()).strip()
+                    if i < len(dds):
+                        content = _get_la_text(dds[i])
+                        # Check for nested DLs in DD
+                        sub_dl = dds[i].find(".//DL")
+                        if sub_dl is not None and not content:
+                            content = _get_la_text(dds[i])
+                        if num and content:
+                            parts.append(f"{num} {content}")
+                        elif num:
+                            parts.append(num)
+                    elif num:
+                        parts.append(num)
+            elif not list(elem):
+                # Simple P without children
+                text = "".join(elem.itertext()).strip()
+                if text:
+                    parts.append(text)
+
+    # Deduplicate consecutive identical lines
+    result = []
+    for p in parts:
+        line = " ".join(p.split()).strip()
+        if line and (not result or line != result[-1]):
+            result.append(line)
+
+    return "\n\n".join(result)
 
 
 def parse_law(xml_content: bytes) -> dict:
