@@ -47,6 +47,7 @@ function App() {
   const [chatAnswer, setChatAnswer] = useState('')
   const [chatSources, setChatSources] = useState<{law: string; section: string}[]>([])
   const [chatLoading, setChatLoading] = useState(false)
+  const [selectedPersona, setSelectedPersona] = useState<string | null>(null)
 
   // Load index
   useEffect(() => {
@@ -293,23 +294,86 @@ function App() {
           </div>
         </main>
       ) : activeTab === 'fragen' ? (
-        /* ── FRAGEN TAB (RAG) ── */
+        /* ── FRAGEN TAB (RAG) — PERSONALISIERT ── */
         <main className="max-w-3xl mx-auto px-5 py-8">
           <div className="text-center mb-8">
-            <p className="text-sm text-gold font-bold uppercase tracking-widest mb-2">Rechts-Assistent</p>
-            <h2 className="font-display text-3xl mb-3">Stelle eine Frage zum deutschen Recht</h2>
-            <p className="text-ink-muted max-w-md mx-auto">Die Antwort basiert auf echten Gesetzestexten — keine Halluzinationen, nur Fakten. Keine Rechtsberatung.</p>
+            <p className="text-sm text-gold font-bold uppercase tracking-widest mb-2">Persönlicher Rechts-Assistent</p>
+            <h2 className="font-display text-3xl mb-3">Wer bist du?</h2>
+            <p className="text-ink-muted max-w-md mx-auto">Wähle dein Profil — die Antwort wird auf DEINE Situation zugeschnitten. Basierend auf echten Gesetzestexten.</p>
           </div>
 
-          {/* Example questions */}
-          <div className="flex flex-wrap gap-2 justify-center mb-8">
+          {/* Persona selection */}
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 mb-8">
             {[
-              'Kann mein Vermieter mich einfach rausschmeißen?',
+              { id: 'student', emoji: '📚', label: 'Student/in', desc: 'Jung, wenig Geld, WG' },
+              { id: 'arbeitnehmer', emoji: '👷', label: 'Arbeitnehmer/in', desc: 'Angestellt, Vollzeit' },
+              { id: 'selbststaendig', emoji: '💼', label: 'Selbstständig', desc: 'Freelancer, Unternehmer' },
+              { id: 'elternteil', emoji: '👨‍👩‍👧', label: 'Elternteil', desc: 'Mit Kindern' },
+              { id: 'alleinerziehend', emoji: '👩‍👧', label: 'Alleinerziehend', desc: 'Single-Mutter/Vater' },
+              { id: 'rentner', emoji: '👵', label: 'Rentner/in', desc: '65+, Rente' },
+              { id: 'mieter', emoji: '🏠', label: 'Mieter/in', desc: 'Mietwohnung' },
+              { id: 'vermieter', emoji: '🏘️', label: 'Vermieter/in', desc: 'Eigentum vermietet' },
+              { id: 'azubi', emoji: '🔧', label: 'Azubi', desc: 'In Ausbildung' },
+              { id: 'migrant', emoji: '🌍', label: 'Migrant/in', desc: 'Nicht-deutsch, in DE lebend' },
+              { id: 'schwanger', emoji: '🤰', label: 'Schwanger', desc: 'Mutterschutz/Elternzeit' },
+              { id: 'arbeitslos', emoji: '📋', label: 'Arbeitslos', desc: 'Bürgergeld/Jobsuche' },
+            ].map(p => (
+              <button key={p.id} onClick={() => setSelectedPersona(selectedPersona === p.id ? null : p.id)}
+                className={`flex items-center gap-2 p-3 rounded-xl text-left cursor-pointer transition-all ${selectedPersona === p.id ? 'bg-gold text-white shadow-md ring-2 ring-gold/30' : 'bg-card border border-border hover:border-gold/30'}`}>
+                <span className="text-xl">{p.emoji}</span>
+                <div>
+                  <span className={`text-sm font-medium ${selectedPersona === p.id ? 'text-white' : 'text-ink'}`}>{p.label}</span>
+                  <p className={`text-[11px] ${selectedPersona === p.id ? 'text-white/70' : 'text-ink-muted'}`}>{p.desc}</p>
+                </div>
+              </button>
+            ))}
+          </div>
+
+          {selectedPersona && (
+            <div className="bg-gold-light rounded-xl p-3 mb-4 text-center">
+              <p className="text-sm text-gold">Antworten werden personalisiert für: <strong>{
+                { student: '📚 Student/in', arbeitnehmer: '👷 Arbeitnehmer/in', selbststaendig: '💼 Selbstständig', elternteil: '👨‍👩‍👧 Elternteil', alleinerziehend: '👩‍👧 Alleinerziehend', rentner: '👵 Rentner/in', mieter: '🏠 Mieter/in', vermieter: '🏘️ Vermieter/in', azubi: '🔧 Azubi', migrant: '🌍 Migrant/in', schwanger: '🤰 Schwanger', arbeitslos: '📋 Arbeitslos' }[selectedPersona]
+              }</strong></p>
+            </div>
+          )}
+
+          {/* Example questions — personalized */}
+          <div className="flex flex-wrap gap-2 justify-center mb-6">
+            {(selectedPersona === 'mieter' ? [
+              'Kann mein Vermieter die Miete erhöhen?',
+              'Meine Heizung ist kaputt — darf ich die Miete kürzen?',
+              'Mein Vermieter will Eigenbedarf anmelden',
+            ] : selectedPersona === 'schwanger' ? [
+              'Darf mein Chef mich kündigen?',
+              'Wie lange habe ich Mutterschutz?',
+              'Wie viel Elterngeld bekomme ich?',
+            ] : selectedPersona === 'arbeitnehmer' ? [
               'Wie lange darf ich am Tag arbeiten?',
-              'Was passiert wenn ich jemanden online beleidige?',
-              'Wann darf ich in Rente gehen?',
-              'Darf mein Chef mich in der Schwangerschaft kündigen?',
-            ].map(q => (
+              'Mein Chef will mich kündigen — was tun?',
+              'Wann kann ich in Rente gehen?',
+            ] : selectedPersona === 'student' ? [
+              'Was passiert wenn ich schwarzfahre?',
+              'Jemand beleidigt mich online — was tun?',
+              'Baue ich als Student Rente auf?',
+            ] : selectedPersona === 'arbeitslos' ? [
+              'Wie viel Bürgergeld bekomme ich?',
+              'Kann das Jobcenter mein Bürgergeld kürzen?',
+              'Darf ich dazuverdienen?',
+            ] : selectedPersona === 'migrant' ? [
+              'Welchen Aufenthaltstitel brauche ich?',
+              'Kann ich meine Familie nachholen?',
+              'Darf ich arbeiten?',
+            ] : selectedPersona === 'vermieter' ? [
+              'Wie kündige ich wegen Eigenbedarf?',
+              'Darf ich die Miete erhöhen?',
+              'Mein Mieter zahlt nicht — was tun?',
+            ] : [
+              'Kann mein Vermieter mich rausschmeißen?',
+              'Wie lange darf ich am Tag arbeiten?',
+              'Was passiert bei Online-Beleidigung?',
+              'Wann kann ich in Rente gehen?',
+              'Darf mein Chef mich kündigen?',
+            ]).map(q => (
               <button key={q} onClick={() => setChatQuestion(q)}
                 className="px-3 py-2 rounded-xl text-sm bg-card border border-border text-ink-muted hover:text-gold hover:border-gold/30 cursor-pointer transition-colors">
                 {q}
@@ -318,38 +382,48 @@ function App() {
           </div>
 
           {/* Input */}
-          <div className="relative mb-8">
-            <input type="text" value={chatQuestion} onChange={e => setChatQuestion(e.target.value)}
-              onKeyDown={e => {
-                if (e.key === 'Enter' && chatQuestion.trim()) {
-                  setChatLoading(true)
-                  setChatAnswer('')
-                  setChatSources([])
-                  askLegalQuestion(chatQuestion).then(result => {
-                    setChatAnswer(result.answer)
-                    setChatSources(result.sources)
-                    setChatLoading(false)
-                  })
-                }
-              }}
-              placeholder="z.B. 'Wie hoch ist die Mieterhöhung maximal?'"
-              className="w-full pl-5 pr-14 py-4 rounded-2xl border border-border bg-card text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
-            />
-            <button onClick={() => {
+          {(() => {
+            const personaDesc: Record<string, string> = {
+              student: 'Student/in, jung, wenig Einkommen, WG, eventuell BAföG',
+              arbeitnehmer: 'Angestellt, Vollzeit, sozialversicherungspflichtig',
+              selbststaendig: 'Selbstständig/Freelancer, keine automatische Absicherung',
+              elternteil: 'Verheiratet mit Kindern, Doppelverdiener oder Alleinverdiener',
+              alleinerziehend: 'Alleinerziehend, ein Einkommen, Kind(er) im Haushalt',
+              rentner: 'Im Ruhestand, 65+, lebt von Rente',
+              mieter: 'Mieter/in einer Wohnung',
+              vermieter: 'Vermieter/in, besitzt vermietete Immobilie(n)',
+              azubi: 'In der Berufsausbildung, geringes Einkommen',
+              migrant: 'Nicht-deutsche Staatsangehörigkeit, lebt in Deutschland',
+              schwanger: 'Schwanger oder gerade Mutter geworden, im Arbeitsverhältnis',
+              arbeitslos: 'Arbeitsuchend, bezieht Bürgergeld oder ALG I',
+            }
+            const sendQuestion = () => {
               if (chatQuestion.trim()) {
                 setChatLoading(true)
                 setChatAnswer('')
                 setChatSources([])
-                askLegalQuestion(chatQuestion).then(result => {
+                const persona = selectedPersona ? personaDesc[selectedPersona] : undefined
+                askLegalQuestion(chatQuestion, persona).then(result => {
                   setChatAnswer(result.answer)
                   setChatSources(result.sources)
                   setChatLoading(false)
                 })
               }
-            }} className="absolute right-3 top-1/2 -translate-y-1/2 p-2 bg-gold text-white rounded-xl hover:bg-gold/90 transition-colors cursor-pointer">
-              <Send className="w-5 h-5" />
-            </button>
-          </div>
+            }
+            return (
+              <div className="relative mb-8">
+                <input type="text" value={chatQuestion} onChange={e => setChatQuestion(e.target.value)}
+                  onKeyDown={e => { if (e.key === 'Enter') sendQuestion() }}
+                  placeholder={selectedPersona ? `Deine Frage als ${selectedPersona}...` : "Deine Rechtsfrage..."}
+                  className="w-full pl-5 pr-14 py-4 rounded-2xl border border-border bg-card text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
+                />
+                <button onClick={sendQuestion}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 p-2 bg-gold text-white rounded-xl hover:bg-gold/90 transition-colors cursor-pointer">
+                  <Send className="w-5 h-5" />
+                </button>
+              </div>
+            )
+          })()}
 
           {/* Answer */}
           {chatLoading && (
