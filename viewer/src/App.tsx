@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import { Search, BookOpen, ArrowLeft, Scale, FileText, Hash, ExternalLink, Sparkles, GitCompare, Lightbulb, Heart } from 'lucide-react'
 import Fuse from 'fuse.js'
-import { explainParagraph, reformDiffs } from './explain'
+import { loadExplanations, reformDiffs, type Explanations } from './explain'
 import './index.css'
 
 interface LawEntry {
@@ -39,8 +39,8 @@ function App() {
   const [lawContent, setLawContent] = useState('')
   const [loading, setLoading] = useState(true)
   const [contentSearch, setContentSearch] = useState('')
-  const [explaining, setExplaining] = useState(false)
-  const [explanation, setExplanation] = useState('')
+  const [explanations, setExplanations] = useState<Explanations | null>(null)
+  const [showExplain, setShowExplain] = useState(false)
   const [activeTab, setActiveTab] = useState<'gesetze' | 'reformen'>('gesetze')
 
   // Load index
@@ -66,11 +66,14 @@ function App() {
   const loadLaw = (id: string) => {
     setSelectedLaw(id)
     setLawContent('')
+    setExplanations(null)
+    setShowExplain(false)
     const law = laws.find(l => l.id === id)
     if (!law) return
     fetch(`./laws/${law.file}`)
       .then(r => r.text())
       .then(text => setLawContent(text))
+    loadExplanations(id).then(e => setExplanations(e))
   }
 
   // Highlight search in content
@@ -120,41 +123,21 @@ function App() {
           </div>
         </header>
 
-        {/* Explain bar */}
+        {/* Explain toggle */}
         {lawContent && (
           <div className="bg-gold-light border-b border-gold/20">
             <div className="max-w-3xl mx-auto px-5 py-3 flex items-center justify-between">
-              <p className="text-sm text-ink-soft">Gesetzestext schwer verständlich?</p>
-              <button onClick={async () => {
-                setExplaining(true)
-                setExplanation('')
-                try {
-                  const title = law?.title || ''
-                  const section = lawContent.split('\n').find(l => l.startsWith('### '))?.replace('### ', '') || ''
-                  const text = lawContent.slice(0, 2000)
-                  const result = await explainParagraph(title, section, text)
-                  setExplanation(result)
-                } catch (e) {
-                  setExplanation('Fehler bei der Erklärung. Bitte VITE_OPENAI_API_KEY in .env setzen.')
-                }
-                setExplaining(false)
-              }}
-                className="flex items-center gap-2 px-4 py-2 bg-gold text-white rounded-xl text-sm font-medium hover:bg-gold/90 transition-colors cursor-pointer">
+              <p className="text-sm text-ink-soft">
+                {explanations
+                  ? `✨ ${Object.keys(explanations.explanations).length} Paragraphen erklärt verfügbar`
+                  : 'Einfache Erklärungen werden geladen...'}
+              </p>
+              <button onClick={() => setShowExplain(!showExplain)}
+                className={`flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-medium transition-colors cursor-pointer ${showExplain ? 'bg-gold text-white' : 'bg-white text-gold border border-gold/30'}`}>
                 <Sparkles className="w-4 h-4" />
-                {explaining ? 'Wird erklärt...' : 'Einfach erklären'}
+                {showExplain ? 'Erklärungen ausblenden' : 'Einfach erklären'}
               </button>
             </div>
-            {explanation && (
-              <div className="max-w-3xl mx-auto px-5 pb-4">
-                <div className="bg-white rounded-xl p-5 border border-gold/20">
-                  <div className="flex items-center gap-2 mb-2">
-                    <Lightbulb className="w-4 h-4 text-gold" />
-                    <p className="text-sm font-bold text-gold">In einfacher Sprache</p>
-                  </div>
-                  <p className="text-ink-soft leading-relaxed">{explanation}</p>
-                </div>
-              </div>
-            )}
           </div>
         )}
 
@@ -163,7 +146,25 @@ function App() {
           {!lawContent ? (
             <div className="text-center py-20 text-ink-muted">Lade Gesetzestext...</div>
           ) : (
-            <div className="law-content" dangerouslySetInnerHTML={{ __html: html }} />
+            <>
+              <div className="law-content" dangerouslySetInnerHTML={{ __html: html }} />
+              {showExplain && explanations && (
+                <div className="mt-12 border-t border-border pt-8">
+                  <div className="flex items-center gap-2 mb-6">
+                    <Lightbulb className="w-5 h-5 text-gold" />
+                    <h2 className="font-display text-xl">Alle Paragraphen — einfach erklärt</h2>
+                  </div>
+                  <div className="space-y-4">
+                    {Object.entries(explanations.explanations).map(([section, text]) => (
+                      <div key={section} className="bg-gold-light rounded-xl p-5 border border-gold/10">
+                        <p className="font-display text-sm font-bold text-gold mb-2">{section}</p>
+                        <p className="text-ink-soft leading-relaxed">{text}</p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </>
           )}
         </main>
       </div>
