@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo } from 'react'
-import { Search, BookOpen, ArrowLeft, Scale, FileText, Hash, ExternalLink } from 'lucide-react'
+import { Search, BookOpen, ArrowLeft, Scale, FileText, Hash, ExternalLink, Sparkles, GitCompare, Lightbulb, Heart } from 'lucide-react'
 import Fuse from 'fuse.js'
+import { explainParagraph, reformDiffs } from './explain'
 import './index.css'
 
 interface LawEntry {
@@ -38,6 +39,9 @@ function App() {
   const [lawContent, setLawContent] = useState('')
   const [loading, setLoading] = useState(true)
   const [contentSearch, setContentSearch] = useState('')
+  const [explaining, setExplaining] = useState(false)
+  const [explanation, setExplanation] = useState('')
+  const [activeTab, setActiveTab] = useState<'gesetze' | 'reformen'>('gesetze')
 
   // Load index
   useEffect(() => {
@@ -116,6 +120,44 @@ function App() {
           </div>
         </header>
 
+        {/* Explain bar */}
+        {lawContent && (
+          <div className="bg-gold-light border-b border-gold/20">
+            <div className="max-w-3xl mx-auto px-5 py-3 flex items-center justify-between">
+              <p className="text-sm text-ink-soft">Gesetzestext schwer verständlich?</p>
+              <button onClick={async () => {
+                setExplaining(true)
+                setExplanation('')
+                try {
+                  const title = law?.title || ''
+                  const section = lawContent.split('\n').find(l => l.startsWith('### '))?.replace('### ', '') || ''
+                  const text = lawContent.slice(0, 2000)
+                  const result = await explainParagraph(title, section, text)
+                  setExplanation(result)
+                } catch (e) {
+                  setExplanation('Fehler bei der Erklärung. Bitte VITE_OPENAI_API_KEY in .env setzen.')
+                }
+                setExplaining(false)
+              }}
+                className="flex items-center gap-2 px-4 py-2 bg-gold text-white rounded-xl text-sm font-medium hover:bg-gold/90 transition-colors cursor-pointer">
+                <Sparkles className="w-4 h-4" />
+                {explaining ? 'Wird erklärt...' : 'Einfach erklären'}
+              </button>
+            </div>
+            {explanation && (
+              <div className="max-w-3xl mx-auto px-5 pb-4">
+                <div className="bg-white rounded-xl p-5 border border-gold/20">
+                  <div className="flex items-center gap-2 mb-2">
+                    <Lightbulb className="w-4 h-4 text-gold" />
+                    <p className="text-sm font-bold text-gold">In einfacher Sprache</p>
+                  </div>
+                  <p className="text-ink-soft leading-relaxed">{explanation}</p>
+                </div>
+              </div>
+            )}
+          </div>
+        )}
+
         {/* Law content */}
         <main className="max-w-3xl mx-auto px-5 py-8">
           {!lawContent ? (
@@ -165,6 +207,84 @@ function App() {
           </div>
         </div>
       </header>
+
+      {/* Tab bar */}
+      <div className="bg-bg border-b border-border">
+        <div className="max-w-5xl mx-auto px-5 flex gap-1 pt-2">
+          <button onClick={() => setActiveTab('gesetze')}
+            className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'gesetze' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
+            <FileText className="w-4 h-4 inline mr-1.5" />Gesetze durchsuchen
+          </button>
+          <button onClick={() => setActiveTab('reformen')}
+            className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'reformen' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
+            <GitCompare className="w-4 h-4 inline mr-1.5" />Reform-Diffs
+          </button>
+        </div>
+      </div>
+
+      {activeTab === 'reformen' ? (
+        /* ── REFORM DIFFS TAB ── */
+        <main className="max-w-4xl mx-auto px-5 py-8">
+          <div className="text-center mb-8">
+            <p className="text-sm text-gold font-bold uppercase tracking-widest mb-2">Deutschland 2030 × GitLaw</p>
+            <h2 className="font-display text-3xl mb-3">Was sich im Gesetzestext ändert</h2>
+            <p className="text-ink-muted max-w-lg mx-auto">Jede Reform verändert konkrete Paragraphen. Hier siehst du den Vorher/Nachher-Diff — Wort für Wort.</p>
+          </div>
+
+          {/* Teal Swan inspiration */}
+          <div className="bg-gold-light rounded-2xl p-6 mb-8 text-center border border-gold/10">
+            <Heart className="w-5 h-5 text-gold mx-auto mb-3" />
+            <p className="text-ink-soft italic leading-relaxed max-w-lg mx-auto">
+              "If you want someone to make a change, you need to spark their desire to change by showing them why it is in their best interest to make the change."
+            </p>
+            <p className="text-ink-muted text-sm mt-2">— Teal Swan</p>
+          </div>
+
+          <div className="space-y-6">
+            {reformDiffs.map((diff, i) => (
+              <div key={i} className="bg-card rounded-2xl border border-border overflow-hidden">
+                <div className="p-6 border-b border-border">
+                  <p className="text-xs font-bold text-gold uppercase tracking-widest mb-1">Reform</p>
+                  <h3 className="font-display text-xl mb-1">{diff.reform}</h3>
+                  <p className="text-sm text-ink-muted">{diff.affectedLaw} — {diff.paragraph}</p>
+                </div>
+
+                {/* Diff view */}
+                <div className="grid md:grid-cols-2">
+                  <div className="p-5 bg-red-light/30 border-r border-border">
+                    <p className="text-xs font-bold text-red uppercase tracking-widest mb-2">Aktueller Gesetzestext</p>
+                    <p className="text-sm text-ink-soft leading-relaxed font-mono whitespace-pre-wrap">{diff.currentText}</p>
+                  </div>
+                  <div className="p-5 bg-green-light/30">
+                    <p className="text-xs font-bold text-green uppercase tracking-widest mb-2">Nach der Reform</p>
+                    <p className="text-sm text-ink-soft leading-relaxed font-mono whitespace-pre-wrap">{diff.proposedText}</p>
+                  </div>
+                </div>
+
+                {/* Explanation + Impact */}
+                <div className="p-6 space-y-4">
+                  <div className="bg-blue-light rounded-xl p-4">
+                    <p className="text-xs font-bold text-blue uppercase tracking-widest mb-1">Was ändert sich?</p>
+                    <p className="text-ink-soft">{diff.explanation}</p>
+                  </div>
+                  <div className="bg-gold-light rounded-xl p-4">
+                    <p className="text-xs font-bold text-gold uppercase tracking-widest mb-1">Was bedeutet das für echte Menschen?</p>
+                    <p className="text-ink-soft">{diff.impact}</p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          <div className="text-center mt-10">
+            <p className="text-ink-muted text-sm mb-4">
+              Diese Diffs basieren auf den simulierten Gesetzentwürfen aus <a href="https://mikelninh.github.io/deutschland-2030/" className="text-gold hover:underline" target="_blank">Deutschland 2030</a>.
+            </p>
+          </div>
+        </main>
+      ) : (
+      /* ── GESETZE TAB ── */
+      <>
 
       {/* Featured laws */}
       <div className="bg-bg-alt border-b border-border">
@@ -265,6 +385,8 @@ function App() {
           </>
         )}
       </main>
+      </>
+      )}
 
       {/* Footer */}
       <footer className="py-8 px-5 border-t border-border text-center">
