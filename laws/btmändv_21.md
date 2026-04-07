@@ -15,11 +15,7 @@ Auf Grund des § 1 Abs. 2 des Betäubungsmittelgesetzes in der Fassung der Bekan
 
 ### Art 2 — Übergangsvorschrift
 
-Wer am 1. März 2008 mit folgenden in Artikel 1 Nr. 2 aufgeführten Stoffen und deren Zubereitungen am Verkehr im Sinne des § 3 Abs. 1 Nr. 1 des Betäubungsmittelgesetzes teilnimmt oder ausgenommene Zubereitungen herstellt (§ 3 Abs. 1 Nr. 2 des Betäubungsmittelgesetzes), bleibt dazu bis zum 1. September 2008 berechtigt. Beantragt er vor dem Ablauf dieser Frist eine Erlaubnis nach § 3 Abs. 1 des Betäubungsmittelgesetzes, so dauert die Berechtigung bis zur unanfechtbaren Ablehnung des Antrages fort. Der nach Satz 1 und 2 Berechtigte ist ab 1. März 2008 wie der Inhaber einer Erlaubnis an alle übrigen Vorschriften des Betäubungsmittelgesetzes und der dazu ergangenen Verordnungen gebunden.
-
-1.
-
-2.
+Wer am 1. März 2008 mit folgenden in Artikel 1 Nr. 2 aufgeführten Stoffen und deren Zubereitungen 1.Benzylpiperazin (BZP)2.Oripavinam Verkehr im Sinne des § 3 Abs. 1 Nr. 1 des Betäubungsmittelgesetzes teilnimmt oder ausgenommene Zubereitungen herstellt (§ 3 Abs. 1 Nr. 2 des Betäubungsmittelgesetzes), bleibt dazu bis zum 1. September 2008 berechtigt. Beantragt er vor dem Ablauf dieser Frist eine Erlaubnis nach § 3 Abs. 1 des Betäubungsmittelgesetzes, so dauert die Berechtigung bis zur unanfechtbaren Ablehnung des Antrages fort. Der nach Satz 1 und 2 Berechtigte ist ab 1. März 2008 wie der Inhaber einer Erlaubnis an alle übrigen Vorschriften des Betäubungsmittelgesetzes und der dazu ergangenen Verordnungen gebunden.
 
 ### Art 3 — Inkrafttreten
 

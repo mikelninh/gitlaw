@@ -20,17 +20,7 @@ Die Farbe der Amtstracht ist für die Richter und die Beamten bei dem Bundesdisz
 
 ### III.
 
-Am Barett tragen
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+Am Barett tragen a)der Präsident des Bundesdisziplinarhofs drei Schnüre in Gold, b)die Senatspräsidenten des Bundesdisziplinarhofs zwei Schnüre in Gold, c)die Bundesrichter und der Bundesdisziplinaranwalt zwei karmesinrote Schnüre in Seide, d)die Vorsitzenden der Bundesdisziplinarkammern eine Schnur in Silber, e)die für den Bundesdisziplinaranwalt auftretenden Beamten eine Spangein Gold, wenn sie vor dem Bundesdisziplinarhof,in Silber, wenn sie vor den Bundesdisziplinarkammern tätig werden.
 
 ### IV.
 

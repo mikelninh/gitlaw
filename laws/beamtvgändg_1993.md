@@ -29,9 +29,7 @@ Die auf Artikel 7 beruhenden Teile der dort geänderten Rechtsverordnung können
 ### Art 9 — Neufassung des Beamtenversorgungsgesetzes, des
 Soldatenversorgungsgesetzes und des Kindererziehungszuschlagsgesetzes
 
-(1) Das Bundesministerium des Innern kann den Wortlaut des Beamtenversorgungsgesetzes und des Kindererziehungszuschlagsgesetzes in der vom Inkrafttreten dieses Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
-
-(2) Das Bundesministerium der Verteidigung kann den Wortlaut des Soldatenversorgungsgesetzes in der vom Inkrafttreten dieses Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
+(1) Das Bundesministerium des Innern kann den Wortlaut des Beamtenversorgungsgesetzes und des Kindererziehungszuschlagsgesetzes in der vom Inkrafttreten dieses Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.(2) Das Bundesministerium der Verteidigung kann den Wortlaut des Soldatenversorgungsgesetzes in der vom Inkrafttreten dieses Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 ### Art 10 — Ausgleichsregelung
 
@@ -43,8 +41,4 @@ Artikel 1 Nr. 3, 7, 9, 10 Buchstabe b, Nr. 16 Buchstabe a, Nr. 17 und 24 sowie A
 
 ### Art 12 — Inkrafttreten
 
-(1) Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
-
-(2) Abweichend von Absatz 1 treten in Kraft: 1. 2. 4. 5.
-
-3.
+(1) Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.(2) Abweichend von Absatz 1 treten in Kraft: 1. 2. 3.mit Wirkung vom 1. Mai 1992 Artikel 10, 4. 5.

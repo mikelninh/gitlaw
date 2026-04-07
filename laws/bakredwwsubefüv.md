@@ -19,9 +19,7 @@ Dem Bundesaufsichtsamt für das Kreditwesen wird die Befugnis übertragen, nach 
 
 ### § 2
 
-(1) Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit Artikel 36 des in der Eingangsformel genannten Gesetzes auch im Land Berlin.
-
-(2) Diese Verordnung gilt ferner nach Artikel 3 Satz 1 in Verbindung mit Anlage I Artikel 8 § 5 des in der Eingangsformel genannten Vertrages in der Deutschen Demokratischen Republik einschließlich Berlin (Ost).
+(1) Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit Artikel 36 des in der Eingangsformel genannten Gesetzes auch im Land Berlin.(2) Diese Verordnung gilt ferner nach Artikel 3 Satz 1 in Verbindung mit Anlage I Artikel 8 § 5 des in der Eingangsformel genannten Vertrages in der Deutschen Demokratischen Republik einschließlich Berlin (Ost).
 
 ### § 3
 

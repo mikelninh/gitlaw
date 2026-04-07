@@ -12,27 +12,7 @@ Auf Grund des Artikels II § 2 Abs. 2 Satz 1 des Gesetzes über internationale P
 
 ### § 1
 
-Der Antrag auf Veröffentlichung der deutschen Übersetzung der Patentansprüche einer europäischen Patentanmeldung ist auf dem vom Deutschen Patent- und Markenamt herausgegebenen Formblatt einzureichen. Der Antrag muß in deutscher Sprache enthalten
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
+Der Antrag auf Veröffentlichung der deutschen Übersetzung der Patentansprüche einer europäischen Patentanmeldung ist auf dem vom Deutschen Patent- und Markenamt herausgegebenen Formblatt einzureichen. Der Antrag muß in deutscher Sprache enthalten 1.den Vor- und Zunamen, die Firma oder die sonstige Bezeichnung des Antragstellers, den Wohnsitz oder Sitz und die Anschrift (Postleitzahl, Ort, Straße und Hausnummer). Bei ausländischen Orten sind auch Staat und Bezirk anzugeben; ausländische Ortsnamen sind zu unterstreichen,2.den Vor- und Zunamen und die Anschrift des Erfinders,3.die Bezeichnung der Erfindung,4.das Aktenzeichen der europäischen Patentanmeldung,5.den Anmeldetag der europäischen Patentanmeldung und, falls die Priorität einer früheren Anmeldung in Anspruch genommen wurde, Tag, Staat und Aktenzeichen der Voranmeldung,6.den Veröffentlichungstag und die Veröffentlichungsnummer der europäischen Patentanmeldung,7.die vom Europäischen Patentamt vergebenen Symbole der internationalen Patentklassifikation,8.die Erklärung, daß die Veröffentlichung der Übersetzung der Patentansprüche beantragt wird,9.falls ein Vertreter bestellt worden ist, dessen Vor- und Zuname und Anschrift,10.die Unterschrift des Antragstellers oder des Vertreters.
 
 ### § 2
 

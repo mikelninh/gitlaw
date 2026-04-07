@@ -15,11 +15,7 @@ Auf Grund des § 4 der Bundesärzteordnung in der Fassung der Bekanntmachung vom
 
 ### Art 2 — Ausnahmeregelung
 
-(1) Abweichend von § 1 Abs. 2 Nr. 2 und 3 der Approbationsordnung für Ärzte können Studierende der Medizin, die im März 1981 erfolglos an der vollständigen Ärztlichen Vorprüfung teilgenommen haben, den Ersten Abschnitt der Ärztlichen Prüfung nach einem Studium der Medizin von einem halben Jahr, den Zweiten Abschnitt der Ärztlichen Prüfung nach einem Studium der Medizin von zweieinhalb Jahren nach Bestehen der Ärztlichen Vorprüfung ablegen, soweit sie bereits im Sommersemester 1981 Unterrichtsveranstaltungen gemäß Anlage 2 zur Approbationsordnung für Ärzte regelmäßig und mit Erfolg besucht haben.
-
-(2) In den Fällen des Absatzes 1 können bei Meldung zum Ersten Abschnitt der Ärztlichen Prüfung abweichend von § 10 Abs. 5 der Approbationsordnung für Ärzte die Bescheinigungen über Veranstaltungen nach Anlage 2 zur Approbationsordnung für Ärzte, die die Studenten im Sommersemester 1981 regelmäßig und mit Erfolg besucht haben, anerkannt werden.
-
-(3) Studierende nach Absatz 1 können abweichend von § 20 Abs. 1 der Approbationsordnung für Ärzte zu einer weiteren Wiederholung der Ärztlichen Vorprüfung zugelassen werden.
+(1) Abweichend von § 1 Abs. 2 Nr. 2 und 3 der Approbationsordnung für Ärzte können Studierende der Medizin, die im März 1981 erfolglos an der vollständigen Ärztlichen Vorprüfung teilgenommen haben, den Ersten Abschnitt der Ärztlichen Prüfung nach einem Studium der Medizin von einem halben Jahr, den Zweiten Abschnitt der Ärztlichen Prüfung nach einem Studium der Medizin von zweieinhalb Jahren nach Bestehen der Ärztlichen Vorprüfung ablegen, soweit sie bereits im Sommersemester 1981 Unterrichtsveranstaltungen gemäß Anlage 2 zur Approbationsordnung für Ärzte regelmäßig und mit Erfolg besucht haben.(2) In den Fällen des Absatzes 1 können bei Meldung zum Ersten Abschnitt der Ärztlichen Prüfung abweichend von § 10 Abs. 5 der Approbationsordnung für Ärzte die Bescheinigungen über Veranstaltungen nach Anlage 2 zur Approbationsordnung für Ärzte, die die Studenten im Sommersemester 1981 regelmäßig und mit Erfolg besucht haben, anerkannt werden.(3) Studierende nach Absatz 1 können abweichend von § 20 Abs. 1 der Approbationsordnung für Ärzte zu einer weiteren Wiederholung der Ärztlichen Vorprüfung zugelassen werden.
 
 ### Art 3
 

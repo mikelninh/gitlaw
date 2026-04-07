@@ -24,4 +24,4 @@ Diese Verordnung tritt am 1. Januar 2026 in Kraft.
 
 ### Anlage — (zu § 1)
 
-(Text der Anlage siehe: TVMindestlohn Gerüstb 9)
+(Fundstelle: BGBl. 2025 I Nr. 332, S. 3 - 4)(Text der Anlage siehe: TVMindestlohn Gerüstb 9)

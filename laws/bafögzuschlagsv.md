@@ -12,41 +12,19 @@ Auf Grund des § 13 Abs. 4 des Bundesausbildungsförderungsgesetzes in der Fassu
 
 ### § 1 — Zuschläge zu dem Bedarf
 
-(1) Bei einer Ausbildung im Ausland werden in den Fällen des § 5 Abs. 2 des Gesetzes nach Maßgabe dieser Verordnung folgende Zuschläge zu dem Bedarf geleistet: Satz 1 Nr. 3 und 4 gilt entsprechend für Praktika nach § 5 Abs. 5 des Gesetzes.
-
-1.
-
-2.
-
-3.
-
-4.
-
-(2) Zuschläge nach dieser Verordnung werden nicht geleistet, soweit § 12 Abs. 4 des Gesetzes gilt.
+(1) Bei einer Ausbildung im Ausland werden in den Fällen des § 5 Abs. 2 des Gesetzes nach Maßgabe dieser Verordnung folgende Zuschläge zu dem Bedarf geleistet: 1.ein monatlicher Auslandszuschlag, sofern die Ausbildung außerhalb eines Mitgliedstaates der Europäischen Union oder der Schweiz durchgeführt wird und die Kaufkraft der nach dem Gesetz gewährten Leistungen am ausländischen Ausbildungsort unter deren Kaufkraft im Inland liegt (§ 2),2.die nachweisbar notwendigen Studiengebühren (§ 3),3.Aufwendungen für Reisen zum Ort der Ausbildung (§ 4),4.Aufwendungen für die Krankenversicherung (§ 5).Satz 1 Nr. 3 und 4 gilt entsprechend für Praktika nach § 5 Abs. 5 des Gesetzes.(2) Zuschläge nach dieser Verordnung werden nicht geleistet, soweit § 12 Abs. 4 des Gesetzes gilt.
 
 ### § 2 — Höhe des Auslandszuschlags
 
-(1) Der Auslandszuschlag bemisst sich nach dem Prozentsatz, den das Auswärtige Amt zum Kaufkraftausgleich nach § 55 des Bundesbesoldungsgesetzes festsetzt. Bezugsgröße ist der Bedarf nach § 13 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 des Gesetzes.
-
-(2) Für Bewilligungszeiträume, die im ersten Halbjahr eines Jahres beginnen, ist der zum 1. Oktober des Vorjahres festgesetzte Prozentsatz maßgeblich, für Bewilligungszeiträume, die im zweiten Halbjahr eines Jahres beginnen, der zum 1. April desselben Jahres festgesetzte Prozentsatz. Der Prozentsatz gilt jeweils für den gesamten Bewilligungszeitraum.
+(1) Der Auslandszuschlag bemisst sich nach dem Prozentsatz, den das Auswärtige Amt zum Kaufkraftausgleich nach § 55 des Bundesbesoldungsgesetzes festsetzt. Bezugsgröße ist der Bedarf nach § 13 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 des Gesetzes.(2) Für Bewilligungszeiträume, die im ersten Halbjahr eines Jahres beginnen, ist der zum 1. Oktober des Vorjahres festgesetzte Prozentsatz maßgeblich, für Bewilligungszeiträume, die im zweiten Halbjahr eines Jahres beginnen, der zum 1. April desselben Jahres festgesetzte Prozentsatz. Der Prozentsatz gilt jeweils für den gesamten Bewilligungszeitraum.
 
 ### § 3 — Studiengebühren
 
-(1) Nachweisbar notwendige Studiengebühren werden längstens für die Dauer eines Jahres bis zur Höhe von 5 600 Euro geleistet.
-
-(2) Über den in Absatz 1 genannten Betrag hinaus können Studiengebühren nur geleistet werden, wenn
-
-1.
-
-2.
-
-(3) Der Auszubildende hat nachzuweisen, mit welchem Ergebnis er sich um Erlaß oder Ermäßigung der Studiengebühren bemüht hat.
+(1) Nachweisbar notwendige Studiengebühren werden längstens für die Dauer eines Jahres bis zur Höhe von 5 600 Euro geleistet.(2) Über den in Absatz 1 genannten Betrag hinaus können Studiengebühren nur geleistet werden, wenn 1.die Ausbildung nur an der gewählten Hochschule durchgeführt werden kann oder2.im Einzelfall ein besonderes Studienvorhaben des Auszubildenden nur an der gewählten Hochschule durchgeführt werden kann und dies im Hinblick auf die Leistungen des Auszubildenden besonders förderungswürdig ist. Hierüber sind gutachtliche Stellungnahmen von zwei im Inland tätigen Hochschullehrern vorzulegen. Das Amt für Ausbildungsförderung kann in Zweifelsfällen weitere gutachtliche Stellungnahmen einholen.(3) Der Auszubildende hat nachzuweisen, mit welchem Ergebnis er sich um Erlaß oder Ermäßigung der Studiengebühren bemüht hat.
 
 ### § 4 — Aufwendungen für Reisen zum Ausbildungsort
 
-(1) Für die Hinreise zum Ausbildungsort sowie für eine Rückreise wird ein Reisekostenzuschlag geleistet. Der Reisekostenzuschlag beträgt jeweils 250 Euro bei einer Reise innerhalb Europas, sonst jeweils 500 Euro.
-
-(2) In besonderen Härtefällen können die notwendigen Aufwendungen für eine weitere Hin- und Rückreise geleistet werden.
+(1) Für die Hinreise zum Ausbildungsort sowie für eine Rückreise wird ein Reisekostenzuschlag geleistet. Der Reisekostenzuschlag beträgt jeweils 250 Euro bei einer Reise innerhalb Europas, sonst jeweils 500 Euro.(2) In besonderen Härtefällen können die notwendigen Aufwendungen für eine weitere Hin- und Rückreise geleistet werden.
 
 ### § 5 — Aufwendungen für die Krankenversicherung
 

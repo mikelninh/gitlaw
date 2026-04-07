@@ -17,11 +17,7 @@ Dem in Canberra am 11. September 1980 von der Bundesrepublik Deutschland unterze
 
 ### Art 2
 
-Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, durch Rechtsverordnung
-
-1.
-
-2.
+Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, durch Rechtsverordnung 1.die von der Kommission angenommenen Maßnahmen zur Erhaltung der lebenden Meeresschätze der Antarktis nach Artikel IX Abs. 2 des Übereinkommens in Kraft zu setzen,2.das Verfahren der Überwachung zur Einhaltung dieser Maßnahmen zu regeln. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 des Grundgesetzes) kann für dieses Verfahren eingeschränkt werden.
 
 ### Art 3
 
@@ -29,6 +25,4 @@ Die Bundesanstalt für Landwirtschaft und Ernährung ist zuständig, die in Arti
 
 ### Art 4
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
-
-(2)
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2)

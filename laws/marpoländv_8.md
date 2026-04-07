@@ -22,9 +22,7 @@ Die Vorschriften der Verordnung zum Verbot von bestimmten die Ozonschicht abbaue
 
 ### Art 3
 
-(1) Seeschiffe mit einer Bruttoraumzahl von 400 und mehr, die berechtigt sind, die Bundesflagge zu führen sowie jede ortsfeste und schwimmende Bohrplattform oder sonstige meerestechnische Einrichtungen, unterliegen den Besichtigungen nach Anlage VI Regel 5 des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe. Auf solchen Schiffen müssen gültige Zeugnisse nach Maßgabe der Regeln 6 und 8 von Anlage VI in Verbindung mit Anhang 1 des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe (Internationales Zeugnis über die Verhütung der Luftverunreinigung durch Schiffe) sowie gültige Zeugnisse gemäß den Regeln 5 Abs. 4 und 13 mitgeführt werden.
-
-(2) Besichtigungen und Zeugniserteilung obliegen nach § 6 Abs. 1 Satz 1 Seeaufgabengesetz der See-Berufsgenossenschaft, die sich bei Angelegenheiten der Schiffstechnik sowie bei Überwachungsmaßnahmen im Ausland der Hilfe des Germanischen Lloyds bedient.
+(1) Seeschiffe mit einer Bruttoraumzahl von 400 und mehr, die berechtigt sind, die Bundesflagge zu führen sowie jede ortsfeste und schwimmende Bohrplattform oder sonstige meerestechnische Einrichtungen, unterliegen den Besichtigungen nach Anlage VI Regel 5 des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe. Auf solchen Schiffen müssen gültige Zeugnisse nach Maßgabe der Regeln 6 und 8 von Anlage VI in Verbindung mit Anhang 1 des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe (Internationales Zeugnis über die Verhütung der Luftverunreinigung durch Schiffe) sowie gültige Zeugnisse gemäß den Regeln 5 Abs. 4 und 13 mitgeführt werden.(2) Besichtigungen und Zeugniserteilung obliegen nach § 6 Abs. 1 Satz 1 Seeaufgabengesetz der See-Berufsgenossenschaft, die sich bei Angelegenheiten der Schiffstechnik sowie bei Überwachungsmaßnahmen im Ausland der Hilfe des Germanischen Lloyds bedient.
 
 ### Art 4
 

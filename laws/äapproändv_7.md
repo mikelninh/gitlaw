@@ -39,4 +39,4 @@ Diese Verordnung tritt mit Ausnahme des Artikels 1 Nr. 3 Buchstaben b und c und 
 
 ### Schlußformel
 
-Der Bundesrat hat zugestimmt.  Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
+Der Bundesrat hat zugestimmt. Der Bundesminister für Jugend, Familie, Frauen und Gesundheit

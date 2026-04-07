@@ -18,7 +18,7 @@ Auf Grund der §§ 45 und 46 des Arzneimittelgesetzes vom 24. August 1976 (BGBl.
 
 ### Art 3 — Gemeinsame Neufassung
 
-Der Bundesminister für Jugend, Familie, Frauen und Gesundheit kann den Wortlaut der Sachvorschriften und Anlagen der durch die Artikel 1 und 2 geänderten Verordnungen in der nach Inkrafttreten dieser Verordnung an geltenden Fassung als zusammenhängenden Wortlaut einer einzigen Verordnung mit folgender Überschrift und Gliederung im Bundesgesetzblatt bekanntmachen: Erster Abschnitt: Freigabe aus der Apothekenpflicht. Dieser Abschnitt umfaßt die §§ 1 bis 6 mit Anlagen 1a bis 3 der in Artikel 1 geänderten Verordnung. Zweiter Abschnitt: Einbeziehung in die Apothekenpflicht. Dieser Abschnitt umfaßt die §§ 7 bis 10 mit Anlagen 4, 1b und 3, die den §§ 1 bis 4 mit Anlagen 1, 2 und 3 der in Artikel 2 geänderten Verordnung entsprechen. Dritter Abschnitt: Übergangs- und Schlußvorschriften. § 11 Dieser Paragraph enthält die Übergangsregelung mit dem Wortlaut des Artikels 5 Abs. 2. § 12 Dieser Paragraph enthält die Berlin-Klausel mit dem Wortlaut des Artikels 4." Er kann dabei die Bezeichnungen der Stoffe und Zubereitungen sowie der meßtechnischen Einheiten dem neuen Stand der Wissenschaft und Technik anpassen.
+Der Bundesminister für Jugend, Familie, Frauen und Gesundheit kann den Wortlaut der Sachvorschriften und Anlagen der durch die Artikel 1 und 2 geänderten Verordnungen in der nach Inkrafttreten dieser Verordnung an geltenden Fassung als zusammenhängenden Wortlaut einer einzigen Verordnung mit folgender Überschrift und Gliederung im Bundesgesetzblatt bekanntmachen: "Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel Erster Abschnitt: Freigabe aus der Apothekenpflicht. Dieser Abschnitt umfaßt die §§ 1 bis 6 mit Anlagen 1a bis 3 der in Artikel 1 geänderten Verordnung. Zweiter Abschnitt: Einbeziehung in die Apothekenpflicht. Dieser Abschnitt umfaßt die §§ 7 bis 10 mit Anlagen 4, 1b und 3, die den §§ 1 bis 4 mit Anlagen 1, 2 und 3 der in Artikel 2 geänderten Verordnung entsprechen. Dritter Abschnitt: Übergangs- und Schlußvorschriften. § 11 Dieser Paragraph enthält die Übergangsregelung mit dem Wortlaut des Artikels 5 Abs. 2. § 12 Dieser Paragraph enthält die Berlin-Klausel mit dem Wortlaut des Artikels 4." Er kann dabei die Bezeichnungen der Stoffe und Zubereitungen sowie der meßtechnischen Einheiten dem neuen Stand der Wissenschaft und Technik anpassen.
 
 ### Art 4 — Berlin-Klausel
 
@@ -26,10 +26,8 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 
 ### Art 5 — Inkrafttreten
 
-(1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
-(2) Arzneimittel, die durch diese Verordnung apothekenpflichtig werden, bleiben noch bis zum zweiten Jahrestag des Inkrafttretens für den Verkehr außerhalb der Apotheken freigegeben.
+(1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.(2) Arzneimittel, die durch diese Verordnung apothekenpflichtig werden, bleiben noch bis zum zweiten Jahrestag des Inkrafttretens für den Verkehr außerhalb der Apotheken freigegeben.
 
 ### Schlußformel
 
-Der Bundesrat hat zugestimmt.  Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
+Der Bundesrat hat zugestimmt. Der Bundesminister für Jugend, Familie, Frauen und Gesundheit

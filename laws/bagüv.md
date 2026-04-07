@@ -12,13 +12,7 @@ Auf Grund des § 4h Satz 2 und des § 4i Satz 2 des Bundesfernstraßenmautgesetz
 
 ### § 1 — Befugnisübertragung
 
-Dem Bundesamt für Logistik und Mobilität wird die Befugnis übertragen, zu erlassen.
-
-1.
-
-2.
-
-3.
+Dem Bundesamt für Logistik und Mobilität wird die Befugnis übertragen, 1.Rechtsverordnungen nach § 3a Absatz 2 Satz 1 des Bundesfernstraßenmautgesetzes,2.Rechtsverordnungen nach § 4h Satz 1 des Bundesfernstraßenmautgesetzes und3.Rechtsverordnungen nach § 4i Satz 1 des Bundesfernstraßenmautgesetzeszu erlassen.
 
 ### § 2 — Inkrafttreten
 

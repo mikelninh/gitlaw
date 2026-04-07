@@ -40,6 +40,4 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 ### Art 8 — Inkrafttreten
 
-(1) Dieses Gesetz tritt mit Wirkung vom 1. Juli 1988 in Kraft.
-
-(2)
+(1) Dieses Gesetz tritt mit Wirkung vom 1. Juli 1988 in Kraft.(2)

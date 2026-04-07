@@ -15,7 +15,7 @@ Dem in Peking am 29. Juni 2015 von der Bundesrepublik Deutschland unterzeichnete
 
 ### Artikel 2
 
-Zur Erfüllung der Verpflichtungen, die der Bundesrepublik Deutschland aus dem Übereinkommen über die Asiatische Infrastruktur-Investitionsbank erwachsen, wird die Bundesregierung ermächtigt, vom Grundkapital 44 842 Anteile im Wert von 4,4842 Milliarden US-Dollar, davon 35 873,6 Anteile als abrufbares Haftungskapital zu erwerben.
+Zur Erfüllung der Verpflichtungen, die der Bundesrepublik Deutschland aus dem Übereinkommen über die Asiatische Infrastruktur-Investitionsbank erwachsen, wird die Bundesregierung ermächtigt, vom Grundkapital 44 842 Anteile im Wert von 4,4842 Milliarden US-Dollar, davon 35 873,6 Anteile als abrufbares Haftungskapital zu erwerben.
 
 ### Artikel 3
 
@@ -23,6 +23,4 @@ Die Deutsche Bundesbank ist Hinterlegungsstelle für die Asiatische Infrastruktu
 
 ### Artikel 4
 
-(1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 59 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.
+(1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 59 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.

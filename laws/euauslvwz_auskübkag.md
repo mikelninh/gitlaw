@@ -30,9 +30,7 @@ Soll nach Artikel 6 Abs. 1 Buchstabe a und Abs. 2 des Übereinkommens ein auslä
 
 ### § 4
 
-(1) Die zentrale Behörde kann das ausländische Schriftstück durch die Post mit Postzustellungsurkunde zustellen, wenn es in deutscher Sprache abgefaßt oder von einer Übersetzung in die deutsche Sprache begleitet ist. In diesem Falle händigt die zentrale Behörde das zu übergebende Schriftstück der Post zur Zustellung aus.
-
-(2) Die §§ 3 und 7 des Verwaltungszustellungsgesetzes finden Anwendung.
+(1) Die zentrale Behörde kann das ausländische Schriftstück durch die Post mit Postzustellungsurkunde zustellen, wenn es in deutscher Sprache abgefaßt oder von einer Übersetzung in die deutsche Sprache begleitet ist. In diesem Falle händigt die zentrale Behörde das zu übergebende Schriftstück der Post zur Zustellung aus.(2) Die §§ 3 und 7 des Verwaltungszustellungsgesetzes finden Anwendung.
 
 ### § 5
 

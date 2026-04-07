@@ -13,41 +13,7 @@ Auf Grund des § 45 Abs. 4 Satz 2 des Bundesausbildungsförderungsgesetzes in de
 
 ### § 1 — Örtliche Zuständigkeit
 
-(1) Das nach § 45 Abs. 4 des Bundesausbildungsförderungsgesetzes örtlich zuständige Amt für Ausbildungsförderung wird bestimmt für Auszubildende, die eine Ausbildungsstätte besuchen, die gelegen ist
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-(2) Wird ein neuer Staat gebildet, so besteht für Auszubildende, die eine auf seinem Gebiet gelegene Ausbildungsstätte besuchen, die örtliche Zuständigkeit des nach Absatz 1 bestimmten Amtes für Ausbildungsförderung fort.
+(1) Das nach § 45 Abs. 4 des Bundesausbildungsförderungsgesetzes örtlich zuständige Amt für Ausbildungsförderung wird bestimmt für Auszubildende, die eine Ausbildungsstätte besuchen, die gelegen ist 1.in Asien mit Ausnahme von Armenien, Aserbaidschan, Kasachstan, Kirgisistan, Tadschikistan, Turkmenistan und Usbekistan, in Spanien oder der Türkeidurch das Land Baden-Württemberg,2.in Liechtenstein, Österreich oder der Schweizdurch das Land Bayern,3.in Italien, San Marino oder Vatikanstadtdurch das Land Berlin,4.in Afrika oder Ozeaniendurch das Land Brandenburg,5.in Amerika mit Ausnahme der Vereinigten Staaten von Amerika und mit Ausnahme von Kanadadurch das Land Bremen,6.in den Vereinigten Staaten von Amerikadurch das Land Hamburg,7.in Albanien, Bosnien und Herzegowina, Griechenland, Kosovo, Kroatien, Mazedonien, Montenegro, Serbien, Slowenien, Zypern oder Australiendurch das Land Hessen,8.in Schwedendurch das Land Mecklenburg-Vorpommern,9.in Großbritannien oder Irlanddurch das Land Niedersachsen,10.Belgien, Luxemburg oder den Niederlandendurch das Land Nordrhein-Westfalen,11.in Andorra, Frankreich oder Monacodurch das Land Rheinland-Pfalz,12.in Malta oder Portugaldurch das Saarland,13.in Finnlanddurch das Land Sachsen-Anhalt,14.in Armenien, Aserbaidschan, Bulgarien, Estland, Georgien, Kasachstan, Kirgisistan, Lettland, Litauen, der Moldau, Polen, Rumänien, der Russischen Föderation, der Slowakei, Tadschikistan, Tschechien, Turkmenistan, der Ukraine, Ungarn, Usbekistan oder Weißrusslanddurch das Land Sachsen,15.in Dänemark, Island oder Norwegendurch das Land Schleswig-Holstein,16.in Kanadadurch das Land Thüringen.(2) Wird ein neuer Staat gebildet, so besteht für Auszubildende, die eine auf seinem Gebiet gelegene Ausbildungsstätte besuchen, die örtliche Zuständigkeit des nach Absatz 1 bestimmten Amtes für Ausbildungsförderung fort.
 
 ### § 2 — Zeitlicher Anwendungsbereich
 

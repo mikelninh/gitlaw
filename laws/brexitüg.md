@@ -20,12 +20,8 @@ Während des Übergangszeitraums gemäß dem Vierten Teil des Abkommens über de
 
 ### § 3 — Einbürgerung britischer und deutscher Staatsangehöriger
 
-(1) Bei britischen Staatsangehörigen, die vor Ablauf des Übergangszeitraums einen Antrag auf Einbürgerung in Deutschland gestellt haben, wird von einem sonst nach dem Staatsangehörigkeitsgesetz erforderlichen Ausscheiden aus der britischen Staatsangehörigkeit abgesehen, sofern alle weiteren Einbürgerungsvoraussetzungen vor Ablauf des Übergangszeitraums erfüllt waren und bei Einbürgerung weiterhin erfüllt sind.
-
-(2) Deutsche, die vor Ablauf des Übergangszeitraums einen Antrag auf Einbürgerung im Vereinigten Königreich Großbritannien und Nordirland gestellt haben, verlieren ihre deutsche Staatsangehörigkeit nicht nach § 25 Absatz 1 Satz 1 des Staatsangehörigkeitsgesetzes, auch wenn der Erwerb der britischen Staatsangehörigkeit erst nach Ablauf des Übergangszeitraums erfolgt.
+(1) Bei britischen Staatsangehörigen, die vor Ablauf des Übergangszeitraums einen Antrag auf Einbürgerung in Deutschland gestellt haben, wird von einem sonst nach dem Staatsangehörigkeitsgesetz erforderlichen Ausscheiden aus der britischen Staatsangehörigkeit abgesehen, sofern alle weiteren Einbürgerungsvoraussetzungen vor Ablauf des Übergangszeitraums erfüllt waren und bei Einbürgerung weiterhin erfüllt sind.(2) Deutsche, die vor Ablauf des Übergangszeitraums einen Antrag auf Einbürgerung im Vereinigten Königreich Großbritannien und Nordirland gestellt haben, verlieren ihre deutsche Staatsangehörigkeit nicht nach § 25 Absatz 1 Satz 1 des Staatsangehörigkeitsgesetzes, auch wenn der Erwerb der britischen Staatsangehörigkeit erst nach Ablauf des Übergangszeitraums erfolgt.
 
 ### § 4 — Inkrafttreten
 
-(1) Dieses Gesetz tritt an dem Tag in Kraft, an dem das Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft in Kraft tritt.
-
-(2) Das Auswärtige Amt gibt den Tag des Inkrafttretens im Bundesgesetzblatt bekannt.
+(1) Dieses Gesetz tritt an dem Tag in Kraft, an dem das Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft in Kraft tritt.(2) Das Auswärtige Amt gibt den Tag des Inkrafttretens im Bundesgesetzblatt bekannt.

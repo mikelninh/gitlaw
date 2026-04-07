@@ -12,14 +12,12 @@ Auf Grund des § 7 Absatz 1 und 2 in Verbindung mit Absatz 4 des Arbeitnehmer-En
 
 ### § 1 — Zwingende Arbeitsbedingungen
 
-(1) Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland vom 15. November 2024 (TV Mindestlohn), abgeschlossen zwischen dem Bundesinnungsverband des Gebäudereiniger-Handwerks einerseits sowie der Industriegewerkschaft Bauen-Agrar-Umwelt, Bundesvorstand, andererseits, finden auf alle nicht an den TV Mindestlohn gebundenen Arbeitgeber sowie Arbeitnehmerinnen und Arbeitnehmer Anwendung, die unter seinen am 1. Februar 2025 gültigen Geltungsbereich fallen, wenn der Betrieb oder die selbstständige Betriebsabteilung nach dem fachlichen Geltungsbereich des TV Mindestlohn überwiegend Gebäudereinigungsleistungen erbringt.
-
-(2) Die in der Anlage zu dieser Rechtsverordnung aufgeführten Rechtsnormen gelten auch für Arbeitsverhältnisse zwischen einem Arbeitgeber mit Sitz im Ausland und seinen im Geltungsbereich dieser Verordnung beschäftigten Arbeitnehmerinnen und Arbeitnehmern.
-
-(3) Wird eine Leiharbeitnehmerin oder ein Leiharbeitnehmer von einem Entleiher mit Tätigkeiten beschäftigt, die in den Geltungsbereich dieser Verordnung fallen, so hat der Verleiher ihr oder ihm nach § 8 Absatz 3 des Arbeitnehmer-Entsendegesetzes zumindest die nach dieser Verordnung vorgeschriebenen Arbeitsbedingungen zu gewähren; dies gilt auch dann, wenn der Betrieb des Entleihers nicht in den fachlichen Geltungsbereich dieser Verordnung fällt.
+(1) Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland vom 15. November 2024 (TV Mindestlohn), abgeschlossen zwischen dem Bundesinnungsverband des Gebäudereiniger-Handwerks einerseits sowie der Industriegewerkschaft Bauen-Agrar-Umwelt, Bundesvorstand, andererseits, finden auf alle nicht an den TV Mindestlohn gebundenen Arbeitgeber sowie Arbeitnehmerinnen und Arbeitnehmer Anwendung, die unter seinen am 1. Februar 2025 gültigen Geltungsbereich fallen, wenn der Betrieb oder die selbstständige Betriebsabteilung nach dem fachlichen Geltungsbereich des TV Mindestlohn überwiegend Gebäudereinigungsleistungen erbringt.(2) Die in der Anlage zu dieser Rechtsverordnung aufgeführten Rechtsnormen gelten auch für Arbeitsverhältnisse zwischen einem Arbeitgeber mit Sitz im Ausland und seinen im Geltungsbereich dieser Verordnung beschäftigten Arbeitnehmerinnen und Arbeitnehmern.(3) Wird eine Leiharbeitnehmerin oder ein Leiharbeitnehmer von einem Entleiher mit Tätigkeiten beschäftigt, die in den Geltungsbereich dieser Verordnung fallen, so hat der Verleiher ihr oder ihm nach § 8 Absatz 3 des Arbeitnehmer-Entsendegesetzes zumindest die nach dieser Verordnung vorgeschriebenen Arbeitsbedingungen zu gewähren; dies gilt auch dann, wenn der Betrieb des Entleihers nicht in den fachlichen Geltungsbereich dieser Verordnung fällt.
 
 ### § 2 — Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2025 in Kraft und mit Ablauf des 31. Dezember 2026 außer Kraft.
 
 ### Anlage — (zu § 1 Absatz 1)
+
+(Fundstelle: BGBl. 2025 I Nr. 22)(Text der Anlage siehe: TVMindestlohnGebäude 2024)

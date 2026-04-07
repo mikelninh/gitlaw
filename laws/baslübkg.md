@@ -20,6 +20,4 @@ Die Bundesregierung wird ermächtigt, Änderungen des Basler Übereinkommens sow
 
 ### Art 3
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
-
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 25 Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 25 Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

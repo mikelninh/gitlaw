@@ -13,11 +13,7 @@ Auf Grund des § 4 Abs. 2 des Soldatengesetzes in der Fassung der Bekanntmachung
 
 ### Art 1
 
-(1) Ich behalte mir das Recht zur Ernennung und Entlassung der Offiziere vor, die der Besoldungsordnung B angehören.
-
-(2) Im übrigen übertrage ich die Ausübung meiner Befugnisse dem Bundesminister der Verteidigung. Die Ausübung dieser Befugnisse kann auf andere Stellen übertragen werden. § 29 Abs. 5 des Wehrpflichtgesetzes bleibt unberührt.
-
-(3) Für besondere Fälle behalte ich mir die Ernennung und Entlassung auch in den Fällen vor, in denen ich die Ausübung meiner Befugnisse übertragen habe.
+(1) Ich behalte mir das Recht zur Ernennung und Entlassung der Offiziere vor, die der Besoldungsordnung B angehören.(2) Im übrigen übertrage ich die Ausübung meiner Befugnisse dem Bundesminister der Verteidigung. Die Ausübung dieser Befugnisse kann auf andere Stellen übertragen werden. § 29 Abs. 5 des Wehrpflichtgesetzes bleibt unberührt.(3) Für besondere Fälle behalte ich mir die Ernennung und Entlassung auch in den Fällen vor, in denen ich die Ausübung meiner Befugnisse übertragen habe.
 
 ### Art 2
 

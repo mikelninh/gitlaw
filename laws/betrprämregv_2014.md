@@ -11,9 +11,7 @@ Auf Grund des § 8 Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 2 des Marktor
 
 ### § 1 — Kürzung der Zahlungsansprüche
 
-(1) Jeder Zahlungsanspruch im Rahmen der Betriebsprämienregelung für das Jahr 2014 wird nach Maßgabe des Absatzes 2 gekürzt.
-
-(2) Die Kürzung wird vorgenommen, indem der Wert jedes Zahlungsanspruches mit dem Faktor 0,8297 multipliziert wird.
+(1) Jeder Zahlungsanspruch im Rahmen der Betriebsprämienregelung für das Jahr 2014 wird nach Maßgabe des Absatzes 2 gekürzt.(2) Die Kürzung wird vorgenommen, indem der Wert jedes Zahlungsanspruches mit dem Faktor 0,8297 multipliziert wird.
 
 ### § 2 — Inkrafttreten
 
