@@ -68,10 +68,23 @@ Jeden Montag 6:00 UTC parst ein GitHub Action alle Gesetze neu. Änderungen werd
 | Personalisierte FAQs | **72** (6 pro Profil) |
 | Aktualisierung | **Wöchentlich automatisch** |
 | Kosten für Nutzer | **€0** |
+| FAISS Vektoren | **98.367** (alle Paragraphen embedded) |
+| RAG-Suche | **Semantisch** (LangChain + OpenAI Embeddings) |
+
+## Neue Features (April 2026)
+
+- **FAISS Vector Store** — 98.367 Vektoren über ALLE Gesetze. Semantische Suche statt Keyword-Matching.
+- **Chat mit Folgefragen** — Echte Konversation, nicht nur einzelne Fragen.
+- **PDF-Export** — Jedes Gesetz als PDF herunterladen.
+- **Mandanten-Sharing** — Link zu Paragraph + Notiz generieren, an Mandanten schicken.
+- **Paragraph-Verlinkung** — `§ 573 BGB` im Text ist ein klickbarer Link zum BGB.
+- **Gesetz des Tages** — 20 kuratierte spannende/verrückte/überholte Gesetze, täglich wechselnd.
+- **Supabase-Integration** (vorbereitet) — Auth, Notizen, Chat-History, DSGVO-konform.
+- **RAG API Server** — FastAPI-Endpoint für den Vector Store.
 
 ## Erklärte Gesetze (Tier 1 + 2)
 
-GG (19), StGB (11), BGB (19), SGB V (6), SGB VI (7), SGB II (5), EStG (7), TierSchG (5), NetzDG (3), AufenthG (3), AO (4), ArbZG (4), KSchG (3), MuSchG (3), BEEG (4), AGG (3), GEG (2), StPO (4)
+GG (19), StGB (11), BGB (19), SGB V (6), SGB VI (7), SGB II (8), EStG (7), TierSchG (5), NetzDG (3), AufenthG (3), AO (4), ArbZG (4), KSchG (3), MuSchG (3), BEEG (4), AGG (3), GEG (2), StPO (4)
 
 ---
 
@@ -97,19 +110,31 @@ python parser/build_index.py     # Viewer-Index bauen
 |-----------|-------|
 | Parser | Python + lxml + requests |
 | Viewer | React + TypeScript + Vite + Tailwind + Fuse.js |
-| RAG | OpenAI GPT-4o-mini + Topic-Matching + Fuzzy-Search |
+| RAG | **LangChain + FAISS + OpenAI Embeddings** (98K Vektoren) |
+| RAG API | **FastAPI** server für Vector Store Queries |
 | AI-Erklärungen | Claude Opus 4.6 (vorab generiert, als JSON gecacht) |
+| Auth & DB | **Supabase** (PostgreSQL + Auth + RLS) |
+| PDF Export | **jsPDF** |
 | Auto-Updates | GitHub Actions (wöchentlich) |
-| Deployment | GitHub Pages |
+| Deployment | GitHub Pages (Viewer) + Hetzner/Railway (API) |
 
 ## Roadmap
 
 - [x] Phase 1: Alle Gesetze durchsuchbar
-- [x] AI-Erklärungen (112 Paragraphen)
+- [x] AI-Erklärungen (112 Paragraphen in 18 Gesetzen)
 - [x] Personalisierter RAG (12 Profile, 72 FAQs)
 - [x] Reform-Diffs (4 Reformen)
 - [x] Wöchentliche Auto-Updates
-- [ ] Phase 2: Paragraph-Kommentare + API
+- [x] FAISS Vector Store (98K Vektoren, semantische Suche)
+- [x] Chat mit Folgefragen (Konversations-History)
+- [x] PDF-Export
+- [x] Mandanten-Sharing (Link + Notiz)
+- [x] Paragraph-Verlinkung (30+ Gesetze)
+- [x] Gesetz des Tages (20 kuratierte Gesetze)
+- [x] Supabase-Schema (Auth, Notizen, Chat-History, DSGVO)
+- [x] RAG API Server (FastAPI)
+- [ ] Supabase UI-Integration (Login, Profil, Notizen)
+- [ ] Versions-Vergleich (Git-Diffs für Gesetzesänderungen)
 - [ ] Phase 3: Lobbying-Transparenz
 
 ## Verwandt
