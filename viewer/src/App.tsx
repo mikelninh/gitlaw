@@ -3,6 +3,7 @@ import { Search, BookOpen, ArrowLeft, Scale, FileText, Hash, ExternalLink, Spark
 import Fuse from 'fuse.js'
 import { loadExplanations, reformDiffs, type Explanations } from './explain'
 import { askLegalQuestion } from './rag'
+import { getDailyLaw, dailyLaws, getCategoryColor } from './daily-law'
 import './index.css'
 
 interface LawEntry {
@@ -38,7 +39,7 @@ function App() {
   const [search, setSearch] = useState('')
   const [selectedLaw, setSelectedLaw] = useState<string | null>(null)
   const [lawContent, setLawContent] = useState('')
-  const [loading, setLoading] = useState(true)
+  const [_loading, setLoading] = useState(true)
   const [contentSearch, setContentSearch] = useState('')
   const [explanations, setExplanations] = useState<Explanations | null>(null)
   const [showExplain, setShowExplain] = useState(false)
@@ -530,7 +531,7 @@ function App() {
         </main>
       ) : (
       /* ── GESETZE TAB ── */
-      <>
+      <div>
 
       {/* Featured laws */}
       <div className="bg-bg-alt border-b border-border">
@@ -560,78 +561,99 @@ function App() {
         </div>
       </div>
 
-      {/* Recently updated / notable */}
-      {!search && (
-        <div className="max-w-5xl mx-auto px-5 py-6">
-          <p className="text-xs font-bold text-ink-muted uppercase tracking-widest mb-3">Zuletzt geändert</p>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-2">
-            {laws
-              .filter(l => l.stand && l.stand.includes('2025') || l.stand && l.stand.includes('2026') || l.stand && l.stand.includes('2024'))
-              .slice(0, 6)
-              .map(law => (
-                <button key={law.id} onClick={() => loadLaw(law.id)}
-                  className="flex items-start gap-3 p-4 rounded-xl bg-card border border-border hover:border-gold/30 hover:shadow-sm transition-all cursor-pointer text-left">
-                  <Scale className="w-4 h-4 text-gold mt-0.5 shrink-0" />
-                  <div className="min-w-0">
-                    <p className="text-sm font-bold text-ink truncate">{law.abbreviation || law.title}</p>
-                    <p className="text-xs text-ink-muted truncate">{law.title}</p>
-                    <p className="text-[11px] text-gold mt-1">{law.stand?.slice(0, 60)}</p>
-                  </div>
-                </button>
-              ))}
-          </div>
-        </div>
-      )}
-
-      {/* Law list */}
+      {/* Daily Law + curated content (only when NOT searching) */}
+      {!search ? (
       <main className="max-w-5xl mx-auto px-5 py-8">
-        {loading ? (
-          <div className="text-center py-20 text-ink-muted">Lade Gesetzes-Index...</div>
-        ) : (
-          <>
-            <p className="text-sm text-ink-muted mb-4">
-              {search ? `${filtered.length} Ergebnisse für „${search}"` : `${filtered.length} Gesetze`}
-            </p>
-            <div className="space-y-1">
-              {filtered.slice(0, 100).map(law => (
-                <button
-                  key={law.id}
-                  onClick={() => loadLaw(law.id)}
-                  className="w-full flex items-center justify-between p-4 rounded-xl hover:bg-card hover:shadow-sm border border-transparent hover:border-border transition-all text-left cursor-pointer group"
-                >
-                  <div className="flex-1 min-w-0">
-                    <div className="flex items-center gap-3">
-                      {law.abbreviation && (
-                        <span className="text-xs font-bold text-gold bg-gold-light px-2 py-0.5 rounded shrink-0">
-                          {law.abbreviation}
-                        </span>
-                      )}
-                      <span className="font-display text-[15px] group-hover:text-gold transition-colors truncate">
-                        {law.title}
-                      </span>
-                    </div>
-                    {law.date && (
-                      <span className="text-xs text-ink-muted ml-0 sm:ml-[calc(var(--abbr-width)+12px)]">
-                        {law.date}
-                      </span>
-                    )}
-                  </div>
-                  <div className="flex items-center gap-4 shrink-0 ml-4">
-                    <span className="text-xs text-ink-muted hidden sm:block">{law.sections} §§</span>
-                    <ArrowLeft className="w-4 h-4 text-ink-muted/30 rotate-180 group-hover:text-gold transition-colors" />
-                  </div>
+        {/* Daily Law */}
+        {(() => {
+          const daily = getDailyLaw()
+          return (
+            <div className="bg-card rounded-2xl border border-gold/20 p-6 sm:p-8 mb-8 shadow-sm">
+              <div className="flex items-center gap-2 mb-4">
+                <span className="text-2xl">{daily.emoji}</span>
+                <div>
+                  <p className="text-[11px] font-bold text-gold uppercase tracking-widest">Gesetz des Tages</p>
+                  <span className={`text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full ${getCategoryColor(daily.category)}`}>{daily.category}</span>
+                </div>
+              </div>
+              <h3 className="font-display text-xl sm:text-2xl mb-2">{daily.title}</h3>
+              <p className="text-sm text-ink-muted mb-3">{daily.law} — {daily.paragraph} ({daily.year})</p>
+              <p className="text-ink-soft leading-relaxed mb-4">{daily.context}</p>
+              {daily.funFact && (
+                <div className="bg-gold-light rounded-xl p-4 mb-3">
+                  <p className="text-sm text-ink-soft"><strong className="text-gold">Fun Fact:</strong> {daily.funFact}</p>
+                </div>
+              )}
+              {daily.needsUpdate && (
+                <div className="bg-red-light rounded-xl p-4">
+                  <p className="text-sm text-ink-soft"><strong className="text-red">Braucht ein Update:</strong> {daily.needsUpdate}</p>
+                </div>
+              )}
+              {daily.lawId && (
+                <button onClick={() => loadLaw(daily.lawId!)} className="mt-3 text-sm text-gold hover:underline cursor-pointer">
+                  → Gesetz im Volltext lesen
                 </button>
-              ))}
-              {filtered.length > 100 && (
-                <p className="text-center text-ink-muted text-sm py-4">
-                  Zeige 100 von {filtered.length} — verfeinere deine Suche
-                </p>
               )}
             </div>
-          </>
-        )}
+          )
+        })()}
+
+        {/* More interesting laws */}
+        <p className="text-[11px] font-bold text-ink-muted uppercase tracking-widest mb-3">Spannende Gesetze entdecken</p>
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-2 mb-10">
+          {dailyLaws.filter(l => l.id !== getDailyLaw().id).slice(0, 9).map(law => (
+            <div key={law.id} className="bg-card rounded-xl border border-border p-4 hover:border-gold/30 hover:shadow-sm transition-all cursor-default">
+              <div className="flex items-center gap-2 mb-2">
+                <span className="text-lg">{law.emoji}</span>
+                <span className={`text-[9px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded-full ${getCategoryColor(law.category)}`}>{law.category}</span>
+              </div>
+              <h4 className="font-display text-sm mb-1">{law.title}</h4>
+              <p className="text-[12px] text-ink-muted leading-relaxed">{law.context.slice(0, 120)}...</p>
+              {law.lawId && (
+                <button onClick={() => loadLaw(law.lawId!)} className="mt-2 text-[12px] text-gold hover:underline cursor-pointer">→ Gesetz lesen</button>
+              )}
+            </div>
+          ))}
+        </div>
+
+        {/* Recently updated */}
+        <p className="text-[11px] font-bold text-ink-muted uppercase tracking-widest mb-3">Zuletzt geändert (2025/2026)</p>
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-2">
+          {laws
+            .filter(l => l.stand && (l.stand.includes('2025') || l.stand.includes('2026')))
+            .slice(0, 6)
+            .map(law => (
+              <button key={law.id} onClick={() => loadLaw(law.id)}
+                className="flex items-start gap-3 p-3 rounded-xl bg-card border border-border hover:border-gold/30 transition-all cursor-pointer text-left">
+                <Scale className="w-4 h-4 text-gold mt-0.5 shrink-0" />
+                <div className="min-w-0">
+                  <p className="text-sm font-bold text-ink truncate">{law.abbreviation || law.title}</p>
+                  <p className="text-[11px] text-ink-muted truncate">{law.title}</p>
+                </div>
+              </button>
+            ))}
+        </div>
       </main>
-      </>
+      ) : (
+      /* Search results */
+      <main className="max-w-5xl mx-auto px-5 py-8">
+        <p className="text-sm text-ink-muted mb-4">{filtered.length} Ergebnisse für „{search}"</p>
+        <div className="space-y-1">
+          {filtered.slice(0, 50).map(law => (
+            <button key={law.id} onClick={() => loadLaw(law.id)}
+              className="w-full flex items-center justify-between p-4 rounded-xl hover:bg-card hover:shadow-sm border border-transparent hover:border-border transition-all text-left cursor-pointer group">
+              <div className="flex items-center gap-3 min-w-0">
+                {law.abbreviation && <span className="text-xs font-bold text-gold bg-gold-light px-2 py-0.5 rounded shrink-0">{law.abbreviation}</span>}
+                <span className="font-display text-[15px] group-hover:text-gold truncate">{law.title}</span>
+              </div>
+              <span className="text-xs text-ink-muted shrink-0 ml-4">{law.sections} §§</span>
+            </button>
+          ))}
+          {filtered.length > 50 && <p className="text-center text-ink-muted text-sm py-4">Zeige 50 von {filtered.length} — verfeinere deine Suche</p>}
+        </div>
+      </main>
+      )}
+      </div>
       )}
 
       {/* Footer */}
