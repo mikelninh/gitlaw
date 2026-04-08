@@ -68,6 +68,8 @@ function App() {
   const [contentSearch, setContentSearch] = useState('')
   const [explanations, setExplanations] = useState<Explanations | null>(null)
   const [showExplain, setShowExplain] = useState(false)
+  const [liveExplaining, setLiveExplaining] = useState(false)
+  const [liveExplanation, setLiveExplanation] = useState('')
   const [activeTab, setActiveTab] = useState<'gesetze' | 'reformen' | 'fragen' | 'briefe'>('gesetze')
   const [activeTemplate, setActiveTemplate] = useState<string | null>(null)
   const [templateFields, setTemplateFields] = useState<Record<string, string>>({})
@@ -109,6 +111,7 @@ function App() {
     setLawContent('')
     setExplanations(null)
     setShowExplain(false)
+    setLiveExplanation('')
     const law = laws.find(l => l.id === id)
     if (!law) return
     fetch(`./laws/${law.file}`)
@@ -224,17 +227,41 @@ function App() {
             </div>
           </div>
         )}
-        {/* No pre-cached explanations — suggest using chat */}
+        {/* No pre-cached explanations — offer live AI explanation */}
         {lawContent && (!explanations || Object.keys(explanations.explanations).length === 0) && (
-          <div className="bg-bg-alt border-b border-border">
-            <div className="max-w-3xl mx-auto px-5 py-3 flex items-center justify-between">
-              <p className="text-sm text-ink-muted">
-                Dieses Gesetz hat noch keine vorab-Erklärungen. Stell deine Frage im Chat!
-              </p>
-              <button onClick={() => setActiveTab('fragen')}
-                className="flex items-center gap-2 px-4 py-2 bg-gold text-white rounded-xl text-sm font-medium hover:bg-gold/90 transition-colors cursor-pointer">
-                <MessageCircle className="w-4 h-4" /> Frage stellen
-              </button>
+          <div className="bg-gold-light border-b border-gold/20">
+            <div className="max-w-3xl mx-auto px-5 py-3">
+              <div className="flex items-center justify-between">
+                <p className="text-sm text-ink-soft">Gesetzestext schwer verständlich?</p>
+                <button onClick={async () => {
+                  if (liveExplaining) return
+                  setLiveExplaining(true)
+                  setLiveExplanation('')
+                  try {
+                    const result = await askLegalQuestion(
+                      `Erkläre mir dieses Gesetz in einfacher Sprache. Was regelt es? Für wen ist es relevant? Was sind die wichtigsten Punkte? Gesetz: ${law?.title || ''}\n\nText (Auszug):\n${lawContent.slice(0, 2000)}`
+                    )
+                    setLiveExplanation(result.answer)
+                  } catch {
+                    setLiveExplanation('Fehler bei der Erklärung. Bitte stelle deine Frage im Chat-Tab.')
+                  }
+                  setLiveExplaining(false)
+                }}
+                  disabled={liveExplaining}
+                  className="flex items-center gap-2 px-4 py-2 bg-gold text-white rounded-xl text-sm font-medium hover:bg-gold/90 transition-colors cursor-pointer disabled:opacity-50">
+                  <Sparkles className="w-4 h-4" />
+                  {liveExplaining ? 'Wird erklärt...' : 'Einfach erklären'}
+                </button>
+              </div>
+              {liveExplanation && (
+                <div className="mt-3 bg-white rounded-xl p-5 border border-gold/20">
+                  <div className="flex items-center gap-2 mb-2">
+                    <Lightbulb className="w-4 h-4 text-gold" />
+                    <span className="text-sm font-bold text-gold">In einfacher Sprache</span>
+                  </div>
+                  <p className="text-ink-soft leading-relaxed whitespace-pre-wrap">{liveExplanation}</p>
+                </div>
+              )}
             </div>
           </div>
         )}
