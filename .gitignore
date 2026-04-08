@@ -5,3 +5,4 @@ parser/fetch_log.txt
 .DS_Store
 rag/vectorstore/index.faiss
 rag/vectorstore/index.pkl
+.vercel

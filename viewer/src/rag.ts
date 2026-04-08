@@ -222,7 +222,8 @@ export async function askLegalQuestion(
   // If no local API key, use Vercel serverless API (free, secure)
   if (!API_KEY) {
     try {
-      const resp = await fetch('/api/ask', {
+      const apiUrl = import.meta.env.VITE_API_URL || ''
+      const resp = await fetch(`${apiUrl}/api/ask`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
