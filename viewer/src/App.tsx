@@ -64,9 +64,8 @@ function App() {
   const [explanations, setExplanations] = useState<Explanations | null>(null)
   const [showExplain, setShowExplain] = useState(false)
   const [activeTab, setActiveTab] = useState<'gesetze' | 'reformen' | 'fragen'>('gesetze')
-  const [chatQuestion, setChatQuestion] = useState('')
-  const [chatAnswer, setChatAnswer] = useState('')
-  const [chatSources, setChatSources] = useState<{law: string; section: string}[]>([])
+  const [chatInput, setChatInput] = useState('')
+  const [chatMessages, setChatMessages] = useState<{role: 'user' | 'assistant'; text: string; sources?: {law: string; section: string}[]}[]>([])
   const [chatLoading, setChatLoading] = useState(false)
   const [selectedPersona, setSelectedPersona] = useState<string | null>(null)
 
@@ -471,7 +470,7 @@ function App() {
               'Darf mein Chef mich kündigen?',
               'Was sind meine Grundrechte?',
             ]).map(q => (
-              <button key={q} onClick={() => setChatQuestion(q)}
+              <button key={q} onClick={() => setChatInput(q)}
                 className="px-3 py-2 rounded-xl text-sm bg-card border border-border text-ink-muted hover:text-gold hover:border-gold/30 cursor-pointer transition-colors">
                 {q}
               </button>
@@ -495,27 +494,29 @@ function App() {
               arbeitslos: 'Arbeitsuchend, bezieht Bürgergeld oder ALG I',
             }
             const sendQuestion = () => {
-              if (chatQuestion.trim()) {
+              if (chatInput.trim() && !chatLoading) {
+                const question = chatInput.trim()
+                setChatInput('')
                 setChatLoading(true)
-                setChatAnswer('')
-                setChatSources([])
+                const newMsgs = [...chatMessages, { role: 'user' as const, text: question }]
+                setChatMessages(newMsgs)
+                const history = chatMessages.map(m => ({ role: m.role, content: m.text }))
                 const persona = selectedPersona ? personaDesc[selectedPersona] : undefined
-                askLegalQuestion(chatQuestion, persona).then(result => {
-                  setChatAnswer(result.answer)
-                  setChatSources(result.sources)
+                askLegalQuestion(question, persona, history).then(result => {
+                  setChatMessages(prev => [...prev, { role: 'assistant' as const, text: result.answer, sources: result.sources }])
                   setChatLoading(false)
                 })
               }
             }
             return (
-              <div className="relative mb-8">
-                <input type="text" value={chatQuestion} onChange={e => setChatQuestion(e.target.value)}
+              <div className="relative mb-4">
+                <input type="text" value={chatInput} onChange={e => setChatInput(e.target.value)}
                   onKeyDown={e => { if (e.key === 'Enter') sendQuestion() }}
-                  placeholder={selectedPersona ? `Deine Frage als ${selectedPersona}...` : "Deine Rechtsfrage..."}
+                  placeholder={chatMessages.length > 0 ? "Folgefrage stellen..." : (selectedPersona ? `Deine Frage als ${selectedPersona}...` : "Deine Rechtsfrage...")}
                   className="w-full pl-5 pr-14 py-4 rounded-2xl border border-border bg-card text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
                 />
-                <button onClick={sendQuestion}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 p-2 bg-gold text-white rounded-xl hover:bg-gold/90 transition-colors cursor-pointer">
+                <button onClick={sendQuestion} disabled={chatLoading}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 p-2 bg-gold text-white rounded-xl hover:bg-gold/90 transition-colors cursor-pointer disabled:opacity-50">
                   <Send className="w-5 h-5" />
                 </button>
               </div>
@@ -523,35 +524,33 @@ function App() {
           })()}
 
           {/* Answer */}
-          {chatLoading && (
-            <div className="bg-card rounded-2xl p-8 border border-border text-center text-ink-muted">
-              Suche in den Gesetzen und formuliere Antwort...
-            </div>
-          )}
-          {chatAnswer && (
-            <div className="bg-card rounded-2xl border border-border overflow-hidden">
-              <div className="p-6">
-                <div className="flex items-center gap-2 mb-3">
-                  <Scale className="w-5 h-5 text-gold" />
-                  <p className="font-display text-lg">Antwort</p>
-                </div>
-                <p className="text-ink-soft leading-relaxed whitespace-pre-wrap">{chatAnswer}</p>
-              </div>
-              {chatSources.length > 0 && (
-                <div className="p-4 bg-bg-alt border-t border-border">
-                  <p className="text-xs font-bold text-ink-muted uppercase tracking-widest mb-2">Quellen (echte Gesetzestexte)</p>
-                  <div className="flex flex-wrap gap-2">
-                    {chatSources.map((s, i) => (
-                      <span key={i} className="text-xs bg-card px-2 py-1 rounded border border-border text-ink-muted">
-                        {s.law} — {s.section}
-                      </span>
-                    ))}
+          {/* Chat messages */}
+          {chatMessages.length > 0 && (
+            <div className="space-y-3 mb-4">
+              {chatMessages.map((msg, i) => (
+                <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
+                  <div className={`max-w-[85%] rounded-2xl p-4 ${msg.role === 'user' ? 'bg-gold text-white' : 'bg-card border border-border'}`}>
+                    {msg.role === 'assistant' && (
+                      <div className="flex items-center gap-2 mb-2">
+                        <Scale className="w-4 h-4 text-gold" />
+                        <span className="text-[11px] font-bold text-gold uppercase tracking-wider">Rechts-Assistent</span>
+                      </div>
+                    )}
+                    <p className={`text-sm leading-relaxed whitespace-pre-wrap ${msg.role === 'user' ? 'text-white' : 'text-ink-soft'}`}>{msg.text}</p>
+                    {msg.sources && msg.sources.length > 0 && (
+                      <div className="flex flex-wrap gap-1 mt-3 pt-2 border-t border-border/50">
+                        {msg.sources.map((s, j) => (
+                          <span key={j} className="text-[10px] bg-bg-alt px-2 py-0.5 rounded text-ink-muted">{s.law} — {s.section}</span>
+                        ))}
+                      </div>
+                    )}
                   </div>
                 </div>
+              ))}
+              {chatLoading && (
+                <div className="flex justify-start"><div className="bg-card border border-border rounded-2xl px-5 py-3 text-sm text-ink-muted">Suche in Gesetzen...</div></div>
               )}
-              <div className="p-3 bg-gold-light border-t border-gold/10 text-center">
-                <p className="text-xs text-gold">⚠️ Dies ist keine Rechtsberatung. Bei konkreten Rechtsfragen wende dich an einen Anwalt.</p>
-              </div>
+              <p className="text-center text-[11px] text-gold">⚠️ Keine Rechtsberatung. Bei konkreten Fragen → Anwalt.</p>
             </div>
           )}
         </main>

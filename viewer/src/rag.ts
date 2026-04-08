@@ -200,7 +200,16 @@ async function findRelevantChunks(question: string, persona?: string): Promise<L
   return chunks.slice(0, 5)
 }
 
-export async function askLegalQuestion(question: string, persona?: string): Promise<{
+export interface ChatMessage {
+  role: 'user' | 'assistant'
+  content: string
+}
+
+export async function askLegalQuestion(
+  question: string,
+  persona?: string,
+  history: ChatMessage[] = []
+): Promise<{
   answer: string
   sources: { law: string; section: string }[]
 }> {
@@ -211,7 +220,9 @@ export async function askLegalQuestion(question: string, persona?: string): Prom
     }
   }
 
-  const chunks = await findRelevantChunks(question, persona)
+  // Search using the full conversation context for better retrieval
+  const allText = [question, ...history.map(m => m.content)].join(' ')
+  const chunks = await findRelevantChunks(allText, persona)
 
   const context = chunks.map(c =>
     `[${c.law} — ${c.section}]\n${c.text}`
@@ -222,30 +233,35 @@ export async function askLegalQuestion(question: string, persona?: string): Prom
   const client = new OpenAI({ apiKey: API_KEY, dangerouslyAllowBrowser: true })
 
   const personaContext = persona
-    ? `\n\nDie Person die fragt: ${persona}. Beziehe dich konkret auf ihre Situation. Nenne Paragraphen die FÜR SIE relevant sind.`
+    ? `\n\nDie Person die fragt: ${persona}. Beziehe dich konkret auf ihre Situation.`
     : ''
 
-  const resp = await client.chat.completions.create({
-    model: 'gpt-4o-mini',
-    messages: [
-      {
-        role: 'system',
-        content: `Du bist ein freundlicher Rechtsberater der Fragen zum deutschen Recht beantwortet.
+  // Build conversation messages
+  const messages: {role: 'system' | 'user' | 'assistant'; content: string}[] = [
+    {
+      role: 'system',
+      content: `Du bist ein freundlicher Rechtsberater der Fragen zum deutschen Recht beantwortet.
 
 WICHTIG:
 - Antworte NUR basierend auf den bereitgestellten Gesetzestexten
-- Wenn die Quellen die Frage nicht beantworten, sag ehrlich: "Dazu habe ich leider keine passenden Gesetzestexte. Bitte wende dich an einen Anwalt."
+- Wenn die Quellen die Frage nicht beantworten, sag ehrlich: "Dazu habe ich leider keine passenden Gesetzestexte."
 - Erfinde KEINE Paragraphen
 - Nenne immer die relevanten Paragraphen aus den Quellen
 - Erkläre einfach und verständlich
-- Gib ein konkretes Alltagsbeispiel
+- Bei Folgefragen: beziehe dich auf den bisherigen Gesprächsverlauf
 - Maximal 5-6 Sätze${personaContext}
 
 GESETZLICHE QUELLEN:
 ${context || 'Keine passenden Quellen gefunden.'}`
       },
-      { role: 'user', content: question }
-    ],
+      // Include conversation history
+      ...history.map(m => ({ role: m.role as 'user' | 'assistant', content: m.content })),
+      { role: 'user' as const, content: question }
+    ]
+
+  const resp = await client.chat.completions.create({
+    model: 'gpt-4o-mini',
+    messages,
     max_tokens: 400,
     temperature: 0.2,
   })
