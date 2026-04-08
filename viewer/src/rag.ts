@@ -222,7 +222,7 @@ export async function askLegalQuestion(
   // If no local API key, use Vercel serverless API (free, secure)
   if (!API_KEY) {
     try {
-      const apiUrl = import.meta.env.VITE_API_URL || ''
+      const apiUrl = import.meta.env.VITE_API_URL || 'https://gitlaw-xi.vercel.app'
       const resp = await fetch(`${apiUrl}/api/ask`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
