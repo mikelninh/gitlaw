@@ -1,1 +1,14 @@
-{"law":"Sozialgesetzbuch II - Bürgergeld","file":"sgb_2.md","explanations":{"§ 1 — Aufgabe":"Bürgergeld hilft Menschen die zu wenig Geld zum Leben haben. Ziel: möglichst schnell wieder selbst für sich sorgen können. Beispiel: Job verloren, monatelang nichts gefunden — Jobcenter hilft mit Geld und Beratung.","§ 7 — Leistungsberechtigte":"Bürgergeld bekommt wer 15-67 ist, in Deutschland lebt, arbeitsfähig ist und zu wenig Geld hat. Auch Familienmitglieder können Leistungen bekommen.","§ 20 — Regelbedarf":"Fester monatlicher Betrag für Essen, Kleidung, Strom und Alltag. Aktuell ~563€ für Alleinstehende. Wird jährlich neu berechnet.","§ 22 — Unterkunft und Heizung":"Jobcenter zahlt Miete + Heizung bis zur angemessenen Höhe. Was angemessen ist hängt von Stadt und Haushaltsgröße ab.","§ 31 — Sanktionen":"Termin ohne Grund verpasst oder zumutbare Arbeit abgelehnt → Bürgergeld wird gekürzt. Erste Verletzung meist 10%. Beispiel: Nicht zum Beratungsgespräch gegangen ohne Entschuldigung → Kürzung im nächsten Monat."}}
+{
+  "law": "Sozialgesetzbuch II - Bürgergeld",
+  "file": "sgb_2.md",
+  "explanations": {
+    "§ 1 — Aufgabe": "Bürgergeld hilft Menschen die zu wenig Geld zum Leben haben. Ziel: möglichst schnell wieder selbst für sich sorgen können. Beispiel: Job verloren, monatelang nichts gefunden — Jobcenter hilft mit Geld und Beratung.",
+    "§ 7 — Leistungsberechtigte": "Bürgergeld bekommt wer 15-67 ist, in Deutschland lebt, arbeitsfähig ist und zu wenig Geld hat. Auch Familienmitglieder können Leistungen bekommen.",
+    "§ 20 — Regelbedarf": "Fester monatlicher Betrag für Essen, Kleidung, Strom und Alltag. Aktuell ~563€ für Alleinstehende. Wird jährlich neu berechnet.",
+    "§ 22 — Unterkunft und Heizung": "Jobcenter zahlt Miete + Heizung bis zur angemessenen Höhe. Was angemessen ist hängt von Stadt und Haushaltsgröße ab.",
+    "§ 31 — Sanktionen": "Termin ohne Grund verpasst oder zumutbare Arbeit abgelehnt → Bürgergeld wird gekürzt. Erste Verletzung meist 10%. Beispiel: Nicht zum Beratungsgespräch gegangen ohne Entschuldigung → Kürzung im nächsten Monat.",
+    "§ 11b — Freibeträge bei Erwerbseinkommen": "Wenn du Bürgergeld bekommst und nebenbei arbeitest, darfst du einen Teil behalten. Die ersten 100€ sind komplett frei. Darüber behältst du 20% (bis 520€) und 10% (bis 1.000€). Beispiel: Du verdienst 520€ im Minijob → du behältst 100€ + 84€ = 184€ davon, der Rest wird angerechnet.",
+    "§ 12 — Vermögen und Schonvermögen": "Bevor du Bürgergeld bekommst, wird dein Vermögen geprüft. Aber: Im ersten Jahr ist Vermögen bis 40.000€ geschützt (Karenzzeit). Danach: 15.000€ pro Person. Dein Auto bis 15.000€ Wert und selbstbewohnte Immobilie sind geschützt. Beispiel: Du hast 10.000€ auf dem Konto → du bekommst trotzdem Bürgergeld.",
+    "§ 31a — Höhe der Sanktionen": "Bei Pflichtverletzungen wird dein Bürgergeld gekürzt: Meldeversäumnis = 10% für 1 Monat. Erste Arbeitsverweigerung = 30% für 1 Monat. Wiederholung = 30% für 2 Monate. Maximal 30% Kürzung — keine Totalstreichung mehr. Miete wird nie gekürzt."
+  }
+}

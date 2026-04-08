@@ -51,7 +51,13 @@ const topicMap: Record<string, string[]> = {
   'bürgergeld': ['sgb_2'], 'hartz': ['sgb_2'], 'arbeitslos': ['sgb_2'],
   'jobcenter': ['sgb_2'], 'grundsicherung': ['sgb_2'], 'sozialhilfe': ['sgb_2'],
   'sanktion': ['sgb_2'], 'regelsatz': ['sgb_2'], 'wohngeld': ['sgb_2'],
-  'hinzuverdienst': ['sgb_2'],
+  'hinzuverdienst': ['sgb_2'], 'dazuverdienen': ['sgb_2'], 'nebenverdienst': ['sgb_2'],
+  'zuverdienst': ['sgb_2'], 'nebenjob': ['sgb_2'], 'minijob': ['sgb_2'],
+  'pfändung': ['sgb_2'], 'schulden': ['sgb_2'], 'vermögen': ['sgb_2'],
+  'anrechnung': ['sgb_2'], 'freibetrag': ['sgb_2'], 'leistung': ['sgb_2'],
+  'antrag': ['sgb_2'], 'bescheid': ['sgb_2'], 'widerspruch': ['sgb_2'],
+  'maßnahme': ['sgb_2'], 'eingliederung': ['sgb_2'],
+  'umschulung': ['sgb_2'], 'weiterbildung': ['sgb_2'],
 
   // Steuern
   'steuer': ['estg', 'ao_1977'], 'steuererklärung': ['estg', 'ao_1977'],
