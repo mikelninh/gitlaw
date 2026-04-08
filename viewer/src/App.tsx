@@ -209,19 +209,31 @@ function App() {
           </div>
         )}
 
-        {/* Explain toggle */}
-        {lawContent && (
+        {/* Explain toggle — only show if explanations exist */}
+        {lawContent && explanations && Object.keys(explanations.explanations).length > 0 && (
           <div className="bg-gold-light border-b border-gold/20">
             <div className="max-w-3xl mx-auto px-5 py-3 flex items-center justify-between">
               <p className="text-sm text-ink-soft">
-                {explanations
-                  ? `✨ ${Object.keys(explanations.explanations).length} Paragraphen erklärt verfügbar`
-                  : 'Einfache Erklärungen werden geladen...'}
+                ✨ {Object.keys(explanations.explanations).length} Paragraphen in einfacher Sprache erklärt
               </p>
               <button onClick={() => setShowExplain(!showExplain)}
                 className={`flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-medium transition-colors cursor-pointer ${showExplain ? 'bg-gold text-white' : 'bg-white text-gold border border-gold/30'}`}>
                 <Sparkles className="w-4 h-4" />
-                {showExplain ? 'Erklärungen ausblenden' : 'Einfach erklären'}
+                {showExplain ? 'Ausblenden' : 'Erklärungen zeigen'}
+              </button>
+            </div>
+          </div>
+        )}
+        {/* No pre-cached explanations — suggest using chat */}
+        {lawContent && (!explanations || Object.keys(explanations.explanations).length === 0) && (
+          <div className="bg-bg-alt border-b border-border">
+            <div className="max-w-3xl mx-auto px-5 py-3 flex items-center justify-between">
+              <p className="text-sm text-ink-muted">
+                Dieses Gesetz hat noch keine vorab-Erklärungen. Stell deine Frage im Chat!
+              </p>
+              <button onClick={() => setActiveTab('fragen')}
+                className="flex items-center gap-2 px-4 py-2 bg-gold text-white rounded-xl text-sm font-medium hover:bg-gold/90 transition-colors cursor-pointer">
+                <MessageCircle className="w-4 h-4" /> Frage stellen
               </button>
             </div>
           </div>
