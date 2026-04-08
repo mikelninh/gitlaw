@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { Search, BookOpen, ArrowLeft, Scale, FileText, Hash, ExternalLink, Sparkles, GitCompare, Lightbulb, Heart, MessageCircle, Send, Download, Share2 } from 'lucide-react'
+import { Search, ArrowLeft, Scale, FileText, ExternalLink, Sparkles, GitCompare, Lightbulb, Heart, MessageCircle, Send, Download, Share2 } from 'lucide-react'
 import Fuse from 'fuse.js'
 import { loadExplanations, reformDiffs, type Explanations } from './explain'
 import { askLegalQuestion } from './rag'
@@ -58,7 +58,8 @@ function md(text: string): string {
 function App() {
   const [laws, setLaws] = useState<LawEntry[]>([])
   const [search, setSearch] = useState('')
-  const [fontSize, setFontSize] = useState(16) // Accessibility: adjustable font size
+  const [fontSize, setFontSize] = useState(16)
+  const [darkMode, setDarkMode] = useState(false)
   const [selectedLaw, setSelectedLaw] = useState<string | null>(null)
   const [lawContent, setLawContent] = useState('')
   const [_loading, setLoading] = useState(true)
@@ -70,6 +71,7 @@ function App() {
   const [chatMessages, setChatMessages] = useState<{role: 'user' | 'assistant'; text: string; sources?: {law: string; section: string}[]}[]>([])
   const [chatLoading, setChatLoading] = useState(false)
   const [selectedPersona, setSelectedPersona] = useState<string | null>(null)
+  const [language, setLanguage] = useState<string>('de')
 
   // Expose loadLaw for cross-linking from rendered HTML
   useEffect(() => {
@@ -117,10 +119,7 @@ function App() {
     return text.replace(new RegExp(`(${escaped})`, 'gi'), '<mark style="background:#F5ECD7;padding:2px 4px;border-radius:3px">$1</mark>')
   }
 
-  // Stats
-  const totalLaws = laws.length
-  const totalSections = laws.reduce((s, l) => s + l.sections, 0)
-  const totalLines = laws.reduce((s, l) => s + l.lines, 0)
+  // Stats removed — now shown in subtitle text directly
 
   // Currently viewing a specific law
   if (selectedLaw) {
@@ -244,9 +243,9 @@ function App() {
 
   // Main view — law browser
   return (
-    <div className="min-h-screen">
+    <div className={`min-h-screen ${darkMode ? 'dark bg-[#1a1a2e] text-[#e0e0e0]' : ''}`} style={darkMode ? {background:'#1a1a2e',color:'#e0e0e0'} : {}}>
       {/* Header */}
-      <header className="bg-bg border-b border-border">
+      <header className={`border-b ${darkMode ? 'bg-[#1a1a2e] border-[#333]' : 'bg-bg border-border'}`}>
         <div className="max-w-5xl mx-auto px-5 py-12 sm:py-16 text-center">
           <div className="flex items-center justify-center gap-3 mb-4">
             <Scale className="w-8 h-8 text-gold" />
@@ -254,16 +253,35 @@ function App() {
               Git<span className="text-gold">Law</span>
             </h1>
           </div>
-          <p className="text-ink-soft text-lg mb-8 max-w-md mx-auto">
-            Alle deutschen Bundesgesetze. Durchsuchbar. Lesbar. Transparent.
+          <p className="text-ink-soft text-lg mb-6 max-w-md mx-auto">
+            Alle 5.936 Bundesgesetze. Durchsuchbar. Lesbar. Transparent.
           </p>
+          <button onClick={() => setDarkMode(!darkMode)}
+            className="text-xs text-ink-muted hover:text-gold transition-colors cursor-pointer mb-6">
+            {darkMode ? '☀️ Heller Modus' : '🌙 Dunkler Modus'}
+          </button>
 
-          {/* Stats */}
-          <div className="flex items-center justify-center gap-8 mb-8 text-sm text-ink-muted">
-            <div className="flex items-center gap-2"><FileText className="w-4 h-4" /><span><strong className="text-ink">{totalLaws.toLocaleString()}</strong> Gesetze</span></div>
-            <div className="flex items-center gap-2"><Hash className="w-4 h-4" /><span><strong className="text-ink">{totalSections.toLocaleString()}</strong> Paragraphen</span></div>
-            <div className="flex items-center gap-2"><BookOpen className="w-4 h-4" /><span><strong className="text-ink">{totalLines.toLocaleString()}</strong> Zeilen</span></div>
+          {/* Quick topics — geführter Einstieg für Werner (P1) */}
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 mb-8 max-w-2xl mx-auto">
+            {[
+              { emoji: '🏠', label: 'Miete & Wohnen', q: 'Mietrecht' },
+              { emoji: '💼', label: 'Arbeit & Job', q: 'Arbeitsrecht' },
+              { emoji: '💰', label: 'Geld & Steuern', q: 'Einkommensteuer' },
+              { emoji: '👶', label: 'Familie & Kinder', q: 'Elternzeit' },
+              { emoji: '🏥', label: 'Gesundheit', q: 'Krankenversicherung' },
+              { emoji: '🏦', label: 'Rente', q: 'Rentenversicherung' },
+              { emoji: '🐾', label: 'Tierschutz', q: 'Tierschutz' },
+              { emoji: '🌐', label: 'Internet & Recht', q: 'Netzwerkdurchsetzung' },
+            ].map(t => (
+              <button key={t.q} onClick={() => { setSearch(t.q); setActiveTab('gesetze') }}
+                className="flex items-center gap-2 p-3 rounded-xl bg-card border border-border hover:border-gold/30 hover:shadow-sm transition-all cursor-pointer text-left">
+                <span className="text-xl">{t.emoji}</span>
+                <span className="text-sm font-medium text-ink">{t.label}</span>
+              </button>
+            ))}
           </div>
+
+          <p className="text-sm text-ink-muted mb-4">oder suche direkt:</p>
 
           {/* Search */}
           <div className="max-w-lg mx-auto relative">
@@ -394,11 +412,29 @@ function App() {
             ))}
           </div>
 
+          {/* Language selector — P1 für Elif & Ahmed */}
+          <div className="flex items-center justify-center gap-2 mb-4">
+            <span className="text-xs text-ink-muted">Sprache:</span>
+            {[
+              { id: 'de', label: '🇩🇪 Deutsch' },
+              { id: 'easy', label: '📖 Einfach' },
+              { id: 'tr', label: '🇹🇷 Türkçe' },
+              { id: 'ar', label: '🇸🇦 العربية' },
+              { id: 'en', label: '🇬🇧 English' },
+              { id: 'uk', label: '🇺🇦 Українська' },
+            ].map(l => (
+              <button key={l.id} onClick={() => setLanguage(l.id)}
+                className={`px-2 py-1 rounded-lg text-xs cursor-pointer transition-all ${language === l.id ? 'bg-gold text-white' : 'bg-card border border-border text-ink-muted hover:text-ink'}`}>
+                {l.label}
+              </button>
+            ))}
+          </div>
+
           {selectedPersona && (
             <div className="bg-gold-light rounded-xl p-3 mb-4 text-center">
-              <p className="text-sm text-gold">Antworten werden personalisiert für: <strong>{
+              <p className="text-sm text-gold">Personalisiert für: <strong>{
                 { student: '📚 Student/in', arbeitnehmer: '👷 Arbeitnehmer/in', selbststaendig: '💼 Selbstständig', elternteil: '👨‍👩‍👧 Elternteil', alleinerziehend: '👩‍👧 Alleinerziehend', rentner: '👵 Rentner/in', mieter: '🏠 Mieter/in', vermieter: '🏘️ Vermieter/in', azubi: '🔧 Azubi', migrant: '🌍 Migrant/in', schwanger: '🤰 Schwanger', arbeitslos: '📋 Arbeitslos' }[selectedPersona]
-              }</strong></p>
+              }</strong> · {{'de':'Deutsch','easy':'Leichte Sprache','tr':'Türkçe','ar':'العربية','en':'English','uk':'Українська'}[language]}</p>
             </div>
           )}
 
@@ -541,7 +577,8 @@ function App() {
                 setChatMessages(newMsgs)
                 const history = chatMessages.map(m => ({ role: m.role, content: m.text }))
                 const persona = selectedPersona ? personaDesc[selectedPersona] : undefined
-                askLegalQuestion(question, persona, history).then(result => {
+                const langSuffix = language !== 'de' ? ` Antworte auf ${{'easy':'sehr einfachem Deutsch (Leichte Sprache, kurze Sätze, kein Fachvokabular)','tr':'Türkisch','ar':'Arabisch','en':'Englisch','uk':'Ukrainisch'}[language] || 'Deutsch'}.` : ''
+                askLegalQuestion(question + langSuffix, persona, history).then(result => {
                   setChatMessages(prev => [...prev, { role: 'assistant' as const, text: result.answer, sources: result.sources }])
                   setChatLoading(false)
                 })
