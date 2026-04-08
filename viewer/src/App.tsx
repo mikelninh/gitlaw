@@ -1,9 +1,10 @@
 import { useState, useEffect, useMemo } from 'react'
-import { Search, BookOpen, ArrowLeft, Scale, FileText, Hash, ExternalLink, Sparkles, GitCompare, Lightbulb, Heart, MessageCircle, Send } from 'lucide-react'
+import { Search, BookOpen, ArrowLeft, Scale, FileText, Hash, ExternalLink, Sparkles, GitCompare, Lightbulb, Heart, MessageCircle, Send, Download, Share2 } from 'lucide-react'
 import Fuse from 'fuse.js'
 import { loadExplanations, reformDiffs, type Explanations } from './explain'
 import { askLegalQuestion } from './rag'
 import { getDailyLaw, dailyLaws, getCategoryColor } from './daily-law'
+import { exportLawAsPDF, generateShareLink, copyToClipboard } from './export'
 import './index.css'
 
 interface LawEntry {
@@ -145,12 +146,29 @@ function App() {
                 className="pl-9 pr-4 py-1.5 rounded-lg border border-border bg-card text-sm w-56 focus:outline-none focus:border-gold"
               />
             </div>
+            {/* Export + Share + GitHub */}
             {law && (
-              <a href={`https://github.com/mikelninh/gitlaw/blob/main/laws/${law.file}`}
-                target="_blank" rel="noopener"
-                className="flex items-center gap-1 text-xs text-ink-muted hover:text-gold transition-colors">
-                <ExternalLink className="w-3 h-3" /> GitHub
-              </a>
+              <div className="flex items-center gap-2">
+                <button onClick={() => lawContent && exportLawAsPDF(lawContent)}
+                  className="flex items-center gap-1 text-xs text-ink-muted hover:text-gold transition-colors cursor-pointer"
+                  title="Als PDF exportieren">
+                  <Download className="w-3 h-3" /> PDF
+                </button>
+                <button onClick={async () => {
+                  const link = generateShareLink(law.id, '', '')
+                  const ok = await copyToClipboard(link)
+                  if (ok) alert('Link kopiert!')
+                }}
+                  className="flex items-center gap-1 text-xs text-ink-muted hover:text-gold transition-colors cursor-pointer"
+                  title="Link teilen">
+                  <Share2 className="w-3 h-3" /> Teilen
+                </button>
+                <a href={`https://github.com/mikelninh/gitlaw/blob/main/laws/${law.file}`}
+                  target="_blank" rel="noopener"
+                  className="flex items-center gap-1 text-xs text-ink-muted hover:text-gold transition-colors">
+                  <ExternalLink className="w-3 h-3" /> GitHub
+                </a>
+              </div>
             )}
           </div>
         </header>
