@@ -219,9 +219,25 @@ export async function askLegalQuestion(
   answer: string
   sources: { law: string; section: string }[]
 }> {
+  // If no local API key, use Vercel serverless API (free, secure)
   if (!API_KEY) {
+    try {
+      const resp = await fetch('/api/ask', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          question,
+          persona,
+          history: history.map(m => ({ role: m.role, content: m.content })),
+        }),
+      })
+      if (resp.ok) {
+        return await resp.json()
+      }
+    } catch { /* fallback below */ }
+
     return {
-      answer: '⚠️ Bitte VITE_OPENAI_API_KEY in viewer/.env setzen.',
+      answer: 'Der Rechts-Chat ist gerade nicht verfügbar. Bitte versuche es später erneut oder nutze die Musterbriefe und Erklärungen.',
       sources: [],
     }
   }
