@@ -1039,6 +1039,19 @@ function App() {
           <a href="https://github.com/mikelninh/gitlaw" className="hover:text-gold" target="_blank" rel="noopener">GitHub</a> · MIT Lizenz · Keine Gewähr für Richtigkeit
         </p>
       </footer>
+
+      {/* Ecosystem footer */}
+      <div style={{ background: '#F5ECD7', borderTop: '1px solid #E5D5B0', padding: '12px 0', textAlign: 'center', fontSize: '13px', color: '#777' }}>
+        <a href="https://mikelninh.github.io/" style={{ color: '#8B6914', textDecoration: 'none', fontWeight: 600 }}>Digitale Demokratie</a>
+        {' · '}
+        <a href="https://mikelninh.github.io/faireint/" style={{ color: '#555', textDecoration: 'none' }}>FairEint</a>
+        {' · '}
+        <span style={{ color: '#555', fontWeight: 600 }}>GitLaw</span>
+        {' · '}
+        <a href="https://github.com/mikelninh/Public-Money-Mirror" style={{ color: '#555', textDecoration: 'none' }}>Public Money Mirror</a>
+        {' · '}
+        <a href="https://github.com/mikelninh/safevoice" style={{ color: '#555', textDecoration: 'none' }}>SafeVoice</a>
+      </div>
     </div>
   )
 }
