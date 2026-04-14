@@ -12,8 +12,8 @@
 
 import { useEffect, useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
-import { Search, Loader2, Save, Download, CheckCircle2, AlertTriangle } from 'lucide-react'
-import { askLegalQuestion } from '../rag'
+import { Search, Loader2, Save, Download, CheckCircle2, AlertTriangle, Lightbulb } from 'lucide-react'
+import { EXAMPLE_QUESTIONS, proAsk } from './ai'
 import {
   getCase,
   getSettings,
@@ -50,12 +50,12 @@ export default function ProResearch() {
     setCitations([])
     setSavedItem(null)
     try {
-      const result = await askLegalQuestion(question, undefined, [])
-      setAnswer(result.answer)
-      const cites = await verifyAllCitations(result.answer)
+      const { antwort, zitate } = await proAsk(question)
+      setAnswer(antwort)
+      const cites = await verifyAllCitations(zitate)
       setCitations(cites)
     } catch (err) {
-      setError('KI-Anfrage fehlgeschlagen. Bitte später erneut versuchen.')
+      setError(err instanceof Error ? err.message : 'KI-Anfrage fehlgeschlagen. Bitte später erneut versuchen.')
     } finally {
       setLoading(false)
     }
@@ -125,14 +125,31 @@ export default function ProResearch() {
           className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 focus:outline-none focus:border-[var(--color-gold)]"
           required
         />
-        <button
-          type="submit"
-          disabled={loading || !question.trim()}
-          className="inline-flex items-center gap-2 bg-[var(--color-ink)] text-white rounded-lg px-4 py-2 hover:opacity-90 disabled:opacity-50"
-        >
-          {loading ? <Loader2 className="w-4 h-4 animate-spin" /> : <Search className="w-4 h-4" />}
-          {loading ? 'KI denkt…' : 'Frage stellen'}
-        </button>
+        <div className="flex items-baseline gap-2 flex-wrap">
+          <button
+            type="submit"
+            disabled={loading || !question.trim()}
+            className="inline-flex items-center gap-2 bg-[var(--color-ink)] text-white rounded-lg px-4 py-2 hover:opacity-90 disabled:opacity-50"
+          >
+            {loading ? <Loader2 className="w-4 h-4 animate-spin" /> : <Search className="w-4 h-4" />}
+            {loading ? 'KI denkt…' : 'Frage stellen'}
+          </button>
+          {!question && !loading && (
+            <div className="flex items-center gap-1.5 text-xs text-[var(--color-ink-muted)]">
+              <Lightbulb className="w-3.5 h-3.5" /> Beispielfragen:
+            </div>
+          )}
+          {!question && !loading && EXAMPLE_QUESTIONS.slice(0, 3).map((ex, i) => (
+            <button
+              key={i}
+              type="button"
+              onClick={() => setQuestion(ex)}
+              className="text-xs px-2 py-1 border border-[var(--color-border)] rounded-md hover:border-[var(--color-gold)] hover:text-[var(--color-ink)] text-[var(--color-ink-soft)]"
+            >
+              {ex.length > 40 ? ex.slice(0, 40) + '…' : ex}
+            </button>
+          ))}
+        </div>
       </form>
 
       {error && (

@@ -6,8 +6,9 @@
  */
 
 import { useEffect, useRef, useState } from 'react'
-import { Save, Upload, Trash2, AlertTriangle } from 'lucide-react'
+import { Save, Upload, Trash2, AlertTriangle, Sparkles } from 'lucide-react'
 import { eraseAllProData, getSettings, saveSettings } from './store'
+import { KANZLEI_PRESETS, loadDemoData, isDemoLoaded } from './demo-data'
 import type { KanzleiSettings } from './types'
 
 const MAX_LOGO_BYTES = 200 * 1024  // 200 KB
@@ -66,6 +67,29 @@ export default function ProSettings() {
     )
       return
     eraseAllProData()
+    window.location.hash = '#/pro'
+    window.location.reload()
+  }
+
+  function handleLoadPreset(key: string) {
+    const preset = KANZLEI_PRESETS.find(p => p.key === key)
+    if (!preset) return
+    if (isDemoLoaded()) {
+      if (
+        !confirm(
+          `Demo-Daten wurden bereits geladen.\n\nZum Wechseln auf „${preset.label}" zuerst alle Pro-Daten löschen (Notausgang unten) und dann neu laden.`,
+        )
+      )
+        return
+      return
+    }
+    const { caseCount } = loadDemoData(key)
+    alert(
+      `✓ Preset „${preset.label}" geladen.\n\n` +
+        `• Kanzlei-Profil gesetzt\n` +
+        `• ${caseCount} Mandant:innen-Akten mit Recherche + Schreiben angelegt\n\n` +
+        `Öffne Übersicht oder Akten, um die Demo zu testen.`,
+    )
     window.location.hash = '#/pro'
     window.location.reload()
   }
@@ -183,6 +207,36 @@ export default function ProSettings() {
           )}
         </div>
       </form>
+
+      {/* Demo-Presets */}
+      <section className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
+        <h2 className="font-semibold mb-1 flex items-center gap-2">
+          <Sparkles className="w-4 h-4 text-[var(--color-gold)]" /> Demo-Daten laden
+        </h2>
+        <p className="text-sm text-[var(--color-ink-soft)] mb-4">
+          Für Pitch-Demos oder schnelles Probieren: ein Preset füllt Kanzlei-Profil, drei Mandant:innen-Akten,
+          eine KI-Recherche je Akte und ein vorgeneriertes Schreiben. PDFs erscheinen direkt auf dem Briefkopf des Presets.
+        </p>
+        {isDemoLoaded() && (
+          <div className="mb-3 text-xs text-amber-800 bg-amber-50 border border-amber-200 rounded p-2">
+            Demo ist bereits geladen. Zum Wechseln erst unten „Alle Pro-Daten löschen" nutzen.
+          </div>
+        )}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
+          {KANZLEI_PRESETS.map(p => (
+            <button
+              key={p.key}
+              onClick={() => handleLoadPreset(p.key)}
+              disabled={isDemoLoaded()}
+              className="text-left border border-[var(--color-border)] rounded-lg p-3 hover:border-[var(--color-gold)] disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              <div className="font-semibold text-sm">{p.label}</div>
+              <div className="text-xs text-[var(--color-ink-muted)] mt-0.5">{p.tagline}</div>
+              <div className="text-xs text-[var(--color-ink-soft)] mt-2">{p.cases.length} Akten · Kanzlei-Branding</div>
+            </button>
+          ))}
+        </div>
+      </section>
 
       {/* Datenschutz / Notausgang */}
       <section className="bg-white border border-red-200 rounded-2xl p-6">
