@@ -6,7 +6,7 @@
 
 import { useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
-import { FileText, Download, Save, Copy, ChevronLeft } from 'lucide-react'
+import { FileText, Download, Save, Copy, ChevronLeft, Mail } from 'lucide-react'
 import { LAWYER_TEMPLATES, getLawyerTemplate } from './lawyer-templates'
 import { exportLetterPDF } from './pdf'
 import { getCase, getSettings, listCases, saveLetter } from './store'
@@ -63,6 +63,25 @@ export default function ProTemplates() {
     } catch {
       // ignore
     }
+  }
+
+  function onOpenMail() {
+    if (!template) return
+    const caseInfo = selectedCaseId ? getCase(selectedCaseId) : undefined
+    const to = caseInfo?.mandantEmail || ''
+    const subjectParts = [template.title]
+    if (caseInfo?.aktenzeichen) subjectParts.push(`Az. ${caseInfo.aktenzeichen}`)
+    const subject = subjectParts.join(' — ')
+    // mailto: has ~2000-char limits. Truncate body if needed and tell the
+    // Anwält:in to attach the PDF separately.
+    const maxBodyLen = 1500
+    const body =
+      renderedBody.length > maxBodyLen
+        ? renderedBody.slice(0, maxBodyLen) +
+          '\n\n[…verkürzt — bitte den vollständigen Brief als PDF-Anhang mitsenden]'
+        : renderedBody
+    const mailto = `mailto:${to}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
+    window.location.href = mailto
   }
 
   if (!template) {
@@ -181,6 +200,13 @@ export default function ProTemplates() {
               className="inline-flex items-center gap-1.5 text-sm bg-white border border-[var(--color-border)] rounded-lg px-3 py-1.5 hover:border-[var(--color-gold)]"
             >
               <Copy className="w-4 h-4" /> {copyOk ? 'Kopiert!' : 'Text kopieren'}
+            </button>
+            <button
+              onClick={onOpenMail}
+              className="inline-flex items-center gap-1.5 text-sm bg-white border border-[var(--color-border)] rounded-lg px-3 py-1.5 hover:border-[var(--color-gold)]"
+              title="Öffnet dein Mail-Programm mit vorgefülltem Text. PDF bitte separat anhängen."
+            >
+              <Mail className="w-4 h-4" /> Per E-Mail senden
             </button>
             {!savedLetter && (
               <button

@@ -16,6 +16,15 @@
 import type { Citation } from './types'
 import type { ProCitation } from './ai'
 
+/**
+ * Abbreviation → law file id, reconciled against actual files in
+ * viewer/public/laws/. Wrong mappings mean "verified" always fails even
+ * though the law is in our corpus — directly kills user trust.
+ *
+ * Verified 2026-04-14 by spot-checking each target with `ls viewer/public/laws/`.
+ * If you add an abbreviation here, confirm the file exists AND the heading
+ * format inside the file uses `### § N` (our lookup pattern).
+ */
 const LAW_ABBREV_MAP: Record<string, string> = {
   GG: 'gg', StGB: 'stgb', BGB: 'bgb', StPO: 'stpo', ZPO: 'zpo',
   'SGB V': 'sgb_5', 'SGB VI': 'sgb_6', 'SGB II': 'sgb_2', 'SGB XII': 'sgb_12',
@@ -23,11 +32,19 @@ const LAW_ABBREV_MAP: Record<string, string> = {
   'SGB III': 'sgb_3', 'SGB VII': 'sgb_7', 'SGB VIII': 'sgb_8', 'SGB XI': 'sgb_11',
   EStG: 'estg', AO: 'ao_1977', NetzDG: 'netzdg', TierSchG: 'tierschg',
   AufenthG: 'aufenthg_2004', ArbZG: 'arbzg', KSchG: 'kschg',
-  MuSchG: 'muschg', AGG: 'agg', GEG: 'geg', BEEG: 'beeg',
-  BImSchG: 'bimschg', UWG: 'uwg', HGB: 'hgb', AktG: 'aktg',
+  // Files with dated suffixes: use the dated version since that's what the corpus has.
+  MuSchG: 'muschg_2018',
+  UWG: 'uwg_2004',
+  UStG: 'ustg_1980',
+  StVO: 'stvo_2013',
+  AGG: 'agg', GEG: 'geg', BEEG: 'beeg',
+  BImSchG: 'bimschg', HGB: 'hgb', AktG: 'aktg',
   BetrVG: 'betrvg', InsO: 'inso', VwGO: 'vwgo', GWB: 'gwb',
   VwVfG: 'vwvfg', GVG: 'gvg', GewSchG: 'gewschg', SGG: 'sgg',
-  StVO: 'stvo', StVG: 'stvg', UStG: 'ustg', WEG: 'weg',
+  StVG: 'stvg',
+  // WEG colloquial, WoEigG official — both used. Both route to same file.
+  WEG: 'woeigg',
+  WoEigG: 'woeigg',
 }
 
 const lawCache = new Map<string, string>()

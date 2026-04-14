@@ -1,16 +1,28 @@
 /**
- * Pro landing — quick stats + jump-off points.
+ * Pro landing — quick stats + jump-off points + upcoming Fristen widget.
  */
 
 import { Link } from 'react-router-dom'
-import { FolderOpen, Search, FileText, Plus } from 'lucide-react'
+import { FolderOpen, Search, FileText, Plus, Clock, AlertCircle } from 'lucide-react'
 import { listAudit, listCases, listLetters, listResearch } from './store'
+
+function daysUntil(iso: string): number {
+  const diff = new Date(iso).getTime() - Date.now()
+  return Math.ceil(diff / (1000 * 60 * 60 * 24))
+}
 
 export default function ProDashboard() {
   const cases = listCases()
   const research = listResearch()
   const letters = listLetters()
   const recentAudit = listAudit().slice(0, 5)
+
+  // Fristen der nächsten 14 Tage oder abgelaufen — aktive Akten only
+  const upcomingFristen = cases
+    .filter(c => c.status === 'aktiv' && c.fristDatum)
+    .map(c => ({ c, days: daysUntil(c.fristDatum!) }))
+    .filter(({ days }) => days <= 14)
+    .sort((a, b) => a.days - b.days)
 
   return (
     <div className="space-y-8">
@@ -27,6 +39,66 @@ export default function ProDashboard() {
         <Stat icon={<FileText />} label="Generierte Schreiben" value={letters.length} to="/pro/schreiben" />
       </section>
 
+      {/* Fristen der kommenden 14 Tage */}
+      {upcomingFristen.length > 0 && (
+        <section>
+          <h2 className="font-semibold mb-3 flex items-center gap-2">
+            <Clock className="w-4 h-4 text-[var(--color-gold)]" />
+            Fristen ({upcomingFristen.length})
+          </h2>
+          <ul className="bg-white border border-[var(--color-border)] rounded-2xl divide-y divide-[var(--color-border)]">
+            {upcomingFristen.map(({ c, days }) => (
+              <li key={c.id}>
+                <Link
+                  to={`/pro/akten/${c.id}`}
+                  className={`block px-4 py-3 text-sm transition-colors ${
+                    days < 0
+                      ? 'bg-red-50 hover:bg-red-100'
+                      : days <= 7
+                        ? 'bg-amber-50 hover:bg-amber-100'
+                        : 'hover:bg-[var(--color-bg-alt)]'
+                  }`}
+                >
+                  <div className="flex items-center justify-between gap-3">
+                    <div className="min-w-0 flex-1">
+                      <div className="flex items-center gap-2 flex-wrap">
+                        <span className="font-mono text-xs text-[var(--color-gold)]">{c.aktenzeichen}</span>
+                        <span className="font-semibold truncate">{c.mandantName}</span>
+                      </div>
+                      {c.fristBezeichnung && (
+                        <p className="text-xs text-[var(--color-ink-soft)] mt-0.5">{c.fristBezeichnung}</p>
+                      )}
+                    </div>
+                    <div className="shrink-0 text-right">
+                      <span
+                        className={`text-xs font-medium ${
+                          days < 0
+                            ? 'text-red-800'
+                            : days === 0
+                              ? 'text-red-700'
+                              : days <= 7
+                                ? 'text-amber-800'
+                                : 'text-[var(--color-ink-soft)]'
+                        }`}
+                      >
+                        {days < 0
+                          ? `${-days}T abgelaufen`
+                          : days === 0
+                            ? 'HEUTE'
+                            : `in ${days}T`}
+                      </span>
+                      <div className="text-[10px] text-[var(--color-ink-muted)] font-mono">
+                        {new Date(c.fristDatum!).toLocaleDateString('de-DE')}
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       <section className="grid grid-cols-1 lg:grid-cols-3 gap-4">
         <Link
           to="/pro/akten?new=1"
@@ -35,7 +107,7 @@ export default function ProDashboard() {
           <Plus className="w-5 h-5 text-[var(--color-gold)] mb-2" />
           <h3 className="font-semibold mb-1">Neue Akte anlegen</h3>
           <p className="text-sm text-[var(--color-ink-soft)]">
-            Mandant:in + Aktenzeichen. Recherche und Schreiben werden später daran geheftet.
+            Mandant:in + Aktenzeichen + optionale Frist. Recherche und Schreiben werden später angeheftet.
           </p>
         </Link>
         <Link
@@ -62,7 +134,7 @@ export default function ProDashboard() {
 
       {recentAudit.length > 0 && (
         <section>
-          <h2 className="font-semibold mb-3">Letzte Aktivität</h2>
+          <h2 className="font-semibold mb-3">Letzte 5 Ereignisse</h2>
           <ul className="bg-white border border-[var(--color-border)] rounded-2xl divide-y divide-[var(--color-border)]">
             {recentAudit.map(a => (
               <li key={a.id} className="px-4 py-3 text-sm flex items-baseline justify-between gap-3">
@@ -76,7 +148,21 @@ export default function ProDashboard() {
               </li>
             ))}
           </ul>
+          <p className="text-xs text-[var(--color-ink-muted)] mt-2">
+            Vollständiges Audit-Log unter{' '}
+            <Link to="/pro/audit" className="underline">Audit-Log</Link>.
+          </p>
         </section>
+      )}
+
+      {cases.length === 0 && (
+        <div className="bg-white border border-dashed border-[var(--color-border)] rounded-2xl p-8 text-center">
+          <AlertCircle className="w-6 h-6 text-[var(--color-ink-muted)] mx-auto mb-2" />
+          <p className="text-sm text-[var(--color-ink-soft)] mb-1">
+            Noch keine Akten. Lege eine an oder lade ein Demo-Preset in{' '}
+            <Link to="/pro/einstellungen" className="underline">Einstellungen</Link>.
+          </p>
+        </div>
       )}
     </div>
   )

@@ -1,13 +1,17 @@
 /**
  * Mandant:innen-Akten — list + create + detail.
  *
- * Kept as a single component file with a tiny inner router based on the
- * URL `:id` param to keep file count manageable in the Pro folder.
+ * Evolved from the MVP: now with search, status tabs, Frist-field,
+ * and per-case ZIP bundle export (BHV-tauglich).
  */
 
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom'
-import { ArrowLeft, Plus, FolderOpen, Archive, FileText, Search, Shield } from 'lucide-react'
+import {
+  ArrowLeft, Plus, FolderOpen, Archive, FileText, Search as SearchIcon,
+  Shield, Package, Clock, AlertCircle,
+} from 'lucide-react'
+import Fuse from 'fuse.js'
 import {
   archiveCase,
   createCase,
@@ -17,15 +21,70 @@ import {
   listCases,
   listLetters,
   listResearch,
+  updateCase,
 } from './store'
 import { exportAuditPDF } from './pdf'
+import { exportCaseBundle } from './zip'
+import type { MandantCase } from './types'
+
+/** Returns days until the ISO date, negative if past. */
+function daysUntil(iso: string): number {
+  const diff = new Date(iso).getTime() - Date.now()
+  return Math.ceil(diff / (1000 * 60 * 60 * 24))
+}
+
+function FristPill({ c }: { c: MandantCase }) {
+  if (!c.fristDatum) return null
+  const days = daysUntil(c.fristDatum)
+  const past = days < 0
+  const urgent = !past && days <= 7
+  const cls = past
+    ? 'bg-red-100 text-red-800 border-red-300'
+    : urgent
+      ? 'bg-amber-100 text-amber-800 border-amber-300'
+      : 'bg-slate-100 text-slate-700 border-slate-200'
+  const label = past
+    ? `Frist vor ${-days}T abgelaufen`
+    : days === 0
+      ? 'Frist HEUTE'
+      : `Frist in ${days}T`
+  return (
+    <span className={`text-[10px] uppercase px-1.5 py-0.5 rounded border inline-flex items-center gap-1 ${cls}`}>
+      <Clock className="w-3 h-3" /> {label}
+    </span>
+  )
+}
 
 export function ProCasesList() {
   const navigate = useNavigate()
   const [search] = useSearchParams()
   const [showCreate, setShowCreate] = useState(search.get('new') === '1')
   const [tick, setTick] = useState(0)
+  const [query, setQuery] = useState('')
+  const [statusFilter, setStatusFilter] = useState<'aktiv' | 'archiviert' | 'alle'>('aktiv')
+
   const cases = useMemo(() => listCases(), [tick, showCreate])
+
+  const filtered = useMemo(() => {
+    let list = cases
+    if (statusFilter !== 'alle') {
+      list = list.filter(c => c.status === statusFilter)
+    }
+    if (query.trim()) {
+      const fuse = new Fuse(list, {
+        keys: ['mandantName', 'aktenzeichen', 'description'],
+        threshold: 0.35,
+      })
+      list = fuse.search(query).map(r => r.item)
+    }
+    return list
+  }, [cases, query, statusFilter])
+
+  const counts = {
+    aktiv: cases.filter(c => c.status === 'aktiv').length,
+    archiviert: cases.filter(c => c.status === 'archiviert').length,
+    alle: cases.length,
+  }
 
   return (
     <div className="space-y-6">
@@ -55,6 +114,37 @@ export function ProCasesList() {
         />
       )}
 
+      {/* Search + filter */}
+      {cases.length > 0 && (
+        <div className="flex flex-wrap items-center gap-3">
+          <div className="relative flex-1 min-w-[200px] max-w-md">
+            <SearchIcon className="w-4 h-4 text-[var(--color-ink-muted)] absolute left-3 top-1/2 -translate-y-1/2" />
+            <input
+              type="text"
+              value={query}
+              onChange={e => setQuery(e.target.value)}
+              placeholder="Suche: Mandant:in, Aktenzeichen, Sache…"
+              className="w-full border border-[var(--color-border)] rounded-lg pl-9 pr-3 py-2 text-sm focus:outline-none focus:border-[var(--color-gold)]"
+            />
+          </div>
+          <div className="flex items-center gap-1 text-xs bg-white border border-[var(--color-border)] rounded-lg p-1">
+            {(['aktiv', 'archiviert', 'alle'] as const).map(s => (
+              <button
+                key={s}
+                onClick={() => setStatusFilter(s)}
+                className={`px-2 py-1 rounded ${
+                  statusFilter === s
+                    ? 'bg-[var(--color-ink)] text-white'
+                    : 'text-[var(--color-ink-muted)] hover:text-[var(--color-ink)]'
+                }`}
+              >
+                {s} <span className="opacity-60">({counts[s]})</span>
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+
       {cases.length === 0 ? (
         <div className="bg-white border border-dashed border-[var(--color-border)] rounded-2xl p-10 text-center">
           <FolderOpen className="w-8 h-8 text-[var(--color-ink-muted)] mx-auto mb-3" />
@@ -62,17 +152,21 @@ export function ProCasesList() {
             Noch keine Akte angelegt. Klicke auf <strong>Neue Akte</strong> oben rechts.
           </p>
         </div>
+      ) : filtered.length === 0 ? (
+        <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6 text-center text-sm text-[var(--color-ink-soft)]">
+          Keine Akten passen zu Suche/Filter.
+        </div>
       ) : (
         <ul className="bg-white border border-[var(--color-border)] rounded-2xl divide-y divide-[var(--color-border)]">
-          {cases.map(c => (
+          {filtered.map(c => (
             <li key={c.id}>
               <Link
                 to={`/pro/akten/${c.id}`}
                 className="block px-4 py-3 hover:bg-[var(--color-bg-alt)] transition-colors"
               >
                 <div className="flex items-center justify-between gap-3">
-                  <div className="min-w-0">
-                    <div className="flex items-center gap-2">
+                  <div className="min-w-0 flex-1">
+                    <div className="flex items-center gap-2 flex-wrap">
                       <span className="font-mono text-sm text-[var(--color-gold)]">{c.aktenzeichen}</span>
                       <span className="font-semibold truncate">{c.mandantName}</span>
                       {c.status === 'archiviert' && (
@@ -80,6 +174,7 @@ export function ProCasesList() {
                           archiviert
                         </span>
                       )}
+                      <FristPill c={c} />
                     </div>
                     {c.description && (
                       <p className="text-sm text-[var(--color-ink-soft)] mt-0.5 truncate">{c.description}</p>
@@ -102,18 +197,28 @@ function CreateForm({
   onCreated,
   onCancel,
 }: {
-  onCreated: (c: ReturnType<typeof createCase>) => void
+  onCreated: (c: MandantCase) => void
   onCancel: () => void
 }) {
   const [mandantName, setMandantName] = useState('')
   const [aktenzeichen, setAktenzeichen] = useState('')
   const [description, setDescription] = useState('')
+  const [mandantEmail, setMandantEmail] = useState('')
+  const [fristDatum, setFristDatum] = useState('')
+  const [fristBezeichnung, setFristBezeichnung] = useState('')
 
   function onSubmit(e: React.FormEvent) {
     e.preventDefault()
     if (!mandantName.trim() || !aktenzeichen.trim()) return
     const c = createCase({ mandantName, aktenzeichen, description })
-    onCreated(c)
+    if (fristDatum || mandantEmail) {
+      updateCase(c.id, {
+        fristDatum: fristDatum || undefined,
+        fristBezeichnung: fristBezeichnung || undefined,
+        mandantEmail: mandantEmail || undefined,
+      })
+    }
+    onCreated({ ...c, fristDatum, fristBezeichnung, mandantEmail })
   }
 
   return (
@@ -145,6 +250,30 @@ function CreateForm({
         rows={2}
         className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-[var(--color-gold)]"
       />
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
+        <input
+          type="email"
+          value={mandantEmail}
+          onChange={e => setMandantEmail(e.target.value)}
+          placeholder="E-Mail Mandant:in (optional)"
+          className="border border-[var(--color-border)] rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-[var(--color-gold)]"
+        />
+        <input
+          type="date"
+          value={fristDatum}
+          onChange={e => setFristDatum(e.target.value)}
+          placeholder="Frist (Datum)"
+          className="border border-[var(--color-border)] rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-[var(--color-gold)]"
+          title="Frist (Datum, optional)"
+        />
+        <input
+          type="text"
+          value={fristBezeichnung}
+          onChange={e => setFristBezeichnung(e.target.value)}
+          placeholder="z. B. Widerspruchsfrist"
+          className="border border-[var(--color-border)] rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-[var(--color-gold)]"
+        />
+      </div>
       <div className="flex items-center gap-2">
         <button
           type="submit"
@@ -168,6 +297,7 @@ export function ProCaseDetail() {
   const { id } = useParams<{ id: string }>()
   const navigate = useNavigate()
   const [tick, setTick] = useState(0)
+  const [exportingZip, setExportingZip] = useState(false)
   const c = useMemo(() => (id ? getCase(id) : undefined), [id, tick])
   const research = useMemo(() => (id ? listResearch(id) : []), [id, tick])
   const letters = useMemo(() => (id ? listLetters(id) : []), [id, tick])
@@ -198,6 +328,26 @@ export function ProCaseDetail() {
     exportAuditPDF({ settings: getSettings(), entries: audit, caseInfo: c })
   }
 
+  async function onExportZip() {
+    if (!c) return
+    setExportingZip(true)
+    try {
+      await exportCaseBundle({
+        settings: getSettings(),
+        caseInfo: c,
+        research,
+        letters,
+        audit,
+      })
+    } catch (err) {
+      alert('ZIP-Export fehlgeschlagen: ' + (err instanceof Error ? err.message : 'unbekannt'))
+    } finally {
+      setExportingZip(false)
+    }
+  }
+
+  const frist = c.fristDatum ? daysUntil(c.fristDatum) : null
+
   return (
     <div className="space-y-6">
       <button
@@ -207,18 +357,23 @@ export function ProCaseDetail() {
         <ArrowLeft className="w-4 h-4" /> Alle Akten
       </button>
 
-      <header className="flex items-baseline justify-between gap-3">
+      <header className="flex items-baseline justify-between gap-3 flex-wrap">
         <div>
           <div className="font-mono text-sm text-[var(--color-gold)] mb-1">{c.aktenzeichen}</div>
           <h1 className="text-2xl font-semibold">{c.mandantName}</h1>
           {c.description && <p className="text-sm text-[var(--color-ink-soft)] mt-1">{c.description}</p>}
+          {c.mandantEmail && (
+            <p className="text-xs text-[var(--color-ink-muted)] mt-1">
+              <span className="font-mono">{c.mandantEmail}</span>
+            </p>
+          )}
         </div>
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 flex-wrap">
           <Link
             to={`/pro/recherche?case=${c.id}`}
             className="inline-flex items-center gap-1.5 text-sm bg-white border border-[var(--color-border)] rounded-lg px-3 py-1.5 hover:border-[var(--color-gold)]"
           >
-            <Search className="w-4 h-4" /> Recherche
+            <SearchIcon className="w-4 h-4" /> Recherche
           </Link>
           <Link
             to={`/pro/schreiben?case=${c.id}`}
@@ -226,6 +381,14 @@ export function ProCaseDetail() {
           >
             <FileText className="w-4 h-4" /> Schreiben
           </Link>
+          <button
+            onClick={onExportZip}
+            disabled={exportingZip}
+            className="inline-flex items-center gap-1.5 text-sm bg-[var(--color-gold)] text-white rounded-lg px-3 py-1.5 hover:opacity-90 disabled:opacity-50"
+            title="Akte als ZIP (PDFs + Audit-Log + meta.txt)"
+          >
+            <Package className="w-4 h-4" /> {exportingZip ? 'Baue ZIP…' : 'Akte als ZIP'}
+          </button>
           {c.status === 'aktiv' && (
             <button
               onClick={onArchive}
@@ -236,6 +399,32 @@ export function ProCaseDetail() {
           )}
         </div>
       </header>
+
+      {/* Frist-Info-Banner */}
+      {c.fristDatum && frist !== null && (
+        <div
+          className={`rounded-lg border px-4 py-3 text-sm flex items-center gap-2 ${
+            frist < 0
+              ? 'bg-red-50 border-red-200 text-red-900'
+              : frist <= 7
+                ? 'bg-amber-50 border-amber-200 text-amber-900'
+                : 'bg-slate-50 border-slate-200 text-slate-700'
+          }`}
+        >
+          <AlertCircle className="w-4 h-4 shrink-0" />
+          <span className="font-medium">
+            {frist < 0
+              ? `Frist seit ${-frist} Tagen abgelaufen`
+              : frist === 0
+                ? 'Frist läuft heute ab'
+                : `Frist in ${frist} Tagen`}
+            {c.fristBezeichnung && ` — ${c.fristBezeichnung}`}
+            <span className="ml-2 font-mono text-xs">
+              ({new Date(c.fristDatum).toLocaleDateString('de-DE')})
+            </span>
+          </span>
+        </div>
+      )}
 
       <section>
         <h2 className="font-semibold mb-2">Recherchen ({research.length})</h2>

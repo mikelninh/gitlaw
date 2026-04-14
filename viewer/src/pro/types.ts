@@ -36,6 +36,12 @@ export interface MandantCase {
   /** Linked generated letters. */
   letterIds: string[]
   status: 'aktiv' | 'archiviert'
+  /** Optional deadline (Frist), ISO date. Drives dashboard warnings. */
+  fristDatum?: string
+  /** What the deadline is for — e.g. "Widerspruchsfrist SGB II". */
+  fristBezeichnung?: string
+  /** Optional Mandant:in email — used to prefill mailto: when sending letters. */
+  mandantEmail?: string
 }
 
 export interface ResearchQuery {

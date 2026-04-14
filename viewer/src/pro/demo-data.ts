@@ -20,14 +20,28 @@ import {
   saveLetter,
   saveResearch,
   saveSettings,
+  updateCase,
 } from './store'
 import type { Citation, KanzleiSettings } from './types'
 import { getLawyerTemplate } from './lawyer-templates'
 
+function daysFromNow(n: number): string {
+  const d = new Date()
+  d.setDate(d.getDate() + n)
+  return d.toISOString().slice(0, 10)
+}
+
 export const DEMO_MARKER = 'gitlaw.pro.demo-loaded.v1'
 
 interface DemoCase {
-  case: { aktenzeichen: string; mandantName: string; description: string }
+  case: {
+    aktenzeichen: string
+    mandantName: string
+    description: string
+    mandantEmail?: string
+    fristOffsetDays?: number  // relative to "today" so demo always shows live Fristen
+    fristBezeichnung?: string
+  }
   research?: {
     question: string
     answer: string
@@ -67,6 +81,9 @@ const RUBIN: KanzleiPreset = {
         aktenzeichen: '25/0142',
         mandantName: 'Jusuf Öztürk',
         description: 'Mieter, fristlose Kündigung wegen angeblichen Zahlungsverzugs über 2 Monatsmieten. Widerspruch + Schonfristzahlung zu prüfen.',
+        mandantEmail: 'j.oeztuerk@example.com',
+        fristOffsetDays: 4,
+        fristBezeichnung: 'Schonfristzahlung § 569 Abs. 3 BGB',
       },
       research: {
         question: 'Wann ist eine fristlose Kündigung des Mietverhältnisses wegen Zahlungsverzugs zulässig und welche Schonfristwirkung greift?',
@@ -102,6 +119,9 @@ const RUBIN: KanzleiPreset = {
         aktenzeichen: '25/0156',
         mandantName: 'WEG Waldstraße 42',
         description: 'Verwalter-Abberufung durch Eigentümerbeschluss. Einzelne Eigentümer klagen gegen Beschluss — Anfechtungsklage nach § 44 WEG?',
+        mandantEmail: 'verwaltung@weg-waldstr42.example',
+        fristOffsetDays: 12,
+        fristBezeichnung: 'Anfechtungsfrist § 44 Abs. 1 WEG',
       },
       research: {
         question: 'Frist und Form für die Anfechtung eines Eigentümerbeschlusses nach WEG-Reform 2020?',
@@ -201,6 +221,9 @@ const GNIOSDORZ: KanzleiPreset = {
         aktenzeichen: '25/0214',
         mandantName: 'Familie Weber',
         description: 'Jobcenter-Sanktion 30% wegen angeblich versäumten Termins. Widerspruch fristwahrend.',
+        mandantEmail: 'p.weber@example.com',
+        fristOffsetDays: 2,
+        fristBezeichnung: 'Widerspruchsfrist § 84 SGG (Bescheid v. 28.03.)',
       },
       research: {
         question: 'Welche Voraussetzungen müssen für eine Leistungsminderung nach § 31a SGB II vorliegen und welche Frist gilt für den Widerspruch?',
@@ -280,7 +303,20 @@ export function loadDemoData(presetKey: string): { presetKey: string; caseCount:
   saveSettings(preset.settings)
 
   for (const dc of preset.cases) {
-    const c = createCase(dc.case)
+    const c = createCase({
+      aktenzeichen: dc.case.aktenzeichen,
+      mandantName: dc.case.mandantName,
+      description: dc.case.description,
+    })
+    // Apply optional case metadata (email, frist) via updateCase so it shows
+    // in the detail view + dashboard widget.
+    const patch: Parameters<typeof updateCase>[1] = {}
+    if (dc.case.mandantEmail) patch.mandantEmail = dc.case.mandantEmail
+    if (typeof dc.case.fristOffsetDays === 'number') {
+      patch.fristDatum = daysFromNow(dc.case.fristOffsetDays)
+      patch.fristBezeichnung = dc.case.fristBezeichnung
+    }
+    if (Object.keys(patch).length > 0) updateCase(c.id, patch)
     if (dc.research) {
       saveResearch({
         caseId: c.id,
