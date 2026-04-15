@@ -20,11 +20,17 @@ interface Props {
 
 const lawCache = new Map<string, string>()
 
+const LAW_BASE_URL = (() => {
+  if (typeof window !== 'undefined' && window.location.hostname.includes('mikelninh.github.io')) return './laws'
+  if (typeof window !== 'undefined' && window.location.hostname === 'localhost') return './laws'
+  return 'https://mikelninh.github.io/gitlaw/laws'
+})()
+
 async function loadLawSection(lawId: string, section: string): Promise<string | null> {
   let text = lawCache.get(lawId)
   if (!text) {
     try {
-      const resp = await fetch(`./laws/${lawId}.md`)
+      const resp = await fetch(`${LAW_BASE_URL}/${lawId}.md`)
       if (!resp.ok) return null
       text = await resp.text()
       lawCache.set(lawId, text)

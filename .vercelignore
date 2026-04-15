@@ -1,5 +1,10 @@
-laws/
-viewer/
-rag/vectorstore/
 parser/
+rag/vectorstore/
 .github/
+viewer/node_modules/
+viewer/dist/
+viewer/public/laws/
+viewer/public/explanations/
+node_modules/
+*.pyc
+__pycache__/

@@ -49,10 +49,28 @@ const LAW_ABBREV_MAP: Record<string, string> = {
 
 const lawCache = new Map<string, string>()
 
+/**
+ * Laws werden NICHT mit Vercel deployed (5.936 Files = zu viele kleine
+ * Uploads), sondern direkt von der GitHub-Pages-URL geladen, wo sie
+ * bereits liegen. Vorteil: Single-Source-Truth, Cache-Header von GH
+ * Pages, kein doppeltes Hosting.
+ */
+const LAW_BASE_URL = (() => {
+  // In dev/GH-Pages selbst: relative URL funktioniert
+  if (typeof window !== 'undefined' && window.location.hostname.includes('mikelninh.github.io')) {
+    return './laws'
+  }
+  // Auf Vercel/Custom-Domain: absolute URL zu GH Pages
+  if (typeof window !== 'undefined' && window.location.hostname === 'localhost') {
+    return './laws'  // Vite dev serves laws from public/
+  }
+  return 'https://mikelninh.github.io/gitlaw/laws'
+})()
+
 async function loadLaw(lawId: string): Promise<string | null> {
   if (lawCache.has(lawId)) return lawCache.get(lawId)!
   try {
-    const resp = await fetch(`./laws/${lawId}.md`)
+    const resp = await fetch(`${LAW_BASE_URL}/${lawId}.md`)
     if (!resp.ok) return null
     const text = await resp.text()
     lawCache.set(lawId, text)
