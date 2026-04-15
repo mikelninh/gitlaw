@@ -108,7 +108,7 @@ export default function ProSettings() {
   return (
     <div className="space-y-8 max-w-3xl">
       <header>
-        <h1 className="text-2xl font-semibold mb-1">Kanzlei-Profil</h1>
+        <h1 className="h-page">Kanzlei-Profil</h1>
         <p className="text-sm text-[var(--color-ink-soft)]">
           Diese Angaben erscheinen als Briefkopf auf jedem PDF, das du aus GitLaw Pro
           exportierst (Recherche-Notizen, Schreiben, Audit-Logs).

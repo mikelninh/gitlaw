@@ -122,7 +122,7 @@ export default function ProResearch() {
     <>
       <div className="space-y-6">
         <header>
-          <h1 className="text-2xl font-semibold mb-1">Recherche</h1>
+          <h1 className="h-page">Recherche</h1>
           <p className="text-sm text-[var(--color-ink-soft)]">
             KI-gestützte Antwort mit Paragraphen-Belegen, abgeglichen gegen unsere lokale Sammlung
             von 5.936 Bundesgesetzen.
@@ -257,7 +257,8 @@ export default function ProResearch() {
                     <li
                       key={i}
                       onClick={() => setOpenCitation(c)}
-                      className={`border rounded-lg px-3 py-2 text-sm cursor-pointer transition-colors ${
+                      style={{ animationDelay: `${i * 70}ms` }}
+                      className={`border rounded-lg px-3 py-2 text-sm cursor-pointer transition-colors animate-fade-slide-up active:scale-[0.98] ${
                         c.verified
                           ? 'border-green-200 bg-green-50 hover:border-green-400'
                           : 'border-amber-200 bg-amber-50 hover:border-amber-400'

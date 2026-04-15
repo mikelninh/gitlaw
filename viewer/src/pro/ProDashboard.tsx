@@ -61,11 +61,11 @@ export default function ProDashboard() {
 
   return (
     <div className="space-y-8">
-      <header className="bg-gradient-to-r from-[var(--color-gold-light)] via-[var(--color-bg-alt)] to-transparent rounded-2xl p-5 -mx-2">
-        <h1 className="text-3xl font-semibold mb-1" style={{ fontFamily: "'Georgia', serif" }}>
+      <header className="bg-gradient-to-r from-[var(--color-gold-light)] via-[var(--color-bg-alt)] to-transparent rounded-2xl p-6 -mx-2">
+        <h1 className="h-page">
           {greeting}
           {(getSettingsName()) && (
-            <span className="text-[var(--color-ink-soft)] font-normal text-2xl">
+            <span className="text-[var(--color-ink-soft)] font-normal" style={{ fontSize: '1.5rem' }}>
               , {getSettingsName()}
             </span>
           )}

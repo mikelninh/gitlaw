@@ -13,9 +13,44 @@
   --color-green: #1B7A40;
   --color-blue: #2870B0;
   --color-blue-light: #E8F0F8;
+  /* Danger: ein eigener Token, nicht Tailwind-rot. Material-700, ernsthaft, nicht panisch. */
+  --color-danger: #B3261E;
+  --color-danger-bg: #FDECEA;
+  --color-danger-border: #F5C2C0;
   --font-display: 'Georgia', serif;
   --font-body: 'Inter', system-ui, sans-serif;
 }
+
+/* Pro design system: konsistente Page-Headlines, Drawer-Animation, Stagger-Fade */
+@layer components {
+  .h-page {
+    font-family: var(--font-display);
+    font-size: 1.875rem;       /* text-3xl */
+    line-height: 1.2;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+    color: var(--color-ink);
+  }
+}
+
+@keyframes fadeSlideUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes drawerSlideIn {
+  from { transform: translateX(100%); }
+  to   { transform: translateX(0); }
+}
+
+@keyframes drawerBackdropIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.animate-fade-slide-up { animation: fadeSlideUp 320ms cubic-bezier(0.32, 0.72, 0, 1) both; }
+.animate-drawer-in     { animation: drawerSlideIn 320ms cubic-bezier(0.32, 0.72, 0, 1) both; }
+.animate-backdrop-in   { animation: drawerBackdropIn 200ms ease-out both; }
 
 @layer base {
   html {

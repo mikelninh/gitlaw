@@ -51,7 +51,7 @@ export default function ProEingaenge() {
     <div className="space-y-6">
       <header className="flex items-baseline justify-between gap-3 flex-wrap">
         <div>
-          <h1 className="text-2xl font-semibold mb-1 flex items-center gap-2">
+          <h1 className="h-page flex items-center gap-2">
             <Inbox className="w-5 h-5 text-[var(--color-gold)]" />
             Eingänge
           </h1>

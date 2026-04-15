@@ -185,7 +185,7 @@ export function ProCasesList() {
     <div className="space-y-6">
       <header className="flex items-baseline justify-between gap-3">
         <div>
-          <h1 className="text-2xl font-semibold mb-1">Mandant:innen-Akten</h1>
+          <h1 className="h-page">Mandant:innen-Akten</h1>
           <p className="text-sm text-[var(--color-ink-soft)]">
             Eine Akte gruppiert Recherchen, Schreiben und ein Audit-Log pro Fall.
           </p>
@@ -457,6 +457,7 @@ export function ProCaseDetail() {
   const [exportingZip, setExportingZip] = useState(false)
   const [showIntakeShare, setShowIntakeShare] = useState(false)
   const [copied, setCopied] = useState(false)
+  const [confirmingArchive, setConfirmingArchive] = useState(false)
   const c = useMemo(() => (id ? getCase(id) : undefined), [id, tick])
   const research = useMemo(() => (id ? listResearch(id) : []), [id, tick])
   const letters = useMemo(() => (id ? listLetters(id) : []), [id, tick])
@@ -478,8 +479,8 @@ export function ProCaseDetail() {
 
   function onArchive() {
     if (!c) return
-    if (!confirm(`Akte ${c.aktenzeichen} archivieren?`)) return
     archiveCase(c.id)
+    setConfirmingArchive(false)
     setTick(t => t + 1)
   }
 
@@ -520,7 +521,7 @@ export function ProCaseDetail() {
       <header className="flex items-baseline justify-between gap-3 flex-wrap">
         <div>
           <div className="font-mono text-sm text-[var(--color-gold)] mb-1">{c.aktenzeichen}</div>
-          <h1 className="text-2xl font-semibold">{c.mandantName}</h1>
+          <h1 className="h-page">{c.mandantName}</h1>
           {c.description && <p className="text-sm text-[var(--color-ink-soft)] mt-1">{c.description}</p>}
           {c.mandantEmail && (
             <p className="text-xs text-[var(--color-ink-muted)] mt-1">
@@ -551,18 +552,39 @@ export function ProCaseDetail() {
           <button
             onClick={onExportZip}
             disabled={exportingZip}
-            className="inline-flex items-center gap-1.5 text-sm bg-[var(--color-gold)] text-white rounded-lg px-3 py-1.5 hover:opacity-90 disabled:opacity-50"
+            className="inline-flex items-center gap-1.5 text-sm bg-[var(--color-ink)] text-white rounded-lg px-3 py-1.5 hover:opacity-90 disabled:opacity-50"
             title="Akte als ZIP (PDFs + Audit-Log + meta.txt)"
           >
             <Package className="w-4 h-4" /> {exportingZip ? 'Baue ZIP…' : 'Akte als ZIP'}
           </button>
           {c.status === 'aktiv' && (
-            <button
-              onClick={onArchive}
-              className="inline-flex items-center gap-1.5 text-sm text-[var(--color-ink-muted)] hover:text-[var(--color-ink)]"
-            >
-              <Archive className="w-4 h-4" /> Archivieren
-            </button>
+            confirmingArchive ? (
+              <span className="inline-flex items-center gap-2 text-sm bg-amber-50 border border-amber-300 rounded-lg px-3 py-1.5 animate-fade-slide-up">
+                <span className="text-amber-900">Wirklich archivieren?</span>
+                <button
+                  onClick={onArchive}
+                  className="text-[var(--color-danger)] font-medium hover:underline"
+                >
+                  Ja
+                </button>
+                <button
+                  onClick={() => setConfirmingArchive(false)}
+                  className="text-[var(--color-ink-muted)] hover:text-[var(--color-ink)]"
+                >
+                  Abbrechen
+                </button>
+              </span>
+            ) : (
+              <button
+                onClick={() => {
+                  setConfirmingArchive(true)
+                  setTimeout(() => setConfirmingArchive(false), 5000)
+                }}
+                className="inline-flex items-center gap-1.5 text-sm text-[var(--color-ink-muted)] hover:text-[var(--color-ink)]"
+              >
+                <Archive className="w-4 h-4" /> Archivieren
+              </button>
+            )
           )}
         </div>
       </header>

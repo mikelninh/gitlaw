@@ -47,6 +47,7 @@ export default function ProTemplates() {
   const [copyOk, setCopyOk] = useState(false)
   const [tick, setTick] = useState(0)
   const [editingCustom, setEditingCustom] = useState<CustomTemplate | 'new' | null>(null)
+  const [confirmingDelete, setConfirmingDelete] = useState<string | null>(null)
 
   const customTemplates = useMemo(() => listCustomTemplates(), [tick, editingCustom])
 
@@ -138,7 +139,7 @@ export default function ProTemplates() {
     return (
       <div className="space-y-6">
         <header>
-          <h1 className="text-2xl font-semibold mb-1">Schreiben</h1>
+          <h1 className="h-page">Schreiben</h1>
           <p className="text-sm text-[var(--color-ink-soft)]">
             Eingebaute Vorlagen + deine eigenen. Füllen → Preview → PDF auf deinem Briefkopf.
           </p>
@@ -173,17 +174,37 @@ export default function ProTemplates() {
                     >
                       <Pencil className="w-3 h-3" /> bearbeiten
                     </button>
-                    <button
-                      onClick={() => {
-                        if (confirm(`„${t.title}" löschen?`)) {
-                          deleteCustomTemplate(t.id)
-                          setTick(x => x + 1)
-                        }
-                      }}
-                      className="text-xs text-red-700 hover:text-red-900 inline-flex items-center gap-1"
-                    >
-                      <Trash2 className="w-3 h-3" /> löschen
-                    </button>
+                    {confirmingDelete === t.id ? (
+                      <span className="inline-flex items-center gap-2 text-xs animate-fade-slide-up">
+                        <span className="text-amber-900">Wirklich?</span>
+                        <button
+                          onClick={() => {
+                            deleteCustomTemplate(t.id)
+                            setConfirmingDelete(null)
+                            setTick(x => x + 1)
+                          }}
+                          className="text-[var(--color-danger)] font-medium hover:underline"
+                        >
+                          Ja
+                        </button>
+                        <button
+                          onClick={() => setConfirmingDelete(null)}
+                          className="text-[var(--color-ink-muted)]"
+                        >
+                          Abbrechen
+                        </button>
+                      </span>
+                    ) : (
+                      <button
+                        onClick={() => {
+                          setConfirmingDelete(t.id)
+                          setTimeout(() => setConfirmingDelete(prev => prev === t.id ? null : prev), 5000)
+                        }}
+                        className="text-xs text-[var(--color-ink-muted)] hover:text-[var(--color-danger)] inline-flex items-center gap-1"
+                      >
+                        <Trash2 className="w-3 h-3" /> löschen
+                      </button>
+                    )}
                   </div>
                 </div>
               ))}
@@ -272,7 +293,7 @@ export default function ProTemplates() {
       </button>
 
       <header>
-        <h1 className="text-2xl font-semibold mb-1">{template.title}</h1>
+        <h1 className="h-page">{template.title}</h1>
         {activeTemplate.kind === 'builtin' && (
           <p className="text-sm text-[var(--color-ink-soft)]">{template.description}</p>
         )}
@@ -349,7 +370,7 @@ export default function ProTemplates() {
               </button>
             )}
             {savedLetter && (
-              <button onClick={onExportPDF} className="inline-flex items-center gap-1.5 text-sm bg-[var(--color-gold)] text-white rounded-lg px-3 py-1.5 hover:opacity-90">
+              <button onClick={onExportPDF} className="inline-flex items-center gap-1.5 text-sm bg-[var(--color-ink)] text-white rounded-lg px-3 py-1.5 hover:opacity-90">
                 <Download className="w-4 h-4" /> Branded PDF
               </button>
             )}
@@ -404,7 +425,7 @@ Mit freundlichen Grüßen`,
   return (
     <div className="space-y-6 max-w-3xl">
       <header>
-        <h1 className="text-2xl font-semibold mb-1">
+        <h1 className="h-page">
           {existing ? 'Vorlage bearbeiten' : 'Neue Vorlage'}
         </h1>
         <p className="text-sm text-[var(--color-ink-soft)]">

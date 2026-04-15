@@ -94,11 +94,11 @@ export default function CitationDrawer({ citation, onClose }: Props) {
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-stretch justify-end bg-black/30 backdrop-blur-sm"
+      className="fixed inset-0 z-50 flex items-stretch justify-end bg-black/30 backdrop-blur-sm animate-backdrop-in"
       onClick={onClose}
     >
       <aside
-        className="bg-white w-full max-w-xl h-full overflow-y-auto border-l border-[var(--color-border)] shadow-xl"
+        className="bg-white w-full max-w-xl h-full overflow-y-auto border-l border-[var(--color-border)] shadow-xl animate-drawer-in"
         onClick={e => e.stopPropagation()}
       >
         <header className="sticky top-0 bg-white border-b border-[var(--color-border)] px-5 py-3 flex items-center justify-between gap-3">

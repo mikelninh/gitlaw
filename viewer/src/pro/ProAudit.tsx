@@ -31,7 +31,7 @@ export default function ProAudit() {
     <div className="space-y-6">
       <header className="flex items-baseline justify-between gap-3">
         <div>
-          <h1 className="text-2xl font-semibold mb-1">Audit-Log</h1>
+          <h1 className="h-page">Audit-Log</h1>
           <p className="text-sm text-[var(--color-ink-soft)]">
             Lückenlose Aufzeichnung aller Aktionen — exportierbar für BHV-Versicherung
             und interne Compliance.
