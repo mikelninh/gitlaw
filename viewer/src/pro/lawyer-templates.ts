@@ -1674,11 +1674,1610 @@ ${SIGN_OFF}
   },
 ]
 
-/** Combined list for UI pickers: built-in + notar + migration. */
+/**
+ * Familienrecht-Pack — 10 Templates für Scheidung, Sorge, Umgang, Unterhalt,
+ * Versorgungsausgleich, Gewaltschutz, Vaterschaftsfeststellung. Düsseldorfer-
+ * Tabelle-Hinweise wo relevant. Frist-Hinweise besonders bei GewSchG (§ 214 FamFG)
+ * und Abänderungsanträgen (§ 238 FamFG).
+ */
+export const FAMILIE_TEMPLATES: LawyerTemplate[] = [
+  {
+    id: 'scheidungsantrag',
+    title: 'Scheidungsantrag (§ 1565 BGB)',
+    description: 'Antrag auf Scheidung der Ehe nach Ablauf des Trennungsjahres.',
+    useCase: 'Mandant:in ist seit mindestens einem Jahr getrennt lebend (§ 1565 Abs. 1 BGB) und möchte die Scheidung einreichen. Einzureichend beim zuständigen Familiengericht (§ 121 FamFG).',
+    fields: [
+      { id: 'gericht', label: 'Familiengericht (Ort)', type: 'text', required: true, placeholder: 'Amtsgericht Berlin-Tempelhof-Kreuzberg – Familiengericht' },
+      { id: 'antragsteller', label: 'Antragsteller:in (Mandant:in)', type: 'text', required: true, placeholder: 'Maria Mustermann, geb. 01.01.1980, wohnhaft …' },
+      { id: 'antragsgegner', label: 'Antragsgegner:in', type: 'text', required: true, placeholder: 'Thomas Mustermann, geb. 15.03.1978, wohnhaft …' },
+      { id: 'heiratsdatum', label: 'Datum der Eheschließung', type: 'date', required: true },
+      { id: 'trennungsdatum', label: 'Datum der Trennung', type: 'date', required: true, hint: 'Trennungsjahr muss zum Zeitpunkt der mündlichen Verhandlung vollendet sein (§ 1565 Abs. 1 BGB).' },
+      { id: 'kinder', label: 'Minderjährige Kinder (Namen, Geburtsdaten)', type: 'textarea', placeholder: 'Lena Mustermann, geb. 10.05.2015\nPaul Mustermann, geb. 22.08.2018' },
+      { id: 'versorgungsausgleich', label: 'Versorgungsausgleich durchführen?', type: 'text', required: true, placeholder: 'ja / nein / Ausschluss vereinbart (Notarvertrag vom …)' },
+      { id: 'anlagen', label: 'Anlagen', type: 'textarea', placeholder: 'Heiratsurkunde, Geburtsurkunden der Kinder, Scheidungsfolgenvereinbarung (soweit vorhanden)' },
+    ],
+    render: f => `An das
+${f.gericht || '[Familiengericht]'}
+
+Scheidungsantrag
+gem. §§ 1564, 1565 BGB i. V. m. §§ 121 ff. FamFG
+
+Antragsteller:in: ${f.antragsteller || '[Antragsteller:in]'}
+— vertreten durch Unterzeichner:in —
+
+Antragsgegner:in: ${f.antragsgegner || '[Antragsgegner:in]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft beantrage ich,
+
+die am ${f.heiratsdatum || '[Datum]'} geschlossene Ehe der Beteiligten
+
+z u   s c h e i d e n .
+
+Begründung
+
+I. Trennungsjahr (§ 1565 Abs. 1 BGB)
+
+Die Beteiligten leben seit dem ${f.trennungsdatum || '[Datum]'} getrennt im Sinne des § 1567 BGB. Das Trennungsjahr ist damit abgelaufen bzw. wird bis zur mündlichen Verhandlung vollendet sein. Die Ehe ist unwiederbringlich gescheitert.
+
+II. Minderjährige Kinder
+
+${f.kinder ? f.kinder : 'Aus der Ehe sind keine minderjährigen Kinder hervorgegangen.'}
+
+III. Versorgungsausgleich (§§ 1587 ff. BGB, VersAusglG)
+
+${f.versorgungsausgleich ? `Versorgungsausgleich: ${f.versorgungsausgleich}` : 'Zur Durchführung des Versorgungsausgleichs werden die erforderlichen Auskünfte der Versorgungsträger erbeten.'}
+
+IV. Anlagen
+
+${f.anlagen || '—'}
+
+Die anwaltliche Vertretungsvollmacht wird anwaltlich versichert.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'antrag_versorgungsausgleich',
+    title: 'Antrag auf Durchführung / Ausschluss des Versorgungsausgleichs (§ 1587 BGB / VersAusglG)',
+    description: 'Antrag auf Durchführung oder einvernehmlichen Ausschluss des Versorgungsausgleichs im Scheidungsverbund.',
+    useCase: 'Scheidungsverfahren anhängig; Versorgungsausgleich ist von Amts wegen zu regeln (§ 137 Abs. 2 FamFG). Ausschluss nur durch notariell beurkundete Vereinbarung gem. § 6 VersAusglG möglich.',
+    fields: [
+      { id: 'gericht', label: 'Familiengericht / Aktenzeichen', type: 'text', required: true, placeholder: 'AG Berlin-Mitte, Az. 123 F 456/25' },
+      { id: 'antragsteller', label: 'Antragsteller:in', type: 'text', required: true },
+      { id: 'antragsgegner', label: 'Antragsgegner:in', type: 'text', required: true },
+      { id: 'ehezeit', label: 'Ehezeit (§ 3 VersAusglG)', type: 'text', required: true, placeholder: '01.03.2005 – 28.02.2025 (Monat vor Zustellung)' },
+      { id: 'versorgungen', label: 'Bekannte Versorgungsanrechte (Beschreibung)', type: 'textarea', required: true, placeholder: 'Deutsche Rentenversicherung (beide), bAV Arbeitgeber Antragsteller:in, Beamtenversorgung Antragsgegner:in' },
+      { id: 'ausschluss', label: 'Ausschlussvereinbarung vorhanden?', type: 'text', placeholder: 'Notarvertrag vom … (Anlage beigefügt)' },
+    ],
+    render: f => `An das
+${f.gericht || '[Familiengericht]'}
+
+Antrag auf Durchführung des Versorgungsausgleichs
+gem. §§ 1 ff. VersAusglG i. V. m. § 137 Abs. 2 FamFG
+
+Antragsteller:in: ${f.antragsteller || '[Antragsteller:in]'}
+Antragsgegner:in: ${f.antragsgegner || '[Antragsgegner:in]'}
+
+Sehr geehrte Damen und Herren,
+
+im laufenden Scheidungsverfahren beantrage ich,
+
+den V e r s o r g u n g s a u s g l e i c h
+
+für die Ehezeit vom ${f.ehezeit || '[Ehezeit]'} gem. § 3 VersAusglG durchzuführen.
+
+I. Bekannte Versorgungsanrechte
+
+${f.versorgungen || '[Versorgungsanrechte]'}
+
+Ich beantrage, bei allen in Betracht kommenden Versorgungsträgern Auskünfte nach § 220 FamFG einzuholen.
+
+${f.ausschluss ? `II. Ausschlussvereinbarung\n\nDie Beteiligten haben den Versorgungsausgleich notariell ausgeschlossen (${f.ausschluss}, Anlage). Ich beantrage, den Versorgungsausgleich gem. § 6 Abs. 1 VersAusglG nicht durchzuführen.` : ''}
+
+Die anwaltliche Vertretungsvollmacht wird anwaltlich versichert.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'sorgerecht_antrag',
+    title: 'Antrag auf Übertragung des alleinigen Sorgerechts (§ 1671 BGB)',
+    description: 'Antrag auf Übertragung der alleinigen elterlichen Sorge auf einen Elternteil.',
+    useCase: 'Eltern leben getrennt; ein Elternteil beantragt alleinige Sorge, weil gemeinsame Ausübung dem Kindeswohl widerspricht (§ 1671 Abs. 1 S. 2 BGB). Zuständig: Familiengericht (§ 151 Nr. 1 FamFG).',
+    fields: [
+      { id: 'gericht', label: 'Familiengericht / Aktenzeichen', type: 'text', required: true, placeholder: 'AG Schöneberg – Familiengericht, Az. …' },
+      { id: 'antragsteller', label: 'Antragsteller:in (Elternteil)', type: 'text', required: true },
+      { id: 'antragsgegner', label: 'Antragsgegner:in (anderer Elternteil)', type: 'text', required: true },
+      { id: 'kind', label: 'Kind (Name, Geburtsdatum)', type: 'text', required: true, placeholder: 'Lena Mustermann, geb. 10.05.2015' },
+      { id: 'sorgerechtslage', label: 'Aktuelle Sorgerechtslage', type: 'text', required: true, placeholder: 'gemeinsames Sorgerecht seit Geburt' },
+      { id: 'begruendung', label: 'Begründung (Kindeswohlgefährdung / fehlende Kooperationsfähigkeit)', type: 'textarea', required: true, hint: 'Konkrete Vorfälle schildern; Datum, Zeugen, Belege angeben.' },
+      { id: 'anlagen', label: 'Anlagen', type: 'textarea', placeholder: 'Geburtsurkunde, Schreiben des Jugendamts, ärztliche Berichte' },
+    ],
+    render: f => `An das
+${f.gericht || '[Familiengericht]'}
+
+Antrag auf Übertragung der alleinigen elterlichen Sorge
+gem. § 1671 BGB i. V. m. §§ 151 Nr. 1, 155 FamFG
+
+Antragsteller:in: ${f.antragsteller || '[Antragsteller:in]'}
+Antragsgegner:in: ${f.antragsgegner || '[Antragsgegner:in]'}
+Kind: ${f.kind || '[Kind]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft beantrage ich,
+
+die elterliche Sorge für das Kind ${f.kind || '[Kind]'} auf die Antragsteller:in zu übertragen.
+
+I. Sachverhalt und Ausgangslage
+
+Sorgerechtslage bisher: ${f.sorgerechtslage || '[aktuell]'}
+
+${f.begruendung || '[Begründung einfügen]'}
+
+II. Rechtliche Würdigung
+
+Die gemeinsame Ausübung der elterlichen Sorge ist dem Kindeswohl abträglich (§ 1671 Abs. 1 S. 2 BGB). Eine konstruktive Kooperation der Eltern ist dauerhaft nicht gewährleistet. Die Übertragung auf die Antragsteller:in dient dem Wohl des Kindes am besten.
+
+III. Anlagen
+
+${f.anlagen || '—'}
+
+Ich beantrage ferner, das Jugendamt gem. § 162 FamFG zu beteiligen.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'umgangsrecht_antrag',
+    title: 'Antrag auf Umgangsregelung (§ 1684 BGB)',
+    description: 'Antrag auf gerichtliche Festsetzung oder Einschränkung des Umgangsrechts.',
+    useCase: 'Umgang wird verweigert, willkürlich eingeschränkt oder muss zum Schutz des Kindes beschränkt werden. Zuständig: Familiengericht (§ 151 Nr. 2 FamFG).',
+    fields: [
+      { id: 'gericht', label: 'Familiengericht / Aktenzeichen', type: 'text', required: true, placeholder: 'AG Köln – Familiengericht, Az. …' },
+      { id: 'antragsteller', label: 'Antragsteller:in', type: 'text', required: true },
+      { id: 'antragsgegner', label: 'Antragsgegner:in', type: 'text', required: true },
+      { id: 'kind', label: 'Kind (Name, Geburtsdatum)', type: 'text', required: true },
+      { id: 'umgangsvorstellung', label: 'Gewünschte Umgangsregelung', type: 'textarea', required: true, placeholder: 'Jedes 2. Wochenende Fr 17 Uhr – So 18 Uhr, Hälfte der Schulferien, alternierend Weihnachten/Ostern' },
+      { id: 'begruendung', label: 'Begründung (Warum ist gerichtliche Regelung nötig?)', type: 'textarea', required: true },
+      { id: 'eilantrag', label: 'Eilantrag (einstweilige Anordnung) erforderlich?', type: 'text', placeholder: 'ja / nein' },
+    ],
+    render: f => `An das
+${f.gericht || '[Familiengericht]'}
+
+Antrag auf Regelung des Umgangsrechts
+gem. § 1684 BGB i. V. m. §§ 151 Nr. 2, 155 FamFG${(f.eilantrag || '').toLowerCase().startsWith('ja') ? '\n— zugleich Antrag auf Erlass einer einstweiligen Anordnung gem. § 49 FamFG —' : ''}
+
+Antragsteller:in: ${f.antragsteller || '[Antragsteller:in]'}
+Antragsgegner:in: ${f.antragsgegner || '[Antragsgegner:in]'}
+Kind: ${f.kind || '[Kind]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft beantrage ich, den Umgang wie folgt zu regeln:
+
+${f.umgangsvorstellung || '[Umgangsregelung einfügen]'}
+
+Begründung
+
+${f.begruendung || '[Begründung einfügen]'}
+
+Rechtlicher Hinweis
+
+Gem. § 1684 Abs. 1 BGB hat das Kind das Recht auf Umgang mit beiden Elternteilen; jeder Elternteil ist zum Umgang verpflichtet und berechtigt. Eine Verweigerung ohne triftigen Grund verletzt dieses Recht und kann zur Verhängung von Ordnungsmitteln gem. § 89 FamFG führen.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'kindesunterhalt_antrag',
+    title: 'Kindesunterhalt (§§ 1601, 1612a BGB – Düsseldorfer Tabelle)',
+    description: 'Antrag auf Festsetzung / Abänderung von Kindesunterhalt nach der Düsseldorfer Tabelle.',
+    useCase: 'Unterhaltspflichtiger zahlt nicht oder zu wenig. Titulierung durch Jugendamtsurkunde (§ 59 SGB VIII), vereinfachtes Verfahren (§§ 249 ff. FamFG) oder streitiges Verfahren.',
+    fields: [
+      { id: 'gericht', label: 'Familiengericht / Aktenzeichen', type: 'text', required: true, placeholder: 'AG Hamburg – Familiengericht, Az. …' },
+      { id: 'antragsteller', label: 'Antragsteller:in (Kind, vertreten durch …)', type: 'text', required: true, placeholder: 'Lena Mustermann, geb. 10.05.2015, vertreten durch die Mutter Maria Mustermann' },
+      { id: 'antragsgegner', label: 'Unterhaltspflichtiger / Antragsgegner:in', type: 'text', required: true },
+      { id: 'altersgruppe', label: 'Altersgruppe des Kindes', type: 'text', required: true, placeholder: '0–5 Jahre / 6–11 Jahre / 12–17 Jahre / ab 18 Jahre' },
+      { id: 'einkommensgruppe', label: 'Einkommensgruppe Unterhaltspflichtiger (Düss. Tabelle)', type: 'text', required: true, placeholder: 'Gruppe 2 (1.901–2.300 € Netto), Tabellenbetrag 2025: …' },
+      { id: 'unterhaltsbetrag', label: 'Geforderter Monatsbetrag (€)', type: 'text', required: true, placeholder: '426' },
+      { id: 'rueckstand', label: 'Rückstand (€, seit wann)', type: 'text', placeholder: '2.556 € seit Januar 2025' },
+      { id: 'kindergeld', label: 'Kindergeld (Anrechnung gem. § 1612b BGB)', type: 'text', required: true, placeholder: '255 € / Monat – hälftig anzurechnen beim Mindesunterhalt' },
+    ],
+    render: f => `An das
+${f.gericht || '[Familiengericht]'}
+
+Antrag auf Festsetzung von Kindesunterhalt
+gem. §§ 1601, 1602, 1610, 1612a BGB i. V. m. §§ 231, 249 ff. FamFG
+
+Antragsteller:in: ${f.antragsteller || '[Kind / gesetzliche Vertretung]'}
+Antragsgegner:in: ${f.antragsgegner || '[Unterhaltspflichtiger]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag beantrage ich, den Antragsgegner / die Antragsgegnerin zu verpflichten, an die Antragsteller:in laufenden Kindesunterhalt in Höhe von
+
+monatlich € ${f.unterhaltsbetrag || '[Betrag]'}
+
+ab Rechtshängigkeit zu zahlen.
+
+I. Berechnung nach der Düsseldorfer Tabelle (Stand 01.01.2025)
+
+Altersgruppe: ${f.altersgruppe || '[Altersgruppe]'}
+Einkommensgruppe: ${f.einkommensgruppe || '[Einkommensgruppe]'}
+Tabellenbetrag: € ${f.unterhaltsbetrag || '[Betrag]'} / Monat
+Kindergeldanrechnung (§ 1612b BGB): ${f.kindergeld || '[Kindergeld]'}
+
+Hinweis: Die Düsseldorfer Tabelle ist keine Rechtsnorm, wird aber von Familiengerichten bundesweit als Orientierungsmaßstab herangezogen (BGH FamRZ 2006, 99).
+
+II. Rückstand
+
+${f.rueckstand ? `Offener Rückstand: ${f.rueckstand}. Dieser ist ebenfalls geltend zu machen.` : 'Kein Rückstand geltend gemacht.'}
+
+III. Leistungsfähigkeit des Unterhaltspflichtigen
+
+Der/Die Antragsgegner:in ist leistungsfähig im Sinne des § 1603 BGB. Dem Selbstbehalt (Eigenbedarfsgrenze 2025: € 1.450 gegenüber minderjährigen Kindern laut Düsseldorfer Tabelle) kann Rechnung getragen werden.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'trennungsunterhalt_antrag',
+    title: 'Trennungsunterhalt (§ 1361 BGB)',
+    description: 'Antrag auf Zahlung von Trennungsunterhalt während des Getrenntlebens.',
+    useCase: 'Ehegatten leben getrennt (noch kein rechtskräftiges Scheidungsurteil). Anspruch besteht ab Trennung; Mahnung empfohlen. Verfahren: § 231 FamFG.',
+    fields: [
+      { id: 'gericht', label: 'Familiengericht / Aktenzeichen', type: 'text', required: true },
+      { id: 'antragsteller', label: 'Antragsteller:in (unterhaltsberechtigter Ehegatte)', type: 'text', required: true },
+      { id: 'antragsgegner', label: 'Antragsgegner:in (unterhaltspflichtiger Ehegatte)', type: 'text', required: true },
+      { id: 'trennungsdatum', label: 'Datum der Trennung', type: 'date', required: true },
+      { id: 'einkommenAntragsgegner', label: 'Bereinigtes Nettoeinkommen Antragsgegner:in (€)', type: 'text', required: true, placeholder: '3.200 € netto/Monat' },
+      { id: 'einkommenAntragsteller', label: 'Eigenes Einkommen Antragsteller:in (€)', type: 'text', placeholder: '0 € / 800 € Teilzeit' },
+      { id: 'unterhaltsbetrag', label: 'Geforderter Monatsbetrag (€)', type: 'text', required: true, hint: 'Halbteilungsgrundsatz: (Einkommen AG − Einkommen AS) × 3/7, ggf. Erwerbstätigenbonus beachten.' },
+      { id: 'rueckstand', label: 'Rückstand (€, ab wann)', type: 'text', placeholder: '3.000 € seit Trennung' },
+    ],
+    render: f => `An das
+${f.gericht || '[Familiengericht]'}
+
+Antrag auf Trennungsunterhalt
+gem. § 1361 BGB i. V. m. § 231 Abs. 1 Nr. 2 FamFG
+
+Antragsteller:in: ${f.antragsteller || '[Antragsteller:in]'}
+Antragsgegner:in: ${f.antragsgegner || '[Antragsgegner:in]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft beantrage ich, den Antragsgegner / die Antragsgegnerin zu verpflichten, ab Rechtshängigkeit monatlich
+
+€ ${f.unterhaltsbetrag || '[Betrag]'}
+
+als Trennungsunterhalt zu zahlen.
+
+I. Trennung
+
+Die Beteiligten leben seit dem ${f.trennungsdatum || '[Datum]'} voneinander getrennt (§ 1567 BGB). Ein Scheidungsurteil liegt noch nicht vor.
+
+II. Bedarfsberechnung (Halbteilungsgrundsatz)
+
+Bereinigtes Nettoeinkommen Antragsgegner:in: ${f.einkommenAntragsgegner || '[Einkommen]'}
+Eigenes Einkommen Antragsteller:in: ${f.einkommenAntragsteller || '—'}
+Geforderter Unterhaltsbetrag: € ${f.unterhaltsbetrag || '[Betrag]'} / Monat
+
+Der Anspruch ergibt sich aus dem Halbteilungsgrundsatz (BGH FamRZ 2005, 1817) unter Berücksichtigung des Erwerbstätigenbonus von 1/7. Der eheliche Lebensstandard (§ 1361 Abs. 1 BGB) ist maßgeblich.
+
+III. Rückstand
+
+${f.rueckstand ? `Offener Rückstand: ${f.rueckstand}. Dieser ist gesondert einzuklagen.` : 'Kein Unterhaltsrückstand geltend gemacht.'}
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'nachehelicher_unterhalt',
+    title: 'Nachehelicher Unterhalt (§§ 1569 ff. BGB)',
+    description: 'Antrag auf nachehelichen Ehegattenunterhalt nach rechtskräftiger Scheidung.',
+    useCase: 'Ehe ist rechtskräftig geschieden. Anspruchsgrundlagen: Betreuungsunterhalt (§ 1570), Altersunterhalt (§ 1571), Krankheitsunterhalt (§ 1572), Aufstockungsunterhalt (§ 1573), Ausbildungsunterhalt (§ 1575). Befristung / Herabsetzung nach § 1578b BGB prüfen.',
+    fields: [
+      { id: 'gericht', label: 'Familiengericht / Aktenzeichen', type: 'text', required: true },
+      { id: 'antragsteller', label: 'Antragsteller:in', type: 'text', required: true },
+      { id: 'antragsgegner', label: 'Antragsgegner:in', type: 'text', required: true },
+      { id: 'scheidungsdatum', label: 'Datum Rechtskraft Scheidungsurteil', type: 'date', required: true },
+      { id: 'anspruchsgrundlage', label: 'Anspruchsgrundlage', type: 'text', required: true, placeholder: '§ 1570 BGB (Betreuungsunterhalt) – jüngstes Kind 4 Jahre' },
+      { id: 'unterhaltsbetrag', label: 'Geforderter Monatsbetrag (€)', type: 'text', required: true },
+      { id: 'befristung', label: 'Befristungsaspekte (§ 1578b BGB)', type: 'textarea', placeholder: 'Ehedauer 12 Jahre; Befristung auf 5 Jahre ab Scheidung beantragt / abzulehnen wegen ehebedingter Nachteile' },
+    ],
+    render: f => `An das
+${f.gericht || '[Familiengericht]'}
+
+Antrag auf nachehelichen Unterhalt
+gem. ${f.anspruchsgrundlage ? f.anspruchsgrundlage.split('–')[0].trim() : '§§ 1569 ff. BGB'} i. V. m. § 231 Abs. 1 Nr. 2 FamFG
+
+Antragsteller:in: ${f.antragsteller || '[Antragsteller:in]'}
+Antragsgegner:in: ${f.antragsgegner || '[Antragsgegner:in]'}
+
+Sehr geehrte Damen und Herren,
+
+die Ehe der Beteiligten ist seit dem ${f.scheidungsdatum || '[Datum]'} rechtskräftig geschieden.
+
+Namens meiner Mandantschaft beantrage ich, den Antragsgegner / die Antragsgegnerin zu verpflichten, ab Rechtshängigkeit monatlich
+
+€ ${f.unterhaltsbetrag || '[Betrag]'}
+
+als nachehelichen Unterhalt zu zahlen.
+
+I. Anspruchsgrundlage
+
+${f.anspruchsgrundlage || '[Anspruchsgrundlage einfügen]'}
+
+II. Bedarfsbemessung
+
+Maßgeblich sind die ehelichen Lebensverhältnisse gem. § 1578 Abs. 1 BGB (sog. Stichtagsprinzip, modifiziert durch BGH-Rspr. zu ehebedingten Nachteilen). Der konkrete Unterhaltsbedarf beläuft sich auf € ${f.unterhaltsbetrag || '[Betrag]'} / Monat.
+
+III. Befristung / Herabsetzung (§ 1578b BGB)
+
+${f.befristung || 'Eine Befristung oder Herabsetzung ist nach den Umständen des Einzelfalls zu prüfen. Ehebedingte Nachteile (Karriereunterbrechung, fehlende Rentenanwartschaften) sprechen gegen eine Befristung.'}
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'gewaltschutz_antrag',
+    title: 'Gewaltschutzantrag (§ 1 GewSchG) — EILBEDÜRFTIG',
+    description: 'Antrag auf Erlass einer Schutzanordnung / Wohnungszuweisung nach dem Gewaltschutzgesetz.',
+    useCase: '⚡ EILBEDÜRFTIG: Bei häuslicher Gewalt, Stalking oder Bedrohung. Einstweilige Anordnung ohne mündliche Verhandlung möglich (§ 214 Abs. 1 FamFG). Zuständig: Familiengericht am Aufenthaltsort der geschützten Person (§ 211 FamFG). Strafanzeige parallel empfehlenswert.',
+    fields: [
+      { id: 'gericht', label: 'Familiengericht (Eilzuständigkeit)', type: 'text', required: true, placeholder: 'AG Mitte Berlin – Familiengericht, Bereitschaftsdienst erreichbar' },
+      { id: 'antragsteller', label: 'Antragsteller:in (geschützte Person)', type: 'text', required: true },
+      { id: 'antragsgegner', label: 'Antragsgegner:in (Täter:in)', type: 'text', required: true },
+      { id: 'letzterVorfall', label: 'Letzter Vorfall (Datum, Ort, Schilderung)', type: 'textarea', required: true, hint: 'So konkret wie möglich: Datum, Uhrzeit, Ort, beteiligte Personen, körperliche/verbale Übergriffe, Zeugen.' },
+      { id: 'vorVorfaelle', label: 'Vorherige Vorfälle (Chronologie)', type: 'textarea' },
+      { id: 'wohnungszuweisung', label: 'Wohnungszuweisung beantragen (§ 2 GewSchG)?', type: 'text', required: true, placeholder: 'ja – gemeinsame Wohnung: [Adresse] / nein' },
+      { id: 'kontaktverbot', label: 'Kontaktverbot / Näherungsverbot beantragen?', type: 'text', required: true, placeholder: 'ja – Mindestabstand 100 m, kein Kontakt per Telefon/SMS/E-Mail/Social Media' },
+    ],
+    render: f => `⚡ EILANTRAG ⚡
+
+An das
+${f.gericht || '[Familiengericht]'}
+
+Antrag auf Erlass einer Schutzanordnung
+gem. § 1 GewSchG i. V. m. §§ 210 ff., 214 FamFG
+— als einstweilige Anordnung ohne mündliche Verhandlung —
+
+Antragsteller:in: ${f.antragsteller || '[Antragsteller:in]'}
+Antragsgegner:in: ${f.antragsgegner || '[Antragsgegner:in]'}
+
+Sehr geehrte Damen und Herren,
+
+namens meiner Mandantschaft beantrage ich den sofortigen Erlass folgender Schutzanordnungen:
+
+1. Dem Antragsgegner / der Antragsgegnerin wird untersagt, die Antragsteller:in zu verletzen, zu bedrohen oder zu belästigen (§ 1 Abs. 1 GewSchG).
+
+${(f.kontaktverbot || '').toLowerCase().startsWith('ja') ? `2. ${f.kontaktverbot || 'Kontaktverbot: Dem Antragsgegner / der Antragsgegnerin wird untersagt, mit der Antragsteller:in Kontakt aufzunehmen (§ 1 Abs. 1 S. 3 Nr. 4 GewSchG).'}` : ''}
+
+${(f.wohnungszuweisung || '').toLowerCase().startsWith('ja') ? `3. Die gemeinsame Wohnung wird der Antragsteller:in zur alleinigen Nutzung zugewiesen (§ 2 GewSchG).` : ''}
+
+I. Sachverhalt — letzter Vorfall
+
+${f.letzterVorfall || '[Vorfall schildern]'}
+
+II. Vorherige Vorfälle
+
+${f.vorVorfaelle || '—'}
+
+III. Eilbedürftigkeit
+
+Aufgrund der unmittelbaren Gefährdungslage ist die Anordnung ohne mündliche Verhandlung zu erlassen (§ 214 Abs. 1 FamFG). Jede weitere Verzögerung würde die körperliche Unversehrtheit (Art. 2 Abs. 2 GG) der Antragsteller:in gefährden.
+
+Parallel wird Strafanzeige bei der Polizei erstattet.
+
+Verstöße gegen die Schutzanordnung sind gem. § 4 GewSchG strafbar (Freiheitsstrafe bis 2 Jahre oder Geldstrafe).
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'aenderung_unterhalt',
+    title: 'Abänderungsantrag Unterhalt (§ 238 FamFG / § 323 ZPO)',
+    description: 'Antrag auf Abänderung eines bestehenden Unterhaltstitels wegen wesentlicher Änderung der Verhältnisse.',
+    useCase: 'Bestehendes Urteil, Beschluss oder vollstreckbarer Vergleich über Unterhalt. Wesentliche Änderung der Einkommens- oder Bedarfsverhältnisse seit Titelerlass (§ 238 Abs. 1 FamFG). Rückwirkung nur ab Antragstellung (§ 238 Abs. 3 FamFG) — Antrag unverzüglich stellen!',
+    fields: [
+      { id: 'gericht', label: 'Familiengericht / Aktenzeichen Ursprungsverfahren', type: 'text', required: true },
+      { id: 'antragsteller', label: 'Antragsteller:in', type: 'text', required: true },
+      { id: 'antragsgegner', label: 'Antragsgegner:in', type: 'text', required: true },
+      { id: 'titelBezeichnung', label: 'Abzuändernder Titel (Bezeichnung, Datum)', type: 'text', required: true, placeholder: 'Beschluss AG Hamburg vom 10.03.2022, Az. 123 F 10/22 – Kindesunterhalt € 380/Monat' },
+      { id: 'bisherBetrag', label: 'Bisheriger Unterhaltsbetrag (€)', type: 'text', required: true },
+      { id: 'neuerBetrag', label: 'Beantragter neuer Betrag (€)', type: 'text', required: true },
+      { id: 'aenderungsgrund', label: 'Wesentliche Änderung der Verhältnisse (§ 238 Abs. 1 FamFG)', type: 'textarea', required: true, hint: 'Einkommensveränderung, Jobverlust, Volljährigkeit des Kindes, Wiederheirat, Düsseldorfer Tabelle angepasst etc.' },
+    ],
+    render: f => `An das
+${f.gericht || '[Familiengericht]'}
+
+Abänderungsantrag
+gem. § 238 FamFG (bzw. § 323 ZPO für ältere Urteile)
+
+Antragsteller:in: ${f.antragsteller || '[Antragsteller:in]'}
+Antragsgegner:in: ${f.antragsgegner || '[Antragsgegner:in]'}
+
+Abzuändernder Titel: ${f.titelBezeichnung || '[Titel]'}
+
+Sehr geehrte Damen und Herren,
+
+namens meiner Mandantschaft beantrage ich, den oben bezeichneten Unterhaltstitel dahingehend abzuändern, dass der monatliche Unterhalt
+
+von € ${f.bisherBetrag || '[bisheriger Betrag]'} auf € ${f.neuerBetrag || '[neuer Betrag]'}
+
+herabgesetzt / heraufgesetzt wird, und zwar ab Rechtshängigkeit dieses Antrags.
+
+I. Wesentliche Änderung der Verhältnisse (§ 238 Abs. 1 FamFG)
+
+${f.aenderungsgrund || '[Änderungsgrund einfügen]'}
+
+II. Rechtlicher Hinweis
+
+Die Abänderung wirkt gem. § 238 Abs. 3 FamFG frühestens ab Antragstellung zurück. Der Antrag wurde unverzüglich nach Kenntnis der Änderung gestellt.
+
+Sofern der Titel auf einer Jugendamtsurkunde (§ 59 SGB VIII) beruht, ist der Antrag gem. § 240 FamFG zu stellen.
+
+Bei Änderung der Düsseldorfer Tabelle (jeweils zum 01.01.) ist eine Abänderung ohne Darlegung weiterer Umstände möglich (BGH FamRZ 2018, 260).
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'vaterschaftsfeststellung',
+    title: 'Antrag auf Vaterschaftsfeststellung (§ 1600d BGB / § 169 FamFG)',
+    description: 'Antrag auf gerichtliche Feststellung der Vaterschaft, wenn keine Anerkennung vorliegt.',
+    useCase: 'Vaterschaft nicht anerkannt und Mutter / Kind benötigt Feststellung für Unterhalt, Erbrecht oder Namensrecht. Zuständig: Familiengericht (§§ 169 ff. FamFG). Abstammungsgutachten wird vom Gericht angeordnet.',
+    fields: [
+      { id: 'gericht', label: 'Familiengericht', type: 'text', required: true, placeholder: 'AG Frankfurt am Main – Familiengericht' },
+      { id: 'antragsteller', label: 'Antragsteller:in (Kind, vertreten durch Mutter / Beistand)', type: 'text', required: true, placeholder: 'Max Mustermann, geb. 05.06.2024, gesetzl. vertreten durch die Mutter …' },
+      { id: 'putativerVater', label: 'Mutmaßlicher Vater (Antragsgegner:in)', type: 'text', required: true },
+      { id: 'geburtsdatum', label: 'Geburtsdatum des Kindes', type: 'date', required: true },
+      { id: 'beziehungszeitraum', label: 'Beziehungszeitraum / Empfängniszeit (Nachweis)', type: 'text', required: true, placeholder: 'Beziehung von ca. September 2023 bis März 2024 (Empfängniszeit gem. § 1600d Abs. 3 BGB)' },
+      { id: 'begruendung', label: 'Begründung (Warum wurde nicht anerkannt?)', type: 'textarea', hint: 'Anerkennungsverweigerung, Kontaktverlust, Unbekannter Aufenthalt etc.' },
+      { id: 'unterhalt', label: 'Gleichzeitig Unterhalt beantragen?', type: 'text', placeholder: 'ja / nein' },
+    ],
+    render: f => `An das
+${f.gericht || '[Familiengericht]'}
+
+Antrag auf Feststellung der Vaterschaft
+gem. § 1600d BGB i. V. m. §§ 169 ff. FamFG
+
+Antragsteller:in: ${f.antragsteller || '[Kind / gesetzliche Vertretung]'}
+Antragsgegner:in: ${f.putativerVater || '[mutmaßlicher Vater]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag der Antragsteller:in beantrage ich festzustellen, dass
+
+${f.putativerVater || '[Name]'}
+
+der Vater des Kindes ${f.antragsteller ? f.antragsteller.split(',')[0] : '[Kind]'} (geb. ${f.geburtsdatum || '[Datum]'}) ist.
+
+I. Sachverhalt
+
+${f.beziehungszeitraum || '[Beziehungszeitraum / Empfängniszeit]'}
+
+${f.begruendung || ''}
+
+II. Rechtliche Grundlage
+
+Gem. § 1600d Abs. 1 BGB wird die Vaterschaft gerichtlich festgestellt, wenn keine Anerkennungserklärung vorliegt. Die Empfängniszeit wird gem. § 1600d Abs. 3 BGB vermutet (300–181 Tage vor der Geburt). Ich beantrage, ein Abstammungsgutachten gem. § 177 FamFG in Auftrag zu geben.
+
+${(f.unterhalt || '').toLowerCase().startsWith('ja') ? 'III. Verbundantrag Kindesunterhalt\n\nGleichzeitig beantrage ich, den Antragsgegner zum Kindesunterhalt nach Maßgabe der §§ 1601 ff. BGB und der Düsseldorfer Tabelle zu verpflichten. Der genaue Betrag wird nach Bekanntwerden der Einkommensverhältnisse beziffert.\n\n' : ''}Die Beiordnung eines Beistands gem. § 1712 BGB (Jugendamt) wird angeregt, sofern keine anwaltliche Vertretung des Kindes bereits gesichert ist.
+
+${SIGN_OFF}
+`,
+  },
+]
+
+/**
+ * Sozialrecht-Pack — 10 Templates für Pflichtverteidigung/Beratungshilfe.
+ * Schwerpunkt Widersprüche (§ 84 SGG, 1 Monat) gegen Jobcenter/Krankenkasse/
+ * DRV/Sozialamt + Klagen ans Sozialgericht + Eilanträge (§ 86b SGG) +
+ * PKH/BerHG. Frist-Warnhinweise prominent in jeder render-Funktion.
+ */
+export const SOZIAL_TEMPLATES: LawyerTemplate[] = [
+  // ---------------------------------------------------------------------
+  {
+    id: 'widerspruch_buergergeld',
+    title: 'Widerspruch Bürgergeld (SGB II)',
+    description: 'Widerspruch gegen Jobcenter-Bescheid (Ablehnung, Kürzung, Sanktion, Aufhebung/Erstattung).',
+    useCase: 'Mandant:in hat einen negativen Jobcenter-Bescheid erhalten. FRIST: 1 Monat ab Bekanntgabe, § 84 SGG. Sofortige Mandatsannahme prüfen — Fristversäumnis führt zu Bestandskraft!',
+    fields: [
+      { id: 'jobcenter', label: 'Jobcenter (Empfänger:in)', type: 'text', required: true, placeholder: 'Jobcenter Berlin Mitte, Widerspruchsstelle' },
+      { id: 'mandant', label: 'Mandant:in (Name, Bedarfsgemeinschaft)', type: 'text', required: true },
+      { id: 'mandantAdresse', label: 'Anschrift Mandant:in', type: 'textarea', required: true },
+      { id: 'kundennummer', label: 'Kunden-/BG-Nummer', type: 'text', required: true },
+      { id: 'bescheidDatum', label: 'Datum des Bescheids', type: 'date', required: true },
+      { id: 'bescheidArt', label: 'Art des Bescheids (z. B. Sanktionsbescheid, Aufhebung)', type: 'text', required: true, placeholder: 'Sanktionsbescheid / Ablehnungsbescheid / Erstattungsbescheid' },
+      { id: 'begruendung', label: 'Widerspruchsbegründung', type: 'textarea', required: true, hint: 'Rechtliche Würdigung: z. B. § 31 SGB II (Pflichtverletzung), § 48 SGB X (Aufhebung), § 40 SGB II. Nachweise beilegen.' },
+      { id: 'anlagen', label: 'Anlagen', type: 'textarea', placeholder: 'Bescheid im Original, Einkommensnachweise, Attest' },
+    ],
+    render: f => `An ${f.jobcenter || '[Jobcenter]'}
+
+W i d e r s p r u c h
+gem. § 84 SGG
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Kunden-/BG-Nr.: ${f.kundennummer || '[BG-Nr.]'}
+Anschrift: ${f.mandantAdresse ? f.mandantAdresse.replace(/\n/g, ', ') : '[Anschrift]'}
+gegen den Bescheid vom ${f.bescheidDatum || '[Datum]'} (${f.bescheidArt || '[Bescheidart]'})
+
+⚠ FRISTHINWEIS: Widerspruchsfrist 1 Monat ab Bekanntgabe, § 84 Abs. 1 SGG.
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft, ${f.mandant || '[Mandant:in]'}, lege ich gegen den oben bezeichneten Bescheid
+
+W i d e r s p r u c h
+
+ein und beantrage, diesen aufzuheben.
+
+Begründung
+
+${f.begruendung || '[Begründung einfügen — z. B. Verstoß gegen § 31 SGB II, fehlende Anhörung gem. § 24 SGB X, Ermessensfehler etc.]'}
+
+Ich beantrage ferner, die aufschiebende Wirkung dieses Widerspruchs anzuordnen, soweit sie nicht bereits kraft Gesetzes besteht (§ 39 SGB II, § 86a SGG).
+
+Sollte der Widerspruch nicht abgeholfen werden, behalten wir uns Klage beim zuständigen Sozialgericht ausdrücklich vor.
+
+Anlagen: ${f.anlagen || '—'}
+
+Die anwaltliche Vertretungsvollmacht wird anwaltlich versichert; sie wird auf Verlangen nachgereicht.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'widerspruch_grundsicherung',
+    title: 'Widerspruch Grundsicherung (SGB XII)',
+    description: 'Widerspruch gegen Bescheid des Sozialamts (Grundsicherung im Alter/bei Erwerbsminderung, Hilfe zum Lebensunterhalt).',
+    useCase: 'Mandant:in bezieht oder beantragte Leistungen nach SGB XII; Bescheid ist ablehnend oder kürzend. FRIST: 1 Monat, § 84 SGG.',
+    fields: [
+      { id: 'sozialamt', label: 'Sozialamt / Träger (Empfänger:in)', type: 'text', required: true, placeholder: 'Bezirksamt Berlin-Neukölln, Soziale Wohnhilfen' },
+      { id: 'mandant', label: 'Mandant:in', type: 'text', required: true },
+      { id: 'mandantAdresse', label: 'Anschrift Mandant:in', type: 'textarea', required: true },
+      { id: 'aktenzeichen', label: 'Aktenzeichen der Behörde', type: 'text', required: true },
+      { id: 'bescheidDatum', label: 'Datum des Bescheids', type: 'date', required: true },
+      { id: 'leistungsart', label: 'Leistungsart (z. B. HLU, Grundsicherung EM, Hilfe zur Pflege)', type: 'text', required: true, placeholder: 'Grundsicherung bei Erwerbsminderung gem. §§ 41 ff. SGB XII' },
+      { id: 'begruendung', label: 'Widerspruchsbegründung', type: 'textarea', required: true, hint: 'z. B. Bedarfsunterdeckung § 27a SGB XII, fehlerhafter Regelsatz, Anrechnung von Einkommen/Vermögen gem. §§ 82 ff. SGB XII.' },
+      { id: 'anlagen', label: 'Anlagen', type: 'textarea', placeholder: 'Bescheid, Kontoauszüge, Attest, GdB-Nachweis' },
+    ],
+    render: f => `An ${f.sozialamt || '[Sozialamt]'}
+
+W i d e r s p r u c h
+gem. § 84 SGG
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Az. der Behörde: ${f.aktenzeichen || '[Az.]'}
+Anschrift: ${f.mandantAdresse ? f.mandantAdresse.replace(/\n/g, ', ') : '[Anschrift]'}
+Leistungsart: ${f.leistungsart || '[Leistungsart SGB XII]'}
+gegen den Bescheid vom ${f.bescheidDatum || '[Datum]'}
+
+⚠ FRISTHINWEIS: Widerspruchsfrist 1 Monat ab Bekanntgabe, § 84 Abs. 1 SGG.
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft, ${f.mandant || '[Mandant:in]'}, lege ich gegen den o.g. Bescheid
+
+W i d e r s p r u c h
+
+ein und beantrage, diesen aufzuheben sowie die beantragten Leistungen ungekürzt zu gewähren.
+
+Begründung
+
+${f.begruendung || '[Begründung einfügen — z. B. § 27a SGB XII Regelbedarf, fehlerhafte Einkommensanrechnung §§ 82 ff. SGB XII, Verstoß gegen Anhörungspflicht § 24 SGB X]'}
+
+Anlagen: ${f.anlagen || '—'}
+
+Die anwaltliche Vertretungsvollmacht wird anwaltlich versichert.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'widerspruch_alg1',
+    title: 'Widerspruch ALG I (SGB III)',
+    description: 'Widerspruch gegen Bescheid der Agentur für Arbeit (ALG I, Sperrzeit, Ablehnung, Aufhebung).',
+    useCase: 'Mandant:in erhielt Sperrzeitbescheid, Ablehnungsbescheid oder Aufhebungs-/Erstattungsbescheid der Bundesagentur für Arbeit. FRIST: 1 Monat, § 84 SGG.',
+    fields: [
+      { id: 'agentur', label: 'Agentur für Arbeit (Empfänger:in)', type: 'text', required: true, placeholder: 'Agentur für Arbeit Berlin Mitte, Widerspruchsstelle' },
+      { id: 'mandant', label: 'Mandant:in', type: 'text', required: true },
+      { id: 'kundennummer', label: 'Kunden-/Bewerber-Nr.', type: 'text', required: true },
+      { id: 'bescheidDatum', label: 'Datum des Bescheids', type: 'date', required: true },
+      { id: 'bescheidArt', label: 'Art des Bescheids', type: 'text', required: true, placeholder: 'Sperrzeitbescheid § 159 SGB III / Ablehnungsbescheid § 137 SGB III' },
+      { id: 'sperrzeitGrund', label: 'Angegebener Sperrzeitgrund (falls Sperrzeit)', type: 'text', placeholder: 'z. B. „selbst herbeigeführte Arbeitslosigkeit" gem. § 159 Abs. 1 Nr. 1 SGB III' },
+      { id: 'begruendung', label: 'Widerspruchsbegründung', type: 'textarea', required: true, hint: 'z. B. wichtiger Grund gem. § 159 Abs. 1 S. 2 SGB III, fehlende Kausalität, Unverhältnismäßigkeit, Verfahrensfehler § 24 SGB X.' },
+      { id: 'anlagen', label: 'Anlagen', type: 'textarea', placeholder: 'Bescheid, Aufhebungsvertrag, Arbeitszeugnis, ärztl. Attest' },
+    ],
+    render: f => `An ${f.agentur || '[Agentur für Arbeit]'}
+
+W i d e r s p r u c h
+gem. § 84 SGG
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Kunden-Nr.: ${f.kundennummer || '[Nr.]'}
+gegen den Bescheid vom ${f.bescheidDatum || '[Datum]'} (${f.bescheidArt || '[Bescheidart]'})
+
+⚠ FRISTHINWEIS: Widerspruchsfrist 1 Monat ab Bekanntgabe, § 84 Abs. 1 SGG.
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft, ${f.mandant || '[Mandant:in]'}, lege ich gegen den o.g. Bescheid
+
+W i d e r s p r u c h
+
+ein.
+
+${f.sperrzeitGrund ? `Zur Sperrzeit (angegebener Grund: ${f.sperrzeitGrund}):\n\n` : ''}Begründung
+
+${f.begruendung || '[Begründung einfügen — z. B. wichtiger Grund gem. § 159 Abs. 1 S. 2 SGB III, keine grobe Fahrlässigkeit, Verhältnismäßigkeit; oder: Anwartschaftszeit § 142 SGB III erfüllt]'}
+
+Ich beantrage, den angefochtenen Bescheid aufzuheben und die Leistungen ungekürzt zu gewähren.
+
+Anlagen: ${f.anlagen || '—'}
+
+Die anwaltliche Vertretungsvollmacht wird anwaltlich versichert.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'widerspruch_krankenkasse',
+    title: 'Widerspruch Krankenkasse (SGB V)',
+    description: 'Widerspruch gegen Ablehnung von Reha, Hilfsmittel, Heilmittel, Krankengeld oder stationärer Behandlung durch gesetzliche Krankenkasse.',
+    useCase: 'Mandant:in wurde Leistung nach SGB V (Reha § 40, Hilfsmittel § 33, Heilmittel § 32, Krankengeld § 44, Behandlung § 27) abgelehnt oder nachträglich gekürzt. FRIST: 1 Monat, § 84 SGG.',
+    fields: [
+      { id: 'krankenkasse', label: 'Krankenkasse (Empfänger:in)', type: 'text', required: true, placeholder: 'Techniker Krankenkasse, Widerspruchsstelle Hamburg' },
+      { id: 'mandant', label: 'Mandant:in', type: 'text', required: true },
+      { id: 'versichertenNr', label: 'Versichertennummer', type: 'text', required: true },
+      { id: 'bescheidDatum', label: 'Datum des Bescheids / Ablehnungsschreibens', type: 'date', required: true },
+      { id: 'leistung', label: 'Abgelehnte Leistung', type: 'text', required: true, placeholder: 'Hilfsmittel (Rollstuhl) gem. § 33 SGB V / stationäre Reha § 40 SGB V' },
+      { id: 'mdgutachten', label: 'MDK/MD-Gutachten vorhanden?', type: 'text', placeholder: 'ja – Gutachten vom [Datum] beigefügt / nein' },
+      { id: 'begruendung', label: 'Widerspruchsbegründung', type: 'textarea', required: true, hint: 'z. B. medizinische Notwendigkeit § 12 SGB V, Wirtschaftlichkeitsgebot richtig angewandt?, Kausalität Erkrankung–Leistung, ggf. Gegengutachten ankündigen.' },
+      { id: 'anlagen', label: 'Anlagen', type: 'textarea', placeholder: 'Ärztliche Verordnung, Facharztbericht, MDK-Gutachten, Kostenvoranschlag' },
+    ],
+    render: f => `An ${f.krankenkasse || '[Krankenkasse]'}
+
+W i d e r s p r u c h
+gem. § 84 SGG
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Versichertennummer: ${f.versichertenNr || '[Nr.]'}
+Abgelehnte Leistung: ${f.leistung || '[Leistung]'}
+gegen den Bescheid / das Schreiben vom ${f.bescheidDatum || '[Datum]'}
+
+⚠ FRISTHINWEIS: Widerspruchsfrist 1 Monat ab Bekanntgabe, § 84 Abs. 1 SGG. Bei formlosen Ablehnungsschreiben gilt ggf. verlängerte Frist — Einlegung vorsorglich unverzüglich.
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft, ${f.mandant || '[Mandant:in]'}, lege ich gegen die Ablehnung der o.g. Leistung
+
+W i d e r s p r u c h
+
+ein und beantrage, die Leistung zu gewähren.
+
+${f.mdgutachten ? `Zum MDK/MD-Gutachten: ${f.mdgutachten}\n\n` : ''}Begründung
+
+${f.begruendung || '[Begründung einfügen — z. B. medizinische Notwendigkeit i.S.d. § 12 SGB V, Anspruchsgrundlage § 33 / § 40 / § 44 SGB V, fehlerhafte Anwendung des Wirtschaftlichkeitsgebots]'}
+
+Ich beantrage ferner, die Entscheidung über den Widerspruch vor Einholung eines weiteren MD-Gutachtens meiner Mandantschaft zur Stellungnahme zuzuleiten (§ 277 Abs. 1 SGB V analog).
+
+Anlagen: ${f.anlagen || '—'}
+
+Die anwaltliche Vertretungsvollmacht wird anwaltlich versichert.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'widerspruch_rentenbescheid',
+    title: 'Widerspruch Rentenbescheid (SGB VI)',
+    description: 'Widerspruch gegen Bescheid der Deutschen Rentenversicherung (Ablehnung Erwerbsminderungsrente, Altersrente, Rentenhöhe, Rentenanpassung).',
+    useCase: 'Mandant:in hat Rentenantrag gestellt oder Bescheid erhalten. Typisch: Ablehnung EM-Rente (§§ 43, 240 SGB VI), falsche Entgeltpunkte, fehlende Berücksichtigung von Versicherungszeiten. FRIST: 1 Monat, § 84 SGG.',
+    fields: [
+      { id: 'drv', label: 'Deutsche Rentenversicherung (Empfänger:in)', type: 'text', required: true, placeholder: 'Deutsche Rentenversicherung Berlin-Brandenburg, Widerspruchsstelle' },
+      { id: 'mandant', label: 'Mandant:in', type: 'text', required: true },
+      { id: 'rentenversicherungsNr', label: 'Rentenversicherungsnummer', type: 'text', required: true },
+      { id: 'bescheidDatum', label: 'Datum des Bescheids', type: 'date', required: true },
+      { id: 'rentenart', label: 'Rentenart / Streitgegenstand', type: 'text', required: true, placeholder: 'Ablehnung Erwerbsminderungsrente gem. § 43 SGB VI' },
+      { id: 'begruendung', label: 'Widerspruchsbegründung', type: 'textarea', required: true, hint: 'z. B. volle/teilweise Erwerbsminderung (§ 43 SGB VI), Wartezeit erfüllt (§ 50 SGB VI), fehlerhafte Entgeltpunkte, Gutachtenmangel, Versicherungszeiten gem. §§ 54 ff. SGB VI.' },
+      { id: 'gutachten', label: 'Rentenärztliches Gutachten / Gegengutachten', type: 'text', placeholder: 'Gutachten des Rentendienstes vom [Datum]; Gegengutachten wird beantragt' },
+      { id: 'anlagen', label: 'Anlagen', type: 'textarea', placeholder: 'Ärztliche Befundberichte, GdB-Bescheid, Arbeitsamtsunterlagen' },
+    ],
+    render: f => `An ${f.drv || '[Deutsche Rentenversicherung]'}
+
+W i d e r s p r u c h
+gem. § 84 SGG
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Rentenversicherungsnummer: ${f.rentenversicherungsNr || '[Nr.]'}
+Streitgegenstand: ${f.rentenart || '[Rentenart]'}
+gegen den Bescheid vom ${f.bescheidDatum || '[Datum]'}
+
+⚠ FRISTHINWEIS: Widerspruchsfrist 1 Monat ab Bekanntgabe, § 84 Abs. 1 SGG. Fristversäumnis führt zu Bestandskraft — keine Nachsicht ohne triftigen Grund.
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft, ${f.mandant || '[Mandant:in]'}, lege ich gegen den o.g. Bescheid
+
+W i d e r s p r u c h
+
+ein und beantrage, die Rente zu gewähren / die Rentenhöhe korrekt festzusetzen.
+
+Begründung
+
+${f.begruendung || '[Begründung einfügen — z. B. die Leistungsfähigkeit auf dem allgemeinen Arbeitsmarkt ist dauerhaft auf unter 6 / 3 Stunden täglich gesunken gem. § 43 Abs. 1/2 SGB VI; Wartezeit gem. § 50 SGB VI erfüllt]'}
+
+${f.gutachten ? `Zum Gutachten: ${f.gutachten}\n\n` : ''}Ich beantrage ferner Akteneinsicht gem. § 29 SGB X.
+
+Anlagen: ${f.anlagen || '—'}
+
+Die anwaltliche Vertretungsvollmacht wird anwaltlich versichert.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'antrag_schwerbehinderung',
+    title: 'Antrag Schwerbehindertenausweis (SGB IX)',
+    description: 'Erstantrag oder Verschlimmerungsantrag auf Feststellung des Grades der Behinderung (GdB) beim Versorgungsamt, § 152 SGB IX.',
+    useCase: 'Mandant:in leidet an einer Beeinträchtigung und möchte den GdB und Merkzeichen (z. B. G, aG, RF, B) feststellen lassen. Kein Widerspruch — dies ist ein Erstantrag / Neufeststellungsantrag.',
+    fields: [
+      { id: 'behoerde', label: 'Versorgungsamt / Landesamt (Empfänger:in)', type: 'text', required: true, placeholder: 'Landesamt für Gesundheit und Soziales Berlin (LAGeSo), Versorgungsamt' },
+      { id: 'mandant', label: 'Mandant:in (Name, Geburtsdatum)', type: 'text', required: true },
+      { id: 'mandantAdresse', label: 'Anschrift Mandant:in', type: 'textarea', required: true },
+      { id: 'behinderungen', label: 'Gesundheitliche Beeinträchtigungen / Diagnosen', type: 'textarea', required: true, hint: 'Alle relevanten Diagnosen mit ICD-10 wenn bekannt. Je vollständiger, desto besser die Ausgangslage.' },
+      { id: 'merkzeichen', label: 'Beantragte Merkzeichen (optional)', type: 'text', placeholder: 'G (erhebliche Gehbehinderung), aG, RF, B, H, Gl, TBl' },
+      { id: 'gdBisherig', label: 'Bisheriger GdB (falls Verschlimmerungsantrag)', type: 'text', placeholder: 'bisher GdB 30 (Bescheid vom [Datum])' },
+      { id: 'anlagen', label: 'Anlagen (ärztliche Atteste, Befundberichte)', type: 'textarea', placeholder: 'Arztbriefe, Reha-Entlassbericht, Gutachten' },
+    ],
+    render: f => `An ${f.behoerde || '[Versorgungsamt]'}
+
+Antrag auf Feststellung der Behinderung
+gem. § 152 SGB IX
+
+Antragstellende Person: ${f.mandant || '[Mandant:in]'}
+Anschrift: ${f.mandantAdresse ? f.mandantAdresse.replace(/\n/g, ', ') : '[Anschrift]'}
+${f.gdBisherig ? `Bisheriger GdB: ${f.gdBisherig}\n` : ''}
+
+Sehr geehrte Damen und Herren,
+
+ich zeige an, dass mich ${f.mandant || '[Mandant:in]'} mit der Wahrnehmung ihrer:seiner Interessen im Schwerbehindertenverfahren beauftragt hat.
+
+Namens und im Auftrag meiner Mandantschaft stelle ich hiermit
+
+A n t r a g
+
+auf Feststellung des Grades der Behinderung (GdB) gem. § 152 Abs. 1 SGB IX sowie auf Ausstellung eines Schwerbehindertenausweises.
+
+Gesundheitliche Beeinträchtigungen
+
+${f.behinderungen || '[Diagnosen / Beeinträchtigungen einfügen]'}
+
+${f.merkzeichen ? `Beantragte Merkzeichen\n\n${f.merkzeichen}\n\n` : ''}Ich bitte, die beigefügten ärztlichen Unterlagen bei der Begutachtung vollständig zu berücksichtigen. Sollte eine amtsärztliche Untersuchung geplant sein, bitte ich um vorherige Mitteilung.
+
+Anlagen: ${f.anlagen || '—'}
+
+Die anwaltliche Vertretungsvollmacht wird anwaltlich versichert.
+
+Hinweis: Bei Ablehnung oder unzureichendem GdB empfehle ich meiner Mandantschaft Widerspruch gem. § 84 SGG (Frist 1 Monat) sowie ggf. Klage beim Sozialgericht.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'klage_sozialgericht',
+    title: 'Klageschrift Sozialgericht',
+    description: 'Klage beim Sozialgericht nach erfolglosem Widerspruch (Widerspruchsbescheid liegt vor).',
+    useCase: 'Widerspruchsverfahren erfolglos. Klage beim zuständigen Sozialgericht nach § 54 SGG. FRIST: 1 Monat ab Zustellung des Widerspruchsbescheids, § 87 Abs. 1 SGG. Verfahren ist gerichtskostenfrei gem. § 183 SGG (Versicherte/Rentner).',
+    fields: [
+      { id: 'gericht', label: 'Sozialgericht (Empfänger:in)', type: 'text', required: true, placeholder: 'Sozialgericht Berlin, Littenstraße 12–17, 10179 Berlin' },
+      { id: 'klaeger', label: 'Kläger:in (Mandant:in, Anschrift)', type: 'textarea', required: true },
+      { id: 'beklagter', label: 'Beklagte:r (Behörde, Anschrift)', type: 'textarea', required: true, placeholder: 'Jobcenter Berlin Mitte, Brunnenstraße 110, 13355 Berlin' },
+      { id: 'widerspruchsbescheidDatum', label: 'Datum des Widerspruchsbescheids', type: 'date', required: true },
+      { id: 'streitgegenstand', label: 'Streitgegenstand', type: 'text', required: true, placeholder: 'Gewährung von Bürgergeld für den Zeitraum [Datum–Datum], § 19 SGB II' },
+      { id: 'klageziel', label: 'Klageantrag', type: 'textarea', required: true, hint: 'Konkret formulieren: z. B. „Die Beklagte wird verurteilt, dem Kläger für den Zeitraum … Leistungen i.H.v. monatlich … € zu gewähren."' },
+      { id: 'begruendung', label: 'Klagebegründung', type: 'textarea', required: true },
+      { id: 'anlagen', label: 'Anlagen', type: 'textarea', placeholder: 'Ausgangsbescheid, Widerspruchsbescheid, Vollmacht, Belege' },
+    ],
+    render: f => `An ${f.gericht || '[Sozialgericht]'}
+
+K l a g e s c h r i f t
+gem. § 54 SGG
+
+Kläger:in:
+${f.klaeger || '[Kläger:in, Anschrift]'}
+— vertreten durch Rechtsanwält:in —
+
+gegen
+
+Beklagte:r:
+${f.beklagter || '[Beklagte:r, Anschrift]'}
+
+Streitgegenstand: ${f.streitgegenstand || '[Streitgegenstand]'}
+
+⚠ FRISTHINWEIS: Klagefrist 1 Monat ab Zustellung des Widerspruchsbescheids, § 87 Abs. 1 SGG.
+Gerichtskostenfreiheit für Versicherte/Rentner gem. § 183 SGG.
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft erhebe ich hiermit gegen den Widerspruchsbescheid vom ${f.widerspruchsbescheidDatum || '[Datum]'}
+
+K l a g e
+
+und beantrage,
+
+${f.klageziel || '[Klageantrag einfügen]'}
+
+Begründung
+
+${f.begruendung || '[Klagebegründung einfügen — Sachverhalt, Rechtslage, Beweiswürdigung]'}
+
+Beweis: Beiziehung der Verwaltungsakte; ggf. Sachverständigengutachten.
+
+Anlagen: ${f.anlagen || '—'}
+
+Die anwaltliche Vertretungsvollmacht ist beigefügt.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'eilantrag_einstweilige_anordnung_sg',
+    title: 'Eilantrag einstweilige Anordnung (§ 86b SGG)',
+    description: 'Eilantrag auf einstweilige Anordnung beim Sozialgericht, z. B. bei drohender Obdachlosigkeit (Mietkosten), Heizungsausfall, Leistungsunterbrechung.',
+    useCase: 'Sofortige Sicherung nötig: Jobcenter oder Sozialamt verweigert Leistung, die nicht bis zur Hauptsacheentscheidung warten kann. § 86b Abs. 2 SGG: Anordnungsanspruch + Anordnungsgrund müssen glaubhaft gemacht werden (§ 920 Abs. 2 ZPO analog). Keine Frist, aber Eilbedürftigkeit belegen!',
+    fields: [
+      { id: 'gericht', label: 'Sozialgericht (Empfänger:in)', type: 'text', required: true, placeholder: 'Sozialgericht Berlin, Littenstraße 12–17, 10179 Berlin' },
+      { id: 'antragsteller', label: 'Antragsteller:in (Mandant:in, Anschrift)', type: 'textarea', required: true },
+      { id: 'antragsgegner', label: 'Antragsgegner:in (Behörde, Anschrift)', type: 'textarea', required: true },
+      { id: 'eilgrund', label: 'Eilgrund (konkreter Notfall)', type: 'text', required: true, placeholder: 'Drohende Kündigung / Räumungsklage durch Vermieter zum [Datum] / Heizungsausfall' },
+      { id: 'anordnungsanspruch', label: 'Anordnungsanspruch (Glaubhaftmachung)', type: 'textarea', required: true, hint: '§ 22 SGB II / § 36 SGB XII (Mietkosten), § 24 SGB II (einmalige Beihilfe), § 33 SGB V (Hilfsmittel). Rechtsgrundlage + Tatsachengrundlage darlegen.' },
+      { id: 'anordnungsgrund', label: 'Anordnungsgrund (Eilbedürftigkeit)', type: 'textarea', required: true, hint: 'Konkrete drohende Rechtseinbuße: z. B. Räumungsklage, Versorgungsunterbrechung, Gesundheitsschaden. Zeitpunkt benennen.' },
+      { id: 'antrag', label: 'Formulierter Eilantrag', type: 'textarea', required: true, placeholder: 'Die Antragsgegnerin wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller Mietkosten i.H.v. … € als Schulden zu übernehmen, § 22 Abs. 8 SGB II.' },
+      { id: 'anlagen', label: 'Anlagen (zur Glaubhaftmachung)', type: 'textarea', placeholder: 'Mietrückstandsschreiben Vermieter, Kündigung, Kontoauszüge, Ablehnungsbescheid, eidesstattliche Erklärung' },
+    ],
+    render: f => `An ${f.gericht || '[Sozialgericht]'}
+
+Antrag auf einstweilige Anordnung
+gem. § 86b Abs. 2 SGG
+
+Antragsteller:in:
+${f.antragsteller || '[Antragsteller:in, Anschrift]'}
+— vertreten durch Rechtsanwält:in —
+
+gegen
+
+Antragsgegner:in:
+${f.antragsgegner || '[Antragsgegner:in, Anschrift]'}
+
+Eilgrund: ${f.eilgrund || '[Eilgrund]'}
+
+⚠ EILBEDÜRFTIG: Keine Frist gem. Gesetz, aber sofortiges Handeln erforderlich. Einstweilige Anordnung setzt GLAUBHAFTMACHUNG von Anordnungsanspruch + Anordnungsgrund voraus (§ 86b Abs. 2 S. 4 SGG i.V.m. § 920 Abs. 2 ZPO).
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft beantrage ich hiermit im Wege des einstweiligen Rechtsschutzes gem. § 86b Abs. 2 SGG,
+
+${f.antrag || '[Formulierten Eilantrag einfügen]'}
+
+I. Anordnungsanspruch
+
+${f.anordnungsanspruch || '[Anordnungsanspruch glaubhaft machen — Rechtsgrundlage + Tatsachen]'}
+
+II. Anordnungsgrund (Eilbedürftigkeit)
+
+${f.anordnungsgrund || '[Anordnungsgrund glaubhaft machen — konkrete drohende Nachteile, Zeitpunkt]'}
+
+Für den Fall der Nicht-Abhilfe wird auf die Möglichkeit der Beschwerde gem. § 172 SGG hingewiesen.
+
+Anlagen (zur Glaubhaftmachung): ${f.anlagen || '—'}
+
+Die Vollmacht ist beigefügt.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'antrag_pkh_beratungshilfe',
+    title: 'Antrag Beratungshilfe / PKH (BerHG / SGG)',
+    description: 'Antrag auf Beratungshilfe gem. §§ 1, 4 BerHG (außergerichtlich) bzw. Prozesskostenhilfe gem. § 73a SGG i.V.m. §§ 114 ff. ZPO (gerichtlich).',
+    useCase: 'Mandant:in ist mittellos. Vor Mandatsübernahme klären: Beratungshilfe für außergerichtliche Tätigkeit (Berechtigungsschein Amtsgericht, Gebühr Nr. 2500 VV RVG = 35 € zzgl. MwSt.) oder PKH für gerichtliches Verfahren (kein Kostenvorschuss, ggf. Beiordnung). Sozialgerichtsverfahren für Versicherte ist gem. § 183 SGG bereits gerichtskostenfrei.',
+    fields: [
+      { id: 'empfaenger', label: 'Amtsgericht (Beratungshilfe) oder Sozialgericht (PKH)', type: 'text', required: true, placeholder: 'Amtsgericht Berlin-Mitte, Beratungshilfestelle / Sozialgericht Berlin' },
+      { id: 'mandant', label: 'Antragsteller:in (Mandant:in)', type: 'text', required: true },
+      { id: 'mandantAdresse', label: 'Anschrift Mandant:in', type: 'textarea', required: true },
+      { id: 'einkommenssituation', label: 'Einkommens- und Vermögenssituation (kurz)', type: 'textarea', required: true, hint: 'Nettoeinkommen, laufende Leistungen (SGB II/XII), Vermögenswerte. PKH-Formular VKH wird separat eingereicht.' },
+      { id: 'angelegenheit', label: 'Angelegenheit / Rechtsgebiet', type: 'text', required: true, placeholder: 'Widerspruch gegen Jobcenter-Sanktionsbescheid (SGB II)' },
+      { id: 'erfolgsaussichten', label: 'Kurze Darlegung der Erfolgsaussichten', type: 'textarea', required: true, hint: 'PKH: hinreichende Erfolgsaussichten + keine Mutwilligkeit (§ 114 ZPO). Beratungshilfe: keine offensichtliche Unzulässigkeit.' },
+      { id: 'art', label: 'Art der Hilfe', type: 'text', required: true, placeholder: 'Beratungshilfe (BerHG) / Prozesskostenhilfe mit Beiordnung (§ 73a SGG)' },
+    ],
+    render: f => `An ${f.empfaenger || '[Amtsgericht / Sozialgericht]'}
+
+Antrag auf ${f.art || 'Beratungshilfe / Prozesskostenhilfe'}
+
+Antragsteller:in: ${f.mandant || '[Mandant:in]'}
+Anschrift: ${f.mandantAdresse ? f.mandantAdresse.replace(/\n/g, ', ') : '[Anschrift]'}
+Angelegenheit: ${f.angelegenheit || '[Angelegenheit]'}
+
+Sehr geehrte Damen und Herren,
+
+ich bitte namens meiner Mandantschaft, ${f.mandant || '[Mandant:in]'},
+
+${(f.art || '').toLowerCase().includes('pkh') || (f.art || '').toLowerCase().includes('prozesskostenhilfe')
+  ? 'um Bewilligung von Prozesskostenhilfe mit Anwaltsbeiordnung gem. § 73a SGG i.V.m. §§ 114 ff. ZPO.'
+  : 'um Ausstellung eines Berechtigungsscheins für Beratungshilfe gem. §§ 1, 4 BerHG.'}
+
+Einkommens- und Vermögenssituation
+
+${f.einkommenssituation || '[Einkommens- und Vermögenssituation]'}
+
+${(f.art || '').toLowerCase().includes('pkh') || (f.art || '').toLowerCase().includes('prozesskostenhilfe')
+  ? 'Das ausgefüllte PKH-Formular (VKH) sowie Belege über die Einkommensverhältnisse sind beigefügt.\n\n'
+  : ''}Erfolgsaussichten
+
+${f.erfolgsaussichten || '[Erfolgsaussichten darlegen]'}
+
+Hinweis Beratungshilfe: Vergütung Anwält:in gem. Nr. 2500 VV RVG (35,00 € zzgl. MwSt. = 41,65 €) — Erstattung aus Staatskasse. Mandant:in zahlt ggf. Eigenanteil 15 €.
+
+Hinweis PKH / SG: Sozialgerichtsverfahren ist für Versicherte bereits gem. § 183 SGG gerichtskostenfrei. PKH umfasst hier primär die Anwaltsbeiordnung (Vergütung nach RVG aus Staatskasse).
+
+Die anwaltliche Vollmacht ist beigefügt.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------------------------------------------
+  {
+    id: 'antrag_uebernahme_mietkosten',
+    title: 'Antrag Übernahme Mietkosten/-schulden',
+    description: 'Antrag auf Übernahme von Mietschulden oder laufenden Unterkunftskosten gem. § 22 Abs. 8 SGB II (Jobcenter) oder § 36 SGB XII (Sozialamt).',
+    useCase: 'Mandant:in hat Mietrückstände und droht Wohnungsverlust durch Kündigung / Räumungsklage. § 22 Abs. 8 SGB II: Darlehen oder Beihilfe, wenn Wohnungserhalt möglich und Übernahme gerechtfertigt. § 36 SGB XII: Übernahme als einmalige Beihilfe. Ggf. Eilantrag parallel stellen!',
+    fields: [
+      { id: 'behoerde', label: 'Behörde (Jobcenter / Sozialamt)', type: 'text', required: true, placeholder: 'Jobcenter Berlin-Neukölln / Sozialamt Bezirksamt Neukölln' },
+      { id: 'mandant', label: 'Mandant:in', type: 'text', required: true },
+      { id: 'kundennummer', label: 'Kunden-/Aktenzeichen', type: 'text' },
+      { id: 'mandantAdresse', label: 'Anschrift (Wohnung, die erhalten werden soll)', type: 'textarea', required: true },
+      { id: 'vermieter', label: 'Vermieter:in (Name, Anschrift)', type: 'text', required: true },
+      { id: 'mietrueckstand', label: 'Höhe Mietrückstand (€) und Zeitraum', type: 'text', required: true, placeholder: '2.400,00 € für Monate Januar–März 2026' },
+      { id: 'kuendigungSituation', label: 'Kündigungs-/Räumungssituation', type: 'text', required: true, placeholder: 'Fristlose Kündigung vom [Datum]; Räumungsklage angekündigt zum [Datum]' },
+      { id: 'begruendung', label: 'Begründung / Darstellung der Notsituation', type: 'textarea', required: true, hint: 'Warum ist Übernahme gerechtfertigt? Wohnungserhalt möglich? Keine Wiederholungsgefahr? § 22 Abs. 8 S. 2 SGB II: soll gewährt werden, wenn Wohnungserhalt möglich.' },
+    ],
+    render: f => `An ${f.behoerde || '[Jobcenter / Sozialamt]'}
+
+Antrag auf Übernahme von Mietschulden
+gem. § 22 Abs. 8 SGB II / § 36 SGB XII
+
+Antragsteller:in: ${f.mandant || '[Mandant:in]'}${f.kundennummer ? `\nAktenzeichen: ${f.kundennummer}` : ''}
+Anschrift der zu erhaltenden Wohnung: ${f.mandantAdresse ? f.mandantAdresse.replace(/\n/g, ', ') : '[Anschrift]'}
+Vermieter:in: ${f.vermieter || '[Vermieter:in]'}
+
+⚠ ACHTUNG: Drohender Wohnungsverlust — Eilbedürftigkeit gegeben. Ggf. parallel Eilantrag § 86b SGG stellen!
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft, ${f.mandant || '[Mandant:in]'}, stelle ich hiermit
+
+A n t r a g
+
+auf Übernahme der aufgelaufenen Mietschulden gem. § 22 Abs. 8 SGB II (hilfsweise § 36 SGB XII) als Beihilfe, hilfsweise als Darlehen.
+
+Mietrückstand: ${f.mietrueckstand || '[Betrag und Zeitraum]'}
+Aktuelle Situation: ${f.kuendigungSituation || '[Kündigungs-/Räumungssituation]'}
+
+Begründung
+
+${f.begruendung || '[Begründung einfügen — Notsituation, Wohnungserhalt möglich, keine Wiederholungsgefahr, § 22 Abs. 8 S. 2 SGB II: soll-Norm bei möglichem Wohnungserhalt]'}
+
+Rechtsgrundlage: § 22 Abs. 8 SGB II sieht vor, dass Schulden übernommen werden sollen, wenn Wohnungserhalt möglich und Übernahme gerechtfertigt ist. Eine Ermessensreduzierung auf Null ist angezeigt, da Obdachlosigkeit droht und die Kosten der Obdachlosenunterbringung die Übernahmesumme übersteigen würden.
+
+Ich bitte um schnellstmögliche Bearbeitung. Sollte der Antrag abgelehnt werden, behalten wir uns ausdrücklich vor, Eilantrag gem. § 86b Abs. 2 SGG zu stellen.
+
+Die anwaltliche Vertretungsvollmacht wird anwaltlich versichert.
+
+${SIGN_OFF}
+`,
+  },
+]
+
+/**
+ * Steuerrecht-Pack — 10 Templates für Einspruch (§ 347 AO, 1 Monat),
+ * AdV-Antrag (§ 361 AO / § 69 FGO), Stundung (§ 222 AO), Erlass (§ 227 AO),
+ * Selbstanzeige (§ 371 AO mit Vollständigkeitsgebot + Sperrgrund-Check),
+ * FG-Klage, ErbStG-Anzeige, USt-Dauerfristverlängerung.
+ */
+export const STEUER_TEMPLATES: LawyerTemplate[] = [
+  {
+    id: 'einspruch_steuerbescheid',
+    title: 'Einspruch gegen Steuerbescheid',
+    description: 'Einspruch gem. § 347 AO mit Begründung; Frist 1 Monat ab Bekanntgabe (§ 355 AO).',
+    useCase: 'Mandant:in hat einen Einkommensteuerbescheid, Gewerbesteuermessbescheid oder anderen Steuerbescheid erhalten, der materiell oder formell fehlerhaft ist. Frist unbedingt wahren.',
+    fields: [
+      { id: 'finanzamt', label: 'Finanzamt (Empfänger:in)', type: 'text', required: true, placeholder: 'Finanzamt Berlin-Mitte' },
+      { id: 'mandant', label: 'Mandant:in (Steuerpflichtige:r)', type: 'text', required: true },
+      { id: 'steuernummer', label: 'Steuernummer', type: 'text', required: true, placeholder: '11/222/33333' },
+      { id: 'bescheidDatum', label: 'Datum des Bescheids', type: 'date', required: true },
+      { id: 'steuerart', label: 'Steuerart und Veranlagungszeitraum', type: 'text', required: true, placeholder: 'Einkommensteuer 2023' },
+      { id: 'begruendung', label: 'Einspruchsbegründung', type: 'textarea', required: true, hint: 'Konkrete Angriffspunkte benennen: fehlerhafte Schätzung, unberücksichtigte Betriebsausgaben, Rechtsanwendungsfehler etc.' },
+      { id: 'beweismittel', label: 'Beweismittel / Anlagen', type: 'textarea', placeholder: 'Kontoauszüge, Belege, Verträge' },
+    ],
+    render: f => `An ${f.finanzamt || '[Finanzamt]'}
+
+Einspruch gem. § 347 AO
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Steuernummer: ${f.steuernummer || '[Steuernummer]'}
+Bescheid über ${f.steuerart || '[Steuerart/VZ]'} vom ${f.bescheidDatum || '[Datum]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft, ${f.mandant || '[Mandant:in]'}, lege ich gegen den oben bezeichneten Bescheid innerhalb der Einspruchsfrist des § 355 Abs. 1 AO
+
+E i n s p r u c h
+
+ein und beantrage, den Bescheid aufzuheben, hilfsweise zu ändern.
+
+I. Zulässigkeit
+
+Der Einspruch ist gem. § 347 Abs. 1 Nr. 1 AO statthaft. Die Einspruchsfrist von einem Monat ab Bekanntgabe (§ 355 Abs. 1 AO, § 122 Abs. 2 AO) ist gewahrt. Die Beschwer liegt vor.
+
+II. Begründung
+
+${f.begruendung || '[Einspruchsbegründung einfügen]'}
+
+III. Beweismittel
+
+${f.beweismittel || '— Beizufügende Belege werden nachgereicht bzw. liegen an.'}
+
+Ich beantrage,
+— den angefochtenen Bescheid aufzuheben / zu ändern,
+— die Zuziehung eines Bevollmächtigten gem. § 139 Abs. 3 FGO für notwendig zu erklären,
+— vorsorglich Aussetzung der Vollziehung gem. § 361 AO.
+
+Die Bevollmächtigung wird anwaltlich versichert.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------
+  {
+    id: 'antrag_aussetzung_vollziehung',
+    title: 'AdV-Antrag (§ 361 AO / § 69 FGO)',
+    description: 'Antrag auf Aussetzung der Vollziehung bei ernstlichen Zweifeln an der Rechtmäßigkeit oder unbilliger Härte.',
+    useCase: 'Im laufenden Einspruchsverfahren oder nach Klageerhebung — Mandant:in soll nicht zahlen müssen, bevor über den Streit entschieden ist.',
+    fields: [
+      { id: 'finanzamt', label: 'Finanzamt / Finanzgericht (Empfänger:in)', type: 'text', required: true, placeholder: 'Finanzamt Berlin-Mitte / Finanzgericht Berlin-Brandenburg' },
+      { id: 'mandant', label: 'Mandant:in', type: 'text', required: true },
+      { id: 'steuernummer', label: 'Steuernummer / Az. FG', type: 'text', required: true },
+      { id: 'bescheidDatum', label: 'Datum des angefochtenen Bescheids', type: 'date', required: true },
+      { id: 'steuerart', label: 'Steuerart und Veranlagungszeitraum', type: 'text', required: true, placeholder: 'Körperschaftsteuer 2022' },
+      { id: 'streitbetrag', label: 'Streitiger Betrag (€)', type: 'text', required: true, placeholder: '12.450,00' },
+      { id: 'adv_begruendung', label: 'Begründung der ernstlichen Zweifel / unbilligen Härte', type: 'textarea', required: true, hint: 'Ernstliche Zweifel i. S. d. § 361 Abs. 2 S. 2 AO oder unbillige Härte i. S. d. § 361 Abs. 2 S. 2 a. E. AO.' },
+    ],
+    render: f => `An ${f.finanzamt || '[Finanzamt / Finanzgericht]'}
+
+Antrag auf Aussetzung der Vollziehung
+gem. § 361 AO / § 69 FGO
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Steuernummer / Az.: ${f.steuernummer || '[Steuernummer/Az.]'}
+Bescheid über ${f.steuerart || '[Steuerart/VZ]'} vom ${f.bescheidDatum || '[Datum]'}
+Streitiger Nachzahlungsbetrag: € ${f.streitbetrag || '[Betrag]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft beantrage ich,
+
+die Vollziehung des o. g. Bescheids in Höhe von € ${f.streitbetrag || '[Betrag]'} gem. § 361 Abs. 2 AO (im Einspruchsverfahren) / § 69 Abs. 2 FGO (im Klageverfahren) auszusetzen.
+
+I. Zulässigkeit
+
+Gegen den Bescheid ist Einspruch / Klage erhoben; das Verfahren ist anhängig. Der Antrag ist daher statthaft.
+
+II. Begründung
+
+Es bestehen ernstliche Zweifel an der Rechtmäßigkeit des angefochtenen Bescheids i. S. d. § 361 Abs. 2 S. 2 AO / § 69 Abs. 2 S. 2 FGO:
+
+${f.adv_begruendung || '[Begründung ernstliche Zweifel / unbillige Härte einfügen]'}
+
+III. Ergebnis
+
+Eine Vollziehung des Bescheids vor Abschluss des Hauptsacheverfahrens würde für meine Mandantschaft eine unbillige Härte bedeuten. Die steuerlichen Interessen des Fiskus werden durch die übliche Sicherheitsleistung oder AdV ohne Sicherheitsleistung (bei zweifelsfreiem Rückzahlungsanspruch) hinreichend gewahrt.
+
+Ich bitte um kurzfristige Entscheidung.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------
+  {
+    id: 'schaetzung_erlaeuterung',
+    title: 'Erläuterung gegen Schätzungsbescheid',
+    description: 'Einspruch mit nachgereichter Steuererklärung gegen einen Schätzungsbescheid gem. § 162 AO.',
+    useCase: 'Mandant:in hat Steuererklärung nicht abgegeben; Finanzamt hat geschätzt (§ 162 AO). Einspruch + nachgereichte Erklärung sind der Standardweg.',
+    fields: [
+      { id: 'finanzamt', label: 'Finanzamt', type: 'text', required: true, placeholder: 'Finanzamt Charlottenburg' },
+      { id: 'mandant', label: 'Mandant:in', type: 'text', required: true },
+      { id: 'steuernummer', label: 'Steuernummer', type: 'text', required: true },
+      { id: 'bescheidDatum', label: 'Datum des Schätzungsbescheids', type: 'date', required: true },
+      { id: 'steuerart', label: 'Steuerart und Veranlagungszeitraum', type: 'text', required: true, placeholder: 'Einkommensteuer 2022' },
+      { id: 'schaetzBetrag', label: 'Geschätzter Steuerbetrag (€)', type: 'text', placeholder: '8.900,00' },
+      { id: 'erklaerungBeigefuegt', label: 'Erklärung beigefügt?', type: 'text', required: true, placeholder: 'ja — Anlage ESt-Erklärung 2022' },
+      { id: 'abweichung', label: 'Erläuterung der Abweichung vom Schätzwert', type: 'textarea', required: true, hint: 'Warum weicht die tatsächliche Besteuerungsgrundlage von der Schätzung ab?' },
+    ],
+    render: f => `An ${f.finanzamt || '[Finanzamt]'}
+
+Einspruch gegen Schätzungsbescheid / Nachreichung Steuererklärung
+gem. §§ 347, 162 AO
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Steuernummer: ${f.steuernummer || '[Steuernummer]'}
+Schätzungsbescheid ${f.steuerart || '[Steuerart/VZ]'} vom ${f.bescheidDatum || '[Datum]'}${f.schaetzBetrag ? `\nGeschätzter Steuerbetrag: € ${f.schaetzBetrag}` : ''}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft lege ich gegen den o. g. Schätzungsbescheid
+
+E i n s p r u c h
+
+ein und reiche gleichzeitig die Steuererklärung für den o. g. Veranlagungszeitraum nach.
+
+I. Zur Schätzung (§ 162 AO)
+
+Die Schätzung ist durch Nichtabgabe der Erklärung veranlasst worden. Die Voraussetzungen für eine Schätzung nach § 162 Abs. 1 AO lagen damit zwar formell vor; der Bescheid ist jedoch der Höhe nach fehlerhaft, da die tatsächlichen Besteuerungsgrundlagen erheblich von der Schätzung abweichen.
+
+II. Nachgereichte Steuererklärung
+
+${f.erklaerungBeigefuegt || 'Die Steuererklärung für den Veranlagungszeitraum wird als Anlage beigefügt.'}
+
+III. Abweichung vom Schätzwert
+
+${f.abweichung || '[Erläuterung der Abweichung einfügen]'}
+
+Ich beantrage, den angefochtenen Schätzungsbescheid aufzuheben und die Veranlagung auf Grundlage der nachgereichten Steuererklärung durchzuführen.
+
+Sollten noch Rückfragen bestehen, stehe ich für Rücksprache zur Verfügung.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------
+  {
+    id: 'fristverlaengerung_steuererklaerung',
+    title: 'Fristverlängerungsantrag (§ 109 AO)',
+    description: 'Antrag auf Verlängerung der Abgabefrist für die Steuererklärung gem. § 109 AO.',
+    useCase: 'Steuererklärungsfrist läuft ab und Unterlagen oder Buchhaltung liegen noch nicht vollständig vor. Antrag muss vor Fristablauf gestellt werden.',
+    fields: [
+      { id: 'finanzamt', label: 'Finanzamt', type: 'text', required: true, placeholder: 'Finanzamt Steglitz-Zehlendorf' },
+      { id: 'mandant', label: 'Mandant:in', type: 'text', required: true },
+      { id: 'steuernummer', label: 'Steuernummer', type: 'text', required: true },
+      { id: 'steuerart', label: 'Steuerart und Veranlagungszeitraum', type: 'text', required: true, placeholder: 'Einkommensteuer 2024' },
+      { id: 'bisherigeFrist', label: 'Bisherige Abgabefrist', type: 'date', required: true },
+      { id: 'neueFrist', label: 'Beantragte neue Frist', type: 'date', required: true },
+      { id: 'begruendung', label: 'Begründung (§ 109 Abs. 1 AO: erheblicher Grund)', type: 'textarea', required: true, hint: 'Erheblicher Grund i. S. d. § 109 Abs. 1 S. 1 AO: z. B. fehlende Belege, Krankheit, Unternehmensumstrukturierung.' },
+    ],
+    render: f => `An ${f.finanzamt || '[Finanzamt]'}
+
+Antrag auf Verlängerung der Erklärungsfrist
+gem. § 109 AO
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Steuernummer: ${f.steuernummer || '[Steuernummer]'}
+Steuerart / Veranlagungszeitraum: ${f.steuerart || '[Steuerart/VZ]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft beantrage ich gem. § 109 Abs. 1 AO,
+
+die Frist zur Abgabe der ${f.steuerart || '[Steuerart/VZ]'}-Erklärung
+von bisher ${f.bisherigeFrist || '[bisherige Frist]'}
+auf den ${f.neueFrist || '[neue Frist]'}
+
+zu verlängern.
+
+I. Begründung
+
+${f.begruendung || '[Erheblicher Grund i. S. d. § 109 Abs. 1 S. 1 AO einfügen]'}
+
+II. Hinweis
+
+Innerhalb der beantragten Verlängerungsfrist wird die vollständige und prüffähige Erklärung eingereicht werden. Ich versichere, dass der Antrag nicht der Verschleppung dient und die Frist auch nicht zu steuerlichen Nachteilen des Fiskus führen wird.
+
+Ich bitte um schriftliche Bestätigung der Fristverlängerung.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------
+  {
+    id: 'stundung_antrag',
+    title: 'Stundungsantrag (§ 222 AO)',
+    description: 'Antrag auf Stundung fälliger Steuerschulden bei erheblicher Härte gem. § 222 AO.',
+    useCase: 'Mandant:in ist vorübergehend zahlungsunfähig oder bei sofortiger Zahlung in wirtschaftliche Not. Stundung setzt erhebliche Härte und kein Verschulden voraus.',
+    fields: [
+      { id: 'finanzamt', label: 'Finanzamt', type: 'text', required: true, placeholder: 'Finanzamt Neukölln' },
+      { id: 'mandant', label: 'Mandant:in', type: 'text', required: true },
+      { id: 'steuernummer', label: 'Steuernummer', type: 'text', required: true },
+      { id: 'steuerart', label: 'Steuerart / Fälligkeitsdatum', type: 'text', required: true, placeholder: 'Körperschaftsteuer-Vorauszahlung, fällig 10.03.2025' },
+      { id: 'betrag', label: 'Zu stundender Betrag (€)', type: 'text', required: true, placeholder: '15.300,00' },
+      { id: 'stundungsBis', label: 'Stundung beantragt bis', type: 'date', required: true },
+      { id: 'begruendung', label: 'Begründung der erheblichen Härte', type: 'textarea', required: true, hint: 'Liquiditätsengpass, außergewöhnliche Geschäftslage, Zahlungsausfall Forderungen etc. Belege beifügen.' },
+      { id: 'sicherheit', label: 'Angebotene Sicherheitsleistung (§ 222 S. 2 AO)', type: 'text', placeholder: 'keine / Grundpfandrecht / Bürgschaft' },
+    ],
+    render: f => `An ${f.finanzamt || '[Finanzamt]'}
+
+Stundungsantrag gem. § 222 AO
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Steuernummer: ${f.steuernummer || '[Steuernummer]'}
+Betreff: ${f.steuerart || '[Steuerart/Fälligkeit]'}
+Zu stundender Betrag: € ${f.betrag || '[Betrag]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft beantrage ich gem. § 222 S. 1 AO,
+
+die o. g. Steuerschuld in Höhe von € ${f.betrag || '[Betrag]'} bis zum ${f.stundungsBis || '[Datum]'} zu stunden.
+
+I. Voraussetzungen (§ 222 AO)
+
+Die Einziehung der Steuer zum gegenwärtigen Zeitpunkt würde für meine Mandantschaft eine erhebliche Härte bedeuten. Die Härte ist nicht selbstverschuldet.
+
+II. Sachverhalt
+
+${f.begruendung || '[Begründung der erheblichen Härte einfügen]'}
+
+III. Sicherheitsleistung
+
+${f.sicherheit ? `Meine Mandantschaft bietet als Sicherheit an: ${f.sicherheit}.` : 'Eine Sicherheitsleistung gem. § 222 S. 2 AO wird angeboten, soweit das Finanzamt dies für erforderlich hält.'}
+
+IV. Rückzahlung
+
+Meine Mandantschaft wird in der Lage sein, den gestundeten Betrag spätestens zum beantragten Termin vollständig zu begleichen. Eine Ratenzahlungsvereinbarung ist alternativ möglich.
+
+Ich bitte um kurzfristige Entscheidung vor dem Fälligkeitstermin.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------
+  {
+    id: 'erlassantrag',
+    title: 'Erlassantrag (§ 227 AO — Billigkeitserlass)',
+    description: 'Antrag auf Erlass von Steuern oder steuerlichen Nebenleistungen aus sachlichen oder persönlichen Billigkeitsgründen.',
+    useCase: 'Mandant:in kann eine festgesetzte Steuer dauerhaft nicht entrichten (persönliche Billigkeit) oder die Festsetzung ist im Einzelfall unbillig (sachliche Billigkeit); Ermessensentscheidung des FA.',
+    fields: [
+      { id: 'finanzamt', label: 'Finanzamt', type: 'text', required: true, placeholder: 'Finanzamt Mitte' },
+      { id: 'mandant', label: 'Mandant:in', type: 'text', required: true },
+      { id: 'steuernummer', label: 'Steuernummer', type: 'text', required: true },
+      { id: 'steuerart', label: 'Steuerart / Bescheid(e)', type: 'text', required: true, placeholder: 'Einkommensteuer 2021 und 2022 nebst Nachzahlungszinsen' },
+      { id: 'betrag', label: 'Zu erlassender Betrag (€)', type: 'text', required: true },
+      { id: 'erlassArt', label: 'Art der Billigkeit', type: 'text', required: true, placeholder: 'persönlich (§ 227 AO i. V. m. AEAO zu § 227) / sachlich' },
+      { id: 'begruendung', label: 'Begründung', type: 'textarea', required: true, hint: 'Persönliche Billigkeit: Einkommens-/Vermögensverhältnisse, existenzbedrohende Lage. Sachliche Billigkeit: Widerspruch zum Sinn und Zweck der Norm, atypischer Sachverhalt.' },
+    ],
+    render: f => `An ${f.finanzamt || '[Finanzamt]'}
+
+Antrag auf Erlass aus Billigkeitsgründen
+gem. § 227 AO
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Steuernummer: ${f.steuernummer || '[Steuernummer]'}
+Betreff: ${f.steuerart || '[Steuerart/Bescheide]'}
+Erlassbetrag: € ${f.betrag || '[Betrag]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft beantrage ich,
+
+die o. g. Steuern / steuerlichen Nebenleistungen in Höhe von € ${f.betrag || '[Betrag]'} gem. § 227 AO aus ${f.erlassArt || 'Billigkeitsgründen'} zu erlassen.
+
+I. Rechtsgrundlage
+
+§ 227 AO räumt der Finanzbehörde das Ermessen ein, Ansprüche aus dem Steuerschuldverhältnis zu erlassen, wenn deren Einziehung nach Lage des einzelnen Falles unbillig wäre. AEAO zu § 227 präzisiert die Fallgruppen.
+
+II. Begründung
+
+${f.begruendung || '[Begründung persönlicher / sachlicher Billigkeit einfügen]'}
+
+III. Ermessenserwägungen
+
+Ich weise vorsorglich darauf hin, dass das Finanzamt sein Ermessen pflichtgemäß auszuüben hat (§ 5 AO) und eine vollständige Ermittlung der wirtschaftlichen Verhältnisse geboten ist. Eine Ablehnung ohne Ermessensausübung wäre rechtswidrig und angreifbar.
+
+Ich bin bereit, auf Anforderung weitere Nachweise (Vermögensverzeichnis, Einkommensnachweise) vorzulegen.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------
+  {
+    id: 'selbstanzeige',
+    title: 'Selbstanzeige (§ 371 AO — Steuerhinterziehung)',
+    description: 'Strafbefreiende Selbstanzeige gem. § 371 AO. Vollständigkeitsgebot und Sperrgründe beachten — anwaltliche Einzelfallprüfung zwingend.',
+    useCase: 'Mandant:in hat Steuern hinterzogen (§ 370 AO) und möchte Straffreiheit durch vollständige und fristgerechte Selbstanzeige erlangen. Höchste Sorgfalt erforderlich.',
+    fields: [
+      { id: 'finanzamt', label: 'Finanzamt (für die betroffene Steuerart zuständig)', type: 'text', required: true, placeholder: 'Finanzamt Berlin-Mitte — Straf- und Bußgeldsachenstelle' },
+      { id: 'mandant', label: 'Mandant:in (Anzeigender)', type: 'text', required: true },
+      { id: 'steuernummer', label: 'Steuernummer(n)', type: 'text', required: true },
+      { id: 'steuerarten', label: 'Betroffene Steuerarten', type: 'text', required: true, placeholder: 'Einkommensteuer, Gewerbesteuer, Umsatzsteuer' },
+      { id: 'zeitraum', label: 'Hinterziehungszeitraum (vollständig!)', type: 'text', required: true, hint: 'Vollständigkeitsgebot § 371 Abs. 1 AO: alle unverjährten Zeiträume, mind. 10 Jahre rückwirkend angeben.' },
+      { id: 'sachdarstellung', label: 'Sachdarstellung und berichtigte Besteuerungsgrundlagen', type: 'textarea', required: true, hint: 'Vollständige, richtige, in sich stimmige Darstellung aller nicht erklärten Einnahmen/Umsätze. Unvollständigkeit macht Selbstanzeige unwirksam (§ 371 Abs. 1 AO).' },
+      { id: 'nachzahlungsBetrag', label: 'Voraussichtliche Nachzahlung + Zinsen (§ 235 AO) (€)', type: 'text', required: true },
+    ],
+    render: f => `An ${f.finanzamt || '[Finanzamt / Straf- und Bußgeldsachenstelle]'}
+
+Selbstanzeige gem. § 371 AO
+— VERTRAULICH —
+
+in der Sache: ${f.mandant || '[Mandant:in]'}
+Steuernummer(n): ${f.steuernummer || '[Steuernummer]'}
+Betroffene Steuerarten: ${f.steuerarten || '[Steuerarten]'}
+Zeitraum: ${f.zeitraum || '[Hinterziehungszeitraum]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft erstatte ich hiermit
+
+S e l b s t a n z e i g e
+
+gem. § 371 Abs. 1 AO und berichtige die unrichtigen und unvollständigen Angaben in den Steuererklärungen für die o. g. Zeiträume und Steuerarten.
+
+I. Vollständigkeitsgebot (§ 371 Abs. 1 AO)
+
+Die nachstehende Berichtigung erfasst sämtliche hinterzogenen Beträge für alle unverjährten Veranlagungszeiträume. Das Vollständigkeitsgebot gem. § 371 Abs. 1 AO wird als bindend anerkannt: Eine Teilselbstanzeige entfaltet keine strafbefreiende Wirkung (BGH, Beschl. v. 20.05.2010 — 1 StR 577/09; § 371 Abs. 1 AO i. d. F. des Schwarzgeldbekämpfungsgesetzes 2011).
+
+II. Sachdarstellung und berichtigte Besteuerungsgrundlagen
+
+${f.sachdarstellung || '[Vollständige Sachdarstellung und berichtigte Bemessungsgrundlagen einfügen — nach Steuerart und Veranlagungszeitraum gegliedert]'}
+
+III. Prüfung der Sperrgründe (§ 371 Abs. 2 AO)
+
+Vor Einreichung dieser Anzeige wurde geprüft, ob Sperrgründe vorliegen:
+— § 371 Abs. 2 S. 1 Nr. 1 AO: Erscheinen eines Amtsträgers zur steuerlichen Prüfung?
+— § 371 Abs. 2 S. 1 Nr. 1a AO: Bekanntgabe einer Prüfungsanordnung gem. § 196 AO?
+— § 371 Abs. 2 S. 1 Nr. 1b AO: Erscheinen eines Amtsträgers zur Ermittlung einer Steuerstraftat?
+— § 371 Abs. 2 S. 1 Nr. 2 AO: Tatentdeckung und Kenntnis der anzeigenden Person davon?
+— § 371 Abs. 2 S. 1 Nr. 3 AO: Hinterziehungsbetrag je Tat > € 25.000?
+— § 371 Abs. 2 S. 1 Nr. 4 AO: Besonders schwerer Fall gem. § 370 Abs. 3 S. 2 Nr. 2–6 AO?
+
+Sperrgründe sind nach derzeitigem Kenntnisstand nicht gegeben. Die anwaltliche Einschätzung erfolgt unter Vorbehalt weiterer Sachverhaltsaufklärung.
+
+Hinweis: Bei Hinterziehungsbeträgen über € 25.000 (§ 371 Abs. 2 S. 1 Nr. 3 AO) ist die Straffreiheit trotz wirksamer Selbstanzeige an die vollständige Nachzahlung zzgl. eines Zuschlags gem. § 398a AO gebunden.
+
+IV. Nachzahlung (§ 371 Abs. 3 AO)
+
+Die strafbefreiende Wirkung tritt gem. § 371 Abs. 3 AO nur ein, wenn die hinterzogenen Steuern, Hinterziehungszinsen (§ 235 AO) und ggf. Zinsen gem. § 233a AO innerhalb der vom Finanzamt gesetzten angemessenen Frist entrichtet werden.
+
+Voraussichtliche Gesamtnachzahlung: € ${f.nachzahlungsBetrag || '[Betrag]'}
+
+Meine Mandantschaft ist zur unverzüglichen Zahlung bereit und bittet um Mitteilung der Zahlungskonten und Steuerreferenzen.
+
+V. Prozessualer Hinweis
+
+Diese Selbstanzeige entfaltet ihre strafbefreiende Wirkung nur, wenn sie vollständig, richtig und fristgerecht ist sowie keine Sperrgründe vorliegen. Die steuerstrafrechtliche Bewertung bleibt der zuständigen Straf- und Bußgeldsachenstelle vorbehalten. Eine gesonderte Mitteilung an die Staatsanwaltschaft ist bei Überschreiten der Zuständigkeitsgrenze (§ 386 Abs. 2 AO, § 370 Abs. 3 AO) möglich.
+
+${SIGN_OFF}
+
+⚠ KANZLEI-INTERNER HINWEIS: Vor Einreichung zwingend prüfen: (1) Vollständigkeit aller Zeiträume und Steuerarten, (2) Sperrgründe § 371 Abs. 2 AO, (3) Zuschlag § 398a AO bei Großbeträgen, (4) steuerstrafrechtliche Verjährung (§ 376 AO: 15 Jahre bei schwerer Hinterziehung). Dieses Template ersetzt keine Einzelfallprüfung.
+`,
+  },
+
+  // ---------------------------------
+  {
+    id: 'klage_finanzgericht',
+    title: 'Klageschrift Finanzgericht (§ 40 FGO)',
+    description: 'Anfechtungsklage / Verpflichtungsklage beim Finanzgericht nach erfolglosem Einspruch.',
+    useCase: 'Einspruch wurde durch Einspruchsentscheidung zurückgewiesen; Klagefrist 1 Monat ab Bekanntgabe (§ 47 Abs. 1 FGO). Klage per Fax/Schriftform beim zuständigen FG.',
+    fields: [
+      { id: 'finanzgericht', label: 'Finanzgericht (Empfänger:in)', type: 'text', required: true, placeholder: 'Finanzgericht Berlin-Brandenburg, Cottbus' },
+      { id: 'klaeger', label: 'Kläger:in (Mandant:in)', type: 'text', required: true },
+      { id: 'klaegerAnschrift', label: 'Anschrift Kläger:in', type: 'textarea', required: true },
+      { id: 'beklagter', label: 'Beklagte:r (Finanzamt)', type: 'text', required: true, placeholder: 'Finanzamt Berlin-Mitte' },
+      { id: 'einspruchEntscheidung', label: 'Datum Einspruchsentscheidung', type: 'date', required: true },
+      { id: 'steuerart', label: 'Streitgegenstand (Steuerart / VZ)', type: 'text', required: true, placeholder: 'Einkommensteuer 2021' },
+      { id: 'streitwert', label: 'Streitwert (€)', type: 'text', placeholder: '5.400,00' },
+      { id: 'klageantraege', label: 'Klageantrag(e)', type: 'textarea', required: true, hint: 'z. B. „Die Einspruchsentscheidung vom ... und der ESt-Bescheid 2021 vom ... werden aufgehoben."' },
+      { id: 'klageBegründung', label: 'Klagebegründung', type: 'textarea', required: true },
+    ],
+    render: f => `An das ${f.finanzgericht || '[Finanzgericht]'}
+
+K l a g e s c h r i f t
+
+Kläger:in: ${f.klaeger || '[Kläger:in]'}${f.klaegerAnschrift ? `, ${f.klaegerAnschrift.replace(/\n/g, ', ')}` : ''}
+— vertreten durch Unterzeichner:in —
+
+Beklagte:r: ${f.beklagter || '[Finanzamt]'}
+
+Streitgegenstand: ${f.steuerart || '[Steuerart/VZ]'}${f.streitwert ? `\nStreitwert: € ${f.streitwert}` : ''}
+Einspruchsentscheidung vom: ${f.einspruchEntscheidung || '[Datum]'}
+
+Sehr geehrtes Gericht,
+
+namens und im Auftrag der Kläger:in erhebe ich Klage gem. § 40 Abs. 1 FGO gegen die o. g. Einspruchsentscheidung und beantrage:
+
+I. Klageantrag
+
+${f.klageantraege || '[Klageantrag einfügen]'}
+
+II. Zulässigkeit
+
+Die Klage ist gem. § 40 Abs. 1 FGO (Anfechtungsklage) zulässig. Die Klagefrist des § 47 Abs. 1 FGO von einem Monat ab Bekanntgabe der Einspruchsentscheidung ist gewahrt. Das angerufene Gericht ist gem. § 38 FGO zuständig. Die Kläger:in ist gem. § 40 Abs. 2 FGO klagebefugt (Geltendmachung eigener Rechtsverletzung).
+
+III. Begründetheit
+
+${f.klageBegründung || '[Klagebegründung einfügen]'}
+
+IV. Beweisangebote und Anlagen
+
+Ich rege an, gem. § 79 FGO einen Termin zur Erörterung des Sach- und Streitstands anzuberaumen. Beweismittel werden auf Anforderung des Gerichts vorgelegt.
+
+Vorsorglich beantrage ich gem. § 69 Abs. 3 FGO die Aussetzung der Vollziehung, soweit nicht bereits durch das Finanzamt gewährt.
+
+Die Vollmacht wird anwaltlich versichert.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------
+  {
+    id: 'erbstg_anzeige',
+    title: 'Anzeige Schenkung / Erbschaft (§ 30 ErbStG)',
+    description: 'Erfüllung der Anzeigepflicht gem. § 30 ErbStG gegenüber dem Erbschaftsteuer-Finanzamt (Frist: 3 Monate).',
+    useCase: 'Mandant:in hat Vermögen durch Erbschaft oder Schenkung erworben und muss dies gem. § 30 ErbStG innerhalb von 3 Monaten beim zuständigen Finanzamt anzeigen.',
+    fields: [
+      { id: 'finanzamt', label: 'Erbschaftsteuer-Finanzamt', type: 'text', required: true, placeholder: 'Finanzamt Charlottenburg (zuständig für Erbschaft-/Schenkungsteuer)' },
+      { id: 'mandant', label: 'Erwerber:in (Mandant:in)', type: 'text', required: true },
+      { id: 'mandantAnschrift', label: 'Anschrift Erwerber:in', type: 'textarea' },
+      { id: 'steuernummer', label: 'Steuernummer Erwerber:in (sofern bekannt)', type: 'text' },
+      { id: 'erwerbsart', label: 'Erwerbsart', type: 'text', required: true, placeholder: 'Erbfall / freigebige Zuwendung (Schenkung)' },
+      { id: 'zuwendender', label: 'Erblasser:in / Schenkende:r', type: 'text', required: true },
+      { id: 'erwerbsDatum', label: 'Datum des Erwerbs / der Schenkung', type: 'date', required: true },
+      { id: 'erworbenesVermoegen', label: 'Erworbenes Vermögen (Art und geschätzter Wert)', type: 'textarea', required: true, hint: 'Grundstücke, Geldbeträge, Wertpapiere, Betriebsvermögen, Kunstgegenstände etc. mit Verkehrswert.' },
+      { id: 'verwandtschaft', label: 'Verwandtschaftsverhältnis / Steuerklasse', type: 'text', required: true, placeholder: 'Kind (Steuerklasse I, § 15 Abs. 1 Nr. 2 ErbStG)' },
+    ],
+    render: f => `An ${f.finanzamt || '[Erbschaftsteuer-Finanzamt]'}
+
+Anzeige gem. § 30 ErbStG
+
+Erwerber:in: ${f.mandant || '[Mandant:in]'}${f.mandantAnschrift ? `\nAnschrift: ${f.mandantAnschrift.replace(/\n/g, ', ')}` : ''}${f.steuernummer ? `\nSteuernummer: ${f.steuernummer}` : ''}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft, ${f.mandant || '[Mandant:in]'}, erstate ich folgende
+
+A n z e i g e
+
+gem. § 30 Abs. 1 ErbStG über den nachstehenden Erwerb von Todes wegen / die freigebige Zuwendung.
+
+I. Angaben zum Erwerb
+
+Erwerbsart: ${f.erwerbsart || '[Erbfall / Schenkung]'}
+Erblasser:in / Schenkende:r: ${f.zuwendender || '[Name]'}
+Datum des Erwerbs / der Schenkung: ${f.erwerbsDatum || '[Datum]'}
+Verwandtschaftsverhältnis / Steuerklasse: ${f.verwandtschaft || '[Verhältnis / Steuerklasse]'}
+
+II. Beschreibung des erworbenen Vermögens
+
+${f.erworbenesVermoegen || '[Vermögensbeschreibung mit geschätzten Verkehrswerten einfügen]'}
+
+III. Freibeträge
+
+Ich weise vorsorglich auf die persönlichen Freibeträge gem. § 16 ErbStG hin. Ob eine Steuerpflicht entsteht, ist von der zuständigen Stelle nach Bewertung gem. §§ 151 ff. BewG zu prüfen.
+
+IV. Steuererklärung
+
+Sofern das Finanzamt zur Abgabe einer Erbschaft-/Schenkungsteuererklärung auffordert (§ 31 ErbStG), wird meine Mandantschaft dieser Aufforderung fristgerecht nachkommen.
+
+Diese Anzeige erfolgt innerhalb der Dreimonatsfrist des § 30 Abs. 1 ErbStG.
+
+${SIGN_OFF}
+`,
+  },
+
+  // ---------------------------------
+  {
+    id: 'antrag_dauerfristverlaengerung',
+    title: 'Dauerfristverlängerung Umsatzsteuer-Voranmeldung (§ 18 UStG)',
+    description: 'Antrag auf Dauerfristverlängerung für USt-Voranmeldungen um einen Monat gem. § 18 Abs. 6 UStG i. V. m. §§ 46–48 UStDV.',
+    useCase: 'Mandant:in gibt USt-Voranmeldungen ab und benötigt regelmäßig mehr Zeit. Antrag einmalig stellen; gilt bis auf Widerruf. Sondervorauszahlung i. H. v. 1/11 der Vorjahres-USt-Schuld ist zu leisten.',
+    fields: [
+      { id: 'finanzamt', label: 'Finanzamt', type: 'text', required: true, placeholder: 'Finanzamt Tempelhof-Schöneberg' },
+      { id: 'mandant', label: 'Mandant:in (Unternehmer:in)', type: 'text', required: true },
+      { id: 'steuernummer', label: 'Steuernummer', type: 'text', required: true },
+      { id: 'voranmeldungszeitraum', label: 'Voranmeldungszeitraum', type: 'text', required: true, placeholder: 'monatlich / vierteljährlich' },
+      { id: 'abJahr', label: 'Geltung ab Kalenderjahr', type: 'text', required: true, placeholder: '2025' },
+      { id: 'sondervorauszahlung', label: 'Sondervorauszahlung (€)', type: 'text', hint: '1/11 der USt-Schuld des Vorjahres (§ 47 UStDV). Entfällt bei Vierteljahres-Zahlern nach § 48 UStDV.', placeholder: '1.200,00' },
+    ],
+    render: f => `An ${f.finanzamt || '[Finanzamt]'}
+
+Antrag auf Dauerfristverlängerung für Umsatzsteuer-Voranmeldungen
+gem. § 18 Abs. 6 UStG i. V. m. §§ 46–48 UStDV
+
+Steuerpflichtige:r: ${f.mandant || '[Mandant:in]'}
+Steuernummer: ${f.steuernummer || '[Steuernummer]'}
+Voranmeldungszeitraum: ${f.voranmeldungszeitraum || '[monatlich / vierteljährlich]'}
+Geltung ab: 01.01.${f.abJahr || '[Jahr]'}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft beantrage ich gem. § 18 Abs. 6 UStG i. V. m. § 46 UStDV,
+
+die Frist zur Abgabe der Umsatzsteuer-Voranmeldungen und zur Entrichtung der Umsatzsteuer-Vorauszahlungen dauerhaft um einen Monat zu verlängern.
+
+I. Sondervorauszahlung
+
+${f.sondervorauszahlung
+  ? `Gem. § 47 UStDV wird gleichzeitig eine Sondervorauszahlung in Höhe von € ${f.sondervorauszahlung} (= 1/11 der Umsatzsteuer-Schuld des Vorjahres) angemeldet und bis zum 10. Februar ${f.abJahr || '[Jahr]'} entrichtet.`
+  : 'Die Sondervorauszahlung gem. § 47 UStDV wird gesondert angemeldet und fristgerecht entrichtet. Bei vierteljährlicher Voranmeldung entfällt die Sondervorauszahlung nach § 48 UStDV.'}
+
+II. Geltungsdauer
+
+Die Dauerfristverlängerung gilt für den Voranmeldungszeitraum ab dem ${f.abJahr ? `Kalenderjahr ${f.abJahr}` : '[Jahr]'} bis auf Widerruf (§ 46 S. 2 UStDV). Ein Widerruf wird durch gesonderte Erklärung angezeigt.
+
+III. Hinweis
+
+Diese Fristverlängerung bezieht sich ausschließlich auf die Voranmeldungen, nicht auf die Jahressteuererklärung (§ 18 Abs. 3 UStG).
+
+Ich bitte um schriftliche Bestätigung der Dauerfristverlängerung.
+
+${SIGN_OFF}
+`,
+  },
+]
+
+/** Combined list for UI pickers: alle Built-in-Pakete. */
 export const ALL_BUILTIN_TEMPLATES: LawyerTemplate[] = [
   ...LAWYER_TEMPLATES,
   ...NOTAR_TEMPLATES,
   ...MIGRATION_TEMPLATES,
+  ...FAMILIE_TEMPLATES,
+  ...SOZIAL_TEMPLATES,
+  ...STEUER_TEMPLATES,
 ]
 
 export function getAnyBuiltinTemplate(id: string): LawyerTemplate | undefined {

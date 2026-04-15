@@ -14,6 +14,9 @@ import {
   NOTAR_TEMPLATES,
   LAWYER_TEMPLATES,
   MIGRATION_TEMPLATES,
+  FAMILIE_TEMPLATES,
+  SOZIAL_TEMPLATES,
+  STEUER_TEMPLATES,
   getAnyBuiltinTemplate,
   type LawyerTemplate,
 } from './lawyer-templates'
@@ -270,29 +273,10 @@ export default function ProTemplates() {
           </div>
         </section>
 
-        <section>
-          <h2 className="font-semibold text-sm uppercase tracking-wide text-[var(--color-ink-muted)] mb-3">
-            Eingebaute Vorlagen — Migrationsrecht
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {MIGRATION_TEMPLATES.map(t => (
-              <button
-                key={t.id}
-                onClick={() => pickBuiltin(t.id)}
-                className="text-left bg-white border border-[var(--color-border)] rounded-2xl p-5 hover:border-[var(--color-gold)] transition-colors"
-              >
-                <div className="flex items-start gap-3">
-                  <FileText className="w-5 h-5 text-[var(--color-gold)] shrink-0 mt-0.5" />
-                  <div className="flex-1">
-                    <h3 className="font-semibold mb-1">{t.title}</h3>
-                    <p className="text-sm text-[var(--color-ink-soft)] mb-2">{t.description}</p>
-                    <p className="text-xs text-[var(--color-ink-muted)] italic">Wann: {t.useCase}</p>
-                  </div>
-                </div>
-              </button>
-            ))}
-          </div>
-        </section>
+        <TemplateSection title="Migrationsrecht" templates={MIGRATION_TEMPLATES} pickBuiltin={pickBuiltin} />
+        <TemplateSection title="Familienrecht" templates={FAMILIE_TEMPLATES} pickBuiltin={pickBuiltin} />
+        <TemplateSection title="Sozialrecht" templates={SOZIAL_TEMPLATES} pickBuiltin={pickBuiltin} />
+        <TemplateSection title="Steuerrecht" templates={STEUER_TEMPLATES} pickBuiltin={pickBuiltin} />
       </div>
     )
   }
@@ -515,3 +499,37 @@ function extractPlaceholdersClient(body: string): string[] {
 
 // Legacy export for tests/external references
 export { ALL_BUILTIN_TEMPLATES }
+
+function TemplateSection({
+  title, templates, pickBuiltin,
+}: {
+  title: string
+  templates: LawyerTemplate[]
+  pickBuiltin: (id: string) => void
+}) {
+  return (
+    <section>
+      <h2 className="font-semibold text-sm uppercase tracking-wide text-[var(--color-ink-muted)] mb-3">
+        Eingebaute Vorlagen — {title} <span className="text-[var(--color-ink-muted)] normal-case font-normal">({templates.length})</span>
+      </h2>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {templates.map(t => (
+          <button
+            key={t.id}
+            onClick={() => pickBuiltin(t.id)}
+            className="text-left bg-white border border-[var(--color-border)] rounded-2xl p-5 hover:border-[var(--color-gold)] transition-colors"
+          >
+            <div className="flex items-start gap-3">
+              <FileText className="w-5 h-5 text-[var(--color-gold)] shrink-0 mt-0.5" />
+              <div className="flex-1">
+                <h3 className="font-semibold mb-1">{t.title}</h3>
+                <p className="text-sm text-[var(--color-ink-soft)] mb-2">{t.description}</p>
+                <p className="text-xs text-[var(--color-ink-muted)] italic">Wann: {t.useCase}</p>
+              </div>
+            </div>
+          </button>
+        ))}
+      </div>
+    </section>
+  )
+}
