@@ -44,16 +44,19 @@ Eigenständiger Bereich unter `/#/pro` — Beta, Invite-only.
 
 | Bereich | Funktion |
 |---|---|
-| **Daily Companion** | Dashboard mit Fristen-Übersicht, Mandant:innen-Eingängen, „Diese Woche gespart"-Widget |
-| **Recherche mit Belegen** | KI-Antwort + jedes zitierte § wird gegen unsere 5.936 Gesetze verifiziert. Klick → Drawer mit Volltext + persönliche Notiz-Funktion |
-| **Mandant:innen-Akten** | CRUD mit Frist-Tracker (Calc aus Bescheid-Datum), Mandant:in-E-Mail, Status, Such- & Filter-Tabs |
-| **31 Schreiben-Templates** | 5 allgemeine + 12 Notariats + Custom Templates mit `{{platzhalter}}`-Syntax |
+| **Daily Companion** | Dashboard mit Fristen-Übersicht, Mandant:innen-Eingängen, „Diese Woche gespart"-Widget, persönlicher Begrüßung |
+| **Recherche mit 3-Stufen-Belegen** | KI-Antwort mit verifizierten Zitaten + (1) kuratierte BGH/BVerfG-Leitsätze + (2) Live-Lookup OpenLegalData (1.000+ Treffer/§) + (3) Deep-Links Beck/dejure/openjur |
+| **Mandant:innen-Akten** | CRUD mit Frist-Tracker (Calc aus Bescheid-Datum, §§ 187/188 BGB-konform), Mandant:in-E-Mail, Status, Such- & Filter-Tabs |
+| **59 Schreiben-Templates** | 5 allgemein + 12 Notariat + 12 Migration + 10 Familien + 10 Sozial + 10 Steuer + Custom mit `{{placeholder}}` |
 | **Branded PDF-Export** | Logo + Kanzlei-Anschrift + Disclaimer-Footer auf jedem Dokument |
-| **Mandant:innen-Intake** | QR-Code für Erstanfragen-Formular, Antwort landet in Akte |
+| **Mandant:innen-Intake** | QR-Code für Erstanfragen-Formular in 5 Sprachen (DE/VI/TR/AR/EN, RTL für Arabisch), Antwort landet in Akte |
+| **CSV-Akten-Import** | Auto-Spalten-Erkennung aus DATEV / RA-Micro / advoware / Excel — Mapping → Bulk-Create |
 | **Audit-Log** | Lückenlose Aktions-Chronologie, BHV-tauglich als PDF exportierbar |
-| **DSGVO-Anonymisierer** | Ein-Klick PII-Replacement (Namen, Adressen, IBAN) vor KI-Anfragen |
-| **Cloud-Sync** | Auto-Push an Upstash-Redis (Frankfurt). Werner+Jasmin teilen Akten via Kanzlei-Schlüssel |
+| **DSGVO-Schutz-Modus** | Auto-Anonymisierung vor jeder KI-Anfrage: 14 PII-Pattern (Namen, Adressen, IBAN, BIC, Steuer-ID, SV-Nr., Aktenzeichen, Geb-Datum, Firmen) + Whitelist gegen Falsch-Anonymisierung von Rechtsbegriffen |
+| **Cloud-Sync** | Auto-Push an Upstash-Redis Frankfurt. Werner+Jasmin teilen Akten via Kanzlei-Schlüssel. Sync-Indikator im Header |
+| **Personal Welcome-Pages** | `/#/bao`, `/#/rubin`, `/#/werner`, `/#/jasmin` — 1-Klick-Login + Branding pre-loaded |
 | **AVV-Vorlagen-PDF** | Mustertext-Generator auf eigenem Briefkopf |
+| **Wöchentliches Auto-Update** | GitHub-Action prüft jeden Sonntag mit OpenAI Structured Outputs ob neue BGH-Urteile zu den Top-30 § → öffnet PR mit Diff |
 
 ### Preise
 
@@ -78,9 +81,11 @@ Eigenständiger Bereich unter `/#/pro` — Beta, Invite-only.
 | Zeilen | **1.303.451** |
 | FAISS-Vektoren | **98.367** |
 | Bürger-Musterbriefe | **20** (16 frei, 4 Premium) |
-| Anwalts-Musterbriefe (Pro) | **17** (5 Allgemein + 12 Notariat) |
-| Sprachen | **6** (DE, Leicht, TR, AR, EN, UK) |
-| Aktualisierung | **Wöchentlich automatisch** |
+| Anwalts-Musterbriefe (Pro) | **59** (5 Allgemein + 12 Notariat + 12 Migration + 10 Familie + 10 Sozial + 10 Steuer) |
+| Verifizierte BGH/BVerfG-Leitsätze | **40** zu Top-30 Paragraphen (BGB · StGB · AufenthG · SGB · StPO · GewSchG) |
+| Live-Rechtsprechungs-Index | **150 K+ Urteile** über OpenLegalData-Proxy |
+| Sprachen | **5 Pro-Intake** (DE/VI/TR/AR/EN) + **6 Bürger** (DE/Leicht/TR/AR/EN/UK) |
+| Aktualisierung | **Wöchentlich automatisch** (Gesetze + Leitsätze) |
 
 ---
 
@@ -94,11 +99,16 @@ Eigenständiger Bereich unter `/#/pro` — Beta, Invite-only.
 | Pro-AI | OpenAI gpt-4o-mini mit JSON-Schema Structured Outputs |
 | Pro-Backend | Vercel Serverless Functions + Upstash Redis (Frankfurt) |
 | Citations-Verifikation | Lokal gegen 5.936 Markdown-Files (`### § N`-Heading-Lookup) |
-| PDF | jsPDF (Branded Templates + AVV) |
-| QR | qrcode.react |
-| ZIP | jszip (Akten-Bundle) |
-| Updates | GitHub Actions (wöchentlich aus gesetze-im-internet.de) |
-| Hosting | GitHub Pages (Bürger) + Vercel (Pro + APIs) |
+| Rechtsprechung Stufe 1 | Deep-Links zu Beck-Online / dejure.org / openjur.de |
+| Rechtsprechung Stufe 2 | 30 kuratierte JSON-Files mit BGH/BVerfG-Leitsätzen aus rechtsprechung-im-internet.de (Public Domain), wöchentlich automatisch aktualisiert via GitHub-Action |
+| Rechtsprechung Stufe 3 | OpenLegalData-Proxy mit Upstash-Cache (60d TTL) — 150 K+ Urteile durchsuchbar |
+| PDF | jsPDF (Branded Templates + AVV-Generator) |
+| QR | qrcode.react (mit Vollbild-Modus für Termin) |
+| ZIP | jszip (Akten-Bundle: PDFs + Audit + meta.txt) |
+| CSV-Import | RFC 4180-Parser, UTF-8/Win-1252-Tolerant, Auto-Mapping für DATEV/RA-Micro/advoware |
+| Anonymizer | 14 Regex-Pattern + 50 Whitelist-Tokens, Auto-Modus persistiert in localStorage |
+| Updates | GitHub Actions (Gesetze + BGH-Leitsätze) |
+| Hosting | GitHub Pages (Bürger) + Vercel + Upstash Frankfurt (Pro + APIs) |
 
 ---
 
@@ -138,11 +148,20 @@ Anwält:innen sehen unseren Code → Vertrauen. Falls die Firma stirbt → Code 
 - [x] Auto-Updates + RAG API
 - [x] **GitLaw Pro Beta** — Akten, Recherche-Verifikation, branded Templates, Frist-Calc, Cloud-Sync, AVV
 - [x] **Notariat-Pack** (12 Templates: Vollmacht, Erbschein, Pflichtteil, Patientenverfügung …)
+- [x] **Migration-Pack** (12 Templates: Aufenthaltstitel, Familiennachzug, Einbürgerung …) + Vietnamese Intake
+- [x] **Familienrecht-Pack** (10 Templates: Scheidung, Sorge, Unterhalt, Gewaltschutz …)
+- [x] **Sozialrecht-Pack** (10 Templates: SGB-II/V/VI/IX-Widersprüche, SG-Klagen, BerHG)
+- [x] **Steuerrecht-Pack** (10 Templates: Einspruch, AdV, Selbstanzeige § 371 AO, FG-Klage)
 - [x] **Daily-Companion-Design** mit personalisiertem Greeting + Wochenstatistik
-- [ ] **BGH-Urteils-Integrator** (openjur.de)
-- [ ] **DATEV-Stammdaten-Sync**
-- [ ] **Mobile App** (iOS für Termin)
-- [ ] **Mehrere Pro-Domain-Packs** (Steuer, Familie, Sozialrecht)
+- [x] **3-Stufen-Rechtsprechung** (Deep-Links + 40 kuratierte BGH-Leitsätze + OpenLegalData-Live)
+- [x] **Wöchentliches Auto-Update** der Leitsätze via GitHub-Action + OpenAI Structured Outputs
+- [x] **CSV-Akten-Import** aus DATEV / RA-Micro / advoware / Excel
+- [x] **DSGVO-Schutz-Modus** mit Auto-Anonymisierung (14 PII-Pattern + Whitelist)
+- [x] **Personal Welcome-Pages** für Beta-Tester (`/#/bao`, `/#/rubin`, `/#/werner`, `/#/jasmin`)
+- [ ] **Mobile App** (iOS/Android — vorerst PWA via Browser tauglich)
+- [ ] **Echtes RBAC** (Partner:in vs. Associate-Rechte)
+- [ ] **Azure OpenAI EU-Region** (für Großkanzlei-AVV-Anforderungen)
+- [ ] **Beck-Online SSO-Bridge** (proprietary, prüfen)
 
 ---
 
