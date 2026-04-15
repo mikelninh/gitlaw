@@ -15,6 +15,7 @@ import ProResearch from './ProResearch'
 import ProTemplates from './ProTemplates'
 import ProAudit from './ProAudit'
 import ProEingaenge from './ProEingaenge'
+import ProImport from './ProImport'
 // Welcome pages + Pricing live on top-level (main.tsx) for short URLs.
 // Don't import them here.
 
@@ -30,6 +31,7 @@ export default function ProApp() {
           <Route path="schreiben" element={<ProTemplates />} />
           <Route path="eingaenge" element={<ProEingaenge />} />
           <Route path="audit" element={<ProAudit />} />
+          <Route path="import" element={<ProImport />} />
           <Route path="einstellungen" element={<ProSettings />} />
         </Route>
         <Route path="*" element={<Navigate to="/" replace />} />

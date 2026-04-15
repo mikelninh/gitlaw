@@ -22,7 +22,7 @@ import {
 } from './store'
 import { verifyAllCitations } from './verify'
 import { exportResearchPDF } from './pdf'
-import { anonymize, hasPII } from './anonymize'
+import { anonymize, hasPII, isDsgvoModusActive } from './anonymize'
 import CitationDrawer from './CitationDrawer'
 import type { Citation, ResearchQuery } from './types'
 
@@ -51,8 +51,21 @@ export default function ProResearch() {
     setAnswer('')
     setCitations([])
     setSavedItem(null)
+    // DSGVO-Modus: auto-anonymize vor dem Senden, ohne Frage im Textfeld zu ändern
+    let questionForAi = question
+    if (isDsgvoModusActive()) {
+      const { anonymized, replacements } = anonymize(question)
+      if (replacements.length > 0) {
+        questionForAi = anonymized
+        setAnonymizeFeedback({
+          tone: 'success',
+          text: `🛡 DSGVO-Modus: ${replacements.length} Stelle(n) automatisch ersetzt vor KI-Versand.`,
+        })
+        setTimeout(() => setAnonymizeFeedback(null), 6000)
+      }
+    }
     try {
-      const { antwort, zitate } = await proAsk(question)
+      const { antwort, zitate } = await proAsk(questionForAi)
       setAnswer(antwort)
       const cites = await verifyAllCitations(zitate)
       setCitations(cites)

@@ -6,9 +6,10 @@
  */
 
 import { useEffect, useRef, useState } from 'react'
-import { Save, Upload, Trash2, AlertTriangle, Sparkles, Download, FileSignature, Cloud, RefreshCw } from 'lucide-react'
+import { Save, Upload, Trash2, AlertTriangle, Sparkles, Download, FileSignature, Cloud, RefreshCw, Shield } from 'lucide-react'
 import { eraseAllProData, getSettings, saveSettings } from './store'
 import { KANZLEI_PRESETS, loadDemoData, isDemoLoaded } from './demo-data'
+import { isDsgvoModusActive, setDsgvoModusActive } from './anonymize'
 import {
   downloadSnapshotFile,
   getKanzleiKey,
@@ -249,6 +250,9 @@ export default function ProSettings() {
         </div>
       </section>
 
+      {/* DSGVO-Modus: Auto-Anonymisierung */}
+      <DsgvoModusSection />
+
       {/* DSGVO / AVV */}
       <section className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
         <h2 className="font-semibold mb-1 flex items-center gap-2">
@@ -296,6 +300,54 @@ export default function ProSettings() {
         </button>
       </section>
     </div>
+  )
+}
+
+function DsgvoModusSection() {
+  const [active, setActiveLocal] = useState(isDsgvoModusActive())
+  function toggle() {
+    const next = !active
+    setDsgvoModusActive(next)
+    setActiveLocal(next)
+  }
+  return (
+    <section className="bg-white border-2 border-green-200 rounded-2xl p-6">
+      <div className="flex items-baseline justify-between gap-3 flex-wrap">
+        <div>
+          <h2 className="font-semibold mb-1 flex items-center gap-2">
+            <Shield className="w-4 h-4 text-green-700" /> DSGVO-Schutz-Modus
+            {active && (
+              <span className="text-xs uppercase font-semibold text-green-800 bg-green-100 border border-green-300 rounded px-1.5 py-0.5">
+                aktiv
+              </span>
+            )}
+          </h2>
+          <p className="text-sm text-[var(--color-ink-soft)] max-w-2xl">
+            Wenn aktiv: vor jeder KI-Anfrage werden personenbezogene Daten (Namen, Adressen, IBAN, Telefon,
+            Steuer-IDs, Aktenzeichen, Geburtsdaten, Firmen) durch Platzhalter ersetzt. Empfehlung für
+            Mandant:innen-bezogene Recherchen ohne abgeschlossenen AVV mit OpenAI.
+          </p>
+        </div>
+        <button
+          onClick={toggle}
+          className={`relative inline-flex h-6 w-11 items-center rounded-full transition-colors shrink-0 ${
+            active ? 'bg-green-700' : 'bg-[var(--color-border)]'
+          }`}
+          aria-label={active ? 'DSGVO-Modus deaktivieren' : 'DSGVO-Modus aktivieren'}
+        >
+          <span
+            className={`inline-block h-5 w-5 transform rounded-full bg-white transition-transform ${
+              active ? 'translate-x-5' : 'translate-x-0.5'
+            }`}
+          />
+        </button>
+      </div>
+      <p className="text-xs text-[var(--color-ink-muted)] mt-3 italic">
+        14 Pattern-Kategorien: E-Mail, IBAN, BIC, Telefon, Steuer-ID, SV-Nr., Adresse, PLZ, Aktenzeichen,
+        Geburtsdatum, Firmen (GmbH/AG/UG/SE/KG), Personennamen mit Titel. Whitelist verhindert
+        Falsch-Anonymisierung von Rechtsbegriffen (BGB, StGB, Berlin etc.).
+      </p>
+    </section>
   )
 }
 

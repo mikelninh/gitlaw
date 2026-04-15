@@ -7,7 +7,7 @@
 
 import { useEffect, useState } from 'react'
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom'
-import { Scale, FolderOpen, FileText, Search, Settings, Shield, LogOut, ExternalLink, Inbox, Cloud, RefreshCw, AlertCircle, CheckCircle2 } from 'lucide-react'
+import { Scale, FolderOpen, FileText, Search, Settings, Shield, LogOut, ExternalLink, Inbox, Cloud, RefreshCw, AlertCircle, CheckCircle2, Upload } from 'lucide-react'
 import { clearStoredInvite, getSettings, listIntakes } from './store'
 import {
   getSyncState,
@@ -26,6 +26,7 @@ const NAV_ITEMS = [
   { to: '/pro/recherche', icon: Search, label: 'Recherche', badge: 0 as const },
   { to: '/pro/schreiben', icon: FileText, label: 'Schreiben', badge: 0 as const },
   { to: '/pro/audit', icon: Shield, label: 'Audit-Log', badge: 0 as const },
+  { to: '/pro/import', icon: Upload, label: 'Akten-Import', badge: 0 as const },
   { to: '/pro/einstellungen', icon: Settings, label: 'Einstellungen', badge: 0 as const },
 ]
 
