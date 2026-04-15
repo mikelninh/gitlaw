@@ -14,8 +14,11 @@ import { Scale, Sparkles, ArrowRight } from 'lucide-react'
 import QrCard from './QrCard'
 import { PERSONAS, type WelcomeHighlight } from './welcome-personas'
 
-export default function WelcomePersonal() {
-  const { slug } = useParams<{ slug: string }>()
+export default function WelcomePersonal({ personaSlug }: { personaSlug?: string }) {
+  const params = useParams<{ slug: string }>()
+  // Slug kommt entweder aus dem Route-Param (/willkommen/:slug) oder als
+  // Prop (für hardcoded Routes wie /bao, /rubin, /werner, /jasmin).
+  const slug = personaSlug || params.slug
   const persona = slug ? PERSONAS[slug] : undefined
 
   if (!persona) {

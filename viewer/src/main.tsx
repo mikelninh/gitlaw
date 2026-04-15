@@ -26,10 +26,10 @@ createRoot(document.getElementById('root')!).render(
         <Route path="/intake/:slug" element={<IntakeForm />} />
         <Route path="/preise" element={<PricingShell />} />
         {/* Personalized welcome routes — public, no auth */}
-        <Route path="/bao" element={<WelcomePersonal />} />
-        <Route path="/rubin" element={<WelcomePersonal />} />
-        <Route path="/werner" element={<WelcomePersonal />} />
-        <Route path="/jasmin" element={<WelcomePersonal />} />
+        <Route path="/bao" element={<WelcomePersonal personaSlug="bao" />} />
+        <Route path="/rubin" element={<WelcomePersonal personaSlug="rubin" />} />
+        <Route path="/werner" element={<WelcomePersonal personaSlug="werner" />} />
+        <Route path="/jasmin" element={<WelcomePersonal personaSlug="jasmin" />} />
         <Route path="/willkommen/:slug" element={<WelcomePersonal />} />
         {/* Pro app (auth-gated) */}
         <Route path="/pro/*" element={<ProApp />} />
