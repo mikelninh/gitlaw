@@ -18,7 +18,7 @@ import {
   log,
   setStoredInvite,
 } from './store'
-import { isDemoLoaded, loadDemoData, getPreset } from './demo-data'
+import { isDemoLoaded, loadDemoData, getPreset, DEMO_MARKER } from './demo-data'
 
 interface Props {
   children: React.ReactNode
@@ -46,14 +46,16 @@ export default function ProAuth({ children }: Props) {
       setStoredInvite(fromUrl)
       log('login', `via URL token`)
 
-      // Auto-load preset on FIRST login if requested and not already loaded.
-      // This is the "wow-moment" path: Rubin clicks his pitch link and his
-      // own Kanzlei-Branding + 3 cases appear instantly without setup.
-      if (presetFromUrl && !isDemoLoaded() && getPreset(presetFromUrl)) {
-        try {
-          loadDemoData(presetFromUrl)
-        } catch (err) {
-          console.warn('Preset auto-load failed', err)
+      if (presetFromUrl && getPreset(presetFromUrl)) {
+        const currentPreset = localStorage.getItem(DEMO_MARKER)
+        if (!isDemoLoaded()) {
+          // First time — auto-load preset directly
+          try { loadDemoData(presetFromUrl) }
+          catch (err) { console.warn('Preset auto-load failed', err) }
+        } else if (currentPreset !== presetFromUrl) {
+          // Another preset is loaded — defer to user. We'll show a switcher
+          // banner inside the Pro app via this stored „pending preset switch".
+          localStorage.setItem('gitlaw.pro.pendingPresetSwitch.v1', presetFromUrl)
         }
       }
 

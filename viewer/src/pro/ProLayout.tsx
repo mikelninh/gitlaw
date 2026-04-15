@@ -16,6 +16,8 @@ import {
   subscribeSyncState,
   type SyncStatus,
 } from './sync'
+import { eraseAllProData } from './store'
+import { loadDemoData, getPreset } from './demo-data'
 
 const NAV_ITEMS = [
   { to: '/pro', icon: Scale, label: 'Übersicht', end: true, badge: 0 as const },
@@ -35,6 +37,32 @@ export default function ProLayout() {
 
   const needsConfig = !settings.name || !settings.anwaltName
   const pendingIntakes = listIntakes({ reviewed: false }).length
+
+  // Pending preset switch: User kam mit ?preset=X aber andere Demo war geladen.
+  // Wir bieten einen 1-Klick-Switch mit Klartext-Hinweis was passiert.
+  const pendingSwitch = typeof window !== 'undefined'
+    ? localStorage.getItem('gitlaw.pro.pendingPresetSwitch.v1')
+    : null
+  const pendingSwitchPresetLabel = pendingSwitch && getPreset(pendingSwitch)?.label
+
+  function applyPresetSwitch() {
+    if (!pendingSwitch) return
+    if (!confirm(
+      `Auf Demo „${pendingSwitchPresetLabel}" wechseln?\n\n` +
+      `Das löscht alle aktuellen Pro-Daten in diesem Browser ` +
+      `(Akten, Recherchen, Schreiben, Audit-Log, Profil) und lädt das ` +
+      `neue Preset frisch.\n\nFortfahren?`,
+    )) return
+    eraseAllProData()
+    try { loadDemoData(pendingSwitch) } catch {}
+    localStorage.removeItem('gitlaw.pro.pendingPresetSwitch.v1')
+    window.location.hash = '#/pro'
+    window.location.reload()
+  }
+  function dismissPresetSwitch() {
+    localStorage.removeItem('gitlaw.pro.pendingPresetSwitch.v1')
+    window.location.reload()
+  }
 
   // Sync-State subscription
   useEffect(() => subscribeSyncState(setSyncState), [])
@@ -90,6 +118,32 @@ export default function ProLayout() {
           </div>
         </div>
       </header>
+
+      {pendingSwitchPresetLabel && (
+        <div className="bg-amber-50 border-b border-amber-200">
+          <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between gap-3 flex-wrap text-sm">
+            <span className="text-amber-900">
+              <strong>Hinweis:</strong> Aus deinem Link wolltest du auf Preset{' '}
+              <strong>„{pendingSwitchPresetLabel}"</strong> wechseln, aber es ist bereits eine
+              andere Demo geladen. Möchtest du wechseln (alle aktuellen Pro-Daten löschen)?
+            </span>
+            <div className="flex items-center gap-2 shrink-0">
+              <button
+                onClick={applyPresetSwitch}
+                className="text-xs bg-[var(--color-ink)] text-white rounded px-3 py-1.5 hover:opacity-90"
+              >
+                Ja, zu „{pendingSwitchPresetLabel}" wechseln
+              </button>
+              <button
+                onClick={dismissPresetSwitch}
+                className="text-xs text-amber-900 hover:text-amber-950"
+              >
+                Behalten
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       <div className="max-w-7xl mx-auto px-4 py-6 grid grid-cols-12 gap-6">
         {/* Sidebar */}

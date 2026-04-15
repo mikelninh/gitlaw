@@ -15,62 +15,25 @@ import ProResearch from './ProResearch'
 import ProTemplates from './ProTemplates'
 import ProAudit from './ProAudit'
 import ProEingaenge from './ProEingaenge'
-import ProPricing from './ProPricing'
-import WelcomeBao from './WelcomeBao'
+// Welcome pages + Pricing live on top-level (main.tsx) for short URLs.
+// Don't import them here.
 
 export default function ProApp() {
   return (
-    <Routes>
-      {/* Pricing public — no auth gate, so interested lawyers can see tiers */}
-      <Route path="/preise" element={<PublicPricingShell />} />
-
-      {/* Personal landing pages — public, kein Auth-Gate. Pro Beta-Tester
-          eigener Pfad mit personalisiertem Welcome + 1-Klick-Login-CTA. */}
-      <Route path="/bao" element={<WelcomeBao />} />
-      <Route path="/willkommen/bao" element={<WelcomeBao />} />
-
-      {/* Everything else is auth-gated */}
-      <Route
-        path="*"
-        element={
-          <ProAuth>
-            <Routes>
-              <Route path="/" element={<ProLayout />}>
-                <Route index element={<ProDashboard />} />
-                <Route path="akten" element={<ProCasesList />} />
-                <Route path="akten/:id" element={<ProCaseDetail />} />
-                <Route path="recherche" element={<ProResearch />} />
-                <Route path="schreiben" element={<ProTemplates />} />
-                <Route path="eingaenge" element={<ProEingaenge />} />
-                <Route path="audit" element={<ProAudit />} />
-                <Route path="einstellungen" element={<ProSettings />} />
-              </Route>
-              <Route path="*" element={<Navigate to="/" replace />} />
-            </Routes>
-          </ProAuth>
-        }
-      />
-    </Routes>
-  )
-}
-
-function PublicPricingShell() {
-  return (
-    <div className="min-h-screen bg-[var(--color-bg)]">
-      <header className="border-b border-[var(--color-border)] bg-white">
-        <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-          <a href="/#/pro" className="flex items-center gap-2 font-semibold">
-            <span className="text-[var(--color-gold)]">⚖</span>
-            GitLaw <span className="text-[var(--color-gold)]">Pro</span>
-          </a>
-          <a href="/" className="text-sm text-[var(--color-ink-soft)] hover:text-[var(--color-ink)]">
-            Bürger:innen-Version →
-          </a>
-        </div>
-      </header>
-      <div className="max-w-6xl mx-auto px-4 py-10">
-        <ProPricing />
-      </div>
-    </div>
+    <ProAuth>
+      <Routes>
+        <Route path="/" element={<ProLayout />}>
+          <Route index element={<ProDashboard />} />
+          <Route path="akten" element={<ProCasesList />} />
+          <Route path="akten/:id" element={<ProCaseDetail />} />
+          <Route path="recherche" element={<ProResearch />} />
+          <Route path="schreiben" element={<ProTemplates />} />
+          <Route path="eingaenge" element={<ProEingaenge />} />
+          <Route path="audit" element={<ProAudit />} />
+          <Route path="einstellungen" element={<ProSettings />} />
+        </Route>
+        <Route path="*" element={<Navigate to="/" replace />} />
+      </Routes>
+    </ProAuth>
   )
 }
