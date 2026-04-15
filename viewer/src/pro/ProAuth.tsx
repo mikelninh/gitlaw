@@ -109,6 +109,11 @@ export default function ProAuth({ children }: Props) {
 
         <div className="mt-6 pt-6 border-t border-[var(--color-border)] text-xs text-[var(--color-ink-muted)] space-y-2">
           <p>
+            <Link to="/preise" className="underline font-medium text-[var(--color-ink)]">
+              → Preise &amp; 60-Tage-Garantie ansehen
+            </Link>
+          </p>
+          <p>
             Für Bürger:innen ist die kostenlose Version weiterhin offen:{' '}
             <Link to="/" className="underline">gitlaw.app</Link>
           </p>

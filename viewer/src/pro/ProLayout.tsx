@@ -5,9 +5,17 @@
  * version (which is more inviting, with daily-law cards etc.).
  */
 
+import { useEffect, useState } from 'react'
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom'
-import { Scale, FolderOpen, FileText, Search, Settings, Shield, LogOut, ExternalLink, Inbox } from 'lucide-react'
+import { Scale, FolderOpen, FileText, Search, Settings, Shield, LogOut, ExternalLink, Inbox, Cloud, RefreshCw, AlertCircle, CheckCircle2 } from 'lucide-react'
 import { clearStoredInvite, getSettings, listIntakes } from './store'
+import {
+  getSyncState,
+  isCloudSyncEnabled,
+  pullFromCloud,
+  subscribeSyncState,
+  type SyncStatus,
+} from './sync'
 
 const NAV_ITEMS = [
   { to: '/pro', icon: Scale, label: 'Übersicht', end: true, badge: 0 as const },
@@ -23,9 +31,22 @@ export default function ProLayout() {
   const settings = getSettings()
   const location = useLocation()
   const navigate = useNavigate()
+  const [syncState, setSyncState] = useState(getSyncState())
 
   const needsConfig = !settings.name || !settings.anwaltName
   const pendingIntakes = listIntakes({ reviewed: false }).length
+
+  // Sync-State subscription
+  useEffect(() => subscribeSyncState(setSyncState), [])
+
+  // Auto-Pull beim ersten Mount, falls Cloud-Sync aktiv (für den anderen
+  // Browser im Werner+Jasmin-Setup: jedes neue Tab zieht zuerst die
+  // aktuellsten Daten der Kanzlei).
+  useEffect(() => {
+    if (isCloudSyncEnabled()) {
+      pullFromCloud().catch(() => { /* errors gehen via syncState */ })
+    }
+  }, [])
 
   function handleLogout() {
     if (!confirm('Beta-Zugang dieses Browsers aufheben?')) return
@@ -47,6 +68,7 @@ export default function ProLayout() {
             </span>
           </Link>
           <div className="flex items-center gap-3 text-sm">
+            <SyncIndicator state={syncState} />
             <Link
               to="/"
               className="text-[var(--color-ink-soft)] hover:text-[var(--color-ink)] flex items-center gap-1"
@@ -130,4 +152,47 @@ export default function ProLayout() {
       </footer>
     </div>
   )
+}
+
+function SyncIndicator({ state }: { state: { status: SyncStatus; lastSync: string | null; lastError: string | null } }) {
+  if (state.status === 'disabled') return null  // nothing — Cloud-Sync ist aus
+
+  const cfg = (() => {
+    switch (state.status) {
+      case 'pushing':
+        return { icon: <RefreshCw className="w-3.5 h-3.5 animate-spin" />, text: 'Sync…', color: 'text-[var(--color-ink-muted)]' }
+      case 'pulling':
+        return { icon: <RefreshCw className="w-3.5 h-3.5 animate-spin" />, text: 'Lade…', color: 'text-[var(--color-ink-muted)]' }
+      case 'success': {
+        const last = state.lastSync ? new Date(state.lastSync) : null
+        const ago = last ? formatAgo(last) : ''
+        return { icon: <CheckCircle2 className="w-3.5 h-3.5" />, text: ago, color: 'text-green-700' }
+      }
+      case 'error':
+        return { icon: <AlertCircle className="w-3.5 h-3.5" />, text: 'Sync-Fehler', color: 'text-[var(--color-danger)]' }
+      case 'idle':
+      default:
+        return { icon: <Cloud className="w-3.5 h-3.5" />, text: 'Cloud aktiv', color: 'text-[var(--color-ink-muted)]' }
+    }
+  })()
+
+  return (
+    <span
+      className={`inline-flex items-center gap-1 text-xs ${cfg.color}`}
+      title={state.lastError || (state.lastSync ? `Letzte Sync: ${new Date(state.lastSync).toLocaleString('de-DE')}` : 'Cloud-Sync aktiv')}
+    >
+      {cfg.icon}
+      {cfg.text}
+    </span>
+  )
+}
+
+function formatAgo(d: Date): string {
+  const sec = Math.floor((Date.now() - d.getTime()) / 1000)
+  if (sec < 5) return 'Synchronisiert'
+  if (sec < 60) return `vor ${sec}s`
+  const min = Math.floor(sec / 60)
+  if (min < 60) return `vor ${min}min`
+  const h = Math.floor(min / 60)
+  return `vor ${h}h`
 }

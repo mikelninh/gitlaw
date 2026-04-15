@@ -21,6 +21,7 @@ import type {
   ParagraphNote,
   ResearchQuery,
 } from './types'
+import { schedulePush } from './sync'
 
 const KEY_SETTINGS = 'gitlaw.pro.settings.v1'
 const KEY_CASES = 'gitlaw.pro.cases.v1'
@@ -51,6 +52,8 @@ function readJSON<T>(key: string, fallback: T): T {
 
 function writeJSON(key: string, value: unknown): void {
   localStorage.setItem(key, JSON.stringify(value))
+  // Auto-Sync: debounced push in die Cloud (no-op falls Cloud-Sync aus)
+  schedulePush()
 }
 
 function uid(): string {

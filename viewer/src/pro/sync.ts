@@ -225,12 +225,62 @@ export async function importSnapshotFile(file: File, mode: 'merge' | 'replace' =
   return importSnapshot(snap, mode)
 }
 
-// --- Cloud-Sync (Vercel KV) — vorbereitet, aktiviert wenn API-Endpoint da ---
+// --- Cloud-Sync (Upstash Redis via Vercel) ---
 
 const SYNC_API_URL = import.meta.env.VITE_API_URL || 'https://gitlaw-xi.vercel.app'
 
-export async function pushToCloud(): Promise<void> {
+// --- Sync-Status für UI ---
+
+export type SyncStatus = 'idle' | 'pushing' | 'pulling' | 'success' | 'error' | 'disabled'
+
+interface SyncState {
+  status: SyncStatus
+  lastSync: string | null  // ISO timestamp
+  lastError: string | null
+}
+
+let syncState: SyncState = { status: 'idle', lastSync: null, lastError: null }
+const syncListeners = new Set<(s: SyncState) => void>()
+
+export function getSyncState(): SyncState {
+  return { ...syncState }
+}
+
+export function subscribeSyncState(fn: (s: SyncState) => void): () => void {
+  syncListeners.add(fn)
+  return () => syncListeners.delete(fn)
+}
+
+function setSyncState(patch: Partial<SyncState>): void {
+  syncState = { ...syncState, ...patch }
+  syncListeners.forEach(fn => fn(syncState))
+}
+
+// --- Debounced Auto-Push ---
+
+let pushTimer: ReturnType<typeof setTimeout> | null = null
+const PUSH_DEBOUNCE_MS = 1500
+
+/**
+ * Wird aus store.ts nach jedem Write aufgerufen. Sammelt Schreibvorgänge
+ * über 1.5 s und pusht dann einmal in die Cloud — vermeidet Flutting bei
+ * mehreren schnellen Saves (z. B. Demo-Daten laden mit 9 Cases).
+ */
+export function schedulePush(): void {
   if (!isCloudSyncEnabled()) return
+  if (pushTimer) clearTimeout(pushTimer)
+  pushTimer = setTimeout(() => {
+    pushTimer = null
+    pushToCloud().catch(() => { /* status already set in pushToCloud */ })
+  }, PUSH_DEBOUNCE_MS)
+}
+
+export async function pushToCloud(): Promise<void> {
+  if (!isCloudSyncEnabled()) {
+    setSyncState({ status: 'disabled' })
+    return
+  }
+  setSyncState({ status: 'pushing', lastError: null })
   const key = getKanzleiKey()
   const snap = buildSnapshot()
   try {
@@ -240,23 +290,35 @@ export async function pushToCloud(): Promise<void> {
       body: JSON.stringify(snap),
     })
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`)
+    setSyncState({ status: 'success', lastSync: new Date().toISOString(), lastError: null })
   } catch (err) {
-    console.warn('Cloud-Sync-Push fehlgeschlagen', err)
+    const msg = err instanceof Error ? err.message : 'unbekannt'
+    setSyncState({ status: 'error', lastError: msg })
     throw err
   }
 }
 
 export async function pullFromCloud(): Promise<{ ok: boolean; counts?: ReturnType<typeof importSnapshot>; error?: string }> {
-  if (!isCloudSyncEnabled()) return { ok: false, error: 'Cloud-Sync ist nicht aktiv' }
+  if (!isCloudSyncEnabled()) {
+    setSyncState({ status: 'disabled' })
+    return { ok: false, error: 'Cloud-Sync ist nicht aktiv' }
+  }
+  setSyncState({ status: 'pulling', lastError: null })
   const key = getKanzleiKey()
   try {
     const resp = await fetch(`${SYNC_API_URL}/api/sync/${encodeURIComponent(key)}`)
-    if (resp.status === 404) return { ok: true, counts: undefined } // nichts in der Cloud
+    if (resp.status === 404) {
+      setSyncState({ status: 'success', lastSync: new Date().toISOString() })
+      return { ok: true, counts: undefined }
+    }
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`)
     const snap = (await resp.json()) as ProStateSnapshot
     const counts = importSnapshot(snap, 'merge')
+    setSyncState({ status: 'success', lastSync: new Date().toISOString() })
     return { ok: true, counts }
   } catch (err) {
-    return { ok: false, error: err instanceof Error ? err.message : 'unbekannt' }
+    const msg = err instanceof Error ? err.message : 'unbekannt'
+    setSyncState({ status: 'error', lastError: msg })
+    return { ok: false, error: msg }
   }
 }
