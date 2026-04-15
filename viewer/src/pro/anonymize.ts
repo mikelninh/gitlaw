@@ -83,8 +83,13 @@ const PATTERNS: PatternDef[] = [
   // Reine PLZ (ohne Ort)
   { name: 'plz', re: /\b\d{5}\b/g, placeholder: '[PLZ]' },
 
-  // Aktenzeichen Gericht/StA: "12 O 345/24", "2 StR 202/19", "VIII ZR 91/20"
-  { name: 'aktenzeichen', re: /\b(?:[IVX]+\s+)?\d+\s+[A-Z][A-Za-z]{0,4}\s+\d+\/\d+\b/g, placeholder: '[AKTENZEICHEN]' },
+  // Aktenzeichen Gericht/StA — drei Formate:
+  //   "12 O 345/24"      (digit prefix: AG/LG)
+  //   "2 StR 202/19"     (digit prefix: BGH-StrSenat)
+  //   "VIII ZR 91/20"    (Roman prefix: BGH-ZivSenat)
+  //   "1 BvL 7/16"       (digit prefix: BVerfG-Senat)
+  // Vereinheitlicht: Prefix kann Roman oder digit sein, optional.
+  { name: 'aktenzeichen', re: /\b(?:[IVX]+|\d+)\s+[A-Z][A-Za-z]{0,4}\s+\d+\/\d+\b/g, placeholder: '[AKTENZEICHEN]' },
 
   // Geburtsdatums-Phrasen ("geb. 12.03.1985", "geboren am 1.1.1990")
   {
