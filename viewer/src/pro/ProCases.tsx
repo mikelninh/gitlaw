@@ -9,7 +9,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import {
   ArrowLeft, Plus, FolderOpen, Archive, FileText, Search as SearchIcon,
-  Shield, Package, Clock, AlertCircle,
+  Shield, Package, Clock, AlertCircle, Share2, Copy, Check,
 } from 'lucide-react'
 import Fuse from 'fuse.js'
 import {
@@ -19,8 +19,10 @@ import {
   getSettings,
   listAudit,
   listCases,
+  listIntakes,
   listLetters,
   listResearch,
+  markIntakeReviewed,
   updateCase,
 } from './store'
 import { exportAuditPDF } from './pdf'
@@ -52,6 +54,79 @@ function FristPill({ c }: { c: MandantCase }) {
     <span className={`text-[10px] uppercase px-1.5 py-0.5 rounded border inline-flex items-center gap-1 ${cls}`}>
       <Clock className="w-3 h-3" /> {label}
     </span>
+  )
+}
+
+function IntakeShareDialog({
+  caseId,
+  caseDisplay,
+  copied,
+  onCopy,
+  onClose,
+}: {
+  caseId: string
+  caseDisplay: string
+  copied: boolean
+  onCopy: (url: string) => void
+  onClose: () => void
+}) {
+  const origin = window.location.origin + window.location.pathname
+  const url = `${origin}#/intake/${caseId}`
+  const mailSubject = encodeURIComponent(`Fragebogen zu Ihrem Anliegen — ${caseDisplay.split(' · ')[0]}`)
+  const mailBody = encodeURIComponent(
+    `Sehr geehrte:r Mandant:in,\n\n` +
+      `bitte füllen Sie vorab den folgenden Fragebogen aus, damit ich Ihr Anliegen strukturiert aufnehmen kann:\n\n` +
+      `${url}\n\n` +
+      `Die Übermittlung ist verschlüsselt. Es handelt sich um eine unverbindliche Erstanfrage.\n\n` +
+      `Mit freundlichen Grüßen`,
+  )
+  return (
+    <div
+      className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm p-4"
+      onClick={onClose}
+    >
+      <div
+        className="bg-white rounded-2xl border border-[var(--color-border)] max-w-lg w-full p-6 space-y-4"
+        onClick={e => e.stopPropagation()}
+      >
+        <h2 className="text-lg font-semibold">Mandant:innen-Fragebogen teilen</h2>
+        <p className="text-sm text-[var(--color-ink-soft)]">
+          Schicke diesen Link per E-Mail, WhatsApp oder zeige ihn auf deinem iPad im Termin.
+          Das Formular ist an die Akte <strong>{caseDisplay}</strong> gebunden — Antworten
+          landen hier in der Akte.
+        </p>
+        <div className="bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded-lg p-3 flex items-center gap-2">
+          <code className="text-xs break-all flex-1 font-mono">{url}</code>
+          <button
+            onClick={() => onCopy(url)}
+            className="shrink-0 inline-flex items-center gap-1 text-xs bg-[var(--color-ink)] text-white rounded px-2 py-1 hover:opacity-90"
+          >
+            {copied ? <Check className="w-3 h-3" /> : <Copy className="w-3 h-3" />}
+            {copied ? 'Kopiert!' : 'Kopieren'}
+          </button>
+        </div>
+        <div className="flex items-center gap-2 flex-wrap">
+          <a
+            href={`mailto:?subject=${mailSubject}&body=${mailBody}`}
+            className="inline-flex items-center gap-1.5 text-sm bg-[var(--color-ink)] text-white rounded-lg px-3 py-1.5 hover:opacity-90"
+          >
+            Per E-Mail senden
+          </a>
+          <button
+            onClick={onClose}
+            className="inline-flex items-center gap-1.5 text-sm text-[var(--color-ink-muted)] hover:text-[var(--color-ink)]"
+          >
+            Schließen
+          </button>
+        </div>
+        <p className="text-xs text-[var(--color-ink-muted)] border-t border-[var(--color-border)] pt-3">
+          <strong>Hinweis Beta:</strong> Daten liegen derzeit nur lokal im Browser, in dem die
+          Akte angelegt wurde. Für echte Remote-Einreichungen benötigt die finale Fassung einen
+          Server (geplant: Server-Sync Beta 2). Für Kiosk-Betrieb am iPad im Büro funktioniert
+          das Formular bereits jetzt.
+        </p>
+      </div>
+    </div>
   )
 }
 
@@ -298,10 +373,13 @@ export function ProCaseDetail() {
   const navigate = useNavigate()
   const [tick, setTick] = useState(0)
   const [exportingZip, setExportingZip] = useState(false)
+  const [showIntakeShare, setShowIntakeShare] = useState(false)
+  const [copied, setCopied] = useState(false)
   const c = useMemo(() => (id ? getCase(id) : undefined), [id, tick])
   const research = useMemo(() => (id ? listResearch(id) : []), [id, tick])
   const letters = useMemo(() => (id ? listLetters(id) : []), [id, tick])
   const audit = useMemo(() => (id ? listAudit(id) : []), [id, tick])
+  const intakes = useMemo(() => (id ? listIntakes({ caseId: id }) : []), [id, tick])
 
   useEffect(() => { /* re-render trigger placeholder */ }, [tick])
 
@@ -382,6 +460,13 @@ export function ProCaseDetail() {
             <FileText className="w-4 h-4" /> Schreiben
           </Link>
           <button
+            onClick={() => setShowIntakeShare(true)}
+            className="inline-flex items-center gap-1.5 text-sm bg-white border border-[var(--color-border)] rounded-lg px-3 py-1.5 hover:border-[var(--color-gold)]"
+            title="Mandant:innen-Fragebogen teilen (Link oder QR)"
+          >
+            <Share2 className="w-4 h-4" /> Fragebogen teilen
+          </button>
+          <button
             onClick={onExportZip}
             disabled={exportingZip}
             className="inline-flex items-center gap-1.5 text-sm bg-[var(--color-gold)] text-white rounded-lg px-3 py-1.5 hover:opacity-90 disabled:opacity-50"
@@ -399,6 +484,22 @@ export function ProCaseDetail() {
           )}
         </div>
       </header>
+
+      {/* Intake share dialog */}
+      {showIntakeShare && c && (
+        <IntakeShareDialog
+          caseId={c.id}
+          caseDisplay={`${c.aktenzeichen} · ${c.mandantName}`}
+          copied={copied}
+          onCopy={url => {
+            navigator.clipboard.writeText(url).then(() => {
+              setCopied(true)
+              setTimeout(() => setCopied(false), 2000)
+            })
+          }}
+          onClose={() => setShowIntakeShare(false)}
+        />
+      )}
 
       {/* Frist-Info-Banner */}
       {c.fristDatum && frist !== null && (
@@ -424,6 +525,53 @@ export function ProCaseDetail() {
             </span>
           </span>
         </div>
+      )}
+
+      {/* Sachverhalt-Eingänge von Mandant:in */}
+      {intakes.length > 0 && (
+        <section>
+          <h2 className="font-semibold mb-2">Mandant:innen-Eingänge ({intakes.length})</h2>
+          <ul className="bg-white border border-[var(--color-border)] rounded-2xl divide-y divide-[var(--color-border)]">
+            {intakes.map(i => (
+              <li key={i.id} className="px-4 py-3 text-sm">
+                <div className="flex items-baseline justify-between gap-3 flex-wrap">
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2 flex-wrap">
+                      <span className="font-semibold">{i.name}</span>
+                      {!i.reviewed && (
+                        <span className="text-[10px] uppercase px-1.5 py-0.5 rounded bg-amber-100 text-amber-800 border border-amber-300">
+                          neu
+                        </span>
+                      )}
+                    </div>
+                    <p className="text-sm text-[var(--color-ink-soft)] mt-1">{i.anliegen}</p>
+                    {i.gewuenschterAusgang && (
+                      <p className="text-xs text-[var(--color-ink-muted)] mt-1 italic">
+                        Gewünscht: {i.gewuenschterAusgang}
+                      </p>
+                    )}
+                    <div className="text-xs text-[var(--color-ink-muted)] mt-2 flex items-center gap-3 flex-wrap">
+                      {i.email && <span>✉ {i.email}</span>}
+                      {i.phone && <span>☎ {i.phone}</span>}
+                      <span>{new Date(i.submittedAt).toLocaleString('de-DE')}</span>
+                    </div>
+                  </div>
+                  {!i.reviewed && (
+                    <button
+                      onClick={() => {
+                        markIntakeReviewed(i.id)
+                        setTick(t => t + 1)
+                      }}
+                      className="text-xs text-[var(--color-ink-muted)] hover:text-[var(--color-ink)]"
+                    >
+                      Als gelesen markieren
+                    </button>
+                  )}
+                </div>
+              </li>
+            ))}
+          </ul>
+        </section>
       )}
 
       <section>

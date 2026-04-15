@@ -9,8 +9,9 @@
  */
 
 import { useEffect, useState } from 'react'
-import { X, ExternalLink, BookOpen, Loader2 } from 'lucide-react'
+import { X, ExternalLink, BookOpen, Loader2, Pencil, Save } from 'lucide-react'
 import type { Citation } from './types'
+import { getParagraphNote, saveParagraphNote } from './store'
 
 interface Props {
   citation: Citation | null
@@ -52,6 +53,8 @@ async function loadLawSection(lawId: string, section: string): Promise<string | 
 export default function CitationDrawer({ citation, onClose }: Props) {
   const [fullText, setFullText] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
+  const [noteBody, setNoteBody] = useState('')
+  const [noteSaved, setNoteSaved] = useState(false)
 
   useEffect(() => {
     if (!citation || !citation.verified) return
@@ -60,7 +63,18 @@ export default function CitationDrawer({ citation, onClose }: Props) {
     loadLawSection(citation.lawId, citation.section)
       .then(t => setFullText(t))
       .finally(() => setLoading(false))
+    // Load existing note for this paragraph
+    const existing = getParagraphNote(citation.lawId, citation.section)
+    setNoteBody(existing?.body || '')
+    setNoteSaved(false)
   }, [citation])
+
+  function onSaveNote() {
+    if (!citation) return
+    saveParagraphNote(citation.lawId, citation.section, noteBody)
+    setNoteSaved(true)
+    setTimeout(() => setNoteSaved(false), 2000)
+  }
 
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
@@ -128,13 +142,41 @@ export default function CitationDrawer({ citation, onClose }: Props) {
               <Loader2 className="w-4 h-4 animate-spin" /> Paragraphentext wird geladen…
             </div>
           ) : fullText ? (
-            <article
-              className="law-content text-sm leading-relaxed"
-              // law markdown is trusted (shipped with our bundle), but we still
-              // only render it as text — no HTML injection.
-            >
-              <pre className="whitespace-pre-wrap font-sans">{fullText}</pre>
-            </article>
+            <>
+              <article className="law-content text-sm leading-relaxed">
+                <pre className="whitespace-pre-wrap font-sans">{fullText}</pre>
+              </article>
+
+              {/* Persönliche Notiz — baut Wissensdatenbank auf */}
+              <section className="mt-6 pt-5 border-t border-[var(--color-border)]">
+                <div className="flex items-center gap-2 mb-2">
+                  <Pencil className="w-4 h-4 text-[var(--color-gold)]" />
+                  <h3 className="text-sm font-semibold">Meine Notiz zu diesem Paragraphen</h3>
+                </div>
+                <textarea
+                  value={noteBody}
+                  onChange={e => {
+                    setNoteBody(e.target.value)
+                    setNoteSaved(false)
+                  }}
+                  placeholder="z. B. „BGH vom 29.03.2017 — Eigenbedarf nicht illusionär. Bei 70+ J. Mieter regelmäßig Härtefall."
+                  rows={4}
+                  className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-[var(--color-gold)]"
+                />
+                <div className="flex items-center gap-2 mt-2">
+                  <button
+                    onClick={onSaveNote}
+                    className="inline-flex items-center gap-1.5 text-xs bg-[var(--color-ink)] text-white rounded-lg px-3 py-1.5 hover:opacity-90"
+                  >
+                    <Save className="w-3.5 h-3.5" /> Notiz speichern
+                  </button>
+                  {noteSaved && <span className="text-xs text-green-700">✓ gespeichert</span>}
+                  <p className="text-xs text-[var(--color-ink-muted)] ml-auto">
+                    Baut deine persönliche Paragraphen-Wissensdatenbank auf.
+                  </p>
+                </div>
+              </section>
+            </>
           ) : (
             <p className="text-sm text-[var(--color-ink-muted)] italic">
               Paragraphentext konnte nicht geladen werden.

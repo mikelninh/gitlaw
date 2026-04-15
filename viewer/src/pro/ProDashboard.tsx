@@ -1,43 +1,96 @@
 /**
- * Pro landing — quick stats + jump-off points + upcoming Fristen widget.
+ * Pro landing — "Täglicher Begleiter"-Design.
+ *
+ * Drei zeitliche Hooks die der:die Anwält:in während des Tages braucht:
+ *   ☕ Morgens    — Fristen + Intake-Eingänge + Heute offen
+ *   💬 Mittags    — laufende Akten + schneller §-Einstieg
+ *   🌙 Abends     — "Diese Woche gespart" (€/Zeit) + morgen's Fristen
+ *
+ * Alles auf EINEM Screen, keine Sidebar-Sucherei.
  */
 
 import { Link } from 'react-router-dom'
-import { FolderOpen, Search, FileText, Plus, Clock, AlertCircle } from 'lucide-react'
-import { listAudit, listCases, listLetters, listResearch } from './store'
+import {
+  FolderOpen, Search, FileText, Plus, Clock, AlertCircle, Inbox, Sparkles, TrendingUp,
+} from 'lucide-react'
+import {
+  listAudit, listCases, listIntakes, listLetters, listResearch,
+} from './store'
+import { savingsThisWeek } from './savings'
 
 function daysUntil(iso: string): number {
   const diff = new Date(iso).getTime() - Date.now()
   return Math.ceil(diff / (1000 * 60 * 60 * 24))
 }
 
+function isToday(iso: string): boolean {
+  const d = new Date(iso)
+  const now = new Date()
+  return d.toDateString() === now.toDateString()
+}
+
 export default function ProDashboard() {
   const cases = listCases()
   const research = listResearch()
   const letters = listLetters()
+  const pendingIntakes = listIntakes({ reviewed: false })
   const recentAudit = listAudit().slice(0, 5)
+  const savings = savingsThisWeek()
 
-  // Fristen der nächsten 14 Tage oder abgelaufen — aktive Akten only
   const upcomingFristen = cases
     .filter(c => c.status === 'aktiv' && c.fristDatum)
     .map(c => ({ c, days: daysUntil(c.fristDatum!) }))
     .filter(({ days }) => days <= 14)
     .sort((a, b) => a.days - b.days)
 
+  const todaysActivity = [...research, ...letters].filter(x => isToday(x.createdAt))
+
+  const hour = new Date().getHours()
+  const greeting = hour < 11 ? 'Guten Morgen' : hour < 14 ? 'Mittag' : hour < 18 ? 'Nachmittag' : 'Guten Abend'
+
   return (
     <div className="space-y-8">
       <header>
-        <h1 className="text-2xl font-semibold mb-1">Übersicht</h1>
+        <h1 className="text-2xl font-semibold mb-1">
+          {greeting}
+        </h1>
         <p className="text-sm text-[var(--color-ink-soft)]">
-          Beta-Workspace · alle Daten liegen in deinem Browser, nicht auf unserem Server.
+          {new Date().toLocaleDateString('de-DE', { weekday: 'long', day: 'numeric', month: 'long' })}
         </p>
       </header>
 
-      <section className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-        <Stat icon={<FolderOpen />} label="Aktive Akten" value={cases.filter(c => c.status === 'aktiv').length} to="/pro/akten" />
-        <Stat icon={<Search />} label="Recherche-Notizen" value={research.length} to="/pro/recherche" />
-        <Stat icon={<FileText />} label="Generierte Schreiben" value={letters.length} to="/pro/schreiben" />
-      </section>
+      {/* ☕ HEUTE-Block — das Morgenritual */}
+      {(upcomingFristen.length > 0 || pendingIntakes.length > 0 || todaysActivity.length > 0) && (
+        <section className="bg-white border border-[var(--color-border)] rounded-2xl p-5">
+          <h2 className="font-semibold mb-3 flex items-center gap-2">
+            <span>☕</span> Heute
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 text-sm">
+            <HeuteCard
+              icon={<Clock className="w-4 h-4" />}
+              label="Fristen ≤ 7 Tage"
+              value={upcomingFristen.filter(f => f.days <= 7).length}
+              tone={upcomingFristen.some(f => f.days <= 0) ? 'red' : upcomingFristen.some(f => f.days <= 3) ? 'amber' : 'neutral'}
+              to="/pro/akten"
+            />
+            <HeuteCard
+              icon={<Inbox className="w-4 h-4" />}
+              label="Neue Mandant:innen-Eingänge"
+              value={pendingIntakes.length}
+              tone={pendingIntakes.length > 0 ? 'gold' : 'neutral'}
+              to="/pro/eingaenge"
+            />
+            <HeuteCard
+              icon={<Sparkles className="w-4 h-4" />}
+              label="Heute bereits erledigt"
+              value={todaysActivity.length}
+              sublabel={todaysActivity.length > 0 ? `${todaysActivity.length} Vorgänge` : 'Noch nichts'}
+              tone="neutral"
+              to="/pro/audit"
+            />
+          </div>
+        </section>
+      )}
 
       {/* Fristen der kommenden 14 Tage */}
       {upcomingFristen.length > 0 && (
@@ -81,11 +134,7 @@ export default function ProDashboard() {
                                 : 'text-[var(--color-ink-soft)]'
                         }`}
                       >
-                        {days < 0
-                          ? `${-days}T abgelaufen`
-                          : days === 0
-                            ? 'HEUTE'
-                            : `in ${days}T`}
+                        {days < 0 ? `${-days}T abgelaufen` : days === 0 ? 'HEUTE' : `in ${days}T`}
                       </span>
                       <div className="text-[10px] text-[var(--color-ink-muted)] font-mono">
                         {new Date(c.fristDatum!).toLocaleDateString('de-DE')}
@@ -99,35 +148,70 @@ export default function ProDashboard() {
         </section>
       )}
 
+      {/* Stats */}
+      <section className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+        <Stat icon={<FolderOpen />} label="Aktive Akten" value={cases.filter(c => c.status === 'aktiv').length} to="/pro/akten" />
+        <Stat icon={<Search />} label="Recherche-Notizen" value={research.length} to="/pro/recherche" />
+        <Stat icon={<FileText />} label="Generierte Schreiben" value={letters.length} to="/pro/schreiben" />
+      </section>
+
+      {/* 🌙 WOCHE-Block — der Abendritual "was hab ich gespart" */}
+      {savings.minutes > 0 && (
+        <section className="bg-gradient-to-br from-[var(--color-bg-alt)] to-white border border-[var(--color-border)] rounded-2xl p-5">
+          <div className="flex items-center justify-between gap-3 flex-wrap">
+            <div className="flex items-center gap-3">
+              <div className="w-12 h-12 rounded-xl bg-green-100 flex items-center justify-center text-green-700">
+                <TrendingUp className="w-6 h-6" />
+              </div>
+              <div>
+                <h2 className="font-semibold">Diese Woche gespart</h2>
+                <div className="mt-1">
+                  <span className="text-3xl font-bold text-[var(--color-ink)]">{savings.humanTime}</span>
+                  <span className="text-sm text-[var(--color-ink-muted)] ml-3">
+                    ≈ €{savings.euroAt220.toLocaleString('de-DE')} bei 220 €/h
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="text-xs text-[var(--color-ink-muted)] text-right">
+              <div>{savings.breakdown['letter.generate'] || 0}× Schreiben</div>
+              <div>{savings.breakdown['research.query'] || 0}× Recherche</div>
+              <div>{savings.breakdown['case.create'] || 0}× Akte</div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Aktions-Karten */}
       <section className="grid grid-cols-1 lg:grid-cols-3 gap-4">
         <Link
           to="/pro/akten?new=1"
-          className="bg-white border border-[var(--color-border)] rounded-2xl p-6 hover:border-[var(--color-gold)] transition-colors group"
+          className="bg-white border border-[var(--color-border)] rounded-2xl p-6 hover:border-[var(--color-gold)] transition-colors"
         >
           <Plus className="w-5 h-5 text-[var(--color-gold)] mb-2" />
           <h3 className="font-semibold mb-1">Neue Akte anlegen</h3>
           <p className="text-sm text-[var(--color-ink-soft)]">
-            Mandant:in + Aktenzeichen + optionale Frist. Recherche und Schreiben werden später angeheftet.
+            Mandant:in + Aktenzeichen + optionale Frist.
           </p>
         </Link>
         <Link
           to="/pro/recherche"
-          className="bg-white border border-[var(--color-border)] rounded-2xl p-6 hover:border-[var(--color-gold)] transition-colors group"
+          className="bg-white border border-[var(--color-border)] rounded-2xl p-6 hover:border-[var(--color-gold)] transition-colors"
         >
           <Search className="w-5 h-5 text-[var(--color-gold)] mb-2" />
           <h3 className="font-semibold mb-1">Schnelle Recherche</h3>
           <p className="text-sm text-[var(--color-ink-soft)]">
-            Frage stellen → KI antwortet mit Paragraphen-Belegen, die wir gegen 5.936 Gesetze prüfen.
+            Frage → verifizierte Paragraphen-Belege.
           </p>
         </Link>
         <Link
           to="/pro/schreiben"
-          className="bg-white border border-[var(--color-border)] rounded-2xl p-6 hover:border-[var(--color-gold)] transition-colors group"
+          className="bg-white border border-[var(--color-border)] rounded-2xl p-6 hover:border-[var(--color-gold)] transition-colors"
         >
           <FileText className="w-5 h-5 text-[var(--color-gold)] mb-2" />
           <h3 className="font-semibold mb-1">Schreiben generieren</h3>
           <p className="text-sm text-[var(--color-ink-soft)]">
-            5 Vorlagen: Strafanzeige, Widerspruch, Mahnschreiben, Mandatsanzeige, Akteneinsicht.
+            5 Vorlagen auf Kanzlei-Briefkopf.
           </p>
         </Link>
       </section>
@@ -165,6 +249,37 @@ export default function ProDashboard() {
         </div>
       )}
     </div>
+  )
+}
+
+function HeuteCard({
+  icon, label, value, sublabel, tone, to,
+}: {
+  icon: React.ReactNode
+  label: string
+  value: number
+  sublabel?: string
+  tone: 'red' | 'amber' | 'gold' | 'neutral'
+  to: string
+}) {
+  const toneMap = {
+    red: 'border-red-300 bg-red-50 text-red-900',
+    amber: 'border-amber-300 bg-amber-50 text-amber-900',
+    gold: 'border-amber-200 bg-amber-50 text-amber-900',
+    neutral: 'border-[var(--color-border)] bg-[var(--color-bg-alt)] text-[var(--color-ink)]',
+  }
+  return (
+    <Link
+      to={to}
+      className={`block rounded-lg border p-3 hover:shadow-sm transition ${toneMap[tone]}`}
+    >
+      <div className="flex items-center gap-2 mb-1">
+        {icon}
+        <span className="text-xs font-medium">{label}</span>
+      </div>
+      <div className="text-2xl font-bold leading-tight">{value}</div>
+      {sublabel && <div className="text-xs opacity-70 mt-0.5">{sublabel}</div>}
+    </Link>
   )
 }
 

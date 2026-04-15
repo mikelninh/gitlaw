@@ -6,16 +6,17 @@
  */
 
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom'
-import { Scale, FolderOpen, FileText, Search, Settings, Shield, LogOut, ExternalLink } from 'lucide-react'
-import { clearStoredInvite, getSettings } from './store'
+import { Scale, FolderOpen, FileText, Search, Settings, Shield, LogOut, ExternalLink, Inbox } from 'lucide-react'
+import { clearStoredInvite, getSettings, listIntakes } from './store'
 
 const NAV_ITEMS = [
-  { to: '/pro', icon: Scale, label: 'Übersicht', end: true },
-  { to: '/pro/akten', icon: FolderOpen, label: 'Mandant:innen-Akten' },
-  { to: '/pro/recherche', icon: Search, label: 'Recherche' },
-  { to: '/pro/schreiben', icon: FileText, label: 'Schreiben' },
-  { to: '/pro/audit', icon: Shield, label: 'Audit-Log' },
-  { to: '/pro/einstellungen', icon: Settings, label: 'Einstellungen' },
+  { to: '/pro', icon: Scale, label: 'Übersicht', end: true, badge: 0 as const },
+  { to: '/pro/akten', icon: FolderOpen, label: 'Mandant:innen-Akten', badge: 0 as const },
+  { to: '/pro/eingaenge', icon: Inbox, label: 'Eingänge', badge: 'pending' as const },
+  { to: '/pro/recherche', icon: Search, label: 'Recherche', badge: 0 as const },
+  { to: '/pro/schreiben', icon: FileText, label: 'Schreiben', badge: 0 as const },
+  { to: '/pro/audit', icon: Shield, label: 'Audit-Log', badge: 0 as const },
+  { to: '/pro/einstellungen', icon: Settings, label: 'Einstellungen', badge: 0 as const },
 ]
 
 export default function ProLayout() {
@@ -24,6 +25,7 @@ export default function ProLayout() {
   const navigate = useNavigate()
 
   const needsConfig = !settings.name || !settings.anwaltName
+  const pendingIntakes = listIntakes({ reviewed: false }).length
 
   function handleLogout() {
     if (!confirm('Beta-Zugang dieses Browsers aufheben?')) return
@@ -71,24 +73,32 @@ export default function ProLayout() {
         {/* Sidebar */}
         <nav className="col-span-12 md:col-span-3 lg:col-span-2">
           <ul className="space-y-1">
-            {NAV_ITEMS.map(item => (
-              <li key={item.to}>
-                <NavLink
-                  to={item.to}
-                  end={item.end}
-                  className={({ isActive }) =>
-                    `flex items-center gap-2 px-3 py-2 rounded-lg text-sm transition-colors ${
-                      isActive
-                        ? 'bg-[var(--color-ink)] text-white'
-                        : 'text-[var(--color-ink-soft)] hover:bg-white hover:text-[var(--color-ink)]'
-                    }`
-                  }
-                >
-                  <item.icon className="w-4 h-4" />
-                  {item.label}
-                </NavLink>
-              </li>
-            ))}
+            {NAV_ITEMS.map(item => {
+              const showBadge = item.badge === 'pending' && pendingIntakes > 0
+              return (
+                <li key={item.to}>
+                  <NavLink
+                    to={item.to}
+                    end={item.end}
+                    className={({ isActive }) =>
+                      `flex items-center gap-2 px-3 py-2 rounded-lg text-sm transition-colors ${
+                        isActive
+                          ? 'bg-[var(--color-ink)] text-white'
+                          : 'text-[var(--color-ink-soft)] hover:bg-white hover:text-[var(--color-ink)]'
+                      }`
+                    }
+                  >
+                    <item.icon className="w-4 h-4" />
+                    <span className="flex-1">{item.label}</span>
+                    {showBadge && (
+                      <span className="inline-flex items-center justify-center min-w-[18px] h-[18px] px-1 text-[10px] font-bold rounded-full bg-[var(--color-gold)] text-white">
+                        {pendingIntakes}
+                      </span>
+                    )}
+                  </NavLink>
+                </li>
+              )
+            })}
           </ul>
 
           {needsConfig && location.pathname !== '/pro/einstellungen' && (

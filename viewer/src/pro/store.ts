@@ -13,9 +13,12 @@
 
 import type {
   AuditEntry,
+  CustomTemplate,
   GeneratedLetter,
+  IntakeEntry,
   KanzleiSettings,
   MandantCase,
+  ParagraphNote,
   ResearchQuery,
 } from './types'
 
@@ -25,6 +28,9 @@ const KEY_RESEARCH = 'gitlaw.pro.research.v1'
 const KEY_LETTERS = 'gitlaw.pro.letters.v1'
 const KEY_AUDIT = 'gitlaw.pro.audit.v1'
 const KEY_INVITE = 'gitlaw.pro.invite.v1'
+const KEY_INTAKES = 'gitlaw.pro.intakes.v1'
+const KEY_CUSTOM_TEMPLATES = 'gitlaw.pro.customTemplates.v1'
+const KEY_PARAGRAPH_NOTES = 'gitlaw.pro.paragraphNotes.v1'
 
 const DEFAULT_SETTINGS: KanzleiSettings = {
   name: '',
@@ -236,10 +242,147 @@ export function log(
   writeJSON(KEY_AUDIT, all.slice(-1000))
 }
 
+// --- Intakes (Mandant:innen-Fragebogen-Eingänge) ---
+
+export function listIntakes(opts?: { caseId?: string; reviewed?: boolean }): IntakeEntry[] {
+  let all = readJSON<IntakeEntry[]>(KEY_INTAKES, [])
+  if (opts?.caseId !== undefined) all = all.filter(i => i.caseId === opts.caseId)
+  if (opts?.reviewed !== undefined) all = all.filter(i => i.reviewed === opts.reviewed)
+  return all.sort((a, b) => b.submittedAt.localeCompare(a.submittedAt))
+}
+
+export function saveIntake(input: Omit<IntakeEntry, 'id' | 'submittedAt' | 'reviewed'>): IntakeEntry {
+  const item: IntakeEntry = {
+    ...input,
+    id: uid(),
+    submittedAt: new Date().toISOString(),
+    reviewed: false,
+  }
+  const all = readJSON<IntakeEntry[]>(KEY_INTAKES, [])
+  all.push(item)
+  writeJSON(KEY_INTAKES, all)
+  log(
+    'intake.received',
+    `${item.name}${item.email ? ` (${item.email})` : ''} — ${item.anliegen.slice(0, 80)}`,
+    item.caseId,
+  )
+  return item
+}
+
+export function markIntakeReviewed(id: string): void {
+  const all = readJSON<IntakeEntry[]>(KEY_INTAKES, [])
+  const idx = all.findIndex(i => i.id === id)
+  if (idx < 0) return
+  all[idx].reviewed = true
+  writeJSON(KEY_INTAKES, all)
+}
+
+// --- Custom Musterbriefe ---
+
+function extractPlaceholders(body: string): string[] {
+  const set = new Set<string>()
+  for (const m of body.matchAll(/\{\{\s*([a-z_][a-z0-9_]*)\s*\}\}/gi)) {
+    set.add(m[1])
+  }
+  return Array.from(set)
+}
+
+export function listCustomTemplates(): CustomTemplate[] {
+  return readJSON<CustomTemplate[]>(KEY_CUSTOM_TEMPLATES, []).sort((a, b) =>
+    a.title.localeCompare(b.title, 'de'),
+  )
+}
+
+export function getCustomTemplate(id: string): CustomTemplate | undefined {
+  return listCustomTemplates().find(t => t.id === id)
+}
+
+export function saveCustomTemplate(input: {
+  id?: string
+  title: string
+  description?: string
+  body: string
+}): CustomTemplate {
+  const all = readJSON<CustomTemplate[]>(KEY_CUSTOM_TEMPLATES, [])
+  const now = new Date().toISOString()
+  const placeholders = extractPlaceholders(input.body)
+  if (input.id) {
+    const idx = all.findIndex(t => t.id === input.id)
+    if (idx >= 0) {
+      all[idx] = {
+        ...all[idx],
+        title: input.title,
+        description: input.description,
+        body: input.body,
+        placeholders,
+        updatedAt: now,
+      }
+      writeJSON(KEY_CUSTOM_TEMPLATES, all)
+      return all[idx]
+    }
+  }
+  const item: CustomTemplate = {
+    id: uid(),
+    title: input.title,
+    description: input.description,
+    body: input.body,
+    placeholders,
+    createdAt: now,
+    updatedAt: now,
+  }
+  all.push(item)
+  writeJSON(KEY_CUSTOM_TEMPLATES, all)
+  return item
+}
+
+export function deleteCustomTemplate(id: string): void {
+  const all = readJSON<CustomTemplate[]>(KEY_CUSTOM_TEMPLATES, []).filter(t => t.id !== id)
+  writeJSON(KEY_CUSTOM_TEMPLATES, all)
+}
+
+// --- Paragraph Notes ---
+
+function noteKey(lawId: string, section: string): string {
+  return `${lawId}:${section}`
+}
+
+export function getParagraphNote(lawId: string, section: string): ParagraphNote | undefined {
+  const all = readJSON<ParagraphNote[]>(KEY_PARAGRAPH_NOTES, [])
+  return all.find(n => n.key === noteKey(lawId, section))
+}
+
+export function saveParagraphNote(lawId: string, section: string, body: string): void {
+  const all = readJSON<ParagraphNote[]>(KEY_PARAGRAPH_NOTES, [])
+  const key = noteKey(lawId, section)
+  const now = new Date().toISOString()
+  const idx = all.findIndex(n => n.key === key)
+  if (body.trim() === '') {
+    if (idx >= 0) {
+      all.splice(idx, 1)
+      writeJSON(KEY_PARAGRAPH_NOTES, all)
+    }
+    return
+  }
+  if (idx >= 0) {
+    all[idx] = { ...all[idx], body, updatedAt: now }
+  } else {
+    all.push({ key, lawId, section, body, updatedAt: now })
+  }
+  writeJSON(KEY_PARAGRAPH_NOTES, all)
+}
+
+export function listParagraphNotes(): ParagraphNote[] {
+  return readJSON<ParagraphNote[]>(KEY_PARAGRAPH_NOTES, []).sort((a, b) =>
+    b.updatedAt.localeCompare(a.updatedAt),
+  )
+}
+
 // --- Reset (Datenschutz / Notausgang) ---
 
 export function eraseAllProData(): void {
-  ;[KEY_SETTINGS, KEY_CASES, KEY_RESEARCH, KEY_LETTERS, KEY_AUDIT, KEY_INVITE].forEach(
-    k => localStorage.removeItem(k),
-  )
+  ;[
+    KEY_SETTINGS, KEY_CASES, KEY_RESEARCH, KEY_LETTERS,
+    KEY_AUDIT, KEY_INVITE, KEY_INTAKES,
+    KEY_CUSTOM_TEMPLATES, KEY_PARAGRAPH_NOTES,
+  ].forEach(k => localStorage.removeItem(k))
 }

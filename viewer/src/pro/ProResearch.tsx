@@ -11,7 +11,7 @@
 
 import { useEffect, useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
-import { Search, Loader2, Save, Download, CheckCircle2, AlertTriangle, Lightbulb, RotateCcw } from 'lucide-react'
+import { Search, Loader2, Save, Download, CheckCircle2, AlertTriangle, Lightbulb, RotateCcw, Shield } from 'lucide-react'
 import { EXAMPLE_QUESTIONS, proAsk } from './ai'
 import {
   getCase,
@@ -22,6 +22,7 @@ import {
 } from './store'
 import { verifyAllCitations } from './verify'
 import { exportResearchPDF } from './pdf'
+import { anonymize, hasPII } from './anonymize'
 import CitationDrawer from './CitationDrawer'
 import type { Citation, ResearchQuery } from './types'
 
@@ -69,6 +70,27 @@ export default function ProResearch() {
     setSavedItem(null)
     setError(null)
   }
+
+  function onAnonymize() {
+    const { anonymized, replacements } = anonymize(question)
+    if (replacements.length === 0) {
+      alert('Keine personenbezogenen Daten erkannt. Die Frage ist bereits sicher zu senden.')
+      return
+    }
+    setQuestion(anonymized)
+    // Kurzes UI-Feedback via native alert — kann später als Toast eleganter werden.
+    alert(
+      `${replacements.length} Stelle(n) anonymisiert:\n\n` +
+        replacements
+          .slice(0, 10)
+          .map(r => `  ${r.original}  →  ${r.placeholder}`)
+          .join('\n') +
+        (replacements.length > 10 ? `\n  …und ${replacements.length - 10} weitere` : '') +
+        `\n\nBitte Frage nochmal kurz durchlesen, bevor du sie absendest.`,
+    )
+  }
+
+  const piiDetected = question && hasPII(question)
 
   function onSave() {
     if (!answer) return
@@ -144,6 +166,16 @@ export default function ProResearch() {
               {loading ? <Loader2 className="w-4 h-4 animate-spin" /> : <Search className="w-4 h-4" />}
               {loading ? 'KI denkt…' : 'Frage stellen'}
             </button>
+            {piiDetected && (
+              <button
+                type="button"
+                onClick={onAnonymize}
+                className="inline-flex items-center gap-1.5 text-sm text-amber-800 bg-amber-50 border border-amber-300 rounded-lg px-3 py-2 hover:bg-amber-100"
+                title="Namen, Adressen und Kontaktdaten durch Platzhalter ersetzen, bevor die Frage an OpenAI geht"
+              >
+                <Shield className="w-4 h-4" /> Anonymisieren
+              </button>
+            )}
             {(answer || question) && (
               <button
                 type="button"
@@ -155,6 +187,13 @@ export default function ProResearch() {
               </button>
             )}
           </div>
+          {piiDetected && (
+            <div className="text-xs text-amber-800 bg-amber-50 border border-amber-200 rounded px-3 py-2">
+              <strong>Hinweis:</strong> Die Frage enthält potenziell personenbezogene Daten (Namen,
+              Adressen, E-Mails). Vor dem Absenden an die KI empfehlen wir die Anonymisierung —
+              Recherche-Fragen gehen an OpenAI (USA) ohne AVV.
+            </div>
+          )}
 
           {/* Example questions — always visible so the Anwält:in can cycle quickly */}
           <div className="pt-2 border-t border-[var(--color-border)]">

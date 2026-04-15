@@ -96,10 +96,62 @@ export interface AuditEntry {
     | 'letter.generate'
     | 'pdf.export'
     | 'settings.update'
+    | 'intake.received'
   /** Free-form payload for the action. */
   detail: string
   /** Optional case context. */
   caseId?: string
+}
+
+/**
+ * Custom-Musterbrief: eigene Vorlage der Anwält:in, mit {{platzhalter}}-Syntax.
+ * Wird neben den eingebauten 5+ Lawyer-Templates angezeigt.
+ */
+export interface CustomTemplate {
+  id: string
+  title: string
+  description?: string
+  /** Template-Body mit {{key}}-Platzhaltern, die beim Rendern ersetzt werden. */
+  body: string
+  /** Abgeleitete Platzhalter aus body (z. B. ["mandant", "aktenzeichen"]). */
+  placeholders: string[]
+  createdAt: string
+  updatedAt: string
+}
+
+/**
+ * Persönliche Notiz pro Paragraph — baut über Zeit die Wissensdatenbank
+ * der Anwält:in auf (z. B. „§ 573 BGB: BGH vom 29.03.2017 beachten!").
+ */
+export interface ParagraphNote {
+  /** Zusammengesetzt aus lawId + ':' + section, z. B. "bgb:573". */
+  key: string
+  lawId: string
+  section: string
+  body: string
+  updatedAt: string
+}
+
+/**
+ * Mandant:innen-Intake: eine vom Mandanten ausgefüllte Eingangsmeldung,
+ * die die Anwält:in dann in eine Akte übernehmen kann.
+ */
+export interface IntakeEntry {
+  id: string
+  /** Welcher Akte zugeordnet (Kiosk-Modus) oder keine (Public-Modus). */
+  caseId?: string
+  /** Anwält:in, an die das Intake gerichtet ist (für Public-Links per Slug). */
+  targetSlug?: string
+  submittedAt: string
+  /** Vom Mandant:in ausgefüllt. */
+  name: string
+  email?: string
+  phone?: string
+  anliegen: string
+  /** Optional: konkrete Forderung / gewünschter Ausgang. */
+  gewuenschterAusgang?: string
+  /** True sobald Anwält:in es gelesen hat. */
+  reviewed: boolean
 }
 
 /** Simple wrapper for paragraph lookup result. */

@@ -236,3 +236,144 @@ ${SIGN_OFF}
 export function getLawyerTemplate(id: string): LawyerTemplate | undefined {
   return LAWYER_TEMPLATES.find(t => t.id === id)
 }
+
+/**
+ * Notariats-Vorlagen (für Werner Gniosdorz & ähnliche Erbrecht/Immobilien-Schwerpunkte).
+ *
+ * Hinweis: Diese sind ENTWURFSVORLAGEN, keine geprüften Formulare. Vollmachten
+ * und Erbausschlagungen sind formal heikel — zur echten Beurkundung braucht
+ * es weiterhin das Notariat. Diese Templates sparen nur die Entwurfsphase.
+ */
+export const NOTAR_TEMPLATES: LawyerTemplate[] = [
+  {
+    id: 'vollmacht_allgemein',
+    title: 'Vorsorgevollmacht (Entwurf)',
+    description: 'Allgemeine Vorsorgevollmacht für gesundheitliche/vermögensrechtliche Angelegenheiten.',
+    useCase: 'Mandant:in möchte eine bevollmächtigte Person für den Fall von Geschäftsunfähigkeit bestimmen. ENTWURF — Beurkundung erforderlich bei Grundstücksbezug.',
+    fields: [
+      { id: 'vollmachtgeber', label: 'Vollmachtgeber:in (Name)', type: 'text', required: true },
+      { id: 'geboren', label: 'Geburtsdatum Vollmachtgeber:in', type: 'date', required: true },
+      { id: 'anschrift', label: 'Anschrift Vollmachtgeber:in', type: 'textarea', required: true },
+      { id: 'bevollmaechtigter', label: 'Bevollmächtigte:r (Name)', type: 'text', required: true },
+      { id: 'bevGeboren', label: 'Geburtsdatum Bevollmächtigte:r', type: 'date' },
+      { id: 'bevAnschrift', label: 'Anschrift Bevollmächtigte:r', type: 'textarea' },
+      { id: 'umfang', label: 'Umfang', type: 'textarea', placeholder: 'z. B. Vermögenssorge, Gesundheitssorge, Aufenthaltsbestimmung' },
+    ],
+    render: f => `Vorsorgevollmacht
+
+Ich, ${f.vollmachtgeber || '[Name]'}, geboren am ${f.geboren || '[Datum]'}, wohnhaft${f.anschrift ? ` ${f.anschrift.replace(/\n/g, ', ')}` : ' [Anschrift]'},
+
+erteile hiermit
+
+Vollmacht
+
+an ${f.bevollmaechtigter || '[Bevollmächtigte:r]'}${f.bevGeboren ? `, geboren am ${f.bevGeboren}` : ''}${f.bevAnschrift ? `, wohnhaft ${f.bevAnschrift.replace(/\n/g, ', ')}` : ''},
+
+mich in allen Angelegenheiten zu vertreten, und zwar insbesondere in folgenden Bereichen:
+
+${f.umfang || '— Gesundheitssorge (Einwilligung in ärztliche Maßnahmen inklusive freiheitsentziehender Maßnahmen nach § 1906 BGB)\n— Vermögenssorge (Bankgeschäfte, Verwaltung von Vermögen, Abschluss und Auflösung von Verträgen)\n— Aufenthaltsbestimmung (Wohnen, Heimunterbringung)\n— Behördengänge und Korrespondenz'}
+
+Die Vollmacht soll auch über den Tod hinaus gelten. Die bevollmächtigte Person ist von den Beschränkungen des § 181 BGB befreit.
+
+Diese Vollmacht ist mit sofortiger Wirkung anzuwenden, ungeachtet meiner Geschäftsfähigkeit.
+
+____________________________
+Ort, Datum
+
+____________________________
+Unterschrift Vollmachtgeber:in
+
+Hinweis: Für Grundstücks- und Handelsregister-Sachen ist notarielle Beurkundung (§ 29 GBO, § 12 HGB) erforderlich.
+`,
+  },
+
+  {
+    id: 'erbausschlagung',
+    title: 'Erbausschlagungserklärung (Entwurf)',
+    description: 'Gegenüber dem Nachlassgericht. 6-Wochen-Frist ab Kenntnis vom Erbfall beachten!',
+    useCase: 'Mandant:in möchte die Erbschaft ausschlagen (z. B. wegen Überschuldung). Frist § 1944 BGB streng!',
+    fields: [
+      { id: 'nachlassgericht', label: 'Nachlassgericht', type: 'text', required: true, placeholder: 'Amtsgericht Berlin-Schöneberg, Nachlassabteilung' },
+      { id: 'erklaerender', label: 'Erklärende:r (Name)', type: 'text', required: true },
+      { id: 'erklaerAnschrift', label: 'Anschrift Erklärende:r', type: 'textarea' },
+      { id: 'erblasser', label: 'Erblasser:in (Name)', type: 'text', required: true },
+      { id: 'erbGeboren', label: 'Geburtsdatum Erblasser:in', type: 'date' },
+      { id: 'sterbeDatum', label: 'Sterbedatum', type: 'date', required: true },
+      { id: 'sterbeOrt', label: 'Sterbeort', type: 'text' },
+      { id: 'kenntnisDatum', label: 'Kenntnis vom Erbfall (Fristbeginn)', type: 'date', required: true },
+      { id: 'verwandtschaft', label: 'Verwandtschaftsverhältnis', type: 'text', required: true, placeholder: 'z. B. „als Tochter (§ 1924 BGB)"' },
+      { id: 'grund', label: 'Kurzbegründung (optional)', type: 'textarea', placeholder: 'z. B. Überschuldung' },
+    ],
+    render: f => `An ${f.nachlassgericht || '[Nachlassgericht]'}
+
+Erbausschlagungserklärung
+in der Nachlasssache ${f.erblasser || '[Erblasser:in]'}${f.erbGeboren ? `, geboren am ${f.erbGeboren}` : ''}, verstorben am ${f.sterbeDatum || '[Sterbedatum]'}${f.sterbeOrt ? ` in ${f.sterbeOrt}` : ''}
+
+Sehr geehrte Damen und Herren,
+
+namens und im Auftrag meiner Mandantschaft, ${f.erklaerender || '[Erklärende:r]'}${f.erklaerAnschrift ? `, wohnhaft ${f.erklaerAnschrift.replace(/\n/g, ', ')}` : ''} — ${f.verwandtschaft || '[Verwandtschaftsverhältnis]'} —
+
+erkläre ich hiermit gegenüber dem Nachlassgericht die
+
+A u s s c h l a g u n g
+
+der Erbschaft nach der/dem o.g. Erblasser:in gem. § 1942 BGB. Die Ausschlagung erfolgt vorsorglich auch für meine Mandantschaft als Erbe:Erbin jeglicher Berufungsgründe.
+
+Von dem Anfall der Erbschaft hat meine Mandantschaft erstmals am ${f.kenntnisDatum || '[Datum]'} Kenntnis erlangt; die Sechs-Wochen-Frist des § 1944 Abs. 1 BGB ist gewahrt.
+
+${f.grund ? `Begründung:\n${f.grund}\n\n` : ''}Eine anwaltliche Vollmacht wird anwaltlich versichert und auf Verlangen vorgelegt.
+
+Ich bitte um schriftliche Bestätigung der Entgegennahme.
+
+Mit freundlichen kollegialen Grüßen
+
+Hinweis: Die Ausschlagung bedarf für Minderjährige ggf. familiengerichtlicher Genehmigung (§ 1643 Abs. 2 BGB). Prüfung im Einzelfall!
+`,
+  },
+
+  {
+    id: 'pflichtteil_geltendmachung',
+    title: 'Pflichtteilsgeltendmachung',
+    description: 'Außergerichtliche Geltendmachung des Pflichtteilsanspruchs gegenüber dem Erben.',
+    useCase: 'Mandant:in ist pflichtteilsberechtigt (§ 2303 BGB), aber nicht Erbe. Erster Schritt: Auskunft + Zahlung vom Erben fordern.',
+    fields: [
+      { id: 'erbe', label: 'Erbe:Erbin (Empfänger:in)', type: 'text', required: true },
+      { id: 'erbeAnschrift', label: 'Anschrift Erbe:Erbin', type: 'textarea' },
+      { id: 'mandant', label: 'Mandant:in (Pflichtteilsberechtigt)', type: 'text', required: true },
+      { id: 'erblasser', label: 'Erblasser:in', type: 'text', required: true },
+      { id: 'sterbeDatum', label: 'Sterbedatum', type: 'date', required: true },
+      { id: 'verhaeltnis', label: 'Verwandtschaftsverhältnis zur Erblasser:in', type: 'text', required: true, placeholder: 'z. B. „Sohn"' },
+      { id: 'frist', label: 'Frist für Auskunft (Tage)', type: 'text', placeholder: '4 Wochen' },
+    ],
+    render: f => `An ${f.erbe || '[Erbe:Erbin]'}${f.erbeAnschrift ? `\n${f.erbeAnschrift}` : ''}
+
+Pflichtteilsgeltendmachung
+in der Nachlasssache ${f.erblasser || '[Erblasser:in]'}, verstorben am ${f.sterbeDatum || '[Datum]'}
+
+Sehr geehrte:r,
+
+ich zeige an, dass mich ${f.mandant || '[Mandant:in]'} — ${f.verhaeltnis || '[Verhältnis]'} der verstorbenen Person — mit der Wahrnehmung ihrer:seiner erbrechtlichen Interessen beauftragt hat.
+
+Meine Mandantschaft ist gesetzlich pflichtteilsberechtigt (§ 2303 BGB). Ich mache hiermit ihre:seine Ansprüche aus §§ 2303 ff. BGB Ihnen gegenüber geltend und bitte um:
+
+1. Auskunft über den Bestand des Nachlasses (§ 2314 Abs. 1 S. 1 BGB) durch Vorlage eines vollständigen und geordneten Bestandsverzeichnisses,
+2. Auskunft über unentgeltliche Zuwendungen der Erblasser:in in den letzten 10 Jahren vor dem Erbfall (§ 2325 BGB),
+3. sofern streitig: Vorlage durch notarielle Urkunde auf Kosten des Nachlasses (§ 2314 Abs. 1 S. 3 BGB).
+
+Die Auskunft bitte ich mir binnen ${f.frist || '4 Wochen'} ab Zugang dieses Schreibens zu erteilen.
+
+Nach Erteilung der Auskunft werde ich den Pflichtteilszahlungsanspruch beziffern und gesondert geltend machen. Bereits jetzt weise ich vorsorglich auf die Verjährungshemmung durch Verhandlungen (§ 203 BGB) hin.
+
+Eine anwaltliche Vollmacht wird anwaltlich versichert.
+
+Mit freundlichen Grüßen
+`,
+  },
+]
+
+/** Combined list for UI pickers: built-in + notar-spezial. */
+export const ALL_BUILTIN_TEMPLATES: LawyerTemplate[] = [...LAWYER_TEMPLATES, ...NOTAR_TEMPLATES]
+
+export function getAnyBuiltinTemplate(id: string): LawyerTemplate | undefined {
+  return ALL_BUILTIN_TEMPLATES.find(t => t.id === id)
+}
