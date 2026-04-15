@@ -23,7 +23,7 @@ jobs:
 
       - name: Run update script
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node scripts/update-leitsaetze.mjs
 
       - name: Check for changes

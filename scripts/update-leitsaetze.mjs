@@ -4,27 +4,27 @@
  *
  * Wird von .github/workflows/update-leitsaetze.yml jeden Sonntag 02:00 UTC
  * ausgeführt. Lokal manuell:
- *   ANTHROPIC_API_KEY=sk-... node scripts/update-leitsaetze.mjs
+ *   OPENAI_API_KEY=sk-... node scripts/update-leitsaetze.mjs
  *
  * Was es macht:
  *   1. Lädt alle existierenden viewer/public/leitsaetze/*.json
- *   2. Für jeden File: Ruft Claude Sonnet 4.6 mit erzwungener Web-Recherche-
- *      Anweisung an, neueste BGH-Urteile zu diesem § zu prüfen
+ *   2. Für jeden File: Ruft OpenAI gpt-4o-mini mit STRUCTURED OUTPUTS
+ *      (json_schema strict mode) — bestätigt das Schema serverseitig.
  *   3. Wenn neuere relevante Urteile gefunden + verifizierbar (Az + Datum +
- *      öffentliche Quelle) → fügt sie an die leitsaetze[] an, max 3 pro File
+ *      öffentliche Quelle) → fügt sie an die leitsaetze[] an, max 2 pro File
  *   4. Aktualisiert "stand"-Datum
  *   5. Schreibt File zurück; git diff zeigt Änderungen
  *   6. Workflow committet automatisch + öffnet PR
  *
  * Sicherheitsmaßnahmen gegen Halluzinationen:
  *   - Modell muss strict JSON zurückgeben (response_format: json_schema)
- *   - Modell muss URL pro Eintrag liefern, sonst wird Eintrag verworfen
- *   - URL muss von erlaubter Domain sein (bundesgerichtshof.de,
- *     bundesverfassungsgericht.de, bverwg.de, bsg.bund.de, dejure.org,
- *     hrr-strafrecht.de, openjur.de, rewis.io)
- *   - Modell-Antwort wird gegen das Schema validiert; bei Verstoß: skip
+ *   - URL muss von erlaubter Domain sein (Whitelist unten)
+ *   - Aktenzeichen-Dedupe gegen bereits bekannte Einträge
  *
- * Cost: ~$0.30 pro Lauf (30 Files × ~3k Tokens × Sonnet $3/M Input).
+ * Cost: ~$0.05 pro Lauf (30 Files × ~3k Tokens × gpt-4o-mini $0.15/M).
+ *
+ * Hinweis: nutzt OPENAI_API_KEY (gleicher Key wie /api/ask-pro), nicht
+ * Anthropic — spart einen zweiten Secret.
  */
 
 import { readdir, readFile, writeFile } from 'node:fs/promises'
@@ -33,8 +33,8 @@ import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const LEITSAETZE_DIR = join(__dirname, '..', 'viewer', 'public', 'leitsaetze')
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY
-const MODEL = 'claude-sonnet-4-6'
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY
+const MODEL = 'gpt-4o-mini'
 
 const ALLOWED_DOMAINS = [
   'bundesgerichtshof.de',
@@ -82,34 +82,65 @@ Output (strict JSON):
   ]
 }`
 
-async function callClaude(systemPrompt, userPrompt) {
-  if (!ANTHROPIC_API_KEY) {
-    throw new Error('ANTHROPIC_API_KEY env var fehlt')
+// JSON-Schema für strict-mode response_format (OpenAI structured outputs).
+// Modell MUSS exakt diese Form liefern, sonst HTTP-Fehler vom OpenAI-Server.
+const RESPONSE_SCHEMA = {
+  name: 'leitsatz_update',
+  strict: true,
+  schema: {
+    type: 'object',
+    additionalProperties: false,
+    properties: {
+      neue_leitsaetze: {
+        type: 'array',
+        description: 'Liste neuer verifizierbarer Leitsätze (max 2). Leeres Array wenn keine.',
+        items: {
+          type: 'object',
+          additionalProperties: false,
+          properties: {
+            court: { type: 'string', enum: ['BGH', 'BVerfG', 'BVerwG', 'BSG'] },
+            az: { type: 'string', description: 'Aktenzeichen' },
+            datum: { type: 'string', description: 'YYYY-MM-DD' },
+            kernsatz: { type: 'string', description: 'max 200 Zeichen' },
+            quelle: { type: 'string', description: 'URL zur Original-Entscheidung' },
+          },
+          required: ['court', 'az', 'datum', 'kernsatz', 'quelle'],
+        },
+      },
+    },
+    required: ['neue_leitsaetze'],
+  },
+}
+
+async function callOpenAI(systemPrompt, userPrompt) {
+  if (!OPENAI_API_KEY) {
+    throw new Error('OPENAI_API_KEY env var fehlt')
   }
-  const resp = await fetch('https://api.anthropic.com/v1/messages', {
+  const resp = await fetch('https://api.openai.com/v1/chat/completions', {
     method: 'POST',
     headers: {
-      'x-api-key': ANTHROPIC_API_KEY,
-      'anthropic-version': '2023-06-01',
-      'content-type': 'application/json',
+      'Authorization': `Bearer ${OPENAI_API_KEY}`,
+      'Content-Type': 'application/json',
     },
     body: JSON.stringify({
       model: MODEL,
       max_tokens: 1500,
-      system: systemPrompt,
-      messages: [{ role: 'user', content: userPrompt }],
+      temperature: 0.1,
+      messages: [
+        { role: 'system', content: systemPrompt },
+        { role: 'user', content: userPrompt },
+      ],
+      response_format: { type: 'json_schema', json_schema: RESPONSE_SCHEMA },
     }),
   })
   if (!resp.ok) {
     const text = await resp.text()
-    throw new Error(`Claude API ${resp.status}: ${text.slice(0, 200)}`)
+    throw new Error(`OpenAI API ${resp.status}: ${text.slice(0, 200)}`)
   }
   const data = await resp.json()
-  const text = data?.content?.[0]?.text || ''
-  // JSON aus Markdown-Block oder freistehend extrahieren
-  const m = text.match(/```json\s*([\s\S]*?)```/) || text.match(/\{[\s\S]*\}/)
-  if (!m) throw new Error('Keine JSON-Antwort')
-  return JSON.parse(m[1] || m[0])
+  const content = data?.choices?.[0]?.message?.content
+  if (!content) throw new Error('Leere Antwort')
+  return JSON.parse(content)
 }
 
 async function processFile(filePath) {
@@ -134,7 +165,7 @@ Prüfe, ob seit "${data.stand}" wichtige NEUE Urteile (BGH/BVerfG/BVerwG/BSG) zu
 
   let response
   try {
-    response = await callClaude(SYSTEM_PROMPT, userPrompt)
+    response = await callOpenAI(SYSTEM_PROMPT, userPrompt)
   } catch (err) {
     return { file: filePath, status: 'api_error', detail: err.message }
   }
