@@ -774,7 +774,7 @@ function App() {
         <main className="max-w-3xl mx-auto px-5 py-8">
           <div className="text-center mb-8">
             <p className="text-sm text-gold font-bold uppercase tracking-widest mb-2">Musterbriefe</p>
-            <h2 className="font-display text-3xl mb-3">Dein Recht — schwarz auf weiß</h2>
+            <h2 className="font-display text-3xl mb-3">Recht, schwarz auf weiß</h2>
             <p className="text-ink-muted max-w-md mx-auto">Wähle einen Musterbrief, fülle die Felder aus, kopiere oder drucke ihn.</p>
           </div>
 
@@ -869,7 +869,7 @@ function App() {
                 {generatedLetter && (
                   <div className="bg-card rounded-2xl border border-border overflow-hidden">
                     <div className="p-4 border-b border-border flex items-center justify-between">
-                      <span className="text-sm font-bold">Dein Brief</span>
+                      <span className="text-sm font-bold">Brief</span>
                       <div className="flex gap-2">
                         <button onClick={() => copyToClipboard(generatedLetter).then(() => alert('Brief ist in der Zwischenablage.'))}
                           className="text-xs text-gold hover:underline cursor-pointer">Kopieren</button>

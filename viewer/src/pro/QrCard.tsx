@@ -128,7 +128,7 @@ export default function QrCard({ url, size = 140, caption, variant = 'compact' }
             </div>
           </div>
 
-          <div className="mt-6 flex items-center gap-3 text-white/80 animate-pulse">
+          <div className="mt-6 flex items-center gap-3 text-white/80">
             <Smartphone className="w-5 h-5" />
             <span className="text-sm">Klicken oder ESC zum Schließen</span>
           </div>
