@@ -138,7 +138,7 @@ export default function ProAuth({ children }: Props) {
             <Link to="/" className="underline">gitlaw.app</Link>
           </p>
           <p>
-            Beta-Zugang anfragen: <a href="mailto:pro@gitlaw.app" className="underline">pro@gitlaw.app</a>
+            Beta-Zugang anfragen: <a href="mailto:mikel_ninh@yahoo.de" className="underline">mikel_ninh@yahoo.de</a>
           </p>
         </div>
       </div>

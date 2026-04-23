@@ -180,7 +180,7 @@ export default function ProPricing() {
                 ))}
               </ul>
               <a
-                href="mailto:pro@gitlaw.app?subject=GitLaw Pro Beta — Anfrage"
+                href="mailto:mikel_ninh@yahoo.de?subject=GitLaw Pro Beta — Anfrage"
                 className={`block text-center text-sm rounded-lg px-4 py-2.5 transition-colors ${
                   t.recommended
                     ? 'bg-[var(--color-ink)] text-white hover:opacity-90'
@@ -241,7 +241,7 @@ export default function ProPricing() {
           {[
             {
               q: 'Wie funktioniert die 60-Tage-Garantie?',
-              a: 'Du buchst, du nutzt 60 Tage. Wenn du nicht zufrieden bist — eine Mail an pro@gitlaw.app, volle Rückerstattung in 5 Werktagen. Wir tracken die Zeit-Ersparnis automatisch im Tool — du brauchst nichts zu beweisen, wir sehen das genauso.',
+              a: 'Du buchst, du nutzt 60 Tage. Wenn du nicht zufrieden bist — eine Mail an mikel_ninh@yahoo.de, volle Rückerstattung in 5 Werktagen. Wir tracken die Zeit-Ersparnis automatisch im Tool — du brauchst nichts zu beweisen, wir sehen das genauso.',
             },
             {
               q: 'Muss ich meine bisherige Software (RA-Micro, DATEV, Beck) kündigen?',
@@ -281,7 +281,7 @@ export default function ProPricing() {
           Beta-Zugänge geben wir gerade Stück für Stück raus. Eine kurze Mail reicht.
         </p>
         <a
-          href="mailto:pro@gitlaw.app?subject=Beta-Zugang%20zu%20GitLaw%20Pro"
+          href="mailto:mikel_ninh@yahoo.de?subject=Beta-Zugang%20zu%20GitLaw%20Pro"
           className="inline-block bg-[var(--color-ink)] text-white rounded-lg px-6 py-3 font-medium hover:opacity-90"
         >
           Beta-Zugang anfragen

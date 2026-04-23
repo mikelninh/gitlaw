@@ -128,11 +128,13 @@ Pro-Tier lokal: `http://localhost:5173/#/pro?invite=DEMO`
 
 ---
 
-## 📜 Lizenz / Open-Core-Modell
+## 📜 Lizenz
 
-- **Bürger:innen-Viewer + Gesetzes-Korpus** — MIT-Lizenz, Open Source für immer.
-- **Pro-Tier-Code** — im Repo einsehbar, kommerzielle Nutzung benötigt Lizenz.
-  Plan: nach 4 Jahren MIT (Business Source License → Open Source).
+**AGPL-3.0** für das gesamte Repository (Bürger-Viewer, Pro-Tier-Code, Gesetzes-Korpus, RAG-Stack).
+
+Warum AGPL: anders als MIT oder Apache verpflichtet AGPL jeden, der die Software als Netzwerk-Service anbietet (auch Forks, auch SaaS-Rebrands), seine Änderungen ebenfalls Open Source zu stellen. Für ein Legal-Tech-Tool heißt das: wenn jemand das hier nimmt und als geschlossenes kommerzielles Produkt verkauft, verletzt er die Lizenz. Das schützt die Offenheit langfristig.
+
+Wer eine kommerzielle Lizenz ohne AGPL-Copyleft-Pflichten will: [mikel_ninh@yahoo.de](mailto:mikel_ninh@yahoo.de) schreiben.
 
 Anwält:innen sehen unseren Code → Vertrauen. Falls die Firma stirbt → Code lebt weiter.
 
@@ -180,6 +182,6 @@ Alle Projekte: [github.com/mikelninh](https://github.com/mikelninh) · Unterstü
 
 ---
 
-**Beta-Anfrage GitLaw Pro:** [pro@gitlaw.app](mailto:pro@gitlaw.app)
+**Beta-Anfrage GitLaw Pro:** [mikel_ninh@yahoo.de](mailto:mikel_ninh@yahoo.de)
 
 > *„Demokratie sollte Open Source sein."*
