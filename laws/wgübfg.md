@@ -10,9 +10,9 @@ Wohnungsmarkt
 ### § 1 — Aufhebung des Rechts der Gemeinnützigkeit im
 Wohnungswesen
 
-Es werden aufgehoben: 1. 2.
+Es werden aufgehoben:
 
-3.
+3. die Verordnung zur Durchführung des Wohnungsgemeinnützigkeitsgesetzes im Saarland vom 17. Februar 1970 (Amtsblatt des Saarlandes S. 126).
 
 ### § 2 — Maßnahmen bei Verstößen gegen Vorschriften des
 Wohnungsgemeinnützigkeitsrechts

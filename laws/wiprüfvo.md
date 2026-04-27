@@ -26,15 +26,15 @@ Auf Grund des § 106 Abs. 4a Satz 9 des Fünften Buches Sozialgesetzbuch - Geset
 
 (1) Der Vorsitzende ist für die Durchführung der Aufgaben des Ausschusses verantwortlich. Er führt die laufenden Geschäfte des Ausschusses und bedient sich hierzu der Prüfungsstelle. Insbesondere hat er
 
-1.
+1. die Sitzungstermine im Benehmen mit den Ausschussmitgliedern festzusetzen,
 
-2.
+2. soweit erforderlich, unabhängige Sachverständige mit der Erstellung von Gutachten zu beauftragen,
 
-3.
+3. die Entscheidung vorzubereiten, einschließlich der Anforderung von Angaben und Beweismitteln von den Beteiligten sowie der Zustellung von Anträgen und Schriftsätzen an die Beteiligten,
 
-4.
+4. die Sitzungen zu leiten und
 
-5.
+5. den Ausschuss gerichtlich und außergerichtlich zu vertreten.
 
 (2) Der Vorsitzende und seine Stellvertreter erhalten Reisekosten in Anlehnung an die Vorschriften über die Reisekostenvergütung der Beamten des Landes nach der jeweils höchsten Reisekostenstufe.
 
@@ -52,23 +52,23 @@ Auf Grund des § 106 Abs. 4a Satz 9 des Fünften Buches Sozialgesetzbuch - Geset
 
 ### § 4 — Aufgaben und Personal der Prüfungsstelle
 
-(1) Die Prüfungsstelle hat neben ihren sich aus dem Fünften Buch Sozialgesetzbuch ergebenden Aufgaben insbesondere Die Vorlagen nach Satz 1 Nr. 1 können entweder in Papierform oder im Wege der elektronischen Datenübertragung oder maschinell verwertbar auf Datenträgern übermittelt werden. Die in § 2 Abs. 3 Satz 3 genannten Vertragspartner erhalten eine Ausfertigung des Berichtes nach Nummer 8.
+(1) Die Prüfungsstelle hat neben ihren sich aus dem Fünften Buch Sozialgesetzbuch ergebenden Aufgaben insbesondere
 
-1.
+1. im Auftrag des Vorsitzenden mit einer Frist von mindestens zwei Wochen zu Ausschusssitzungen zu laden und die Vorlagen zu übersenden,
 
-2.
+2. das Protokoll der Sitzungen zu führen,
 
-3.
+3. die Entwürfe der Niederschriften und Entwürfe der Bescheide zu erstellen,
 
-4.
+4. Stellungnahmen zu Verfahren, Niederschriften und Bescheiden sowie die Sitzungsprotokolle zu versenden,
 
-5.
+5. die Prüfakten zu führen,
 
-6.
+6. ein laufendes Verzeichnis über die eröffneten Prüfungsverfahren, den Verfahrensstand, Widersprüche, Klageverfahren und deren Ergebnisse zu führen,
 
-7.
+7. die Einnahmen- und Ausgabenübersicht und den Rechenschaftsbericht nach Absatz 4 vorzubereiten,
 
-8.
+8. für jedes Kalenderjahr für Zwecke des § 106c Absatz 5 Satz 2 und 3 des Fünften Buches Sozialgesetzbuch einen Bericht über die Anzahl der eröffneten und abgeschlossenen Beratungen, Prüfungen sowie der festgesetzten Maßnahmen zu erstellen. Dieser Bericht ist bis zum 15. Februar des Folgejahres den Ausschüssen vorzulegen.
 
 (2) (weggefallen)
 

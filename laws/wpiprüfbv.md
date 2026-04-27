@@ -17,9 +17,9 @@ Auf Grund des § 78 Absatz 6 des Wertpapierinstitutsgesetzes vom 12. Mai 2021 (B
 
 Diese Verordnung regelt
 
-1.
+1. den Gegenstand und den Zeitpunkt der Prüfung nach § 78 des Wertpapierinstitutsgesetzes für Kleine und Mittlere Wertpapierinstitute im Sinne von § 2 Absatz 16 und 17 des Wertpapierinstitutsgesetzes sowie
 
-2.
+2. den Inhalt der Prüfungsberichte im Sinne von § 76 Absatz 1 Satz 3 des Wertpapierinstitutsgesetzes und die Form, in der Prüfungsberichte bei der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) und der Deutschen Bundesbank einzureichen sind.
 
 ### § 2 — Berichtszeitraum
 
@@ -57,17 +57,17 @@ Jeder Prüfungsbericht und jeder Teilprüfungsbericht ist unverzüglich nach Fer
 
 (1) Prüfungsfeststellungen sind entsprechend ihren Auswirkungen auf die Ordnungsmäßigkeit der Geschäftstätigkeit, die Risiken nach § 45 Absatz 1 des Wertpapierinstitutsgesetzes oder die Wirksamkeit der Präventionsmaßnahmen und Präventionsvorkehrungen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung sowie von strafbaren Handlungen nach § 33 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes nach den Klassen F-0 bis F-5 zu bewerten. Dabei beschreibt eine Prüfungsfeststellung
 
-1.
+1. F-0 ein völliges Fehlen von Normverstößen,
 
-2.
+2. F-1 Normverstöße mit geringfügigen Auswirkungen (geringfügige Mängel),
 
-3.
+3. F-2 Normverstöße mit mittelschweren Auswirkungen (mittelschwere Mängel),
 
-4.
+4. F-3 Normverstöße mit gewichtigen Auswirkungen (gewichtige Mängel),
 
-5.
+5. F-4 Normverstöße mit schwergewichtigen Auswirkungen (schwergewichtige Mängel) oder
 
-6.
+6. F-5 die Nichtanwendbarkeit der Prüfungspflicht im geprüften Wertpapierinstitut, insbesondere, weil zugrundeliegende gesetzliche Pflichten im Einzelfall im Hinblick auf die Geschäftstätigkeit des Wertpapierinstituts nicht relevant sind.
 
 (2) Für die Klassifizierung von Prüfungsfeststellungen nach Absatz 1 ist der Prüfungsleiter vor Ort verantwortlich. Die Klassifizierung ist im Bericht im Rahmen der Darstellung des Mangels vorzunehmen.
 
@@ -79,15 +79,15 @@ Soweit erläuternde Darstellungen zu den in dieser Verordnung geforderten Angabe
 
 ### § 8 — Zusammenfassende Schlussbemerkung
 
-(1) In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht bereits im Rahmen der dem Bericht vorangestellten Ausführungen nach § 321 Absatz 1 Satz 2 des Handelsgesetzbuchs erfolgt ist, zu allen wichtigen Fragen so Stellung zu nehmen, dass aus der Schlussbemerkung selbst ein Gesamturteil gewonnen werden kann über Hinsichtlich der wirtschaftlichen Lage des Wertpapierinstituts ist insbesondere auf die geschäftliche Entwicklung, die Vermögens-, Liquiditäts- und Ertragslage und die Risiken, denen das Institut ausgesetzt ist, sowie auf Art und Umfang der nicht bilanzwirksamen Geschäfte einzugehen.
+(1) In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht bereits im Rahmen der dem Bericht vorangestellten Ausführungen nach § 321 Absatz 1 Satz 2 des Handelsgesetzbuchs erfolgt ist, zu allen wichtigen Fragen so Stellung zu nehmen, dass aus der Schlussbemerkung selbst ein Gesamturteil gewonnen werden kann über
 
-1.
+1. die wirtschaftliche Lage des Wertpapierinstituts,
 
-2.
+2. die Risikotragfähigkeit des Wertpapierinstituts,
 
-3.
+3. die ordnungsgemäße Geschäftsorganisation des Wertpapierinstituts, insbesondere die Einrichtung eines angemessenen und wirksamen Risikomanagements, und
 
-4.
+4. die Einhaltung der weiteren aufsichtlichen Vorgaben.
 
 (2) Der Schlussbemerkung muss auch zu entnehmen sein, ob die Bilanzposten ordnungsgemäß bewertet wurden, insbesondere ob die gebildeten Wertberichtigungen und Rückstellungen angemessen sind, und ob die Vorschriften des Geldwäschegesetzes sowie die Anzeigevorschriften beachtet wurden.
 
@@ -105,23 +105,23 @@ Soweit der Prüfer nach dieser Verordnung verpflichtet ist, nur über Änderunge
 
 (2) Die wesentlichen Änderungen der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen des Wertpapierinstituts im Berichtszeitraum sind darzustellen, wobei insbesondere zu berichten ist über:
 
-1.
+1. Änderungen der Rechtsform, der Satzung oder des Gesellschaftsvertrages,
 
-2.
+2. Änderungen der Kapitalverhältnisse und der Gesellschafterstruktur,
 
-3.
+3. Änderungen der Geschäftsverteilung innerhalb der Geschäftsleitung sowie Änderungen ihrer personellen Zusammensetzung mit Angabe der jeweiligen Zuständigkeit der einzelnen Geschäftsleiter,
 
-4.
+4. Änderungen der Struktur der erbrachten Wertpapierdienstleistungen und der anderen Geschäfte, die im weiteren Sinne dem Finanzsektor zuzurechnen sind,
 
-5.
+5. die bevorstehende Aufnahme neuer Geschäftszweige,
 
-6.
+6. Änderungen der rechtlichen und geschäftlichen Beziehungen zu verbundenen Unternehmen im Sinne von § 271 Absatz 2 des Handelsgesetzbuchs und zu anderen Unternehmen sowie bei wirtschaftlich bedeutsamen Verträgen geschäftspolitischer Natur, die die zwischenbetriebliche Zusammenarbeit regeln, insbesondere über Art und Umfang der vereinbarten Leistungen; die Berichterstattung über verbundene Unternehmen kann entfallen, wenn der Bundesanstalt und der Deutschen Bundesbank für den Berichtszeitraum ein Abhängigkeitsbericht nach § 312 des Aktiengesetzes eingereicht worden ist,
 
-7.
+7. Änderungen im organisatorischen Aufbau des Wertpapierinstituts sowie der unter Risikoaspekten bedeutsamen Ablauforganisation; wenn die Geschäftsleitung aus mehr als einer Person besteht, ist dem Prüfbericht ein aktuelles Organigramm, das die Zuständigkeitsaufteilung der Geschäftsleitung wiedergibt, als Anlage beizufügen,
 
-8.
+8. wesentliche Änderungen in den IT-Systemen mit Darstellung entsprechender IT-Projekte im Prüfungsbericht sowie
 
-9.
+9. Änderungen der Zugehörigkeit des Wertpapierinstituts zu einem Finanzkonglomerat im Sinne von § 1 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes sowie Änderungen des übergeordneten Unternehmens eines Finanzkonglomerats im Sinne von § 12 des Finanzkonglomerate-Aufsichtsgesetzes.
 
 (3) Der Prüfer hat über Auslagerungen von wesentlichen Aktivitäten und Prozessen unter Berücksichtigung der in § 40 des Wertpapierinstitutsgesetzes genannten Anforderungen gesondert zu berichten. Dabei ist eine Aussage darüber zu treffen, ob die Einstufung von Auslagerungen als wesentlich oder unwesentlich unter Gesichtspunkten des Risikos, der Art, des Umfangs und der Komplexität nachvollziehbar ist. Ausgelagerte wesentliche Aktivitäten und Prozesse sind unter Bezugnahme auf die nach Anlage 2 gemachten Angaben nachvollziehbar zu spezifizieren und abzugrenzen.
 
@@ -133,11 +133,11 @@ Soweit der Prüfer nach dieser Verordnung verpflichtet ist, nur über Änderunge
 
 Der Prüfer hat über die ausländischen Zweigniederlassungen des Wertpapierinstituts zu berichten. Dabei sind für diese Zweigniederlassungen zu beurteilen:
 
-1.
+1. deren Beitrag zum Unternehmensergebnis,
 
-2.
+2. deren Einfluss auf das Risikoprofil sowie die Risikolage und die Risikovorsorge des Wertpapierinstituts insgesamt sowie
 
-3.
+3. die Einbindung dieser Zweigniederlassungen in das Risikomanagement des Wertpapierinstituts.
 
 ## Unterabschnitt 1: Risikomanagement, Geschäftsorganisation und Handelsbuch
 
@@ -147,19 +147,19 @@ Der Prüfer hat über die ausländischen Zweigniederlassungen des Wertpapierinst
 
 (2) Der Prüfer hat zu beurteilen, ob
 
-1.
+1. das Wertpapierinstitut über eine klare Organisationsstruktur mit klar bestimmten, transparenten und widerspruchsfreien Berichtslinien verfügt,
 
-2.
+2. die Regelungen, Strategien und Verfahren zur Ermittlung der Risikotragfähigkeit des Wertpapierinstituts eine vorsichtige Ermittlung der Risiken sowie der Risikodeckungspotenziale gewährleisten,
 
-3.
+3. die Verfahren zur Identifizierung, Steuerung, Überwachung und Meldung der Risiken, denen das Wertpapierinstitut ausgesetzt ist oder die das Wertpapierinstitut für andere darstellt, wirksam sind,
 
-4.
+4. die Innenrevision nach Artikel 24 der Delegierten Verordnung (EU) 2017/565 der Kommission vom 25. April 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie (ABl. L 87 vom 31.3.2017, S. 1; L 246 vom 26.9.2017, S. 12; L 82 vom 26.3.2018, S. 18), die zuletzt durch die Delegierte Verordnung (EU) 2021/1254 (ABl. L 277 vom 2.8.2021, S. 6) geändert worden ist, in einer den getätigten Geschäften angemessenen Weise eingerichtet ist und ihre Aufgaben wirksam wahrnimmt,
 
-5.
+5. das interne Kontrollsystem angemessen, solide und wirksam ist und insbesondere über wirksame Risikomanagement- und Compliance-Funktionen verfügt,
 
-6.
+6. die Notfallplanung für die Systeme und Verfahren nach Artikel 21 Absatz 3 der Delegierten Verordnung (EU) 2017/565 angemessen und wirksam ist sowie
 
-7.
+7. die personelle Ausstattung und die Mittel für den Umgang mit den bedeutenden Risiken, denen das Wertpapierinstitut ausgesetzt ist, ausreichend sind.
 
 (3) Der Prüfer hat zu beurteilen, ob die Geschäftsleiter die Anforderungen nach § 20 Absatz 1 des Wertpapierinstitutsgesetzes erfüllen und die Anforderungen nach § 20 Absatz 3 und 4 des Wertpapierinstitutsgesetzes einhalten. Der Prüfer hat außerdem zu beurteilen, ob die Verwaltungs- oder Aufsichtsorgane die Vorgaben nach § 21 Absatz 1 und 2 des Wertpapierinstitutsgesetzes erfüllen und der Aufgabe nach § 21 Absatz 4 des Wertpapierinstitutsgesetzes wirksam nachkommen.
 
@@ -171,23 +171,23 @@ Der Prüfer hat über die ausländischen Zweigniederlassungen des Wertpapierinst
 
 Der Prüfer hat zu beurteilen, ob
 
-1.
+1. das Wertpapierinstitut nach § 13 Absatz 1 des Wertpapierinstitutsgesetzes ein angemessenes Verfahren eingerichtet hat, das seinen Mitarbeitern ermöglicht, mögliche Verstöße gegen aufsichtsrechtliche Vorgaben und möglicherweise strafbare Handlungen innerhalb des Unternehmens über einen speziellen unabhängigen Kanal zu melden, und
 
-2.
+2. dabei die Vertraulichkeit der Identität der Mitarbeiter gewahrt wird.
 
 ### § 14 — Vergütungssysteme
 
 Der Prüfer hat die Angemessenheit und die Transparenz der Vergütungssysteme des Wertpapierinstituts sowie die Ausrichtung auf eine nachhaltige Entwicklung des Wertpapierinstituts nach § 46 Absatz 1 des Wertpapierinstitutsgesetzes zu beurteilen. Dabei hat der Prüfer insbesondere zu beurteilen und darüber zu berichten, ob
 
-1.
+1. die Zuordnung der Vergütungsbestandteile zur fixen Vergütung eindeutig ist,
 
-2.
+2. die Vergütungssysteme einschließlich der Vergütungsstrategie dem Erreichen der Ziele, die in den Geschäfts- und Risikostrategien des Wertpapierinstituts niedergelegt sind, entgegenstehen,
 
-3.
+3. die Geschäftsleitung das Verwaltungs- oder Aufsichtsorgan mindestens einmal jährlich über die Ausgestaltung der Vergütungssysteme des Wertpapierinstituts informiert hat,
 
-4.
+4. das Wertpapierinstitut Grundsätze zu den Vergütungssystemen festgelegt, deren Einhaltung überprüft und die Überprüfung dokumentiert hat, und
 
-5.
+5. die Mitarbeiter schriftlich über die Ausgestaltung der für sie maßgeblichen Vergütungssysteme und Vergütungsparameter in Kenntnis gesetzt werden.
 
 ### § 15 — IT-Systeme
 
@@ -199,19 +199,19 @@ Der Prüfer hat die Angemessenheit und die Transparenz der Vergütungssysteme de
 
 Im Rahmen der Prüfung nach § 78 Absatz 1 Satz 5 und 6 des Wertpapierinstitutsgesetzes ist gegebenenfalls zu beurteilen, ob der aufzustellende Sanierungsplan die Voraussetzungen nach § 12 Absatz 1 sowie nach § 13 Absatz 1 bis 4 des Sanierungs- und Abwicklungsgesetzes erfüllt und unter den nachfolgenden Maßgaben darüber zu berichten. Der Prüfer hat die wesentlichen für die Sanierungsplanung relevanten Aspekte auf sachliche Richtigkeit und Angemessenheit zu prüfen. Der Prüfer hat dabei gegebenenfalls festgelegte vereinfachte Anforderungen nach § 19 des Sanierungs- und Abwicklungsgesetzes zu berücksichtigen. Soweit der Sanierungsplan Annahmen, Wertungen oder Schlussfolgerungen enthält, sind diese auf ihre Plausibilität und Nachvollziehbarkeit zu prüfen. Insbesondere hat der Prüfer zu beurteilen:
 
-1.
+1. die Darstellung der Unternehmensstruktur und des Geschäftsmodells, die Benennung der wesentlichen Geschäftsaktivitäten und der kritischen Funktionen sowie die Beschreibung der internen und externen Vernetzungsstrukturen in dem Sanierungsplan nach § 13 Absatz 2 Nummer 2 des Sanierungs- und Abwicklungsgesetzes,
 
-2.
+2. die grundsätzliche Eignung, die Auswirkungen und die Umsetzbarkeit der in dem Sanierungsplan enthaltenen Handlungsoptionen nach § 13 Absatz 2 Nummer 3 bis 5 des Sanierungs- und Abwicklungsgesetzes; die wertpapierinstitutsspezifischen Gegebenheiten sind hierbei zu berücksichtigen,
 
-3.
+3. die qualitativen und quantitativen Indikatoren nach § 13 Absatz 2 Nummer 6 des Sanierungs- und Abwicklungsgesetzes dahingehend, ob sie die wertpapierinstitutsspezifischen Besonderheiten angemessen berücksichtigen und innerhalb eines definierten Eskalations- und Informationsprozesses im Krisenfall eine rechtzeitige Durchführung von Handlungsoptionen ermöglichen,
 
-4.
+4. die Szenarien für schwerwiegende Belastungen nach § 13 Absatz 2 Nummer 7 des Sanierungs- und Abwicklungsgesetzes hinsichtlich der Abdeckung der wesentlichen Risikotreiber, der Nachvollziehbarkeit und der wertpapierinstitutsspezifischen Eignung; im Hinblick auf die Eignung der Szenarien sind neben den wertpapierinstitutsspezifischen Vorgaben auch die aufsichtlichen Anforderungen an die besondere Schwere der Belastungen sowie die Art des jeweiligen Szenarios zu berücksichtigen,
 
-5.
+5. die Wirksamkeit und Umsetzbarkeit des Sanierungsplans nach § 13 Absatz 2 Nummer 8 des Sanierungs- und Abwicklungsgesetzes; dabei ist darauf einzugehen, ob die Beschreibung und die Analyse des Zusammenwirkens von Belastungsszenarien, Indikatoren und Handlungsoptionen ausreichend im Hinblick auf die zugrundeliegenden Annahmen, angemessen und im Hinblick auf die hieraus resultierenden Analysen nachvollziehbar sind,
 
-6.
+6. das Kommunikations- und Informationskonzept nach § 13 Absatz 2 Nummer 9 des Sanierungs- und Abwicklungsgesetzes im Hinblick darauf, ob dieses die Besonderheiten der einzelnen Handlungsoptionen angemessen berücksichtigt, und
 
-7.
+7. die vorbereitenden Maßnahmen nach § 13 Absatz 2 Nummer 10 des Sanierungs- und Abwicklungsgesetzes, deren Eignung sowie das Vorhandensein eines angemessenen Zeitplans und Monitoringkonzepts für die Umsetzung; hierbei ist auch zu beurteilen, ob die aufgrund der Prüfung festgestellten Mängel durch die vorbereitenden Maßnahmen beseitigt werden können.
 
 ### § 17 — Vorgaben für das Handelsbuch
 
@@ -225,17 +225,15 @@ Es ist zu beurteilen, ob das Wertpapierinstitut nach Artikel 21 Absatz 2 der Ver
 
 (2) Die Berechnung der Eigenmittelanforderungen nach Artikel 11 der Verordnung (EU) 2019/2033 ist zu beurteilen. In diesem Zusammenhang ist jeweils gesondert zu beurteilen die korrekte Berechnung
 
-1.
+1. der fixen Gemeinkosten nach Artikel 13 der Verordnung (EU) 2019/2033,
 
-2.
+2. des permanenten Mindestkapitals nach Artikel 14 der Verordnung (EU) 2019/2033 sowie
 
-3.
+3. der K-Faktor-Anforderung nach Artikel 15 der Verordnung (EU) 2019/2033.
 
 ### § 19 — Eigenmittel
 
 (1) Darzustellen sind die Höhe und die Zusammensetzung der Eigenmittel des Wertpapierinstituts nach Artikel 9 der Verordnung (EU) 2019/2033 nach dem Stand bei Geschäftsschluss am Abschlussstichtag und unter der Annahme der Feststellung des geprüften Abschlusses. Die bei anderen Kreditinstituten, Wertpapierinstituten, Finanzunternehmen, Erstversicherungsunternehmen und Rückversicherungsunternehmen aufgenommenen oder gehaltenen Eigenmittelbestände sind unter namentlicher Nennung dieser Unternehmen besonders zu kennzeichnen.
-
-(2) Für die Kapitalinstrumente, die das Wertpapierinstitut dem harten Kernkapital, dem zusätzlichen Kernkapital oder dem Ergänzungskapital zurechnet, ist die Erfüllung der jeweiligen Anforderungen der Verordnung (EU) 2019/2033 zu beurteilen. Hinsichtlich der Posten, die in Artikel 26 Absatz 1 Buchstabe c bis f der Verordnung (EU) Nr. 575/2013 genannt sind und nach Artikel 9 Absatz 1 Ziffer i der Verordnung (EU) 2019/2033 dem harten Kernkapital zugerechnet werden, ist insbesondere zu beurteilen, ob diese dem Wertpapierinstitut uneingeschränkt und unmittelbar zur sofortigen Deckung von Risiken und Verlusten zur Verfügung stehen. Zudem ist über Besonderheiten in der Entwicklung der Eigenmittel oder einzelner Eigenmittelbestandteile während des Berichtszeitraums zu berichten. Entnahmen des Inhabers oder des persönlich haftenden Gesellschafters sind darzustellen. Werden Zwischengewinne nach Artikel 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 in Verbindung mit Artikel 9 Absatz 1 Ziffer i der Verordnung (EU) 2019/2033 unterjährig zugerechnet, so ist darüber zu berichten.
 
 (3) Instrumente des Kernkapitals ohne eigene Emissionen in inländischen Aktien, die erstmals oder weiterhin den Eigenmitteln zugerechnet werden, sind nach den einzelnen Tranchen mit ihren wesentlichen Merkmalen darzustellen; Besonderheiten sind hervorzuheben.
 
@@ -295,19 +293,19 @@ Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Die Vorkehrunge
 
 (3) Bei Mutterunternehmen von Unternehmensgruppen hat der Prüfer zudem die Vorkehrungen nach § 9 des Geldwäschegesetzes dahingehend zu beurteilen, ob
 
-1.
+1. die Pflicht nach § 9 Absatz 1 Satz 1 des Geldwäschegesetzes, eine Risikoanalyse durchzuführen, wirksam erfüllt wurde,
 
-2.
+2. die Maßnahmen nach § 9 Absatz 1 Satz 2 des Geldwäschegesetzes ergriffen wurden,
 
-3.
+3. die betreffenden Maßnahmen nach § 9 Absatz 1 Satz 3 des Geldwäschegesetzes wirksam umgesetzt wurden und
 
-4.
+4. im Fall des § 9 Absatz 3 Satz 2 des Geldwäschegesetzes sichergestellt ist, dass die im betreffenden Drittstaat ansässigen gruppenangehörigen Unternehmen zusätzliche Maßnahmen ergreifen, um dem Risiko der Geldwäsche und der Terrorismusfinanzierung wirksam zu begegnen, und die Bundesanstalt über die insoweit getroffenen Maßnahmen informiert wurde.
 
 (4) Der Prüfer hat bei der Beurteilung
 
-1.
+1. nach den Absätzen 2 und 3 auch darauf einzugehen, ob die Risikoanalyse, die das Wertpapierinstitut im Rahmen des Risikomanagements zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung nach § 5 des Geldwäschegesetzes erstellt hat, der tatsächlichen Risikosituation des Wertpapierinstituts entspricht und
 
-2.
+2. nach Absatz 2 auch darauf einzugehen, ob die Risikoanalyse, die im Rahmen des Risikomanagements zur Verhinderung von strafbaren Handlungen nach § 33 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes erforderlich ist, der tatsächlichen Risikosituation des Wertpapierinstituts entspricht.
 
 (5) Hat die Bundesanstalt gegenüber dem verpflichteten Wertpapierinstitut nach dem Geldwäschegesetz oder dem Wertpapierinstitutsgesetz Anordnungen getroffen, die im Zusammenhang stehen mit den Pflichten des Wertpapierinstituts zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung sowie von strafbaren Handlungen nach § 33 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes, so hat der Prüfer darüber im Rahmen seiner Darstellung nach Absatz 1 zu berichten. Zudem hat der Prüfer zu beurteilen, ob das verpflichtete Wertpapierinstitut diese Anordnungen ordnungsgemäß befolgt hat.
 
@@ -315,43 +313,21 @@ Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Die Vorkehrunge
 
 (7) Bei der Darstellung der Risikosituation des Wertpapierinstituts hat der Prüfer zudem anhand der aktuellen und vollständigen Risikoanalyse des Wertpapierinstituts die folgenden Angaben in die Anlage 3 aufzunehmen:
 
-1.
+1. sämtliche von dem Wertpapierinstitut angebotene Hochrisikoprodukte,
 
-2.
+2. die Anzahl der Kunden, die unmittelbar über das Institut Geschäfte im Zusammenhang mit Kryptowerten vornehmen, sowie das kumulierte Gesamtvolumen dieser Geschäfte in Euro,
 
-3.
+3. die Anzahl der Kunden, die juristische Personen sind, insbesondere a)die Anzahl der Kunden, auf welche die vereinfachten Sorgfaltspflichten nach § 14 des Geldwäschegesetzes angewendet werden,b)die Anzahl der Kunden, auf welche die verstärkten Sorgfaltspflichten nach § 15 des Geldwäschegesetzes oder § 35 des Wertpapierinstitutsgesetzes angewendet werden, sowiec)die Anzahl der Kunden, die in Drittstaaten ansässig sind, und davon die Anzahl der Kunden, die in Hochrisikostaaten nach der Delegierten Verordnung (EU) 2016/1675 der Kommission vom 14. Juli 2016 zur Ergänzung der Richtlinie (EU) 2015/849 des Europäischen Parlaments und des Rates durch Ermittlung von Drittländern mit hohem Risiko, die strategische Mängel aufweisen (ABl. L 254 vom 20.9.2016, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2023/1219 (ABl. L 160 vom 26.6.2023, S. 1) geändert worden ist, in der jeweils geltenden Fassung, ansässig sind, die Anzahl der Kunden, auf welche die vereinfachten Sorgfaltspflichten nach § 14 des Geldwäschegesetzes angewendet werden, die Anzahl der Kunden, auf welche die verstärkten Sorgfaltspflichten nach § 15 des Geldwäschegesetzes oder § 35 des Wertpapierinstitutsgesetzes angewendet werden, sowie die Anzahl der Kunden, die in Drittstaaten ansässig sind, und davon die Anzahl der Kunden, die in Hochrisikostaaten nach der Delegierten Verordnung (EU) 2016/1675 der Kommission vom 14. Juli 2016 zur Ergänzung der Richtlinie (EU) 2015/849 des Europäischen Parlaments und des Rates durch Ermittlung von Drittländern mit hohem Risiko, die strategische Mängel aufweisen (ABl. L 254 vom 20.9.2016, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2023/1219 (ABl. L 160 vom 26.6.2023, S. 1) geändert worden ist, in der jeweils geltenden Fassung, ansässig sind,
 
-a)
+4. die Anzahl der Kunden, die natürliche Personen sind, insbesondere a)die Anzahl der Kunden, auf welche die vereinfachten Sorgfaltspflichten nach § 14 des Geldwäschegesetzes angewendet werden,b)die Anzahl der Kunden, auf welche die verstärkten Sorgfaltspflichten nach § 15 des Geldwäschegesetzes oder § 35 des Wertpapierinstitutsgesetzes angewendet werden, sowiec)die Anzahl der Kunden, die in Drittstaaten ansässig sind, und davon die Anzahl der Kunden in Hochrisikostaaten nach der Delegierten Verordnung (EU) 2016/1675, die Anzahl der Kunden, auf welche die vereinfachten Sorgfaltspflichten nach § 14 des Geldwäschegesetzes angewendet werden, die Anzahl der Kunden, auf welche die verstärkten Sorgfaltspflichten nach § 15 des Geldwäschegesetzes oder § 35 des Wertpapierinstitutsgesetzes angewendet werden, sowie die Anzahl der Kunden, die in Drittstaaten ansässig sind, und davon die Anzahl der Kunden in Hochrisikostaaten nach der Delegierten Verordnung (EU) 2016/1675,
 
-b)
+5. die Anzahl der Geschäftsbeziehungen mit politisch exponierten Personen,
 
-c)
+6. zu den Korrespondenzbeziehungen des Wertpapierinstituts im Sinne von § 1 Absatz 21 Nummer 2 des Geldwäschegesetzes: a)die Anzahl der Korrespondenzbeziehungen mit Respondenten im Sinne von § 1 Absatz 21 Nummer 2 des Geldwäschegesetzes, die in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ansässig sind, sowieb)die Anzahl der Korrespondenzbeziehungen mit Respondenten im Sinne von § 1 Absatz 21 Nummer 2 des Geldwäschegesetzes, die in einem Drittstaat ansässig sind, und davon die Anzahl der Korrespondenzbeziehungen mit Respondenten im Sinne von § 1 Absatz 21 Nummer 2 des Geldwäschegesetzes, die in einem Hochrisikostaat nach der Delegierten Verordnung (EU) 2016/1675 ansässig sind, die Anzahl der Korrespondenzbeziehungen mit Respondenten im Sinne von § 1 Absatz 21 Nummer 2 des Geldwäschegesetzes, die in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ansässig sind, sowie die Anzahl der Korrespondenzbeziehungen mit Respondenten im Sinne von § 1 Absatz 21 Nummer 2 des Geldwäschegesetzes, die in einem Drittstaat ansässig sind, und davon die Anzahl der Korrespondenzbeziehungen mit Respondenten im Sinne von § 1 Absatz 21 Nummer 2 des Geldwäschegesetzes, die in einem Hochrisikostaat nach der Delegierten Verordnung (EU) 2016/1675 ansässig sind,
 
-4.
+7. zu den Zweigstellen, den Zweigniederlassungen und den sonstigen nachgeordneten Unternehmen des Wertpapierinstituts, sofern diese selbst Verpflichtete des Geldwäschegesetzes sind: a)deren Anzahl im Inland,b)deren Anzahl in den anderen Mitgliedstaaten der Europäischen Union und Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum,c)deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassungen und sonstigen nachgeordneten Unternehmen die Anzahl der Zweigstellen, Zweigniederlassungen und sonstigen nachgeordneten Unternehmen, die in Hochrisikostaaten nach der Delegierten Verordnung (EU) 2016/1675 ansässig sind, sowie deren Anzahl im Inland, deren Anzahl in den anderen Mitgliedstaaten der Europäischen Union und Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassungen und sonstigen nachgeordneten Unternehmen die Anzahl der Zweigstellen, Zweigniederlassungen und sonstigen nachgeordneten Unternehmen, die in Hochrisikostaaten nach der Delegierten Verordnung (EU) 2016/1675 ansässig sind, sowie
 
-a)
-
-b)
-
-c)
-
-5.
-
-6.
-
-a)
-
-b)
-
-7.
-
-a)
-
-b)
-
-c)
-
-8.
+8. die Anzahl der vertraglich gebundenen Vermittler, die für das Wertpapierinstitut im Inland tätig sind, und die Anzahl der vertraglich gebundenen Vermittler, die für das Wertpapierinstitut im Ausland tätig sind.
 
 (8) Der Prüfer hat die wesentlichen Ergebnisse seiner Prüfung zusätzlich in einen Erfassungsbogen nach Anlage 3 einzutragen und dort zu bewerten. Für die Bewertung ist die Klassifizierung nach § 6 Absatz 1 zu verwenden.
 
@@ -367,9 +343,9 @@ Der Umfang der von dem Wertpapierinstitut eingegangenen Länderrisiken insgesamt
 
 Vergibt das Wertpapierinstitut Darlehen im Sinne von § 2 Absatz 3 Nummer 2 des Wertpapierinstitutsgesetzes zum Zwecke des darlehensfinanzierten Erwerbs von Wertpapieren, so hat der Prüfer zum Abschlussstichtag zu berichten über
 
-1.
+1. das gesamte Volumen der Darlehen und die Anzahl sämtlicher Darlehensnehmer sowie
 
-2.
+2. das Volumen und die Anzahl der unbesicherten Darlehen.
 
 ### § 30 — Einhaltung der Pflichten aus Derivategeschäften nach den Verordnungen (EU) Nr. 648/2012 und (EU) Nr. 600/2014
 
@@ -377,25 +353,15 @@ Vergibt das Wertpapierinstitut Darlehen im Sinne von § 2 Absatz 3 Nummer 2 des 
 
 (2) Der Prüfer hat die Prozesse zur Erfüllung der Meldepflichten nach Artikel 9 Absatz 1 bis 3 der Verordnung (EU) Nr. 648/2012 zu beurteilen.
 
-(3) Der Prüfer hat die Angemessenheit der Risikominderungstechniken für OTC-Derivatekontrakte, die nicht einer Pflicht zum Clearing durch eine zentrale Gegenpartei unterliegen, nach Artikel 11 der Verordnung (EU) Nr. 648/2012 zu beurteilen, auch in Verbindung mit Dazu hat der Prüfer insbesondere Folgendes zu beurteilen:
+(3) Der Prüfer hat die Angemessenheit der Risikominderungstechniken für OTC-Derivatekontrakte, die nicht einer Pflicht zum Clearing durch eine zentrale Gegenpartei unterliegen, nach Artikel 11 der Verordnung (EU) Nr. 648/2012 zu beurteilen, auch in Verbindung mit
 
-1.
+1. der Delegierten Verordnung (EU) Nr. 149/2013 der Kommission vom 19. Dezember 2012 zur Ergänzung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates im Hinblick auf technische Regulierungsstandards für indirekte Clearingvereinbarungen, die Clearingpflicht, das öffentliche Register, den Zugang zu einem Handelsplatz, nichtfinanzielle Gegenparteien und Risikominderungstechniken für nicht durch eine CCP geclearte OTC-Derivatekontrakte (ABl. L 52 vom 23.2.2013, S. 11), die zuletzt durch die Delegierte Verordnung (EU) 2022/2310 (ABl. L 307 vom 28.11.2022, S. 29) geändert worden ist, in der jeweils geltenden Fassung,
 
-2.
+2. der Delegierten Verordnung (EU) Nr. 285/2014 der Kommission vom 13. Februar 2014 zur Ergänzung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates im Hinblick auf technische Regulierungsstandards in Bezug auf unmittelbare, wesentliche und vorhersehbare Auswirkungen von Kontrakten innerhalb der Union und die Verhinderung der Umgehung von Vorschriften und Pflichten (ABl. L 85 vom 21.3.2014, S. 1) in der jeweils geltenden Fassung,
 
-3.
+3. der Delegierten Verordnung (EU) 2016/2251 der Kommission vom 4. Oktober 2016 zur Ergänzung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister durch technische Regulierungsstandards zu Risikominderungstechniken für nicht durch eine zentrale Gegenpartei geclearte OTC-Derivatekontrakte (ABl. L 340 vom 15.12.2016, S. 9; L 40 vom 17.2.2017, S. 79), die zuletzt durch die Delegierte Verordnung (EU) 2023/314 (ABl. L 43 vom 13.2.2023, S. 2) geändert worden ist, in der jeweils geltenden Fassung, sowie
 
-4.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+4. in Artikel 11 Absatz 15 Buchstabe a Doppelbuchstabe aa der Verordnung (EU) Nr. 648/2012 benannten technischen Regulierungsstandards.
 
 (4) Soweit nach Artikel 11 Absatz 5 der Verordnung (EU) Nr. 648/2012 gruppeninterne Transaktionen von der Besicherungspflicht nach Artikel 11 Absatz 3 der Verordnung (EU) Nr. 648/2012 ausgenommen sind, ist zu beurteilen, ob die Voraussetzungen für die Ausnahme von dieser Besicherungspflicht vorliegen. Wurden gruppeninterne Transaktionen von der Besicherungspflicht unter den Voraussetzungen des Artikels 11 Absatz 6, 8 oder 10 der Verordnung (EU) Nr. 648/2012 befreit, so ist zu beurteilen, ob die organisatorischen Maßnahmen des Wertpapierinstituts gewährleisten können, dass die Voraussetzungen für diese Befreiung eingehalten werden, einschließlich der Veröffentlichungspflicht nach Artikel 11 Absatz 11 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit Artikel 20 der Delegierten Verordnung (EU) Nr. 149/2013.
 
@@ -415,13 +381,13 @@ Die geschäftliche Entwicklung des Wertpapierinstituts ist für jede erbrachte W
 
 (2) Die Berichterstattung hat sich auch zu erstrecken auf
 
-1.
+1. Art und Umfang stiller Reserven und stiller Lasten, unter besonderer Darstellung von vermiedenen Wertpapierabschreibungen,
 
-2.
+2. bedeutende Verträge und schwebende Rechtsstreitigkeiten, soweit sich nachteilige Auswirkungen auf die Vermögenslage ergeben könnten, und die Bildung der notwendigen Rückstellungen,
 
-3.
+3. alle abgegebenen Patronatserklärungen; dazu ist der Inhalt dieser Erklärungen darzustellen und ihre Rechtsverbindlichkeit zu beurteilen, sowie
 
-4.
+4. nachrangige Vermögensgegenstände.
 
 ### § 33 — Entwicklung der Ertragslage
 
@@ -463,11 +429,11 @@ Die Bilanzposten, die Angaben unter dem Bilanzstrich und die Posten der Gewinn- 
 
 Vorbehaltlich des § 37 ist im Bericht über die Prüfung auf die Wertpapierinstitute, die die Bundesanstalt jeweils nach Artikel 6 der Verordnung (EU) 2019/2033 freigestellt hat, zusätzlich einzugehen auf:
 
-1.
+1. die Namen der gruppenangehörigen Unternehmen, die die Bundesanstalt nach Artikel 6 der Verordnung (EU) 2019/2033 freigestellt hat, sowie den Umfang der Freistellung,
 
-2.
+2. Übertragungen von Eigenmitteln oder Rückzahlungen von Verbindlichkeiten durch das Mutterunternehmen zu Gunsten von nachgeordneten Unternehmen, die die Bundesanstalt nach Artikel 6 der Verordnung (EU) 2019/2033 freigestellt hat, und
 
-3.
+3. Übertragungen von Eigenmitteln oder Rückzahlungen von Verbindlichkeiten zu Gunsten des Mutterunternehmens, sofern die Bundesanstalt dieses nach Artikel 6 der Verordnung (EU) 2019/2033 freigestellt hat.
 
 ### § 39 — Ergänzende Vorschriften für Unternehmen eines Finanzkonglomerats (§§ 17, 18, 23 und 25 des Finanzkonglomerate-Aufsichtsgesetzes)
 
@@ -487,20 +453,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 1 — (zu § 40)
 
-Geldbeträge sind nach kaufmännischer Rundung in Tausend Euro (TEUR) anzugeben. Prozentangaben sind mit einer Nachkommastelle anzugeben. Vor der Bezeichnung „Stk.“ ist die Anzahl der betroffenen Verbindlichkeiten anzugeben.
-
 ### Anlage 2 — (zu § 40)
-
-Wertpapierinstitut:
 
 ### Anlage 3 — (zu §§ 27, 40)
 
-Angaben zu folgenden Risikofaktoren anhand der aktuellen und vollständigen Risikoanalyse des Wertpapierinstituts (§ 27 Absatz 7)
-
-Klassifizierung von Prüfungsfeststellungen F-0 bis F-5 (§ 6 Absatz 1, § 27 Absatz 8)
-
 ### Anlage 4 — (zu §§ 6, 40)
-
-Liste der Prüfungsfeststellungen F-1 bis F-4 (Mängel)
 
 (Für jede Prüfungsfeststellung ist eine gesonderte Tabellenzeile zu verwenden. Die Zeilenanzahl ist dementsprechend zu verringern oder zu erhöhen.)

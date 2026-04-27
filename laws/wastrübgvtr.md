@@ -15,13 +15,13 @@ Die Reichsregierung und die Regierungen der Länder Preußen, Bayern, Sachsen, W
 
 ### § 1
 
-1. Am 1. April 1921 gehen auf das Reich über Der Übergang erfolgt mit allen Bestandteilen und allem für die Verwaltung erforderlichen Zubehör, insbesondere an Grundstücken, Dienstgebäuden, Bauhöfen, Werften, Schiffen, Baggern und sonstigen Baugeräten, ferner mit den an den künstlichen Wasserstraßen vorhandenen staatlichen Brücken und Fähren, die durch die Herstellung der Wasserstraße notwendig geworden sind. Schutz- und Sicherheitshäfen sind in den Übergang auf das Reich einbegriffen. Brücken und Fähren an den natürlichen Wasserstraßen sowie Jagdberechtigungen und das Fährregal sind von dem Übergang auf das Reich ausgeschlossen.
+1. Am 1. April 1921 gehen auf das Reich über
 
-a)
+a) die in dem anliegenden, einen Bestandteil des Vertrags bildenden Verzeichnis - Anlage A - aufgeführten Binnenwasserstraßen sowie die Seewasserstraßen der Länder;
 
-b)
+b) die zur Erhaltung des Fahrwassers dienenden Anlagen der Länder an den Seeküsten und auf den Meeresinseln;
 
-c)
+c) die Seezeichen der Länder und das Lotsenwesen, mit Ausnahme des Hafenlotsenwesens.
 
 2. Das Reich übernimmt gemäß Artikel 97 der Reichsverfassung die in Absatz 1 bezeichneten Gegenstände mit allen Rechten und Pflichten in sein Eigentum und seine Verwaltung. Soweit auf das Reich übergehende Gegenstände im Eigentum Dritter stehen, sind diese für die Entziehung des Eigentums nach den landesrechtlichen Enteignungsvorschriften vom Reich zu entschädigen.
 
@@ -31,11 +31,11 @@ c)
 
 Das dem Reich zustehende Eigentum unterliegt folgenden Einschränkungen:
 
-a)
+a) An den Haffen, Seen und seeartigen Erweiterungen von Wasserstraßen verbleiben den Ländern alle Nutzungen, soweit deren Ausübung nicht der Erfüllung der dem Reich an den Wasserstraßen obliegenden Aufgaben und der Fürsorge für einen guten Uferschutz widerstreitet. Ohne diese Einschränkungen verbleibt den Ländern das Recht der Rohr-, Schilf- und Weidennutzung an den bezeichneten Gewässern. Zu den Nutzungen im Sinne dieser Vorschrift gehört auch das Recht der Landgewinnung und der Wasserentnahme.
 
-b)
+b) Die staatlichen Fischereien an den natürlichen Wasserstraßen verbleiben den Ländern; das gleiche gilt auch für die kanalisierten Strecken natürlicher Wasserstraßen. An den künstlichen Wasserstraßen gehen sie auf das Reich über.
 
-c)
+c) Soweit die auf Grund dieses Vertrags auf das Reich übergehenden Gegenstände im Eigentum Dritter stehen, behalten diese die ihnen zustehenden Nutzungen. Das Reich ist berechtigt, die Nutzungen gegen Entschädigung in Anspruch zu nehmen. Umfang und Verfahren der Entschädigung richten sich nach den landesrechtlichen Enteignungsvorschriften.
 
 ### § 3
 
@@ -63,11 +63,11 @@ Das Reich tritt in die öffentlich-rechtlichen und in die privatrechtlichen Vert
 
 1. Als Abfindung für die Übertragung der nach den Bestimmungen dieses Vertrags auf das Reich übergehenden Gegenstände gewährt das Reich den Ländern einen Betrag, der nach folgenden Grundsätzen berechnet wird:
 
-a)
+a) Das Reich zahlt 30 vom Hundert des Anlagekapitals, das die Gesamtheit der deutschen Länder für die auf Grund dieses Vertrags auf das Reich übergehenden Gegenstände bis 31. März 1921 seit 100 Jahren aufgewendet hat, wobei jedoch die unter Ziffer 17, 30, 61, 65, 83 und 128 des Verzeichnisses (Anlage A) aufgeführten Wasserstraßen außer Betracht zu bleiben haben.
 
-b)
+b) Von dieser Summe erhalten die Hansestädte vorweg denjenigen Teil des Anlagekapitals, der durch Anleihen aufgebracht und noch nicht getilgt ist.
 
-c)
+c) Der Rest wird nach dem hiernach verbleibenden Anlagekapital, also mit Einrechnung getilgter Anleihebeträge, auf die Länder verhältnismäßig verteilt.
 
 2. Das Anlagekapital wird berechnet nach dem Stand vom 1. April 1921.
 
@@ -95,21 +95,19 @@ Die Länder werden von den Reichswasserstraßen Staatssteuern nicht erheben.
 
 ### § 11
 
-Die Verwaltungszuständigkeiten der Landeszentralbehörden hinsichtlich des Baues, der Unterhaltung, des Betriebs und der Verwaltung der auf Grund dieses Vertrags übergehenden Wasserstraßen einschließlich der Strom- und Schiffahrtspolizei und hinsichtlich der sonstigen auf den Verkehr bezüglichen Befugnisse sowie hinsichtlich der Seezeichen und des Lotsenwesens gehen mit dem 1. April 1921 auf das Reich über. Im übrigen erfolgt die einstweilige Verwaltung der Reichswasserstraßen durch die mittleren und unteren Behörden der Länder auf Kosten des Reichs und unter Leitung des Reichsverkehrsministeriums. Die Ausübung der Tarifhoheit im Sinne des Artikels 97 Abs. 5 der Reichsverfassung steht vom 1. April 1921 an dem Reich zu.
-
 ### § 12
 
 Bei der Ausübung der Verwaltung nach § 11 gelten folgende Bestimmungen:
 
-a)
+a) Der Begriff der Strompolizei ist im Sinne des Landesrechts zu verstehen.
 
-b)
+b) Zuständigkeiten der Landesbehörden einschließlich der Landeszentralstellen, die nach Landesrecht dazu dienen, die verschiedenen Interessen an einer Wasserstraße auszugleichen, verbleiben bei diesen Behörden. Soweit eine Landeszentralbehörde nach Landesrecht die besonderen Interessen der Wasserstraße wahrzunehmen hat, gehen deren Befugnisse zur Wahrnehmung dieser besonderen Interessen der Reichswasserstraßen auf das Reichsverkehrsministerium über. Die Zuständigkeiten des Reichsverkehrsministeriums werden, soweit die Voraussetzungen des Artikels 97 Abs. 3 der Reichsverfassung gegeben sind, nur mit Zustimmung der Länder ausgeübt.
 
-c)
+c) Die Befugnisse der Landeszentralbehörden, die diese in Anwendung der Gewerbeordnung im Wasserpolizeiverfahren, insbesondere hinsichtlich der Anlage von Wasserkraftwerken, nach Landesrecht ausüben, verbleiben bei diesen Behörden.
 
-d)
+d) Die Verfügung über die bei den Landesbehörden für die Reichswasserstraßen tätigen Beamten verbleibt den Landesbehörden. Es wird aber die Ernennung, die Versetzung und die Versetzung in den einstweiligen oder dauernden Ruhestand der für das Reich ausschließlich oder überwiegend tätigen Beamten, soweit diese der Besoldungsgruppe A X oder einer höheren Gruppe angehören, nur mit Zustimmung des Reichsverkehrsministeriums verfügt werden. Für die Besetzung der Landesbehörden gelten die Bestimmungen des Artikels 16 der Reichsverfassung und die hierzu ergehenden Vereinbarungen. Der Personalhaushalt der mittleren und unteren Landesbehörden bedarf, soweit diese mit Reichsaufgaben befaßt sind, der Zustimmung der Reichsregierung. Er ist für die Besetzung dieser Behörden und die Bezahlung ihrer Beamten maßgebend.
 
-e)
+e) Falls der Staatsgerichtshof auf Antrag des Reichs entscheiden sollte, daß das Reich nach dem 1. April 1921 zur selbständigen Neuordnung der Reichswasserstraßenverwaltung auch ohne Einverständnis der beteiligten Länder berechtigt ist, so wird das Reich eine Änderung der vereinbarten Regelung der Wasserstraßenverwaltung nur nach vorausgehender Kündigung verfügen. Die Kündigung ist nur mit einer Frist von 3 Monaten und nur zum Schluß eines Kalendervierteljahrs, frühestens zum 30. September 1921, zulässig. Sie kann auch gegenüber einzelnen Ländern und für einzelne Stromgebiete erfolgen.
 
 ### § 13
 
@@ -166,9 +164,5 @@ Sofern nicht alle Länder, deren Wasserstraßen nach Artikel 97 der Reichsverfas
 ### Anlage A — zum Staatsvertrag betreffend den Übergang der Wasserstraßen
 von den Ländern auf das Reich
 
-Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
-
 ### Anlage B — zum Staatsvertrag betreffend den Übergang der Wasserstraßen
 von den Ländern auf das Reich
-
-Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49

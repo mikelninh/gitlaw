@@ -16,19 +16,11 @@
 
 (2) Auf Übernahme- und Pflichtangebote zum Erwerb von Aktien einer Zielgesellschaft im Sinne des § 2 Abs. 3 Nr. 1, deren stimmberechtigte Aktien nicht im Inland, jedoch in einem anderen Staat des Europäischen Wirtschaftsraums zum Handel an einem organisierten Markt zugelassen sind, ist dieses Gesetz nur anzuwenden, soweit es die Kontrolle, die Verpflichtung zur Abgabe eines Angebots und hiervon abweichende Regelungen, die Unterrichtung der Arbeitnehmer der Zielgesellschaft oder des Bieters, Handlungen des Vorstands der Zielgesellschaft, durch die der Erfolg eines Angebots verhindert werden könnte, oder andere gesellschaftsrechtliche Fragen regelt.
 
-(3) Auf Angebote zum Erwerb von Wertpapieren einer Zielgesellschaft im Sinne des § 2 Abs. 3 Nr. 2 ist dieses Gesetz vorbehaltlich § 11a nur unter folgenden Voraussetzungen anzuwenden: Liegen die in Satz 1 genannten Voraussetzungen vor, ist dieses Gesetz nur anzuwenden, soweit es Fragen der Gegenleistung, des Inhalts der Angebotsunterlage und des Angebotsverfahrens regelt.
+(3) Auf Angebote zum Erwerb von Wertpapieren einer Zielgesellschaft im Sinne des § 2 Abs. 3 Nr. 2 ist dieses Gesetz vorbehaltlich § 11a nur unter folgenden Voraussetzungen anzuwenden:
 
-1.
+1. es handelt sich um ein europäisches Angebot zum Erwerb stimmberechtigter Wertpapiere, und
 
-2.
-
-a)
-
-b)
-
-aa)
-
-bb)
+2. a)die stimmberechtigten Wertpapiere sind nur im Inland zum Handel an einem organisierten Markt zugelassen, oderb)die stimmberechtigten Wertpapiere sind sowohl im Inland als auch in einem anderen Staat des Europäischen Wirtschaftsraums, jedoch nicht in dem Staat, in dem die Zielgesellschaft ihren Sitz hat, zum Handel an einem organisierten Markt zugelassen, undaa)die Zulassung erfolgte zuerst zum Handel an einem organisierten Markt im Inland, oderbb)die Zulassungen erfolgten gleichzeitig, und die Zielgesellschaft hat sich für die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) als zuständige Aufsichtsbehörde entschieden. die stimmberechtigten Wertpapiere sind nur im Inland zum Handel an einem organisierten Markt zugelassen, oder die stimmberechtigten Wertpapiere sind sowohl im Inland als auch in einem anderen Staat des Europäischen Wirtschaftsraums, jedoch nicht in dem Staat, in dem die Zielgesellschaft ihren Sitz hat, zum Handel an einem organisierten Markt zugelassen, undaa)die Zulassung erfolgte zuerst zum Handel an einem organisierten Markt im Inland, oderbb)die Zulassungen erfolgten gleichzeitig, und die Zielgesellschaft hat sich für die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) als zuständige Aufsichtsbehörde entschieden. die Zulassung erfolgte zuerst zum Handel an einem organisierten Markt im Inland, oder die Zulassungen erfolgten gleichzeitig, und die Zielgesellschaft hat sich für die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) als zuständige Aufsichtsbehörde entschieden.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen darüber, in welchem Umfang Vorschriften dieses Gesetzes in den Fällen des Absatzes 2 und des Absatzes 3 anwendbar sind, zu erlassen.
 
@@ -42,15 +34,15 @@ bb)
 
 (2) Wertpapiere sind, auch wenn für sie keine Urkunden ausgestellt sind,
 
-1.
+1. Aktien, mit diesen vergleichbare Wertpapiere und Zertifikate, die Aktien vertreten,
 
-2.
+2. andere Wertpapiere, die den Erwerb von Aktien, mit diesen vergleichbaren Wertpapieren oder Zertifikaten, die Aktien vertreten, zum Gegenstand haben.
 
 (3) Zielgesellschaften sind
 
-1.
+1. Aktiengesellschaften oder Kommanditgesellschaften auf Aktien mit Sitz im Inland und
 
-2.
+2. Gesellschaften mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums.
 
 (4) Bieter sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die allein oder gemeinsam mit anderen Personen ein Angebot abgeben, ein solches beabsichtigen oder zur Abgabe verpflichtet sind.
 
@@ -99,7 +91,7 @@ Finanzdienstleistungsaufsicht
 
 (1) Der Bundesanstalt obliegt die Zusammenarbeit mit den für die Überwachung von Angeboten zum Erwerb von Wertpapieren, Börsen oder anderen Wertpapier- oder Derivatemärkten sowie den Handel in Wertpapieren und Derivaten zuständigen Stellen anderer Staaten.
 
-(2) Im Rahmen der Zusammenarbeit nach Absatz 1 darf die Bundesanstalt Tatsachen übermitteln, die für die Überwachung von Angeboten zum Erwerb von Wertpapieren oder damit zusammenhängender Verwaltungs oder Gerichtsverfahren erforderlich sind; hierbei kann sie von ihren Befugnissen nach § 40 Abs. 1 und 2 Gebrauch machen. Bei der Übermittlung personenbezogener Daten hat die Bundesanstalt den Zweck zu bestimmen, für den diese verarbeitet werden dürfen. Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verarbeitet werden dürfen, zu dessen Erfüllung sie übermittelt wurden. Eine Übermittlung unterbleibt, soweit Grund zu der Annahme besteht, dass durch sie gegen den Zweck eines deutschen Gesetzes verstoßen wird. Die Übermittlung unterbleibt außerdem, wenn durch sie schutzwürdige Interessen der betroffenen Person beeinträchtigt würden, insbesondere wenn im Empfängerland ein angemessener Datenschutzstandard nicht gewährleistet wäre. Die Übermittlung personenbezogener Daten an Drittländer und internationale Organisationen muss im Einklang mit Kapitel V der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung und mit den sonstigen allgemeinen datenschutzrechtlichen Vorschriften stehen.
+(2) Im Rahmen der Zusammenarbeit nach Absatz 1 darf die Bundesanstalt Tatsachen übermitteln, die für die Überwachung von Angeboten zum Erwerb von Wertpapieren oder damit zusammenhängender Verwaltungs oder Gerichtsverfahren erforderlich sind; hierbei kann sie von ihren Befugnissen nach § 40 Abs. 1 und 2 Gebrauch machen. Bei der Übermittlung personenbezogener Daten hat die Bundesanstalt den Zweck zu bestimmen, für den diese verarbeitet werden dürfen. Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verarbeitet werden dürfen, zu dessen Erfüllung sie übermittelt wurden. Eine Übermittlung unterbleibt, soweit Grund zu der Annahme besteht, dass durch sie gegen den Zweck eines deutschen Gesetzes verstoßen wird. Die Übermittlung unterbleibt außerdem, wenn durch sie schutzwürdige Interessen der betroffenen Person beeinträchtigt würden, insbesondere wenn im Empfängerland ein angemessener Datenschutzstandard nicht gewährleistet wäre. Die Übermittlung personenbezogener Daten an Drittländer und internationale Organisationen muss im Einklang mit Kapitel V der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung und mit den sonstigen allgemeinen datenschutzrechtlichen Vorschriften stehen.
 
 (3) Werden der Bundesanstalt von einer Stelle eines anderen Staates personenbezogene Daten mitgeteilt, so dürfen diese nur unter Beachtung der Zweckbestimmung durch diese Stelle verarbeitet werden. Die Bundesanstalt darf die Daten unter Beachtung der Zweckbestimmung den Börsenaufsichtsbehörden und den Handelsüberwachungsstellen der Börsen mitteilen.
 
@@ -107,19 +99,19 @@ Finanzdienstleistungsaufsicht
 
 ### § 9 — Verschwiegenheitspflicht
 
-(1) Die bei der Bundesanstalt und bei Einrichtungen nach § 7 Abs. 2 Beschäftigten und die Personen, derer sich die Bundesanstalt nach § 7 Abs. 2 bedient, dürfen ihnen bei ihrer Tätigkeit bekannt gewordene Tatsachen, deren Geheimhaltung im Interesse eines nach diesem Gesetz Verpflichteten, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, sowie personenbezogene Daten auch nach Beendigung ihres Dienstverhältnisses oder ihrer Tätigkeit nicht unbefugt offenbaren oder verwerten. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an soweit die Tatsachen für die Erfüllung der Aufgaben dieser Stellen oder Personen erforderlich sind. Für die bei den in Satz 3 genannten Stellen beschäftigten oder von ihnen beauftragten Personen gilt die Verschwiegenheitspflicht nach den Sätzen 1 bis 3 entsprechend. An eine ausländische Stelle dürfen die Tatsachen nur weitergegeben werden, wenn diese Stelle und die von ihr beauftragten Personen einer den Sätzen 1 bis 3 entsprechenden Verschwiegenheitspflicht unterliegen.
+(1) Die bei der Bundesanstalt und bei Einrichtungen nach § 7 Abs. 2 Beschäftigten und die Personen, derer sich die Bundesanstalt nach § 7 Abs. 2 bedient, dürfen ihnen bei ihrer Tätigkeit bekannt gewordene Tatsachen, deren Geheimhaltung im Interesse eines nach diesem Gesetz Verpflichteten, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, sowie personenbezogene Daten auch nach Beendigung ihres Dienstverhältnisses oder ihrer Tätigkeit nicht unbefugt offenbaren oder verwerten. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
 
-1.
+1. Strafverfolgungsbehörden oder für Straf und Buß-geldsachen zuständige Gerichte,
 
-2.
+2. Stellen, die kraft Gesetzes oder im öffentlichen Auftrag mit der Bekämpfung von Wettbewerbsbeschränkungen, der Überwachung von Angeboten zum Erwerb von Wertpapieren oder der Überwachung von Börsen oder anderen Wertpapier- oder Derivatemärkten, des Wertpapier- oder Derivatehandels, von Kreditinstituten, Finanzdienstleistungsinstituten, Wertpapierinstituten, Investmentgesellschaften, Finanzunternehmen oder Versicherungsunternehmen betraut sind, sowie von solchen Stellen beauftragte Personen,
 
-3.
+3. das Bundesministerium für Wirtschaft und Energie,
 
 (2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat oder eines Besteuerungsverfahrens benötigen, es sei denn, der Weitergabe der Informationen stehen andere Vorschriften entgegen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
-1.
+1. die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind oder
 
-2.
+2. von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis erlangen, dass sie an der Aufsicht über direkt von der Europäischen Zentralbank beaufsichtigte Institute mitwirken, insbesondere in gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1), und die nach den Regeln der Europäischen Zentralbank geheim sind.
 
 (3) (weggefallen)
 
@@ -129,19 +121,19 @@ Finanzdienstleistungsaufsicht
 
 (1) Der Bieter hat seine Entscheidung zur Abgabe eines Angebots unverzüglich gemäß Absatz 3 Satz 1 zu veröffentlichen. Die Verpflichtung nach Satz 1 besteht auch, wenn für die Entscheidung nach Satz 1 der Beschluss der Gesellschafterversammlung des Bieters erforderlich ist und ein solcher Beschluss noch nicht erfolgt ist. Die Bundesanstalt kann dem Bieter auf Antrag abweichend von Satz 2 gestatten, eine Veröffentlichung erst nach dem Beschluss der Gesellschafterversammlung vorzunehmen, wenn der Bieter durch geeignete Vorkehrungen sicherstellt, dass dadurch Marktverzerrungen nicht zu befürchten sind.
 
-(2) Der Bieter hat die Entscheidung nach Absatz 1 Satz 1 vor der Veröffentlichung mitzuteilen. Die Geschäftsführungen dürfen die ihnen nach Satz 1 mitgeteilten Entscheidungen vor der Veröffentlichung nur zum Zwecke der Entscheidung verwenden, ob die Feststellung des Börsenpreises auszusetzen oder einzustellen ist. Die Bundesanstalt kann gestatten, dass Bieter mit Wohnort oder Sitz im Ausland die Mitteilung nach Satz 1 gleichzeitig mit der Veröffentlichung vornehmen, wenn dadurch die Entscheidungen der Geschäftsführungen über die Aussetzung oder Einstellung der Feststellung des Börsenpreises nicht beeinträchtigt werden.
+(2) Der Bieter hat die Entscheidung nach Absatz 1 Satz 1 vor der Veröffentlichung
 
-1.
+1. den Geschäftsführungen der Börsen, an denen Wertpapiere des Bieters, der Zielgesellschaft und anderer durch das Angebot unmittelbar betroffener Gesellschaften zum Handel zugelassen sind, und
 
-2.
+2. den Geschäftsführungen der Börsen, an denen Derivate im Sinne des § 2 Absatz 3 des Wertpapierhandelsgesetzes gehandelt werden, sofern die Wertpapiere Gegenstand der Derivate sind,
 
-3.
+3. (weggefallen)
 
-(3) Die Veröffentlichung der Entscheidung nach Absatz 1 Satz 1 ist in deutscher Sprache vorzunehmen. Dabei hat der Bieter auch die Adresse anzugeben, unter der die Veröffentlichung der Angebotsunterlage im Internet nach § 14 Abs. 3 Satz 1 Nr. 1 erfolgen wird. Eine Veröffentlichung in anderer Weise darf nicht vor der Veröffentlichung nach Satz 1 vorgenommen werden.
+(3) Die Veröffentlichung der Entscheidung nach Absatz 1 Satz 1 ist
 
-1.
+1. durch Bekanntgabe im Internet und
 
-2.
+2. über ein elektronisch betriebenes Informationsverbreitungssystem, das bei Kreditinstituten, Finanzdienstleistungsinstituten, Wertpapierinstituten, nach § 53 Abs. 1 des Gesetzes über das Kreditwesen tätigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, und Versicherungsunternehmen weit verbreitet ist,
 
 (4) Der Bieter hat die Veröffentlichung nach Absatz 3 Satz 1 unverzüglich den Geschäftsführungen der in Absatz 2 Satz 1 Nr. 1 und 2 erfassten Börsen und der Bundesanstalt zu übersenden. Dies gilt im Hinblick auf die Geschäftsführungen der in Absatz 2 Satz 1 Nummer 1 und 2 erfassten Börsen nicht, soweit die Bundesanstalt nach Absatz 2 Satz 3 gestattet hat, die Mitteilung nach Absatz 2 Satz 1 gleichzeitig mit der Veröffentlichung vorzunehmen.
 
@@ -153,35 +145,27 @@ Finanzdienstleistungsaufsicht
 
 (1) Der Bieter hat eine Unterlage über das Angebot (Angebotsunterlage) zu erstellen und zu veröffentlichen. Die Angebotsunterlage muss die Angaben enthalten, die notwendig sind, um in Kenntnis der Sachlage über das Angebot entscheiden zu können. Die Angaben müssen richtig und vollständig sein. Die Angebotsunterlage ist in deutscher Sprache und in einer Form abzufassen, die ihr Verständnis und ihre Auswertung erleichtert.
 
-(2) Die Angebotsunterlage hat den Inhalt des Angebots und ergänzende Angaben zu enthalten. Angaben über den Inhalt des Angebots sind Ergänzende Angaben sind (3) Die Angebotsunterlage muss Namen und Anschrift, bei juristischen Personen oder Gesellschaften Firma, Sitz und Rechtsform, der Personen oder Gesellschaften aufführen, die für den Inhalt der Angebotsunterlage die Verantwortung übernehmen; sie muss eine Erklärung dieser Personen oder Gesellschaften enthalten, dass ihres Wissens die Angaben richtig und keine wesentlichen Umstände ausgelassen sind.
+(2) Die Angebotsunterlage hat den Inhalt des Angebots und ergänzende Angaben zu enthalten. Angaben über den Inhalt des Angebots sind
 
-1.
+1. Name oder Firma und Anschrift oder Sitz sowie, wenn es sich um eine Gesellschaft handelt, die Rechtsform des Bieters,
 
-2.
+2. Firma, Sitz und Rechtsform der Zielgesellschaft,
 
-3.
+3. die Wertpapiere, die Gegenstand des Angebots sind,
 
-4.
+4. Art und Höhe der für die Wertpapiere der Zielgesellschaft gebotenen Gegenleistung,
 
-4a.
+4a. die Höhe der für den Entzug von Rechten gebotenen Entschädigung nach § 33b Abs. 4,
 
-5.
+5. die Bedingungen, von denen die Wirksamkeit des Angebots abhängt,
 
-6.
-
-1.
-
-2.
-
-3.
-
-4.
+6. der Beginn und das Ende der Annahmefrist.
 
 (4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
-1.
+1. nähere Bestimmungen über die Gestaltung und die in die Angebotsunterlage aufzunehmenden Angaben erlassen und
 
-2.
+2. weitere ergänzende Angaben vorschreiben, soweit dies notwendig ist, um den Empfängern des Angebots ein zutreffendes und vollständiges Urteil über den Bieter, die mit ihm gemeinsam handelnden Personen und das Angebot zu ermöglichen.
 
 (5) Das Bundesministerium der Finanzen kann die Ermächtigung nach Absatz 4 durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
@@ -191,21 +175,21 @@ Die von der zuständigen Aufsichtsstelle eines anderen Staates des Europäischen
 
 ### § 12 — Haftung für die Angebotsunterlage
 
-(1) Sind für die Beurteilung des Angebots wesentliche Angaben der Angebotsunterlage unrichtig oder unvollständig, so kann derjenige, der das Angebot angenommen hat oder dessen Aktien dem Bieter nach § 39a übertragen worden sind, als Gesamtschuldnern den Ersatz des ihm aus der Annahme des Angebots oder Übertragung der Aktien entstandenen Schadens verlangen.
+(1) Sind für die Beurteilung des Angebots wesentliche Angaben der Angebotsunterlage unrichtig oder unvollständig, so kann derjenige, der das Angebot angenommen hat oder dessen Aktien dem Bieter nach § 39a übertragen worden sind,
 
-1.
+1. von denjenigen, die für die Angebotsunterlage die Verantwortung übernommen haben, und
 
-2.
+2. von denjenigen, von denen der Erlass der Angebotsunterlage ausgeht,
 
 (2) Nach Absatz 1 kann nicht in Anspruch genommen werden, wer nachweist, dass er die Unrichtigkeit oder Unvollständigkeit der Angaben der Angebotsunterlage nicht gekannt hat und die Unkenntnis nicht auf grober Fahrlässigkeit beruht.
 
 (3) Der Anspruch nach Absatz 1 besteht nicht, sofern
 
-1.
+1. die Annahme des Angebots nicht auf Grund der Angebotsunterlage erfolgt ist,
 
-2.
+2. derjenige, der das Angebot angenommen hat, die Unrichtigkeit oder Unvollständigkeit der Angaben der Angebotsunterlage bei der Abgabe der Annahmeerklärung kannte oder
 
-3.
+3. vor der Annahme des Angebots in einer Veröffentlichung nach Artikel 17 der Verordnung (EU) Nr. 596/2014 oder einer vergleichbaren Bekanntmachung eine deutlich gestaltete Berichtigung der unrichtigen oder unvollständigen Angaben im Inland veröffentlicht wurde.
 
 (4) Der Anspruch nach Absatz 1 verjährt in einem Jahr seit dem Zeitpunkt, zu dem derjenige, der das Angebot angenommen hat oder dessen Aktien dem Bieter nach § 39a übertragen worden sind, von der Unrichtigkeit oder Unvollständigkeit der Angaben der Angebotsunterlage Kenntnis erlangt hat, spätestens jedoch in drei Jahren seit der Veröffentlichung der Angebotsunterlage.
 
@@ -227,17 +211,17 @@ Die von der zuständigen Aufsichtsstelle eines anderen Staates des Europäischen
 
 (2) Die Angebotsunterlage ist unverzüglich nach den Maßgaben des Absatzes 3 Satz 1 zu veröffentlichen, wenn
 
-1.
+1. die Bundesanstalt die Veröffentlichung gestattet hat oder
 
-2.
+2. seit dem Eingang der Angebotsunterlage zehn Arbeitstage verstrichen sind, ohne dass die Bundesanstalt das Angebot untersagt hat.
 
-(2a) Vor der Veröffentlichung der Angebotsunterlage darf diese nicht bekannt gegeben werden. Die Bundesanstalt kann vor einer Untersagung des Angebots die Frist nach Absatz 2 Nummer 2 um bis zu fünf Arbeitstage verlängern, wenn die Angebotsunterlage nicht vollständig ist oder sonst den Vorschriften dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung nicht entspricht. Die Frist nach Absatz 2 Nummer 2 verlängert sich, auch nach einer Verlängerung nach Satz 2, um fünf Kalendertage, nachdem die Bundesanstalt eine Untersagung nach § 4f des Finanzdienstleistungsaufsichtsgesetzes elektronisch oder nach § 4g des Finanzdienstleistungsaufsichtsgesetzes als elektronisches Dokument zum Abruf über das Melde- und Veröffentlichungssystem der Bundesanstalt bereitgestellt, öffentlich bekannt gemacht oder zur Post aufgegeben hat.
+(2a) Vor der Veröffentlichung der Angebotsunterlage darf diese nicht bekannt gegeben werden. Die Bundesanstalt kann vor einer Untersagung des Angebots die Frist nach Absatz 2 Nummer 2 um bis zu fünf Arbeitstage verlängern, wenn die Angebotsunterlage nicht vollständig ist oder sonst den Vorschriften dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung nicht entspricht. Die Frist nach Absatz 2 Nummer 2 verlängert sich, auch nach einer Verlängerung nach Satz 2, um fünf Kalendertage, nachdem die Bundesanstalt eine Untersagung nach § 4f des Finanzdienstleistungsaufsichtsgesetzes elektronisch oder nach § 4g des Finanzdienstleistungsaufsichtsgesetzes als elektronisches Dokument zum Abruf über das Melde- und Veröffentlichungssystem der Bundesanstalt bereitgestellt, öffentlich bekannt gemacht oder zur Post aufgegeben hat.
 
-(3) Die Angebotsunterlage ist zu veröffentlichen durch Der Bieter hat der Bundesanstalt die Veröffentlichung nach Satz 1 Nummer 2 unverzüglich unter Übermittlung der veröffentlichten Angebotsunterlage mitzuteilen. Die Verpflichtung des Bieters besteht auch im Fall einer Veröffentlichung oder Bekanntmachung im Sinne des § 12 Absatz 3 Nummer 3.
+(3) Die Angebotsunterlage ist zu veröffentlichen durch
 
-1.
+1. Bekanntgabe im Internet und
 
-2.
+2. Bekanntgabe im Bundesanzeiger oder durch Bereithalten zur kostenlosen Ausgabe bei einer geeigneten Stelle im Inland; im letzteren Fall ist im Bundesanzeiger bekannt zu machen, bei welcher Stelle die Angebotsunterlage bereit gehalten wird und unter welcher Adresse die Veröffentlichung der Angebotsunterlage im Internet nach Nummer 1 erfolgt ist.
 
 (4) Der Bieter hat die Angebotsunterlage dem Vorstand der Zielgesellschaft unverzüglich nach der Veröffentlichung nach Absatz 3 Satz 1 zu übermitteln. Der Vorstand der Zielgesellschaft hat die Angebotsunterlage unverzüglich dem zuständigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern zu übermitteln. Der Bieter hat die Angebotsunterlage ebenso seinem zuständigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern unverzüglich nach der Veröffentlichung nach Absatz 3 Satz 1 zu übermitteln.
 
@@ -245,15 +229,15 @@ Die von der zuständigen Aufsichtsstelle eines anderen Staates des Europäischen
 
 (1) Die Bundesanstalt untersagt das Angebot, wenn
 
-1.
+1. die Angebotsunterlage nicht die Angaben enthält, die nach § 11 Abs. 2 oder einer auf Grund des § 11 Abs. 4 erlassenen Rechtsverordnung erforderlich sind,
 
-2.
+2. die in der Angebotsunterlage enthaltenen Angaben offensichtlich gegen Vorschriften dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung verstoßen,
 
-3.
+3. der Bieter entgegen § 14 Abs. 1 Satz 1 der Bundesanstalt keine Angebotsunterlage übermittelt,
 
-4.
+4. der Bieter entgegen § 14 Abs. 2 Satz 1 die Angebotsunterlage nicht veröffentlicht hat oder
 
-5.
+5. die Veröffentlichung der Angebotsunterlage gegen die Sperrfristen nach § 26 Absatz 1 oder 2 verstößt oder der Bieter entgegen § 26 Absatz 1 oder 2 die Entscheidung zur Veröffentlichung eines Angebots nach § 10 Absatz 3 Satz 1 veröffentlicht hat.
 
 (2) Die Bundesanstalt kann das Angebot untersagen, wenn der Bieter die Veröffentlichung nicht in der in § 14 Abs. 3 Satz 1 vorgeschriebenen Form vornimmt.
 
@@ -290,9 +274,9 @@ Ist bei einem Angebot, das auf den Erwerb nur eines bestimmten Anteils oder eine
 
 (2) Ein Befreiungsantrag nach Absatz 1 kann gestellt werden, wenn der Bieter, die mit ihm gemeinsam handelnden Personen oder deren Tochterunternehmen
 
-1.
+1. die betreffenden Wertpapiere halten oder zu halten beabsichtigen, um bestehende oder erwartete Unterschiede zwischen dem Erwerbspreis und dem Veräußerungspreis kurzfristig zu nutzen und
 
-2.
+2. darlegen, dass mit dem Erwerb der Wertpapiere, soweit es sich um stimmberechtigte Aktien handelt, nicht beabsichtigt ist, auf die Geschäftsführung der Gesellschaft Einfluss zu nehmen.
 
 (3) Stimmrechte aus Aktien, die auf Grund einer Befreiung nach Absatz 1 unberücksichtigt bleiben, können nicht ausgeübt werden, wenn im Falle ihrer Berücksichtigung ein Angebot als Übernahmeangebot abzugeben wäre oder eine Verpflichtung nach § 35 Abs. 1 Satz 1 und Abs. 2 Satz 1 bestünde.
 
@@ -300,15 +284,15 @@ Ist bei einem Angebot, das auf den Erwerb nur eines bestimmten Anteils oder eine
 
 ### § 21 — Änderung des Angebots
 
-(1) Der Bieter kann bis zu einem Arbeitstag vor Ablauf der Annahmefrist Für die Wahrung der Frist nach Satz 1 ist auf die Veröffentlichung der Änderung nach Absatz 2 abzustellen.
+(1) Der Bieter kann bis zu einem Arbeitstag vor Ablauf der Annahmefrist
 
-1.
+1. die Gegenleistung erhöhen,
 
-2.
+2. wahlweise eine andere Gegenleistung anbieten,
 
-3.
+3. den Mindestanteil oder die Mindestzahl der Wertpapiere oder den Mindestanteil der Stimmrechte, von dessen Erwerb der Bieter die Wirksamkeit seines Angebots abhängig gemacht hat, verringern oder
 
-4.
+4. auf Bedingungen verzichten.
 
 (2) Der Bieter hat die Änderung des Angebots unter Hinweis auf das Rücktrittsrecht nach Absatz 4 unverzüglich nach Maßgabe des § 14 Absatz 3 Satz 1 zu veröffentlichen. Der Bieter hat der Bundesanstalt die Veröffentlichung nach § 14 Absatz 3 Satz 1 Nummer 2 unverzüglich unter Übermittlung der veröffentlichten Änderung des Angebots mitzuteilen. § 14 Absatz 4 gilt entsprechend.
 
@@ -330,15 +314,15 @@ Ist bei einem Angebot, das auf den Erwerb nur eines bestimmten Anteils oder eine
 
 ### § 23 — Veröffentlichungspflichten des Bieters nach Abgabe des Angebots
 
-(1) Der Bieter ist verpflichtet, die Anzahl sämtlicher ihm, den mit ihm gemeinsam handelnden Personen und deren Tochterunternehmen zustehenden Wertpapiere der Zielgesellschaft einschließlich der Höhe der jeweiligen Anteile und der ihm zustehenden und nach § 30 zuzurechnenden Stimmrechtsanteile und die Höhe der nach den §§ 38 und 39 des Wertpapierhandelsgesetzes mitzuteilenden Stimmrechtsanteile sowie die sich aus den ihm zugegangenen Annahmeerklärungen ergebende Anzahl der Wertpapiere, die Gegenstand des Angebots sind, einschließlich der Höhe der Wertpapier- und Stimmrechtsanteile gemäß § 14 Abs. 3 Satz 1 zu veröffentlichen und der Bundesanstalt mitzuteilen. § 14 Abs. 3 Satz 2 und § 31 Abs. 6 gelten entsprechend.
+(1) Der Bieter ist verpflichtet, die Anzahl sämtlicher ihm, den mit ihm gemeinsam handelnden Personen und deren Tochterunternehmen zustehenden Wertpapiere der Zielgesellschaft einschließlich der Höhe der jeweiligen Anteile und der ihm zustehenden und nach § 30 zuzurechnenden Stimmrechtsanteile und die Höhe der nach den §§ 38 und 39 des Wertpapierhandelsgesetzes mitzuteilenden Stimmrechtsanteile sowie die sich aus den ihm zugegangenen Annahmeerklärungen ergebende Anzahl der Wertpapiere, die Gegenstand des Angebots sind, einschließlich der Höhe der Wertpapier- und Stimmrechtsanteile
 
-1.
+1. nach Veröffentlichung der Angebotsunterlage wöchentlich sowie in der letzten Woche vor Ablauf der Annahmefrist täglich,
 
-2.
+2. unverzüglich nach Ablauf der Annahmefrist,
 
-3.
+3. unverzüglich nach Ablauf der weiteren Annahmefrist und
 
-4.
+4. unverzüglich nach Erreichen der für einen Ausschluss nach § 39a Abs. 1 und 2 erforderlichen Beteiligungshöhe
 
 (2) Erwerben bei Übernahmeangeboten, bei denen der Bieter die Kontrolle über die Zielgesellschaft erlangt hat, und bei Pflichtangeboten der Bieter, mit ihm gemeinsam handelnde Personen oder deren Tochterunternehmen nach der Veröffentlichung der Angebotsunterlage und vor Ablauf eines Jahres nach der Veröffentlichung gemäß Absatz 1 Nr. 2 außerhalb des Angebotsverfahrens Aktien der Zielgesellschaft, so hat der Bieter die Höhe der erworbenen Aktien- und Stimmrechtsanteile unter Angabe der Art und Höhe der für jeden Anteil gewährten Gegenleistung unverzüglich gemäß § 14 Abs. 3 Satz 1 zu veröffentlichen und der Bundesanstalt mitzuteilen. § 14 Absatz 3 Satz 2 und § 31 Absatz 6 gelten entsprechend.
 
@@ -354,19 +338,19 @@ Hat der Bieter das Angebot unter der Bedingung eines Beschlusses seiner Gesellsc
 
 (1) Ist ein Angebot nach § 15 Absatz 1 oder 2 untersagt worden, ist ein weiteres Angebot an die Aktionäre der Zielgesellschaft sowie die Veröffentlichung einer Entscheidung zur Abgabe eines solchen Angebots gemäß § 10 Absatz 3 Satz 1 vor Ablauf eines Jahres durch folgende Personen unzulässig:
 
-1.
+1. den Bieter (des untersagten Angebots),
 
-2.
+2. eine zum Zeitpunkt der Untersagung mit dem Bieter gemeinsam handelnde Person oder
 
-3.
+3. eine Person, die zum Zeitpunkt der Veröffentlichung nach § 10 Absatz 3 Satz 1 gemeinsam mit dem Bieter oder einer Person nach Nummer 2 gemeinsam handelt.
 
 (2) Hat der Bieter ein Angebot von dem Erwerb eines Mindestanteils der Wertpapiere abhängig gemacht und scheitert dieses Angebot, weil dieser Mindestanteil nach Ablauf der Annahmefrist nicht erreicht wurde, ist ein weiteres Angebot an die Aktionäre der Zielgesellschaft sowie die Veröffentlichung einer Entscheidung zur Abgabe eines solchen Angebots gemäß § 10 Absatz 3 Satz 1 vor Ablauf eines Jahres durch folgende Personen unzulässig:
 
-1.
+1. den Bieter (des gescheiterten Angebots),
 
-2.
+2. eine Person, die zwischen der Veröffentlichung des gescheiterten Angebots nach § 10 Absatz 3 Satz 1 und dem Ablauf der Annahmefrist mit dem Bieter gemeinsam handelte, oder
 
-3.
+3. eine Person, die zum Zeitpunkt der Veröffentlichung nach § 10 Absatz 3 Satz 1 gemeinsam mit dem Bieter oder einer Person nach Nummer 2 gemeinsam handelt.
 
 (3) Die Jahresfrist nach Absatz 1 beginnt mit dem Tag der Bekanntgabe des Untersagungsbescheides. Die Jahresfrist nach Absatz 2 beginnt mit dem Tag nach Ablauf der Annahmefrist des gescheiterten Angebots.
 
@@ -378,13 +362,13 @@ Hat der Bieter das Angebot unter der Bedingung eines Beschlusses seiner Gesellsc
 
 (1) Der Vorstand und der Aufsichtsrat der Zielgesellschaft haben eine begründete Stellungnahme zu dem Angebot sowie zu jeder seiner Änderungen abzugeben. Die Stellungnahme muss insbesondere eingehen auf
 
-1.
+1. die Art und Höhe der angebotenen Gegenleistung,
 
-2.
+2. die voraussichtlichen Folgen eines erfolgreichen Angebots für die Zielgesellschaft, die Arbeitnehmer und ihre Vertretungen, die Beschäftigungsbedingungen und die Standorte der Zielgesellschaft,
 
-3.
+3. die vom Bieter mit dem Angebot verfolgten Ziele,
 
-4.
+4. die Absicht der Mitglieder des Vorstands und des Aufsichtsrats, soweit sie Inhaber von Wertpapieren der Zielgesellschaft sind, das Angebot anzunehmen.
 
 (2) Übermitteln der zuständige Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar die Arbeitnehmer der Zielgesellschaft dem Vorstand eine Stellungnahme zu dem Angebot, hat der Vorstand unbeschadet seiner Verpflichtung nach Absatz 3 Satz 1 diese seiner Stellungnahme beizufügen.
 
@@ -404,63 +388,59 @@ Um Missständen bei der Werbung im Zusammenhang mit Angeboten zum Erwerb von Wer
 
 ### § 30 — Zurechnung von Stimmrechten; Verordnungsermächtigung
 
-(1) Stimmrechten des Bieters stehen Stimmrechte aus Aktien der Zielgesellschaft gleich, Für die Zurechnung nach Satz 1 Nummer 2 bis 8 stehen dem Bieter Tochterunternehmen des Bieters gleich. Stimmrechte des Tochterunternehmens werden dem Bieter in voller Höhe zugerechnet.
+(1) Stimmrechten des Bieters stehen Stimmrechte aus Aktien der Zielgesellschaft gleich,
 
-1.
+1. die einem Tochterunternehmen des Bieters gehören,
 
-2.
+2. die einem Dritten gehören und von ihm für Rechnung des Bieters gehalten werden,
 
-3.
+3. die der Bieter einem Dritten als Sicherheit übertragen hat, es sei denn, der Dritte ist zur Ausübung der Stimmrechte aus diesen Aktien befugt und bekundet die Absicht, die Stimmrechte unabhängig von den Weisungen des Bieters auszuüben,
 
-4.
+4. an denen zugunsten des Bieters ein Nießbrauch bestellt ist,
 
-5.
+5. die der Bieter durch eine Willenserklärung erwerben kann,
 
-6.
+6. die dem Bieter anvertraut sind oder aus denen er die Stimmrechte als Bevollmächtigter ausüben kann, sofern er die Stimmrechte aus diesen Aktien nach eigenem Ermessen ausüben kann, wenn keine besonderen Weisungen des Aktionärs vorliegen,
 
-7.
+7. aus denen der Bieter die Stimmrechte auf Grund einer Vereinbarung, die eine zeitweilige Übertragung der Stimmrechte ohne die damit verbundenen Aktien gegen Gegenleistung vorsieht, ausüben kann,
 
-8.
+8. die bei dem Bieter als Sicherheit verwahrt werden, sofern dieser die Stimmrechte hält und die Absicht bekundet, sie auszuüben.
 
 (2) Dem Bieter werden auch Stimmrechte eines Dritten aus Aktien der Zielgesellschaft in voller Höhe zugerechnet, mit dem der Bieter oder sein Tochterunternehmen sein Verhalten in Bezug auf die Zielgesellschaft auf Grund einer Vereinbarung oder in sonstiger Weise abstimmt; ausgenommen sind Vereinbarungen in Einzelfällen. Ein abgestimmtes Verhalten setzt voraus, dass der Bieter oder sein Tochterunternehmen und der Dritte sich über die Ausübung von Stimmrechten verständigen oder mit dem Ziel einer dauerhaften und erheblichen Änderung der unternehmerischen Ausrichtung der Zielgesellschaft in sonstiger Weise zusammenwirken. Für die Berechnung des Stimmrechtsanteils des Dritten gilt Absatz 1 entsprechend.
 
 (3) Für die Zurechnung nach dieser Vorschrift gilt ein Wertpapierdienstleistungsunternehmen hinsichtlich der Beteiligungen, die von ihm im Rahmen einer Wertpapierdienstleistung nach § 2 Absatz 8 Satz 1 Nummer 7 des Wertpapierhandelsgesetzes verwaltet werden, unter den folgenden Voraussetzungen nicht als Tochterunternehmen im Sinne des § 2 Absatz 6:
 
-1.
+1. das Wertpapierdienstleistungsunternehmen übt die Stimmrechte, die mit den betreffenden Aktien verbunden sind, unabhängig vom Bieter aus,
 
-2.
+2. das Wertpapierdienstleistungsunternehmen a)darf die Stimmrechte nur aufgrund von in schriftlicher Form oder über elektronische Hilfsmittel erteilten Weisungen ausüben oderb)stellt durch geeignete Vorkehrungen sicher, dass die Finanzportfolioverwaltung unabhängig von anderen Dienstleistungen und unter Bedingungen erfolgt, die gleichwertig sind denen der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32) in der jeweils geltenden Fassung, darf die Stimmrechte nur aufgrund von in schriftlicher Form oder über elektronische Hilfsmittel erteilten Weisungen ausüben oder stellt durch geeignete Vorkehrungen sicher, dass die Finanzportfolioverwaltung unabhängig von anderen Dienstleistungen und unter Bedingungen erfolgt, die gleichwertig sind denen der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32) in der jeweils geltenden Fassung,
 
-a)
+3. der Bieter teilt der Bundesanstalt den Namen des Wertpapierdienstleistungsunternehmens und die für dessen Überwachung zuständige Behörde oder das Fehlen einer solchen Behörde mit und
 
-b)
-
-3.
-
-4.
+4. der Bieter erklärt gegenüber der Bundesanstalt, dass die Voraussetzungen der Nummer 1 erfüllt sind.
 
 (4) Für die Zurechnung nach dieser Vorschrift gelten Kapitalverwaltungsgesellschaften im Sinne des § 17 Absatz 1 des Kapitalanlagegesetzbuchs und EU-Verwaltungsgesellschaften im Sinne des § 1 Absatz 17 des Kapitalanlagegesetzbuchs hinsichtlich der Beteiligungen, die zu den von ihnen verwalteten Investmentvermögen gehören, unter den folgenden Voraussetzungen nicht als Tochterunternehmen im Sinne des § 2 Absatz 6:
 
-1.
+1. die Verwaltungsgesellschaft übt ihre Stimmrechte unabhängig vom Bieter aus,
 
-2.
+2. die zum verwalteten Investmentvermögen gehörenden Beteiligungen im Sinne der §§ 29 und 30 werden nach Maßgabe der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32), die zuletzt durch die Richtlinie 2014/91/EU (ABl. L 257 vom 28.8.2014, S. 186) geändert worden ist, verwaltet,
 
-3.
+3. das Mutterunternehmen teilt der Bundesanstalt den Namen dieser Verwaltungsgesellschaft und die für deren Überwachung zuständige Behörde oder das Fehlen einer solchen mit und
 
-4.
+4. das Mutterunternehmen erklärt gegenüber der Bundesanstalt, dass die Voraussetzungen der Nummer 1 erfüllt sind.
 
 (5) Ein Unternehmen mit Sitz in einem Drittstaat, das nach § 32 Absatz 1 Satz 1 in Verbindung mit § 1 Absatz 1a Satz 2 Nummer 3 des Kreditwesengesetzes einer Zulassung für die Finanzportfolioverwaltung oder einer Erlaubnis nach § 20 oder § 113 des Kapitalanlagegesetzbuchs bedürfte, wenn es seinen Sitz oder seine Hauptverwaltung im Inland hätte, gilt nicht als Tochterunternehmen im Sinne dieses Abschnitts, wenn
 
-1.
+1. das Unternehmen bezüglich seiner Unabhängigkeit Anforderungen genügt, die denen nach Absatz 3 oder Absatz 4, auch in Verbindung mit einer Rechtsverordnung nach Absatz 7, jeweils gleichwertig sind,
 
-2.
+2. der Bieter der Bundesanstalt den Namen dieses Unternehmens und die für dessen Überwachung zuständige Behörde oder das Fehlen einer solchen Behörde mitteilt und
 
-3.
+3. der Bieter gegenüber der Bundesanstalt erklärt, dass die Voraussetzungen der Nummer 1 erfüllt sind.
 
 (6) Abweichend von den Absätzen 3 bis 5 gelten Wertpapierdienstleistungsunternehmen und Verwaltungsgesellschaften jedoch dann als Tochterunternehmen im Sinne des § 2 Absatz 6, wenn
 
-1.
+1. der Bieter oder ein anderes Tochterunternehmen des Bieters seinerseits Anteile an der von dem Unternehmen verwalteten Beteiligung hält und
 
-2.
+2. das Unternehmen die Stimmrechte, die mit diesen Beteiligungen verbunden sind, nicht nach freiem Ermessen, sondern nur auf Grund unmittelbarer oder mittelbarer Weisungen ausüben kann, die ihm vom Bieter oder von einem anderen Tochterunternehmen des Bieters erteilt werden.
 
 (7) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über die Umstände, unter denen in den Fällen der Absätze 3 bis 6 eine Unabhängigkeit des Unternehmens vom Bieter gegeben ist.
 
@@ -498,13 +478,13 @@ Ein Übernahmeangebot, das sich nur auf einen Teil der Aktien der Zielgesellscha
 
 (2) Nach Veröffentlichung der Entscheidung zur Abgabe eines Angebots bis zur Veröffentlichung des Ergebnisses nach § 23 Abs. 1 Satz 1 Nr. 2 dürfen Vorstand und Aufsichtsrat der Zielgesellschaft keine Handlungen vornehmen, durch die der Erfolg des Angebots verhindert werden könnte. Dies gilt nicht für
 
-1.
+1. Handlungen, zu denen die Hauptversammlung den Vorstand oder Aufsichtsrat nach Veröffentlichung der Entscheidung zur Abgabe eines Angebots ermächtigt hat,
 
-2.
+2. Handlungen innerhalb des normalen Geschäftsbetriebs,
 
-3.
+3. Handlungen außerhalb des normalen Geschäftsbetriebs, sofern sie der Umsetzung von Entscheidungen dienen, die vor der Veröffentlichung der Entscheidung zur Abgabe eines Angebots gefasst und teilweise umgesetzt wurden, und
 
-4.
+4. die Suche nach einem konkurrierenden Angebot.
 
 (3) Der Vorstand der Zielgesellschaft hat die Bundesanstalt sowie die Aufsichtsstellen der Staaten des Europäischen Wirtschaftsraums, in denen Wertpapiere der Gesellschaft zum Handel an einem organisierten Markt zugelassen sind, unverzüglich davon zu unterrichten, dass die Zielgesellschaft eine Satzungsbestimmung nach Absatz 1 Satz 1 beschlossen hat.
 
@@ -512,13 +492,13 @@ Ein Übernahmeangebot, das sich nur auf einen Teil der Aktien der Zielgesellscha
 
 (1) Die Satzung einer Zielgesellschaft kann vorsehen, dass Absatz 2 Anwendung findet.
 
-(2) Nach Veröffentlichung der Angebotsunterlage nach § 14 Abs. 3 Satz 1 gelten die folgenden Bestimmungen: Satz 1 gilt nicht für Vorzugsaktien ohne Stimmrecht sowie für vor dem 22. April 2004 zwischen der Zielgesellschaft und Aktionären oder zwischen Aktionären vereinbarten Übertragungsbeschränkungen und Stimmbindungen.
+(2) Nach Veröffentlichung der Angebotsunterlage nach § 14 Abs. 3 Satz 1 gelten die folgenden Bestimmungen:
 
-1.
+1. während der Annahmefrist eines Übernahmeangebots gelten satzungsmäßige, zwischen der Zielgesellschaft und Aktionären oder zwischen Aktionären vereinbarte Übertragungsbeschränkungen von Aktien nicht gegenüber dem Bieter,
 
-2.
+2. während der Annahmefrist eines Übernahmeangebots entfalten in einer Hauptversammlung, die über Abwehrmaßnahmen beschließt, Stimmbindungsverträge keine Wirkung und Mehrstimmrechtsaktien berechtigen zu nur einer Stimme und
 
-3.
+3. in der ersten Hauptversammlung, die auf Verlangen des Bieters einberufen wird, um die Satzung zu ändern oder über die Besetzung der Leitungsorgane der Gesellschaft zu entscheiden, entfalten, sofern der Bieter nach dem Angebot über mindestens 75 Prozent der Stimmrechte der Zielgesellschaft verfügt, Stimmbindungsverträge sowie Entsendungsrechte keine Wirkung und Mehrstimmrechtsaktien berechtigen zu nur einer Stimme.
 
 (3) Der Vorstand der Zielgesellschaft hat die Bundesanstalt sowie die Aufsichtsstellen der Staaten des Europäischen Wirtschaftsraums, in denen Wertpapiere der Gesellschaft zum Handel an einem organisierten Markt zugelassen sind, unverzüglich davon zu unterrichten, dass die Zielgesellschaft eine Satzungsbestimmung nach Absatz 1 beschlossen hat.
 
@@ -556,11 +536,11 @@ Für Übernahmeangebote gelten die Vorschriften des Abschnitts 3, soweit sich au
 
 Die Bundesanstalt lässt auf Antrag zu, dass Stimmrechte aus Aktien der Zielgesellschaft bei der Berechnung des Stimmrechtsanteils unberücksichtigt bleiben, wenn die Aktien erlangt wurden durch
 
-1.
+1. Erbgang, Erbauseinandersetzung oder unentgeltliche Zuwendung unter Ehegatten, Lebenspartnern oder Verwandten in gerader Linie und bis zum dritten Grade oder durch Vermögensauseinandersetzung aus Anlass der Auflösung einer Ehe oder Lebenspartnerschaft,
 
-2.
+2. Rechtsformwechsel oder
 
-3.
+3. Umstrukturierungen innerhalb eines Konzerns.
 
 ### § 37 — Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
 
@@ -572,11 +552,11 @@ Die Bundesanstalt lässt auf Antrag zu, dass Stimmrechte aus Aktien der Zielgese
 
 Der Bieter ist den Aktionären der Zielgesellschaft für die Dauer des Verstoßes zur Zahlung von Zinsen auf die Gegenleistung in Höhe von fünf Prozentpunkten auf das Jahr über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs verpflichtet, wenn
 
-1.
+1. er entgegen § 35 Abs. 1 Satz 1 keine Veröffentlichung gemäß § 10 Abs. 3 Satz 1 vornimmt,
 
-2.
+2. er entgegen § 35 Abs. 2 Satz 1 kein Angebot gemäß § 14 Abs. 3 Satz 1 abgibt oder
 
-3.
+3. ihm ein Angebot im Sinne des § 35 Abs. 2 Satz 1 nach § 15 Abs. 1 Nr. 1, 2 oder 3 untersagt worden ist.
 
 ### § 39 — Anwendung der Vorschriften des Abschnitts 3 und 4
 
@@ -684,11 +664,11 @@ Die Beschwerde hat aufschiebende Wirkung, soweit durch die angefochtene Verfügu
 
 (3) Auf Antrag kann das Beschwerdegericht die aufschiebende Wirkung von Widerspruch oder Beschwerde ganz oder teilweise anordnen oder wiederherstellen, wenn
 
-1.
+1. die Voraussetzungen für die Anordnung nach Absatz 1 nicht vorgelegen haben oder nicht mehr vorliegen,
 
-2.
+2. ernstliche Zweifel an der Rechtmäßigkeit der angefochtenen Verfügung bestehen oder
 
-3.
+3. die Vollziehung für den Betroffenen eine unbillige, nicht durch überwiegende öffentliche Interessen gebotene Härte zur Folge hätte.
 
 (4) Der Antrag nach Absatz 3 ist schon vor Einreichung der Beschwerde zulässig. Die Tatsachen, auf die der Antrag gestützt wird, sind vom Antragsteller glaubhaft zu machen. Ist die Verfügung im Zeitpunkt der Entscheidung schon vollzogen, kann das Gericht auch die Aufhebung der Vollziehung anordnen. Die Anordnung der aufschiebenden Wirkung kann von der Leistung einer Sicherheit oder von anderen Auflagen abhängig gemacht werden. Sie kann auch befristet werden.
 
@@ -704,9 +684,9 @@ Die Beschwerde hat aufschiebende Wirkung, soweit durch die angefochtene Verfügu
 
 (4) Die Beschwerdebegründung muss enthalten
 
-1.
+1. die Erklärung, inwieweit die Verfügung angefochten und ihre Abänderung oder Aufhebung beantragt wird, und
 
-2.
+2. die Angabe der Tatsachen und Beweismittel, auf die sich die Beschwerde stützt.
 
 ### § 52 — Beteiligte am Beschwerdeverfahren
 
@@ -755,9 +735,9 @@ Zivilprozessordnung
 
 Im Verfahren vor dem Beschwerdegericht gelten, soweit nichts anderes bestimmt ist, entsprechend
 
-1.
+1. die Vorschriften der §§ 169 bis 197 des Gerichtsverfassungsgesetzes über Öffentlichkeit, Sitzungspolizei, Gerichtssprache, Beratung und Abstimmung und
 
-2.
+2. die Vorschriften der Zivilprozessordnung über Ausschließung und Ablehnung eines Richters, über Prozessbevollmächtigte und Beistände, über die Zustellung von Amts wegen, über Ladungen, Termine und Fristen, über die Anordnung des persönlichen Erscheinens der Parteien, über die Verbindung mehrerer Prozesse, über die Erledigung des Zeugen- und Sachverständigenbeweises sowie über die sonstigen Arten des Beweisverfahrens, über die Wiedereinsetzung in den vorigen Stand gegen die Versäumung einer Frist.
 
 ## Abschnitt 8: Sanktionen
 
@@ -769,65 +749,53 @@ Rechte aus Aktien, die dem Bieter, mit ihm gemeinsam handelnden Personen oder de
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
-1.
+1. entgegena)§ 10 Abs. 1 Satz 1, § 14 Abs. 2 Satz 1 oder § 35 Abs.1 Satz 1 oder Abs. 2 Satz 1,b)§ 21 Abs. 2 Satz 1, § 23 Abs. 1 Satz 1 oder Abs. 2 Satz 1 oder § 27 Abs. 3 Satz 1 oderc)§ 1 Abs. 5 Satz 2 in Verbindung mit einer Rechtsverordnung nach § 1 Abs. 5 Satz 3 § 10 Abs. 1 Satz 1, § 14 Abs. 2 Satz 1 oder § 35 Abs.1 Satz 1 oder Abs. 2 Satz 1, § 21 Abs. 2 Satz 1, § 23 Abs. 1 Satz 1 oder Abs. 2 Satz 1 oder § 27 Abs. 3 Satz 1 oder § 1 Abs. 5 Satz 2 in Verbindung mit einer Rechtsverordnung nach § 1 Abs. 5 Satz 3 eine Veröffentlichung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
 
-a)
+2. entgegena)§ 10 Abs. 2 Satz 1, auch in Verbindung mit § 35 Abs.1 Satz 4, § 14 Abs. 1 Satz 1 oder § 35 Abs. 2 Satz 1,b)§ 10 Abs. 5, auch in Verbindung mit § 35 Abs. 1 Satz 4, oder § 14 Abs. 4, auch in Verbindung mit § 21 Abs. 2 Satz 2 oder § 35 Abs. 2 Satz 2, oderc)§ 27 Abs. 3 Satz 2 § 10 Abs. 2 Satz 1, auch in Verbindung mit § 35 Abs.1 Satz 4, § 14 Abs. 1 Satz 1 oder § 35 Abs. 2 Satz 1, § 10 Abs. 5, auch in Verbindung mit § 35 Abs. 1 Satz 4, oder § 14 Abs. 4, auch in Verbindung mit § 21 Abs. 2 Satz 2 oder § 35 Abs. 2 Satz 2, oder § 27 Abs. 3 Satz 2 eine Mitteilung, Unterrichtung oder Übermittlung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
 
-b)
+3. entgegen § 10 Abs. 3 Satz 3, auch in Verbindung mit § 35 Abs. 1 Satz 4, oder § 14 Abs. 2 Satz 2, auch in Verbindung mit § 35 Abs. 2 Satz 2, eine Veröffentlichung vornimmt oder eine Angebotsunterlage bekannt gibt,
 
-c)
+4. entgegen § 10 Abs. 4 Satz 1, auch in Verbindung mit § 35 Abs. 1 Satz 4, eine Veröffentlichung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übersendet,
 
-2.
+5. entgegen § 14 Abs. 3 Satz 2, auch in Verbindung mit § 14 Absatz 3 Satz 3, § 21 Abs. 2 Satz 2, § 23 Absatz 1 Satz 2 oder Absatz 2 Satz 2, § 33c Absatz 3 Satz 5 oder § 35 Abs. 2 Satz 2, oder entgegen § 27 Abs. 3 Satz 3 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht,
 
-a)
+6. entgegen § 15 Abs. 3 eine Veröffentlichung vornimmt,
 
-b)
+7. entgegen § 26 Absatz 1 oder 2 ein Angebot abgibt,
 
-c)
+7a. entgegen § 26 Absatz 1 oder 2 seine Absicht, ein Angebot abzugeben, gemäß § 10 Absatz 3 Satz 1 veröffentlicht,
 
-3.
+8. entgegen § 33 Abs. 1 Satz 1 oder § 33a Abs. 2 Satz 1 eine dort genannte Handlung vornimmt,
 
-4.
+9. entgegen § 33a Abs. 3, § 33b Abs. 3 oder § 33c Abs. 3 Satz 3 eine Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt oder
 
-5.
-
-6.
-
-7.
-
-7a.
-
-8.
-
-9.
-
-10.
+10. entgegen § 33c Abs. 3 Satz 4 eine Veröffentlichung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. einer vollziehbaren Anordnung nach § 28 Abs. 1 oder § 40 Abs. 1 Satz 1 zuwiderhandelt oder
 
-2.
+2. entgegen § 40 Abs. 2 Satz 1 oder 2 ein Betreten nicht gestattet oder nicht duldet.
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 Buchstabe a, Nummer 3, 6 bis 8 mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe a und Nummer 4 mit einer Geldbuße bis zu zweieinhalb Millionen Euro und in den übrigen Fällen mit einer Geldbuße bis zu einer Million Euro geahndet werden.
 
-(4) Gegenüber einer juristischen Person oder Personenvereinigung kann über Absatz 3 hinaus eine höhere Geldbuße verhängt werden; diese darf nicht überschreiten.
+(4) Gegenüber einer juristischen Person oder Personenvereinigung kann über Absatz 3 hinaus eine höhere Geldbuße verhängt werden; diese darf
 
-1.
+1. in den Fällen des Absatzes 1 Nummer 1 Buchstabe a, Nummer 3, 6 bis 8 den höheren der Beträge von zehn Millionen Euro und 5 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat,
 
-2.
+2. in den Fällen des Absatzes 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe a und Nummer 4 den höheren der Beträge von fünf Millionen Euro und 2 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorangegangenen Geschäftsjahr erzielt hat, und
 
-3.
+3. in den übrigen Fällen zwei Millionen Euro
 
 (5) Über die in den Absätzen 3 und 4 genannten Beträge hinaus kann die Ordnungswidrigkeit mit einer Geldbuße bis zum Zweifachen des aus dem Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
 
 (6) Gesamtumsatz im Sinne des Absatzes 4 ist
 
-1.
+1. im Falle von Kreditinstituten, Zahlungsinstituten, Wertpapierinstituten und Finanzdienstleistungsinstituten im Sinne des § 340 des Handelsgesetzbuchs der Gesamtbetrag, der sich aus dem auf das Institut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Nummer B1, B2, B3, B4 und B7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1; L 316 vom 23.11.1988, S. 51), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, ergibt, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
 
-2.
+2. im Falle von Versicherungsunternehmen der Gesamtbetrag, der sich aus dem auf das Versicherungsunternehmen anwendbaren nationalen Recht im Einklang mit Artikel 63 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluss und den konsolidierten Abschluss von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, ergibt, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
 
-3.
+3. im Übrigen der Betrag der Nettoumsatzerlöse nach Maßgabe des auf das Unternehmen anwendbaren nationalen Rechts im Einklang mit Artikel 2 Nummer 5 der Richtlinie 2013/34/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19; L 369 vom 24.12.2014, S. 79), die zuletzt durch die Richtlinie 2014/102/EU (ABl. L 334 vom 21.11.2014, S. 86) geändert worden ist.
 
 (7) Handelt es sich bei der juristischen Person oder Personenvereinigung nach Absatz 4 um ein Mutterunternehmen oder um eine Tochtergesellschaft, so ist anstelle des Gesamtumsatzes der juristischen Person oder Personenvereinigung der jeweilige Gesamtbetrag in dem Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Absatz 6 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der den in Absatz 6 Nummer 1 bis 3 vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 

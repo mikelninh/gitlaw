@@ -2,6 +2,7 @@
 
 **Abkürzung:** ÖDAPrV
 **Ausfertigungsdatum:** 2023-12-12
+**Stand:** Geändert durch Art. 1 V v. 27.3.2026 I Nr. 105
 
 ---
 
@@ -159,9 +160,9 @@ Die Mitglieder des Prüfungsausschusses, die Mitglieder der Prüferdelegation un
 
 (1) Dem Antrag auf Zulassung zur Abschlussprüfung sind die folgenden Unterlagen beizufügen:
 
-1. in den Fällen, in denen die Ausbildungsordnung eine Zwischenprüfung und eine Abschlussprüfung vorsieht: a)die Bescheinigung über die Teilnahme an der Zwischenprüfung undb)den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und von dem oder der Auszubildenden unterzeichnet sein muss, die Bescheinigung über die Teilnahme an der Zwischenprüfung und den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und von dem oder der Auszubildenden unterzeichnet sein muss,
+1. in den Fällen, in denen die Ausbildungsordnung eine Zwischenprüfung und eine Abschlussprüfung vorsieht: a)die Bescheinigung über die Teilnahme an der Zwischenprüfung undb)den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin schriftlich oder elektronisch vorgelegt werden muss, die Bescheinigung über die Teilnahme an der Zwischenprüfung und den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin schriftlich oder elektronisch vorgelegt werden muss,
 
-2. in den Fällen, in denen die Abschlussprüfung aus zwei Teilen besteht, a)für Teil 1: den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und von dem oder der Auszubildenden unterzeichnet sein muss, undb)für Teil 2: aa)entweder die Bescheinigung über die Ablegung von Teil 1 der Abschlussprüfung oder die Bescheinigung darüber, von der Ablegung von Teil 1 der Abschlussprüfung befreit zu sein aufgrund einer Regelung in der Ausbildungsordnung, die aufgrund des § 5 Absatz 2 Satz 1 Nummer 2b des Berufsbildungsgesetzes getroffen worden ist, undbb)den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und von der oder dem Auszubildenden unterzeichnet sein muss. für Teil 1: den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und von dem oder der Auszubildenden unterzeichnet sein muss, und für Teil 2: aa)entweder die Bescheinigung über die Ablegung von Teil 1 der Abschlussprüfung oder die Bescheinigung darüber, von der Ablegung von Teil 1 der Abschlussprüfung befreit zu sein aufgrund einer Regelung in der Ausbildungsordnung, die aufgrund des § 5 Absatz 2 Satz 1 Nummer 2b des Berufsbildungsgesetzes getroffen worden ist, undbb)den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und von der oder dem Auszubildenden unterzeichnet sein muss. entweder die Bescheinigung über die Ablegung von Teil 1 der Abschlussprüfung oder die Bescheinigung darüber, von der Ablegung von Teil 1 der Abschlussprüfung befreit zu sein aufgrund einer Regelung in der Ausbildungsordnung, die aufgrund des § 5 Absatz 2 Satz 1 Nummer 2b des Berufsbildungsgesetzes getroffen worden ist, und den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und von der oder dem Auszubildenden unterzeichnet sein muss.
+2. in den Fällen, in denen die Abschlussprüfung aus zwei Teilen besteht, a)für Teil 1: den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin schriftlich oder elektronisch vorgelegt werden muss, undb)für Teil 2: aa)entweder die Bescheinigung über die Ablegung von Teil 1 der Abschlussprüfung oder die Bescheinigung darüber, von der Ablegung von Teil 1 der Abschlussprüfung befreit zu sein aufgrund einer Regelung in der Ausbildungsordnung, die aufgrund des § 5 Absatz 2 Satz 1 Nummer 3 des Berufsbildungsgesetzes getroffen worden ist, undbb)den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin schriftlich oder elektronisch vorgelegt werden muss. für Teil 1: den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin schriftlich oder elektronisch vorgelegt werden muss, und für Teil 2: aa)entweder die Bescheinigung über die Ablegung von Teil 1 der Abschlussprüfung oder die Bescheinigung darüber, von der Ablegung von Teil 1 der Abschlussprüfung befreit zu sein aufgrund einer Regelung in der Ausbildungsordnung, die aufgrund des § 5 Absatz 2 Satz 1 Nummer 3 des Berufsbildungsgesetzes getroffen worden ist, undbb)den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin schriftlich oder elektronisch vorgelegt werden muss. entweder die Bescheinigung über die Ablegung von Teil 1 der Abschlussprüfung oder die Bescheinigung darüber, von der Ablegung von Teil 1 der Abschlussprüfung befreit zu sein aufgrund einer Regelung in der Ausbildungsordnung, die aufgrund des § 5 Absatz 2 Satz 1 Nummer 3 des Berufsbildungsgesetzes getroffen worden ist, und den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin schriftlich oder elektronisch vorgelegt werden muss.
 
 (2) Wer einen Antrag stellt, dass er vor Ablauf der Ausbildungsdauer zur Abschlussprüfung zugelassen wird (§ 45 Absatz 1 des Berufsbildungsgesetzes), hat dem Antrag zusätzlich die folgenden Unterlagen beizufügen:
 
@@ -181,7 +182,7 @@ Die Mitglieder des Prüfungsausschusses, die Mitglieder der Prüferdelegation un
 
 1. die Bescheinigung a)über die Teilnahme an der Zwischenprüfung oderb)über die Ablegung von Teil 1 der Abschlussprüfung und über die Teilnahme an der Zwischenprüfung oder über die Ablegung von Teil 1 der Abschlussprüfung und
 
-2. den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und von der oder dem Auszubildenden unterzeichnet sein muss.
+2. den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin schriftlich oder elektronisch vorgelegt werden muss.
 
 (5) Wer mindestens das Eineinhalbfache der Zeit, die als Ausbildungsdauer vorgeschrieben ist, in dem Beruf tätig gewesen ist, in dem die Abschlussprüfung abgelegt werden soll (§ 45 Absatz 2 des Berufsbildungsgesetzes), hat dem Antrag die folgenden Unterlagen beizufügen:
 
@@ -217,7 +218,7 @@ Die Gliederung der Abschlussprüfung richtet sich nach der Ausbildungsordnung.
 
 ### § 16 — Leitung der Abschlussprüfung
 
-Die Abschlussprüfung wird unter der Leitung des Vorsitzes vom gesamten Prüfungsausschuss durchgeführt.
+Die Abschlussprüfung wird unter der Leitung des Vorsitzes vom gesamten Prüfungsausschuss durchgeführt. Dessen unbeschadet können die Abnahme und die abschließende Bewertung von einzelnen Prüfungsleistungen auf Prüferdelegationen, auf zwei Mitglieder des Prüfungsausschusses oder auf zwei Mitglieder einer Prüferdelegation übertragen werden.
 
 ### § 17 — Prüfungsaufgaben
 
@@ -499,7 +500,7 @@ Unmittelbar nach der Feststellung des Gesamtergebnisses der Abschlussprüfung is
 
 9. das Siegel der zuständigen Stelle.
 
-(3) Sieht die Ausbildungsordnung aufgrund des § 5 Absatz 2 Satz 1 Nummer 2a des Berufsbildungsgesetzes vor, dass bei einer Abschlussprüfung, die in zwei zeitlich auseinanderfallenden Teilen durchgeführt wird, bei nicht bestandener Abschlussprüfung in einem dreijährigen oder dreieinhalbjährigen Ausbildungsberuf, der auf einem zweijährigen Ausbildungsberuf aufbaut, der Abschluss des zweijährigen Ausbildungsberufs erworben wird, sofern im ersten Teil der Abschlussprüfung mindestens ausreichende Prüfungsleistungen erbracht worden sind, und hat ein Prüfling von dieser Regelung Gebrauch gemacht, so enthält das Prüfungszeugnis
+(3) Sieht die Ausbildungsordnung aufgrund des § 5 Absatz 2 Satz 1 Nummer 2 des Berufsbildungsgesetzes vor, dass bei einer Abschlussprüfung, die in zwei zeitlich auseinanderfallenden Teilen durchgeführt wird, bei nicht bestandener Abschlussprüfung in einem dreijährigen oder dreieinhalbjährigen Ausbildungsberuf, der auf einem zweijährigen Ausbildungsberuf aufbaut, der Abschluss des zweijährigen Ausbildungsberufs erworben wird, sofern im ersten Teil der Abschlussprüfung mindestens ausreichende Prüfungsleistungen erbracht worden sind, und hat ein Prüfling von dieser Regelung Gebrauch gemacht, so enthält das Prüfungszeugnis
 
 1. die Bezeichnung „Prüfungszeugnis nach § 37 Absatz 2 Satz 1 des Berufsbildungsgesetzes“,
 

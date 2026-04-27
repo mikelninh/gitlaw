@@ -9,23 +9,23 @@
 
 Dem Bundesamt für das Personalmanagement der Bundeswehr werden die Aufgaben und Befugnisse des Bundesamtes für Wehrverwaltung und der Wehrbereichsverwaltungen übertragen, die diese wahrnehmen nach
 
-1.
+1. dem Wehrpflichtgesetz,
 
-2.
+2. dem Soldatengesetz,
 
-3.
+3. der Zweiten Bundesmeldedatenübermittlungsverordnung,
 
-4.
+4. der KV-/PV-Pauschalbeitragsverordnung,
 
-5.
+5. der RV-Wehr- und Zivildienstpauschalbeitragsverordnung,
 
-6.
+6. der Unabkömmlichstellungsverordnung,
 
-7.
+7. der Verordnung über die Feststellung und Deckung des Arbeitskräftebedarfs nach dem Arbeitssicherstellungsgesetz,
 
-8.
+8. der Berufsförderungsverordnung und
 
-9.
+9. der Personalaktenverordnung Soldaten.
 
 ### § 2 — Karrierecenter der Bundeswehr
 

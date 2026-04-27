@@ -16,11 +16,11 @@ Auf Grund des § 368c Abs. 1 der Reichsversicherungsordnung in der Fassung des G
 
 (1) Für jeden Zulassungsbezirk führt die Kassenzahnärztliche Vereinigung neben dem Zahnarztregister die Registerakten.
 
-(2) Das Zahnarztregister erfaßt (3) Diese Verordnung gilt für medizinische Versorgungszentren und die dort und bei Vertragszahnärzten angestellten Zahnärzte entsprechend.
+(2) Das Zahnarztregister erfaßt
 
-a)
+a) die zugelassenen Zahnärzte,
 
-b)
+b) Zahnärzte, die die Voraussetzungen des § 3 erfüllen und ihre Eintragung nach § 4 beantragt haben.
 
 ### § 2
 
@@ -34,9 +34,9 @@ b)
 
 (2) Voraussetzungen für die Eintragung sind
 
-a)
+a) die Approbation als Zahnarzt,
 
-b)
+b) die Ableistung einer mindestens zweijährigen Vorbereitungszeit.
 
 (3) Die Vorbereitung muß eine mindestens sechsmonatige Tätigkeit als Assistent oder Vertreter eines oder mehrerer Kassenzahnärzte umfassen; eine Tätigkeit als Vertreter darf nur anerkannt werden, wenn der Zahnarzt eine vorausgegangene mindestens einjährige Tätigkeit in unselbständiger Stellung als Assistent eines Kassenzahnarztes oder in Einrichtungen nach Satz 2 nachweisen kann. Für die übrige Zeit kann die Vorbereitung durch Tätigkeiten in unselbständiger Stellung in Universitätszahnkliniken, Zahnstationen eines Krankenhauses oder des öffentlichen Gesundheitsdienstes oder der Bundeswehr oder in Zahnkliniken abgeleistet werden. Bis zu drei Monaten der Vorbereitung nach Satz 1 können durch eine Tätigkeit von gleicher Dauer in einer Universitätszahnklinik oder einer Zahnstation der Bundeswehr ersetzt werden. Tätigkeiten nach den Sätzen 1 bis 3 können nicht angerechnet werden, wenn sie in kürzeren Zeitabschnitten als drei Wochen oder bei gleichzeitiger Ausübung einer eigenen Praxis abgeleistet werden.
 
@@ -50,11 +50,11 @@ b)
 
 (2) Der Antrag muß die zur Eintragung erforderlichen Angaben enthalten. Die Angaben sind nachzuweisen, insbesondere sind beizufügen
 
-a)
+a) die Geburtsurkunde,
 
-b)
+b) die Urkunde über die Approbation als Zahnarzt,
 
-c)
+c) der Nachweis über die zahnärztliche Tätigkeit nach der Approbation.
 
 (3) An Stelle von Urschriften können ausnahmsweise amtlich beglaubigte Abschriften beigefügt werden.
 
@@ -80,13 +80,13 @@ c)
 
 Der Zahnarzt wird im Zahnarztregister gestrichen, wenn
 
-a)
+a) er es beantragt,
 
-b)
+b) er gestorben ist,
 
-c)
+c) die Voraussetzungen für seine Eintragung nach § 3 Abs. 2 Buchstabe a nicht oder nicht mehr gegeben sind,
 
-d)
+d) die Voraussetzungen nach § 3 Abs. 2 Buchstabe b auf Grund falscher Angaben des Zahnarztes irrtümlich als gegeben angenommen worden sind.
 
 ### § 8
 
@@ -129,19 +129,19 @@ Zulassungsbezirke
 
 (2) Der Bedarfsplan ist für den Bereich einer Kassenzahnärztlichen Vereinigung aufzustellen und der Entwicklung anzupassen. Für die Bereiche mehrerer Kassenzahnärztlicher Vereinigungen kann mit Zustimmung der beteiligten für die Sozialversicherung zuständigen obersten Landesbehörden auch ein gemeinschaftlicher Bedarfsplan aufgestellt werden, wenn besondere Verhältnisse dies geboten erscheinen lassen.
 
-(3) Der Bedarfsplan hat nach Maßgabe der Richtlinien des Gemeinsamen Bundesausschusses und unter Beachtung der Ziele und Erfordernisse der Raumordnung und Landesplanung auf der Grundlage einer regionalen Untergliederung des Planungsbereichs nach Absatz 2 Feststellungen zu enthalten insbesondere über Ist es aufgrund regionaler Besonderheiten für eine bedarfsgerechte Versorgung erforderlich, von den Richtlinien des Gemeinsamen Bundesausschusses abzuweichen, sind die Abweichungen zu kennzeichnen und die Besonderheiten darzustellen. Sieht das Landesrecht die Einrichtung eines gemeinsamen Landesgremiums nach § 90a des Fünften Buches Sozialgesetzbuch vor und sollen dessen Empfehlungen berücksichtigt werden, sind die sich daraus ergebenden Besonderheiten ebenfalls darzustellen.
+(3) Der Bedarfsplan hat nach Maßgabe der Richtlinien des Gemeinsamen Bundesausschusses und unter Beachtung der Ziele und Erfordernisse der Raumordnung und Landesplanung auf der Grundlage einer regionalen Untergliederung des Planungsbereichs nach Absatz 2 Feststellungen zu enthalten insbesondere über
 
--
+- die allgemeine zahnärztliche Versorgung,
 
--
+- die fachzahnärztliche Versorgung,
 
--
+- Einrichtungen der Krankenhausversorgung sowie der sonstigen zahnmedizinischen Versorgung, soweit sie Leistungen der vertragszahnärztlichen Versorgung erbringen und erbringen können,
 
--
+- Bevölkerungsdichte und -struktur,
 
--
+- Umfang und Art der Nachfrage nach vertragszahnärztlichen Leistungen, ihre Deckung sowie ihre räumliche Zuordnung im Rahmen der vertragszahnärztlichen Versorgung,
 
--
+- für die vertragszahnärztliche Versorgung bedeutsame Verkehrsverbindungen.
 
 (4) Der Bedarfsplan bildet auch die Grundlage für die Beratung von Zahnärzten, die zur Teilnahme an der vertragszahnärztlichen Versorgung bereit sind. Die Kassenzahnärztlichen Vereinigungen sollen darauf hinwirken, daß die Zahnärzte bei der Wahl ihres Vertragszahnarztsitzes auf die sich aus den Bedarfsplänen ergebenden Versorgungsbedürfnisse Rücksicht nehmen.
 
@@ -197,25 +197,25 @@ Weist der Bedarfsplan einen Bedarf an Vertragszahnärzten für einen bestimmten 
 
 (1) Der Antrag muß schriftlich gestellt werden. In dem Antrag ist anzugeben, für welchen Vertragszahnarztsitz und gegebenenfalls unter welcher Gebietsbezeichnung die Zulassung beantragt wird. Dem Antrag sind beizufügen
 
-a)
+a) ein Auszug aus dem Zahnarztregister, aus dem der Tag der Approbation, der Tag der Eintragung in das Zahnarztregister und gegebenenfalls der Tag der Anerkennung des Rechts zum Führen einer bestimmten Gebietsbezeichnung hervorgehen müssen,
 
-b)
+b) Bescheinigungen über die seit der Approbation ausgeübten zahnärztlichen Tätigkeiten,
 
-c)
+c) gegebenenfalls eine Erklärung nach § 19a Abs. 2 Satz 1, mit der der aus der Zulassung folgende Versorgungsauftrag auf die Hälfte beschränkt wird.
 
 (2) Ferner sind beizufügen:
 
-1.
+1. ein Lebenslauf,
 
-2.
+2. ein polizeiliches Führungszeugnis,
 
-3.
+3. Bescheinigungen der Kassenzahnärztlichen Vereinigungen, in deren Bereich der Zahnarzt bisher niedergelassen oder zur Kassenpraxis zugelassen war, aus denen sich Ort und Dauer der bisherigen Niederlassung oder Zulassung und der Grund einer etwaigen Beendigung ergeben,
 
-4.
+4. eine Erklärung über im Zeitpunkt der Antragstellung bestehende Dienst- oder Beschäftigungsverhältnisse unter Angabe des frühestmöglichen Endes des Beschäftigungsverhältnisses,
 
-5.
+5. eine Erklärung des Zahnarztes, ob er drogen- oder alkoholabhängig ist oder innerhalb der letzten fünf Jahre gewesen ist, ob er sich innerhalb der letzten fünf Jahre einer Entziehungskur wegen Drogen- oder Alkoholabhängigkeit unterzogen hat und dass gesetzliche Hinderungsgründe der Ausübung des zahnärztlichen Berufs nicht entgegenstehen,
 
-6.
+6. eine Versicherungsbescheinigung nach § 113 Absatz 2 des Versicherungsvertragsgesetzes, aus der sich das Bestehen eines ausreichenden Berufshaftpflichtversicherungsschutzes ergibt.
 
 (3) An Stelle von Urschriften können amtlich beglaubigte Abschriften beigefügt werden.
 
@@ -261,11 +261,11 @@ Ungeeignet für die Ausübung der vertragszahnärztlichen Tätigkeit ist ein Zah
 
 (2) Der Vertragszahnarzt muß am Vertragszahnarztsitz seine Sprechstunde halten.
 
-(3) Vertragszahnärztliche Tätigkeiten außerhalb des Vertragszahnarztsitzes an weiteren Orten sind zulässig, wenn und soweit Es ist nicht erforderlich, dass die an weiteren Orten angebotenen Leistungen in ähnlicher Weise auch am Vertragszahnarztsitz angeboten werden oder dass das Fachgebiet eines in der Zweigpraxis tätigen Zahnarztes auch am Vertragszahnarztsitz vertreten ist. Ausnahmen zu den in Satz 2 genannten Grundsätzen können im Bundesmantelvertrag geregelt werden. Eine Verbesserung der Versorgung nach Satz 1 Nummer 1 kann auch darin bestehen, dass eine bestehende Praxis am ursprünglichen Vertragszahnarztsitz als Zweigpraxis weitergeführt wird. Regelungen zur Verteilung der Tätigkeit zwischen dem Vertragszahnarztsitz und weiteren Orten sowie zu Mindest- und Höchstzeiten gelten bei medizinischen Versorgungszentren nicht für den einzelnen in dem medizinischen Versorgungszentrum tätigen Zahnarzt. Sofern die weiteren Orte im Bezirk der Kassenzahnärztlichen Vereinigung liegen, in der der Vertragszahnarzt Mitglied ist, hat er bei Vorliegen der Voraussetzungen nach Satz 1 Anspruch auf vorherige Genehmigung durch seine Kassenzahnärztliche Vereinigung. Sofern die weiteren Orte außerhalb des Bezirks seiner Kassenzahnärztlichen Vereinigung liegen, hat der Vertragszahnarzt bei Vorliegen der Voraussetzungen nach Satz 1 Anspruch auf Ermächtigung durch den Zulassungsausschuss, in dessen Bezirk er die Tätigkeit aufnehmen will; der Zulassungsausschuss, in dessen Bezirk er seinen Vertragszahnarztsitz hat, sowie die beteiligten Kassenzahnärztlichen Vereinigungen sind vor der Beschlussfassung anzuhören. Der nach Satz 7 ermächtigte Vertragszahnarzt kann die für die Tätigkeit an seinem Vertragszahnarztsitz angestellten Zahnärzte auch im Rahmen seiner Tätigkeit an dem weiteren Ort beschäftigen. Er kann außerdem Zahnärzte für die Tätigkeit an dem weiteren Ort nach Maßgabe der Vorschriften anstellen, die für ihn als Vertragszahnarzt gelten würden, wenn er an dem weiteren Ort zugelassen wäre. Zuständig für die Genehmigung der Anstellung nach Satz 9 ist der für die Erteilung der Ermächtigung nach Satz 7 zuständige Zulassungsausschuss. Keiner Genehmigung bedarf die Tätigkeit eines Vertragszahnarztes an einem der anderen Vertragszahnarztsitze eines Mitglieds der überörtlichen Berufsausübungsgemeinschaft nach § 33 Abs. 2, der er angehört.
+(3) Vertragszahnärztliche Tätigkeiten außerhalb des Vertragszahnarztsitzes an weiteren Orten sind zulässig, wenn und soweit
 
-1.
+1. dies die Versorgung der Versicherten an den weiteren Orten verbessert und
 
-2.
+2. die ordnungsgemäße Versorgung der Versicherten am Ort des Vertragszahnarztsitzes nicht beeinträchtigt wird; geringfügige Beeinträchtigungen für die Versorgung am Ort des Vertragszahnarztsitzes sind unbeachtlich, wenn sie durch die Verbesserung der Versorgung an dem weiteren Ort aufgewogen werden.
 
 (4) Die Genehmigung und die Ermächtigung zur Aufnahme weiterer vertragszahnärztlicher Tätigkeiten nach Absatz 3 können mit Nebenbestimmungen erteilt werden, wenn dies zur Sicherung der Erfüllung der Versorgungspflicht des Vertragszahnarztes am Vertragszahnarztsitz und an den weiteren Orten unter Berücksichtigung der Mitwirkung angestellter Zahnärzte erforderlich ist. Das Nähere hierzu ist einheitlich in den Bundesmantelverträgen zu regeln.
 
@@ -286,11 +286,11 @@ Zulassung
 
 ### § 26
 
-(1) Der Zulassungsausschuss hat das vollständige Ruhen der Zulassung eines Vertragszahnarztes zu beschließen, wenn In den Fällen des Satzes 1 Nummer 1 kann auch das Ruhen der Hälfte der Zulassung angeordnet werden. In dem Beschluss nach Satz 1 Nummer 2 ist der Zeitpunkt des Ablaufs der Frist nach § 95e Absatz 4 Satz 7 des Fünften Buches Sozialgesetzbuch festzusetzen.
+(1) Der Zulassungsausschuss hat das vollständige Ruhen der Zulassung eines Vertragszahnarztes zu beschließen, wenn
 
-1.
+1. die Voraussetzungen des § 95 Absatz 5 des Fünften Buches Sozialgesetzbuch erfüllt sind und Gründe der Sicherstellung der vertragzahnsärztlichen Versorgung nicht entgegenstehen oder
 
-2.
+2. die Voraussetzungen des § 95e Absatz 4 des Fünften Buches Sozialgesetzbuch erfüllt sind.
 
 (2) Tatsachen, die das Ruhen der Zulassung bedingen können, haben der Vertragszahnarzt, die Kassenzahnärztliche Vereinigung, die Krankenkassen und die Landesverbände der Krankenkassen dem Zulassungsausschuß mitzuteilen.
 
@@ -316,9 +316,9 @@ Der Zulassungsausschuß hat von Amts wegen über die vollständige oder hälftig
 
 (1) Die Zulassungsausschüsse können über den Kreis der zugelassenen Zahnärzte hinaus weitere Zahnärzte oder in besonderen Fällen zahnärztlich geleitete Einrichtungen zur Teilnahme an der vertragszahnärztlichen Versorgung ermächtigen, sofern dies notwendig ist, um
 
-1.
+1. eine bestehende oder unmittelbar drohende Unterversorgung nach § 100 Absatz 1 des Fünften Buches Sozialgesetzbuch abzuwenden oder einen nach § 100 Absatz 3 des Fünften Buches Sozialgesetzbuch festgestellten zusätzlichen lokalen Versorgungsbedarf zu decken oder
 
-2.
+2. einen begrenzten Personenkreis zu versorgen, beispielsweise Rehabilitanden in Einrichtungen der beruflichen Rehabilitation oder Beschäftigte eines abgelegenen oder vorübergehenden Betriebes.
 
 (2) Die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen können im Bundesmantelvertrag Regelungen treffen, die über die Voraussetzungen des Absatzes 1 hinaus Ermächtigungen zur Erbringung bestimmter zahnärztlicher Leistungen im Rahmen der vertragszahnärztlichen Versorgung vorsehen.
 
@@ -353,13 +353,13 @@ und Berufsausübungsgemeinschaft
 
 (1) Der Vertragszahnarzt hat die vertragszahnärztliche Tätigkeit persönlich in freier Praxis auszuüben. Bei Krankheit, Urlaub oder Teilnahme an zahnärztlicher Fortbildung oder an einer Wehrübung kann er sich innerhalb von zwölf Monaten bis zur Dauer von drei Monaten vertreten lassen. Eine Vertragszahnärztin kann sich in unmittelbarem zeitlichen Zusammenhang mit einer Entbindung bis zu einer Dauer von zwölf Monaten vertreten lassen. Dauert die Vertretung länger als eine Woche, so ist sie der Kassenzahnärztlichen Vereinigung mitzuteilen. Der Vertragszahnarzt darf sich nur durch einen Vertragszahnarzt oder einen Zahnarzt vertreten lassen, der die Voraussetzungen des § 3 Abs. 3 Satz 1 zweiter Halbsatz nachweisen kann. § 3 Abs. 4 gilt. Überschreitet innerhalb von zwölf Monaten die Dauer der Vertretung einen Monat, kann die Kassenzahnärztliche Vereinigung beim Vertragszahnarzt oder beim Vertreter überprüfen, ob der Vertreter die Voraussetzungen nach Satz 5 erfüllt und keine Ungeeignetheit nach § 21 vorliegt.
 
-(2) Die Beschäftigung eines Assistenten nach § 3 Abs. 3 bedarf der Genehmigung der Kassenzahnärztlichen Vereinigung. Im Übrigen darf der Vertragszahnarzt einen Vertreter oder einen Assistenten mit vorheriger Genehmigung der Kassenzahnärztlichen Vereinigung nur beschäftigen Die Kassenzahnärztliche Vereinigung kann die genannten Zeiträume verlängern. Die Dauer der Beschäftigung ist zu befristen. Die Genehmigung ist zu widerrufen, wenn die Beschäftigung eines Vertreters oder Assistenten nicht mehr begründet ist; sie kann widerrufen werden, wenn in der Person des Vertreters oder Assistenten Gründe liegen, welche beim Vertragszahnarzt zur Entziehung der Zulassung führen können.
+(2) Die Beschäftigung eines Assistenten nach § 3 Abs. 3 bedarf der Genehmigung der Kassenzahnärztlichen Vereinigung. Im Übrigen darf der Vertragszahnarzt einen Vertreter oder einen Assistenten mit vorheriger Genehmigung der Kassenzahnärztlichen Vereinigung nur beschäftigen
 
-1.
+1. aus Gründen der Sicherstellung der vertragszahnärztlichen Versorgung,
 
-2.
+2. während Zeiten der Erziehung von Kindern bis zu einer Dauer von 36 Monaten, wobei dieser Zeitraum nicht zusammenhängend genommen werden muss,
 
-3.
+3. während der Pflege eines pflegebedürftigen nahen Angehörigen in häuslicher Umgebung bis zu einer Dauer von sechs Monaten.
 
 (3) Die Beschäftigung eines Assistenten darf nicht der Vergrößerung der Kassenpraxis oder der Aufrechterhaltung eines übergroßen Praxisumfangs dienen.
 
@@ -429,17 +429,15 @@ Der ermächtigte Zahnarzt hat die in dem Ermächtigungsbeschluß bestimmte vertr
 
 (1) Der Zulassungsausschuß beschließt in Sitzungen. Sitzungen sind im Regelfall als Präsenzsitzungen bei persönlicher Anwesenheit aller Sitzungsteilnehmer im Sitzungszimmer durchzuführen; unter den Voraussetzungen der Absätze 3 und 4 können sie mittels Videotechnik durchgeführt werden. Zu den Sitzungen lädt der Vorsitzende unter Angabe der Tagesordnung ein.
 
-(2) In den Fällen des § 140f Abs. 3 des Fünften Buches Sozialgesetzbuch sind die Patientenvertreterinnen und -vertreter und in den Fällen des § 96 Absatz 2a des Fünften Buches Sozialgesetzbuch ist die für die Sozialversicherung zuständige oberste Landesbehörde zur Wahrnehmung ihres Mitberatungsrechts unter Einhaltung einer Frist von zwei Wochen unter Angabe der Tagesordnung zu laden. Soll die Wahrnehmung des Mitberatungsrechts im Rahmen einer Sitzung mittels Videotechnik nach Absatz 4 erfolgen, sind sie in der Ladung oder im Fall einer späteren Entscheidung für diese Sitzungsform unverzüglich über den Ablauf und die technischen Voraussetzungen zu informieren.
+(3) Abweichend von Absatz 1 kann eine Sitzung aus Gründen des Gesundheitsschutzes oder aus anderen gewichtigen Gründen auch ohne die persönliche Anwesenheit aller Sitzungsteilnehmer im Sitzungszimmer mittels Videotechnik durchgeführt werden. Hierüber entscheidet der Zulassungsausschuss nach pflichtgemäßem Ermessen. Dabei entscheidet er auch, ob die Sitzung durchgeführt werden soll
 
-(3) Abweichend von Absatz 1 kann eine Sitzung aus Gründen des Gesundheitsschutzes oder aus anderen gewichtigen Gründen auch ohne die persönliche Anwesenheit aller Sitzungsteilnehmer im Sitzungszimmer mittels Videotechnik durchgeführt werden. Hierüber entscheidet der Zulassungsausschuss nach pflichtgemäßem Ermessen. Dabei entscheidet er auch, ob die Sitzung durchgeführt werden soll Die Entscheidung kann nur einstimmig getroffen werden. Der Zulassungsausschuss kann die Entscheidung ohne Präsenzsitzung in einer Video- oder Telefonkonferenz treffen. Die Gründe nach Satz 1 und die Bestätigung der Einstimmigkeit der Beschlussfassung durch den Vorsitzenden sind schriftlich zu dokumentieren und der Niederschrift nach § 42 beizufügen. Die Entscheidung nach den Sätzen 2 und 3 ist nicht isoliert anfechtbar. Wird eine Sitzung mittels Videotechnik durchgeführt, so ist sie über die gesamte Sitzungsdauer zeitgleich in Bild und Ton an alle Orte, an denen sich die Mitglieder oder Beteiligten aufhalten, zu übertragen. Es ist sicherzustellen, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung der Übertragung ist unzulässig.
+1. als kombinierte Präsenz- und Videositzung, an der sowohl Personen im Sitzungszimmer als auch mittels Videotechnik zugeschaltete Personen teilnehmen, oder
 
-1.
-
-2.
+2. als Videokonferenz, an der nur mittels Videotechnik zugeschaltete Personen teilnehmen.
 
 (4) Hat der Zulassungsausschuss gemäß Absatz 3 Satz 2 entschieden, eine Sitzung, bei der die Patientenvertreterinnen und -vertreter oder die für die Sozialversicherung zuständige oberste Landesbehörde ein Mitberatungsrecht haben, mittels Videotechnik durchzuführen, so können diese ihr Mitberatungsrecht wahrnehmen, indem sie mittels Videotechnik an der Sitzung teilnehmen.
 
-> § 36 Abs. 2 Satz 1 Kursivdruck: IdF d. Art. 13 Nr. 4a Buchst. b DBuchst. aa G v. 11.7.2021 I 2754 mWv 20.7.2021 (bezeichnet als Abs. 2 Satz 2; die Änderung  wurde sinngemäß konsolidiert)
+> § 36 Abs. 2 Satz 1 Kursivdruck: IdF d. Art. 13 Nr. 4a Buchst. b DBuchst. aa G v. 11.7.2021 I 2754 mWv 20.7.2021 (bezeichnet als Abs. 2 Satz 2; die Änderung wurde sinngemäß konsolidiert)
 
 ### § 37
 
@@ -447,7 +445,7 @@ Der ermächtigte Zahnarzt hat die in dem Ermächtigungsbeschluß bestimmte vertr
 
 (2) Die Kassenzahnärztliche Vereinigung, die Landesverbände der Krankenkassen und die Ersatzkassen sowie die an dem Verfahren beteiligten Zahnärzte sind unter Einhaltung einer Frist von zwei Wochen zur mündlichen Verhandlung zu laden; die Ladung ist zuzustellen. Es kann auch in Abwesenheit Beteiligter verhandelt werden, falls in der Ladung darauf hingewiesen ist. Hat der Zulassungsausschuss gemäß § 36 Absatz 3 Satz 2 entschieden, eine Sitzung mittels Videotechnik durchzuführen, sind die Beteiligten nach Satz 1 im Fall einer im Rahmen dieser Sitzung durchgeführten mündlichen Verhandlung in der Ladung oder im Fall einer späteren Entscheidung für diese Sitzungsform unverzüglich über den Ablauf und die technischen Voraussetzungen zu informieren. Die beteiligten Zahnärzte sind auch über ihr Widerspruchsrecht nach Absatz 1 Satz 4 und die Möglichkeit der Teilnahme nach Absatz 1 Satz 5 zu informieren.
 
-(4) Der Zulassungsausschuss kann Beteiligten, Patientenvertreterinnen und  -vertretern sowie der für die Sozialversicherung zuständigen obersten Landesbehörde auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen, auch wenn Gründe nach § 36 Absatz 3 Satz 1 nicht vorliegen. Er kann Zeugen oder Sachverständigen auf Antrag gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten, auch wenn Gründe nach § 36 Absatz 3 Satz 1 nicht vorliegen. § 36 Absatz 3 Satz 7 bis 10 gilt entsprechend.
+(4) Der Zulassungsausschuss kann Beteiligten, Patientenvertreterinnen und -vertretern sowie der für die Sozialversicherung zuständigen obersten Landesbehörde auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen, auch wenn Gründe nach § 36 Absatz 3 Satz 1 nicht vorliegen. Er kann Zeugen oder Sachverständigen auf Antrag gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten, auch wenn Gründe nach § 36 Absatz 3 Satz 1 nicht vorliegen. § 36 Absatz 3 Satz 7 bis 10 gilt entsprechend.
 
 ### § 38
 
@@ -506,17 +504,13 @@ Der Widerspruch ist schriftlich oder zur Niederschrift der Geschäftsstelle des 
 
 ### § 46
 
-(1) Für das Verfahren werden nachstehende Gebühren erhoben: Die Gebühren sind mit der Stellung des Antrags oder der Einlegung des Widerspruchs fällig. Wird einem Widerspruch ganz oder teilweise stattgegeben, so wird die nach Buchstabe d entrichtete Gebühr zurückgezahlt.
-
-(2) Außer der Gebühr nach Absatz 1 werden als Verwaltungsgebühren erhoben:
-
 (3) Es sind zu zahlen
 
-a)
+a) die Gebühren nach Absatz 1 Buchstabe a an die Kassenzahnärztliche Vereinigung,
 
-b)
+b) die Gebühren nach Absatz 1 Buchstaben b und c und Absatz 2 Buchstaben a und b an die Geschäftsstelle des Zulassungsausschusses,
 
-c)
+c) die Gebühr nach Absatz 1 Buchstabe d an die Geschäftsstelle des Berufungsausschusses.
 
 (4) Abweichend von den Absätzen 1 und 2 werden in Verfahren, die eine Tätigkeit in Gebieten betreffen, für die der Landesausschuss der Zahnärzte und Krankenkassen die Feststellung nach § 100 Absatz 1 und 3 des Fünften Buches Sozialgesetzbuch getroffen hat, keine Gebühren erhoben. Dies gilt nicht für Anträge nach Absatz 1 Buchstabe a. Der Zulassungsausschuss kann von der Erhebung von Gebühren auch absehen oder diese reduzieren, wenn dies aus Versorgungsgründen angezeigt ist. Bei der Nachbesetzung einer genehmigten Anstellung sind die Gebühren nach den Absätzen 1 und 2 um 50 Prozent zu reduzieren.
 
@@ -548,22 +542,8 @@ Bei Fachzahnärzten für Kieferorthopädie, die bis zum 1. Juli 1976 den Antrag 
 
 ### Schlußformel
 
-Der Bundesminister für Arbeit
-
 ### Anlage — (zu § 2 Abs. 2)
-
-(Fundstelle: BGBl. I 1988, 2576)
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt III
 
-Abschnitt III
-
-3.
-
-a)
-
-b)
-
-c)
-
-11.
+3. Zulassungsverordnung für Kassenzahnärzte in der im Bundesgesetzblatt Teil III, Gliederungsnummer 8230-26, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 19 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477), mit folgenden Maßgaben: Die §§ 3, 25, 31 Abs. 9 und § 34 finden mit folgenden Maßgaben Anwendung:a)Für Zahnärzte, die bei Inkrafttreten dieses Gesetzes in dem in Artikel 3 des Vertrages genannten Gebiet bereits zwei Jahre zahnärztlich tätig sind, gilt das Erfordernis des § 3 Abs. 2 Buchstabe b nicht.b)Die Vorschriften der §§ 25, 31 Abs. 9 gelten bis zum 31. Dezember 1995 nicht für die Zulassung oder Ermächtigung von Zahnärzten der Jahrgänge 1941 und älter, wenn diese am 1. Januar 1990 ihren ständigen Wohnsitz in dem in Artikel 3 des Vertrages genannten Gebiet hatten.c)Der Zulassungsausschuß nach § 34 besteht in dem in Artikel 3 des Vertrages genannten Gebiet bis zum 31. Dezember 1995 aus drei Vertretern der Krankenkassen und drei Vertretern der Zahnärzte. Vertreter der Zahnärzte sind ein Kassenzahnarzt, ein Zahnarzt, der in einer Einrichtung nach § 311 Abs. 2 beschäftigt ist, sowie ein außerordentliches Mitglied der Kassenzahnärztlichen Vereinigung. Für Zahnärzte, die bei Inkrafttreten dieses Gesetzes in dem in Artikel 3 des Vertrages genannten Gebiet bereits zwei Jahre zahnärztlich tätig sind, gilt das Erfordernis des § 3 Abs. 2 Buchstabe b nicht. Die Vorschriften der §§ 25, 31 Abs. 9 gelten bis zum 31. Dezember 1995 nicht für die Zulassung oder Ermächtigung von Zahnärzten der Jahrgänge 1941 und älter, wenn diese am 1. Januar 1990 ihren ständigen Wohnsitz in dem in Artikel 3 des Vertrages genannten Gebiet hatten. Der Zulassungsausschuß nach § 34 besteht in dem in Artikel 3 des Vertrages genannten Gebiet bis zum 31. Dezember 1995 aus drei Vertretern der Krankenkassen und drei Vertretern der Zahnärzte. Vertreter der Zahnärzte sind ein Kassenzahnarzt, ein Zahnarzt, der in einer Einrichtung nach § 311 Abs. 2 beschäftigt ist, sowie ein außerordentliches Mitglied der Kassenzahnärztlichen Vereinigung.

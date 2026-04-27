@@ -23,4 +23,4 @@ Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn Bodo Broschat
 
 ### Schlussformel
 
-### (XXXX)
+### Anlage

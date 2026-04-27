@@ -15,17 +15,17 @@ Auf Grund des § 13 Absatz 2 Nummer 5 des Rentenübersichtsgesetzes vom 11. Febr
 
 (2) Jeweils ein Mitglied vertritt eine der folgenden Stellen:
 
-1.
+1. die Deutsche Rentenversicherung Bund,
 
-2.
+2. die Arbeitsgemeinschaft für betriebliche Altersversorgung e. V.,
 
-3.
+3. den Gesamtverband der deutschen Versicherungswirtschaft e. V.,
 
-4.
+4. die Stiftung Warentest,
 
-5.
+5. das Bundesministerium für Arbeit und Soziales und
 
-6.
+6. das Bundesministerium der Finanzen.
 
 ### § 2 — Berufung der Mitglieder des Steuerungsgremiums und deren stellvertretenden Personen
 
@@ -89,9 +89,9 @@ Beschlussfähig ist das Steuerungsgremium, wenn mindestens drei Stimmen abgegebe
 
 (3) Ein Beschluss ist gefasst, wenn
 
-1.
+1. für ihn mehr zustimmende als ablehnende Stimmen abgegeben worden sind oder
 
-2.
+2. bei Stimmengleichheit die Person, die die Sitzung leitet, ihm zugestimmt hat.
 
 (4) Wenn Beschlüsse eilbedürftig sind oder wenn in einem angemessenen Zeitraum keine Sitzung anberaumt ist, können Beschlüsse auch außerhalb der Sitzungen des Steuerungsgremiums im schriftlichen Verfahren oder im Verfahren per E-Mail gefasst werden. Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren oder im Verfahren per E-Mail stattfindet, wird von der vorsitzenden Person getroffen. Die vorsitzende Person leitet das schriftliche Verfahren oder das Verfahren per E-Mail ein. Die Frist für die Abgabe der Stimme beträgt zehn Arbeitstage nach Einleitung des schriftlichen Verfahrens oder des Verfahrens per E-Mail. Wird ein Beschluss im schriftlichen Verfahren oder im Verfahren per E-Mail gefasst, so entscheidet bei Stimmengleichheit die Stimme der vorsitzenden Person. Ein Beschluss im schriftlichen Verfahren oder im Verfahren per E-Mail bedarf zur Gültigkeit mindestens dreier abgegebener Stimmen.
 

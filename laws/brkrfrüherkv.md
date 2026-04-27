@@ -2,7 +2,7 @@
 
 **Abkürzung:** BrKrFrühErkV
 **Ausfertigungsdatum:** 2018-12-17
-**Stand:** Zuletzt geändert durch Art. 1 V v. 27.2.2024 I Nr. 53
+**Stand:** Zuletzt geändert durch Art. 1 V v. 27.2.2026 I Nr. 53
 
 ---
 

@@ -25,8 +25,6 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### § 3
 
-Soweit in anderen Vorschriften auf Bestimmungen verwiesen wird oder Bezeichnungen verwendet werden, die durch dieses Gesetz geändert werden, treten an ihre Stelle die entsprechenden Bestimmungen und Bezeichnungen dieses Gesetzes.
-
 ### § 4
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
@@ -35,4 +33,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 (1) Dieses Gesetz tritt mit dem Ersten des auf die Verkündung folgenden zweiten Kalendermonats in Kraft.
 
-(2) Mit dem Inkrafttreten dieses Gesetzes treten außer Kraft: ...
+(2)
+
+c) alle sonstigen diesem Gesetz entgegenstehenden oder gleichlautenden Vorschriften.

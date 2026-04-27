@@ -18,5 +18,3 @@ Der Staatsvertrag wird als Anlage zu diesem Gesetz veröffentlicht.
 Der Tag, an dem der Staatsvertrag nach seinem Artikel 5 in Kraft tritt, ist im Bundesgesetzblatt zu veröffentlichen.
 
 ### Anlage
-
-(Text der Anlage siehe: WAStAÜStVtr)

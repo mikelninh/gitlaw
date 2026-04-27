@@ -11,8 +11,6 @@ Auf Grund des § 368c Abs. 1 der Reichsversicherungsordnung in der im Bundesgese
 
 ### Art 1
 
-Die Zulassungsordnung für Kassenärzte in der im Bundesgesetzblatt Teil III, Gliederungsnummer 8230-25, veröffentlichten bereinigten Fassung wird wie folgt geändert: 1. 2. 3. 4.
-
 > Art. 1: Änderungsvorschrift, Kursivdruck zum Verständnis v. Art. 2 Abs. 1 aufgenommen
 
 ### Art 2
@@ -34,5 +32,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit und Sozialordnung

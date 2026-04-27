@@ -12,33 +12,33 @@
 
 ### § 1 — Vorschriftswidrige Erzeugnisse
 
-(1) Wein, dessen Gehalt an flüchtiger Säure den zulässigen Wert übersteigt (essigstichiger Wein), darf zu verarbeitet werden. Er darf jedoch nur in den Verkehr gebracht, eingeführt oder ausgeführt werden, wenn er unter Angabe dieser Zweckbestimmung auf dem Behältnis und in dem Begleitpapier als essigstichig gekennzeichnet ist.
+(1) Wein, dessen Gehalt an flüchtiger Säure den zulässigen Wert übersteigt (essigstichiger Wein), darf zu
 
-1.
+1. Weinessig oder
 
-2.
+2. Essig
 
 (2) Drittlandserzeugnisse dürfen abweichend von § 27 Abs. 1 des Weingesetzes verwendet, verwertet, in den Verkehr gebracht oder ausgeführt werden, wenn sie auf Grund einer inländischen Untersuchung zur Einfuhr zugelassen worden sind; dies gilt nicht, wenn
 
-1.
+1. die Erzeugnisse von gesundheitlich bedenklicher Beschaffenheit sind,
 
-2.
+2. die Bezeichnung, sonstige Angaben oder Aufmachungen nicht den Vorschriften der Rechtsakte der Europäischen Gemeinschaft oder Europäischen Union, des Weingesetzes oder den auf Grund des Weingesetzes erlassenen Rechtsverordnungen entsprechen,
 
-3.
+3. die Vorschriftswidrigkeit auf einem Umstand beruht, der erst nach der Untersuchung eingetreten ist, oder
 
-4.
+4. das Ergebnis der Untersuchung oder die Zulassung zur Einfuhr durch unrichtige Angaben oder Proben oder durch unzulässige Einwirkung auf die Untersuchungsstelle oder die Zulassungsbehörde herbeigeführt worden ist.
 
 (3) Erzeugnisse, denen eine amtliche Prüfungsnummer zugeteilt worden ist und die mit den für das geprüfte Erzeugnis vorgeschriebenen und zugelassenen Angaben, soweit diese Gegenstand des Prüfungsverfahrens waren, versehen sind, dürfen abweichend von § 27 Abs. 1 des Weingesetzes in den Verkehr gebracht, ausgeführt, verwendet oder verwertet werden; dies gilt nicht, wenn
 
-1.
+1. das Erzeugnis von gesundheitlich bedenklicher Beschaffenheit ist oder
 
-2.
+2. die Bezeichnung, sonstige Angaben oder Aufmachungen, soweit sie nicht Gegenstand des Prüfungsverfahrens waren, nicht den Vorschriften der Rechtsakte der Europäischen Gemeinschaft oder Europäischen Union, des Weingesetzes oder den auf Grund des Weingesetzes erlassenen Rechtsverordnungen entsprechen.
 
-(4) Soweit in Rechtsakten der Europäischen Gemeinschaft oder Europäischen Union nichts anderes bestimmt ist, stehen abweichend von § 27 Abs. 1 Satz 1 des Weingesetzes Bezeichnungen, sonstige Angaben und Aufmachungen, die den Vorschriften der Rechtsakte der Europäischen Gemeinschaft oder Europäischen Union, des Weingesetzes oder einer auf Grund des Weingesetzes erlassenen Rechtsverordnung nicht entsprechen, von Erzeugnissen nicht entgegen, wenn die Bezeichnungen, sonstigen Angaben und Aufmachungen nach den Vorschriften des Bestimmungsgebietes Voraussetzung für die Einfuhr der Erzeugnisse in dieses Gebiet sind und öffentliche Interessen nicht entgegenstehen. Zur Ausfuhr bestimmte Erzeugnisse, die mit im Inland nicht zulässigen Bezeichnungen, sonstigen Angaben oder Aufmachungen versehen sind, müssen von dem Hersteller unverzüglich der nach Landesrecht zuständigen Stelle (zuständige Stelle) gemeldet werden. Ist der Hersteller nicht zugleich derjenige, der die Erzeugnisse ausführt, so ist die Meldung außerdem auch von diesem zu erstatten. Aus der Meldung muss sich die Art und Menge der Erzeugnisse sowie die Art der Abweichungen von den geltenden Bezeichnungsvorschriften ergeben.
+(4) Soweit in Rechtsakten der Europäischen Gemeinschaft oder Europäischen Union nichts anderes bestimmt ist, stehen abweichend von § 27 Abs. 1 Satz 1 des Weingesetzes Bezeichnungen, sonstige Angaben und Aufmachungen, die den Vorschriften der Rechtsakte der Europäischen Gemeinschaft oder Europäischen Union, des Weingesetzes oder einer auf Grund des Weingesetzes erlassenen Rechtsverordnung nicht entsprechen,
 
-1.
+1. der Ausfuhr und
 
-2.
+2. dem Inverkehrbringen zum Zweck der Ausfuhr
 
 ### § 2 — Ausnahmegenehmigung
 
@@ -48,11 +48,11 @@
 
 (3) Die örtliche Zuständigkeit der in Absatz 1 genannten Stelle richtet sich bei
 
-1.
+1. inländischen abgefüllten Erzeugnissen nach dem Ort des Betriebssitzes des Abfüllers,
 
-2.
+2. anderen als den in Nummer 1 genannten Erzeugnissen vorbehaltlich der Nummer 3 nach dem Ort des Betriebssitzes desjenigen, der das Erzeugnis im Inland erstmals in Verkehr gebracht hat, und, soweit ein solcher nicht vorhanden ist, nach dem Ort, an dem die Vorschriftswidrigkeit des Erzeugnisses festgestellt worden ist,
 
-3.
+3. Erzeugnissen im Rahmen der Erteilung der Zulassung zur Einfuhr nach dem Ort der Einfuhr.
 
 ### § 3 — Versuchsgenehmigung
 
@@ -62,11 +62,11 @@
 
 ### § 4 — Vergällung von Weintrub
 
-Die Vergällung von Weintrub darf nur mit in einem Liter vorgenommen werden.
+Die Vergällung von Weintrub darf nur mit
 
-1.
+1. Lithiumchlorid in einer Menge von mindestens 0,5 Gramm oder
 
-2.
+2. Natriumchlorid in einer Menge von mindestens 2 Gramm
 
 ## Abschnitt 2: Buchführung
 
@@ -76,27 +76,27 @@ Die Vergällung von Weintrub darf nur mit in einem Liter vorgenommen werden.
 
 (2) Als Einzelhändler im Sinne des Artikels 22 Buchstabe c der Verordnung (EG) Nr. 436/2009 gilt, wer im Einzelfall an einen Endverbraucher nicht mehr als 100 Liter Wein abgibt.
 
-(3) Ein- und Ausgangsbücher brauchen nicht geführt zu werden von Personen und Personenvereinigungen, die ausschließlich Erzeugnisse in Behältnissen mit einem Nennvolumen von nicht mehr als 5 Litern vorrätig halten oder verkaufen, die mit einem nicht wiederverwendbaren Verschluss versehen sind, sofern die Ein- und Ausgänge sowie die Lagerbestände auf Grund anderer Unterlagen, insbesondere der Finanzbuchhaltung, jederzeit überprüft werden können und die Gesamtmenge der vorrätig gehaltenen oder verkauften Erzeugnisse im Einzelfall nicht übersteigt.
+(3) Ein- und Ausgangsbücher brauchen nicht geführt zu werden von Personen und Personenvereinigungen, die ausschließlich Erzeugnisse in Behältnissen mit einem Nennvolumen von nicht mehr als 5 Litern vorrätig halten oder verkaufen, die mit einem nicht wiederverwendbaren Verschluss versehen sind, sofern die Ein- und Ausgänge sowie die Lagerbestände auf Grund anderer Unterlagen, insbesondere der Finanzbuchhaltung, jederzeit überprüft werden können und die Gesamtmenge der vorrätig gehaltenen oder verkauften Erzeugnisse im Einzelfall
 
-1.
+1. bei konzentriertem Traubenmost und rektifiziertem Traubenmostkonzentrat fünf Liter,
 
-2.
+2. bei allen anderen Erzeugnissen 100 Liter
 
 ### § 6 — Eingangs- und Ausgangsbücher
 
 Ein- und Ausgangsbücher im Sinne des Titels III Kapitel III der Verordnung (EG) Nr. 436/2009 sind:
 
-1.
+1. das Kellerbuch,
 
-2.
+2. das Weinbuch,
 
-3.
+3. das Buch des Geschäftsvermittlers und
 
-4.
+4. das Stoffbuch.
 
 ### § 7 — Kellerbuch und Weinbuch
 
-(1) Buchführungspflichtige nach Artikel 36 Absatz 1 der Verordnung (EG) Nr. 436/2009 haben ein Kellerbuch und ein Weinbuch zu führen. Abweichend von Satz 1 haben Buchführungspflichtige, deren jährlicher Zukauf eine Menge von 30 000 Liter nicht abgefüllter Erzeugnisse des Weinsektors oder 40 000 Kilogramm Weintrauben nicht übersteigt, ein Kellerbuch oder ein Weinbuch zu führen.
+(1) Buchführungspflichtige nach Artikel 36 Absatz 1 der Verordnung (EG) Nr. 436/2009 haben ein Kellerbuch und ein Weinbuch zu führen. Abweichend von Satz 1 haben Buchführungspflichtige, deren jährlicher Zukauf eine Menge von 30 000 Liter nicht abgefüllter Erzeugnisse des Weinsektors oder 40 000 Kilogramm Weintrauben nicht übersteigt, ein Kellerbuch oder ein Weinbuch zu führen.
 
 (2) Das Kellerbuch enthält die Eintragungen nach Artikel 40 Absatz 1, Artikel 41, Artikel 42 der Verordnung (EG) Nr. 436/2009 in der zeitlichen Reihenfolge der Vorgänge.
 
@@ -104,51 +104,37 @@ Ein- und Ausgangsbücher im Sinne des Titels III Kapitel III der Verordnung (EG)
 
 (4) Im Weinbuch und im Kellerbuch sind über die nach Artikel 40 Absatz 1, Artikel 41, Artikel 42 der Verordnung (EG) Nr. 436/2009 vorgeschriebenen Eintragungen hinaus für jedes Erzeugnis einzutragen:
 
-1.
+1. die nach den bezeichnungsrechtlichen Vorschriften vorgesehenen Bezeichnungen sowie die in Artikel 40 Absatz 2 der Verordnung (EG) Nr. 436/2009 genannten Angaben,
 
-2.
+2. eine Nummer für die Erzeugnisse des Weinsektors (Weinnummer); diese Weinnummer muss jedem Erzeugnis nach einer nachvollziehbaren dokumentierten Ordnung zugewiesen und kann durch weitere Angaben ergänzt werden,
 
-3.
+3. die Behältnisnummer,
 
-4.
+4. die Amtliche Prüfungsnummer,
 
-5.
+5. die Losnummer,
 
-6.
+6. die Menge, die in der Eingangsmenge des eingetragenen Erzeugnisses enthalten ist und vollständig der angegebenen Bezeichnung entspricht (Originalmenge),
 
-7.
+7. die Angabe, dass das Erzeugnis angereichert worden ist; soweit das betreffende Erzeugnis vom Buchführungspflichtigen angereichert worden ist:a)der Gesamtalkoholgehalt des Erzeugnisses vor der Anreicherung,b)die Anreicherungsspanne, der Gesamtalkoholgehalt des Erzeugnisses vor der Anreicherung, die Anreicherungsspanne,
 
-a)
+8. die Angabe, dass das Erzeugnis entsäuert worden ist; soweit das betreffende Erzeugnis vom Buchführungspflichtigen entsäuert worden ist:a)der Gesamtsäuregehalt des Erzeugnisses vor der Entsäuerung,b)die Entsäuerungsspanne, der Gesamtsäuregehalt des Erzeugnisses vor der Entsäuerung, die Entsäuerungsspanne,
 
-b)
+9. die Verwendung folgender Stoffe unter Angabe des Zeitpunktes und der Menge:a)DL-Weinsäure,b)Kaliumsorbat,c)Sorbinsäure, DL-Weinsäure, Kaliumsorbat, Sorbinsäure,
 
-8.
+10. bei der ersten Eintragung des Erzeugnisses nach der Ernte der natürliche Alkoholgehalt (Mostgewicht),
 
-a)
+11. Verarbeitungs- und Verwendungsbeschränkungen des Erzeugnisses und
 
-b)
-
-9.
-
-a)
-
-b)
-
-c)
-
-10.
-
-11.
-
-12.
+12. erteilte Ausnahmegenehmigungen und Versuchserlaubnisse sowie das Ausmaß ihrer Ausnutzung.
 
 (5) Wer ein Weinbuch nach Artikel 38 Absatz 1 Buchstabe c der Verordnung (EG) Nr. 436/2009 in nicht gebundener Form führt, hat ein Registerbuch zu führen, in das, für jedes Erzeugnis in der zeitlichen Reihenfolge des ersten Vorgangs, einzutragen sind:
 
-1.
+1. die Weinnummer,
 
-2.
+2. das Datum des ersten Vorganges und
 
-3.
+3. die Bezeichnung des Erzeugnisses.
 
 (6) Im Weinbuch und im Kellerbuch kann bei den Eintragungen nach Artikel 40 Absatz 1 der Verordnung (EG) Nr. 436/2009 anstelle der Bezeichnung des Erzeugnisses die Weinnummer angegeben werden. Ist ein anderes Erzeugnis gleichermaßen von dem Vorgang betroffen, so ist auch dieses Erzeugnis mit seiner Bezeichnung oder seiner Weinnummer anzugeben. Bei Mengenangaben ist zwischen nicht abgefüllten und abgefüllten Erzeugnissen zu unterscheiden. Darüber hinaus sind abgefüllte Erzeugnisse hinsichtlich der Nennfüllmenge der verwendeten Behältnisse zu unterscheiden.
 
@@ -156,35 +142,31 @@ c)
 
 (8) Der Eigenverbrauch des Erzeugers und seiner Familie ist jährlich im Kellerbuch und im Weinbuch einzutragen; unvorhersehbare Änderungen im Volumen eines Erzeugnisses sind als Schwund oder Mehrmenge einzutragen.
 
-(9) Gemäß Artikel 44 Unterabsatz 1 der Verordnung (EG) Nr. 436/2009 werden für Mengenverluste folgende zulässige Höchstsätze festgesetzt: Mengenverluste, die die in Satz 1 festgesetzten Höchstsätze überschreiten, sind der zuständigen Stelle unverzüglich mitzuteilen.
+(9) Gemäß Artikel 44 Unterabsatz 1 der Verordnung (EG) Nr. 436/2009 werden für Mengenverluste folgende zulässige Höchstsätze festgesetzt:
 
-1.
+1. für Verluste durch Lagerunga)im Holzfass 0,4 vom Hundert undb)in anderen Behältnissen mit einem Nennvolumen von mehr als 60 Litern 0,05 vom Hundert im Holzfass 0,4 vom Hundert und in anderen Behältnissen mit einem Nennvolumen von mehr als 60 Litern 0,05 vom Hundert für jeden Monat der Lagerung,
 
-a)
+2. für Verluste durch Änderung der Erzeugnisklasse bei der Verarbeitung von Traubenmost zu Wein 8 vom Hundert,
 
-b)
-
-2.
-
-3.
+3. für Verluste durch Behandlungen und Abfüllung 5 vom Hundert.
 
 ### § 8 — Buch des Geschäftsvermittlers
 
-Geschäftsvermittler haben für die von ihnen vermittelten Erzeugnisse ein Buch mit folgenden Angaben zu führen: Die Eintragungen können auf die Angabe des Begleitpapiers beschränkt werden, wenn entsprechende Durchschriften oder Abdrucke gesammelt werden und in zeitlicher Reihenfolge geordnet vorliegen.
+Geschäftsvermittler haben für die von ihnen vermittelten Erzeugnisse ein Buch mit folgenden Angaben zu führen:
 
-1.
+1. das Datum des Kaufvertrages,
 
-2.
+2. die Nummer des Ankaufes,
 
-3.
+3. die Bezugsnummer des Begleitpapiers,
 
-4.
+4. die Bezeichnung des Erzeugnisses,
 
-5.
+5. die Menge in Litern oder Kilogramm oder die Anzahl der Flaschen unter Angabe der Nennfüllmenge,
 
-6.
+6. der Name und die Anschrift des Verkäufers und
 
-7.
+7. der Name und die Anschrift des Käufers.
 
 ### § 9 — Stoffbuch
 
@@ -194,21 +176,11 @@ In das Stoffbuch sind von den in Artikel 43 Absatz 1 Satz 1 der Verordnung (EG) 
 
 (1) Behältnisse, die nicht abgefüllte Erzeugnisse enthalten, und Flaschenstapel sind so mit Merkzeichen zu versehen, dass sie nicht verwechselt werden können. Die Merkzeichen sind an gut sichtbarer Stelle anzubringen. Als Merkzeichen für Flaschenstapel gilt die Weinnummer oder die genaue Bezeichnung des Erzeugnisses.
 
-(2) Über die Merkzeichen für ist Buch zu führen. Die Buchführung über Merkzeichen erfolgt
+(2) Über die Merkzeichen für
 
-1.
+1. Behältnisse mit einem Fassungsvermögen von mehr als 60 Litern und
 
-2.
-
-1.
-
-a)
-
-b)
-
-c)
-
-2.
+2. Flaschenstapel, für die nicht die Weinnummer oder die genaue Bezeichnung des Erzeugnisses als Merkzeichen verwendet werden,
 
 (3) Die nach Artikel 48 der Verordnung (EG) Nr. 436/2009 aufzubewahrenden Bücher und Unterlagen einschließlich der Begleitpapiere müssen in den Geschäftsräumen aufbewahrt werden.
 
@@ -228,23 +200,23 @@ c)
 
 (2) Die Landesregierungen regeln durch Rechtsverordnung
 
-1.
+1. die näheren Voraussetzungen und die Einzelheiten der Buchführungsverfahren nach Artikel 38 Absatz 1 Buchstabe a und c der Verordnung (EG) Nr. 436/2009 und
 
-2.
+2. das Verfahren für die Genehmigung und die allgemeine Zulassung nach Absatz 1.
 
 ### § 13 — Analysenbuchführung
 
 (1) Wer die für Erzeugnisse vorgeschriebenen analytischen Untersuchungen durchführt, hat ein Analysenbuch zu führen. Aus dem Analysenbuch müssen ersichtlich sein
 
-1.
+1. die Art der Untersuchung und, soweit ein Auftrag erteilt worden ist, der Auftraggeber,
 
-2.
+2. das analytische Untersuchungsergebnis und die bei der Untersuchung festgestellten sensorischen Merkmale,
 
-3.
+3. Zeitpunkt und Inhalt eines Beratungsvorschlages,
 
-4.
+4. Art und Menge zu verwendender Behandlungsstoffe und
 
-5.
+5. Name und Unterschrift desjenigen, der die Untersuchung durchgeführt oder verantwortlich überwacht hat.
 
 (2) Das Analysenbuch kann auch auf der Grundlage automatisierter Datenverarbeitung geführt werden. Die Landesregierungen regeln durch Rechtsverordnung die Einzelheiten der Analysenbuchführung nach Satz 1.
 
@@ -252,15 +224,15 @@ c)
 
 ### § 14 — Herbstbuch, tägliche Erntefeststellung
 
-(1) Wer Weintrauben erntet, hat täglich des Lesegutes in ein mit seiner Anschrift und seinem Namen versehenes Buch nach einem von den Landesregierungen durch Rechtsverordnung zu bestimmenden Muster (Herbstbuch) einzutragen.
+(1) Wer Weintrauben erntet, hat täglich
 
-1.
+1. den natürlichen Alkoholgehalt,
 
-2.
+2. die Erntemenge,
 
-3.
+3. die Herkunft und
 
-4.
+4. die Rebsorte
 
 (2) Abweichend von Absatz 1 kann bei Lesegut, das vom Erntenden als Weintrauben verkauft oder an einen Erzeugerzusammenschluss abgeliefert wird, an die Stelle der Eintragung in das Herbstbuch die Kaufbestätigung des Käufers oder die Annahmebestätigung des Erzeugerzusammenschlusses treten, soweit diese die geforderten Angaben enthalten. In diesem Fall sind die Bestätigungen fortlaufend zu numerieren und gesammelt aufzubewahren.
 
@@ -282,9 +254,9 @@ Die Angaben in den Ein- und Ausgangsbüchern einschließlich des Registerbuches,
 
 Ein Begleitpapier braucht nicht ausgestellt zu werden für die Beförderung von Weintrauben, Maische und Most aus eigener Erzeugung der Mitglieder von Erzeugerzusammenschlüssen zur Annahmestation oder Weinbereitungsanlage des Erzeugerzusammenschlusses. Satz 1 gilt bei
 
-1.
+1. Erzeugnissen, die zur Bereitung von Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. oder Sekt b.A. bestimmt sind, nur für die Beförderung innerhalb des bestimmten Anbaugebietes, aus dem die beförderten Erzeugnisse stammen, und der diesem unmittelbar benachbarten Gebiete,
 
-2.
+2. anderen Erzeugnissen nur für die Beförderung innerhalb der Weinbauzone, aus der die beförderten Erzeugnisse stammen.
 
 ### § 19 — Vorgeschriebenes Begleitpapier für nicht abgefüllte Erzeugnisse
 
@@ -304,11 +276,11 @@ Die nach Anhang VI Abschnitt A Nummer 8 Satz 2 der Verordnung (EG) Nr. 436/2009 
 
 (1) Wer ein Erzeugnis des Weinsektors innerhalb der Union in Verkehr bringt, hat das amtlich zugelassene Begleitdokument im Sinne des Artikels 147 Absatz 1 der Verordnung (EU) Nr. 1308/2013 beim Inverkehrbringen beizufügen.
 
-(1a) Wird ein ins Inland verbracht, hat der inländische Empfänger der nach Landesrecht für den Entladeort zuständigen Stelle eine Kopie des Begleitpapiers oder des Dokuments zu übersenden, bevor das Erzeugnis in den Verkehr gebracht, verwendet oder verwertet wird.
+(1a) Wird ein
 
-1.
+1. nicht abgefülltes Erzeugnis, für das ein Begleitpapier nach der Verordnung (EG) Nr. 436/2009 ausgestellt ist,
 
-2.
+2. Erzeugnis, für das ein Dokument nach Artikel 43 Absatz 1 Unterabsatz 2 oder Artikel 44 Absatz 2 Satz 1 der Verordnung (EG) Nr. 555/2008 der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates über die gemeinsame Marktorganisation für Wein hinsichtlich der Stützungsprogramme, des Handels mit Drittländern, des Produktionspotentials und der Kontrollen im Weinsektor (ABl. L 170 vom 30.6.2008, S. 1) in der jeweils geltenden Fassung ausgestellt ist,
 
 (2) Für die in Artikel 29 der Verordnung (EG) Nr. 436/2009 genannten Erzeugnisse, deren Beförderung im Inland beginnt, hat der zur Ausstellung des Begleitpapiers Verpflichtete neben der nach Artikel 29 der genannten Verordnung zu versendenden Kopie spätestens am Tag nach Beginn der Beförderung eine Kopie der für den Verladeort zuständigen Stelle zuzuleiten. Für Erzeugnisse nach Satz 1, deren Beförderung im Hoheitsgebiet der Bundesrepublik Deutschland beginnt und endet, erfolgt durch die in Satz 1 genannten Verpflichteten die Übermittlung des Begleitpapiers spätestens am Tag nach Beginn der Beförderung.
 
@@ -320,9 +292,9 @@ Die nach Anhang VI Abschnitt A Nummer 8 Satz 2 der Verordnung (EG) Nr. 436/2009 
 
 Die Landesregierungen können durch Rechtsverordnung bestimmen, dass der zur Ausstellung des Begleitpapiers Verpflichtete
 
-1.
+1. in dem Begleitpapier neben den nach der Verordnung (EG) Nr. 436/2009 und dieser Verordnung erforderlichen Angaben weitere Angaben zu machen hat,
 
-2.
+2. spätestens am Tag nach Beginn der Beförderung eine oder mehrere Kopien des Begleitpapiers der für den Verladeort zuständigen Stelle zuzuleiten hat.
 
 ### § 24 — Begleitpapier, ergänzende Vorschrift
 
@@ -366,15 +338,15 @@ Im Rahmen der Überwachung sind Rückstellproben der amtlichen Qualitätsweinpr�
 
 (2) Von der Erntemeldung sind Traubenerzeuger befreit, die
 
-1.
+1. ihre gesamte Ernte selbst verarbeiten oder auf ihre Rechnung verarbeiten lassen oder
 
-2.
+2. Mitglieder einer Genossenschaftskellerei oder einer Erzeugergemeinschaft sind und ihre gesamte Ernte in Form von Trauben oder Most abliefern.
 
-(3) Die Landesregierungen können zur Sicherung einer ausreichenden Überwachung oder, soweit dies zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder Europäischen Union, des Weingesetzes oder von auf Grund des Weingesetzes erlassenen Rechtsverordnungen erforderlich ist, durch Rechtsverordnung vorschreiben, dass und in welcher Weisezu melden sind.
+(3) Die Landesregierungen können zur Sicherung einer ausreichenden Überwachung oder, soweit dies zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder Europäischen Union, des Weingesetzes oder von auf Grund des Weingesetzes erlassenen Rechtsverordnungen erforderlich ist, durch Rechtsverordnung vorschreiben, dass und in welcher Weise
 
-1.
+1. beabsichtigte oder vorgenommene Aufgaben, Rodungen, Wiederbepflanzungen oder Neuanpflanzungen,
 
-2.
+2. die Rebflächen des Betriebes, die Ertragsrebfläche, die Erntemenge nach Rebsorten und Herkunft, die vorgesehene Differenzierung der Weine, Qualitätsweine und Prädikatsweine oder der Bestand an Erzeugnissen differenziert nach Rebsorte, Herkunft, Wein, Qualitätswein und Prädikatswein
 
 (4) (weggefallen)
 
@@ -382,43 +354,43 @@ Im Rahmen der Überwachung sind Rückstellproben der amtlichen Qualitätsweinpr�
 
 (6) Für die Umrechnung der Mengen nach Artikel 15 Absatz 1 der Verordnung (EG) Nr. 436/2009 entsprechen
 
-1.
+1. 100 Kilogramm Weintrauben = 78 Liter Wein,
 
-2.
+2. 100 Liter Traubenmost oder teilweise gegorener Traubenmost = 100 Liter Wein,
 
-3.
+3. 100 Liter konzentrierter Traubenmost oder rektifiziertes Traubenmostkonzentrat = 500 Liter Wein,
 
-4.
+4. 100 Liter Jungwein = 100 Liter Wein.
 
 (7) Als Einzelhändler im Sinne des Artikel 22 Buchstabe c der Verordnung (EG) Nr. 436/2009 gilt, wer im Einzelfall an einen Endverbraucher nicht mehr als 100 Liter Wein abgibt.
 
 ### § 30 — Meldungen über önologische Verfahren
 
-(1) Zuständige Behörde für die Meldung über ist jeweils die nach Landesrecht zuständige Stelle.
+(1) Zuständige Behörde für die Meldung über
 
-1.
+1. den Besitz an Saccharose, konzentriertem Traubenmost oder rektifiziertem Traubenmostkonzentrat nach der Anhang VIII Teil I Abschnitt D Nummer 4 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in der jeweils geltenden Fassung,
 
-2.
+2. die Erhöhung des Alkoholgehaltes, die Entsäuerung oder die Säuerung nach Anhang VIII Teil I Abschnitt D der Verordnung (EU) Nr. 1308/2013 in Verbindung mit der Verordnung (EG) Nr. 606/2009 der Kommission vom 10. Juli 2009 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates hinsichtlich der Weinbauerzeugniskategorien, der önologischen Verfahren und der diesbezüglichen Einschränkungen (ABl. L 193 vom 24.7.2009, S. 1) in der jeweils geltenden Fassung,
 
-3.
+3. die Süßung nach der Verordnung (EG) Nr. 606/2009
 
 (2) Die Landesregierungen bestimmen durch Rechtsverordnung die Frist zur Erstattung der Meldung und die angemessenen Kontrollbedingungen nach Artikel 12 der Verordnung (EG) Nr. 606/2009. In der Rechtsverordnung nach Satz 1 sind die Bedingungen im Sinne des Artikel 12 Absatz 4 der Verordnung (EG) Nr. 606/2009 zu regeln.
 
-(3) Die Landesregierungen können durch Rechtsverordnung zulassen, dass im Voraus erstattet wird.
+(3) Die Landesregierungen können durch Rechtsverordnung zulassen, dass
 
-1.
+1. eine für mehrere Maßnahmen oder einen bestimmten Zeitraum geltende Meldung über die Erhöhung des Alkoholgehaltes nach Artikel 12 Absatz 3 Satz 1 der Verordnung (EG) Nr. 606/2009,
 
-2.
+2. eine für mehrere Süßungsvorgänge oder für einen bestimmten Zeitraum geltende Meldung nach Maßgabe des Anhangs I D Nummer 5 Buchstabe c Satz 1 der Verordnung (EG) Nr. 606/2009
 
 ### § 31 — Ermächtigungen
 
-Die Landesregierungen können durch Rechtsverordnung vorschreiben, dass und in welcher Weise die in § 9 Abs. 1 Satz 1 des Weingesetzes genannten Weinbaubetriebe Angaben über den Hektarertrag, die Übermenge oder die Destillation nach den §§ 9 bis 11 des Weingesetzes zu machen haben, soweit dies erforderlich ist, besonderen Gegebenheiten des Weinbaus in ihrem Gebiet Rechnung zu tragen und eine ausreichende Überwachung sicherzustellen. In Rechtsverordnungen nach Satz 1 kann insbesondere bestimmt werden, dass zu melden sind.
+Die Landesregierungen können durch Rechtsverordnung vorschreiben, dass und in welcher Weise die in § 9 Abs. 1 Satz 1 des Weingesetzes genannten Weinbaubetriebe Angaben über den Hektarertrag, die Übermenge oder die Destillation nach den §§ 9 bis 11 des Weingesetzes zu machen haben, soweit dies erforderlich ist, besonderen Gegebenheiten des Weinbaus in ihrem Gebiet Rechnung zu tragen und eine ausreichende Überwachung sicherzustellen. In Rechtsverordnungen nach Satz 1 kann insbesondere bestimmt werden, dass
 
-1.
+1. die Rebflächen,
 
-2.
+2. der vorhandene Bestand und
 
-3.
+3. die Menge der an andere abgegebenen, verwendeten oder verwerteten Erzeugnisse
 
 ## Abschnitt 6: Einfuhr
 
@@ -432,21 +404,21 @@ Die Landesregierungen können durch Rechtsverordnung vorschreiben, dass und in w
 
 (1) Von der Zulassung zur Einfuhr sind befreit
 
-1.
+1. Erzeugnisse, die als Diplomaten- oder Konsulargut eingeführt werden;
 
-2.
+2. Erzeugnisse in Behältnissen mit einem Gesamtnennvolumen bis 30 Liter, sofern sie im persönlichen Gepäck von Reisenden mitgeführt werden;
 
-3.
+3. Erzeugnisse bis zu 400 Kilogramm einschließlich Verpackung jährlich, berechnet für jedes der in § 32 Abs. 1 Satz 1 genannten Erzeugnisse, sofern der Verfügungsberechtigte der abfertigenden Zolldienststelle schriftlich erklärt, dass durch die Einfuhr der Erzeugnisse die Grenze von 400 Kilogramm nicht überschritten wird; die Zolldienststelle übersendet eine Ausfertigung der Erklärung der zuständigen Überwachungsbehörde;
 
-4.
+4. Erzeugnisse, wenn sie für wissenschaftliche Zwecke oder für Ausstellungen, Messen und ähnliche Veranstaltungen bestimmt sind und der Bedarf von der für die Weinüberwachung zuständigen Behörde anerkannt ist;
 
-5.
+5. Muster und Proben von Erzeugnissen in Behältnissen in geringen Mengen;
 
-6.
+6. Erzeugnisse, die zum Umzugs- oder Übersiedlungsgut natürlicher Personen gehören, soweit es sich um Mengen handelt, die üblicherweise als Vorrat gehalten werden;
 
-7.
+7. Erzeugnisse, die auf See- oder Binnenschiffen, in der Personenbeförderung dienenden Eisenbahnwagen, in Reisebussen oder Luftfahrzeugen als Vorrat zum Verbrauch durch das Personal und die Reisenden bestimmt sind;
 
-8.
+8. Wein, der nachweislich ausschließlich für kultische Zwecke bestimmt ist.
 
 (2) Absatz 1 gilt nicht für rektifiziertes Traubenmostkonzentrat.
 
@@ -464,23 +436,23 @@ Die amtliche Untersuchung und Prüfung kann stichprobenweise vorgenommen werden,
 
 (4) Für die amtliche Untersuchung und Prüfung werden folgende Untersuchungsstellen bestimmt:
 
-1.
+1. für das Erstgutachten die in Anlage 1 aufgeführten Untersuchungsstellen;
 
-2.
+2. für das Zweitgutachten die in Anlage 2 aufgeführten Untersuchungsstellen;
 
-3.
+3. für das Obergutachten das Bundesinstitut für Risikobewertung, die sich dabei der Unterstützung anderer, bei der Erstattung des Erst- und Zweitgutachtens nicht beteiligter Untersuchungsstellen bedienen kann.
 
-(5) Steht der Einfuhr nur die Vorschriftswidrigkeit entgegen, soll dem Verfügungsberechtigten vor der Entscheidung über die Zulassung zur Einfuhr Gelegenheit zur Behebung des Mangels gegeben werden.
+(5) Steht der Einfuhr nur die Vorschriftswidrigkeit
 
-1.
+1. einer Bezeichnung, sonstigen Angabe oder Aufmachung oder
 
-2.
+2. das Fehlen oder die Vorschriftswidrigkeit des Dokuments nach Artikel 43 Absatz 1 Unterabsatz 2 Satz 1 oder Artikel 44 Absatz 2 Satz 1 der Verordnung (EG) Nr. 555/2008
 
-(6) Erzeugnisse, die von der Einfuhr zurückgewiesen worden sind oder auf deren Einfuhr verzichtet worden ist, hat der Verfügungsberechtigte unter zollamtlicher Überwachung auf seine Kosten Kommt er dieser Verpflichtung innerhalb einer von der Zolldienststelle gesetzten Frist nicht nach, sind sie auf seine Kosten zu vernichten.
+(6) Erzeugnisse, die von der Einfuhr zurückgewiesen worden sind oder auf deren Einfuhr verzichtet worden ist, hat der Verfügungsberechtigte unter zollamtlicher Überwachung auf seine Kosten
 
-1.
+1. in ein Drittland wiederauszuführen oder
 
-2.
+2. zu vernichten.
 
 ### § 36 — Probenahme und Kosten
 
@@ -510,45 +482,45 @@ Die amtliche Untersuchung und Prüfung kann stichprobenweise vorgenommen werden,
 
 Nach § 48 Abs. 1 Nr. 2, Abs. 2, 3 des Weingesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 1 Abs. 1 Satz 2 Wein in den Verkehr bringt, einführt oder ausführt oder
 
-2.
+2. entgegen § 38 Abs. 1 Satz 1 oder Abs. 2 ein weinhaltiges Getränk einführt.
 
 ### § 40 — Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Abs. 2 Nr. 4 des Weingesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 1 Abs. 4 Satz 2 bis 4 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-2.
+2. entgegen § 4 die Vergällung von Weintrub vornimmt,
 
-3.
+3. entgegen § 5 Abs. 1 Ein- und Ausgangsbücher nicht führt,
 
-4.
+4. entgegen § 7 Abs. 5 ein Registerbuch nicht führt oder eine Eintragung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise macht,
 
-5.
+5. entgegen § 7 Abs. 4, 7 Satz 2 oder Abs. 8 eine Eintragung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht jährlich macht,
 
-6.
+6. entgegen § 8 Satz 1 oder § 10 Abs. 2 ein Buch nicht, nicht richtig oder nicht vollständig führt,
 
-7.
+7. entgegen § 10 Abs. 1 Satz 1 Behältnisse oder Flaschenstapel nicht oder nicht in der vorgeschriebenen Weise mit Merkzeichen versieht,
 
-8.
+8. entgegen § 10 Abs. 3 Bücher, Unterlagen oder Begleitpapiere nicht oder nicht in der vorgeschriebenen Weise aufbewahrt,
 
-9.
+9. entgegen § 13 Abs. 1 oder 3 Satz 1 ein Analysenbuch nicht, nicht richtig oder nicht vollständig führt oder nicht fünf Jahre aufbewahrt,
 
-10.
+10. entgegen § 14 Abs. 1 eine Eintragung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise macht,
 
-11.
+11. entgegen § 17 Satz 1 oder 2 Eintragungen nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise macht oder eine Eintragung unleserlich macht oder ohne Sichtbarmachung ändert,
 
-12.
+12. entgegen § 19 ein Begleitpapier nicht oder nicht nach dem vorgeschriebenen Muster verwendet oder nicht oder nicht richtig ausstellt,
 
-13.
+13. entgegen § 20 eine Eintragung oder eine Bestätigung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise macht,
 
-14.
+14. entgegen § 21 Satz 1 einen Vermerk nicht oder nicht in der vorgeschriebenen Weise anbringt, entgegen § 21 Satz 2 eine Angabe nicht, nicht richtig oder nicht vollständig macht oder entgegen § 21 Satz 3 oder 5 ein Begleitpapier oder eine Kopie nicht oder nicht in der vorgeschriebenen Weise aufbewahrt,
 
-15.
+15. entgegen § 22 Absatz 1 ein Begleitdokument nicht, nicht richtig oder nicht rechtzeitig beifügt oder
 
-16.
+16. entgegen § 22 Absatz 1a, 2 oder 4 Satz 1 eine Kopie nicht, nicht richtig oder nicht rechtzeitig übersendet oder nicht, nicht richtig oder nicht rechtzeitig zuleitet.
 
 ## Abschnitt 8: Schlussbestimmungen
 
@@ -558,54 +530,52 @@ Bis zum 31. August 1997 ist § 2 Abs. 1 der Wein-Überwachungs-Verordnung vom 14
 
 ### Anlage 1 — (zu § 35 Abs. 4 Nr. 1)
 
-1.
+1. Landeslabor Berlin-Brandenburg
 
-2.
+2. Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit, Lebensmittelinstitut Braunschweig,
 
-3.
+3. Landesuntersuchungsamt für Chemie, Hygiene und Veterinärmedizin, Bremen,
 
-4.
+4. Landesuntersuchungsanstalt für das Gesundheits- und Veterinärwesen Sachsen, Standort Dresden,
 
-5.
+5. Thüringer Landesamt für Lebensmittelsicherheit und Verbraucherschutz,
 
-6.
+6. (weggefallen)
 
-7.
+7. Landesamt für Verbraucherschutz Sachsen-Anhalt, Halle/Saale,
 
-8.
+8. Institut für Hygiene und Umwelt Hamburg,
 
-9.
+9. Chemisches und Veterinäruntersuchungsamt Karlsruhe,
 
-10.
+10. Institut für Lebensmittel- und Umweltuntersuchungen der Stadt Köln,
 
-11.
+11. Landesuntersuchungsamt - Institut für Lebensmittelchemie und Arzneimittelprüfung Mainz,
 
-12.
+12. Chemisches und Veterinäruntersuchungsamt Münsterland-Emscher-Lippe, Münster,
 
-13.
+13. Landesamt für Landwirtschaft, Lebensmittelsicherheit und Fischerei Rostock,
 
-14.
+14. Landesamt für Soziales, Gesundheit und Verbraucherschutz, Abteilung: Verbraucherschutz und Lebensmittelchemie, Saarbrücken,
 
-15.
+15. Chemisches und Veterinäruntersuchungsamt Stuttgart, Sitz Fellbach,
 
-16.
+16. Landesbetrieb Hessisches Landeslabor (LHL), Standort Wiesbaden,
 
-17.
+17. Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit, Dienststelle Würzburg.
 
 ### Anlage 2 — (zu § 35 Abs. 4 Nr. 2)
 
-Fundstelle des Originaltextes: BGBl. I 2005, 3382
+1. Institut für Hygiene und Umwelt Hamburg,
 
-1.
+2. Chemisches und Veterinäruntersuchungsamt Münsterland-Emscher-Lippe, Münster,
 
-2.
+3. Landesuntersuchungsamt - Institut für Lebensmittelchemie und Arzneimittelprüfung Mainz,
 
-3.
+4. Landesuntersuchungsanstalt für das Gesundheits- und Veterinärwesen Sachsen, Standort Dresden,
 
-4.
+5. Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit, Dienststelle Würzburg,
 
-5.
-
-6.
+6. (weggefallen)
 
 ### Anlage 3 — (zu § 19)

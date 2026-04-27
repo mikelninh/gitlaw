@@ -19,21 +19,21 @@ Wirtschaftsprüferordnung
 
 (1) Der Antrag auf Zulassung zur Prüfung ist an die "Prüfungsstelle für das Wirtschaftsprüfungsexamen bei der Wirtschaftsprüferkammer" (Prüfungsstelle) zu richten. Dem Antrag auf Zulassung zur Prüfung sind beizufügen
 
-1.
+1. ein tabellarischer Lebenslauf, der genaue Angaben über die Vorbildung und den beruflichen Werdegang enthält;
 
-2.
+2. Zeugnisse über Hochschulprüfungen, andere einschlägige Prüfungen und die berufliche Tätigkeit, insbesondere mit Angaben über Art und Umfang der Prüfungstätigkeit; Angaben über Art und Umfang der Prüfungstätigkeit sind nicht erforderlich, wenn der Nachweis der Prüfungstätigkeit nach § 9 Abs. 4 der Wirtschaftsprüferordnung entfällt;
 
-3.
+3. eine Erklärung darüber, ob und bei welcher Stelle bereits früher ein Antrag auf Zulassung zur Prüfung eingereicht wurde;
 
-4.
+4. ein Nachweis der Regelstudienzeit der absolvierten Hochschulausbildung;
 
-5.
+5. falls der Nachweis nicht nach § 9 Abs. 4 der Wirtschaftsprüferordnung entfällt, eine Bescheinigung über die Prüfungstätigkeit nach § 9 Abs. 2 der Wirtschaftsprüferordnung;
 
-6.
+6. (weggefallen)
 
-7.
+7. (weggefallen)
 
-8.
+8. gegebenenfalls eine Erklärung darüber, ob die Prüfung in verkürzter Form (§ 6) abgelegt werden soll.
 
 (2) Aus der Bescheinigung nach Absatz 1 Satz 2 Nummer 5 müssen Art und Umfang der Prüfungstätigkeit, insbesondere die Teilnahme an Abschlussprüfungen und die Mitwirkung bei der Abfassung der Prüfberichte, hervorgehen. Die Prüfungsstelle kann die Vorlage von wenigstens zwei Prüfungsberichten verlangen. Werden Prüfungsberichte verlangt, hat die zu prüfende Person zu erklären, dass sie diese selbstständig oder im Wesentlichen selbstständig angefertigt hat und Zustimmungserklärungen der Auftraggebenden und der Auftragnehmenden zur Vorlage der Berichte beizufügen; die zu prüfende Person kann die Kennzeichnung des geprüften Gegenstandes in den Berichten beseitigen. Sind die Auftraggebenden nicht die Unternehmen, auf die sich die Prüfungsberichte beziehen, so sind außerdem deren Zustimmungserklärungen beizufügen. Bei Prüfungsberichten genossenschaftlicher Prüfungsverbände sind Zustimmungserklärungen des Prüfungsverbandes und des geprüften Unternehmens beizufügen. Werden Prüfungsberichte ohne Kennzeichnung des geprüften Gegenstandes vorgelegt, so genügt es, wenn die Auftragnehmenden erklären, dass ihnen gegenüber die Zustimmung der Auftraggebenden erteilt worden ist. Die Bescheinigung hat die ausstellende Stelle genau zu bezeichnen; sie ist von dieser auszustellen. Bescheinigungen oder eidesstattliche Versicherungen von zu prüfenden Personen, die nicht in eigener Praxis tätig sind, reichen nicht aus. Gleiches gilt für den Nachweis der Tätigkeit nach § 9 Abs. 1 der Wirtschaftsprüferordnung.
 
@@ -55,15 +55,15 @@ Wirtschaftsprüferordnung
 
 (1) Der Prüfungskommission gehören als Mitglieder an ein Vertreter oder eine Vertreterin der für die Wirtschaft zuständigen oder einer anderen obersten Landesbehörde (oberste Landesbehörde) als vorsitzendes Mitglied, ein Hochschullehrer oder eine Hochschullehrerin der Betriebswirtschaftslehre, ein Mitglied mit der Befähigung zum Richteramt, ein Vertreter oder eine Vertreterin der Finanzverwaltung, ein Vertreter oder eine Vertreterin der Wirtschaft und zwei Wirtschaftsprüfer oder Wirtschaftsprüferinnen. An der verkürzten Prüfung (§ 6), bei der die Prüfung im Steuerrecht entfällt, nimmt die die Finanzverwaltung vertretende Person, an der verkürzten Prüfung, bei der die Prüfung in Angewandter Betriebswirtschaftslehre und Volkswirtschaftslehre entfällt, nimmt der Hochschullehrer oder die Hochschullehrerin der Betriebswirtschaftslehre und an der verkürzten Prüfung, bei der die Prüfung im Wirtschaftsrecht entfällt, nimmt ein zusätzliches Mitglied mit der Befähigung zum Richteramt nicht teil; ein Mitglied der Kommission muss die Befähigung zum Richteramt haben.
 
-(2) Die an der Durchführung der mündlichen Prüfung nach § 15 mitwirkenden Mitglieder der Prüfungskommission sind ein vorsitzendes Mitglied und ein Wirtschaftsprüfer oder eine Wirtschaftsprüferin sowie zusätzlich Eine prüfende Person muss die Befähigung zum Richteramt haben.
+(2) Die an der Durchführung der mündlichen Prüfung nach § 15 mitwirkenden Mitglieder der Prüfungskommission sind ein vorsitzendes Mitglied und ein Wirtschaftsprüfer oder eine Wirtschaftsprüferin sowie zusätzlich
 
-1.
+1. im Prüfungsgebiet Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht ein Vertreter oder eine Vertreterin der Wirtschaft und ein weiterer Wirtschaftsprüfer oder eine weitere Wirtschaftsprüferin,
 
-2.
+2. im Prüfungsgebiet Angewandte Betriebswirtschaftslehre, Volkswirtschaftslehre ein Hochschullehrer oder eine Hochschullehrerin der Betriebswirtschaftslehre und ein Vertreter oder eine Vertreterin der Wirtschaft,
 
-3.
+3. im Prüfungsgebiet Wirtschaftsrecht ein Mitglied mit der Befähigung zum Richteramt und
 
-4.
+4. im Prüfungsgebiet Steuerrecht ein Vertreter oder eine Vertreterin der Finanzverwaltung.
 
 (3) Die Kommission entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit entscheidet die Stimme der vorsitzenden Person.
 
@@ -91,89 +91,53 @@ Wirtschaftsprüferordnung
 
 (1) Prüfungsgebiete sind
 
-1.
+1. Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht,
 
-2.
+2. Angewandte Betriebswirtschaftslehre, Volkswirtschaftslehre,
 
-3.
+3. Wirtschaftsrecht und
 
-4.
+4. Steuerrecht.
 
 (2) Das Prüfungsgebiet Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht umfasst:
 
-1.
+1. Rechnungslegung a)Buchführung, Jahresabschluss und Lagebericht,b)Konzernabschluss und Konzernlagebericht, Bericht über die Beziehungen zu verbundenen Unternehmen,c)international anerkannte Rechnungslegungsgrundsätze,d)Rechnungslegung in besonderen Fällen,e)Jahresabschlussanalyse; Buchführung, Jahresabschluss und Lagebericht, Konzernabschluss und Konzernlagebericht, Bericht über die Beziehungen zu verbundenen Unternehmen, international anerkannte Rechnungslegungsgrundsätze, Rechnungslegung in besonderen Fällen, Jahresabschlussanalyse;
 
-a)
+2. Prüfung a)Prüfung der Rechnungslegung: rechtliche Vorschriften und Prüfungsstandards, insbesondere Prüfungsgegenstand und Prüfungsauftrag, Prüfungsansatz und Prüfungsdurchführung, Bestätigungsvermerk, Prüfungsbericht und Bescheinigungen, andere Reporting-Aufträge,b)sonstige gesetzlich vorgeschriebene Prüfungen, insbesondere aktienrechtliche Sonderprüfungen, Prüfung von Risikofrüherkennungssystemen, Geschäftsführungsprüfungen,c)andere betriebswirtschaftliche Prüfungen, insbesondere Due-Diligence-Prüfungen, Kreditwürdigkeitsprüfungen, Unterschlagungsprüfungen, Wirtschaftlichkeitsprüfungen, Prüfung von Sanierungskonzepten; Prüfung der Rechnungslegung: rechtliche Vorschriften und Prüfungsstandards, insbesondere Prüfungsgegenstand und Prüfungsauftrag, Prüfungsansatz und Prüfungsdurchführung, Bestätigungsvermerk, Prüfungsbericht und Bescheinigungen, andere Reporting-Aufträge, sonstige gesetzlich vorgeschriebene Prüfungen, insbesondere aktienrechtliche Sonderprüfungen, Prüfung von Risikofrüherkennungssystemen, Geschäftsführungsprüfungen, andere betriebswirtschaftliche Prüfungen, insbesondere Due-Diligence-Prüfungen, Kreditwürdigkeitsprüfungen, Unterschlagungsprüfungen, Wirtschaftlichkeitsprüfungen, Prüfung von Sanierungskonzepten;
 
-b)
+3. Grundzüge und Prüfung der Informationstechnologie;
 
-c)
+4. Bewertung von Unternehmen und Unternehmensanteilen;
 
-d)
+5. Berufsrecht, insbesondere Organisation des Berufs, Berufsaufsicht, Berufsgrundsätze und Unabhängigkeit.
 
-e)
+(3) Das Prüfungsgebiet Angewandte Betriebswirtschaftslehre, Volkswirtschaftslehre umfasst:
 
-2.
+1. Angewandte Betriebswirtschaftslehre a)Kosten- und Leistungsrechnung,b)Planungs- und Kontrollinstrumente,c)Unternehmensführung und Unternehmensorganisation,d)Unternehmensfinanzierung sowie Investitionsrechnung,einschließlich methodischer Problemstellungen der externen Rechnungslegung, der Corporate Governance und der Unternehmensbewertung; Kosten- und Leistungsrechnung, Planungs- und Kontrollinstrumente, Unternehmensführung und Unternehmensorganisation, Unternehmensfinanzierung sowie Investitionsrechnung,
 
-a)
-
-b)
-
-c)
-
-3.
-
-4.
-
-5.
-
-(3) Das Prüfungsgebiet Angewandte Betriebswirtschaftslehre, Volkswirtschaftslehre umfasst: die Nummern 1 und 2 umfassen Grundkenntnisse anwendungsorientierter Mathematik und Statistik.
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
+2. Volkswirtschaftslehre a)Grundzüge der Volkswirtschaftslehre und Volkswirtschaftspolitik,b)Grundzüge der Finanzwissenschaft; Grundzüge der Volkswirtschaftslehre und Volkswirtschaftspolitik, Grundzüge der Finanzwissenschaft;
 
 (4) Das Prüfungsgebiet Wirtschaftsrecht umfasst:
 
-1.
+1. Grundzüge des Bürgerlichen Rechts einschließlich Grundzüge des Arbeitsrechts und Grundzüge des internationalen Privatrechts, insbesondere Recht der Schuldverhältnisse und Sachenrecht;
 
-2.
+2. Handelsrecht, insbesondere Handelsstand und -geschäfte einschließlich internationalem Kaufrecht;
 
-3.
+3. Gesellschaftsrecht (Personengesellschaften und Kapitalgesellschaften, Recht der verbundenen Unternehmen), Corporate Governance und Grundzüge des Kapitalmarktrechts;
 
-4.
+4. Umwandlungsrecht;
 
-5.
+5. Grundzüge des Insolvenzrechts;
 
-6.
+6. Grundzüge des Europarechts.
 
 (5) Das Prüfungsgebiet Steuerrecht umfasst:
 
-1.
+1. Abgabenordnung und Nebengesetze, Finanzgerichtsordnung;
 
-2.
+2. Recht der Steuerarten, insbesondere a)Einkommen-, Körperschaft- und Gewerbesteuer,b)Bewertungsgesetz, Erbschaftsteuer, Grundsteuer,c)Umsatzsteuer, Grunderwerbsteuer,d)Umwandlungssteuerrecht; Einkommen-, Körperschaft- und Gewerbesteuer, Bewertungsgesetz, Erbschaftsteuer, Grundsteuer, Umsatzsteuer, Grunderwerbsteuer, Umwandlungssteuerrecht;
 
-a)
-
-b)
-
-c)
-
-d)
-
-3.
+3. Grundzüge des Internationalen Steuerrechts.
 
 ### § 4a — (weggefallen)
 
@@ -214,10 +178,6 @@ Für Entscheidungen nach § 5 Abs. 5 der Wirtschaftsprüferordnung wird bei der 
 Die Aufsicht bei den Aufsichtsarbeiten führen von der Prüfungsstelle bestimmte Personen. Über die Anfertigung der Aufsichtsarbeiten haben sie eine Niederschrift zu fertigen, in der die teilnehmenden Personen, der Zeitpunkt des Beginns und der Abgabe der Arbeiten, etwaige Ordnungsverstöße sowie alle sonstigen wesentlichen Vorkommnisse aufzunehmen sind.
 
 ### § 11 — Prüfungsnoten
-
-(1) Für die Bewertung der einzelnen Prüfungsleistungen werden sechs Notenstufen gebildet. Es bedeuten Die Bewertung mit halben Zwischennoten ist zulässig.
-
-(2) Bei der Ermittlung von Gesamtnoten bedeuten Gesamtnoten errechnen sich aus der Summe der einzelnen Noten, geteilt durch deren Zahl. Das Ergebnis ist auf zwei Dezimalstellen ohne Rundung zu berechnen.
 
 ### § 12 — Bewertung der Aufsichtsarbeiten
 
@@ -287,15 +247,15 @@ Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der Gesamtnote 
 
 (1) Über den Hergang der mündlichen Modulprüfung ist eine Niederschrift aufzunehmen, in der festgestellt werden
 
-1.
+1. die an der Modulprüfung mitwirkenden Mitglieder der Prüfungskommission;
 
-2.
+2. die Bewertung der schriftlichen Arbeiten und die Gesamtnote der schriftlichen Modulprüfung;
 
-3.
+3. die Einzelergebnisse und die Gesamtnote der mündlichen Modulprüfung;
 
-4.
+4. die Modulgesamtnote;
 
-5.
+5. die Entscheidung der an der mündlichen Prüfung mitwirkenden Mitglieder der Prüfungskommission über das Ergebnis der Modulprüfung.
 
 (2) Die Niederschrift ist von dem vorsitzenden Mitglied der Prüfungskommission, das an der mündlichen Prüfung mitgewirkt hat, zu unterschreiben.
 
@@ -344,21 +304,21 @@ Wirtschaftsprüferordnung
 
 (2) Dem Antrag auf Zulassung zur Prüfung sind beizufügen:
 
-1.
+1. ein tabellarischer Lebenslauf, der genaue Angaben über die Vorbildung und den beruflichen Werdegang enthält;
 
-2.
+2. eine Bescheinigung der zuständigen Behörde eines Staates gemäß § 131g Absatz 1 der Wirtschaftsprüferordnung, durch die nachgewiesen wird, dass die zu prüfende Person Abschlussprüfer ist;
 
-3.
+3. (weggefallen)
 
-4.
+4. eine Erklärung über das Wahlfach für die mündliche Prüfung;
 
-5.
+5. eine Erklärung, ob und bei welcher Stelle im Geltungsbereich dieser Verordnung bereits früher ein Antrag auf Zulassung zur Prüfung eingereicht wurde;
 
-6.
+6. Unterlagen, aus denen sich die Staatsangehörigkeit ergibt;
 
-7.
+7. gegebenenfalls eine Erklärung, dass die Prüfung in verkürzter Form (§ 28 Abs. 1) abgelegt werden soll;
 
-8.
+8. gegebenenfalls ein Antrag auf Erlass von Prüfungsleistungen nach § 28 Abs. 2 und 3.
 
 (3) Der Antrag und die beizufügenden Unterlagen sind, soweit sie von der zu prüfenden Person stammen, in deutscher Sprache einzureichen; sonstige Unterlagen sind mit einer beglaubigten Übersetzung durch einen hierzu ermächtigten Übersetzer oder durch eine hierzu ermächtigte Übersetzerin im Geltungsbereich dieser Verordnung vorzulegen, soweit sie nicht in deutscher Sprache abgefasst sind. Prüfungssprache ist Deutsch. § 1a gilt entsprechend.
 
@@ -372,45 +332,17 @@ Wirtschaftsprüferordnung
 
 (1) In der Eignungsprüfung sind Prüfungsgebiete der schriftlichen Prüfung
 
-1.
+1. Wirtschaftsrecht a)Grundzüge des Bürgerlichen Rechts einschließlich Grundzüge des Arbeitsrechts, soweit es für die praktische Berufsarbeit des Wirtschaftsprüfers von Bedeutung ist, mit Ausnahme des Familienrechts und des Erbrechts,b)Grundzüge des Handelsrechts, insbesondere Handelsstand und -geschäfte,c)Gesellschaftsrecht (Personengesellschaften und Kapitalgesellschaften, Recht der verbundenen Unternehmen) und Corporate Governance,d)Umwandlungsrecht; Grundzüge des Bürgerlichen Rechts einschließlich Grundzüge des Arbeitsrechts, soweit es für die praktische Berufsarbeit des Wirtschaftsprüfers von Bedeutung ist, mit Ausnahme des Familienrechts und des Erbrechts, Grundzüge des Handelsrechts, insbesondere Handelsstand und -geschäfte, Gesellschaftsrecht (Personengesellschaften und Kapitalgesellschaften, Recht der verbundenen Unternehmen) und Corporate Governance, Umwandlungsrecht;
 
-a)
+2. Steuerrecht I a)Abgabenordnung und Nebengesetze, Finanzgerichtsordnung,b)Einkommen- und Körperschaftsteuer,c)Bewertungsgesetz,d)Grundzüge des Internationalen Steuerrechts,e)Umwandlungssteuerrecht. Abgabenordnung und Nebengesetze, Finanzgerichtsordnung, Einkommen- und Körperschaftsteuer, Bewertungsgesetz, Grundzüge des Internationalen Steuerrechts, Umwandlungssteuerrecht.
 
-b)
+(2) In der Eignungsprüfung sind Prüfungsgebiete der mündlichen Prüfung
 
-c)
+1. Wirtschaftliches Prüfungswesen a)rechtliche Vorschriften über Rechnungslegung: Buchführung, Jahresabschluss und Lagebericht,b)rechtliche Vorschriften über die Pflichtprüfung des Jahresabschlusses und des Lageberichts von Kapitalgesellschaften und Personenhandelsgesellschaften im Sinne des § 264a des Handelsgesetzbuchs einschließlich des Konzernabschlusses und des Konzernlageberichts; rechtliche Vorschriften über Rechnungslegung: Buchführung, Jahresabschluss und Lagebericht, rechtliche Vorschriften über die Pflichtprüfung des Jahresabschlusses und des Lageberichts von Kapitalgesellschaften und Personenhandelsgesellschaften im Sinne des § 264a des Handelsgesetzbuchs einschließlich des Konzernabschlusses und des Konzernlageberichts;
 
-d)
+2. Berufsrecht der Wirtschaftsprüfer, insbesondere Organisation des Berufs, Berufsaufsicht, Berufsgrundsätze und Unabhängigkeit;
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-(2) In der Eignungsprüfung sind Prüfungsgebiete der mündlichen Prüfung Genügt eine Aufsichtsarbeit nicht den Anforderungen, so ist zusätzlich das Prüfungsgebiet, aus dem diese Arbeit entnommen wurde, Gegenstand der mündlichen Prüfung.
-
-1.
-
-a)
-
-b)
-
-2.
-
-3.
-
-a)
-
-b)
-
-c)
+3. ein vom Bewerber zu bestimmendes Wahlfach; als Wahlfach können gewählt werden die Prüfungsgebiete a)Steuerrecht II (Erbschaftsteuer, Gewerbesteuer, Grundsteuer),b)Insolvenzrecht,c)Grundzüge des Kapitalmarktrechts. Steuerrecht II (Erbschaftsteuer, Gewerbesteuer, Grundsteuer), Insolvenzrecht, Grundzüge des Kapitalmarktrechts.
 
 (3) Die Prüfungsgebiete nach Absatz 1 Nummer 1 Buchstabe c sowie Absatz 2 Satz 1 Nummer 1 sind nur insoweit Prüfungsgegenstand, als sie nicht durch Richtlinien des Rates angeglichen worden sind oder das Recht der Bundesrepublik Deutschland, insbesondere auf Grund von in den Richtlinien eingeräumten Wahlmöglichkeiten, Besonderheiten enthält.
 
@@ -446,15 +378,15 @@ c)
 
 (6) Die Bewertung der mündlichen Prüfungsleistungen mit "genügt den Anforderungen" oder "genügt nicht den Anforderungen" erfolgt auf Vorschlag der jeweils prüfenden Person durch die Prüfungskommission.
 
-(7) Über den Hergang der mündlichen Prüfung ist eine Niederschrift aufzunehmen, in der festgestellt werden Die Niederschrift ist von der vorsitzenden Person der Prüfungskommission zu unterschreiben.
+(7) Über den Hergang der mündlichen Prüfung ist eine Niederschrift aufzunehmen, in der festgestellt werden
 
-1.
+1. die Besetzung der Prüfungskommission;
 
-2.
+2. die Bewertung der schriftlichen Arbeiten;
 
-3.
+3. die Bewertung der mündlichen Prüfung;
 
-4.
+4. die Entscheidung der Prüfungskommission über das Ergebnis der Prüfung.
 
 ### § 31 — Prüfungsergebnis
 

@@ -18,9 +18,9 @@ Auf Grund des § 18 Absatz 3 Satz 1 des Zahlungsdiensteaufsichtsgesetzes vom 25.
 
 (1) Diese Verordnung regelt
 
-1.
+1. Gegenstand und Zeitpunkt der Prüfung der Institute nach § 24 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes sowie
 
-2.
+2. den Inhalt der Prüfungsberichte.
 
 (2) Diese Verordnung ist anzuwenden auf Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes. Auf Institute, die auch Kreditinstitute im Sinne des § 1 Absatz 1 des Kreditwesengesetzes sind, ist diese Verordnung nur insoweit anzuwenden, als sie Anforderungen enthält, die über die Prüfungsberichtsverordnung hinausgehen; über das Ergebnis der Prüfung ist ein einheitlicher Prüfungsbericht zu erstellen.
 
@@ -50,13 +50,13 @@ Der Zeitraum, auf den sich die Prüfung erstreckt (Berichtszeitraum), ist in der
 
 ### § 6 — Zusammenfassende Schlussbemerkung
 
-In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht bereits im Rahmen der dem Bericht vorangestellten Ausführungen nach § 321 Absatz 1 Satz 2 des Handelsgesetzbuchs erfolgt ist, zu allen wichtigen Fragen so Stellung zu nehmen, dass aus ihr selbst ein Gesamturteil übergewonnen werden kann. Hinsichtlich der wirtschaftlichen Lage des Instituts ist insbesondere auf die geschäftliche Entwicklung, die Vermögens-, Liquiditäts- und Ertragslage sowie Art und Umfang der nicht bilanzwirksamen Geschäfte einzugehen. Der Schlussbemerkung muss auch zu entnehmen sein, ob die Bilanzposten ordnungsgemäß bewertet, insbesondere ob die gebildeten Wertberichtigungen und Rückstellungen angemessen sind und ob die geldwäscherechtlichen Vorschriften sowie die Anzeigevorschriften beachtet wurden. Zusammenfassend ist darzulegen, welche über die nach § 321 Absatz 1 Satz 3 des Handelsgesetzbuchs vorgeschriebenen Berichtsinhalte hinausgehenden wesentlichen Beanstandungen sich bei der Prüfung ergeben haben.
+In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht bereits im Rahmen der dem Bericht vorangestellten Ausführungen nach § 321 Absatz 1 Satz 2 des Handelsgesetzbuchs erfolgt ist, zu allen wichtigen Fragen so Stellung zu nehmen, dass aus ihr selbst ein Gesamturteil über
 
-1.
+1. die wirtschaftliche Lage,
 
-2.
+2. die Ordnungsgemäßheit der Geschäftsorganisation, insbesondere die Einrichtung eines angemessenen und wirksamen Risikomanagements, sowie
 
-3.
+3. die Einhaltung der weiteren aufsichtlichen Vorgaben, insbesondere die Einhaltung der Sicherungsanforderungen für die Entgegennahme von Geldbeträgen und der Anforderungen an die Absicherung für den Haftungsfall
 
 ### § 7 — Berichtsturnus; Unterzeichnung
 
@@ -72,23 +72,23 @@ In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht bereits im Ra
 
 (2) Die wesentlichen Änderungen der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen des Instituts im Berichtszeitraum sind darzustellen, wobei insbesondere zu berichten ist über:
 
-1.
+1. Änderungen der Rechtsform und der Satzung oder des Gesellschaftsvertrages,
 
-2.
+2. Änderungen der Kapitalverhältnisse und Gesellschafterverhältnisse,
 
-3.
+3. Änderungen der Geschäftsleitung sowie Änderungen ihrer personellen Zusammensetzung mit Angabe der jeweiligen Zuständigkeit der einzelnen Geschäftsleiter,
 
-4.
+4. Änderungen der Struktur der Zahlungsdienste des E-Geld-Geschäfts und der anderen Geschäfte,
 
-5.
+5. die bevorstehende Aufnahme neuer Geschäftszweige,
 
-6.
+6. Änderungen der rechtlichen und geschäftlichen Beziehungen zu verbundenen Unternehmen sowie zu anderen Unternehmen und über wirtschaftlich bedeutsame Verträge geschäftspolitischer Natur, die die zwischenbetriebliche Zusammenarbeit regeln, wobei insbesondere Angaben über Art und Umfang der vereinbarten Leistungen zu machen sind; die Berichterstattung kann entfallen, wenn für den Berichtszeitraum ein Abhängigkeitsbericht nach § 312 des Aktiengesetzes erstellt und der Bundesanstalt und der Deutschen Bundesbank eingereicht worden ist,
 
-7.
+7. Änderungen im organisatorischen Aufbau des Instituts sowie der unter Risikoaspekten bedeutsamen Ablauforganisation; das aktuelle Organigramm ist dem Prüfungsbericht als Anlage beizufügen,
 
-7a.
+7a. wesentliche Änderungen in den IT-Systemen; die entsprechenden IT-Projekte sind im Prüfungsbericht darzustellen,
 
-8.
+8. Änderungen der Zugehörigkeit des Instituts zu einem Finanzkonglomerat im Sinne des § 1 Absatz 20 des Kreditwesengesetzes sowie Änderungen des übergeordneten Unternehmens eines Finanzkonglomerats nach § 12 des Finanzkonglomerate-Aufsichtsgesetzes.
 
 (3) Über Auslagerungen von wesentlichen Aktivitäten und Prozessen unter Berücksichtigung der in § 26 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes genannten Anforderungen hat der Abschlussprüfer gesondert zu berichten. Dabei ist eine Aussage darüber zu treffen, ob die Einstufung von Auslagerungen als wesentlich oder unwesentlich unter Gesichtspunkten des Risikos, der Art, des Umfangs und der Komplexität nachvollziehbar ist. Ausgelagerte wesentliche Aktivitäten und Prozesse sind nachvollziehbar zu spezifizieren und abzugrenzen. Das in Anlage 1 vorgesehene Formblatt ist zu verwenden.
 
@@ -106,13 +106,13 @@ Der Abschlussprüfer hat über ausländische Zweigniederlassungen zu berichten. 
 
 (2) Der Abschlussprüfer hat zu beurteilen, ob die Maßnahmen der Unternehmenssteuerung, die Kontrollmechanismen und die Verfahren, die gewährleisten, dass das Institut seine Verpflichtungen erfüllt, angemessen sind. Dabei ist insbesondere darauf gesondert einzugehen, ob
 
-1.
+1. das Risikomanagement, einschließlich der internen Kontrollsysteme, angemessen und wirksam ist,
 
-2.
+2. eine Verlustdatenbank geführt und gepflegt wird sowie eine vollständige Dokumentation der Geschäftstätigkeit, die eine lückenlose Überwachung durch die Bundesanstalt für ihren Zuständigkeitsbereich gewährleistet, vorhanden ist,
 
-3.
+3. das Notfallkonzept für die IT-Systeme angemessen ist, und
 
-4.
+4. die interne Revision angemessen ist.
 
 (3) Der Abschlussprüfer hat ferner zu beurteilen, ob die Strukturen des Instituts es seinen Geschäftsleitern sowie seinem Verwaltungs- oder Aufsichtsorgan ermöglichen, seine Aufgaben ordnungsgemäß wahrzunehmen.
 
@@ -120,11 +120,11 @@ Der Abschlussprüfer hat über ausländische Zweigniederlassungen zu berichten. 
 
 (1) Der Abschlussprüfer hat im Rahmen der Beurteilung nach § 10 Absatz 2 Satz 1 und 2 Nummer 3 insbesondere darauf einzugehen, ob die organisatorischen, personellen und technischen Vorkehrungen zur Sicherstellung der Integrität, Vertraulichkeit, Authentizität und Verfügbarkeit der aufsichtlich relevanten Daten angemessen sind und wirksam umgesetzt werden. Dabei ist insbesondere gesondert einzugehen auf
 
-1.
+1. das IT-Sicherheitsmanagement, welches jedenfalls auch den Umgang mit sensiblen Zahlungsdaten im Sinne des § 1 Absatz 26 des Zahlungsdiensteaufsichtsgesetzes beinhaltet,
 
-2.
+2. die technischen und betrieblichen Verfahren bei einem Notfall, einschließlich der Regelungen zur Geschäftsfortführung im Krisenfall, sowie
 
-3.
+3. die Beherrschung schwerer Betriebs- oder Sicherheitsvorfälle einschließlich des Umgangs mit sicherheitsbezogenen Kundenbeschwerden.
 
 (2) Werden externe IT-Ressourcen eingesetzt, so erstrecken sich die vorgenannten Berichte auch auf diese IT-Ressourcen einschließlich deren Einbindung in das Institut.
 
@@ -142,17 +142,17 @@ Der Abschlussprüfer hat über ausländische Zweigniederlassungen zu berichten. 
 
 (1) Darzustellen sind Höhe und Zusammensetzung der Eigenmittel des Instituts nach § 15 Absatz 1 Satz 1 und 2 und § 1 Absatz 29 des Zahlungsdiensteaufsichtsgesetzes in Verbindung mit den Bestimmungen der ZAG-Instituts-Eigenmittelverordnung nach dem Stand bei Geschäftsschluss am Bilanzstichtag und unter der Annahme der Feststellung des geprüften Abschlusses. Die bei beziehungsweise von anderen Instituten, Kredit- oder Finanzdienstleistungsinstituten, Wertpapierinstituten, Finanzunternehmen, Erstversicherungsunternehmen und Rückversicherungsunternehmen aufgenommenen beziehungsweise gehaltenen Eigenmittelbestandteile sind unter namentlicher Nennung dieser Unternehmen besonders zu kennzeichnen.
 
-(2) Darzustellen ist die Einhaltung der Vorgaben für Eigenmittel nach § 15 Absatz 1, 2, 4 und 5 und § 1 Absatz 29 des Zahlungsdiensteaufsichtsgesetzes in Verbindung mit den Bestimmungen der ZAG-Instituts-Eigenmittelverordnung. Insbesondere ist näher zu erläutern, ob die Vorgaben eingehalten wurden.
+(2) Darzustellen ist die Einhaltung der Vorgaben für Eigenmittel nach § 15 Absatz 1, 2, 4 und 5 und § 1 Absatz 29 des Zahlungsdiensteaufsichtsgesetzes in Verbindung mit den Bestimmungen der ZAG-Instituts-Eigenmittelverordnung. Insbesondere ist näher zu erläutern, ob die Vorgaben
 
-1.
+1. über die Berechnung der Eigenmittelanforderungen anhand der anzuwendenden Methoden, sowie
 
-2.
+2. für die Ansätze der einzelnen Eigenmittelbestandteile
 
-(3) Besonderheiten bei der Entwicklung der Eigenmittel oder einzelner Eigenmittelbestandteile während des Berichtszeitraums sind näher zu erläutern. Es soll insbesondere auf eingegangen werden.
+(3) Besonderheiten bei der Entwicklung der Eigenmittel oder einzelner Eigenmittelbestandteile während des Berichtszeitraums sind näher zu erläutern. Es soll insbesondere auf
 
-1.
+1. die konkrete Ausgestaltung der einzelnen Eigenmittelbestandteile einschließlich der Verfügbarkeit für die Deckung von Risiken sowie
 
-2.
+2. den konkreten Bestand der einzelnen Eigenmittelbestandteile einschließlich etwaiger Entnahmen der Gesellschafter des Instituts
 
 (4) Bei den Erläuterungen der Eigenmittel sind insbesondere befristete oder von Seiten des Kapitalgebers kündbare Eigenmittelbestandteile nach ihrem frühestmöglichen Mittelabfluss beziehungsweise nach ihrer frühestmöglichen Kündbarkeit in Jahresbändern darzustellen; Gleiches gilt für Instrumente des Ergänzungskapitals anhand deren Fälligkeit.
 
@@ -168,11 +168,11 @@ Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsg
 
 (2) Es soll insbesondere näher erläutert werden, ob
 
-1.
+1. das Institut eine Berufshaftpflichtversicherung oder eine andere gleichwertige Garantie aufrecht erhält,
 
-2.
+2. sich die Berufshaftpflichtversicherung oder eine andere gleichwertige Garantie auf die Gebiete, in denen das Institut Zahlungsauslösedienste erbringt, erstreckt, und
 
-3.
+3. die Berufshaftpflichtversicherung oder eine andere gleichwertige Garantie die sich für das Institut aus den Zahlungsauslösediensten ergebende Haftung nach den Vorschriften des Bürgerlichen Gesetzbuchs abdeckt.
 
 (3) Die Prüfungen sollen sich darüber hinaus auch darauf erstrecken, ob die Absicherung für den Haftungsfall bei Zahlungsauslösediensten in einer Höhe vorgehalten wird, die das Risikoprofil, die Art der Tätigkeit und der Umfang der Tätigkeit nach Maßgabe der Kriterien des § 16 Absatz 1 und 5 des Zahlungsdiensteaufsichtsgesetzes in Verbindung mit § 10 der ZAG-Instituts-Eigenmittelverordnung erforderlich machen.
 
@@ -212,23 +212,23 @@ Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Auf die Vollst�
 
 (2) Hinsichtlich der getroffenen Vorkehrungen hat der Abschlussprüfer im Prüfungsbericht zu beurteilen:
 
-1.
+1. deren Angemessenheit und
 
-2.
+2. deren Wirksamkeit, soweit diese gemäß Artikel 7 Absatz 2, Artikel 8 Absatz 1 Satz 1, Artikel 11 Absatz 1 und 2 oder Artikel 12 Absatz 1 Satz 1 der Verordnung (EU) 2015/847 gegeben sein muss.
 
 (3) Bei Mutterunternehmen von Unternehmensgruppen hat der Abschlussprüfer zudem die Vorkehrungen nach § 9 des Geldwäschegesetzes dahingehend zu beurteilen, ob
 
-1.
+1. die Pflicht nach § 9 Absatz 1 Satz 1 des Geldwäschegesetzes, eine Risikoanalyse durchzuführen, wirksam erfüllt wurde und die Maßnahmen nach § 9 Absatz 1 Satz 2 des Geldwäschegesetzes wirksam umgesetzt werden oder ihre wirksame Umsetzung gemäß § 9 Absatz 1 Satz 3 des Geldwäschegesetzes sichergestellt ist, und
 
-2.
+2. im Fall des § 9 Absatz 3 Satz 2 des Geldwäschegesetzes sichergestellt ist, dass die im betreffenden Drittstaat ansässigen gruppenangehörigen Unternehmen zusätzliche Maßnahmen ergreifen, um dem Risiko der Geldwäsche und der Terrorismusfinanzierung wirksam zu begegnen, und die Bundesanstalt über die insoweit getroffenen Maßnahmen informiert wurde.
 
 (4) Der Abschlussprüfer hat bei der Beurteilung nach den Absätzen 2 und 3 auch darauf einzugehen, ob die Risikoanalyse, die das Institut im Rahmen des Risikomanagements zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung gemäß § 5 des Geldwäschegesetzes erstellt hat, der tatsächlichen Risikosituation des Instituts entspricht.
 
 (5) In Bezug auf die Pflichten eines Instituts im Zusammenhang
 
-1.
+1. mit dem automatisierten Abruf von Kontoinformationen nach § 24c des Kreditwesengesetzes hat der Abschlussprüfer bei der Beurteilung nach Absatz 2 insbesondere darauf einzugehen, ob die vom Institut zur Erfüllung dieser Pflichten eingesetzten Verfahren die zutreffende Erfassung der jeweils aufgenommenen Identifizierungsdaten mit richtiger Zuordnung zum entsprechenden Konto im Abrufsystem gewährleisten, und
 
-2.
+2. mit der Erfüllung der Sorgfaltspflichten nach § 25i des Kreditwesengesetzes in Bezug auf E-Geld hat der Abschlussprüfer die Beurteilung nach Absatz 2 für jedes E-Geld-Produkt getrennt vorzunehmen.
 
 (6) Hat die Bundesanstalt gegenüber dem verpflichteten Institut nach dem Geldwäschegesetz oder dem Zahlungsdiensteaufsichtsgesetz Anordnungen getroffen, die im Zusammenhang stehen mit den Pflichten des Instituts zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung, so hat der Abschlussprüfer darüber im Rahmen seiner Darstellung nach Absatz 1 zu berichten. Zudem hat der Abschlussprüfer zu beurteilen, ob das verpflichtete Institut diese Anordnungen ordnungsgemäß befolgt hat.
 
@@ -236,25 +236,15 @@ Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Auf die Vollst�
 
 (8) Bei der Darstellung der Risikosituation des Instituts hat der Abschlussprüfer zudem anhand der aktuellen und vollständigen Risikoanalyse des Instituts die folgenden Angaben in die Anlage 2 aufzunehmen:
 
-1.
+1. sämtliche vom Institut angebotene Hochrisikoprodukte,
 
-2.
+2. die Anzahl aller Kunden des Instituts, den prozentualen Anteil der Kunden mit geringem Risiko und den prozentualen Anteil der Hochrisikokunden sowie die Anzahl der politisch exponierten Personen unter den Kunden,
 
-3.
+3. zu den Korrespondenzbeziehungen des Instituts im Sinne des § 1 Absatz 21 des Geldwäschegesetzes: a)die Anzahl der Korrespondenzbeziehungen des Instituts mit Instituten und Instituten im Sinne des Kreditwesengesetzes, die in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ansässig sind, sowieb)die Anzahl der Korrespondenzbeziehungen des Instituts mit Instituten und Instituten im Sinne des Kreditwesengesetzes, die in einem Drittstaat ansässig sind, und von diesen Korrespondenzbeziehungen die Anzahl der Korrespondenzbeziehungen, die das Institut mit Instituten hat, die in einem Hochrisikostaat im Sinne des § 15 Absatz 3 Nummer 1 Buchstabe b des Geldwäschegesetzes ansässig sind, die Anzahl der Korrespondenzbeziehungen des Instituts mit Instituten und Instituten im Sinne des Kreditwesengesetzes, die in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ansässig sind, sowie die Anzahl der Korrespondenzbeziehungen des Instituts mit Instituten und Instituten im Sinne des Kreditwesengesetzes, die in einem Drittstaat ansässig sind, und von diesen Korrespondenzbeziehungen die Anzahl der Korrespondenzbeziehungen, die das Institut mit Instituten hat, die in einem Hochrisikostaat im Sinne des § 15 Absatz 3 Nummer 1 Buchstabe b des Geldwäschegesetzes ansässig sind,
 
-a)
+4. zu den Zweigstellen, den Zweigniederlassungen und den sonstigen nachgeordneten Unternehmen des Instituts: a)deren Anzahl im Inland,b)deren Anzahl in den anderen Mitgliedstaaten der Europäischen Union und Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum,c)deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassungen und sonstigen nachgeordneten Unternehmen die Anzahl der Zweigstellen, Zweigniederlassungen und sonstigen nachgeordneten Unternehmen, die in Hochrisikostaaten im Sinne des § 15 Absatz 3 Nummer 1 Buchstabe b des Geldwäschegesetzes ansässig sind,sowie deren Anzahl im Inland, deren Anzahl in den anderen Mitgliedstaaten der Europäischen Union und Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassungen und sonstigen nachgeordneten Unternehmen die Anzahl der Zweigstellen, Zweigniederlassungen und sonstigen nachgeordneten Unternehmen, die in Hochrisikostaaten im Sinne des § 15 Absatz 3 Nummer 1 Buchstabe b des Geldwäschegesetzes ansässig sind,
 
-b)
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
+5. die Anzahl der Agenten und E-Geld-Agenten, die für das Institut im Inland tätig sind, und die Anzahl der Agenten und E-Geld-Agenten, die für das Institut in den anderen Mitgliedstaaten der Europäischen Union und Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum tätig sind.
 
 (9) Der Abschlussprüfer hat die wesentlichen Ergebnisse seiner Prüfung zusätzlich in einen Erfassungsbogen nach Anlage 2 dieser Verordnung einzutragen und dort zu bewerten. Für die Bewertung ist die für den Erfassungsbogen vorgegebene Klassifizierung zu verwenden. Sofern die jeweiligen zugrundeliegenden Pflichten im Einzelfall im Hinblick auf die Geschäftstätigkeiten des Instituts nicht relevant sind, hat der Abschlussprüfer dies mit der Feststellung F 5 zu vermerken. Der Erfassungsbogen ist Teil des Prüfungsberichts und vollständig auszufüllen.
 
@@ -264,9 +254,9 @@ c)
 
 (1) Der Abschlussprüfer hat darzustellen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) 2021/1230 des Europäischen Parlaments und des Rates vom 14. Juli 2021 über grenzüberschreitende Zahlungen in der Union (ABl. L 274 vom 30.7.2021, S. 20), die durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, entsprechen. Die Beurteilung umfasst die Einhaltung der Bestimmungen zu
 
-1.
+1. Entgelten für grenzüberschreitende Zahlungen nach Artikel 3 Absatz 1 der Verordnung sowie
 
-2.
+2. Entgelten nach Artikel 4 Absatz 3 Satz 1 der Verordnung, die über das Entgelt gemäß Artikel 3 Absatz 1 der Verordnung hinausgehen.
 
 (2) Des Weiteren hat der Abschlussprüfer darzustellen, welche Maßnahmen das Institut ergriffen hat, um die in Absatz 1 genannten Anforderungen der Verordnung (EU) 2021/1230 zu erfüllen.
 
@@ -276,17 +266,17 @@ c)
 
 (1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, entsprechen. Die Beurteilung umfasst
 
-1.
+1. die Erreichbarkeit für Überweisungen und Lastschriften innerhalb der Europäischen Union nach Artikel 3 der Verordnung,
 
-2.
+2. die Einhaltung der technischen Anforderungen für Überweisungen und Lastschriften nach Artikel 5 Absatz 1 bis 3 sowie 7 und 8 der Verordnung,
 
-2a.
+2a. die Versendung und den Empfang für Echtzeitüberweisungen innerhalb der Europäischen Union nach Artikel 5a der Verordnung,
 
-2b.
+2b. die Einhaltung der Bestimmungen zu Entgelten nach Artikel 5b der Verordnung,
 
-2c.
+2c. die Einhaltung der Bestimmungen zur Überprüfung des Zahlungsempfängers im Fall von Überweisungen nach Artikel 5c der Verordnung sowie
 
-3.
+3. die Einhaltung der Bestimmungen zu Interbankenentgelten für Lastschriften nach Artikel 8 der Verordnung.
 
 (2) Des Weiteren hat der Abschlussprüfer darzustellen, welche Maßnahmen das Institut ergriffen hat, um die in Absatz 1 genannten Anforderungen der Verordnung (EU) Nr. 260/2012 zu erfüllen.
 
@@ -296,9 +286,9 @@ c)
 
 (1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1) entsprechen. Die Beurteilung umfasst die Einhaltung der Bestimmungen zu
 
-1.
+1. Entgelten nach Artikel 3 Absatz 1 der Verordnung sowie
 
-2.
+2. Entgelten nach Artikel 4 Satz 1 der Verordnung.
 
 (2) Des Weiteren hat der Abschlussprüfer darzustellen, welche Maßnahmen das Institut ergriffen hat, um die in Absatz 1 genannten Anforderungen der Verordnung (EU) 2015/751 zu erfüllen.
 
@@ -310,13 +300,13 @@ c)
 
 (1) Bei Instituten hat der Abschlussprüfer zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den folgenden Anforderungen des Zahlungskontengesetzes entsprechen:
 
-1.
+1. den Informationspflichten gemäß den §§ 5 bis 15 des Zahlungskontengesetzes,
 
-2.
+2. der Kontenwechselhilfe gemäß den §§ 20 bis 26 des Zahlungskontengesetzes,
 
-3.
+3. der Erleichterung grenzüberschreitender Kontoeröffnungen gemäß den §§ 27 bis 29 des Zahlungskontengesetzes und
 
-4.
+4. den institutsinternen Organisationspflichten gemäß § 46 Absatz 1 des Zahlungskontengesetzes.
 
 (2) Der Abschlussprüfer hat darzustellen, welche Maßnahmen das Institut ergriffen hat, um die in Absatz 1 genannten Anforderungen des Zahlungskontengesetzes zu erfüllen.
 
@@ -344,11 +334,11 @@ Die geschäftliche Entwicklung ist unter Gegenüberstellung der sie kennzeichnen
 
 (2) Die Berichterstattung hat sich auch zu erstrecken auf
 
-1.
+1. Art und Umfang stiller Reserven und stiller Lasten,
 
-2.
+2. bedeutende Verträge und schwebende Rechtsstreitigkeiten, soweit sich nachteilige Auswirkungen auf die Vermögenslage ergeben könnten, und die Bildung der notwendigen Rückstellungen,
 
-3.
+3. alle abgegebenen Patronatserklärungen unter Darstellung des Inhalts und Beurteilung ihrer Rechtsverbindlichkeit.
 
 ### § 20 — Beurteilung der Ertragslage
 
@@ -372,9 +362,9 @@ Die geschäftliche Entwicklung ist unter Gegenüberstellung der sie kennzeichnen
 
 (2) Eventualverpflichtungen und andere Verpflichtungen sind zu erläutern, wenn es die relative Bedeutung des Postens erfordert. Werden Angaben gemacht, ist Folgendes zu berücksichtigen:
 
-1.
+1. Eventualverbindlichkeiten: Zu den Verbindlichkeiten aus Bürgschaften und Gewährleistungsverträgen ist die Angabe von Arten und Beträgen sowie die Aufgliederung nach Kreditnehmern (Kreditinstitute und Nichtkreditinstitute) erforderlich, bei Kreditgarantiegemeinschaften auch die Angabe der noch nicht valutierenden Beträge sowie der Nebenkosten, wobei die Beträge zu schätzen sind, falls genaue Zahlen nicht vorliegen. Es ist darzulegen, ob notwendige Rückstellungen gebildet sind.
 
-2.
+2. Andere Verpflichtungen: Die Rücknahmeverpflichtungen aus unechten Pensionsgeschäften sind nach der Art der in Pension gegebenen Gegenstände und nach Fristen zu gliedern.
 
 ## Abschnitt 6: Datenübersichten  
 
@@ -402,8 +392,6 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 Institutsnummer:
 
-Name des Instituts:
-
 ### Anlage 2 — (zu § 16 Absatz 9)
 
 Institut:
@@ -414,8 +402,8 @@ Prüfungsstichtag:
 
 Prüfungsleiter vor Ort:
 
-1.
+A. Angaben zu folgenden Risikofaktoren anhand der aktuellen und vollständigen institutseigenen Risikoanalyse (§ 16 Abs. 8 ZahlPrüfbV):1.Auflistung sämtlicher angebotener Hochrisikoprodukte (laut Risikoanalyse): 2.Anzahl der Kunden: I.Anteil der Kunden mit geringem Risiko , %II.Anteil der Hochrisikokunden , %III.Anzahl von politisch exponierten Personen (Vertragspartner, wirtschaftlich Berechtigte) 3.Anzahl der Korrespondenzbeziehungen mit Unternehmen mit Sitz in:I.EU/EWR-Staaten II.Drittstaaten davon inHochrisikostaaten 4.Anzahl der Zweigstellen/Zweigniederlassungen/ nachgeordneten Unternehmen:I.im Inland II.im EU-/EWR-Ausland III.in Drittstaaten davon inHochrisikostaaten 5.Anzahl der für das Institut tätigen Agenten, E-Geld-Agenten:I.im Inland II.im EU-/EWR-Ausland Auflistung sämtlicher angebotener Hochrisikoprodukte (laut Risikoanalyse):
+
+B. Klassifizierung von Prüfungsfeststellungen Für die Klassifizierung von Prüfungsfeststellungen ist der Prüfungsleiter vor Ort verantwortlich. Feststellung F 0 – keine Mängel Feststellung F 1 – geringfügige Mängel Feststellung F 2 – mittelschwere Mängel Feststellung F 3 – gewichtige Mängel Feststellung F 4 – schwergewichtige Mängel Feststellung F 5 – nicht anwendbar Eine F 0-Feststellung beschreibt ein völliges Fehlen von Normverstößen. Eine F 1-Feststellung beschreibt einen Normverstoß mit leichten Auswirkungen auf die Wirksamkeit der Präventionsmaßnahme bzw. der Präventionsvorkehrung. Eine F 2-Feststellung beschreibt einen Normverstoß mit merklichen Auswirkungen auf die Wirksamkeit der Präventionsmaßnahme bzw. der Präventionsvorkehrung. Eine F 3-Feststellung beschreibt einen Normverstoß mit deutlichen Auswirkungen auf die Wirksamkeit der Präventionsmaßnahme bzw. der Präventionsvorkehrung. Eine F 4-Feststellung beschreibt einen Normverstoß, der die Wirksamkeit der Präventionsmaßnahme bzw. der Präventionsvorkehrung erheblich beeinträchtigt oder vollständig beseitigt. Eine F 5-Feststellung beschreibt die Nichtanwendbarkeit des Prüfungsgebiets im geprüften Institut.
 
 ### Anlage 3 — (zu § 23)
-
-Die angegebenen Beträge (kaufmännische Rundung) lauten auf Tsd. Euro (EUR);Prozentangaben sind mit einer Nachkommastelle anzugeben.

@@ -23,17 +23,17 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird erm�
 
 (1) Es ist verboten, Vögel der in Anlage 3 Tabelle 1 Spalte A des Abkommens aufgeführten Arten von einem Schiff aus, das berechtigt ist, die Bundesflagge zu führen, außerhalb der nationalen Hoheitsgewässer der Natur zu entnehmen.
 
-(2) Das Bundesamt für Naturschutz kann auf Antrag Ausnahmen von dem Verbot nach Absatz 1 zulassen, wenn Die Ausnahmen sind räumlich und zeitlich zu beschränken und dürfen die Erhaltung der betreffenden Art nicht gefährden. Maßnahmen aus Gründen der Verteidigung sind von den Verboten des Absatzes 1 ausgenommen.
+(2) Das Bundesamt für Naturschutz kann auf Antrag Ausnahmen von dem Verbot nach Absatz 1 zulassen, wenn
 
-1.
+1. die Entnahme aus der Natur wissenschaftlichen Zwecken dient oder
 
-2.
+2. außerordentliche Umstände es erfordern.
 
 (3) Im Sinne dieses Gesetzes bedeutet "der Natur entnehmen"
 
-1.
+1. entnehmen, jagen, fangen oder
 
-2.
+2. absichtlich beunruhigen oder absichtlich töten.
 
 ### Art 4
 

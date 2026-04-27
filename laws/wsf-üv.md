@@ -17,29 +17,21 @@ Auf Grund des § 20 Absatz 4 Satz 4, auch in Verbindung mit Satz 5, und Absatz 6
 
 ### § 2 — Bestimmung der Entscheidungsorgane
 
-(1) Dem Wirtschaftsstabilisierungsfonds-Ausschuss sind zur Entscheidung vorzulegen  Bei mehreren parallelen Maßnahmen aufgrund eines Antrages wird für jede Maßnahme die Gesamtsumme der parallelen Maßnahmen (Garantiesumme und Erwerbspreise) zu Grunde gelegt.
+(1) Dem Wirtschaftsstabilisierungsfonds-Ausschuss sind zur Entscheidung vorzulegen
 
-1.
+1. Garantien nach § 21 des Stabilisierungsfondsgesetzes mit einer Garantiesumme von mindestens 500 Millionen Euro sowie Anträge von Unternehmen nach § 21 Absatz 1 Satz 2 des Stabilisierungsfondsgesetzes
 
-2.
+2. Rekapitalisierungsmaßnahmen nach § 22 des Stabilisierungsfondsgesetzes durch den a)Erwerb von nachrangigen Schuldtiteln, Hybridanleihen, Genussrechten, stillen Beteiligungen und Wandelanleihen von insgesamt mindestens 200 Millionen Euro oderb)Erwerb von Anteilen an Unternehmen und die Übernahme sonstiger Bestandteile des Eigenkapitals dieser Unternehmen mit einem Erwerbspreis von mindestens 200 Millionen Euro sowie Erwerb von nachrangigen Schuldtiteln, Hybridanleihen, Genussrechten, stillen Beteiligungen und Wandelanleihen von insgesamt mindestens 200 Millionen Euro oder Erwerb von Anteilen an Unternehmen und die Übernahme sonstiger Bestandteile des Eigenkapitals dieser Unternehmen mit einem Erwerbspreis von mindestens 200 Millionen Euro sowie
 
-a)
+3. Rekapitalisierungsmaßnahmen nach § 22 Absatz 2 Satz 3 des Stabilisierungsfondsgesetzes.
 
-b)
+(2) Dem Bundesministerium der Finanzen sind zur Entscheidung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie vorzulegen:
 
-3.
+1. Garantien nach § 21 des Stabilisierungsfondsgesetzes ab einer Garantiesumme von 100 Millionen Euro
 
-(2) Dem Bundesministerium der Finanzen sind zur Entscheidung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie vorzulegen: soweit sie nicht in die Zuständigkeit des Wirtschaftsstabilisierungsfonds-Ausschuss nach Absatz 1 fallen. Absatz 1 Satz 2 gilt entsprechend.
+2. alle Rekapitalisierungsmaßnahmen nach § 22 des Stabilisierungsfondsgesetzes durch a)Erwerb von nachrangigen Schuldtiteln, Hybridanleihen, Genussrechten, stillen Beteiligungen und Wandelanleihen, oderb)Erwerb von Anteilen an Unternehmen und die Übernahme sonstiger Bestandteile des Eigenkapitals dieser Unternehmen, Erwerb von nachrangigen Schuldtiteln, Hybridanleihen, Genussrechten, stillen Beteiligungen und Wandelanleihen, oder Erwerb von Anteilen an Unternehmen und die Übernahme sonstiger Bestandteile des Eigenkapitals dieser Unternehmen,
 
-1.
-
-2.
-
-a)
-
-b)
-
-3.
+3. Entscheidungen über Garantien nach § 21 des Stabilisierungsfondsgesetzes, die das Bundesministerium der Finanzen oder das Bundesministerium für Wirtschaft und Energie nach § 2 Absatz 4 an sich gezogen haben,
 
 (3) Die Kreditanstalt für Wiederaufbau entscheidet über alle Anträge von Unternehmen auf Übernahme von Garantien nach § 21 des Stabilisierungsfondsgesetzes, die nicht unter Absatz 1 oder Absatz 2 fallen. Vor einer Entscheidung hat die Kreditanstalt für Wiederaufbau dem Bundesministerium der Finanzen sowie dem Bundesministerium für Wirtschaft und Energie Gelegenheit zu einer Stellungnahme zu geben.
 
@@ -73,15 +65,15 @@ b)
 
 (4) Entscheidungsvorschläge nach den Absätzen 2 und 3 sind zu begründen. Die Begründung soll insbesondere enthalten:
 
-1.
+1. eine Bewertung der Geschäftspolitik des antragstellenden Unternehmens,
 
-2.
+2. eine Bewertung der Angemessenheit von Vergütungen und Vergütungssystemen,
 
-3.
+3. eine Erläuterung zu den Grundsätzen der Ausgestaltung von vertraglichen Beziehungen oder von Verwaltungsakten,
 
-4.
+4. eine Erläuterung zu den Unterrichtungspflichten des antragstellenden Unternehmens, sowie
 
-5.
+5. eine Begründung, wenn der Vorschlag Ausnahmen von Vorgaben der auf Grund von § 19 Absatz 2, § 21 Absatz 2, § 22 Absatz 3, § 25 Absatz 3 und § 26 Absatz 3 des Stabilisierungsfondsgesetzes erlassenen Rechtsverordnungen enthält.
 
 (5) Entscheidungsvorschläge nach Absatz 3 sind dem Bundesministerium der Finanzen und der Finanzagentur zur Kenntnis zu geben. Dem Wirtschaftsstabilisierungsfonds-Ausschuss sind sie nach § 20 Absatz 4 Satz 3 des Stabilisierungsfondsgesetzes mit einer die Sitzung des Wirtschaftsstabilisierungsfonds-Ausschusses vorbereitenden Unterlage zuzuleiten. Die Kreditanstalt für Wiederaufbau und die Finanzagentur nehmen auf Anforderung an den Sitzungen des Ausschusses mit beratender Stimme teil.
 
@@ -93,9 +85,9 @@ b)
 
 (3) Die Finanzagentur kann das Recht, für den Wirtschaftsstabilisierungsfonds alle zur Umsetzung bewilligter Maßnahmen nach § 21 des Stabilisierungsfondsgesetzes erforderlichen Verträge mit den antragstellenden Unternehmen abzuschließen, teilweise auf die Kreditanstalt für Wiederaufbau übertragen, soweit die Entscheidung über diese Maßnahmen nach § 2 Absatz 3 bei der Kreditanstalt für Wiederaufbau liegt. Diese Übertragung umfasst das Recht, im Namen und für Rechnung des Wirtschaftsstabilisierungsfonds nach Maßgabe der Finanzagentur die zur Umsetzung der Entscheidungen erforderlichen
 
-1.
+1. Selbstverpflichtungserklärungen der Antragsteller oder Dritter entgegenzunehmen sowie
 
-2.
+2. Daten, Verträge und Unterlagen, die für die Erfüllung der begründeten Verpflichtungen erforderlich sind, der Finanzagentur, dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie zu übermitteln.
 
 (4) Die Kreditanstalt für Wiederaufbau wird ermächtigt, Verwaltungsakte über die von den begünstigten Unternehmen zu erfüllenden Anforderungen nach § 25 Absatz 3 des Stabilisierungsfondsgesetzes mit Zustimmung der Finanzagentur in Vertretung des Wirtschaftsstabilisierungsfonds zu erlassen.
 
@@ -119,11 +111,11 @@ b)
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie der Kreditanstalt für Wiederaufbau hinsichtlich der dieser nach § 4 übertragenen Aufgaben
 
-1.
+1. Weisungen erteilen,
 
-2.
+2. Entscheidungen nach dem Stabilisierungsfondsgesetz und dieser Verordnung sowie Maßnahmen im Rahmen der Verwaltung des Fonds selbst treffen und
 
-3.
+3. sonstige Durchführungshinweise und Vorgaben für die Wahrnehmung der an die Kreditanstalt für Wiederaufbau übertragenen Aufgaben festlegen.
 
 ### § 10 — Inkrafttreten
 

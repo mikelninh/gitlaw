@@ -3840,6 +3840,16 @@
     "file": "prümvtrag.md"
   },
   {
+    "id": "apmag",
+    "title": "Ausführungsgesetz zum Verbotsübereinkommen für Antipersonenminen",
+    "abbreviation": "APMAG",
+    "date": "1998-07-06",
+    "stand": "Zuletzt geändert durch Art. 27 V v. 31.8.2015 I 1474",
+    "sections": 8,
+    "lines": 100,
+    "file": "apmag.md"
+  },
+  {
     "id": "grenzgnldag",
     "title": "Ausführungsgesetz zum Zusatzprotokoll vom 13. März 1980 zum Abkommen vom",
     "abbreviation": "GrenzgNLDAG",
@@ -18376,7 +18386,7 @@
     "date": "1994-08-30",
     "stand": "",
     "sections": 6,
-    "lines": 39,
+    "lines": 41,
     "file": "wtoübkg.md"
   },
   {
@@ -19246,7 +19256,7 @@
     "date": "2018-12-04",
     "stand": "",
     "sections": 4,
-    "lines": 23,
+    "lines": 21,
     "file": "wastaüstvtrg.md"
   },
   {
@@ -24136,7 +24146,7 @@
     "date": "1957-07-26",
     "stand": "",
     "sections": 6,
-    "lines": 32,
+    "lines": 30,
     "file": "waskwvändg.md"
   },
   {
@@ -28470,6 +28480,16 @@
     "file": "strrehag.md"
   },
   {
+    "id": "kerzg",
+    "title": "Gesetz über die religiöse Kindererziehung",
+    "abbreviation": "KErzG",
+    "date": "1921-07-15",
+    "stand": "Zuletzt geändert durch Art. 15 Abs. 21 G v. 4.5.2021 I 882",
+    "sections": 10,
+    "lines": 52,
+    "file": "kerzg.md"
+  },
+  {
     "id": "bpräsruhebezg",
     "title": "Gesetz über die Ruhebezüge des Bundespräsidenten",
     "abbreviation": "BPräsRuhebezG",
@@ -30850,6 +30870,16 @@
     "file": "kagb.md"
   },
   {
+    "id": "kernbrstg",
+    "title": "Kernbrennstoffsteuergesetz",
+    "abbreviation": "KernbrStG",
+    "date": "2010-12-08",
+    "stand": "Geändert durch Art. 240 V v. 31.8.2015 I 1474",
+    "sections": 13,
+    "lines": 116,
+    "file": "kernbrstg.md"
+  },
+  {
     "id": "kbv_2002",
     "title": "Kleinbetragsverordnung",
     "abbreviation": "KBV 2002",
@@ -31946,7 +31976,7 @@
     "date": "2004-07-20",
     "stand": "Zuletzt geändert durch Art. 7 V v. 11.12.2024 I Nr. 411",
     "sections": 42,
-    "lines": 492,
+    "lines": 424,
     "file": "wiprprüfv.md"
   },
   {
@@ -33246,7 +33276,7 @@
     "date": "1921-07-29",
     "stand": "",
     "sections": 26,
-    "lines": 175,
+    "lines": 169,
     "file": "wastrübgvtr.md"
   },
   {
@@ -33376,7 +33406,7 @@
     "date": "2018-05-30",
     "stand": "Der Staatsvertrag ist gem. § 3 iVm Bek. v. 12.4.2019 I 496 am 1.1.2019 in Kraft getreten",
     "sections": 7,
-    "lines": 58,
+    "lines": 54,
     "file": "wastaüstvtr.md"
   },
   {
@@ -34848,6 +34878,16 @@
     "sections": 14,
     "lines": 208,
     "file": "chemklimaschutzv.md"
+  },
+  {
+    "id": "chemklimaschutzv_2026",
+    "title": "Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag bestimmter fluorierter Treibhausgase und zur Durchführung der Verordnung (EU) 2024/573",
+    "abbreviation": "ChemKlimaschutzV 2026",
+    "date": "2026-04-14",
+    "stand": "Ersetzt V 8053-6-33 v. 2.7.2008 I 1139 (ChemKlimaschutzV)",
+    "sections": 17,
+    "lines": 284,
+    "file": "chemklimaschutzv_2026.md"
   },
   {
     "id": "solingenv",
@@ -38658,6 +38698,16 @@
     "sections": 3,
     "lines": 19,
     "file": "baspoermv.md"
+  },
+  {
+    "id": "bmvbverfpaktv",
+    "title": "Verordnung zur Ermöglichung der Anlegung, Führung oder Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Verkehr",
+    "abbreviation": "BMVBVerfPAktV",
+    "date": "2026-04-14",
+    "stand": "Die V tritt gem. § 3 mit Ablauf des 31.12.2026 außer Kraft",
+    "sections": 4,
+    "lines": 24,
+    "file": "bmvbverfpaktv.md"
   },
   {
     "id": "bmipaktermv",
@@ -48464,7 +48514,7 @@
     "title": "Verordnung über die berufsbezogene Deutschsprachförderung",
     "abbreviation": "DeuFöV",
     "date": "2016-05-04",
-    "stand": "Zuletzt geändert durch Art. 6 G v. 21.12.2022 I 2847",
+    "stand": "Zuletzt geändert durch Art. 11 Abs. 5 G v. 16.4.2026 I Nr. 107",
     "sections": 30,
     "lines": 382,
     "file": "deuföv.md"
@@ -48764,9 +48814,9 @@
     "title": "Verordnung über die Durchführung der Abschlussprüfung in den staatlich anerkannten Ausbildungsberufen des öffentlichen Dienstes",
     "abbreviation": "ÖDAPrV",
     "date": "2023-12-12",
-    "stand": "",
+    "stand": "Geändert durch Art. 1 V v. 27.3.2026 I Nr. 105",
     "sections": 53,
-    "lines": 603,
+    "lines": 604,
     "file": "ödaprv.md"
   },
   {
@@ -49058,6 +49108,16 @@
     "sections": 6,
     "lines": 105,
     "file": "ef-vo_2008.md"
+  },
+  {
+    "id": "nkommerzwabgv",
+    "title": "Verordnung über die Einfuhrabgabenfreiheit von Waren in Sendungen",
+    "abbreviation": "NKommerzWAbgV",
+    "date": "1979-01-11",
+    "stand": "Zuletzt geändert durch Art. 3 V v. 22.12.2003; 2004 I 21",
+    "sections": 9,
+    "lines": 55,
+    "file": "nkommerzwabgv.md"
   },
   {
     "id": "sozv",
@@ -52616,7 +52676,7 @@
     "date": "2023-12-07",
     "stand": "",
     "sections": 47,
-    "lines": 507,
+    "lines": 463,
     "file": "wpiprüfbv.md"
   },
   {
@@ -55184,7 +55244,7 @@
     "title": "Verordnung über die Zulässigkeit der Anwendung von Röntgenstrahlung zur Früherkennung von Brustkrebs bei Frauen",
     "abbreviation": "BrKrFrühErkV",
     "date": "2018-12-17",
-    "stand": "Zuletzt geändert durch Art. 1 V v. 27.2.2024 I Nr. 53",
+    "stand": "Zuletzt geändert durch Art. 1 V v. 27.2.2026 I Nr. 53",
     "sections": 11,
     "lines": 162,
     "file": "brkrfrüherkv.md"
@@ -57336,7 +57396,7 @@
     "date": "2018-07-06",
     "stand": "",
     "sections": 3,
-    "lines": 17,
+    "lines": 19,
     "file": "zjdvträndvtr_2018.md"
   },
   {
@@ -58076,7 +58136,7 @@
     "date": "1995-05-09",
     "stand": "Neugefasst durch Bek. v. 14.5.2002 I 1624;",
     "sections": 45,
-    "lines": 612,
+    "lines": 582,
     "file": "weinüv_1995.md"
   },
   {

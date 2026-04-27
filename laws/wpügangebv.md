@@ -22,41 +22,37 @@ Diese Verordnung ist auf Angebote gemäß § 2 Abs. 1 des Wertpapiererwerbs- und
 
 ### § 2 — Ergänzende Angaben der Angebotsunterlage
 
-Der Bieter hat in seine Angebotsunterlage folgende ergänzende Angaben aufzunehmen: Wurde in den Fällen des Satzes 1 Nummer 2 für die Wertpapiere vor Veröffentlichung der Angebotsunterlage ein Prospekt, auf Grund dessen die Wertpapiere öffentlich angeboten oder zum Handel an einem organisierten Markt zugelassen worden sind, im Inland in deutscher Sprache veröffentlicht und ist für die als Gegenleistung angebotenen Wertpapiere während der gesamten Laufzeit des Angebots ein gültiger Prospekt veröffentlicht, genügt die Angabe, dass ein Prospekt veröffentlicht wurde und wo dieser jeweils erhältlich ist.
+Der Bieter hat in seine Angebotsunterlage folgende ergänzende Angaben aufzunehmen:
 
-1.
+1. Name oder Firma und Anschrift oder Sitz der mit dem Bieter und der Zielgesellschaft gemeinsam handelnden Personen und der Personen, deren Stimmrechte aus Aktien der Zielgesellschaft nach § 30 des Wertpapiererwerbs- und Übernahmegesetzes Stimmrechten des Bieters gleichstehen oder ihm zuzurechnen sind, sowie, wenn es sich bei diesen Personen um Gesellschaften handelt, die Rechtsform und das Verhältnis der Gesellschaften zum Bieter und zur Zielgesellschaft;
 
-2.
+2. sofern Wertpapiere als Gegenleistung angeboten werden, a)für als Gegenleistung im Rahmen eines Übernahme- oder Pflichtangebots angebotene Wertpapiere Angaben nach der Delegierten Verordnung (EU) 2021/528 der Kommission vom 16. Dezember 2020 zur Ergänzung der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates im Hinblick auf die Mindestinformationen des Dokuments, das der Öffentlichkeit bei einer Ausnahme von der Prospektpflicht im Zusammenhang mit einer Übernahme im Wege eines Tauschangebots, einer Verschmelzung oder einer Spaltung zur Verfügung zu stellen ist (ABl. L 106 vom 26.3.2021, S. 32);b)für als Gegenleistung außerhalb eines Übernahme- oder Pflichtangebots angebotene Wertpapiere Angaben nach Artikel 13 Absatz 1, Artikel 14 Absatz 1 und 2 oder Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12), die zuletzt durch die Verordnung (EU) 2021/337 (ABl. L 68 vom 26.2.2021, S. 1) geändert worden ist, in Verbindung mit den jeweiligen Vorgaben der Kapitel II bis IV der Delegierten Verordnung (EU) 2019/980 der Kommission vom 14. März 2019 zur Ergänzung der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates hinsichtlich der Aufmachung, des Inhalts, der Prüfung und der Billigung des Prospekts, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist, und zur Aufhebung der Verordnung (EG) Nr. 809/2004 der Kommission (ABl. L 166 vom 21.6.2019, S. 26), die zuletzt durch die Delegierte Verordnung (EU) 2020/1273 (ABl. L 300 vom 14.9.2020, S. 6) geändert worden ist. für als Gegenleistung im Rahmen eines Übernahme- oder Pflichtangebots angebotene Wertpapiere Angaben nach der Delegierten Verordnung (EU) 2021/528 der Kommission vom 16. Dezember 2020 zur Ergänzung der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates im Hinblick auf die Mindestinformationen des Dokuments, das der Öffentlichkeit bei einer Ausnahme von der Prospektpflicht im Zusammenhang mit einer Übernahme im Wege eines Tauschangebots, einer Verschmelzung oder einer Spaltung zur Verfügung zu stellen ist (ABl. L 106 vom 26.3.2021, S. 32); für als Gegenleistung außerhalb eines Übernahme- oder Pflichtangebots angebotene Wertpapiere Angaben nach Artikel 13 Absatz 1, Artikel 14 Absatz 1 und 2 oder Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12), die zuletzt durch die Verordnung (EU) 2021/337 (ABl. L 68 vom 26.2.2021, S. 1) geändert worden ist, in Verbindung mit den jeweiligen Vorgaben der Kapitel II bis IV der Delegierten Verordnung (EU) 2019/980 der Kommission vom 14. März 2019 zur Ergänzung der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates hinsichtlich der Aufmachung, des Inhalts, der Prüfung und der Billigung des Prospekts, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist, und zur Aufhebung der Verordnung (EG) Nr. 809/2004 der Kommission (ABl. L 166 vom 21.6.2019, S. 26), die zuletzt durch die Delegierte Verordnung (EU) 2020/1273 (ABl. L 300 vom 14.9.2020, S. 6) geändert worden ist.
 
-a)
+2a. Angaben nach § 7 des Vermögensanlagengesetzes in Verbindung mit der Vermögensanlagen-Verkaufsprospektverordnung, sofern Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes als Gegenleistung angeboten werden; wurde für die Vermögensanlagen innerhalb von zwölf Monaten vor Veröffentlichung der Angebotsunterlage ein Verkaufsprospekt im Inland in deutscher Sprache veröffentlicht, genügt die Angabe, dass ein Verkaufsprospekt veröffentlicht wurde und wo dieser erhältlich ist, sowie die Angabe der seit der Veröffentlichung des Verkaufsprospekts eingetretenen Änderungen;
 
-b)
+3. die zur Festsetzung der Gegenleistung angewandten Bewertungsmethoden und die Gründe, warum die Anwendung dieser Methoden angemessen ist, sowie die Angabe, welches Umtauschverhältnis oder welcher Gegenwert sich bei der Anwendung verschiedener Methoden, sofern mehrere angewandt worden sind, jeweils ergibt; zugleich ist darzulegen, welches Gewicht den verschiedenen Methoden bei der Bestimmung des Umtauschverhältnisses oder des Gegenwerts und der ihnen zugrunde liegenden Werte beigemessen worden ist, welche Gründe für die Gewichtung bedeutsam waren, und welche besonderen Schwierigkeiten bei der Bewertung der Gegenleistung aufgetreten sind;
 
-2a.
+3a. die zur Berechnung der Entschädigung nach § 33b Abs. 5 des Wertpapiererwerbs- und Übernahmegesetzes angewandten Berechnungsmethoden, sowie die Gründe, warum die Anwendung dieser Methoden angemessen ist;
 
-3.
+4. die Maßnahmen, die die Adressaten des Angebots ergreifen müssen, um dieses anzunehmen und um die Gegenleistung für die Wertpapiere zu erhalten, die Gegenstand des Angebots sind, sowie Angaben über die mit diesen Maßnahmen für die Adressaten verbundenen Kosten und den Zeitpunkt, zu dem diejenigen, die das Angebot angenommen haben, die Gegenleistung erhalten;
 
-3a.
+5. die Anzahl der vom Bieter und von mit ihm gemeinsam handelnden Personen und deren Tochterunternehmen bereits gehaltenen Wertpapiere sowie die Höhe der von diesen gehaltenen Stimmrechtsanteile unter Angabe der ihnen jeweils nach § 30 des Wertpapiererwerbs- und Übernahmegesetzes zuzurechnenden Stimmrechtsanteile getrennt für jeden Zurechnungstatbestand sowie die Höhe der nach den §§ 38 und 39 des Wertpapierhandelsgesetzes mitzuteilenden Stimmrechtsanteile;
 
-4.
+6. bei Teilangeboten der Anteil oder die Anzahl der Wertpapiere der Zielgesellschaft, die Gegenstand des Angebots sind, sowie Angaben über die Zuteilung nach § 19 des Wertpapiererwerbs- und Übernahmegesetzes;
 
-5.
+7. Art und Umfang der von den in Nummer 5 genannten Personen und Unternehmen jeweils für den Erwerb von Wertpapieren der Zielgesellschaft gewährten oder vereinbarten Gegenleistung, sofern der Erwerb innerhalb von sechs Monaten vor der Veröffentlichung gemäß § 10 Abs. 3 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes oder vor der Veröffentlichung der Angebotsunterlage gemäß § 14 Abs. 3 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes erfolgte; dem Erwerb gleichgestellt sind Vereinbarungen, auf Grund derer die Übereignung der Wertpapiere verlangt werden kann;
 
-6.
+7a. bei Angeboten nach § 39 Absatz 2 Satz 3 Nummer 1 des Börsengesetzes Angaben zu dem bevorstehenden Antrag der Zielgesellschaft auf einen Widerruf der Zulassung der betroffenen Wertpapiere zum Handel im regulierten Markt; die Angaben müssen einen ausdrücklichen Hinweis auf mögliche Einschränkungen der Handelbarkeit der betroffenen Wertpapiere als Folge des Widerrufs und die damit einhergehende Möglichkeit von Kursverlusten enthalten;
 
-7.
+8. Angaben zum Erfordernis und Stand behördlicher, insbesondere wettbewerbsrechtlicher Genehmigungen und Verfahren im Zusammenhang mit dem Erwerb der Wertpapiere der Zielgesellschaft;
 
-7a.
+9. der Hinweis auf die Annahmefrist im Falle einer Änderung des Angebots nach § 21 Abs. 5 des Wertpapiererwerbs- und Übernahmegesetzes und die Annahmefrist im Falle konkurrierender Angebote nach § 22 Abs. 2 des Wertpapiererwerbs- und Übernahmegesetzes sowie im Falle von Übernahmeangeboten der Hinweis auf die weitere Annahmefrist nach § 16 Abs. 2 des Wertpapiererwerbs- und Übernahmegesetzes;
 
-8.
+10. der Hinweis, wo die Angebotsunterlage gemäß § 14 Abs. 3 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes veröffentlicht wird;
 
-9.
+11. der Hinweis auf das Rücktrittsrecht nach § 21 Abs. 4 und § 22 Abs. 3 des Wertpapiererwerbs- und Übernahmegesetzes und
 
-10.
-
-11.
-
-12.
+12. Angaben darüber, welchem Recht die sich aus der Annahme des Angebots ergebenden Verträge zwischen dem Bieter und den Inhabern der Wertpapiere der Zielgesellschaft unterliegen, und die Angabe des Gerichtsstands.
 
 ## Dritter Abschnitt: Gegenleistung bei Übernahmeangeboten
 und Pflichtangeboten
@@ -106,39 +102,33 @@ Der Antrag auf Befreiung von der Pflicht zur Veröffentlichung nach § 35 Abs. 1
 
 ### § 9 — Befreiungstatbestände
 
-Die Bundesanstalt kann insbesondere eine Befreiung von den in § 8 Satz 1 genannten Pflichten erteilen bei Erlangung der Kontrolle über die Zielgesellschaft Eine Befreiung kann ferner erteilt werden, wenn
+Die Bundesanstalt kann insbesondere eine Befreiung von den in § 8 Satz 1 genannten Pflichten erteilen bei Erlangung der Kontrolle über die Zielgesellschaft
 
-1.
+1. durch Erbschaft oder im Zusammenhang mit einer Erbauseinandersetzung, sofern Erblasser und Bieter nicht verwandt im Sinne des § 36 Nr. 1 des Wertpapiererwerbs- und Übernahmegesetzes sind,
 
-2.
+2. durch Schenkung, sofern Schenker und Bieter nicht verwandt im Sinne des § 36 Nr. 1 des Wertpapiererwerbs- und Übernahmegesetzes sind,
 
-3.
+3. im Zusammenhang mit der Sanierung der Zielgesellschaft,
 
-4.
+4. zum Zwecke der Forderungssicherung,
 
-5.
+5. auf Grund einer Verringerung der Gesamtzahl der Stimmrechte an der Zielgesellschaft,
 
-6.
-
-1.
-
-2.
-
-3.
+6. ohne dass dies vom Bieter beabsichtigt war, soweit die Schwelle des § 29 Abs. 2 des Wertpapiererwerbs- und Übernahmegesetzes nach der Antragstellung unverzüglich wieder unterschritten wird.
 
 ### § 10 — Antragsinhalt
 
 Der Antrag muss folgende Angaben enthalten:
 
-1.
+1. Name oder Firma und Wohnsitz oder Sitz des Antragstellers,
 
-2.
+2. Firma, Sitz und Rechtsform der Zielgesellschaft,
 
-3.
+3. Anzahl der vom Bieter und den gemeinsam handelnden Personen bereits gehaltenen Aktien und Stimmrechte und die ihnen nach § 30 des Wertpapiererwerbs- und Übernahmegesetzes zuzurechnenden Stimmrechte,
 
-4.
+4. Tag, an dem die Schwelle des § 29 Abs. 2 des Wertpapiererwerbs- und Übernahmegesetzes überschritten wurde, und
 
-5.
+5. die den Antrag begründenden Tatsachen.
 
 ### § 11 — Antragsunterlagen
 

@@ -22,13 +22,13 @@ Die Deutsche Dienststelle (WASt) als Behörde des Landes Berlin ist mit Inkraftt
 
 (3) Für die übergehenden Arbeitsverhältnisse nach Absatz 1 gelten mit Inkrafttreten dieses Staatsvertrags folgende Maßgaben:
 
-1.
+1. Die Arbeitnehmerinnen und Arbeitnehmer sind mit Inkrafttreten dieses Staatsvertrags in eine Entgeltgruppe des Tarifvertrages für den öffentlichen Dienst vom 13. September 2005 in der für den Bereich des Bundes jeweils geltenden Fassung (Tarifvertrag für den öffentlichen Dienst) nach Maßgabe dessen § 12 einzugruppieren.
 
-2.
+2. Die Zuordnung zu den Stufen der Entgelttabelle des Tarifvertrages für den öffentlichen Dienst erfolgt nach § 16 des Tarifvertrages für den öffentlichen Dienst. Bei der Berechnung der für die Zuordnung zu den Stufen der Entgelttabelle des Tarifvertrages für den öffentlichen Dienst maßgeblichen Zeiten nach § 16 Absatz 1 bis 5 des Tarifvertrages für den öffentlichen Dienst werden die bei dem Land Berlin bis zum Inkrafttreten dieses Staatsvertrags erreichten Zeiten unbeschadet der übrigen Voraussetzungen so berücksichtigt, als wenn sie beim Bund zurückgelegt worden wären.
 
-3.
+3. Die beim Land Berlin bis zum Inkrafttreten dieses Staatsvertrags erreichte Beschäftigungszeit wird als Beschäftigungszeit im Sinne des § 34 Absatz 3 des Tarifvertrages für den öffentlichen Dienst fortgeführt.
 
-4.
+4. Weichen die Regelungen des Tarifvertrages für den öffentlichen Dienst zum Entgelt gegenüber den am Tag vor dem Inkrafttreten dieses Staatsvertrags geltenden tariflichen Regelungen des Landes Berlin zu Ungunsten der vom Übergang ihrer Arbeitsverhältnisse betroffenen Arbeitnehmerinnen und Arbeitnehmer ab, kann diesen mit Zustimmung der für Kultur und Medien zuständigen obersten Bundesbehörde, die der im Einvernehmen mit dem Bundesministerium der Finanzen zu erteilenden Einwilligung des Bundesministeriums des Innern, für Bau und Heimat bedarf, eine persönliche Zulage gewährt werden. Einzelheiten der Ausgestaltung, Berechnung und grundsätzlichen Abschmelzung dieser übertariflichen Zulage werden in einer gesonderten Regelung der für Kultur und Medien zuständigen obersten Bundesbehörde, die der im Einvernehmen mit dem Bundesministerium der Finanzen zu erteilenden Einwilligung des Bundesministeriums des Innern, für Bau und Heimat bedarf, festgelegt.
 
 (4) Betriebsbedingte Kündigungen der von Absatz 1 erfassten Beschäftigten durch das Land Berlin oder durch die Bundesrepublik Deutschland wegen der Überleitung der Arbeits- und Ausbildungsverhältnisse sind unzulässig.
 
@@ -48,10 +48,6 @@ Dieser Staatsvertrag bedarf der Ratifikation. Er tritt am ersten Tag des auf den
 
 ### Schlussformel
 
-Für das Land Berlin Der Regierende Bürgermeister vertreten durch die Senatorin für Integration, Arbeit und SozialesElke Breitenbach
-
 Berlin, den 30. Mai 2018
-
-Für die Bundesrepublik Deutschland Die Beauftragte der Bundesregierung für Kultur und MedienMonika Grütters
 
 Berlin, den 12. Oktober 2018

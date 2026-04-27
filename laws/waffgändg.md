@@ -17,11 +17,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (1) Die vor Inkrafttreten dieses Gesetzes nach § 59 Abs. 4 und, soweit sie nur noch zur Ausübung der tatsächlichen Gewalt berechtigen, auch die nach § 28 Abs. 1 des Waffengesetzes vom 19. September 1972 erteilten Waffenbesitzkarten, gelten als unbefristet erteilt. Sie können unter den Voraussetzungen des § 28 Abs. 1 Satz 5 des Waffengesetzes nachträglich befristet werden. Die Waffenbesitzkarte nach Satz 1 berechtigt nicht zum Erwerb von Munition.
 
-(2) Hat jemand am 1. März 1976 die tatsächliche Gewalt über Schußwaffen ausgeübt für deren Erwerb es jedoch nach diesem Gesetz oder auf Grund einer Rechtsverordnung der Erlaubnis bedarf, so hat er diese Schußwaffen bis zum 30. Juni 1976 nach Maßgabe des § 59 Abs. 1 des Waffengesetzes anzumelden. § 59 Abs. 2 bis 4 des Waffengesetzes ist entsprechend anzuwenden.
+(2) Hat jemand am 1. März 1976 die tatsächliche Gewalt über Schußwaffen ausgeübt
 
-1.
+1. aus denen keine in der Anlage III zur Dritten Verordnung zum Waffengesetz vom 10. Mai 1973 (Bundesgesetzbl. I S. 373) aufgeführte Munition verschossen werden kann (§ 28 Abs. 3 Nr. 1 des Waffengesetzes vom 19. September 1972),
 
-2.
+2. für deren Erwerb es nach den §§ 1 bis 5 der Ersten Verordnung zum Waffengesetz vom 19. Dezember 1972 (Bundesgesetzbl. I S. 2522) keiner Erlaubnis bedurfte,
 
 ### Art 3
 

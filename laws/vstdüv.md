@@ -10,23 +10,23 @@
 
 (1) Diese Verordnung gilt für die elektronische Übermittlung von Erklärungen der besonderen Verbrauchsteuern und der Luftverkehrsteuer an die Zollverwaltung im Rahmen der folgenden Gesetze oder Verordnungen:
 
-1.
+1. Energiesteuergesetz und Energiesteuer-Durchführungsverordnung,
 
-2.
+2. Stromsteuergesetz und Stromsteuer-Durchführungsverordnung,
 
-3.
+3. Tabaksteuergesetz und Tabaksteuerverordnung,
 
-4.
+4. Schaumwein- und Zwischenerzeugnissteuergesetz und Schaumwein- und Zwischenerzeugnissteuerverordnung,
 
-5.
+5. Biersteuergesetz und Biersteuerverordnung
 
-6.
+6. Kaffeesteuergesetz und Kaffeesteuerverordnung,
 
-7.
+7. Alkoholsteuergesetz und Alkoholsteuerverordnung,
 
-8.
+8. Alkopopsteuergesetz,
 
-9.
+9. Luftverkehrsteuergesetz und Luftverkehrsteuer-Durchführungsverordnung.
 
 (2) Abweichend von Absatz 1 findet diese Verordnung keine Anwendung auf die elektronische Übermittlung von Erklärungen im Rahmen der Beförderung verbrauchsteuerpflichtiger Waren.
 
@@ -34,9 +34,9 @@
 
 Im Sinne dieser Verordnung ist oder sind
 
-1.
+1. Erklärungen: Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen, Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige für das Verfahren erforderliche Daten;
 
-2.
+2. zuständiges Hauptzollamt: das jeweils zuständige Hauptzollamt nach den Gesetzen oder Verordnungen nach § 1 Absatz 1.
 
 ### § 3 — Elektronische Datenübermittlung
 

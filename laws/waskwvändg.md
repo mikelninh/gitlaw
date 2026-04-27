@@ -12,8 +12,6 @@ Wasserkraftwerken
 
 ### § 2
 
-Die Bundesregierung wird ermächtigt, die Verordnung über die steuerliche Begünstigung von Wasserkraftwerken vom 26. Oktober 1944 neu bekanntzumachen und dabei den Wortlaut den seit dem Erlaß der Verordnung geänderten Rechtsverhältnissen anzupassen sowie die Geltung im Land Berlin und die Nichtgeltung im Saarland auszusprechen.
-
 ### § 3
 
 -
