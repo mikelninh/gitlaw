@@ -36,6 +36,7 @@ const KEY_CUSTOM_TEMPLATES = 'gitlaw.pro.customTemplates.v1'
 const KEY_PARAGRAPH_NOTES = 'gitlaw.pro.paragraphNotes.v1'
 const KEY_ACCESS_CTX = 'gitlaw.pro.access.v1'
 const KEY_LAST_ACTIVE = 'gitlaw.pro.lastActive.v1'
+const KEY_ONBOARDING_DISMISSED = 'gitlaw.pro.onboardingDismissed.v1'
 
 const DEFAULT_SETTINGS: KanzleiSettings = {
   name: '',
@@ -150,6 +151,15 @@ export function isSessionExpired(timeoutMinutes = 120): boolean {
   const last = Number(raw)
   if (!Number.isFinite(last)) return true
   return Date.now() - last > timeoutMinutes * 60 * 1000
+}
+
+export function isOnboardingDismissed(): boolean {
+  return localStorage.getItem(KEY_ONBOARDING_DISMISSED) === '1'
+}
+
+export function setOnboardingDismissed(value: boolean): void {
+  if (value) localStorage.setItem(KEY_ONBOARDING_DISMISSED, '1')
+  else localStorage.removeItem(KEY_ONBOARDING_DISMISSED)
 }
 
 // --- Cases ---
@@ -534,6 +544,6 @@ export function eraseAllProData(): void {
     KEY_SETTINGS, KEY_CASES, KEY_RESEARCH, KEY_LETTERS,
     KEY_AUDIT, KEY_INVITE, KEY_INTAKES,
     KEY_CUSTOM_TEMPLATES, KEY_PARAGRAPH_NOTES,
-    KEY_ACCESS_CTX, KEY_LAST_ACTIVE,
+    KEY_ACCESS_CTX, KEY_LAST_ACTIVE, KEY_ONBOARDING_DISMISSED,
   ].forEach(k => localStorage.removeItem(k))
 }

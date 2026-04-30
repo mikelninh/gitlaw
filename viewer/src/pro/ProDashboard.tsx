@@ -14,7 +14,7 @@ import {
   FolderOpen, Search, FileText, Plus, Clock, AlertCircle, Inbox, Sparkles, TrendingUp,
 } from 'lucide-react'
 import {
-  getSettings, listAudit, listCases, listIntakes, listLetters, listResearch,
+  getAccessContext, getSettings, isOnboardingDismissed, listAudit, listCases, listIntakes, listLetters, listResearch, setOnboardingDismissed,
 } from './store'
 import { savingsThisWeek } from './savings'
 
@@ -47,6 +47,8 @@ export default function ProDashboard() {
   const pendingIntakes = listIntakes({ reviewed: false })
   const recentAudit = listAudit().slice(0, 5)
   const savings = savingsThisWeek()
+  const access = getAccessContext()
+  const onboardingDismissed = isOnboardingDismissed()
 
   const upcomingFristen = cases
     .filter(c => c.status === 'aktiv' && c.fristDatum)
@@ -58,6 +60,13 @@ export default function ProDashboard() {
 
   const hour = new Date().getHours()
   const greeting = hour < 11 ? 'Guten Morgen' : hour < 14 ? 'Mittag' : hour < 18 ? 'Nachmittag' : 'Guten Abend'
+  const hasProfile = Boolean(getSettings().name && getSettings().anwaltName)
+  const hasCase = cases.length > 0
+  const hasResearch = research.length > 0
+  const hasIntake = pendingIntakes.length > 0 || listIntakes().length > 0
+  const hasLetter = letters.length > 0
+  const isBao = access?.tenantId === 'kanzlei-nguyen'
+  const onboardingDone = hasProfile && hasCase && hasResearch && hasLetter
 
   return (
     <div className="space-y-8">
@@ -74,6 +83,60 @@ export default function ProDashboard() {
           {new Date().toLocaleDateString('de-DE', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}
         </p>
       </header>
+
+      {!onboardingDismissed && !onboardingDone && (
+        <section className="bg-white border border-[var(--color-border)] rounded-2xl p-5">
+          <div className="flex items-start justify-between gap-3 flex-wrap">
+            <div>
+              <h2 className="font-semibold mb-1">
+                {isBao ? 'Bao Onboarding' : 'Schnellstart für GitLaw Pro'}
+              </h2>
+              <p className="text-sm text-[var(--color-ink-soft)]">
+                {isBao
+                  ? 'Teste den Kernflow einmal komplett: Intake -> Akte -> Recherche -> Schreiben.'
+                  : 'Vier Schritte bis zum ersten echten Kanzlei-Flow. Danach ist das Tool im Alltag testbar.'}
+              </p>
+            </div>
+            <button
+              onClick={() => setOnboardingDismissed(true)}
+              className="text-xs text-[var(--color-ink-muted)] hover:text-[var(--color-ink)]"
+            >
+              ausblenden
+            </button>
+          </div>
+
+          <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-3">
+            <OnboardingStep
+              done={hasProfile}
+              title="1. Kanzlei-Profil ausfuellen"
+              text="Briefkopf, Audit-Name und Kanzlei-Kontext setzen."
+              to="/pro/einstellungen"
+              cta="Zu Einstellungen"
+            />
+            <OnboardingStep
+              done={hasCase}
+              title="2. Erste Akte anlegen"
+              text="Entweder Demo laden oder eine echte Testakte anlegen."
+              to="/pro/akten?new=1"
+              cta="Neue Akte"
+            />
+            <OnboardingStep
+              done={hasIntake}
+              title="3. Intake testen"
+              text={isBao ? 'Vietnamesischen Intake ausfuellen und in der Inbox pruefen.' : 'Mandant:innen-Formular einmal testen und den Eingang pruefen.'}
+              to={isBao ? '/bao' : '/pro/eingaenge'}
+              cta={isBao ? 'Bao-Link' : 'Eingänge'}
+            />
+            <OnboardingStep
+              done={hasResearch || hasLetter}
+              title="4. Recherche und Schreiben pruefen"
+              text="Eine Frage stellen, speichern und mindestens ein Schreiben erzeugen."
+              to="/pro/recherche"
+              cta="Recherche starten"
+            />
+          </div>
+        </section>
+      )}
 
       {/* ☕ HEUTE-Block — das Morgenritual */}
       {(upcomingFristen.length > 0 || pendingIntakes.length > 0 || todaysActivity.length > 0) && (
@@ -263,6 +326,36 @@ export default function ProDashboard() {
             <Link to="/pro/einstellungen" className="underline">Einstellungen</Link>.
           </p>
         </div>
+      )}
+    </div>
+  )
+}
+
+function OnboardingStep({
+  done, title, text, to, cta,
+}: {
+  done: boolean
+  title: string
+  text: string
+  to: string
+  cta: string
+}) {
+  return (
+    <div className={`rounded-xl border p-4 ${done ? 'bg-green-50 border-green-200' : 'bg-[var(--color-bg-alt)] border-[var(--color-border)]'}`}>
+      <div className="flex items-center justify-between gap-3">
+        <h3 className="font-medium text-sm">{title}</h3>
+        <span className={`text-[10px] uppercase px-1.5 py-0.5 rounded border ${done ? 'bg-green-100 text-green-800 border-green-300' : 'bg-white text-[var(--color-ink-muted)] border-[var(--color-border)]'}`}>
+          {done ? 'erledigt' : 'offen'}
+        </span>
+      </div>
+      <p className="text-sm text-[var(--color-ink-soft)] mt-1.5">{text}</p>
+      {!done && (
+        <Link
+          to={to}
+          className="inline-flex mt-3 text-sm text-[var(--color-gold)] hover:underline"
+        >
+          {cta}
+        </Link>
       )}
     </div>
   )
