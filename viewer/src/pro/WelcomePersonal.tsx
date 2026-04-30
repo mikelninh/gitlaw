@@ -41,6 +41,9 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
   const proCasesLink = `${baseUrl}#/pro/akten`
   const proResearchLink = `${baseUrl}#/pro/recherche`
   const isBao = slug === 'bao'
+  const feedbackMailto = `mailto:mikel_ninh@yahoo.de?subject=${encodeURIComponent(`GitLaw Pro Beta Feedback — ${persona.fullName}`)}&body=${encodeURIComponent(
+    `Hi Mikel,\n\nhier mein kurzes Beta-Feedback zu GitLaw Pro:\n\n1. Was war sofort nützlich?\n- \n\n2. Was war unklar oder zu langsam?\n- \n\n3. Was fehlt für echte tägliche Nutzung?\n- \n\n4. Würde ich das Assistenz/Mitarbeiter:innen geben?\n- \n\n5. Mein wichtigster Wunsch fürs nächste Release:\n- \n`
+  )}`
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-[var(--color-gold-light)] via-[var(--color-bg)] to-[var(--color-bg)]">
@@ -114,6 +117,24 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
 
       {isBao && (
         <section className="max-w-4xl mx-auto px-4 pb-16 space-y-6">
+          <div className="bg-[var(--color-ink)] text-white rounded-2xl p-6">
+            <h2 className="font-semibold text-lg mb-2">So bitte heute testen</h2>
+            <p className="text-sm text-white/75 mb-4">
+              Nicht alles anschauen. Nur den Kernflow einmal komplett durchgehen und mir dann 5 kurze Punkte schicken.
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+              <a href={proLink} className="rounded-xl bg-white text-[var(--color-ink)] px-4 py-3 text-sm font-semibold text-center hover:opacity-90">
+                1. Pro starten
+              </a>
+              <a href={intakeViLink} className="rounded-xl border border-white/20 px-4 py-3 text-sm font-semibold text-center hover:bg-white/10">
+                2. VN-Intake testen
+              </a>
+              <a href={feedbackMailto} className="rounded-xl border border-white/20 px-4 py-3 text-sm font-semibold text-center hover:bg-white/10">
+                3. Feedback senden
+              </a>
+            </div>
+          </div>
+
           <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
             <h2 className="font-semibold text-lg mb-2">Was neu ist (April 2026)</h2>
             <ul className="text-sm text-[var(--color-ink-soft)] space-y-1.5">
@@ -128,6 +149,10 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
           <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
             <h2 className="font-semibold text-lg mb-2">Testplan (ca. 20 Minuten)</h2>
             <ol className="text-sm text-[var(--color-ink-soft)] space-y-2 list-decimal list-inside">
+              <li>
+                Direkt in Pro starten:
+                {' '}<a href={proLink} className="underline">GitLaw Pro öffnen</a>
+              </li>
               <li>
                 Public zu Pro Einstieg testen:
                 {' '}<a href={publicLink} className="underline">GitLaw Public</a>
@@ -148,6 +173,15 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
             </ol>
           </div>
 
+          <div className="bg-amber-50 border border-amber-200 rounded-2xl p-6">
+            <h2 className="font-semibold text-lg mb-2">Heute noch nicht entscheidend</h2>
+            <ul className="text-sm text-amber-900 space-y-1.5">
+              <li>• Noch kein finaler produktiver Multi-User-/Mitarbeiterbetrieb.</li>
+              <li>• Noch kein echter sicherer Datei-Upload in EU-Storage.</li>
+              <li>• Heute bitte vor allem UX, Intake, Recherche und Arbeitsfluss bewerten.</li>
+            </ul>
+          </div>
+
           <div className="bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded-2xl p-6">
             <h2 className="font-semibold text-lg mb-2">Feedback, das uns am meisten hilft</h2>
             <p className="text-sm text-[var(--color-ink-soft)] mb-2">
@@ -160,6 +194,12 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
               <li>• Würdest du das deiner Assistenz geben? Wenn nein: warum?</li>
               <li>• Welche 1-2 Features müssen als Nächstes kommen?</li>
             </ul>
+            <a
+              href={feedbackMailto}
+              className="inline-flex mt-4 text-sm font-medium underline underline-offset-2 hover:text-[var(--color-ink)]"
+            >
+              Feedback-Mail vorbereiten
+            </a>
           </div>
         </section>
       )}

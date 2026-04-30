@@ -123,9 +123,9 @@ export default function ProDashboard() {
             <OnboardingStep
               done={hasIntake}
               title="3. Intake testen"
-              text={isBao ? 'Vietnamesischen Intake ausfuellen und in der Inbox pruefen.' : 'Mandant:innen-Formular einmal testen und den Eingang pruefen.'}
-              to={isBao ? '/bao' : '/pro/eingaenge'}
-              cta={isBao ? 'Bao-Link' : 'Eingänge'}
+              text={isBao ? 'VN-Intake ueber den Bao-Link oeffnen und den Eingang hier in der Inbox pruefen.' : 'Mandant:innen-Formular einmal testen und den Eingang pruefen.'}
+              to="/pro/eingaenge"
+              cta="Eingaenge"
             />
             <OnboardingStep
               done={hasResearch || hasLetter}
