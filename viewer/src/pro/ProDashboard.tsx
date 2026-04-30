@@ -11,7 +11,7 @@
 
 import { Link } from 'react-router-dom'
 import {
-  FolderOpen, Search, FileText, Plus, Clock, AlertCircle, Inbox, Sparkles, TrendingUp,
+  FolderOpen, Search, FileText, Plus, Clock, AlertCircle, Inbox, Sparkles, TrendingUp, CheckCircle2,
 } from 'lucide-react'
 import {
   getAccessContext, getSettings, isOnboardingDismissed, listAudit, listCases, listIntakes, listLetters, listResearch, setOnboardingDismissed,
@@ -55,6 +55,19 @@ export default function ProDashboard() {
     .map(c => ({ c, days: daysUntil(c.fristDatum!) }))
     .filter(({ days }) => days <= 14)
     .sort((a, b) => a.days - b.days)
+  const overdueFristen = upcomingFristen.filter(item => item.days < 0)
+  const nextFristen = upcomingFristen.filter(item => item.days >= 0)
+  const featuredCases = cases
+    .filter(c => c.status === 'aktiv')
+    .map(c => {
+      const caseResearch = research.filter(r => r.caseId === c.id)
+      const caseLetters = letters.filter(l => l.caseId === c.id)
+      const reviewedCount = caseResearch.filter(r => r.reviewed).length
+      return { c, reviewedCount, letterCount: caseLetters.length }
+    })
+    .filter(x => x.reviewedCount > 0 || x.letterCount > 0)
+    .sort((a, b) => (b.reviewedCount + b.letterCount) - (a.reviewedCount + a.letterCount))
+    .slice(0, 3)
 
   const todaysActivity = [...research, ...letters].filter(x => isToday(x.createdAt))
 
@@ -147,9 +160,10 @@ export default function ProDashboard() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 text-sm">
             <HeuteCard
               icon={<Clock className="w-4 h-4" />}
-              label="Fristen ≤ 7 Tage"
-              value={upcomingFristen.filter(f => f.days <= 7).length}
-              tone={upcomingFristen.some(f => f.days <= 0) ? 'red' : upcomingFristen.some(f => f.days <= 3) ? 'amber' : 'neutral'}
+              label="Nächste Fristen ≤ 7 Tage"
+              value={nextFristen.filter(f => f.days <= 7).length}
+              tone={nextFristen.some(f => f.days <= 3) ? 'amber' : 'neutral'}
+              sublabel={overdueFristen.length > 0 ? `${overdueFristen.length} überfällig separat` : undefined}
               to="/pro/akten"
             />
             <HeuteCard
@@ -171,15 +185,45 @@ export default function ProDashboard() {
         </section>
       )}
 
+      {featuredCases.length > 0 && (
+        <section>
+          <h2 className="font-semibold mb-3 flex items-center gap-2">
+            <CheckCircle2 className="w-4 h-4 text-green-700" />
+            Gute Beispiel-Akten
+          </h2>
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-3">
+            {featuredCases.map(({ c, reviewedCount, letterCount }) => (
+              <Link
+                key={c.id}
+                to={`/pro/akten/${c.id}`}
+                className="bg-white border border-green-200 rounded-2xl p-4 hover:border-green-400 transition-colors"
+              >
+                <div className="flex items-center justify-between gap-3">
+                  <span className="font-mono text-xs text-green-700">{c.aktenzeichen}</span>
+                  <span className="text-[10px] uppercase px-1.5 py-0.5 rounded bg-green-100 text-green-800 border border-green-200">
+                    bereit
+                  </span>
+                </div>
+                <h3 className="font-semibold mt-2">{c.mandantName}</h3>
+                <p className="text-sm text-[var(--color-ink-soft)] mt-1 line-clamp-3">{c.description}</p>
+                <p className="text-xs text-[var(--color-ink-muted)] mt-3">
+                  {reviewedCount} gepr. Recherche{reviewedCount === 1 ? '' : 'n'} · {letterCount} Schreiben
+                </p>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* Fristen der kommenden 14 Tage */}
-      {upcomingFristen.length > 0 && (
+      {nextFristen.length > 0 && (
         <section>
           <h2 className="font-semibold mb-3 flex items-center gap-2">
             <Clock className="w-4 h-4 text-[var(--color-gold)]" />
-            Fristen ({upcomingFristen.length})
+            Nächste Fristen ({nextFristen.length})
           </h2>
           <ul className="bg-white border border-[var(--color-border)] rounded-2xl divide-y divide-[var(--color-border)]">
-            {upcomingFristen.map(({ c, days }) => (
+            {nextFristen.map(({ c, days }) => (
               <li key={c.id}>
                 <Link
                   to={`/pro/akten/${c.id}`}
@@ -218,6 +262,41 @@ export default function ProDashboard() {
                       <div className="text-[10px] text-[var(--color-ink-muted)] font-mono">
                         {new Date(c.fristDatum!).toLocaleDateString('de-DE')}
                       </div>
+                    </div>
+                  </div>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {overdueFristen.length > 0 && (
+        <section className="bg-amber-50 border border-amber-200 rounded-2xl p-5">
+          <h2 className="font-semibold mb-3 flex items-center gap-2 text-amber-900">
+            <AlertCircle className="w-4 h-4" />
+            Überfällige Fristen ({overdueFristen.length})
+          </h2>
+          <ul className="space-y-2">
+            {overdueFristen.map(({ c, days }) => (
+              <li key={c.id}>
+                <Link
+                  to={`/pro/akten/${c.id}`}
+                  className="flex items-center justify-between gap-3 rounded-xl bg-white/70 border border-amber-200 px-4 py-3 text-sm hover:bg-white"
+                >
+                  <div className="min-w-0">
+                    <div className="flex items-center gap-2 flex-wrap">
+                      <span className="font-mono text-xs text-amber-800">{c.aktenzeichen}</span>
+                      <span className="font-semibold truncate">{c.mandantName}</span>
+                    </div>
+                    {c.fristBezeichnung && (
+                      <p className="text-xs text-amber-900/80 mt-0.5">{c.fristBezeichnung}</p>
+                    )}
+                  </div>
+                  <div className="shrink-0 text-right">
+                    <span className="text-xs font-medium text-amber-900">{-days}T überfällig</span>
+                    <div className="text-[10px] text-amber-900/70 font-mono">
+                      {new Date(c.fristDatum!).toLocaleDateString('de-DE')}
                     </div>
                   </div>
                 </Link>

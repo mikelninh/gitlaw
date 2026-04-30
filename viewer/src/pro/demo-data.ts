@@ -299,7 +299,7 @@ const NGUYEN: KanzleiPreset = {
         mandantName: 'Nguyen Van Minh',
         description: 'Aufenthaltstitel-Verlängerung; Mandant lebt seit 4 J. in DE, Beschäftigung gewechselt — Frist läuft.',
         mandantEmail: 'minh.nguyen@example.com',
-        fristOffsetDays: 6,
+        fristOffsetDays: 14,
         fristBezeichnung: 'Verlängerungsantrag § 8 AufenthG',
       },
       research: {
@@ -323,7 +323,7 @@ const NGUYEN: KanzleiPreset = {
         mandantName: 'Le Thi Hoa',
         description: 'Familiennachzug Ehegattin aus Vietnam; Stammberechtigter mit Niederlassungserlaubnis. A1-Sprachnachweis-Frage.',
         mandantEmail: 'hoa.le@example.com',
-        fristOffsetDays: 28,
+        fristOffsetDays: 21,
         fristBezeichnung: 'Visumsantrag bei Botschaft Hanoi',
       },
       research: {
@@ -337,7 +337,7 @@ const NGUYEN: KanzleiPreset = {
           { display: '§ 30 AufenthG', lawId: 'aufenthg_2004', section: '30', verified: true },
           { display: '§ 5 AufenthG', lawId: 'aufenthg_2004', section: '5', verified: true },
         ],
-        reviewed: false,
+        reviewed: true,
       },
     },
     {
@@ -346,8 +346,21 @@ const NGUYEN: KanzleiPreset = {
         mandantName: 'Pham Quoc An',
         description: 'Strafbefehl wegen § 263 StGB (Betrug) — Mandant bestreitet, Sprachbarriere bei Beschuldigten-Vernehmung.',
         mandantEmail: 'an.pham@example.com',
-        fristOffsetDays: 9,
+        fristOffsetDays: 28,
         fristBezeichnung: 'Einspruch Strafbefehl § 410 StPO',
+      },
+      research: {
+        question: 'Welche Verteidigungsansätze bei Strafbefehl wegen § 263 StGB, wenn bei der ersten Vernehmung erhebliche Sprachprobleme bestanden?',
+        answer:
+          'Bei einem Strafbefehl wegen § 263 StGB ist zuerst die Einspruchsfrist des § 410 StPO strikt zu sichern. Materiell ist zu prüfen, ob der subjektive Tatbestand tragfähig belegt ist und ob der Mandant die ihm vorgeworfenen Täuschungshandlungen überhaupt inhaltlich verstanden hat.\n\n' +
+          'Wenn bei der Beschuldigtenvernehmung erhebliche Sprachprobleme bestanden, ist die Verwertbarkeit der Angaben kritisch zu prüfen. Der Anspruch auf ein faires Verfahren und auf sprachliche Verständlichkeit spricht dafür, belastende Aussagen nur zurückhaltend zu verwerten, wenn keine hinreichende Übersetzung oder Verständnissicherung erfolgt ist.\n\n' +
+          'Verteidigungspraktisch: fristwahrender Einspruch, sofortige Akteneinsicht, Prüfung der Vernehmungsdokumentation und der Dolmetscherfrage sowie Vorbereitung einer Einlassung erst nach Aktenkenntnis.',
+        citations: [
+          { display: '§ 263 StGB', lawId: 'stgb', section: '263', verified: true },
+          { display: '§ 410 StPO', lawId: 'stpo', section: '410', verified: true },
+          { display: '§ 147 StPO', lawId: 'stpo', section: '147', verified: true },
+        ],
+        reviewed: true,
       },
       letter: {
         templateId: 'akteneinsicht',

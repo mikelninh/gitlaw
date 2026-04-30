@@ -64,7 +64,7 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
       </header>
 
       {/* Hero */}
-      <section className="max-w-3xl mx-auto px-4 pt-16 pb-12 text-center">
+      <section className="max-w-3xl mx-auto px-4 pt-16 pb-10 text-center">
         <div className="inline-block mb-6">
           <span className="text-5xl">{persona.heroEmoji}</span>
         </div>
@@ -74,10 +74,10 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
         >
           Hallo {persona.firstName},
           <br />
-          das hier ist für dich.
+          bitte teste heute nur den Kernflow.
         </h1>
         <p className="text-lg text-[var(--color-ink-soft)] max-w-xl mx-auto leading-relaxed">
-          {persona.tagline}
+          15 bis 20 Minuten reichen. Wenn du den Ablauf einmal komplett durchgehst, ist das wertvoller als jedes weitere Feature.
         </p>
         <p className="text-sm text-[var(--color-ink-muted)] mt-4 italic">— Mikel</p>
       </section>
@@ -103,24 +103,19 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
         </a>
       </section>
 
-      {/* Highlights — was speziell für sie gebaut wurde */}
-      <section className="max-w-4xl mx-auto px-4 pb-16">
-        <h2 className="text-center text-sm uppercase tracking-wider text-[var(--color-ink-muted)] mb-8">
-          Speziell für deine Praxis
-        </h2>
-        <div className={`grid gap-6 ${persona.highlights.length === 1 ? 'grid-cols-1 max-w-xl mx-auto' : 'grid-cols-1 md:grid-cols-2'}`}>
-          {persona.highlights.map((h, i) => (
-            <HighlightCard key={i} highlight={h} />
-          ))}
-        </div>
-      </section>
-
       {isBao && (
         <section className="max-w-4xl mx-auto px-4 pb-16 space-y-6">
           <div className="bg-[var(--color-ink)] text-white rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">So bitte heute testen</h2>
-            <p className="text-sm text-white/75 mb-4">
-              Nicht alles anschauen. Nur den Kernflow einmal komplett durchgehen und mir dann 5 kurze Punkte schicken.
+            <h2 className="font-semibold text-lg mb-2">Wenn du 15–20 Min hast, teste bitte nur den Kernflow</h2>
+            <ol className="text-sm text-white/85 space-y-1.5 list-decimal list-inside mb-4">
+              <li>Pro starten</li>
+              <li>VN-Intake testen</li>
+              <li>Eingang / Akte prüfen</li>
+              <li>Recherche mit 1–2 Folgefragen testen</li>
+              <li>Kurz Feedback schicken</li>
+            </ol>
+            <p className="text-sm text-white/70 mb-4">
+              Auf der Seite ist alles direkt vorbereitet, inkl. Feedback-Button.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
               <a href={proLink} className="rounded-xl bg-white text-[var(--color-ink)] px-4 py-3 text-sm font-semibold text-center hover:opacity-90">
@@ -135,8 +130,17 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
             </div>
           </div>
 
+          <div className="bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded-2xl p-6">
+            <h2 className="font-semibold text-lg mb-2">Mir hilft vor allem</h2>
+            <ul className="text-sm text-[var(--color-ink-soft)] space-y-1.5">
+              <li>• was dir sofort Zeit spart</li>
+              <li>• was noch für echte tägliche Nutzung fehlt</li>
+              <li>• was unklar oder zu langsam war</li>
+            </ul>
+          </div>
+
           <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Was neu ist (April 2026)</h2>
+            <h2 className="font-semibold text-lg mb-2">Für deine Praxis vorbereitet</h2>
             <ul className="text-sm text-[var(--color-ink-soft)] space-y-1.5">
               <li>• Mehrsprachiger Intake (DE/VI/TR/AR/EN) mit konsistenter Übersetzung.</li>
               <li>• Intake-Triage: Dringlichkeit + Frist-Hinweis für schnellere Priorisierung.</li>
@@ -147,7 +151,7 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
           </div>
 
           <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Testplan (ca. 20 Minuten)</h2>
+            <h2 className="font-semibold text-lg mb-2">Direktlinks für den Test</h2>
             <ol className="text-sm text-[var(--color-ink-soft)] space-y-2 list-decimal list-inside">
               <li>
                 Direkt in Pro starten:
@@ -203,6 +207,18 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
           </div>
         </section>
       )}
+
+      {/* Highlights — was speziell für sie gebaut wurde */}
+      <section className="max-w-4xl mx-auto px-4 pb-16">
+        <h2 className="text-center text-sm uppercase tracking-wider text-[var(--color-ink-muted)] mb-8">
+          Speziell für deine Praxis
+        </h2>
+        <div className={`grid gap-6 ${persona.highlights.length === 1 ? 'grid-cols-1 max-w-xl mx-auto' : 'grid-cols-1 md:grid-cols-2'}`}>
+          {persona.highlights.map((h, i) => (
+            <HighlightCard key={i} highlight={h} />
+          ))}
+        </div>
+      </section>
 
       {/* Personal note */}
       <section className="max-w-2xl mx-auto px-4 pb-16">

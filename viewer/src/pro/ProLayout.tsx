@@ -20,15 +20,25 @@ import {
 import { eraseAllProData } from './store'
 import { loadDemoData, getPreset } from './demo-data'
 
-const NAV_ITEMS = [
-  { to: '/pro', icon: Scale, label: 'Übersicht', end: true, badge: 0 as const, minRole: 'read_only' as ProRole },
-  { to: '/pro/akten', icon: FolderOpen, label: 'Mandant:innen-Akten', badge: 0 as const, minRole: 'assistenz' as ProRole },
-  { to: '/pro/eingaenge', icon: Inbox, label: 'Eingänge', badge: 'pending' as const, minRole: 'assistenz' as ProRole },
-  { to: '/pro/recherche', icon: Search, label: 'Recherche', badge: 0 as const, minRole: 'assistenz' as ProRole },
-  { to: '/pro/schreiben', icon: FileText, label: 'Schreiben', badge: 0 as const, minRole: 'assistenz' as ProRole },
-  { to: '/pro/audit', icon: Shield, label: 'Audit-Log', badge: 0 as const, minRole: 'anwalt' as ProRole },
-  { to: '/pro/import', icon: Upload, label: 'Akten-Import', badge: 0 as const, minRole: 'assistenz' as ProRole },
-  { to: '/pro/einstellungen', icon: Settings, label: 'Einstellungen', badge: 0 as const, minRole: 'owner' as ProRole },
+const NAV_GROUPS = [
+  {
+    title: 'Arbeitsfluss',
+    items: [
+      { to: '/pro', icon: Scale, label: 'Übersicht', end: true, badge: 0 as const, minRole: 'read_only' as ProRole },
+      { to: '/pro/eingaenge', icon: Inbox, label: 'Eingänge', badge: 'pending' as const, minRole: 'assistenz' as ProRole },
+      { to: '/pro/akten', icon: FolderOpen, label: 'Akten', badge: 0 as const, minRole: 'assistenz' as ProRole },
+      { to: '/pro/recherche', icon: Search, label: 'Recherche', badge: 0 as const, minRole: 'assistenz' as ProRole },
+      { to: '/pro/schreiben', icon: FileText, label: 'Schreiben', badge: 0 as const, minRole: 'assistenz' as ProRole },
+    ],
+  },
+  {
+    title: 'Verwaltung',
+    items: [
+      { to: '/pro/audit', icon: Shield, label: 'Audit', badge: 0 as const, minRole: 'anwalt' as ProRole },
+      { to: '/pro/import', icon: Upload, label: 'Import', badge: 0 as const, minRole: 'assistenz' as ProRole },
+      { to: '/pro/einstellungen', icon: Settings, label: 'Einstellungen', badge: 0 as const, minRole: 'owner' as ProRole },
+    ],
+  },
 ]
 
 export default function ProLayout() {
@@ -174,34 +184,43 @@ export default function ProLayout() {
       <div className="max-w-7xl mx-auto px-4 py-6 grid grid-cols-12 gap-6">
         {/* Sidebar */}
         <nav className="col-span-12 md:col-span-3 lg:col-span-2">
-          <ul className="space-y-1">
-            {NAV_ITEMS.filter(item => hasRole(item.minRole)).map(item => {
-              const showBadge = item.badge === 'pending' && pendingIntakes > 0
-              return (
-                <li key={item.to}>
-                  <NavLink
-                    to={item.to}
-                    end={item.end}
-                    className={({ isActive }) =>
-                      `flex items-center gap-2 px-3 py-2 rounded-lg text-sm transition-colors ${
-                        isActive
-                          ? 'bg-[var(--color-ink)] text-white'
-                          : 'text-[var(--color-ink-soft)] hover:bg-white hover:text-[var(--color-ink)]'
-                      }`
-                    }
-                  >
-                    <item.icon className="w-4 h-4" />
-                    <span className="flex-1">{item.label}</span>
-                    {showBadge && (
-                      <span className="inline-flex items-center justify-center min-w-[18px] h-[18px] px-1 text-[10px] font-bold rounded-full bg-[var(--color-gold)] text-white">
-                        {pendingIntakes}
-                      </span>
-                    )}
-                  </NavLink>
-                </li>
-              )
-            })}
-          </ul>
+          <div className="space-y-5">
+            {NAV_GROUPS.map(group => (
+              <div key={group.title}>
+                <div className="px-3 mb-1 text-[10px] uppercase tracking-wider text-[var(--color-ink-muted)]">
+                  {group.title}
+                </div>
+                <ul className="space-y-1">
+                  {group.items.filter(item => hasRole(item.minRole)).map(item => {
+                    const showBadge = item.badge === 'pending' && pendingIntakes > 0
+                    return (
+                      <li key={item.to}>
+                        <NavLink
+                          to={item.to}
+                          end={item.end}
+                          className={({ isActive }) =>
+                            `flex items-center gap-2 px-3 py-2 rounded-lg text-sm transition-colors ${
+                              isActive
+                                ? 'bg-[var(--color-ink)] text-white'
+                                : 'text-[var(--color-ink-soft)] hover:bg-white hover:text-[var(--color-ink)]'
+                            }`
+                          }
+                        >
+                          <item.icon className="w-4 h-4" />
+                          <span className="flex-1">{item.label}</span>
+                          {showBadge && (
+                            <span className="inline-flex items-center justify-center min-w-[18px] h-[18px] px-1 text-[10px] font-bold rounded-full bg-[var(--color-gold)] text-white">
+                              {pendingIntakes}
+                            </span>
+                          )}
+                        </NavLink>
+                      </li>
+                    )
+                  })}
+                </ul>
+              </div>
+            ))}
+          </div>
 
           {needsConfig && location.pathname !== '/pro/einstellungen' && (
             <div className="mt-6 p-3 rounded-lg bg-amber-50 border border-amber-200 text-xs text-amber-900">
