@@ -150,8 +150,17 @@ export interface IntakeEntry {
   anliegen: string
   /** Optional: konkrete Forderung / gewünschter Ausgang. */
   gewuenschterAusgang?: string
+  /** Optional metadata for uploaded intake files/photos (no binary stored). */
+  attachments?: IntakeAttachmentMeta[]
   /** True sobald Anwält:in es gelesen hat. */
   reviewed: boolean
+}
+
+export interface IntakeAttachmentMeta {
+  originalName: string
+  internalName: string
+  mimeType: string
+  sizeBytes: number
 }
 
 /** Simple wrapper for paragraph lookup result. */

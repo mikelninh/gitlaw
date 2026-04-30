@@ -38,6 +38,9 @@ export default function ProEingaenge() {
       answer:
         `Anliegen:\n${i.anliegen}\n\n` +
         (i.gewuenschterAusgang ? `Gewünschter Ausgang:\n${i.gewuenschterAusgang}\n\n` : '') +
+        (i.attachments?.length
+          ? `Anhänge (intern umbenannt):\n${i.attachments.map(a => `- ${a.internalName} (orig: ${a.originalName})`).join('\n')}\n\n`
+          : '') +
         `Eingegangen am ${new Date(i.submittedAt).toLocaleString('de-DE')}.`,
       citations: [],
       reviewed: false,
@@ -123,6 +126,19 @@ export default function ProEingaenge() {
                   <>
                     <div className="font-medium text-xs text-[var(--color-ink-muted)] uppercase mb-1 mt-3">Gewünschter Ausgang</div>
                     <p className="whitespace-pre-wrap">{i.gewuenschterAusgang}</p>
+                  </>
+                )}
+                {i.attachments && i.attachments.length > 0 && (
+                  <>
+                    <div className="font-medium text-xs text-[var(--color-ink-muted)] uppercase mb-1 mt-3">Anhänge</div>
+                    <ul className="text-xs space-y-1">
+                      {i.attachments.map(a => (
+                        <li key={`${i.id}-${a.internalName}`} className="flex items-center justify-between gap-3">
+                          <span className="truncate">{a.originalName}</span>
+                          <span className="font-mono text-[11px] text-[var(--color-ink-soft)]">{a.internalName}</span>
+                        </li>
+                      ))}
+                    </ul>
                   </>
                 )}
               </div>

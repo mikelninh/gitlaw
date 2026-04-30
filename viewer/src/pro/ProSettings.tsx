@@ -7,7 +7,7 @@
 
 import { useEffect, useRef, useState } from 'react'
 import { Save, Upload, Trash2, AlertTriangle, Sparkles, Download, FileSignature, Cloud, RefreshCw, Shield } from 'lucide-react'
-import { eraseAllProData, getSettings, saveSettings } from './store'
+import { eraseAllProData, getSettings, listAudit, listCases, listIntakes, listLetters, listResearch, saveSettings } from './store'
 import { KANZLEI_PRESETS, loadDemoData, isDemoLoaded } from './demo-data'
 import { isDsgvoModusActive, setDsgvoModusActive } from './anonymize'
 import {
@@ -115,6 +115,8 @@ export default function ProSettings() {
           exportierst (Recherche-Notizen, Schreiben, Audit-Logs).
         </p>
       </header>
+
+      <ComplianceCockpit />
 
       <form onSubmit={onSubmit} className="space-y-6 bg-white border border-[var(--color-border)] rounded-2xl p-6">
         {/* Kanzlei */}
@@ -299,6 +301,94 @@ export default function ProSettings() {
           Pro-Daten dieses Browsers löschen
         </button>
       </section>
+    </div>
+  )
+}
+
+function ComplianceCockpit() {
+  const settings = getSettings()
+  const dsgvo = isDsgvoModusActive()
+  const cloudSync = isCloudSyncEnabled()
+  const hasProfile = Boolean(settings.name && settings.anwaltName)
+  const cases = listCases().length
+  const research = listResearch().length
+  const letters = listLetters().length
+  const intakes = listIntakes().length
+  const audit = listAudit().length
+
+  const storageKeys = [
+    'gitlaw.pro.settings.v1',
+    'gitlaw.pro.cases.v1',
+    'gitlaw.pro.research.v1',
+    'gitlaw.pro.letters.v1',
+    'gitlaw.pro.audit.v1',
+    'gitlaw.pro.intakes.v1',
+    'gitlaw.pro.customTemplates.v1',
+    'gitlaw.pro.paragraphNotes.v1',
+  ]
+  const approxBytes = storageKeys.reduce((sum, key) => sum + (localStorage.getItem(key)?.length || 0), 0)
+  const approxKb = Math.round(approxBytes / 1024)
+  const riskTone =
+    !dsgvo ? 'high' :
+    cloudSync ? 'medium' : 'low'
+
+  return (
+    <section className="bg-white border border-[var(--color-border)] rounded-2xl p-6 space-y-4">
+      <div className="flex items-baseline justify-between gap-3 flex-wrap">
+        <div>
+          <h2 className="font-semibold mb-1">Compliance Cockpit</h2>
+          <p className="text-sm text-[var(--color-ink-soft)]">
+            Schnellcheck fuer Datenschutz- und Betriebssicherheit in dieser Instanz.
+          </p>
+        </div>
+        <span
+          className={`text-xs uppercase font-semibold rounded px-2 py-1 border ${
+            riskTone === 'high'
+              ? 'text-red-800 bg-red-50 border-red-200'
+              : riskTone === 'medium'
+                ? 'text-amber-800 bg-amber-50 border-amber-200'
+                : 'text-green-800 bg-green-50 border-green-200'
+          }`}
+        >
+          {riskTone === 'high' ? 'Risk: Hoch' : riskTone === 'medium' ? 'Risk: Mittel' : 'Risk: Niedrig'}
+        </span>
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+        <StatusRow label="DSGVO-Schutz-Modus" ok={dsgvo} okText="Aktiv" badText="Deaktiviert" />
+        <StatusRow label="Kanzlei-Profil fuer Audit/PDF" ok={hasProfile} okText="Vollstaendig" badText="Unvollstaendig" />
+        <StatusRow label="Cloud-Sync" ok={!cloudSync} okText="Lokal-only (datensparsam)" badText="Aktiv (Pruefe AVV + Zugriff)" />
+        <StatusRow label="Audit-Log" ok={audit > 0} okText={`${audit} Eintraege`} badText="Leer" />
+      </div>
+
+      <div className="text-xs text-[var(--color-ink-soft)] bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded p-3">
+        Datenumfang: {cases} Akten · {research} Recherchen · {letters} Schreiben · {intakes} Eingaenge · {audit} Audit-Events · ca. {approxKb} KB lokal.
+      </div>
+    </section>
+  )
+}
+
+function StatusRow({
+  label,
+  ok,
+  okText,
+  badText,
+}: {
+  label: string
+  ok: boolean
+  okText: string
+  badText: string
+}) {
+  return (
+    <div className="border border-[var(--color-border)] rounded-lg px-3 py-2 flex items-center justify-between gap-3">
+      <span className="text-sm">{label}</span>
+      <span
+        className={`text-xs font-semibold rounded px-2 py-1 ${
+          ok ? 'bg-green-100 text-green-800' : 'bg-amber-100 text-amber-800'
+        }`}
+      >
+        {ok ? okText : badText}
+      </span>
     </div>
   )
 }

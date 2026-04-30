@@ -38,6 +38,7 @@ export default function ProResearch() {
   const [savedItem, setSavedItem] = useState<ResearchQuery | null>(null)
   const [error, setError] = useState<string | null>(null)
   const [openCitation, setOpenCitation] = useState<Citation | null>(null)
+  const [showPrivacyGate, setShowPrivacyGate] = useState(false)
 
   useEffect(() => {
     if (initialCaseId) setSelectedCaseId(initialCaseId)
@@ -46,6 +47,10 @@ export default function ProResearch() {
   async function onAsk(e: React.FormEvent) {
     e.preventDefault()
     if (!question.trim()) return
+    if (!isDsgvoModusActive() && hasPII(question)) {
+      setShowPrivacyGate(true)
+      return
+    }
     setLoading(true)
     setError(null)
     setAnswer('')
@@ -240,6 +245,61 @@ export default function ProResearch() {
 
         {error && (
           <div className="bg-red-50 border border-red-200 rounded-lg p-3 text-sm text-red-800">{error}</div>
+        )}
+
+        {showPrivacyGate && (
+          <div className="bg-amber-50 border-2 border-amber-300 rounded-2xl p-4 space-y-3">
+            <p className="text-sm text-amber-900 font-semibold">
+              Datenschutz-Hinweis vor KI-Versand
+            </p>
+            <p className="text-sm text-amber-800">
+              Die Frage enthaelt potenziell personenbezogene Daten und der DSGVO-Schutz-Modus ist aktuell deaktiviert.
+              Vor dem Versand an die KI sollte die Frage anonymisiert werden.
+            </p>
+            <div className="flex items-center gap-2 flex-wrap">
+              <button
+                type="button"
+                onClick={() => {
+                  onAnonymize()
+                  setShowPrivacyGate(false)
+                }}
+                className="inline-flex items-center gap-1.5 text-sm bg-[var(--color-ink)] text-white rounded-lg px-3 py-2 hover:opacity-90"
+              >
+                <Shield className="w-4 h-4" /> Jetzt anonymisieren
+              </button>
+              <button
+                type="button"
+                onClick={async () => {
+                  setShowPrivacyGate(false)
+                  setLoading(true)
+                  setError(null)
+                  setAnswer('')
+                  setCitations([])
+                  setSavedItem(null)
+                  try {
+                    const { antwort, zitate } = await proAsk(question)
+                    setAnswer(antwort)
+                    const cites = await verifyAllCitations(zitate)
+                    setCitations(cites)
+                  } catch (err) {
+                    setError(err instanceof Error ? err.message : 'OpenAI hat keine Antwort zurückgegeben. In 10 Sekunden erneut versuchen.')
+                  } finally {
+                    setLoading(false)
+                  }
+                }}
+                className="inline-flex items-center gap-1.5 text-sm border border-amber-400 text-amber-900 rounded-lg px-3 py-2 hover:bg-amber-100"
+              >
+                Trotzdem senden
+              </button>
+              <button
+                type="button"
+                onClick={() => setShowPrivacyGate(false)}
+                className="inline-flex items-center gap-1.5 text-sm text-[var(--color-ink-soft)] hover:text-[var(--color-ink)]"
+              >
+                Abbrechen
+              </button>
+            </div>
+          </div>
         )}
 
         {answer && (

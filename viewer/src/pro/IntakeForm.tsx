@@ -20,6 +20,7 @@ import { useState } from 'react'
 import { Scale, Send, CheckCircle2, Globe } from 'lucide-react'
 import { useParams, useSearchParams } from 'react-router-dom'
 import { getCase, getSettings, saveIntake } from './store'
+import type { IntakeAttachmentMeta } from './types'
 import { detectIntakeLang, getIntakeStrings, INTAKE_LANGS, isRtl } from './intake-i18n'
 
 export default function IntakeForm() {
@@ -38,6 +39,7 @@ export default function IntakeForm() {
   const [anliegen, setAnliegen] = useState('')
   const [gewuenschterAusgang, setGewuenschterAusgang] = useState('')
   const [consent, setConsent] = useState(false)
+  const [attachments, setAttachments] = useState<IntakeAttachmentMeta[]>([])
 
   const settings = getSettings()
   const caseInfo = slug ? getCase(slug) : undefined
@@ -64,9 +66,48 @@ export default function IntakeForm() {
       phone: phone || undefined,
       anliegen,
       gewuenschterAusgang: gewuenschterAusgang || undefined,
+      attachments: attachments.length ? attachments : undefined,
     })
 
     setDone(true)
+  }
+
+  function slugPart(input: string): string {
+    return input
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/[^a-z0-9]+/g, '_')
+      .replace(/^_+|_+$/g, '')
+      .slice(0, 30) || 'file'
+  }
+
+  function extension(name: string): string {
+    const idx = name.lastIndexOf('.')
+    if (idx < 0 || idx === name.length - 1) return ''
+    return name.slice(idx + 1).toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 8)
+  }
+
+  function onFilesSelected(e: React.ChangeEvent<HTMLInputElement>) {
+    const files = Array.from(e.target.files || [])
+    const dateTag = new Date().toISOString().slice(0, 10).replace(/-/g, '')
+    const nameTag = slugPart(name || 'mandant')
+    const mapped = files.map((f, idx) => {
+      const ext = extension(f.name)
+      const internal = [
+        'in',
+        dateTag,
+        nameTag,
+        String(idx + 1).padStart(2, '0'),
+      ].join('_') + (ext ? `.${ext}` : '')
+      return {
+        originalName: f.name,
+        internalName: internal,
+        mimeType: f.type || 'application/octet-stream',
+        sizeBytes: f.size,
+      } satisfies IntakeAttachmentMeta
+    })
+    setAttachments(mapped)
   }
 
   function onSendMail() {
@@ -225,6 +266,28 @@ export default function IntakeForm() {
               className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 focus:outline-none focus:border-[var(--color-gold)]"
               dir={rtl ? 'rtl' : 'ltr'}
             />
+          </FormField>
+
+          <FormField
+            label="Fotos / Dateien (optional)"
+            hint="Nur Metadaten werden gespeichert, keine Datei-Uploads in dieser Beta."
+          >
+            <input
+              type="file"
+              multiple
+              onChange={onFilesSelected}
+              className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 focus:outline-none focus:border-[var(--color-gold)]"
+            />
+            {attachments.length > 0 && (
+              <ul className="mt-2 text-xs text-[var(--color-ink-muted)] space-y-1">
+                {attachments.map(a => (
+                  <li key={a.internalName} className="flex items-center justify-between gap-3">
+                    <span className="truncate">{a.originalName}</span>
+                    <span className="font-mono text-[11px] text-[var(--color-ink-soft)]">{a.internalName}</span>
+                  </li>
+                ))}
+              </ul>
+            )}
           </FormField>
 
           <label className="flex items-start gap-2 text-xs text-[var(--color-ink-soft)] pt-3 border-t border-[var(--color-border)]">

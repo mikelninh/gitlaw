@@ -6,12 +6,14 @@
  */
 
 import type { VercelRequest, VercelResponse } from '@vercel/node'
+import { applyCors, applySecurityHeaders } from './_http'
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
-  // CORS
-  res.setHeader('Access-Control-Allow-Origin', '*')
-  res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS')
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type')
+  applySecurityHeaders(res)
+  const corsAllowed = applyCors(req, res, 'POST, OPTIONS')
+  if (!corsAllowed) {
+    return res.status(403).json({ error: 'Origin not allowed' })
+  }
 
   if (req.method === 'OPTIONS') {
     return res.status(200).end()

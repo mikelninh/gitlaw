@@ -377,7 +377,7 @@ function App() {
 
       {/* Tab bar */}
       <div className="bg-bg border-b border-border">
-        <div className="max-w-5xl mx-auto px-5 flex gap-1 pt-2">
+        <div className="max-w-5xl mx-auto px-5 flex gap-1 pt-2 items-center flex-wrap">
           <button onClick={() => setActiveTab('gesetze')}
             className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'gesetze' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
             <FileText className="w-4 h-4 inline mr-1.5" />Gesetze durchsuchen
@@ -398,6 +398,13 @@ function App() {
             className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'widersprueche' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
             ⚡ Widersprüche
           </button>
+          <a
+            href={`${baseUrl}#/pro`}
+            className="ml-auto px-4 py-2.5 rounded-t-xl text-sm font-semibold text-gold hover:text-ink transition-colors"
+            title="Zur Pro-Version für Anwält:innen"
+          >
+            Pro für Anwält:innen
+          </a>
         </div>
       </div>
 

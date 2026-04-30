@@ -19,6 +19,7 @@
 
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { Redis } from '@upstash/redis'
+import { applyCors, applySecurityHeaders } from '../_http'
 
 const redis = Redis.fromEnv()
 
@@ -26,9 +27,9 @@ const MAX_SNAPSHOT_SIZE = 900_000  // ~900 KB
 const TTL_SECONDS = 60 * 60 * 24 * 90  // 90 Tage
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
-  res.setHeader('Access-Control-Allow-Origin', '*')
-  res.setHeader('Access-Control-Allow-Methods', 'GET, PUT, OPTIONS')
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type')
+  applySecurityHeaders(res)
+  const corsAllowed = applyCors(req, res, 'GET, PUT, OPTIONS')
+  if (!corsAllowed) return res.status(403).json({ error: 'Origin not allowed' })
 
   if (req.method === 'OPTIONS') return res.status(200).end()
 
