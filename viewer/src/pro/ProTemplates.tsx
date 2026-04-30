@@ -46,7 +46,28 @@ function renderCustom(t: CustomTemplate, fields: Record<string, string>): string
   return t.body.replace(/\{\{\s*([a-z_][a-z0-9_]*)\s*\}\}/gi, (_m, key) => fields[key] || `[${key}]`)
 }
 
+function splitMultiValue(value: string): string[] {
+  return value
+    .split(/[•·;\n]/g)
+    .map(v => v.trim())
+    .filter(Boolean)
+}
+
+function joinMultiValue(values: string[]): string {
+  return values.join(' · ')
+}
+
 type TemplateSortMode = 'smart' | 'favorites' | 'usage'
+type QuickAccessItem = {
+  key: string
+  title: string
+  description?: string
+  meta: string
+  usage?: TemplateUsageEntry
+  favorite: boolean
+  onOpen: () => void
+  onToggleFavorite: () => void
+}
 
 function makeUsageMap(entries: TemplateUsageEntry[]): Map<string, TemplateUsageEntry> {
   return new Map(entries.map(entry => [entry.templateId, entry]))
@@ -99,6 +120,19 @@ function sortTemplates<T extends { id: string; title: string }>(
       .sort((a, b) => compareTemplates(a, b, usage, mode))
   }
   return list.sort((a, b) => compareTemplates(a, b, usage, mode))
+}
+
+function compareQuickAccess(a: QuickAccessItem, b: QuickAccessItem): number {
+  const favA = a.favorite ? 1 : 0
+  const favB = b.favorite ? 1 : 0
+  const countA = a.usage?.count || 0
+  const countB = b.usage?.count || 0
+  const lastA = a.usage?.lastUsedAt || ''
+  const lastB = b.usage?.lastUsedAt || ''
+  if (favB !== favA) return favB - favA
+  if (countB !== countA) return countB - countA
+  if (lastB !== lastA) return lastB.localeCompare(lastA)
+  return a.title.localeCompare(b.title, 'de')
 }
 
 function TemplateCard({
@@ -171,6 +205,7 @@ export default function ProTemplates() {
   const [editingCustom, setEditingCustom] = useState<CustomTemplate | 'new' | null>(null)
   const [confirmingDelete, setConfirmingDelete] = useState<string | null>(null)
   const [closingStyle, setClosingStyle] = useState<'kollegial' | 'freundlich' | 'neutral'>('kollegial')
+  const [signoffName, setSignoffName] = useState(() => getSettings().anwaltName || '')
   const [sortMode, setSortMode] = useState<TemplateSortMode>('smart')
 
   const customTemplates = useMemo(() => listCustomTemplates(), [tick, editingCustom])
@@ -191,6 +226,9 @@ export default function ProTemplates() {
         ? renderCustom(activeTemplate.t, fields)
         : ''
   const bodyWithClosing = applyClosing(renderedBody, closingStyle)
+  const finalBody = signoffName.trim()
+    ? `${bodyWithClosing}\n\n${signoffName.trim()}`
+    : bodyWithClosing
 
   function pickBuiltin(id: string) {
     const t = getAnyBuiltinTemplate(id)
@@ -224,7 +262,7 @@ export default function ProTemplates() {
       templateId: t.id,
       templateTitle: t.title,
       fields,
-      body: bodyWithClosing,
+      body: finalBody,
     })
     setSavedLetter(saved)
   }
@@ -238,7 +276,7 @@ export default function ProTemplates() {
 
   async function onCopy() {
     try {
-      await navigator.clipboard.writeText(bodyWithClosing)
+      await navigator.clipboard.writeText(finalBody)
       setCopyOk(true)
       setTimeout(() => setCopyOk(false), 2000)
     } catch { /* ignore */ }
@@ -253,10 +291,10 @@ export default function ProTemplates() {
     const subject = subjectParts.join(' — ')
     const maxBodyLen = 1500
     const body =
-      bodyWithClosing.length > maxBodyLen
-        ? bodyWithClosing.slice(0, maxBodyLen) +
+      finalBody.length > maxBodyLen
+        ? finalBody.slice(0, maxBodyLen) +
           '\n\n[…verkürzt — bitte vollständigen Brief als PDF-Anhang mitsenden]'
-        : bodyWithClosing
+        : finalBody
     window.location.href = `mailto:${to}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
   }
 
@@ -281,6 +319,99 @@ export default function ProTemplates() {
     const familTemplates = sortList(FAMILIE_TEMPLATES)
     const sozialTemplates = sortList(SOZIAL_TEMPLATES)
     const steuerTemplates = sortList(STEUER_TEMPLATES)
+    const smartQuickAccess: QuickAccessItem[] = [
+      ...customTemplates.map(t => {
+        const usage = templateUsage.get(t.id)
+        return {
+          key: `custom:${t.id}`,
+          title: t.title,
+          description: t.description,
+          meta: `${t.placeholders.length} Platzhalter`,
+          usage,
+          favorite: !!usage?.favorite,
+          onOpen: () => pickCustom(t.id),
+          onToggleFavorite: () => toggleFavorite(t.id),
+        }
+      }),
+      ...LAWYER_TEMPLATES.map(t => {
+        const usage = templateUsage.get(t.id)
+        return {
+          key: `lawyer:${t.id}`,
+          title: t.title,
+          description: t.description,
+          meta: `Wann: ${t.useCase}`,
+          usage,
+          favorite: !!usage?.favorite,
+          onOpen: () => pickBuiltin(t.id),
+          onToggleFavorite: () => toggleFavorite(t.id),
+        }
+      }),
+      ...NOTAR_TEMPLATES.map(t => {
+        const usage = templateUsage.get(t.id)
+        return {
+          key: `notar:${t.id}`,
+          title: t.title,
+          description: t.description,
+          meta: `Wann: ${t.useCase}`,
+          usage,
+          favorite: !!usage?.favorite,
+          onOpen: () => pickBuiltin(t.id),
+          onToggleFavorite: () => toggleFavorite(t.id),
+        }
+      }),
+      ...MIGRATION_TEMPLATES.map(t => {
+        const usage = templateUsage.get(t.id)
+        return {
+          key: `migration:${t.id}`,
+          title: t.title,
+          description: t.description,
+          meta: `Wann: ${t.useCase}`,
+          usage,
+          favorite: !!usage?.favorite,
+          onOpen: () => pickBuiltin(t.id),
+          onToggleFavorite: () => toggleFavorite(t.id),
+        }
+      }),
+      ...FAMILIE_TEMPLATES.map(t => {
+        const usage = templateUsage.get(t.id)
+        return {
+          key: `familie:${t.id}`,
+          title: t.title,
+          description: t.description,
+          meta: `Wann: ${t.useCase}`,
+          usage,
+          favorite: !!usage?.favorite,
+          onOpen: () => pickBuiltin(t.id),
+          onToggleFavorite: () => toggleFavorite(t.id),
+        }
+      }),
+      ...SOZIAL_TEMPLATES.map(t => {
+        const usage = templateUsage.get(t.id)
+        return {
+          key: `sozial:${t.id}`,
+          title: t.title,
+          description: t.description,
+          meta: `Wann: ${t.useCase}`,
+          usage,
+          favorite: !!usage?.favorite,
+          onOpen: () => pickBuiltin(t.id),
+          onToggleFavorite: () => toggleFavorite(t.id),
+        }
+      }),
+      ...STEUER_TEMPLATES.map(t => {
+        const usage = templateUsage.get(t.id)
+        return {
+          key: `steuer:${t.id}`,
+          title: t.title,
+          description: t.description,
+          meta: `Wann: ${t.useCase}`,
+          usage,
+          favorite: !!usage?.favorite,
+          onOpen: () => pickBuiltin(t.id),
+          onToggleFavorite: () => toggleFavorite(t.id),
+        }
+      }),
+    ].sort(compareQuickAccess).slice(0, 6)
     return (
       <div className="space-y-6">
         <header>
@@ -289,6 +420,28 @@ export default function ProTemplates() {
             Eingebaute Vorlagen + deine eigenen. Füllen → Preview → PDF auf deinem Briefkopf.
           </p>
         </header>
+
+        {sortMode === 'smart' && (
+          <section>
+            <h2 className="font-semibold text-sm uppercase tracking-wide text-[var(--color-ink-muted)] mb-3">
+              Schnellzugriff
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {smartQuickAccess.map(item => (
+                <TemplateCard
+                  key={item.key}
+                  title={item.title}
+                  description={item.description}
+                  meta={item.meta}
+                  usage={item.usage}
+                  favorite={item.favorite}
+                  onOpen={item.onOpen}
+                  onToggleFavorite={item.onToggleFavorite}
+                />
+              ))}
+            </div>
+          </section>
+        )}
 
         <div id="writing-template-browser" className="flex flex-wrap items-center gap-2 text-xs bg-white border border-[var(--color-border)] rounded-2xl p-2">
           <span className="text-[var(--color-ink-muted)] px-2">Sortierung:</span>
@@ -543,6 +696,42 @@ export default function ProTemplates() {
                 {f.required && <span className="text-red-600 ml-1">*</span>}
               </label>
               {f.type === 'textarea' ? (
+                f.id === 'rechtsgrundlage' ? (
+                  <div className="space-y-2">
+                    <div className="flex flex-wrap gap-1.5">
+                      {['§ 147 StPO', '§ 406e StPO', '§ 29 VwVfG', '§ 25 SGB X'].map(opt => {
+                        const current = splitMultiValue(fields[f.id] || '')
+                        const selected = current.includes(opt)
+                        return (
+                          <button
+                            key={opt}
+                            type="button"
+                            onClick={() => {
+                              const next = selected
+                                ? current.filter(x => x !== opt)
+                                : [...current, opt]
+                              setFields({ ...fields, rechtsgrundlage: joinMultiValue(next) })
+                            }}
+                            className={`text-[11px] px-2 py-1 rounded-full border ${
+                              selected
+                                ? 'bg-[var(--color-ink)] text-white border-[var(--color-ink)]'
+                                : 'border-[var(--color-border)] bg-[var(--color-bg-alt)] hover:border-[var(--color-gold)] hover:bg-white'
+                            }`}
+                          >
+                            {opt}
+                          </button>
+                        )
+                      })}
+                    </div>
+                    <textarea
+                      value={fields[f.id] || ''}
+                      onChange={e => setFields({ ...fields, [f.id]: e.target.value })}
+                      placeholder={'placeholder' in f ? f.placeholder : 'Mehrere Rechtsgrundlagen mit Trennzeichen ergänzen'}
+                      rows={2}
+                      className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-[var(--color-gold)]"
+                    />
+                  </div>
+                ) : (
                 <textarea
                   value={fields[f.id] || ''}
                   onChange={e => setFields({ ...fields, [f.id]: e.target.value })}
@@ -550,6 +739,7 @@ export default function ProTemplates() {
                   rows={3}
                   className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-[var(--color-gold)]"
                 />
+                )
               ) : (
                 <input
                   type={f.type === 'date' ? 'date' : 'text'}
@@ -560,18 +750,7 @@ export default function ProTemplates() {
                 />
               )}
               {f.id === 'rechtsgrundlage' && (
-                <div className="mt-2 flex flex-wrap gap-1.5">
-                  {['§ 147 StPO', '§ 406e StPO', '§ 29 VwVfG', '§ 25 SGB X'].map(opt => (
-                    <button
-                      key={opt}
-                      type="button"
-                      onClick={() => setFields({ ...fields, rechtsgrundlage: opt })}
-                      className="text-[11px] px-2 py-1 rounded-full border border-[var(--color-border)] bg-[var(--color-bg-alt)] hover:border-[var(--color-gold)] hover:bg-white"
-                    >
-                      {opt}
-                    </button>
-                  ))}
-                </div>
+                <p className="text-xs text-[var(--color-ink-muted)] mt-1 italic">Mehrfachauswahl ist erlaubt. Klick die Vorschläge an oder ergänze frei.</p>
               )}
               {'hint' in f && f.hint && (
                 <p className="text-xs text-[var(--color-ink-muted)] mt-1 italic">{f.hint}</p>
@@ -591,12 +770,26 @@ export default function ProTemplates() {
               <option value="neutral">Beste Grüße</option>
             </select>
           </div>
+
+          <div>
+            <label className="block text-xs font-medium mb-1">Name unter der Schlussformel</label>
+            <input
+              type="text"
+              value={signoffName}
+              onChange={e => setSignoffName(e.target.value)}
+              placeholder="z. B. Mikel Ninh oder Kanzlei Thai Bao Nguyen"
+              className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-[var(--color-gold)]"
+            />
+            <p className="text-xs text-[var(--color-ink-muted)] mt-1 italic">
+              Wird direkt unter die Grußformel gesetzt, damit E-Mail und PDF sofort fertig sind.
+            </p>
+          </div>
         </form>
 
         <div className="bg-white border border-[var(--color-border)] rounded-2xl p-5 space-y-3">
           <h2 className="font-semibold text-sm uppercase tracking-wide text-[var(--color-ink-muted)]">Vorschau</h2>
           <pre className="text-xs leading-relaxed whitespace-pre-wrap font-sans bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded-lg p-3 max-h-[500px] overflow-y-auto">
-            {bodyWithClosing}
+            {finalBody}
           </pre>
           <div className="flex flex-wrap items-center gap-2 pt-2">
             <button onClick={onCopy} className="inline-flex items-center gap-1.5 text-sm bg-white border border-[var(--color-border)] rounded-lg px-3 py-1.5 hover:border-[var(--color-gold)]">
