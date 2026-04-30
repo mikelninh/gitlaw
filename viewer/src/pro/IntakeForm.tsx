@@ -40,6 +40,10 @@ export default function IntakeForm() {
   const [gewuenschterAusgang, setGewuenschterAusgang] = useState('')
   const [consent, setConsent] = useState(false)
   const [attachments, setAttachments] = useState<IntakeAttachmentMeta[]>([])
+  const [dringlichkeit, setDringlichkeit] = useState<'niedrig' | 'mittel' | 'hoch' | 'akut'>('mittel')
+  const [fristBekannt, setFristBekannt] = useState(false)
+  const [attachmentCategory, setAttachmentCategory] = useState<'foto' | 'bescheid' | 'vertrag' | 'chat' | 'sonstiges'>('sonstiges')
+  const [attachmentLanguage, setAttachmentLanguage] = useState<'de' | 'vi' | 'en' | 'tr' | 'ar' | 'other'>('de')
 
   const settings = getSettings()
   const caseInfo = slug ? getCase(slug) : undefined
@@ -66,6 +70,8 @@ export default function IntakeForm() {
       phone: phone || undefined,
       anliegen,
       gewuenschterAusgang: gewuenschterAusgang || undefined,
+      dringlichkeit,
+      fristBekannt,
       attachments: attachments.length ? attachments : undefined,
     })
 
@@ -105,6 +111,8 @@ export default function IntakeForm() {
         internalName: internal,
         mimeType: f.type || 'application/octet-stream',
         sizeBytes: f.size,
+        category: attachmentCategory,
+        languageHint: attachmentLanguage,
       } satisfies IntakeAttachmentMeta
     })
     setAttachments(mapped)
@@ -268,10 +276,60 @@ export default function IntakeForm() {
             />
           </FormField>
 
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+            <FormField label="Dringlichkeit">
+              <select
+                value={dringlichkeit}
+                onChange={e => setDringlichkeit(e.target.value as typeof dringlichkeit)}
+                className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 bg-white focus:outline-none focus:border-[var(--color-gold)]"
+              >
+                <option value="niedrig">niedrig</option>
+                <option value="mittel">mittel</option>
+                <option value="hoch">hoch</option>
+                <option value="akut">akut</option>
+              </select>
+            </FormField>
+            <FormField label="Frist bekannt?">
+              <label className="inline-flex items-center gap-2 border border-[var(--color-border)] rounded-lg px-3 py-2">
+                <input
+                  type="checkbox"
+                  checked={fristBekannt}
+                  onChange={e => setFristBekannt(e.target.checked)}
+                />
+                <span className="text-sm">Ja, es gibt eine Frist / einen Termin</span>
+              </label>
+            </FormField>
+          </div>
+
           <FormField
             label="Fotos / Dateien (optional)"
             hint="Nur Metadaten werden gespeichert, keine Datei-Uploads in dieser Beta."
           >
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mb-2">
+              <select
+                value={attachmentCategory}
+                onChange={e => setAttachmentCategory(e.target.value as typeof attachmentCategory)}
+                className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 bg-white focus:outline-none focus:border-[var(--color-gold)] text-sm"
+              >
+                <option value="sonstiges">Kategorie: Sonstiges</option>
+                <option value="foto">Kategorie: Foto</option>
+                <option value="bescheid">Kategorie: Bescheid</option>
+                <option value="vertrag">Kategorie: Vertrag</option>
+                <option value="chat">Kategorie: Chat/WhatsApp</option>
+              </select>
+              <select
+                value={attachmentLanguage}
+                onChange={e => setAttachmentLanguage(e.target.value as typeof attachmentLanguage)}
+                className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 bg-white focus:outline-none focus:border-[var(--color-gold)] text-sm"
+              >
+                <option value="de">Sprache: Deutsch</option>
+                <option value="vi">Sprache: Vietnamesisch</option>
+                <option value="en">Sprache: Englisch</option>
+                <option value="tr">Sprache: Türkisch</option>
+                <option value="ar">Sprache: Arabisch</option>
+                <option value="other">Sprache: Andere</option>
+              </select>
+            </div>
             <input
               type="file"
               multiple
@@ -283,7 +341,9 @@ export default function IntakeForm() {
                 {attachments.map(a => (
                   <li key={a.internalName} className="flex items-center justify-between gap-3">
                     <span className="truncate">{a.originalName}</span>
-                    <span className="font-mono text-[11px] text-[var(--color-ink-soft)]">{a.internalName}</span>
+                    <span className="font-mono text-[11px] text-[var(--color-ink-soft)]">
+                      {a.internalName} [{a.category || 'sonstiges'}/{a.languageHint || 'de'}]
+                    </span>
                   </li>
                 ))}
               </ul>

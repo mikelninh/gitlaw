@@ -38,8 +38,10 @@ export default function ProEingaenge() {
       answer:
         `Anliegen:\n${i.anliegen}\n\n` +
         (i.gewuenschterAusgang ? `Gewünschter Ausgang:\n${i.gewuenschterAusgang}\n\n` : '') +
+        (i.dringlichkeit ? `Dringlichkeit: ${i.dringlichkeit}\n` : '') +
+        (i.fristBekannt !== undefined ? `Frist bekannt: ${i.fristBekannt ? 'ja' : 'nein'}\n\n` : '') +
         (i.attachments?.length
-          ? `Anhänge (intern umbenannt):\n${i.attachments.map(a => `- ${a.internalName} (orig: ${a.originalName})`).join('\n')}\n\n`
+          ? `Anhänge (intern umbenannt):\n${i.attachments.map(a => `- ${a.internalName} (orig: ${a.originalName}, cat=${a.category || 'sonstiges'}, lang=${a.languageHint || 'de'})`).join('\n')}\n\n`
           : '') +
         `Eingegangen am ${new Date(i.submittedAt).toLocaleString('de-DE')}.`,
       citations: [],
@@ -110,6 +112,16 @@ export default function ProEingaenge() {
                     <span>
                       eingegangen {new Date(i.submittedAt).toLocaleString('de-DE')}
                     </span>
+                    {i.dringlichkeit && (
+                      <span className="uppercase text-[10px] px-1.5 py-0.5 rounded bg-slate-100 border border-slate-200">
+                        {i.dringlichkeit}
+                      </span>
+                    )}
+                    {i.fristBekannt && (
+                      <span className="uppercase text-[10px] px-1.5 py-0.5 rounded bg-amber-100 text-amber-900 border border-amber-300">
+                        Frist bekannt
+                      </span>
+                    )}
                   </div>
                 </div>
                 {i.reviewed && (
@@ -135,7 +147,9 @@ export default function ProEingaenge() {
                       {i.attachments.map(a => (
                         <li key={`${i.id}-${a.internalName}`} className="flex items-center justify-between gap-3">
                           <span className="truncate">{a.originalName}</span>
-                          <span className="font-mono text-[11px] text-[var(--color-ink-soft)]">{a.internalName}</span>
+                          <span className="font-mono text-[11px] text-[var(--color-ink-soft)]">
+                            {a.internalName} [{a.category || 'sonstiges'}/{a.languageHint || 'de'}]
+                          </span>
                         </li>
                       ))}
                     </ul>

@@ -647,6 +647,16 @@ export function ProCaseDetail() {
                           neu
                         </span>
                       )}
+                      {i.dringlichkeit && (
+                        <span className="text-[10px] uppercase px-1.5 py-0.5 rounded bg-slate-100 text-slate-700 border border-slate-200">
+                          {i.dringlichkeit}
+                        </span>
+                      )}
+                      {i.fristBekannt && (
+                        <span className="text-[10px] uppercase px-1.5 py-0.5 rounded bg-amber-100 text-amber-900 border border-amber-300">
+                          Frist bekannt
+                        </span>
+                      )}
                     </div>
                     <p className="text-sm text-[var(--color-ink-soft)] mt-1">{i.anliegen}</p>
                     {i.gewuenschterAusgang && (
@@ -659,6 +669,18 @@ export function ProCaseDetail() {
                       {i.phone && <span>☎ {i.phone}</span>}
                       <span>{new Date(i.submittedAt).toLocaleString('de-DE')}</span>
                     </div>
+                    {i.attachments && i.attachments.length > 0 && (
+                      <ul className="mt-2 text-xs space-y-1">
+                        {i.attachments.map(a => (
+                          <li key={`${i.id}-${a.internalName}`} className="flex items-center justify-between gap-2">
+                            <span className="truncate">{a.originalName}</span>
+                            <span className="font-mono text-[11px] text-[var(--color-ink-soft)]">
+                              {a.internalName} [{a.category || 'sonstiges'}/{a.languageHint || 'de'}]
+                            </span>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
                   </div>
                   {!i.reviewed && (
                     <button
@@ -677,6 +699,29 @@ export function ProCaseDetail() {
           </ul>
         </section>
       )}
+
+      <section>
+        <h2 className="font-semibold mb-2">Dokument-Chronologie</h2>
+        {intakes.length === 0 ? (
+          <p className="text-sm text-[var(--color-ink-muted)]">Noch keine dokumentierten Eingänge.</p>
+        ) : (
+          <ul className="bg-white border border-[var(--color-border)] rounded-2xl divide-y divide-[var(--color-border)]">
+            {intakes.flatMap(i => (i.attachments || []).map(a => ({ i, a })))
+              .sort((x, y) => y.i.submittedAt.localeCompare(x.i.submittedAt))
+              .map(({ i, a }) => (
+                <li key={`${i.id}-${a.internalName}`} className="px-4 py-2 text-xs flex items-center justify-between gap-3">
+                  <span className="truncate">
+                    <span className="font-mono mr-2">{a.internalName}</span>
+                    von {i.name} · {a.category || 'sonstiges'} · {a.languageHint || 'de'}
+                  </span>
+                  <span className="text-[var(--color-ink-muted)] shrink-0">
+                    {new Date(i.submittedAt).toLocaleString('de-DE')}
+                  </span>
+                </li>
+              ))}
+          </ul>
+        )}
+      </section>
 
       <section>
         <h2 className="font-semibold mb-2">Recherchen ({research.length})</h2>

@@ -304,6 +304,17 @@ export default function ProResearch() {
 
         {answer && (
           <article className="bg-white border border-[var(--color-border)] rounded-2xl p-6 space-y-5">
+            <div
+              className={`text-xs rounded-lg px-3 py-2 border ${
+                savedItem?.reviewed
+                  ? 'bg-green-50 text-green-900 border-green-200'
+                  : 'bg-amber-50 text-amber-900 border-amber-200'
+              }`}
+            >
+              {savedItem?.reviewed
+                ? 'Status: geprueft/finalisiert durch Anwalt.'
+                : 'Status: Entwurf (ungeprueft). Vor externer Nutzung pruefen.'}
+            </div>
             <section>
               <h2 className="font-semibold mb-2 text-sm uppercase tracking-wide text-[var(--color-ink-muted)]">
                 Antwort

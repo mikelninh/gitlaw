@@ -150,6 +150,10 @@ export interface IntakeEntry {
   anliegen: string
   /** Optional: konkrete Forderung / gewünschter Ausgang. */
   gewuenschterAusgang?: string
+  /** Optional urgency provided by mandant for triage. */
+  dringlichkeit?: 'niedrig' | 'mittel' | 'hoch' | 'akut'
+  /** Optional if the mandant indicates a known legal/official deadline exists. */
+  fristBekannt?: boolean
   /** Optional metadata for uploaded intake files/photos (no binary stored). */
   attachments?: IntakeAttachmentMeta[]
   /** True sobald Anwält:in es gelesen hat. */
@@ -161,6 +165,10 @@ export interface IntakeAttachmentMeta {
   internalName: string
   mimeType: string
   sizeBytes: number
+  /** Optional lightweight classification from mandant input. */
+  category?: 'foto' | 'bescheid' | 'vertrag' | 'chat' | 'sonstiges'
+  /** Optional language hint for OCR/translation pipeline planning. */
+  languageHint?: 'de' | 'vi' | 'en' | 'tr' | 'ar' | 'other'
 }
 
 /** Simple wrapper for paragraph lookup result. */
