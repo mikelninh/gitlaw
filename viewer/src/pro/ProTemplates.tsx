@@ -28,6 +28,7 @@ import {
   getSettings,
   listCases,
   listCustomTemplates,
+  listLetters,
   saveCustomTemplate,
   saveLetter,
 } from './store'
@@ -45,6 +46,7 @@ export default function ProTemplates() {
   const [params, setParams] = useSearchParams()
   const cases = useMemo(() => listCases().filter(c => c.status === 'aktiv'), [])
   const [selectedCaseId, setSelectedCaseId] = useState(params.get('case') || '')
+  const refLetterId = params.get('ref') || ''
   const [activeTemplate, setActiveTemplate] = useState<PickedTemplate | null>(null)
   const [fields, setFields] = useState<Record<string, string>>({})
   const [savedLetter, setSavedLetter] = useState<GeneratedLetter | null>(null)
@@ -54,6 +56,7 @@ export default function ProTemplates() {
   const [confirmingDelete, setConfirmingDelete] = useState<string | null>(null)
 
   const customTemplates = useMemo(() => listCustomTemplates(), [tick, editingCustom])
+  const linkedLetter = selectedCaseId ? listLetters(selectedCaseId).find(l => l.id === refLetterId) : undefined
 
   const renderedBody =
     activeTemplate?.kind === 'builtin'
@@ -310,6 +313,36 @@ export default function ProTemplates() {
           <p className="text-sm text-[var(--color-ink-soft)]">{activeTemplate.t.description}</p>
         )}
       </header>
+
+      {linkedLetter && (
+        <section className="bg-green-50 border border-green-200 rounded-2xl p-4">
+          <div className="flex items-center justify-between gap-3 flex-wrap">
+            <div>
+              <p className="text-xs uppercase tracking-wide text-green-800 font-semibold">Verknüpftes Schreiben</p>
+              <p className="font-medium mt-1">{linkedLetter.templateTitle}</p>
+              <p className="text-xs text-green-900/80 mt-1">
+                {new Date(linkedLetter.createdAt).toLocaleDateString('de-DE')}
+                {linkedLetter.caseId ? ` · ${getCase(linkedLetter.caseId)?.aktenzeichen || ''}` : ''}
+              </p>
+            </div>
+            <button
+              type="button"
+              onClick={() => {
+                const builtin = getAnyBuiltinTemplate(linkedLetter.templateId)
+                const custom = getCustomTemplate(linkedLetter.templateId)
+                if (builtin) setActiveTemplate({ kind: 'builtin', t: builtin })
+                else if (custom) setActiveTemplate({ kind: 'custom', t: custom })
+                setFields(linkedLetter.fields)
+                setSavedLetter(linkedLetter)
+                window.scrollTo({ top: 0, behavior: 'smooth' })
+              }}
+              className="text-xs bg-[var(--color-ink)] text-white rounded-lg px-3 py-1.5 hover:opacity-90"
+            >
+              In Vorlage öffnen
+            </button>
+          </div>
+        </section>
+      )}
 
       <div className="bg-white border border-[var(--color-border)] rounded-2xl p-4 flex items-baseline gap-2">
         <label className="text-sm text-[var(--color-ink-soft)] shrink-0">Akte:</label>

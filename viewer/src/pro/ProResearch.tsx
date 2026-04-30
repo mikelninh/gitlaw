@@ -18,6 +18,7 @@ import {
   getCase,
   getSettings,
   listCases,
+  listResearch,
   listApprovedAnswerMemory,
   markResearchReviewed,
   saveApprovedAnswerMemory,
@@ -39,6 +40,7 @@ interface ResearchTurn {
 export default function ProResearch() {
   const [params, setParams] = useSearchParams()
   const initialCaseId = params.get('case') || ''
+  const refResearchId = params.get('ref') || ''
   const cases = listCases().filter(c => c.status === 'aktiv')
   const [selectedCaseId, setSelectedCaseId] = useState(initialCaseId)
   const [question, setQuestion] = useState('')
@@ -213,6 +215,7 @@ export default function ProResearch() {
 
   const verifiedCount = citations.filter(c => c.verified).length
   const memoryItems = listApprovedAnswerMemory().slice(0, 5)
+  const linkedResearch = selectedCaseId ? listResearch(selectedCaseId).find(r => r.id === refResearchId) : undefined
 
   return (
     <>
@@ -224,6 +227,37 @@ export default function ProResearch() {
             von 5.936 Bundesgesetzen.
           </p>
         </header>
+
+        {linkedResearch && (
+          <section className="bg-green-50 border border-green-200 rounded-2xl p-4">
+            <div className="flex items-center justify-between gap-3 flex-wrap">
+              <div>
+                <p className="text-xs uppercase tracking-wide text-green-800 font-semibold">Verknüpfte Recherche</p>
+                <p className="font-medium mt-1">{linkedResearch.question}</p>
+                <p className="text-xs text-green-900/80 mt-1">
+                  {new Date(linkedResearch.createdAt).toLocaleDateString('de-DE')} · {linkedResearch.citations.length} Zitate
+                  {linkedResearch.reviewed ? ' · geprüft' : ' · ungeprüft'}
+                </p>
+              </div>
+              <div className="flex items-center gap-2">
+                <button
+                  type="button"
+                  onClick={() => {
+                    setQuestion(linkedResearch.question)
+                    setAnswer(linkedResearch.answer)
+                    setCitations(linkedResearch.citations)
+                    setSavedItem(linkedResearch)
+                    setApprovedAnswerDraft(linkedResearch.approvedAnswer || linkedResearch.answer)
+                    window.scrollTo({ top: 0, behavior: 'smooth' })
+                  }}
+                  className="text-xs bg-[var(--color-ink)] text-white rounded-lg px-3 py-1.5 hover:opacity-90"
+                >
+                  In Frage übernehmen
+                </button>
+              </div>
+            </div>
+          </section>
+        )}
 
         <form onSubmit={onAsk} className="bg-white border border-[var(--color-border)] rounded-2xl p-5 space-y-3">
           <div className="flex gap-2 items-baseline">
