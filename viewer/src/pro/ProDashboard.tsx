@@ -14,9 +14,10 @@ import {
   FolderOpen, Search, FileText, Plus, Clock, AlertCircle, Inbox, Sparkles, TrendingUp, CheckCircle2,
 } from 'lucide-react'
 import {
-  getAccessContext, getSettings, isOnboardingDismissed, listAudit, listCases, listIntakes, listLetters, listResearch, setOnboardingDismissed,
+  getAccessContext, getAnalyticsSnapshot, getSettings, isOnboardingDismissed, listAudit, listCases, listIntakes, listLetters, listResearch, setOnboardingDismissed,
 } from './store'
 import { savingsThisWeek } from './savings'
+import { roleLabel } from './access'
 
 function getSettingsName(): string {
   const s = getSettings()
@@ -48,6 +49,7 @@ export default function ProDashboard() {
   const recentAudit = listAudit().slice(0, 5)
   const savings = savingsThisWeek()
   const access = getAccessContext()
+  const analytics = getAnalyticsSnapshot()
   const onboardingDismissed = isOnboardingDismissed()
 
   const upcomingFristen = cases
@@ -95,6 +97,13 @@ export default function ProDashboard() {
         <p className="text-sm text-[var(--color-ink-soft)]">
           {new Date().toLocaleDateString('de-DE', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}
         </p>
+        {access && (
+          <div className="mt-3 inline-flex items-center gap-2 rounded-full bg-white/80 border border-[var(--color-border)] px-3 py-1 text-xs text-[var(--color-ink-soft)]">
+            <span className="font-semibold">{roleLabel(access.role)}</span>
+            <span>·</span>
+            <span>{access.tenantId}</span>
+          </div>
+        )}
       </header>
 
       {!onboardingDismissed && !onboardingDone && (
@@ -313,6 +322,40 @@ export default function ProDashboard() {
         <Stat icon={<FileText />} label="Generierte Schreiben" value={letters.length} to="/pro/schreiben" />
       </section>
 
+      <section className="bg-white border border-[var(--color-border)] rounded-2xl p-5">
+        <div className="flex items-start justify-between gap-3 flex-wrap mb-4">
+          <div>
+            <h2 className="font-semibold">Haupt-Loop</h2>
+            <p className="text-sm text-[var(--color-ink-soft)]">Wie oft GitLaw schon den Kernpfad Intake → Dokument → Recherche → Entwurf berührt hat.</p>
+          </div>
+          <div className="text-xs text-[var(--color-ink-muted)]">
+            {analytics.totalEvents} relevante Workflow-Events
+          </div>
+        </div>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+          <LoopStat
+            label="Intake"
+            value={analytics.counts['intake.received'] || 0}
+            hint="Eingänge erfasst"
+          />
+          <LoopStat
+            label="Dokumente"
+            value={(analytics.counts['case.document.upload'] || 0) + (analytics.counts['doc.ocr.queue'] || 0)}
+            hint="Uploads + OCR"
+          />
+          <LoopStat
+            label="Recherche"
+            value={analytics.counts['research.query'] || 0}
+            hint="Anfragen gestellt"
+          />
+          <LoopStat
+            label="Entwürfe"
+            value={analytics.counts['letter.generate'] || 0}
+            hint="Schreiben erzeugt"
+          />
+        </div>
+      </section>
+
       {/* 🌙 WOCHE-Block — der Abendritual "was hab ich gespart" */}
       {savings.minutes > 0 && (
         <section className="bg-gradient-to-br from-[var(--color-bg-alt)] to-white border border-[var(--color-border)] rounded-2xl p-5">
@@ -406,6 +449,16 @@ export default function ProDashboard() {
           </p>
         </div>
       )}
+    </div>
+  )
+}
+
+function LoopStat({ label, value, hint }: { label: string; value: number; hint: string }) {
+  return (
+    <div className="rounded-xl bg-[var(--color-bg-alt)] border border-[var(--color-border)] p-4">
+      <p className="text-xs uppercase tracking-wide text-[var(--color-ink-muted)] font-semibold">{label}</p>
+      <p className="text-2xl font-semibold mt-1">{value}</p>
+      <p className="text-xs text-[var(--color-ink-soft)] mt-1">{hint}</p>
     </div>
   )
 }

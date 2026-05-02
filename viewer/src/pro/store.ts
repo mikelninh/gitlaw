@@ -26,6 +26,7 @@ import type {
   ResearchQuery,
 } from './types'
 import { schedulePush } from './sync'
+import type { ProAction, ProRole } from './access'
 
 const KEY_SETTINGS = 'gitlaw.pro.settings.v1'
 const KEY_CASES = 'gitlaw.pro.cases.v1'
@@ -41,6 +42,7 @@ const KEY_ACCESS_CTX = 'gitlaw.pro.access.v1'
 const KEY_LAST_ACTIVE = 'gitlaw.pro.lastActive.v1'
 const KEY_ONBOARDING_DISMISSED = 'gitlaw.pro.onboardingDismissed.v1'
 const KEY_APPROVED_MEMORY = 'gitlaw.pro.approvedMemory.v1'
+const KEY_ANALYTICS = 'gitlaw.pro.analytics.v1'
 
 const DEFAULT_SETTINGS: KanzleiSettings = {
   name: '',
@@ -54,6 +56,13 @@ export interface AccessContext {
   userId: string
   role: 'owner' | 'anwalt' | 'assistenz' | 'read_only'
   email?: string
+}
+
+export interface ProAnalyticsSnapshot {
+  updatedAt: string
+  totalEvents: number
+  counts: Record<string, number>
+  latestByStep: Partial<Record<'intake' | 'case' | 'document' | 'research' | 'draft' | 'review', string>>
 }
 
 function readJSON<T>(key: string, fallback: T): T {
@@ -87,6 +96,82 @@ function hashString(input: string): string {
   return (h >>> 0).toString(16).padStart(8, '0')
 }
 
+const ROLE_RANK: Record<ProRole, number> = {
+  read_only: 1,
+  assistenz: 2,
+  anwalt: 3,
+  owner: 4,
+}
+
+const ACTION_MIN_ROLE: Record<ProAction, ProRole> = {
+  'settings.update': 'owner',
+  'case.create': 'assistenz',
+  'case.archive': 'anwalt',
+  'case.task': 'assistenz',
+  'case.document.upload': 'assistenz',
+  'doc.job.queue': 'assistenz',
+  'doc.translation.review': 'anwalt',
+  'research.query': 'assistenz',
+  'research.review': 'anwalt',
+  'letter.generate': 'assistenz',
+  'intake.review': 'assistenz',
+  'template.edit': 'anwalt',
+  'paragraph.note': 'anwalt',
+  'audit.read': 'anwalt',
+}
+
+function hasRequiredRole(minRole: ProRole): boolean {
+  const role = getAccessContext()?.role || 'read_only'
+  return ROLE_RANK[role] >= ROLE_RANK[minRole]
+}
+
+function guardAction(action: ProAction): boolean {
+  return hasRequiredRole(ACTION_MIN_ROLE[action])
+}
+
+function inferAnalyticsStep(action: AuditEntry['action']): keyof ProAnalyticsSnapshot['latestByStep'] | null {
+  if (action === 'intake.received') return 'intake'
+  if (action === 'case.create') return 'case'
+  if (action === 'case.document.upload' || action === 'doc.ocr.queue' || action === 'doc.translate.queue') return 'document'
+  if (action === 'research.query') return 'research'
+  if (action === 'letter.generate') return 'draft'
+  if (action === 'doc.review.done') return 'review'
+  return null
+}
+
+function recordAnalytics(action: AuditEntry['action']): void {
+  const current = readJSON<ProAnalyticsSnapshot>(KEY_ANALYTICS, {
+    updatedAt: new Date().toISOString(),
+    totalEvents: 0,
+    counts: {},
+    latestByStep: {},
+  })
+  const step = inferAnalyticsStep(action)
+  const next: ProAnalyticsSnapshot = {
+    ...current,
+    updatedAt: new Date().toISOString(),
+    totalEvents: current.totalEvents + 1,
+    counts: {
+      ...current.counts,
+      [action]: (current.counts[action] || 0) + 1,
+    },
+    latestByStep: {
+      ...current.latestByStep,
+      ...(step ? { [step]: new Date().toISOString() } : {}),
+    },
+  }
+  localStorage.setItem(KEY_ANALYTICS, JSON.stringify(next))
+}
+
+export function getAnalyticsSnapshot(): ProAnalyticsSnapshot {
+  return readJSON<ProAnalyticsSnapshot>(KEY_ANALYTICS, {
+    updatedAt: '',
+    totalEvents: 0,
+    counts: {},
+    latestByStep: {},
+  })
+}
+
 // --- Settings ---
 
 export function getSettings(): KanzleiSettings {
@@ -94,6 +179,7 @@ export function getSettings(): KanzleiSettings {
 }
 
 export function saveSettings(s: KanzleiSettings): void {
+  if (!guardAction('settings.update')) return
   writeJSON(KEY_SETTINGS, s)
   log('settings.update', `name=${s.name || '∅'} anwalt=${s.anwaltName || '∅'}`)
 }
@@ -183,6 +269,7 @@ export function createCase(input: {
   aktenzeichen: string
   description: string
 }): MandantCase {
+  if (!guardAction('case.create')) throw new Error('Nicht berechtigt: case.create')
   const now = new Date().toISOString()
   const c: MandantCase = {
     id: uid(),
@@ -213,11 +300,13 @@ export function updateCase(id: string, patch: Partial<MandantCase>): void {
 }
 
 export function archiveCase(id: string): void {
+  if (!guardAction('case.archive')) return
   updateCase(id, { status: 'archiviert' })
   log('case.archive', `id=${id}`, id)
 }
 
 export function addCaseTask(caseId: string, input: { title: string; assignee?: string }): CaseTask | null {
+  if (!guardAction('case.task')) return null
   const all = readJSON<MandantCase[]>(KEY_CASES, [])
   const idx = all.findIndex(c => c.id === caseId)
   if (idx < 0) return null
@@ -249,6 +338,7 @@ export function addCaseDocument(caseId: string, input: {
   dataUrl?: string
   textContent?: string
 }): CaseDocument | null {
+  if (!guardAction('case.document.upload')) return null
   const all = readJSON<MandantCase[]>(KEY_CASES, [])
   const idx = all.findIndex(c => c.id === caseId)
   if (idx < 0) return null
@@ -295,6 +385,7 @@ function updateDocumentInCase(
 }
 
 export function toggleCaseTask(caseId: string, taskId: string): void {
+  if (!guardAction('case.task')) return
   const all = readJSON<MandantCase[]>(KEY_CASES, [])
   const idx = all.findIndex(c => c.id === caseId)
   if (idx < 0) return
@@ -317,6 +408,7 @@ export function queueDocumentJob(caseId: string, input: {
   targetLanguage?: 'de'
   note?: string
 }): DocumentJob | null {
+  if (!guardAction('doc.job.queue')) return null
   const all = readJSON<MandantCase[]>(KEY_CASES, [])
   const idx = all.findIndex(c => c.id === caseId)
   if (idx < 0) return null
@@ -392,6 +484,7 @@ export function runDocumentJob(caseId: string, jobId: string): DocumentJob | nul
 }
 
 export function markDocumentTranslationReviewed(caseId: string, documentId: string): void {
+  if (!guardAction('doc.translation.review')) return
   const updated = updateDocumentInCase(caseId, documentId, { translationReviewed: true })
   if (updated) log('doc.review.done', updated.internalName, caseId)
 }
@@ -406,6 +499,7 @@ export function listResearch(caseId?: string): ResearchQuery[] {
 }
 
 export function saveResearch(r: Omit<ResearchQuery, 'id' | 'createdAt'>): ResearchQuery {
+  if (!guardAction('research.query')) throw new Error('Nicht berechtigt: research.query')
   const item: ResearchQuery = {
     ...r,
     id: uid(),
@@ -427,6 +521,7 @@ export function saveResearch(r: Omit<ResearchQuery, 'id' | 'createdAt'>): Resear
 }
 
 export function markResearchReviewed(id: string, approvedAnswer?: string): void {
+  if (!guardAction('research.review')) return
   const all = readJSON<ResearchQuery[]>(KEY_RESEARCH, [])
   const idx = all.findIndex(r => r.id === id)
   if (idx < 0) return
@@ -444,6 +539,7 @@ export function saveApprovedAnswerMemory(input: {
   sourceResearchId?: string
   practiceHint?: string
 }): ApprovedAnswerMemory {
+  if (!guardAction('research.review')) throw new Error('Nicht berechtigt: research.review')
   const access = getAccessContext()
   const item: ApprovedAnswerMemory = {
     id: uid(),
@@ -497,6 +593,7 @@ export function listLetters(caseId?: string): GeneratedLetter[] {
 }
 
 export function saveLetter(l: Omit<GeneratedLetter, 'id' | 'createdAt'>): GeneratedLetter {
+  if (!guardAction('letter.generate')) throw new Error('Nicht berechtigt: letter.generate')
   const item: GeneratedLetter = {
     ...l,
     id: uid(),
@@ -554,6 +651,7 @@ export function recordTemplateUsage(templateId: string): TemplateUsageEntry {
 }
 
 export function toggleTemplateFavorite(templateId: string): TemplateUsageEntry {
+  if (!guardAction('template.edit')) throw new Error('Nicht berechtigt: template.edit')
   const all = readJSON<TemplateUsageEntry[]>(KEY_TEMPLATE_USAGE, [])
   const idx = all.findIndex(t => t.templateId === templateId)
   const now = new Date().toISOString()
@@ -610,6 +708,7 @@ export function log(
   // Cap at 1000 entries to avoid localStorage bloat. Real implementation
   // ships logs to a server.
   writeJSON(KEY_AUDIT, all.slice(-1000))
+  recordAnalytics(action)
 }
 
 export function verifyAuditChain(entries: AuditEntry[]): { ok: boolean; brokenAt?: string } {
@@ -655,6 +754,7 @@ export function saveIntake(input: Omit<IntakeEntry, 'id' | 'submittedAt' | 'revi
 }
 
 export function markIntakeReviewed(id: string): void {
+  if (!guardAction('intake.review')) return
   const all = readJSON<IntakeEntry[]>(KEY_INTAKES, [])
   const idx = all.findIndex(i => i.id === id)
   if (idx < 0) return
@@ -688,6 +788,7 @@ export function saveCustomTemplate(input: {
   description?: string
   body: string
 }): CustomTemplate {
+  if (!guardAction('template.edit')) throw new Error('Nicht berechtigt: template.edit')
   const all = readJSON<CustomTemplate[]>(KEY_CUSTOM_TEMPLATES, [])
   const now = new Date().toISOString()
   const placeholders = extractPlaceholders(input.body)
@@ -721,6 +822,7 @@ export function saveCustomTemplate(input: {
 }
 
 export function deleteCustomTemplate(id: string): void {
+  if (!guardAction('template.edit')) return
   const all = readJSON<CustomTemplate[]>(KEY_CUSTOM_TEMPLATES, []).filter(t => t.id !== id)
   writeJSON(KEY_CUSTOM_TEMPLATES, all)
 }
@@ -737,6 +839,7 @@ export function getParagraphNote(lawId: string, section: string): ParagraphNote 
 }
 
 export function saveParagraphNote(lawId: string, section: string, body: string): void {
+  if (!guardAction('paragraph.note')) return
   const all = readJSON<ParagraphNote[]>(KEY_PARAGRAPH_NOTES, [])
   const key = noteKey(lawId, section)
   const now = new Date().toISOString()
@@ -770,5 +873,6 @@ export function eraseAllProData(): void {
     KEY_AUDIT, KEY_INVITE, KEY_INTAKES,
     KEY_CUSTOM_TEMPLATES, KEY_PARAGRAPH_NOTES,
     KEY_ACCESS_CTX, KEY_LAST_ACTIVE, KEY_ONBOARDING_DISMISSED,
+    KEY_APPROVED_MEMORY, KEY_ANALYTICS,
   ].forEach(k => localStorage.removeItem(k))
 }
