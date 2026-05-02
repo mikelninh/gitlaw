@@ -37,9 +37,6 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
 
   const proLink = `${baseUrl}#/pro?invite=${persona.betaToken}&preset=${persona.presetKey}`
   const intakeViLink = `${baseUrl}#/intake/demo-nguyen?lang=vi`
-  const publicLink = `${baseUrl}#/`
-  const proCasesLink = `${baseUrl}#/pro/akten`
-  const proResearchLink = `${baseUrl}#/pro/recherche`
   const isBao = slug === 'bao'
   const feedbackMailto = `mailto:mikel_ninh@yahoo.de?subject=${encodeURIComponent(`GitLaw Pro Beta Feedback — ${persona.fullName}`)}&body=${encodeURIComponent(
     `Hi Mikel,\n\nhier mein kurzes Beta-Feedback zu GitLaw Pro:\n\n1. Was war sofort nützlich?\n- \n\n2. Was war unklar oder zu langsam?\n- \n\n3. Was fehlt für echte tägliche Nutzung?\n- \n\n4. Würde ich das Assistenz/Mitarbeiter:innen geben?\n- \n\n5. Mein wichtigster Wunsch fürs nächste Release:\n- \n`
@@ -106,20 +103,13 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
       {isBao && (
         <section className="max-w-4xl mx-auto px-4 pb-16 space-y-6">
           <div className="bg-[var(--color-ink)] text-white rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Wenn du 15–20 Min hast, teste bitte nur den Kernflow</h2>
-            <ol className="text-sm text-white/85 space-y-1.5 list-decimal list-inside mb-4">
-              <li>Pro starten</li>
-              <li>VN-Intake testen</li>
-              <li>Eingang / Akte prüfen</li>
-              <li>Recherche mit 1–2 Folgefragen testen</li>
-              <li>Kurz Feedback schicken</li>
-            </ol>
-            <p className="text-sm text-white/70 mb-4">
-              Auf der Seite ist alles direkt vorbereitet, inkl. Feedback-Button.
+            <h2 className="font-semibold text-lg mb-2">Wenn du 15–20 Min hast, teste bitte nur diese 3 Schritte</h2>
+            <p className="text-sm text-white/80 mb-4">
+              Alles ist vorbereitet. Du musst nicht die ganze App verstehen, nur prüfen, ob sich der Ablauf natürlich anfühlt.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
               <a href={proLink} className="rounded-xl bg-white text-[var(--color-ink)] px-4 py-3 text-sm font-semibold text-center hover:opacity-90">
-                1. Pro starten
+                1. App starten
               </a>
               <a href={intakeViLink} className="rounded-xl border border-white/20 px-4 py-3 text-sm font-semibold text-center hover:bg-white/10">
                 2. VN-Intake testen
@@ -128,15 +118,6 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
                 3. Feedback senden
               </a>
             </div>
-          </div>
-
-          <div className="bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Mir hilft vor allem</h2>
-            <ul className="text-sm text-[var(--color-ink-soft)] space-y-1.5">
-              <li>• was dir sofort Zeit spart</li>
-              <li>• was noch für echte tägliche Nutzung fehlt</li>
-              <li>• was unklar oder zu langsam war</li>
-            </ul>
           </div>
 
           <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
@@ -149,115 +130,43 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
           </div>
 
           <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-4">So testest du die Agenten am einfachsten</h2>
+            <h2 className="font-semibold text-lg mb-4">Worauf du beim Test achten solltest</h2>
             <div className="space-y-3">
               <AgentStep
-                title="1. Intake Agent"
+                title="1. Intake"
                 input="VN-Formular ausfüllen"
-                output="strukturierter Eingang in Inbox/Akte"
-                note="Kein LLM. Hier geht es um saubere Aufnahme, Sprache, Dringlichkeit und Frist-Hinweis."
+                output="sauberer Eingang in der Inbox"
+                note="Ist direkt klar, was passiert und ist der Eingang nützlich genug für die Akte?"
               />
               <AgentStep
-                title="2. Document Agent"
-                input="Datei hochladen"
-                output="interner Dateiname, Server-Vault, Checksumme"
-                note="Kein LLM. Prüfe, ob das Dokument sauber in der Akte landet."
-              />
-              <AgentStep
-                title="3. OCR / Translation Agent"
-                input="Dokument öffnen und OCR / DE-Fassung starten"
-                output="OCR-Text oder DE-Arbeitsfassung"
-                note="LLM beteiligt bei Bild-OCR und Übersetzung. Bei Text/PDF-Textlayer oft ohne LLM."
-              />
-              <AgentStep
-                title="4. Research Agent"
+                title="2. Recherche"
                 input="eine echte Rechtsfrage stellen"
-                output="Antwort mit Zitaten und Verlauf"
-                note="LLM beteiligt. Hier ist wichtig, ob die Antwort brauchbar und vertrauenswürdig wirkt."
+                output="brauchbare Antwort mit Zitaten"
+                note="Hilft dir die Antwort wirklich weiter oder klingt sie nur gut?"
               />
               <AgentStep
-                title="5. Drafting Agent"
-                input="Vorlage wählen und Dokumenttext übernehmen"
-                output="erster Entwurf / E-Mail / PDF"
-                note="Wichtig ist, ob sich der Weg von Dokument -> Recherche -> Schreiben natürlich anfühlt."
+                title="3. Schreiben"
+                input="Vorlage wählen und weiterarbeiten"
+                output="ein erster Entwurf"
+                note="Fühlt sich der Weg von Eingang -> Recherche -> Schreiben natürlich an?"
               />
             </div>
           </div>
 
-          <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Für deine Praxis vorbereitet</h2>
-            <ul className="text-sm text-[var(--color-ink-soft)] space-y-1.5">
-              <li>• Mehrsprachiger Intake (DE/VI/TR/AR/EN) mit konsistenter Übersetzung.</li>
-              <li>• Intake-Triage: Dringlichkeit + Frist-Hinweis für schnellere Priorisierung.</li>
-              <li>• Anhänge mit internem Dateinamen (inkl. Kategorie + Sprache), z. B. für VI-Fotos/PDFs.</li>
-              <li>• Recherche mit Folgefragen und Verlauf: vertiefen, einzeln speichern, prüfen, exportieren.</li>
-              <li>• Compliance-Cockpit + Datenschutz-Preflight vor KI-Versand.</li>
-              <li>• Neue Pro-Session mit Tenant-/Rollen-Schutz statt nur Browser-Beta-Token.</li>
-              <li>• Serverseitiger Dokument-Vault als erster Schritt zu echtem Production-Upload.</li>
-            </ul>
-          </div>
-
-          <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Was heute schon belastbar ist</h2>
-            <p className="text-sm text-[var(--color-ink-soft)] leading-relaxed">
-              GitLaw Pro ist jetzt klarer als beaufsichtigter Agenten-Workflow gedacht:
-              <span className="font-medium"> Intake → Dokumente → Recherche → Entwurf → Freigabe.</span>
-              Für deinen Test heißt das: bitte nicht nur auf die Antwortqualität schauen, sondern ob der
-              gesamte Arbeitsfluss sinnvoll, schnell und vertrauenswürdig wirkt.
-            </p>
-            <p className="text-xs text-[var(--color-ink-muted)] mt-3">
-              Interner Live-Check zuletzt: <span className="font-medium">13 PASS / 0 BETA / 0 FAIL</span>.
-              Sessions, Sync, Cases-Persistenz, Vault, Research, OCR, Translation und PDF-Textlayer laufen im Kernpfad.
-            </p>
-          </div>
-
-          <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Direktlinks für den Test</h2>
-            <ol className="text-sm text-[var(--color-ink-soft)] space-y-2 list-decimal list-inside">
-              <li>
-                Direkt in Pro starten:
-                {' '}<a href={proLink} className="underline">GitLaw Pro öffnen</a>
-              </li>
-              <li>
-                Public zu Pro Einstieg testen:
-                {' '}<a href={publicLink} className="underline">GitLaw Public</a>
-              </li>
-              <li>
-                Intake auf Vietnamesisch ausfüllen:
-                {' '}<a href={intakeViLink} className="underline">VN Intake</a>
-              </li>
-              <li>
-                In Pro Eingänge prüfen und als Akte anlegen:
-                {' '}<a href={proCasesLink} className="underline">Akte/Inbox</a>
-              </li>
-              <li>
-                In Recherche Erstfrage + 2 Folgefragen stellen, jede Antwort speichern:
-                {' '}<a href={proResearchLink} className="underline">Recherche</a>
-              </li>
-              <li>Mindestens eine Antwort als „geprüft“ markieren und danach ein Schreiben daraus öffnen.</li>
-            </ol>
-          </div>
-
           <div className="bg-amber-50 border border-amber-200 rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Heute noch nicht entscheidend</h2>
-            <ul className="text-sm text-amber-900 space-y-1.5">
-              <li>• Noch kein finaler produktiver Multi-User-/Mitarbeiterbetrieb.</li>
-              <li>• Upload ist jetzt serverseitig angebunden, aber noch nicht der finale EU-Storage-/Worker-Stand.</li>
-              <li>• Heute bitte vor allem UX, Intake, Recherche und Arbeitsfluss bewerten.</li>
-            </ul>
+            <h2 className="font-semibold text-lg mb-2">Heute noch nicht wichtig</h2>
+            <p className="text-sm text-amber-900 leading-relaxed">
+              Bitte bewerte heute nicht, ob schon alles perfekt production-ready ist.
+              Wichtig ist erstmal nur: spart der Flow Zeit, ist er verständlich und würdest du damit gerne arbeiten?
+            </p>
           </div>
 
           <div className="bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Feedback, das uns am meisten hilft</h2>
-            <p className="text-sm text-[var(--color-ink-soft)] mb-2">
-              Bitte kurz als Stichpunkte schicken:
-            </p>
+            <h2 className="font-semibold text-lg mb-2">Feedback, das mir hilft</h2>
             <ul className="text-sm text-[var(--color-ink-soft)] space-y-1.5">
-              <li>• Was spart dir sofort Zeit (und wie viel pro Fall)?</li>
-              <li>• Was fehlt für echte tägliche Nutzung?</li>
+              <li>• Was spart dir sofort Zeit?</li>
               <li>• Wo war etwas unklar oder zu langsam?</li>
-              <li>• Würdest du das deiner Assistenz geben? Wenn nein: warum?</li>
-              <li>• Welche 1-2 Features müssen als Nächstes kommen?</li>
+              <li>• Was müsste noch passieren, damit du es im Alltag nutzt?</li>
             </ul>
             <a
               href={feedbackMailto}
