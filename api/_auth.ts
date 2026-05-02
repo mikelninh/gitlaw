@@ -72,8 +72,8 @@ export function verifySessionToken(token: string): ProSessionClaims | null {
   if (parts.length !== 3) return null
   const [header, payload, signature] = parts
   const expected = sign(`${header}.${payload}`)
-  const sigBuf = Buffer.from(signature)
-  const expBuf = Buffer.from(expected)
+  const sigBuf = new Uint8Array(Buffer.from(signature, 'utf8'))
+  const expBuf = new Uint8Array(Buffer.from(expected, 'utf8'))
   if (sigBuf.length !== expBuf.length || !crypto.timingSafeEqual(sigBuf, expBuf)) return null
   try {
     const decoded = JSON.parse(Buffer.from(payload, 'base64url').toString('utf8')) as ProSessionClaims
