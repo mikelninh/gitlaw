@@ -1,0 +1,434 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitLaw Pro Agentic System Map</title>
+    <style>
+      :root {
+        --bg: #f6f1e8;
+        --bg-2: #fcfbf8;
+        --ink: #1f1e1b;
+        --muted: #6d675f;
+        --gold: #9c7930;
+        --gold-soft: #e9dfc9;
+        --green: #2d7a49;
+        --green-soft: #deefdf;
+        --amber: #956b00;
+        --amber-soft: #f6e9c7;
+        --violet: #5d52b7;
+        --violet-soft: #ece8ff;
+        --line: #e6dbc7;
+        --white: rgba(255, 252, 246, 0.92);
+        --shadow: 0 18px 50px rgba(125, 111, 83, 0.12);
+      }
+
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        background:
+          radial-gradient(circle at top left, rgba(255,255,255,0.8), transparent 35%),
+          linear-gradient(135deg, var(--bg), var(--bg-2));
+        color: var(--ink);
+      }
+
+      .page {
+        width: min(1500px, calc(100vw - 48px));
+        margin: 0 auto;
+        padding: 56px 0 64px;
+      }
+
+      .hero {
+        display: grid;
+        grid-template-columns: 1.2fr 0.8fr;
+        gap: 24px;
+        margin-bottom: 28px;
+      }
+
+      .panel {
+        background: var(--white);
+        border: 1px solid var(--line);
+        border-radius: 32px;
+        box-shadow: var(--shadow);
+      }
+
+      .hero-main {
+        padding: 36px 40px;
+      }
+
+      .eyebrow, .section-label {
+        font-size: 13px;
+        font-weight: 700;
+        letter-spacing: 1.8px;
+        text-transform: uppercase;
+        color: var(--gold);
+      }
+
+      h1 {
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(44px, 6vw, 76px);
+        line-height: 0.95;
+        margin: 16px 0 20px;
+        letter-spacing: -1.8px;
+      }
+
+      .hero-main p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 22px;
+        line-height: 1.45;
+        max-width: 760px;
+      }
+
+      .hero-side {
+        padding: 28px 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+
+      .hero-side .metric {
+        border-top: 1px solid var(--line);
+        padding-top: 18px;
+        margin-top: 18px;
+      }
+
+      .hero-side .metric:first-of-type {
+        border-top: 0;
+        padding-top: 0;
+        margin-top: 0;
+      }
+
+      .metric-value {
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 38px;
+        line-height: 1;
+        margin-bottom: 8px;
+      }
+
+      .metric-copy {
+        color: var(--muted);
+        font-size: 16px;
+        line-height: 1.45;
+      }
+
+      .flow {
+        padding: 30px;
+        margin-bottom: 24px;
+      }
+
+      .flow-track {
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        gap: 14px;
+        margin-top: 22px;
+        align-items: stretch;
+      }
+
+      .agent {
+        background: rgba(255,255,255,0.74);
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        padding: 18px 18px 20px;
+        min-height: 220px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        position: relative;
+      }
+
+      .agent::after {
+        content: "";
+        position: absolute;
+        right: -9px;
+        top: 50%;
+        width: 18px;
+        height: 2px;
+        background: var(--gold);
+        transform: translateY(-50%);
+      }
+
+      .agent:last-child::after { display: none; }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 7px 11px;
+        border-radius: 999px;
+        font-size: 11px;
+        font-weight: 800;
+        letter-spacing: 1px;
+        width: fit-content;
+        margin-bottom: 16px;
+      }
+
+      .real { background: var(--green-soft); color: var(--green); }
+      .beta { background: var(--amber-soft); color: var(--amber); }
+      .next { background: var(--violet-soft); color: var(--violet); }
+
+      .agent h3 {
+        margin: 0 0 12px;
+        font-size: 24px;
+        line-height: 1.05;
+        font-family: Georgia, "Times New Roman", serif;
+      }
+
+      .agent p {
+        margin: 0;
+        font-size: 15px;
+        line-height: 1.45;
+        color: var(--muted);
+      }
+
+      .grid-2 {
+        display: grid;
+        grid-template-columns: 1.05fr 0.95fr;
+        gap: 24px;
+      }
+
+      .stack {
+        display: grid;
+        gap: 24px;
+      }
+
+      .box {
+        padding: 28px 30px;
+      }
+
+      .box h2 {
+        margin: 12px 0 16px;
+        font-size: 40px;
+        line-height: 1;
+        font-family: Georgia, "Times New Roman", serif;
+      }
+
+      .roles {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 14px;
+        margin-top: 20px;
+      }
+
+      .role {
+        background: rgba(255,255,255,0.68);
+        border: 1px solid var(--line);
+        border-radius: 22px;
+        padding: 18px;
+      }
+
+      .role strong {
+        display: block;
+        font-size: 17px;
+        margin-bottom: 8px;
+      }
+
+      .role span {
+        color: var(--muted);
+        font-size: 14px;
+        line-height: 1.45;
+      }
+
+      .legend-list, .compare-list {
+        display: grid;
+        gap: 12px;
+        margin-top: 18px;
+      }
+
+      .legend-item, .compare-item {
+        display: grid;
+        grid-template-columns: 96px 1fr;
+        gap: 14px;
+        align-items: start;
+      }
+
+      .compare-item {
+        grid-template-columns: 140px 1fr;
+        padding-top: 12px;
+        border-top: 1px solid var(--line);
+      }
+
+      .compare-item:first-child { border-top: 0; padding-top: 0; }
+
+      .tag {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 34px;
+        padding: 7px 10px;
+        border-radius: 14px;
+        background: rgba(255,255,255,0.7);
+        border: 1px solid var(--line);
+        font-size: 12px;
+        font-weight: 800;
+        letter-spacing: 0.9px;
+        text-transform: uppercase;
+      }
+
+      .legend-item p, .compare-item p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.45;
+        font-size: 15px;
+      }
+
+      .footer-note {
+        margin-top: 24px;
+        padding: 22px 26px;
+        border-radius: 24px;
+        border: 1px solid var(--line);
+        background: rgba(255,255,255,0.64);
+        color: var(--muted);
+        font-size: 16px;
+        line-height: 1.55;
+      }
+
+      @media (max-width: 1200px) {
+        .hero, .grid-2 { grid-template-columns: 1fr; }
+        .flow-track { grid-template-columns: repeat(4, 1fr); }
+        .roles { grid-template-columns: repeat(2, 1fr); }
+      }
+
+      @media (max-width: 760px) {
+        .page { width: min(100vw - 24px, 1500px); padding-top: 24px; }
+        .flow-track { grid-template-columns: 1fr 1fr; }
+        .roles { grid-template-columns: 1fr; }
+        .legend-item, .compare-item { grid-template-columns: 1fr; }
+        .agent::after { display: none; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <div class="panel hero-main">
+          <div class="eyebrow">GitLaw Pro · Agentic Company Surface</div>
+          <h1>From intake chaos to approved legal work.</h1>
+          <p>
+            GitLaw Pro is not a legal chatbot. It is a supervised multi-agent workflow for small law firms:
+            multilingual intake, document handling, verified research, drafting, and lawyer approval.
+          </p>
+        </div>
+        <div class="panel hero-side">
+          <div class="metric">
+            <div class="section-label">Core loop</div>
+            <div class="metric-value">Intake → Docs → Research → Draft → Approval</div>
+            <div class="metric-copy">One expensive workflow, compressed into one supervised system.</div>
+          </div>
+          <div class="metric">
+            <div class="section-label">Moat</div>
+            <div class="metric-value">Documents + trust + memory</div>
+            <div class="metric-copy">The defensibility is workflow depth, verified citations, and firm-specific approved memory.</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel flow">
+        <div class="section-label">Agent map</div>
+        <div class="flow-track">
+          <article class="agent">
+            <div class="badge beta">BETA</div>
+            <h3>Intake Agent</h3>
+            <p>Structures multilingual requests, urgency, deadlines, and intake signals.</p>
+          </article>
+          <article class="agent">
+            <div class="badge real">REAL</div>
+            <h3>Document Agent</h3>
+            <p>Renames, classifies, and attaches files to cases with consistent metadata.</p>
+          </article>
+          <article class="agent">
+            <div class="badge beta">BETA</div>
+            <h3>OCR / Translation</h3>
+            <p>Runs OCR jobs and German working translations with review checkpoints.</p>
+          </article>
+          <article class="agent">
+            <div class="badge next">NEXT</div>
+            <h3>Workflow Recommender</h3>
+            <p>Suggests the next best legal operations step from current case state.</p>
+          </article>
+          <article class="agent">
+            <div class="badge real">REAL</div>
+            <h3>Research Agent</h3>
+            <p>Produces structured legal answers with machine-usable citations.</p>
+          </article>
+          <article class="agent">
+            <div class="badge beta">BETA</div>
+            <h3>Citation Verifier</h3>
+            <p>Checks statutes and legal references for trust and consistency.</p>
+          </article>
+          <article class="agent">
+            <div class="badge real">REAL</div>
+            <h3>Drafting Agent</h3>
+            <p>Creates the first legal draft from context, templates, and research.</p>
+          </article>
+          <article class="agent">
+            <div class="badge beta">BETA</div>
+            <h3>Memory Agent</h3>
+            <p>Stores only approved content, so the system improves with firm use.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="grid-2">
+        <div class="stack">
+          <section class="panel box">
+            <div class="section-label">Human control</div>
+            <h2>The lawyer stays in charge.</h2>
+            <div class="roles">
+              <div class="role"><strong>Owner</strong><span>Tenant control, settings, firm-level authority.</span></div>
+              <div class="role"><strong>Lawyer</strong><span>Review, approval, memory creation, final responsibility.</span></div>
+              <div class="role"><strong>Assistant</strong><span>Intake, uploads, OCR queueing, prep work.</span></div>
+              <div class="role"><strong>Read-only</strong><span>View access without write privileges.</span></div>
+            </div>
+          </section>
+
+          <section class="panel box">
+            <div class="section-label">Status legend</div>
+            <h2>What is real today.</h2>
+            <div class="legend-list">
+              <div class="legend-item">
+                <div class="tag real">REAL</div>
+                <p>Signed Pro sessions, tenant-bound sync, document upload flow, structured research, drafting, and action-level RBAC.</p>
+              </div>
+              <div class="legend-item">
+                <div class="tag beta">BETA</div>
+                <p>OCR/translation jobs, citation verification as a distinct layer, and approved-answer memory that is still early-stage.</p>
+              </div>
+              <div class="legend-item">
+                <div class="tag next">NEXT</div>
+                <p>Workflow recommendation, server-side entity persistence, deeper document-first drafting, and practice-specific memory.</p>
+              </div>
+            </div>
+          </section>
+        </div>
+
+        <section class="panel box">
+          <div class="section-label">CrewAI comparison</div>
+          <h2>Where the generated architecture is right — and wrong.</h2>
+          <div class="compare-list">
+            <div class="compare-item">
+              <div class="tag real">Strong match</div>
+              <p>The CrewAI project identified the correct high-level agents: intake, documents, OCR, workflow, research, verification, drafting, memory.</p>
+            </div>
+            <div class="compare-item">
+              <div class="tag beta">Too generic</div>
+              <p>It overuses external search tools for workflow and citation logic. GitLaw should prefer internal case state and local legal corpora over open web search.</p>
+            </div>
+            <div class="compare-item">
+              <div class="tag real">Missing moat</div>
+              <p>The generated plan does not yet center the real moat strongly enough: document-heavy legal workflows, reviewed memory, provenance, and tenant trust.</p>
+            </div>
+            <div class="compare-item">
+              <div class="tag next">Needs enforcement</div>
+              <p>Human approval is conceptually present, but the generated architecture does not model our concrete session, RBAC, sync, and server-vault boundaries tightly enough.</p>
+            </div>
+          </div>
+          <div class="footer-note">
+            Best interpretation: the CrewAI output is a useful first draft of the agent set, but our GitLaw architecture is more production-realistic because it already anchors those agents in trust, roles, tenant boundaries, and legal review gates.
+          </div>
+        </section>
+      </section>
+    </main>
+  </body>
+</html>
