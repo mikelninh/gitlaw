@@ -149,6 +149,42 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
           </div>
 
           <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
+            <h2 className="font-semibold text-lg mb-4">So testest du die Agenten am einfachsten</h2>
+            <div className="space-y-3">
+              <AgentStep
+                title="1. Intake Agent"
+                input="VN-Formular ausfüllen"
+                output="strukturierter Eingang in Inbox/Akte"
+                note="Kein LLM. Hier geht es um saubere Aufnahme, Sprache, Dringlichkeit und Frist-Hinweis."
+              />
+              <AgentStep
+                title="2. Document Agent"
+                input="Datei hochladen"
+                output="interner Dateiname, Server-Vault, Checksumme"
+                note="Kein LLM. Prüfe, ob das Dokument sauber in der Akte landet."
+              />
+              <AgentStep
+                title="3. OCR / Translation Agent"
+                input="Dokument öffnen und OCR / DE-Fassung starten"
+                output="OCR-Text oder DE-Arbeitsfassung"
+                note="LLM beteiligt bei Bild-OCR und Übersetzung. Bei Text/PDF-Textlayer oft ohne LLM."
+              />
+              <AgentStep
+                title="4. Research Agent"
+                input="eine echte Rechtsfrage stellen"
+                output="Antwort mit Zitaten und Verlauf"
+                note="LLM beteiligt. Hier ist wichtig, ob die Antwort brauchbar und vertrauenswürdig wirkt."
+              />
+              <AgentStep
+                title="5. Drafting Agent"
+                input="Vorlage wählen und Dokumenttext übernehmen"
+                output="erster Entwurf / E-Mail / PDF"
+                note="Wichtig ist, ob sich der Weg von Dokument -> Recherche -> Schreiben natürlich anfühlt."
+              />
+            </div>
+          </div>
+
+          <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
             <h2 className="font-semibold text-lg mb-2">Für deine Praxis vorbereitet</h2>
             <ul className="text-sm text-[var(--color-ink-soft)] space-y-1.5">
               <li>• Mehrsprachiger Intake (DE/VI/TR/AR/EN) mit konsistenter Übersetzung.</li>
@@ -162,7 +198,7 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
           </div>
 
           <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Neu im Kern</h2>
+            <h2 className="font-semibold text-lg mb-2">Was heute schon belastbar ist</h2>
             <p className="text-sm text-[var(--color-ink-soft)] leading-relaxed">
               GitLaw Pro ist jetzt klarer als beaufsichtigter Agenten-Workflow gedacht:
               <span className="font-medium"> Intake → Dokumente → Recherche → Entwurf → Freigabe.</span>
@@ -170,8 +206,8 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
               gesamte Arbeitsfluss sinnvoll, schnell und vertrauenswürdig wirkt.
             </p>
             <p className="text-xs text-[var(--color-ink-muted)] mt-3">
-              Interner Live-Check zuletzt: <span className="font-medium">9 PASS / 0 BETA / 0 FAIL</span>.
-              Sessions, Sync, Vault, Research sowie OCR und DE-Uebersetzung fuer Textdokumente laufen im Kernpfad.
+              Interner Live-Check zuletzt: <span className="font-medium">13 PASS / 0 BETA / 0 FAIL</span>.
+              Sessions, Sync, Cases-Persistenz, Vault, Research, OCR, Translation und PDF-Textlayer laufen im Kernpfad.
             </p>
           </div>
 
@@ -198,7 +234,7 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
                 In Recherche Erstfrage + 2 Folgefragen stellen, jede Antwort speichern:
                 {' '}<a href={proResearchLink} className="underline">Recherche</a>
               </li>
-              <li>Mindestens eine Antwort als „geprüft“ markieren und PDF exportieren.</li>
+              <li>Mindestens eine Antwort als „geprüft“ markieren und danach ein Schreiben daraus öffnen.</li>
             </ol>
           </div>
 
@@ -291,6 +327,29 @@ function HighlightCard({ highlight: h }: { highlight: WelcomeHighlight }) {
       {h.footnote && (
         <p className="text-xs text-[var(--color-ink-muted)] mt-3 italic">{h.footnote}</p>
       )}
+    </div>
+  )
+}
+
+function AgentStep({
+  title,
+  input,
+  output,
+  note,
+}: {
+  title: string
+  input: string
+  output: string
+  note: string
+}) {
+  return (
+    <div className="rounded-xl border border-[var(--color-border)] bg-[var(--color-bg-alt)] p-4">
+      <h3 className="text-sm font-semibold mb-2">{title}</h3>
+      <div className="grid gap-1 text-sm">
+        <p><span className="font-medium">Input:</span> {input}</p>
+        <p><span className="font-medium">Output:</span> {output}</p>
+        <p className="text-[var(--color-ink-soft)]">{note}</p>
+      </div>
     </div>
   )
 }
