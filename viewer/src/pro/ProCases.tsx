@@ -31,6 +31,7 @@ import {
   toggleCaseTask,
   updateCase,
 } from './store'
+import { downloadServerDocument, uploadDocumentToVault } from './pro-api'
 import { exportAuditPDF } from './pdf'
 import { exportCaseBundle } from './zip'
 import { berechneFristAusPreset, FRIST_PRESETS, presetToBezeichnung } from './frist-calc'
@@ -530,24 +531,42 @@ export function ProCaseDetail() {
     if (!file || !c) return
     const internalName = `case_${c.aktenzeichen.replace(/[^a-zA-Z0-9]+/g, '_').toLowerCase()}_${Date.now().toString(36)}_${slugPart(file.name)}`
     const textContent = file.type.startsWith('text/') ? await file.text() : undefined
-    const dataUrl = await new Promise<string | undefined>(resolve => {
-      if (!file.type.startsWith('image/') && file.type !== 'application/pdf') return resolve(undefined)
-      const reader = new FileReader()
-      reader.onload = () => resolve(reader.result as string)
-      reader.onerror = () => resolve(undefined)
-      reader.readAsDataURL(file)
-    })
-    addCaseDocument(c.id, {
-      originalName: file.name,
-      internalName,
-      mimeType: file.type || 'application/octet-stream',
-      sizeBytes: file.size,
-      category: docCategory,
-      languageHint: docLanguage,
-      uploadedBy: getSettings().anwaltName || undefined,
-      dataUrl,
-      textContent,
-    })
+    try {
+      const uploaded = await uploadDocumentToVault(file, c.id)
+      addCaseDocument(c.id, {
+        originalName: file.name,
+        internalName,
+        mimeType: file.type || 'application/octet-stream',
+        sizeBytes: file.size,
+        category: docCategory,
+        languageHint: docLanguage,
+        uploadedBy: getSettings().anwaltName || undefined,
+        storageMode: uploaded.storageMode,
+        serverDocumentId: uploaded.documentId,
+        textContent,
+      })
+    } catch (err) {
+      const dataUrl = await new Promise<string | undefined>(resolve => {
+        if (!file.type.startsWith('image/') && file.type !== 'application/pdf') return resolve(undefined)
+        const reader = new FileReader()
+        reader.onload = () => resolve(reader.result as string)
+        reader.onerror = () => resolve(undefined)
+        reader.readAsDataURL(file)
+      })
+      addCaseDocument(c.id, {
+        originalName: file.name,
+        internalName,
+        mimeType: file.type || 'application/octet-stream',
+        sizeBytes: file.size,
+        category: docCategory,
+        languageHint: docLanguage,
+        uploadedBy: getSettings().anwaltName || undefined,
+        dataUrl,
+        storageMode: 'local_inline',
+        textContent,
+      })
+      console.warn('Server vault unavailable, fell back to local inline storage', err)
+    }
     setTick(t => t + 1)
     e.target.value = ''
   }
@@ -803,6 +822,9 @@ export function ProCaseDetail() {
                     <div>
                       <div className="font-mono text-xs text-[var(--color-gold)]">{selectedDocument.internalName}</div>
                       <h3 className="font-semibold">{selectedDocument.originalName}</h3>
+                      <div className="text-[11px] text-[var(--color-ink-muted)] mt-1">
+                        {selectedDocument.storageMode === 'server_vault' ? 'Server-Vault' : 'Lokale Beta-Datei'}
+                      </div>
                     </div>
                     <div className="text-xs text-[var(--color-ink-muted)]">
                       {Math.round(selectedDocument.sizeBytes / 1024)} KB
@@ -854,6 +876,18 @@ export function ProCaseDetail() {
                         className="rounded-lg border border-green-300 bg-green-50 px-2 py-1 text-green-800"
                       >
                         DE-Fassung freigeben
+                      </button>
+                    )}
+                    {selectedDocument.serverDocumentId && (
+                      <button
+                        onClick={() => {
+                          downloadServerDocument(selectedDocument.serverDocumentId!).catch(err => {
+                            alert('Server-Datei konnte nicht geladen werden: ' + (err instanceof Error ? err.message : 'unbekannter Fehler'))
+                          })
+                        }}
+                        className="rounded-lg border border-[var(--color-border)] px-2 py-1 hover:border-[var(--color-gold)]"
+                      >
+                        Server-Datei laden
                       </button>
                     )}
                   </div>

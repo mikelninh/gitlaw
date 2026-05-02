@@ -39,6 +39,7 @@ const KEY_CUSTOM_TEMPLATES = 'gitlaw.pro.customTemplates.v1'
 const KEY_TEMPLATE_USAGE = 'gitlaw.pro.templateUsage.v1'
 const KEY_PARAGRAPH_NOTES = 'gitlaw.pro.paragraphNotes.v1'
 const KEY_ACCESS_CTX = 'gitlaw.pro.access.v1'
+const KEY_SESSION_TOKEN = 'gitlaw.pro.session.v1'
 const KEY_LAST_ACTIVE = 'gitlaw.pro.lastActive.v1'
 const KEY_ONBOARDING_DISMISSED = 'gitlaw.pro.onboardingDismissed.v1'
 const KEY_APPROVED_MEMORY = 'gitlaw.pro.approvedMemory.v1'
@@ -56,6 +57,7 @@ export interface AccessContext {
   userId: string
   role: 'owner' | 'anwalt' | 'assistenz' | 'read_only'
   email?: string
+  sessionExpiresAt?: string
 }
 
 export interface ProAnalyticsSnapshot {
@@ -218,6 +220,7 @@ export function setStoredInvite(token: string): void {
 
 export function clearStoredInvite(): void {
   localStorage.removeItem(KEY_INVITE)
+  localStorage.removeItem(KEY_SESSION_TOKEN)
   localStorage.removeItem(KEY_ACCESS_CTX)
   localStorage.removeItem(KEY_LAST_ACTIVE)
 }
@@ -231,11 +234,24 @@ export function setAccessContext(ctx: AccessContext): void {
   touchSessionActivity()
 }
 
+export function getStoredSessionToken(): string | null {
+  return localStorage.getItem(KEY_SESSION_TOKEN)
+}
+
+export function setStoredSessionToken(token: string): void {
+  localStorage.setItem(KEY_SESSION_TOKEN, token)
+}
+
 export function touchSessionActivity(): void {
   localStorage.setItem(KEY_LAST_ACTIVE, String(Date.now()))
 }
 
 export function isSessionExpired(timeoutMinutes = 120): boolean {
+  const ctx = getAccessContext()
+  if (ctx?.sessionExpiresAt) {
+    const expiresAt = Date.parse(ctx.sessionExpiresAt)
+    if (Number.isFinite(expiresAt) && expiresAt <= Date.now()) return true
+  }
   const raw = localStorage.getItem(KEY_LAST_ACTIVE)
   if (!raw) return true
   const last = Number(raw)
@@ -336,6 +352,8 @@ export function addCaseDocument(caseId: string, input: {
   category?: CaseDocument['category']
   languageHint?: CaseDocument['languageHint']
   dataUrl?: string
+  storageMode?: CaseDocument['storageMode']
+  serverDocumentId?: string
   textContent?: string
 }): CaseDocument | null {
   if (!guardAction('case.document.upload')) return null
@@ -353,6 +371,8 @@ export function addCaseDocument(caseId: string, input: {
     category: input.category,
     languageHint: input.languageHint,
     dataUrl: input.dataUrl,
+    storageMode: input.storageMode,
+    serverDocumentId: input.serverDocumentId,
     textContent: input.textContent,
   }
   all[idx] = {

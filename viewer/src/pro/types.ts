@@ -70,6 +70,8 @@ export interface CaseDocument {
   category?: IntakeAttachmentMeta['category']
   languageHint?: IntakeAttachmentMeta['languageHint']
   dataUrl?: string
+  storageMode?: 'local_inline' | 'server_vault'
+  serverDocumentId?: string
   textContent?: string
   ocrText?: string
   translatedTextDe?: string

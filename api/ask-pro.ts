@@ -17,6 +17,7 @@
  */
 
 import type { VercelRequest, VercelResponse } from '@vercel/node'
+import { requireProSession } from './_auth'
 import { applyCors, applySecurityHeaders } from './_http'
 
 // ── Base (static) prompt ─────────────────────────────────────
@@ -128,6 +129,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
   if (req.method === 'OPTIONS') return res.status(200).end()
   if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' })
+  const session = requireProSession(req, res, 'assistenz')
+  if (!session) return
 
   const OPENAI_API_KEY = process.env.OPENAI_API_KEY
   if (!OPENAI_API_KEY) {
@@ -144,7 +147,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return res.status(400).json({ error: 'Question (string) required' })
   }
 
-  const systemPrompt = buildProSystemPrompt(lawyerProfile) + buildMemoryPrompt(req.body?.approvedMemory)
+  const systemPrompt =
+    buildProSystemPrompt(lawyerProfile) +
+    `\n\nTENANT-KONTEXT\n• tenantId: ${session.tenantId}\n• role: ${session.role}` +
+    buildMemoryPrompt(req.body?.approvedMemory)
 
   try {
     const response = await fetch('https://api.openai.com/v1/chat/completions', {

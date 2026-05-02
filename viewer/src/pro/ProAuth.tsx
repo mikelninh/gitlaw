@@ -14,15 +14,18 @@ import { Link, useSearchParams } from 'react-router-dom'
 import { Scale } from 'lucide-react'
 import {
   getStoredInvite,
+  getStoredSessionToken,
   getAccessContext,
   isSessionExpired,
   isInviteValid,
   log,
   setAccessContext,
   setStoredInvite,
+  setStoredSessionToken,
   touchSessionActivity,
 } from './store'
 import { isDemoLoaded, loadDemoData, getPreset, DEMO_MARKER } from './demo-data'
+import { exchangeInviteForSession, resumeSession } from './pro-api'
 
 interface Props {
   children: React.ReactNode
@@ -34,21 +37,16 @@ export default function ProAuth({ children }: Props) {
   const [error, setError] = useState<string | null>(null)
   const [searchParams, setSearchParams] = useSearchParams()
 
-  function bootstrapAccess(tokenRaw: string) {
-    const token = tokenRaw.trim().toUpperCase()
+  async function bootstrapAccess(tokenRaw: string) {
     const existing = getAccessContext()
-    if (existing && !isSessionExpired()) {
+    if (existing && getStoredSessionToken() && !isSessionExpired()) {
       touchSessionActivity()
       return
     }
-    const map: Record<string, { tenantId: string; userId: string; role: 'owner' | 'anwalt' | 'assistenz' | 'read_only' }> = {
-      'BETA-NGUYEN': { tenantId: 'kanzlei-nguyen', userId: 'nguyen-owner', role: 'owner' },
-      'BETA-RUBIN': { tenantId: 'kanzlei-rubin', userId: 'rubin-owner', role: 'owner' },
-      'BETA-WERNER': { tenantId: 'kanzlei-gniosdorz', userId: 'werner-owner', role: 'owner' },
-      'BETA-JASMIN': { tenantId: 'kanzlei-gniosdorz', userId: 'jasmin-anwalt', role: 'anwalt' },
-    }
-    const fallback = { tenantId: 'beta-shared', userId: `beta-${token.toLowerCase()}`, role: 'anwalt' as const }
-    setAccessContext(map[token] || fallback)
+    const session = await exchangeInviteForSession(tokenRaw.trim().toUpperCase())
+    if (!session.token) throw new Error('Session token missing')
+    setStoredSessionToken(session.token)
+    setAccessContext(session.access)
     touchSessionActivity()
   }
 
@@ -67,7 +65,11 @@ export default function ProAuth({ children }: Props) {
     if (fromUrl && isInviteValid(fromUrl)) {
       setStoredInvite(fromUrl)
       bootstrapAccess(fromUrl)
-      log('login', `via URL token`)
+        .then(() => {
+          log('login', 'via URL token')
+          setUnlocked(true)
+        })
+        .catch(err => setError(err instanceof Error ? err.message : 'Login fehlgeschlagen'))
 
       if (presetFromUrl && getPreset(presetFromUrl)) {
         const currentPreset = localStorage.getItem(DEMO_MARKER)
@@ -82,7 +84,6 @@ export default function ProAuth({ children }: Props) {
         }
       }
 
-      setUnlocked(true)
       // Strip token + preset from URL so they're not shoulder-surfed / copied.
       const clean = new URLSearchParams(searchParams)
       clean.delete('invite')
@@ -94,25 +95,53 @@ export default function ProAuth({ children }: Props) {
       }
       return
     }
-    const stored = getStoredInvite()
-    if (stored && isInviteValid(stored) && !isSessionExpired()) {
-      bootstrapAccess(stored)
-      log('login', `via stored token`)
-      setUnlocked(true)
+    const storedSession = getStoredSessionToken()
+    const storedInvite = getStoredInvite()
+    if (storedSession && !isSessionExpired()) {
+      resumeSession()
+        .then(session => {
+          setAccessContext(session.access)
+          touchSessionActivity()
+          log('login', 'via stored session')
+          setUnlocked(true)
+        })
+        .catch(() => {
+          if (storedInvite && isInviteValid(storedInvite)) {
+            bootstrapAccess(storedInvite)
+              .then(() => {
+                log('login', 'via stored invite refresh')
+                setUnlocked(true)
+              })
+              .catch(err => setError(err instanceof Error ? err.message : 'Login fehlgeschlagen'))
+          }
+        })
+      return
+    }
+    if (storedInvite && isInviteValid(storedInvite) && !isSessionExpired()) {
+      bootstrapAccess(storedInvite)
+        .then(() => {
+          log('login', 'via stored token')
+          setUnlocked(true)
+        })
+        .catch(err => setError(err instanceof Error ? err.message : 'Login fehlgeschlagen'))
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
     if (!isInviteValid(token)) {
       setError('Token ungültig. Bitte prüfe Schreibweise oder kontaktiere uns.')
       return
     }
-    setStoredInvite(token)
-    bootstrapAccess(token)
-    log('login', `via form`)
-    setUnlocked(true)
+    try {
+      setStoredInvite(token)
+      await bootstrapAccess(token)
+      log('login', `via form`)
+      setUnlocked(true)
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Login fehlgeschlagen')
+    }
   }
 
   if (unlocked) return <>{children}</>

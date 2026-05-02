@@ -15,16 +15,17 @@
  * We then just look up (gesetz → file, paragraph → heading) — no regex
  * for extraction, only for the heading match inside the file.
  *
- * Fallback: if no VITE_OPENAI_API_KEY is set (prod without a Pro API
- * endpoint deployed yet), we call /api/ask-pro which wraps the same
- * schema server-side.
+ * Production path: always prefer /api/ask-pro so the browser never needs
+ * the sensitive key. A direct browser key remains only as local-dev
+ * fallback when no Pro session/API is available yet.
  */
 
 import OpenAI from 'openai'
 import type { ApprovedAnswerMemory } from './types'
+import { fetchWithProSession } from './pro-api'
 
 const API_KEY = import.meta.env.VITE_OPENAI_API_KEY || ''
-const API_URL = import.meta.env.VITE_API_URL || 'https://gitlaw-xi.vercel.app'
+const DIRECT_BROWSER_AI = import.meta.env.DEV && !!API_KEY
 
 export interface ProCitation {
   /** Bare paragraph number including letter suffixes, e.g. "238", "184i". */
@@ -108,8 +109,7 @@ function buildMemoryPrompt(memory?: ApprovedAnswerMemory[]): string {
 
 export async function proAsk(question: string, options?: ProAskOptions): Promise<ProAnswer> {
   const systemPrompt = PRO_SYSTEM_PROMPT + buildMemoryPrompt(options?.approvedMemory)
-  // Preferred path: direct OpenAI call with structured outputs.
-  if (API_KEY) {
+  if (DIRECT_BROWSER_AI) {
     const client = new OpenAI({ apiKey: API_KEY, dangerouslyAllowBrowser: true })
     const resp = await client.chat.completions.create({
       model: 'gpt-4o-mini',
@@ -131,7 +131,7 @@ export async function proAsk(question: string, options?: ProAskOptions): Promise
   }
 
   // Fallback: serverless /api/ask-pro (same schema enforced server-side).
-  const resp = await fetch(`${API_URL}/api/ask-pro`, {
+  const resp = await fetchWithProSession('/api/ask-pro', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ question, approvedMemory: options?.approvedMemory }),

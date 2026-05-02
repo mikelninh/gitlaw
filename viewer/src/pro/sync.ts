@@ -27,6 +27,7 @@ import type {
   ParagraphNote,
   ResearchQuery,
 } from './types'
+import { fetchWithProSession } from './pro-api'
 
 export interface ProStateSnapshot {
   version: '1'
@@ -227,8 +228,6 @@ export async function importSnapshotFile(file: File, mode: 'merge' | 'replace' =
 
 // --- Cloud-Sync (Upstash Redis via Vercel) ---
 
-const SYNC_API_URL = import.meta.env.VITE_API_URL || 'https://gitlaw-xi.vercel.app'
-
 // --- Sync-Status für UI ---
 
 export type SyncStatus = 'idle' | 'pushing' | 'pulling' | 'success' | 'error' | 'disabled'
@@ -284,10 +283,10 @@ export async function pushToCloud(): Promise<void> {
   const key = getKanzleiKey()
   const snap = buildSnapshot()
   try {
-    const resp = await fetch(`${SYNC_API_URL}/api/sync/${encodeURIComponent(key)}`, {
+    const resp = await fetchWithProSession('/api/pro/sync', {
       method: 'PUT',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(snap),
+      body: JSON.stringify({ ...snap, kanzleiKey: key }),
     })
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`)
     setSyncState({ status: 'success', lastSync: new Date().toISOString(), lastError: null })
@@ -304,9 +303,9 @@ export async function pullFromCloud(): Promise<{ ok: boolean; counts?: ReturnTyp
     return { ok: false, error: 'Cloud-Sync ist nicht aktiv' }
   }
   setSyncState({ status: 'pulling', lastError: null })
-  const key = getKanzleiKey()
+  getKanzleiKey()
   try {
-    const resp = await fetch(`${SYNC_API_URL}/api/sync/${encodeURIComponent(key)}`)
+    const resp = await fetchWithProSession('/api/pro/sync')
     if (resp.status === 404) {
       setSyncState({ status: 'success', lastSync: new Date().toISOString() })
       return { ok: true, counts: undefined }

@@ -2,6 +2,7 @@ import type { VercelRequest, VercelResponse } from '@vercel/node'
 
 const ALLOWED_ORIGINS = new Set([
   'https://gitlaw-xi.vercel.app',
+  'https://viewer-tawny.vercel.app',
   'https://mikelninh.github.io',
   'https://mikelninh.github.io/gitlaw',
   'http://localhost:4173',
@@ -25,7 +26,7 @@ export function applyCors(req: VercelRequest, res: VercelResponse, methods: stri
   const origin = req.headers.origin
 
   res.setHeader('Access-Control-Allow-Methods', methods)
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type')
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization')
   res.setHeader('Vary', 'Origin')
 
   if (!origin) return true
