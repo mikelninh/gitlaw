@@ -72,6 +72,8 @@ export interface CaseDocument {
   dataUrl?: string
   storageMode?: 'local_inline' | 'server_vault'
   serverDocumentId?: string
+  storageProvider?: string
+  checksumSha256?: string
   textContent?: string
   ocrText?: string
   translatedTextDe?: string

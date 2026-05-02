@@ -48,6 +48,8 @@ export async function uploadDocumentToVault(file: File, caseId?: string): Promis
   ok: true
   documentId: string
   storageMode: 'server_vault'
+  storageProvider: string
+  checksumSha256: string
 }> {
   const base64 = await new Promise<string>((resolve, reject) => {
     const reader = new FileReader()
@@ -75,7 +77,41 @@ export async function uploadDocumentToVault(file: File, caseId?: string): Promis
     const detail = await resp.json().catch(() => ({}))
     throw new Error(detail?.error || `Upload failed (HTTP ${resp.status})`)
   }
-  return (await resp.json()) as { ok: true; documentId: string; storageMode: 'server_vault' }
+  return (await resp.json()) as {
+    ok: true
+    documentId: string
+    storageMode: 'server_vault'
+    storageProvider: string
+    checksumSha256: string
+  }
+}
+
+export async function getServerDocumentMeta(documentId: string): Promise<{
+  ok: true
+  documentId: string
+  fileName: string
+  mimeType: string
+  sizeBytes: number
+  checksumSha256?: string | null
+  storageProvider?: string | null
+  uploadedAt?: string | null
+  uploadedBy?: string | null
+}> {
+  const resp = await fetchWithProSession(`/api/pro/upload?id=${encodeURIComponent(documentId)}&meta=1`, {
+    method: 'GET',
+  })
+  if (!resp.ok) throw new Error(`Meta lookup failed (HTTP ${resp.status})`)
+  return (await resp.json()) as {
+    ok: true
+    documentId: string
+    fileName: string
+    mimeType: string
+    sizeBytes: number
+    checksumSha256?: string | null
+    storageProvider?: string | null
+    uploadedAt?: string | null
+    uploadedBy?: string | null
+  }
 }
 
 export async function downloadServerDocument(documentId: string): Promise<void> {

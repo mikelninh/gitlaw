@@ -165,8 +165,8 @@ def main():
             "base64": base64.b64encode(sample_bytes).decode("ascii"),
         },
     )
-    if code == 200 and isinstance(payload, dict) and payload.get("documentId"):
-        print_result("server_document_vault", "PASS", f"documentId={payload.get('documentId')}")
+    if code == 200 and isinstance(payload, dict) and payload.get("documentId") and payload.get("checksumSha256"):
+        print_result("server_document_vault", "PASS", f"documentId={payload.get('documentId')} checksum={str(payload.get('checksumSha256'))[:12]}")
         total["PASS"] += 1
     else:
         print_result("server_document_vault", "FAIL", f"HTTP {code} payload={payload}")
@@ -233,8 +233,8 @@ def main():
         },
     )
     pdf_document_id = payload.get("documentId") if code == 200 and isinstance(payload, dict) else None
-    if code == 200 and pdf_document_id:
-        print_result("server_pdf_vault", "PASS", f"documentId={pdf_document_id}")
+    if code == 200 and pdf_document_id and payload.get("checksumSha256"):
+        print_result("server_pdf_vault", "PASS", f"documentId={pdf_document_id} checksum={str(payload.get('checksumSha256'))[:12]}")
         total["PASS"] += 1
     else:
         print_result("server_pdf_vault", "FAIL", f"HTTP {code} payload={payload}")

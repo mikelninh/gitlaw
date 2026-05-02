@@ -354,6 +354,8 @@ export function addCaseDocument(caseId: string, input: {
   dataUrl?: string
   storageMode?: CaseDocument['storageMode']
   serverDocumentId?: string
+  storageProvider?: string
+  checksumSha256?: string
   textContent?: string
 }): CaseDocument | null {
   if (!guardAction('case.document.upload')) return null
@@ -373,6 +375,8 @@ export function addCaseDocument(caseId: string, input: {
     dataUrl: input.dataUrl,
     storageMode: input.storageMode,
     serverDocumentId: input.serverDocumentId,
+    storageProvider: input.storageProvider,
+    checksumSha256: input.checksumSha256,
     textContent: input.textContent,
   }
   all[idx] = {

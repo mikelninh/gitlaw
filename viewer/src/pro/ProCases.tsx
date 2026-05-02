@@ -544,6 +544,8 @@ export function ProCaseDetail() {
         uploadedBy: getSettings().anwaltName || undefined,
         storageMode: uploaded.storageMode,
         serverDocumentId: uploaded.documentId,
+        storageProvider: uploaded.storageProvider,
+        checksumSha256: uploaded.checksumSha256,
         textContent,
       })
     } catch (err) {
@@ -826,6 +828,16 @@ export function ProCaseDetail() {
                       <div className="text-[11px] text-[var(--color-ink-muted)] mt-1">
                         {selectedDocument.storageMode === 'server_vault' ? 'Server-Vault' : 'Lokale Beta-Datei'}
                       </div>
+                      {selectedDocument.storageProvider && (
+                        <div className="text-[11px] text-[var(--color-ink-muted)] mt-1">
+                          Provider: {selectedDocument.storageProvider}
+                        </div>
+                      )}
+                      {selectedDocument.checksumSha256 && (
+                        <div className="text-[11px] text-[var(--color-ink-muted)] mt-1 font-mono">
+                          SHA-256: {selectedDocument.checksumSha256.slice(0, 16)}…
+                        </div>
+                      )}
                     </div>
                     <div className="text-xs text-[var(--color-ink-muted)]">
                       {Math.round(selectedDocument.sizeBytes / 1024)} KB

@@ -1,4 +1,5 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
+import { createHash } from 'crypto'
 import { Redis } from '@upstash/redis'
 import { requireProSession } from '../_auth'
 import { applyCors, applySecurityHeaders } from '../_http'
@@ -39,6 +40,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     }
     const documentId = uid()
     const key = `proDoc:${session.tenantId}:${documentId}`
+    const checksumSha256 = createHash('sha256').update(base64).digest('hex')
     try {
       await redis.set(
         key,
@@ -48,6 +50,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
           fileName,
           mimeType,
           sizeBytes,
+          checksumSha256,
+          storageProvider: 'upstash-beta-vault',
           base64,
           uploadedAt: new Date().toISOString(),
           uploadedBy: session.userId,
@@ -58,6 +62,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         ok: true,
         documentId,
         storageMode: 'server_vault',
+        storageProvider: 'upstash-beta-vault',
+        checksumSha256,
         ttlDays: TTL_SECONDS / 86400,
       })
     } catch (err) {
@@ -69,6 +75,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     const session = requireProSession(req, res, 'read_only')
     if (!session) return
     const id = typeof req.query.id === 'string' ? req.query.id : ''
+    const metaOnly = String(req.query.meta || '') === '1'
     if (!id) return res.status(400).json({ error: 'Missing document id' })
     try {
       const key = `proDoc:${session.tenantId}:${id}`
@@ -76,9 +83,27 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         tenantId: string
         fileName: string
         mimeType: string
+        sizeBytes: number
+        checksumSha256?: string
+        storageProvider?: string
+        uploadedAt?: string
+        uploadedBy?: string
         base64: string
       }>(key)
       if (!payload) return res.status(404).json({ error: 'Document not found' })
+      if (metaOnly) {
+        return res.status(200).json({
+          ok: true,
+          documentId: id,
+          fileName: payload.fileName,
+          mimeType: payload.mimeType,
+          sizeBytes: payload.sizeBytes,
+          checksumSha256: payload.checksumSha256 || null,
+          storageProvider: payload.storageProvider || 'upstash-beta-vault',
+          uploadedAt: payload.uploadedAt || null,
+          uploadedBy: payload.uploadedBy || null,
+        })
+      }
       const buffer = Buffer.from(payload.base64, 'base64')
       res.setHeader('Content-Type', payload.mimeType)
       res.setHeader('Content-Disposition', `inline; filename="${payload.fileName.replace(/"/g, '')}"`)
