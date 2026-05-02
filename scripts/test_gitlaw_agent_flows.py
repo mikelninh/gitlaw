@@ -152,6 +152,28 @@ def main():
         print_result("tenant_sync_read", "FAIL", f"HTTP {code} payload={payload}")
         total["FAIL"] += 1
 
+    code, payload = request(
+        "/api/pro/entities?collection=cases",
+        method="PUT",
+        token=token,
+        data={"items": [{"id": "case-server-1", "mandantName": "Bao", "aktenzeichen": "25/9001"}]},
+    )
+    if code == 200 and isinstance(payload, dict) and payload.get("ok") is True:
+        print_result("entity_cases_write", "PASS", f"count={payload.get('count')}")
+        total["PASS"] += 1
+    else:
+        print_result("entity_cases_write", "FAIL", f"HTTP {code} payload={payload}")
+        total["FAIL"] += 1
+
+    code, payload = request("/api/pro/entities?collection=cases", token=token)
+    if code == 200 and isinstance(payload, dict) and payload.get("collection") == "cases":
+        items = payload.get("items") or []
+        print_result("entity_cases_read", "PASS", f"count={len(items)}")
+        total["PASS"] += 1
+    else:
+        print_result("entity_cases_read", "FAIL", f"HTTP {code} payload={payload}")
+        total["FAIL"] += 1
+
     sample_bytes = b"GitLaw beta upload test"
     code, payload = request(
         "/api/pro/upload",

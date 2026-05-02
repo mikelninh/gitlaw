@@ -25,6 +25,7 @@ import type {
   ParagraphNote,
   ResearchQuery,
 } from './types'
+import { scheduleCoreCollectionPersist } from './server-persist'
 import { schedulePush } from './sync'
 import type { ProAction, ProRole } from './access'
 
@@ -79,6 +80,9 @@ function readJSON<T>(key: string, fallback: T): T {
 
 function writeJSON(key: string, value: unknown): void {
   localStorage.setItem(key, JSON.stringify(value))
+  if (key === KEY_CASES && Array.isArray(value)) scheduleCoreCollectionPersist('cases', value)
+  if (key === KEY_RESEARCH && Array.isArray(value)) scheduleCoreCollectionPersist('research', value)
+  if (key === KEY_LETTERS && Array.isArray(value)) scheduleCoreCollectionPersist('letters', value)
   // Auto-Sync: debounced push in die Cloud (no-op falls Cloud-Sync aus)
   schedulePush()
 }
