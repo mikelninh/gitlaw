@@ -187,6 +187,11 @@ const sectionHints: SectionHint[] = [
     terms: ['tierquaelerei', 'tierquälerei', 'tierschutz', 'tier', 'hund', 'katze'],
     preferredSections: ['§ 3', '§ 17', '§ 18'],
   },
+  {
+    lawId: 'sgb_5',
+    terms: ['medikament', 'krankenkasse', 'zuzahlung', 'arznei', 'arzt', 'hilfe'],
+    preferredSections: ['§ 27', '§ 31', '§ 61', '§ 62'],
+  },
 ]
 
 function getCuratedCitizenAnswer(question: string): CuratedAnswer | null {
@@ -232,6 +237,20 @@ function getCuratedCitizenAnswer(question: string): CuratedAnswer | null {
         { law: 'TierSchG', section: '§ 3' },
         { law: 'TierSchG', section: '§ 17' },
         { law: 'TierSchG', section: '§ 18' },
+      ],
+    }
+  }
+
+  if (
+    (q.includes('medikament') || q.includes('arznei')) &&
+    (q.includes('nicht leisten') || q.includes('zu teuer') || q.includes('hilfe') || q.includes('bezahlen'))
+  ) {
+    return {
+      answer:
+        'Kurz gesagt: Wenn du gesetzlich krankenversichert bist, müssen medizinisch notwendige Arzneimittel oft nicht komplett selbst bezahlt werden. Häufig gibt es nur eine Zuzahlung, und bei geringem Einkommen oder hoher Belastung kann eine Befreiung oder Entlastung möglich sein. Wichtig ist auch, ob es ein Kassenrezept gibt und ob die Krankenkasse die Leistung grundsätzlich abdeckt. Wenn du die Kosten gerade nicht tragen kannst, solltest du schnell mit Arztpraxis oder Krankenkasse klären, ob es eine günstigere oder erstattungsfähige Alternative gibt. Nächster Schritt: Rezept, Preis und Kassenstatus prüfen und direkt bei der Krankenkasse nach Zuzahlung, Befreiung oder Kostenübernahme fragen.',
+      sources: [
+        { law: 'SGB 5', section: '§ 27' },
+        { law: 'SGB 5', section: '§ 61' },
       ],
     }
   }
