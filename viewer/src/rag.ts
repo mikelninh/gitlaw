@@ -10,7 +10,7 @@
 
 import OpenAI from 'openai'
 import Fuse from 'fuse.js'
-import { citizenIntents, detectCitizenIntent } from './citizen-intents'
+import { citizenIntents, detectCitizenIntent, renderCitizenIntentAnswer } from './citizen-intents'
 
 const API_KEY = import.meta.env.VITE_OPENAI_API_KEY || ''
 const PUBLIC_BASE = import.meta.env.BASE_URL || '/'
@@ -332,7 +332,7 @@ export async function askLegalQuestion(
   const detectedIntent = detectCitizenIntent(question)
   if (detectedIntent) {
     return {
-      answer: detectedIntent.answer,
+      answer: renderCitizenIntentAnswer(detectedIntent),
       sources: detectedIntent.sources,
     }
   }

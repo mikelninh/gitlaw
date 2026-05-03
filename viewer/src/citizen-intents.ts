@@ -10,7 +10,10 @@ export interface CitizenIntent {
   terms: string[]
   sourceLawIds: string[]
   preferredSections: string[]
-  answer: string
+  summary: string
+  legalCore: string
+  nextSteps: string[]
+  urgentNote?: string
   sources: CitizenIntentSource[]
 }
 
@@ -22,8 +25,14 @@ export const citizenIntents: CitizenIntent[] = [
     terms: ['eigenbedarf', 'vermieter', 'wohnung', 'rausschmei', 'kuendigung', 'kündigung'],
     sourceLawIds: ['bgb'],
     preferredSections: ['§ 573', '§ 574'],
-    answer:
-      'Kurz gesagt: Dein Vermieter kann dich nicht einfach sofort wegen Eigenbedarf herauswerfen. Er braucht eine schriftliche Kündigung mit nachvollziehbarer Begründung, warum die Wohnung für ihn oder enge Angehörige gebraucht wird. Prüfe besonders, ob der Eigenbedarf konkret erklärt ist und ob du wegen besonderer Härte widersprechen kannst, zum Beispiel bei Krankheit, hohem Alter oder fehlendem Ersatzwohnraum. Wichtig sind auch die Kündigungsfristen, die sich nach der Wohndauer richten können. Nächster Schritt: Kündigung und Begründung sichern, Frist notieren und möglichst früh rechtlich prüfen lassen.',
+    summary: 'Nein, dein Vermieter kann dich nicht einfach sofort wegen Eigenbedarf herauswerfen.',
+    legalCore: 'Eine Eigenbedarfskündigung muss schriftlich sein und nachvollziehbar erklären, wer die Wohnung braucht und warum. Außerdem gelten Kündigungsfristen. In manchen Fällen kannst du wegen besonderer Härte widersprechen, zum Beispiel bei Krankheit, hohem Alter oder fehlendem Ersatzwohnraum.',
+    nextSteps: [
+      'Kündigungsschreiben und Begründung sichern.',
+      'Datum notieren und Kündigungsfrist prüfen.',
+      'Prüfen, ob der Eigenbedarf konkret erklärt ist.',
+      'Bei besonderer Härte früh Widerspruch prüfen lassen.',
+    ],
     sources: [
       { law: 'BGB', section: '§ 573' },
       { law: 'BGB', section: '§ 574' },
@@ -36,8 +45,15 @@ export const citizenIntents: CitizenIntent[] = [
     terms: ['chef', 'arbeitgeber', 'kuendig', 'kündig', 'rausschmei', 'arbeitsplatz'],
     sourceLawIds: ['kschg'],
     preferredSections: ['§ 1', '§ 4'],
-    answer:
-      'Kurz gesagt: Eine Kündigung ist nicht automatisch wirksam. In vielen Fällen ist entscheidend, ob das Kündigungsschutzgesetz greift und ob die Kündigung sozial gerechtfertigt ist. Sehr wichtig: Gegen eine Kündigung muss man oft innerhalb von 3 Wochen vorgehen, sonst wird sie schnell bestandskräftig. Prüfe außerdem, ob Formfehler vorliegen, etwa fehlende Schriftform oder unklare Begründung. Nächster Schritt: Kündigungsschreiben sichern, Datum festhalten und die 3-Wochen-Frist sofort prüfen.',
+    summary: 'Nein, eine Kündigung ist nicht automatisch wirksam.',
+    legalCore: 'Wichtig ist vor allem, ob das Kündigungsschutzgesetz greift und ob die Kündigung sozial gerechtfertigt ist. Sehr oft zählt außerdem die 3-Wochen-Frist, innerhalb der man gegen die Kündigung vorgehen muss. Auch Formfehler können wichtig sein.',
+    nextSteps: [
+      'Kündigungsschreiben sichern.',
+      'Zugangstag genau notieren.',
+      'Sofort prüfen, ob die 3-Wochen-Frist läuft.',
+      'Arbeitsvertrag und bisherige Schreiben bereitlegen.',
+    ],
+    urgentNote: 'Wenn du schon ein schriftliches Kündigungsschreiben hast, ist die Frist oft das Wichtigste.',
     sources: [
       { law: 'KSchG', section: '§ 1' },
       { law: 'KSchG', section: '§ 4' },
@@ -50,8 +66,14 @@ export const citizenIntents: CitizenIntent[] = [
     terms: ['tierquaelerei', 'tierquälerei', 'tierschutz', 'tier', 'hund', 'katze'],
     sourceLawIds: ['tierschg'],
     preferredSections: ['§ 3', '§ 17', '§ 18'],
-    answer:
-      'Kurz gesagt: Nach dem Tierschutzgesetz ist verboten, Tieren ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zuzufügen. Schwere Fälle können sogar strafbar sein, besonders wenn ein Wirbeltier misshandelt oder ohne Grund getötet wird. Wenn du Tierquälerei beobachtest, sichere möglichst konkrete Informationen wie Ort, Zeit, Fotos oder Zeugen. Melden kannst du das in dringenden Fällen bei der Polizei, sonst auch beim Veterinäramt oder Ordnungsamt. Nächster Schritt: Beobachtung dokumentieren und die Meldung mit möglichst konkreten Angaben absetzen.',
+    summary: 'Tierquälerei kann verboten und in schweren Fällen sogar strafbar sein.',
+    legalCore: 'Nach dem Tierschutzgesetz darf niemand Tieren ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen. Besonders schwere Fälle mit Wirbeltieren können strafrechtlich relevant sein.',
+    nextSteps: [
+      'Ort, Zeit und Beobachtung notieren.',
+      'Wenn möglich Fotos oder Zeugen sichern.',
+      'In dringenden Fällen die Polizei kontaktieren.',
+      'Sonst beim Veterinäramt oder Ordnungsamt melden.',
+    ],
     sources: [
       { law: 'TierSchG', section: '§ 3' },
       { law: 'TierSchG', section: '§ 17' },
@@ -65,8 +87,13 @@ export const citizenIntents: CitizenIntent[] = [
     terms: ['medikament', 'arznei', 'krankenkasse', 'zuzahlung', 'nicht leisten', 'zu teuer', 'bezahlen'],
     sourceLawIds: ['sgb_5'],
     preferredSections: ['§ 27', '§ 31', '§ 61', '§ 62'],
-    answer:
-      'Kurz gesagt: Wenn du gesetzlich krankenversichert bist, müssen medizinisch notwendige Arzneimittel oft nicht komplett selbst bezahlt werden. Häufig gibt es nur eine Zuzahlung, und bei geringem Einkommen oder hoher Belastung kann eine Befreiung oder Entlastung möglich sein. Wichtig ist auch, ob es ein Kassenrezept gibt und ob die Krankenkasse die Leistung grundsätzlich abdeckt. Wenn du die Kosten gerade nicht tragen kannst, solltest du schnell mit Arztpraxis oder Krankenkasse klären, ob es eine günstigere oder erstattungsfähige Alternative gibt. Nächster Schritt: Rezept, Preis und Kassenstatus prüfen und direkt bei der Krankenkasse nach Zuzahlung, Befreiung oder Kostenübernahme fragen.',
+    summary: 'Wenn du gesetzlich versichert bist, musst du Medikamente oft nicht komplett selbst zahlen.',
+    legalCore: 'Häufig gibt es nur eine Zuzahlung. Bei geringerem Einkommen oder hoher Belastung kann auch eine Befreiung oder Entlastung in Betracht kommen. Entscheidend ist außerdem, ob es ein Kassenrezept gibt und ob die Krankenkasse die Leistung grundsätzlich übernimmt.',
+    nextSteps: [
+      'Rezept, Preis und Kassenstatus prüfen.',
+      'Arztpraxis nach günstiger oder erstattungsfähiger Alternative fragen.',
+      'Krankenkasse nach Zuzahlung, Befreiung oder Kostenübernahme fragen.',
+    ],
     sources: [
       { law: 'SGB 5', section: '§ 27' },
       { law: 'SGB 5', section: '§ 61' },
@@ -79,8 +106,14 @@ export const citizenIntents: CitizenIntent[] = [
     terms: ['mieterhoehung', 'mieterhöhung', 'miete erhöhen', 'miete erhoehen'],
     sourceLawIds: ['bgb'],
     preferredSections: ['§ 558'],
-    answer:
-      'Kurz gesagt: Dein Vermieter darf die Miete nicht einfach beliebig erhöhen. Entscheidend ist, ob die Erhöhung formell richtig begründet ist und ob die gesetzlichen Grenzen eingehalten werden, etwa Vergleichsmiete und Sperrfristen. Du musst eine Mieterhöhung nicht sofort akzeptieren, sondern kannst sie prüfen. Nächster Schritt: Schreiben sichern, Datum notieren und die Begründung mit Vergleichsmiete und Fristen abgleichen.',
+    summary: 'Nein, dein Vermieter darf die Miete nicht einfach beliebig erhöhen.',
+    legalCore: 'Wichtig ist, ob die Erhöhung formell richtig begründet ist und ob gesetzliche Grenzen eingehalten werden, zum Beispiel Vergleichsmiete und Sperrfristen. Du musst eine Erhöhung nicht ungeprüft sofort akzeptieren.',
+    nextSteps: [
+      'Schreiben sichern.',
+      'Datum notieren.',
+      'Begründung und Vergleichsmiete prüfen.',
+      'Fristen für Zustimmung oder Reaktion prüfen.',
+    ],
     sources: [{ law: 'BGB', section: '§ 558' }],
   },
   {
@@ -90,8 +123,14 @@ export const citizenIntents: CitizenIntent[] = [
     terms: ['mietminderung', 'miete kuerzen', 'miete kürzen', 'heizung kaputt', 'schimmel'],
     sourceLawIds: ['bgb'],
     preferredSections: ['§ 536'],
-    answer:
-      'Kurz gesagt: Wenn deine Wohnung einen erheblichen Mangel hat, kommt eine Mietminderung in Betracht. Wichtig ist aber, dass du den Mangel dokumentierst und dem Vermieter meldest, bevor du einfach weniger zahlst. Die Höhe hängt vom Einzelfall ab, deshalb ist Vorsicht wichtig. Nächster Schritt: Mangel mit Fotos sichern, schriftlich melden und erst dann die weitere Prüfung angehen.',
+    summary: 'Bei einem erheblichen Wohnungsmangel kann eine Mietminderung in Betracht kommen.',
+    legalCore: 'Wichtig ist, den Mangel zuerst zu dokumentieren und dem Vermieter zu melden. Einfach sofort weniger zu zahlen ist riskant. Wie hoch eine Mietminderung sein kann, hängt vom Einzelfall ab.',
+    nextSteps: [
+      'Mangel mit Fotos oder Videos sichern.',
+      'Vermieter schriftlich informieren.',
+      'Datum und Reaktion dokumentieren.',
+      'Erst danach die Höhe einer möglichen Minderung prüfen.',
+    ],
     sources: [{ law: 'BGB', section: '§ 536' }],
   },
   {
@@ -101,8 +140,14 @@ export const citizenIntents: CitizenIntent[] = [
     terms: ['bürgergeld', 'jobcenter', 'regelsatz', 'sanktion', 'grundsicherung'],
     sourceLawIds: ['sgb_2'],
     preferredSections: ['§ 19', '§ 31'],
-    answer:
-      'Kurz gesagt: Beim Bürgergeld kommt es darauf an, ob du leistungsberechtigt bist und welche Bedarfe anerkannt werden. Streit gibt es oft bei Kürzungen, Anrechnung von Einkommen oder Pflichten gegenüber dem Jobcenter. Wichtig ist, Bescheide und Fristen ernst zu nehmen, weil gegen Fehler oft nur rechtzeitig vorgegangen werden kann. Nächster Schritt: Bescheid sichern, Datum notieren und prüfen, ob Widerspruch oder Nachweise nötig sind.',
+    summary: 'Beim Bürgergeld kommt es stark auf Bescheid, Fristen und anerkannte Bedarfe an.',
+    legalCore: 'Streit entsteht oft bei Kürzungen, Anrechnung von Einkommen oder Pflichten gegenüber dem Jobcenter. Wichtig ist, Bescheide nicht liegen zu lassen, weil Fehler oft nur rechtzeitig angegriffen werden können.',
+    nextSteps: [
+      'Bescheid sichern.',
+      'Zugangstag notieren.',
+      'Prüfen, ob Einkommen oder Bedarf falsch angerechnet wurde.',
+      'Frist für Widerspruch oder Nachweise prüfen.',
+    ],
     sources: [
       { law: 'SGB 2', section: '§ 19' },
       { law: 'SGB 2', section: '§ 31' },
@@ -125,4 +170,24 @@ export function detectCitizenIntent(question: string): CitizenIntent | null {
     .sort((a, b) => b.score - a.score)
 
   return scored[0]?.intent || null
+}
+
+export function renderCitizenIntentAnswer(intent: CitizenIntent): string {
+  const steps = intent.nextSteps.map((step, index) => `${index + 1}. ${step}`).join('\n')
+  const urgent = intent.urgentNote ? `\n\nWann du schnell handeln solltest:\n${intent.urgentNote}` : ''
+
+  return [
+    'Kurz gesagt:',
+    intent.summary,
+    '',
+    'Worauf es ankommt:',
+    intent.legalCore,
+    '',
+    'Was du jetzt tun kannst:',
+    steps,
+    urgent,
+  ]
+    .join('\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim()
 }
