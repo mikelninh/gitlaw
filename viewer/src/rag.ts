@@ -10,6 +10,7 @@
 
 import OpenAI from 'openai'
 import Fuse from 'fuse.js'
+import { citizenIntents, detectCitizenIntent } from './citizen-intents'
 
 const API_KEY = import.meta.env.VITE_OPENAI_API_KEY || ''
 const PUBLIC_BASE = import.meta.env.BASE_URL || '/'
@@ -35,11 +36,6 @@ interface SectionHint {
   lawId: string
   terms: string[]
   preferredSections: string[]
-}
-
-interface CuratedAnswer {
-  answer: string
-  sources: { law: string; section: string }[]
 }
 
 // Comprehensive keyword → law mapping (multiple synonyms per topic)
@@ -161,102 +157,11 @@ const personaLaws: Record<string, string[]> = {
   'arbeitslos': ['sgb_2', 'sgb_5'],
 }
 
-const sectionHints: SectionHint[] = [
-  {
-    lawId: 'bgb',
-    terms: ['eigenbedarf', 'vermieter', 'wohnung', 'kuendigen'],
-    preferredSections: ['§ 573', '§ 574'],
-  },
-  {
-    lawId: 'bgb',
-    terms: ['miete', 'mieterhoehung', 'nebenkosten', 'mietminderung'],
-    preferredSections: ['§ 535', '§ 536', '§ 558'],
-  },
-  {
-    lawId: 'kschg',
-    terms: ['kuendigen', 'kuendigung', 'chef', 'arbeitgeber', 'arbeitsplatz'],
-    preferredSections: ['§ 1', '§ 4'],
-  },
-  {
-    lawId: 'arbzg',
-    terms: ['arbeitszeit', 'ueberstunden', 'pause', 'ruhezeit'],
-    preferredSections: ['§ 3', '§ 4', '§ 5'],
-  },
-  {
-    lawId: 'tierschg',
-    terms: ['tierquaelerei', 'tierquälerei', 'tierschutz', 'tier', 'hund', 'katze'],
-    preferredSections: ['§ 3', '§ 17', '§ 18'],
-  },
-  {
-    lawId: 'sgb_5',
-    terms: ['medikament', 'krankenkasse', 'zuzahlung', 'arznei', 'arzt', 'hilfe'],
-    preferredSections: ['§ 27', '§ 31', '§ 61', '§ 62'],
-  },
-]
-
-function getCuratedCitizenAnswer(question: string): CuratedAnswer | null {
-  const q = question.toLowerCase()
-
-  if (
-    q.includes('eigenbedarf') ||
-    (q.includes('vermieter') && (q.includes('rausschmei') || q.includes('kuendig')))
-  ) {
-    return {
-      answer:
-        'Kurz gesagt: Dein Vermieter kann dich nicht einfach sofort wegen Eigenbedarf herauswerfen. Er braucht eine schriftliche Kündigung mit nachvollziehbarer Begründung, warum die Wohnung für ihn oder enge Angehörige gebraucht wird. Prüfe besonders, ob der Eigenbedarf konkret erklärt ist und ob du wegen besonderer Härte widersprechen kannst, zum Beispiel bei Krankheit, hohem Alter oder fehlendem Ersatzwohnraum. Wichtig sind auch die Kündigungsfristen, die sich nach der Wohndauer richten können. Nächster Schritt: Kündigung und Begründung sichern, Frist notieren und möglichst früh rechtlich prüfen lassen.',
-      sources: [
-        { law: 'BGB', section: '§ 573' },
-        { law: 'BGB', section: '§ 574' },
-      ],
-    }
-  }
-
-  if (
-    (q.includes('chef') || q.includes('arbeitgeber')) &&
-    (q.includes('kuendig') || q.includes('rausschmei'))
-  ) {
-    return {
-      answer:
-        'Kurz gesagt: Eine Kündigung ist nicht automatisch wirksam. In vielen Fällen ist entscheidend, ob das Kündigungsschutzgesetz greift und ob die Kündigung sozial gerechtfertigt ist. Sehr wichtig: Gegen eine Kündigung muss man oft innerhalb von 3 Wochen vorgehen, sonst wird sie schnell bestandskräftig. Prüfe außerdem, ob Formfehler vorliegen, etwa fehlende Schriftform oder unklare Begründung. Nächster Schritt: Kündigungsschreiben sichern, Datum festhalten und die 3-Wochen-Frist sofort prüfen.',
-      sources: [
-        { law: 'KSchG', section: '§ 1' },
-        { law: 'KSchG', section: '§ 4' },
-      ],
-    }
-  }
-
-  if (
-    q.includes('tierquaelerei') ||
-    q.includes('tierquälerei') ||
-    (q.includes('tierschutz') && q.includes('verboten'))
-  ) {
-    return {
-      answer:
-        'Kurz gesagt: Nach dem Tierschutzgesetz ist verboten, Tieren ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zuzufügen. Schwere Fälle können sogar strafbar sein, besonders wenn ein Wirbeltier misshandelt oder ohne Grund getötet wird. Wenn du Tierquälerei beobachtest, sichere möglichst konkrete Informationen wie Ort, Zeit, Fotos oder Zeugen. Melden kannst du das in dringenden Fällen bei der Polizei, sonst auch beim Veterinäramt oder Ordnungsamt. Nächster Schritt: Beobachtung dokumentieren und die Meldung mit möglichst konkreten Angaben absetzen.',
-      sources: [
-        { law: 'TierSchG', section: '§ 3' },
-        { law: 'TierSchG', section: '§ 17' },
-        { law: 'TierSchG', section: '§ 18' },
-      ],
-    }
-  }
-
-  if (
-    (q.includes('medikament') || q.includes('arznei')) &&
-    (q.includes('nicht leisten') || q.includes('zu teuer') || q.includes('hilfe') || q.includes('bezahlen'))
-  ) {
-    return {
-      answer:
-        'Kurz gesagt: Wenn du gesetzlich krankenversichert bist, müssen medizinisch notwendige Arzneimittel oft nicht komplett selbst bezahlt werden. Häufig gibt es nur eine Zuzahlung, und bei geringem Einkommen oder hoher Belastung kann eine Befreiung oder Entlastung möglich sein. Wichtig ist auch, ob es ein Kassenrezept gibt und ob die Krankenkasse die Leistung grundsätzlich abdeckt. Wenn du die Kosten gerade nicht tragen kannst, solltest du schnell mit Arztpraxis oder Krankenkasse klären, ob es eine günstigere oder erstattungsfähige Alternative gibt. Nächster Schritt: Rezept, Preis und Kassenstatus prüfen und direkt bei der Krankenkasse nach Zuzahlung, Befreiung oder Kostenübernahme fragen.',
-      sources: [
-        { law: 'SGB 5', section: '§ 27' },
-        { law: 'SGB 5', section: '§ 61' },
-      ],
-    }
-  }
-
-  return null
-}
+const sectionHints: SectionHint[] = citizenIntents.map(intent => ({
+  lawId: intent.sourceLawIds[0] || 'bgb',
+  terms: intent.terms,
+  preferredSections: intent.preferredSections,
+}))
 
 async function findRelevantChunks(question: string, persona?: string): Promise<LawChunk[]> {
   const chunks: LawChunk[] = []
@@ -424,9 +329,12 @@ export async function askLegalQuestion(
   answer: string
   sources: { law: string; section: string }[]
 }> {
-  const curated = getCuratedCitizenAnswer(question)
-  if (curated) {
-    return curated
+  const detectedIntent = detectCitizenIntent(question)
+  if (detectedIntent) {
+    return {
+      answer: detectedIntent.answer,
+      sources: detectedIntent.sources,
+    }
   }
 
   // Search using the full conversation context for better retrieval
