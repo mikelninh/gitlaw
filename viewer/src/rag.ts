@@ -19,6 +19,13 @@ interface LawChunk {
   text: string
 }
 
+interface LawIndexEntry {
+  id: string
+  title: string
+  abbreviation: string
+  file: string
+}
+
 // Comprehensive keyword → law mapping (multiple synonyms per topic)
 const topicMap: Record<string, string[]> = {
   // Miete & Wohnen
@@ -188,6 +195,47 @@ async function findRelevantChunks(question: string, persona?: string): Promise<L
         chunks.push({ law: data.law, section, text: explanation as string })
       }
     } catch { /* skip */ }
+  }
+
+  if (chunks.length === 0) {
+    const lawIndexResp = await fetch('./law-index.json')
+    const lawIndex: LawIndexEntry[] = lawIndexResp.ok ? await lawIndexResp.json() : []
+    const fallbackChunks: LawChunk[] = []
+
+    for (const lawId of Array.from(relevantLaws).slice(0, 3)) {
+      const lawMeta = lawIndex.find(l => l.id === lawId)
+      if (!lawMeta) continue
+      try {
+        const resp = await fetch(`./laws/${lawMeta.file}`)
+        if (!resp.ok) continue
+        const text = await resp.text()
+        const blocks = text
+          .split(/\n### /g)
+          .map((block, index) => index === 0 ? block : `### ${block}`)
+          .filter(Boolean)
+        const blockDocs = blocks.map(block => {
+          const firstLine = block.split('\n')[0]?.trim() || lawMeta.title
+          return {
+            law: lawMeta.abbreviation || lawMeta.title,
+            section: firstLine.replace(/^###\s*/, ''),
+            text: block.slice(0, 1200),
+          }
+        })
+        const blockFuse = new Fuse(blockDocs, {
+          keys: ['section', 'text'],
+          threshold: 0.35,
+          ignoreLocation: true,
+        })
+        const blockMatches = blockFuse.search(question).slice(0, 3).map(r => r.item)
+        fallbackChunks.push(...(blockMatches.length > 0 ? blockMatches : blockDocs.slice(0, 2)))
+      } catch {
+        // ignore fallback law load failure
+      }
+    }
+
+    if (fallbackChunks.length > 0) {
+      return fallbackChunks.slice(0, 5)
+    }
   }
 
   // Fuzzy search within chunks for most relevant

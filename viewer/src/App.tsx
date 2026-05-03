@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { Search, ArrowLeft, Scale, FileText, ExternalLink, Sparkles, Lightbulb, MessageCircle, Send, Download, Share2 } from 'lucide-react'
+import { Search, ArrowLeft, Scale, FileText, ExternalLink, Sparkles, Lightbulb, MessageCircle, Download, Share2 } from 'lucide-react'
 import Fuse from 'fuse.js'
 import { loadExplanations, reformDiffs, type Explanations } from './explain'
 import { askLegalQuestion } from './rag'
@@ -603,6 +603,46 @@ function App() {
             <p className="text-ink-muted max-w-md mx-auto">GitLaw versucht zuerst dein Problem zu verstehen, antwortet einfacher und zeigt dir danach die passenden Gesetze dazu.</p>
           </div>
 
+          {chatMessages.length > 0 && (
+            <div className="space-y-3 mb-8">
+              {chatMessages.map((msg, i) => (
+                <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
+                  <div className={`max-w-[85%] rounded-2xl p-4 ${msg.role === 'user' ? 'bg-gold text-white' : 'bg-card border border-border'}`}>
+                    {msg.role === 'assistant' && (
+                      <div className="flex items-center gap-2 mb-2">
+                        <Scale className="w-4 h-4 text-gold" />
+                        <span className="text-[11px] font-bold text-gold uppercase tracking-wider">Rechts-Assistent</span>
+                      </div>
+                    )}
+                    <p className={`text-sm leading-relaxed whitespace-pre-wrap ${msg.role === 'user' ? 'text-white' : 'text-ink-soft'}`}>{msg.text}</p>
+                    {msg.sources && msg.sources.length > 0 && (
+                      <div className="flex flex-wrap gap-1 mt-3 pt-2 border-t border-border/50">
+                        {msg.sources.map((s, j) => (
+                          <button
+                            key={j}
+                            onClick={() => openSource(s)}
+                            className="text-[10px] bg-bg-alt px-2 py-0.5 rounded text-ink-muted hover:text-gold cursor-pointer"
+                          >
+                            {s.law} — {s.section}
+                          </button>
+                        ))}
+                      </div>
+                    )}
+                    {msg.role === 'assistant' && (!msg.sources || msg.sources.length === 0) && (
+                      <div className="mt-3 pt-2 border-t border-border/50 text-[11px] text-ink-muted">
+                        Keine klare Quelle gefunden. Versuche eine konkretere Frage oder öffne direkt ein passendes Gesetz.
+                      </div>
+                    )}
+                  </div>
+                </div>
+              ))}
+              {chatLoading && (
+                <div className="flex justify-start"><div className="bg-card border border-border rounded-2xl px-5 py-3 text-sm text-ink-muted">Suche nach passenden Gesetzen und Erklaerungen...</div></div>
+              )}
+              <p className="text-center text-[11px] text-gold">⚠️ Keine Rechtsberatung. GitLaw ist ein erster Orientierungsschritt, keine anwaltliche Pruefung.</p>
+            </div>
+          )}
+
           <details className="mb-6 bg-bg-alt border border-border rounded-2xl p-4">
             <summary className="cursor-pointer text-sm font-medium text-ink">Optional: Antwort auf meine Situation zuschneiden</summary>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 mt-4">
@@ -772,59 +812,6 @@ function App() {
             ))}
           </div>
 
-          <div className="relative mb-4">
-            <input type="text" value={chatInput} onChange={e => setChatInput(e.target.value)}
-              onKeyDown={e => { if (e.key === 'Enter') submitQuestion() }}
-              placeholder={chatMessages.length > 0 ? 'Folgefrage stellen...' : 'Deine Rechtsfrage...'}
-              className="w-full pl-5 pr-14 py-4 rounded-2xl border border-border bg-card text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
-            />
-            <button onClick={submitQuestion} disabled={chatLoading || !chatInput.trim()}
-              className="absolute right-3 top-1/2 -translate-y-1/2 p-2 bg-gold text-white rounded-xl hover:bg-gold/90 transition-colors cursor-pointer disabled:opacity-50">
-              <Send className="w-5 h-5" />
-            </button>
-          </div>
-
-          {/* Answer */}
-          {/* Chat messages */}
-          {chatMessages.length > 0 && (
-            <div className="space-y-3 mb-4">
-              {chatMessages.map((msg, i) => (
-                <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
-                  <div className={`max-w-[85%] rounded-2xl p-4 ${msg.role === 'user' ? 'bg-gold text-white' : 'bg-card border border-border'}`}>
-                    {msg.role === 'assistant' && (
-                      <div className="flex items-center gap-2 mb-2">
-                        <Scale className="w-4 h-4 text-gold" />
-                        <span className="text-[11px] font-bold text-gold uppercase tracking-wider">Rechts-Assistent</span>
-                      </div>
-                    )}
-                    <p className={`text-sm leading-relaxed whitespace-pre-wrap ${msg.role === 'user' ? 'text-white' : 'text-ink-soft'}`}>{msg.text}</p>
-                    {msg.sources && msg.sources.length > 0 && (
-                      <div className="flex flex-wrap gap-1 mt-3 pt-2 border-t border-border/50">
-                        {msg.sources.map((s, j) => (
-                          <button
-                            key={j}
-                            onClick={() => openSource(s)}
-                            className="text-[10px] bg-bg-alt px-2 py-0.5 rounded text-ink-muted hover:text-gold cursor-pointer"
-                          >
-                            {s.law} — {s.section}
-                          </button>
-                        ))}
-                      </div>
-                    )}
-                    {msg.role === 'assistant' && (!msg.sources || msg.sources.length === 0) && (
-                      <div className="mt-3 pt-2 border-t border-border/50 text-[11px] text-ink-muted">
-                        Keine klare Quelle gefunden. Versuche eine konkretere Frage oder öffne direkt ein passendes Gesetz.
-                      </div>
-                    )}
-                  </div>
-                </div>
-              ))}
-              {chatLoading && (
-                <div className="flex justify-start"><div className="bg-card border border-border rounded-2xl px-5 py-3 text-sm text-ink-muted">Suche nach passenden Gesetzen und Erklaerungen...</div></div>
-              )}
-              <p className="text-center text-[11px] text-gold">⚠️ Keine Rechtsberatung. GitLaw ist ein erster Orientierungsschritt, keine anwaltliche Pruefung.</p>
-            </div>
-          )}
         </main>
       ) : (
       /* ── WIDERSPRÜCHE TAB ── */
