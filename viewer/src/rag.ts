@@ -37,6 +37,11 @@ interface SectionHint {
   preferredSections: string[]
 }
 
+interface CuratedAnswer {
+  answer: string
+  sources: { law: string; section: string }[]
+}
+
 // Comprehensive keyword → law mapping (multiple synonyms per topic)
 const topicMap: Record<string, string[]> = {
   // Miete & Wohnen
@@ -183,6 +188,56 @@ const sectionHints: SectionHint[] = [
     preferredSections: ['§ 3', '§ 17', '§ 18'],
   },
 ]
+
+function getCuratedCitizenAnswer(question: string): CuratedAnswer | null {
+  const q = question.toLowerCase()
+
+  if (
+    q.includes('eigenbedarf') ||
+    (q.includes('vermieter') && (q.includes('rausschmei') || q.includes('kuendig')))
+  ) {
+    return {
+      answer:
+        'Kurz gesagt: Dein Vermieter kann dich nicht einfach sofort wegen Eigenbedarf herauswerfen. Er braucht eine schriftliche Kündigung mit nachvollziehbarer Begründung, warum die Wohnung für ihn oder enge Angehörige gebraucht wird. Prüfe besonders, ob der Eigenbedarf konkret erklärt ist und ob du wegen besonderer Härte widersprechen kannst, zum Beispiel bei Krankheit, hohem Alter oder fehlendem Ersatzwohnraum. Wichtig sind auch die Kündigungsfristen, die sich nach der Wohndauer richten können. Nächster Schritt: Kündigung und Begründung sichern, Frist notieren und möglichst früh rechtlich prüfen lassen.',
+      sources: [
+        { law: 'BGB', section: '§ 573' },
+        { law: 'BGB', section: '§ 574' },
+      ],
+    }
+  }
+
+  if (
+    (q.includes('chef') || q.includes('arbeitgeber')) &&
+    (q.includes('kuendig') || q.includes('rausschmei'))
+  ) {
+    return {
+      answer:
+        'Kurz gesagt: Eine Kündigung ist nicht automatisch wirksam. In vielen Fällen ist entscheidend, ob das Kündigungsschutzgesetz greift und ob die Kündigung sozial gerechtfertigt ist. Sehr wichtig: Gegen eine Kündigung muss man oft innerhalb von 3 Wochen vorgehen, sonst wird sie schnell bestandskräftig. Prüfe außerdem, ob Formfehler vorliegen, etwa fehlende Schriftform oder unklare Begründung. Nächster Schritt: Kündigungsschreiben sichern, Datum festhalten und die 3-Wochen-Frist sofort prüfen.',
+      sources: [
+        { law: 'KSchG', section: '§ 1' },
+        { law: 'KSchG', section: '§ 4' },
+      ],
+    }
+  }
+
+  if (
+    q.includes('tierquaelerei') ||
+    q.includes('tierquälerei') ||
+    (q.includes('tierschutz') && q.includes('verboten'))
+  ) {
+    return {
+      answer:
+        'Kurz gesagt: Nach dem Tierschutzgesetz ist verboten, Tieren ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zuzufügen. Schwere Fälle können sogar strafbar sein, besonders wenn ein Wirbeltier misshandelt oder ohne Grund getötet wird. Wenn du Tierquälerei beobachtest, sichere möglichst konkrete Informationen wie Ort, Zeit, Fotos oder Zeugen. Melden kannst du das in dringenden Fällen bei der Polizei, sonst auch beim Veterinäramt oder Ordnungsamt. Nächster Schritt: Beobachtung dokumentieren und die Meldung mit möglichst konkreten Angaben absetzen.',
+      sources: [
+        { law: 'TierSchG', section: '§ 3' },
+        { law: 'TierSchG', section: '§ 17' },
+        { law: 'TierSchG', section: '§ 18' },
+      ],
+    }
+  }
+
+  return null
+}
 
 async function findRelevantChunks(question: string, persona?: string): Promise<LawChunk[]> {
   const chunks: LawChunk[] = []
@@ -350,6 +405,11 @@ export async function askLegalQuestion(
   answer: string
   sources: { law: string; section: string }[]
 }> {
+  const curated = getCuratedCitizenAnswer(question)
+  if (curated) {
+    return curated
+  }
+
   // Search using the full conversation context for better retrieval
   const allText = [question, ...history.map(m => m.content)].join(' ')
   const chunks = await findRelevantChunks(allText, persona)
