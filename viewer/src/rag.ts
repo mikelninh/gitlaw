@@ -211,6 +211,30 @@ export interface ChatMessage {
   content: string
 }
 
+function sanitizeAssistantAnswer(answer: string, question: string): string {
+  const cleaned = answer
+    .split('\n')
+    .filter(line => {
+      const normalized = line.trim().toLowerCase()
+      if (!normalized) return true
+      if (normalized.startsWith('regeln:')) return false
+      if (normalized.startsWith('wichtig:')) return false
+      if (normalized.startsWith('gesetzliche quellen:')) return false
+      if (normalized.startsWith('die person:')) return false
+      if (normalized.includes('antworte basierend auf')) return false
+      if (normalized.includes('max 5-6 sätze')) return false
+      if (normalized.includes('dies ist keine rechtsberatung')) return false
+      if (normalized === question.trim().toLowerCase()) return false
+      if (normalized === `*${question.trim().toLowerCase()}*`) return false
+      return true
+    })
+    .join('\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim()
+
+  return cleaned || 'Dazu habe ich leider gerade keine brauchbare Antwort gefunden. Bitte stelle die Frage etwas konkreter oder pruefe das passende Gesetz.'
+}
+
 export async function askLegalQuestion(
   question: string,
   persona?: string,
@@ -219,6 +243,14 @@ export async function askLegalQuestion(
   answer: string
   sources: { law: string; section: string }[]
 }> {
+  // Search using the full conversation context for better retrieval
+  const allText = [question, ...history.map(m => m.content)].join(' ')
+  const chunks = await findRelevantChunks(allText, persona)
+  const context = chunks.map(c =>
+    `[${c.law} — ${c.section}]\n${c.text}`
+  ).join('\n\n---\n\n')
+  const sources = chunks.map(c => ({ law: c.law, section: c.section }))
+
   // If no local API key, use Vercel serverless API (free, secure)
   if (!API_KEY) {
     try {
@@ -229,11 +261,17 @@ export async function askLegalQuestion(
         body: JSON.stringify({
           question,
           persona,
+          context,
+          sources,
           history: history.map(m => ({ role: m.role, content: m.content })),
         }),
       })
       if (resp.ok) {
-        return await resp.json()
+        const data = await resp.json()
+        return {
+          answer: sanitizeAssistantAnswer(data.answer || '', question),
+          sources: Array.isArray(data.sources) && data.sources.length > 0 ? data.sources : sources,
+        }
       }
     } catch { /* fallback below */ }
 
@@ -242,16 +280,6 @@ export async function askLegalQuestion(
       sources: [],
     }
   }
-
-  // Search using the full conversation context for better retrieval
-  const allText = [question, ...history.map(m => m.content)].join(' ')
-  const chunks = await findRelevantChunks(allText, persona)
-
-  const context = chunks.map(c =>
-    `[${c.law} — ${c.section}]\n${c.text}`
-  ).join('\n\n---\n\n')
-
-  const sources = chunks.map(c => ({ law: c.law, section: c.section }))
 
   const client = new OpenAI({ apiKey: API_KEY, dangerouslyAllowBrowser: true })
 
@@ -290,7 +318,7 @@ ${context || 'Keine passenden Quellen gefunden.'}`
   })
 
   return {
-    answer: resp.choices[0]?.message?.content || 'Keine Antwort möglich.',
+    answer: sanitizeAssistantAnswer(resp.choices[0]?.message?.content || 'Keine Antwort möglich.', question),
     sources,
   }
 }

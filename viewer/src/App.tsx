@@ -32,20 +32,9 @@ const lawAbbrevMap: Record<string, string> = {
   'BetrVG': 'betrvg', 'InsO': 'inso', 'VwGO': 'vwgo', 'GWB': 'gwb',
 }
 
-// Markdown to HTML with paragraph cross-linking
-function md(text: string): string {
+function inlineMd(text: string): string {
   return text
-    .replace(/^### (.+)$/gm, '<h3 id="$1">$1</h3>')
-    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^# (.+)$/gm, '<h1>$1</h1>')
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
-    .replace(/^---$/gm, '<hr />')
-    .replace(/^\| (.+)$/gm, (_m: string, row: string) => {
-      const cells = row.split('|').map((c: string) => c.trim()).filter(Boolean)
-      return `<tr>${cells.map((c: string) => `<td style="padding:4px 12px;border-bottom:1px solid #e5e3de">${c}</td>`).join('')}</tr>`
-    })
-    // Cross-link: "§ 573 BGB" or "§§ 185, 186 StGB" → clickable
     .replace(/§§?\s*(\d+\w*(?:\s*(?:Abs\.|Absatz|Nr\.|Nummer|Satz|Buchst\.)\s*\d+\w*)*)\s+((?:SGB\s+[IVX]+|[A-ZÄÖÜ][A-Za-zÄÖÜäöü]+))/g,
       (_match: string, num: string, abbr: string) => {
         const lawId = lawAbbrevMap[abbr.trim()]
@@ -54,8 +43,26 @@ function md(text: string): string {
         }
         return `§ ${num} ${abbr}`
       })
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/^(?!<[h|b|t|p|a])/gm, '')
+}
+
+// Markdown to HTML with paragraph cross-linking
+function md(text: string): string {
+  return text
+    .split('\n')
+    .map(line => {
+      const trimmed = line.trim()
+      if (!trimmed) return ''
+      if (trimmed === '---') return '<hr />'
+      if (trimmed.startsWith('### ')) {
+        const title = trimmed.slice(4)
+        return `<h3 id="${title}">${inlineMd(title)}</h3>`
+      }
+      if (trimmed.startsWith('## ')) return `<h2>${inlineMd(trimmed.slice(3))}</h2>`
+      if (trimmed.startsWith('# ')) return `<h1>${inlineMd(trimmed.slice(2))}</h1>`
+      if (trimmed.startsWith('> ')) return `<blockquote>${inlineMd(trimmed.slice(2))}</blockquote>`
+      return `<p>${inlineMd(trimmed)}</p>`
+    })
+    .join('\n')
 }
 
 function App() {
@@ -72,7 +79,7 @@ function App() {
   const [showExplain, setShowExplain] = useState(false)
   const [liveExplaining, setLiveExplaining] = useState(false)
   const [liveExplanation, setLiveExplanation] = useState('')
-  const [activeTab, setActiveTab] = useState<'gesetze' | 'reformen' | 'fragen' | 'briefe' | 'widersprueche'>('gesetze')
+  const [activeTab, setActiveTab] = useState<'gesetze' | 'reformen' | 'fragen' | 'briefe' | 'widersprueche'>('fragen')
   const [activeTemplate, setActiveTemplate] = useState<string | null>(null)
   const [templateFields, setTemplateFields] = useState<Record<string, string>>({})
   const [generatedLetter, setGeneratedLetter] = useState('')
@@ -81,6 +88,7 @@ function App() {
   const [chatLoading, setChatLoading] = useState(false)
   const [selectedPersona, setSelectedPersona] = useState<string | null>(null)
   const [language, setLanguage] = useState<string>('de')
+  const [lawError, setLawError] = useState('')
 
   // Expose loadLaw for cross-linking from rendered HTML
   useEffect(() => {
@@ -111,15 +119,31 @@ function App() {
   const loadLaw = (id: string) => {
     setSelectedLaw(id)
     setLawContent('')
+    setLawError('')
     setExplanations(null)
     setShowExplain(false)
     setLiveExplanation('')
     const law = laws.find(l => l.id === id)
     if (!law) return
     fetch(`./laws/${law.file}`)
-      .then(r => r.text())
-      .then(text => setLawContent(text))
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`)
+        return r.text()
+      })
+      .then(text => {
+        setLawContent(text)
+        if (!text.trim()) setLawError('Dieser Gesetzestext ist gerade leer oder konnte nicht sauber geladen werden.')
+      })
+      .catch(() => {
+        setLawError('Dieser Gesetzestext konnte gerade nicht geladen werden. Bitte versuche es erneut.')
+      })
     loadExplanations(id).then(e => setExplanations(e))
+  }
+
+  function startQuestionFlow(question: string) {
+    setActiveTab('fragen')
+    setChatInput(question)
+    window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   // Highlight search in content
@@ -271,7 +295,7 @@ function App() {
         {/* Law content */}
         <main className="max-w-3xl mx-auto px-5 py-8">
           {!lawContent ? (
-            <div className="text-center py-20 text-ink-muted">Lade Gesetzestext...</div>
+            <div className="text-center py-20 text-ink-muted">{lawError || 'Lade Gesetzestext...'}</div>
           ) : (
             <>
               <div className="law-content" style={{ fontSize: `${fontSize}px` }} dangerouslySetInnerHTML={{ __html: html }} />
@@ -310,8 +334,8 @@ function App() {
               Git<span className="text-gold">Law</span>
             </h1>
           </div>
-          <p className="text-ink-soft text-lg mb-6 max-w-md mx-auto">
-            Alle 5.936 Bundesgesetze. Durchsuchbar. Lesbar. Transparent.
+          <p className="text-ink-soft text-lg mb-6 max-w-xl mx-auto">
+            Stell zuerst deine Rechtsfrage. GitLaw zeigt dir die passenden Gesetze, erklärt sie einfacher und führt dich erst danach in den Volltext.
           </p>
           <button onClick={() => setDarkMode(!darkMode)}
             className="text-xs text-ink-muted hover:text-gold transition-colors cursor-pointer mb-6">
@@ -338,19 +362,54 @@ function App() {
             </div>
           </div>
 
-          {/* Quick topics — geführter Einstieg für Werner (P1) */}
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 mb-8 max-w-2xl mx-auto">
+          <div className="max-w-2xl mx-auto bg-white border border-border rounded-3xl p-4 sm:p-5 shadow-sm mb-6 text-left">
+            <p className="text-xs font-bold text-gold uppercase tracking-widest mb-2">Am einfachsten starten</p>
+            <h2 className="font-display text-2xl sm:text-3xl mb-2">1. Frage stellen 2. Antwort lesen 3. Gesetz bei Bedarf öffnen</h2>
+            <p className="text-sm text-ink-muted mb-4">
+              Du musst nicht wissen, welches Gesetz du brauchst. Beschreibe einfach dein Problem in normaler Sprache.
+            </p>
+            <div className="relative">
+              <MessageCircle className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-ink-muted" />
+              <input
+                type="text"
+                placeholder="Zum Beispiel: Mein Vermieter will Eigenbedarf anmelden - was kann ich tun?"
+                value={chatInput}
+                onChange={e => {
+                  setActiveTab('fragen')
+                  setChatInput(e.target.value)
+                }}
+                className="w-full pl-12 pr-4 py-4 rounded-2xl border border-border bg-card text-base sm:text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
+              />
+            </div>
+            <div className="mt-3 flex flex-wrap gap-2">
+              <button onClick={() => startQuestionFlow('Mein Vermieter will Eigenbedarf anmelden - was kann ich tun?')}
+                className="px-3 py-2 rounded-xl text-sm bg-bg-alt border border-border hover:border-gold/30 cursor-pointer">
+                Mietrecht
+              </button>
+              <button onClick={() => startQuestionFlow('Mein Chef will mich kuendigen - was kann ich tun?')}
+                className="px-3 py-2 rounded-xl text-sm bg-bg-alt border border-border hover:border-gold/30 cursor-pointer">
+                Arbeitsrecht
+              </button>
+              <button onClick={() => startQuestionFlow('Ich habe einen Strafbefehl bekommen - was ist jetzt wichtig?')}
+                className="px-3 py-2 rounded-xl text-sm bg-bg-alt border border-border hover:border-gold/30 cursor-pointer">
+                Strafrecht
+              </button>
+            </div>
+          </div>
+
+          {/* Quick topics — question-first */}
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 mb-8 max-w-4xl mx-auto">
             {[
-              { emoji: '🏠', label: 'Miete & Wohnen', q: 'Mietrecht' },
-              { emoji: '💼', label: 'Arbeit & Job', q: 'Arbeitsrecht' },
-              { emoji: '💰', label: 'Geld & Steuern', q: 'Einkommensteuer' },
-              { emoji: '👶', label: 'Familie & Kinder', q: 'Elternzeit' },
-              { emoji: '🏥', label: 'Gesundheit', q: 'Krankenversicherung' },
-              { emoji: '🏦', label: 'Rente', q: 'Rentenversicherung' },
-              { emoji: '🐾', label: 'Tierschutz', q: 'Tierschutz' },
-              { emoji: '🌐', label: 'Internet & Recht', q: 'Netzwerkdurchsetzung' },
+              { emoji: '🏠', label: 'Miete & Wohnen', q: 'Mein Vermieter will die Miete erhoehen - was darf er?' },
+              { emoji: '💼', label: 'Arbeit & Job', q: 'Mein Chef will mich kuendigen - was kann ich tun?' },
+              { emoji: '💰', label: 'Geld & Steuern', q: 'Welche Steuern muss ich als Arbeitnehmer oder Freelancer zahlen?' },
+              { emoji: '👶', label: 'Familie & Kinder', q: 'Wie lange habe ich Elternzeit und wie viel Elterngeld bekomme ich?' },
+              { emoji: '🏥', label: 'Gesundheit', q: 'Was zahlt meine Krankenkasse und wann habe ich Anspruch auf Krankengeld?' },
+              { emoji: '🏦', label: 'Rente', q: 'Wann kann ich in Rente gehen und wie funktioniert die Rentenversicherung?' },
+              { emoji: '🐾', label: 'Tierschutz', q: 'Was ist nach dem Tierschutzgesetz verboten und wie melde ich Tierquaelerei?' },
+              { emoji: '🌐', label: 'Internet & Recht', q: 'Jemand beleidigt mich online - welche Rechte habe ich?' },
             ].map(t => (
-              <button key={t.q} onClick={() => { setSearch(t.q); setActiveTab('gesetze') }}
+              <button key={t.q} onClick={() => startQuestionFlow(t.q)}
                 className="flex items-center gap-2 p-3 rounded-xl bg-card border border-border hover:border-gold/30 hover:shadow-sm transition-all cursor-pointer text-left">
                 <span className="text-xl">{t.emoji}</span>
                 <span className="text-sm font-medium text-ink">{t.label}</span>
@@ -358,18 +417,17 @@ function App() {
             ))}
           </div>
 
-          <p className="text-sm text-ink-muted mb-4">oder suche direkt:</p>
+          <p className="text-sm text-ink-muted mb-4">Oder wenn du schon weißt, welches Gesetz du suchst:</p>
 
           {/* Search */}
           <div className="max-w-lg mx-auto relative">
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-ink-muted" />
             <input
               type="text"
-              placeholder="Gesetz suchen... z.B. 'Grundgesetz' oder 'StGB'"
+              placeholder="Gesetz suchen, z. B. Grundgesetz oder StGB"
               value={search}
-              onChange={e => setSearch(e.target.value)}
+              onChange={e => { setSearch(e.target.value); setActiveTab('gesetze') }}
               className="w-full pl-12 pr-4 py-4 rounded-2xl border border-border bg-card text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
-              autoFocus
             />
           </div>
         </div>
@@ -378,6 +436,10 @@ function App() {
       {/* Tab bar */}
       <div className="bg-bg border-b border-border">
         <div className="max-w-5xl mx-auto px-5 flex gap-1 pt-2 items-center flex-wrap">
+          <button onClick={() => setActiveTab('fragen')}
+            className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'fragen' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
+            <MessageCircle className="w-4 h-4 inline mr-1.5" />Frage stellen
+          </button>
           <button onClick={() => setActiveTab('gesetze')}
             className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'gesetze' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
             <FileText className="w-4 h-4 inline mr-1.5" />Gesetze durchsuchen
@@ -385,10 +447,6 @@ function App() {
           <button onClick={() => setActiveTab('reformen')}
             className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'reformen' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
             <GitCompare className="w-4 h-4 inline mr-1.5" />Reform-Diffs
-          </button>
-          <button onClick={() => setActiveTab('fragen')}
-            className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'fragen' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
-            <MessageCircle className="w-4 h-4 inline mr-1.5" />Frage stellen
           </button>
           <button onClick={() => setActiveTab('briefe')}
             className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'briefe' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
@@ -470,8 +528,8 @@ function App() {
         <main className="max-w-3xl mx-auto px-5 py-8">
           <div className="text-center mb-8">
             <p className="text-sm text-gold font-bold uppercase tracking-widest mb-2">Persönlicher Rechts-Assistent</p>
-            <h2 className="font-display text-3xl mb-3">Wer bist du?</h2>
-            <p className="text-ink-muted max-w-md mx-auto">Wähle dein Profil — die Antwort wird auf DEINE Situation zugeschnitten. Basierend auf echten Gesetzestexten.</p>
+            <h2 className="font-display text-3xl mb-3">Stell deine Frage in normaler Sprache</h2>
+            <p className="text-ink-muted max-w-md mx-auto">GitLaw versucht zuerst dein Problem zu verstehen, antwortet einfacher und zeigt dir danach die passenden Gesetze dazu.</p>
           </div>
 
           {/* Persona selection */}
@@ -667,10 +725,19 @@ function App() {
                 const history = chatMessages.map(m => ({ role: m.role, content: m.text }))
                 const persona = selectedPersona ? personaDesc[selectedPersona] : undefined
                 const langSuffix = language !== 'de' ? ` Antworte auf ${{'easy':'sehr einfachem Deutsch (Leichte Sprache, kurze Sätze, kein Fachvokabular)','tr':'Türkisch','ar':'Arabisch','en':'Englisch','uk':'Ukrainisch'}[language] || 'Deutsch'}.` : ''
-                askLegalQuestion(question + langSuffix, persona, history).then(result => {
-                  setChatMessages(prev => [...prev, { role: 'assistant' as const, text: result.answer, sources: result.sources }])
-                  setChatLoading(false)
-                })
+                askLegalQuestion(question + langSuffix, persona, history)
+                  .then(result => {
+                    setChatMessages(prev => [...prev, { role: 'assistant' as const, text: result.answer, sources: result.sources }])
+                    setChatLoading(false)
+                  })
+                  .catch(() => {
+                    setChatMessages(prev => [...prev, {
+                      role: 'assistant' as const,
+                      text: 'Ich konnte dazu gerade keine brauchbare Antwort laden. Bitte versuche die Frage konkreter oder etwas später noch einmal.',
+                      sources: [],
+                    }])
+                    setChatLoading(false)
+                  })
               }
             }
             return (
@@ -713,9 +780,9 @@ function App() {
                 </div>
               ))}
               {chatLoading && (
-                <div className="flex justify-start"><div className="bg-card border border-border rounded-2xl px-5 py-3 text-sm text-ink-muted">Suche in Gesetzen...</div></div>
+                <div className="flex justify-start"><div className="bg-card border border-border rounded-2xl px-5 py-3 text-sm text-ink-muted">Suche nach passenden Gesetzen und Erklaerungen...</div></div>
               )}
-              <p className="text-center text-[11px] text-gold">⚠️ Keine Rechtsberatung. Bei konkreten Fragen → Anwalt.</p>
+              <p className="text-center text-[11px] text-gold">⚠️ Keine Rechtsberatung. GitLaw ist ein erster Orientierungsschritt, keine anwaltliche Pruefung.</p>
             </div>
           )}
         </main>
