@@ -115,7 +115,11 @@ export function detectCitizenIntent(question: string): CitizenIntent | null {
   const scored = citizenIntents
     .map(intent => ({
       intent,
-      score: intent.terms.reduce((acc, term) => acc + (q.includes(term) ? 1 : 0), 0),
+      score: intent.terms.reduce((acc, term) => {
+        if (!q.includes(term)) return acc
+        const phraseWeight = term.includes(' ') ? 100 : 10
+        return acc + phraseWeight + term.length
+      }, 0),
     }))
     .filter(item => item.score > 0)
     .sort((a, b) => b.score - a.score)
