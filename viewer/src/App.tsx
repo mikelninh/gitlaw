@@ -65,6 +65,10 @@ function md(text: string): string {
     .join('\n')
 }
 
+function publicPath(baseUrl: string, path: string): string {
+  return `${baseUrl || '/'}${path}`.replace(/([^:]\/)\/+/g, '$1')
+}
+
 function App() {
   const baseUrl = import.meta.env.BASE_URL
   const [laws, setLaws] = useState<LawEntry[]>([])
@@ -114,7 +118,7 @@ function App() {
 
   // Load index
   useEffect(() => {
-    fetch('./law-index.json')
+    fetch(publicPath(baseUrl, 'law-index.json'))
       .then(r => r.json())
       .then(data => { setLaws(data); setLoading(false) })
       .catch(() => setLoading(false))
@@ -141,7 +145,7 @@ function App() {
     setLiveExplanation('')
     const law = laws.find(l => l.id === id)
     if (!law) return
-    fetch(`./laws/${law.file}`)
+    fetch(publicPath(baseUrl, `laws/${law.file}`))
       .then(r => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`)
         return r.text()

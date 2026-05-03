@@ -16,12 +16,17 @@ export interface Explanations {
 
 // Cache loaded explanations
 const cache: Record<string, Explanations> = {}
+const PUBLIC_BASE = import.meta.env.BASE_URL || '/'
+
+function publicPath(path: string) {
+  return `${PUBLIC_BASE}${path}`.replace(/([^:]\/)\/+/g, '$1')
+}
 
 export async function loadExplanations(lawId: string): Promise<Explanations | null> {
   if (cache[lawId]) return cache[lawId]
 
   try {
-    const resp = await fetch(`./explanations/${lawId}.json`)
+    const resp = await fetch(publicPath(`explanations/${lawId}.json`))
     if (!resp.ok) return null
     const data = await resp.json()
     cache[lawId] = data

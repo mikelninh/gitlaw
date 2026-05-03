@@ -2,9 +2,6 @@
   "buildCommand": "cd viewer && npm install && npm run build",
   "outputDirectory": "viewer/dist",
   "framework": null,
-  "rewrites": [
-    { "source": "/((?!api/).*)", "destination": "/index.html" }
-  ],
   "headers": [
     {
       "source": "/api/(.*)",

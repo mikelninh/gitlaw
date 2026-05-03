@@ -12,6 +12,11 @@ import OpenAI from 'openai'
 import Fuse from 'fuse.js'
 
 const API_KEY = import.meta.env.VITE_OPENAI_API_KEY || ''
+const PUBLIC_BASE = import.meta.env.BASE_URL || '/'
+
+function publicPath(path: string) {
+  return `${PUBLIC_BASE}${path}`.replace(/([^:]\/)\/+/g, '$1')
+}
 
 interface LawChunk {
   law: string
@@ -24,6 +29,12 @@ interface LawIndexEntry {
   title: string
   abbreviation: string
   file: string
+}
+
+interface SectionHint {
+  lawId: string
+  terms: string[]
+  preferredSections: string[]
 }
 
 // Comprehensive keyword → law mapping (multiple synonyms per topic)
@@ -145,9 +156,38 @@ const personaLaws: Record<string, string[]> = {
   'arbeitslos': ['sgb_2', 'sgb_5'],
 }
 
+const sectionHints: SectionHint[] = [
+  {
+    lawId: 'bgb',
+    terms: ['eigenbedarf', 'vermieter', 'wohnung', 'kuendigen'],
+    preferredSections: ['§ 573', '§ 574'],
+  },
+  {
+    lawId: 'bgb',
+    terms: ['miete', 'mieterhoehung', 'nebenkosten', 'mietminderung'],
+    preferredSections: ['§ 535', '§ 536', '§ 558'],
+  },
+  {
+    lawId: 'kschg',
+    terms: ['kuendigen', 'kuendigung', 'chef', 'arbeitgeber', 'arbeitsplatz'],
+    preferredSections: ['§ 1', '§ 4'],
+  },
+  {
+    lawId: 'arbzg',
+    terms: ['arbeitszeit', 'ueberstunden', 'pause', 'ruhezeit'],
+    preferredSections: ['§ 3', '§ 4', '§ 5'],
+  },
+  {
+    lawId: 'tierschg',
+    terms: ['tierquaelerei', 'tierquälerei', 'tierschutz', 'tier', 'hund', 'katze'],
+    preferredSections: ['§ 3', '§ 17', '§ 18'],
+  },
+]
+
 async function findRelevantChunks(question: string, persona?: string): Promise<LawChunk[]> {
   const chunks: LawChunk[] = []
   const q = question.toLowerCase()
+  const matchedHints = sectionHints.filter(h => h.terms.some(term => q.includes(term)))
 
   // Find relevant laws by topic keywords
   const relevantLaws = new Set<string>()
@@ -165,6 +205,8 @@ async function findRelevantChunks(question: string, persona?: string): Promise<L
       personaLaws[pKey].forEach(l => relevantLaws.add(l))
     }
   }
+
+  matchedHints.forEach(h => relevantLaws.add(h.lawId))
 
   // If still nothing, try individual words
   if (relevantLaws.size === 0) {
@@ -188,7 +230,7 @@ async function findRelevantChunks(question: string, persona?: string): Promise<L
   // Load explanations for relevant laws
   for (const lawId of relevantLaws) {
     try {
-      const resp = await fetch(`./explanations/${lawId}.json`)
+      const resp = await fetch(publicPath(`explanations/${lawId}.json`))
       if (!resp.ok) continue
       const data = await resp.json()
       for (const [section, explanation] of Object.entries(data.explanations)) {
@@ -198,7 +240,7 @@ async function findRelevantChunks(question: string, persona?: string): Promise<L
   }
 
   if (chunks.length === 0) {
-    const lawIndexResp = await fetch('./law-index.json')
+    const lawIndexResp = await fetch(publicPath('law-index.json'))
     const lawIndex: LawIndexEntry[] = lawIndexResp.ok ? await lawIndexResp.json() : []
     const fallbackChunks: LawChunk[] = []
 
@@ -206,13 +248,16 @@ async function findRelevantChunks(question: string, persona?: string): Promise<L
       const lawMeta = lawIndex.find(l => l.id === lawId)
       if (!lawMeta) continue
       try {
-        const resp = await fetch(`./laws/${lawMeta.file}`)
+        const resp = await fetch(publicPath(`laws/${lawMeta.file}`))
         if (!resp.ok) continue
         const text = await resp.text()
         const blocks = text
           .split(/\n### /g)
           .map((block, index) => index === 0 ? block : `### ${block}`)
           .filter(Boolean)
+        const hintsForLaw = matchedHints
+          .filter(h => h.lawId === lawId)
+          .flatMap(h => h.preferredSections)
         const blockDocs = blocks.map(block => {
           const firstLine = block.split('\n')[0]?.trim() || lawMeta.title
           return {
@@ -221,13 +266,27 @@ async function findRelevantChunks(question: string, persona?: string): Promise<L
             text: block.slice(0, 1200),
           }
         })
+        const hintedBlocks = hintsForLaw.length > 0
+          ? blockDocs.filter(block =>
+              hintsForLaw.some(section => block.section.includes(section)) ||
+              matchedHints.some(h => h.lawId === lawId && h.terms.some(term => block.text.toLowerCase().includes(term))),
+            )
+          : []
         const blockFuse = new Fuse(blockDocs, {
           keys: ['section', 'text'],
-          threshold: 0.35,
+          threshold: 0.45,
           ignoreLocation: true,
         })
         const blockMatches = blockFuse.search(question).slice(0, 3).map(r => r.item)
-        fallbackChunks.push(...(blockMatches.length > 0 ? blockMatches : blockDocs.slice(0, 2)))
+        const preferred = hintedBlocks.length > 0 ? hintedBlocks.slice(0, 3) : []
+        const selected = [...preferred, ...blockMatches]
+          .filter((item, index, arr) =>
+            arr.findIndex(candidate =>
+              candidate.section === item.section && candidate.law === item.law,
+            ) === index,
+          )
+          .slice(0, 4)
+        fallbackChunks.push(...(selected.length > 0 ? selected : blockDocs.slice(0, 2)))
       } catch {
         // ignore fallback law load failure
       }
