@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect, useMemo, useRef } from 'react'
 import { Search, ArrowLeft, Scale, FileText, ExternalLink, Sparkles, Lightbulb, MessageCircle, Download, Share2 } from 'lucide-react'
 import Fuse from 'fuse.js'
 import { loadExplanations, reformDiffs, type Explanations } from './explain'
@@ -89,6 +89,7 @@ function App() {
   const [selectedPersona, setSelectedPersona] = useState<string | null>(null)
   const [language, setLanguage] = useState<string>('de')
   const [lawError, setLawError] = useState('')
+  const questionPanelRef = useRef<HTMLElement | null>(null)
 
   const personaDesc: Record<string, string> = {
     student: 'Student/in, jung, wenig Einkommen, WG, eventuell BAföG',
@@ -158,7 +159,7 @@ function App() {
   function startQuestionFlow(question: string) {
     setActiveTab('fragen')
     setChatInput(question)
-    window.scrollTo({ top: 0, behavior: 'smooth' })
+    questionPanelRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
   }
 
   function openSource(source: { law: string; section: string }) {
@@ -175,9 +176,10 @@ function App() {
     setActiveTab('gesetze')
   }
 
-  function submitQuestion() {
-    if (!chatInput.trim() || chatLoading) return
-    const question = chatInput.trim()
+  function submitQuestion(questionOverride?: string) {
+    if (chatLoading) return
+    const question = (questionOverride ?? chatInput).trim()
+    if (!question) return
     setChatInput('')
     setChatLoading(true)
     setActiveTab('fragen')
@@ -421,31 +423,25 @@ function App() {
 
           <div className="max-w-2xl mx-auto bg-white border border-border rounded-3xl p-4 sm:p-5 shadow-sm mb-6 text-left">
             <p className="text-xs font-bold text-gold uppercase tracking-widest mb-2">Am einfachsten starten</p>
-            <h2 className="font-display text-2xl sm:text-3xl mb-2">1. Frage stellen 2. Antwort lesen 3. Gesetz bei Bedarf öffnen</h2>
+            <h2 className="font-display text-2xl sm:text-3xl mb-2">Beschreibe dein Problem. GitLaw sucht erst die Antwort, nicht erst das Gesetz.</h2>
             <p className="text-sm text-ink-muted mb-4">
-              Du musst nicht wissen, welches Gesetz du brauchst. Beschreibe einfach dein Problem in normaler Sprache.
+              Wenn du nicht weißt, welches Gesetz du brauchst, ist das normal. Starte unten mit einer Frage in normaler Sprache.
             </p>
-            <div className="relative">
-              <MessageCircle className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-ink-muted" />
-              <input
-                type="text"
-                placeholder="Zum Beispiel: Mein Vermieter will Eigenbedarf anmelden - was kann ich tun?"
-                value={chatInput}
-                onChange={e => {
-                  setActiveTab('fragen')
-                  setChatInput(e.target.value)
-                }}
-                onKeyDown={e => { if (e.key === 'Enter') submitQuestion() }}
-                className="w-full pl-12 pr-4 py-4 rounded-2xl border border-border bg-card text-base sm:text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
-              />
-            </div>
             <div className="mt-3 flex items-center gap-2 flex-wrap">
               <button
-                onClick={submitQuestion}
-                disabled={!chatInput.trim() || chatLoading}
+                onClick={() => {
+                  setActiveTab('fragen')
+                  questionPanelRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+                }}
+                className="px-4 py-2 rounded-xl bg-gold text-white text-sm font-medium hover:bg-gold/90 cursor-pointer"
+              >
+                Jetzt Frage stellen
+              </button>
+              <button
+                onClick={() => startQuestionFlow('Mein Vermieter will Eigenbedarf anmelden - was kann ich tun?')}
                 className="px-4 py-2 rounded-xl bg-gold text-white text-sm font-medium hover:bg-gold/90 disabled:opacity-50 cursor-pointer"
               >
-                Frage stellen
+                Beispiel starten
               </button>
               <button onClick={() => startQuestionFlow('Mein Vermieter will Eigenbedarf anmelden - was kann ich tun?')}
                 className="px-3 py-2 rounded-xl text-sm bg-bg-alt border border-border hover:border-gold/30 cursor-pointer">
@@ -482,19 +478,19 @@ function App() {
             ))}
           </div>
 
-          <p className="text-sm text-ink-muted mb-4">Oder wenn du schon weißt, welches Gesetz du suchst:</p>
-
-          {/* Search */}
-          <div className="max-w-lg mx-auto relative">
-            <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-ink-muted" />
-            <input
-              type="text"
-              placeholder="Gesetz suchen, z. B. Grundgesetz oder StGB"
-              value={search}
-              onChange={e => { setSearch(e.target.value); setActiveTab('gesetze') }}
-              className="w-full pl-12 pr-4 py-4 rounded-2xl border border-border bg-card text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
-            />
-          </div>
+          <details className="max-w-lg mx-auto text-left">
+            <summary className="cursor-pointer text-sm text-ink-muted">Ich weiß schon, welches Gesetz ich suche</summary>
+            <div className="relative mt-4">
+              <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-ink-muted" />
+              <input
+                type="text"
+                placeholder="Gesetz suchen, z. B. Grundgesetz oder StGB"
+                value={search}
+                onChange={e => { setSearch(e.target.value); setActiveTab('gesetze') }}
+                className="w-full pl-12 pr-4 py-4 rounded-2xl border border-border bg-card text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
+              />
+            </div>
+          </details>
         </div>
       </header>
 
@@ -522,17 +518,6 @@ function App() {
             >
               Pro für Anwält:innen
             </a>
-          </div>
-          <div className="flex gap-2 items-center flex-wrap mt-3 text-sm">
-            <span className="text-[10px] uppercase tracking-widest font-semibold text-ink-muted mr-1">Mehr</span>
-            <button onClick={() => setActiveTab('reformen')}
-              className={`px-3 py-1.5 rounded-lg transition-colors cursor-pointer ${activeTab === 'reformen' ? 'bg-gold-light text-ink border border-gold/20' : 'text-ink-muted hover:text-ink'}`}>
-              Reform-Diffs
-            </button>
-            <button onClick={() => setActiveTab('widersprueche')}
-              className={`px-3 py-1.5 rounded-lg transition-colors cursor-pointer ${activeTab === 'widersprueche' ? 'bg-gold-light text-ink border border-gold/20' : 'text-ink-muted hover:text-ink'}`}>
-              Widersprüche
-            </button>
           </div>
         </div>
       </div>
@@ -596,15 +581,59 @@ function App() {
         </main>
       ) : activeTab === 'fragen' ? (
         /* ── FRAGEN TAB (RAG) — PERSONALISIERT ── */
-        <main className="max-w-3xl mx-auto px-5 py-8">
+        <main ref={questionPanelRef} className="max-w-3xl mx-auto px-5 py-8">
           <div className="text-center mb-8">
             <p className="text-sm text-gold font-bold uppercase tracking-widest mb-2">Persönlicher Rechts-Assistent</p>
             <h2 className="font-display text-3xl mb-3">Stell deine Frage in normaler Sprache</h2>
             <p className="text-ink-muted max-w-md mx-auto">GitLaw versucht zuerst dein Problem zu verstehen, antwortet einfacher und zeigt dir danach die passenden Gesetze dazu.</p>
           </div>
 
-          {chatMessages.length > 0 && (
-            <div className="space-y-3 mb-8">
+          <div className="bg-card border border-border rounded-3xl p-4 sm:p-5 shadow-sm mb-6">
+            <label className="block text-sm font-medium text-ink mb-2">Deine Frage</label>
+            <div className="sm:flex sm:items-end sm:gap-3">
+              <div className="relative flex-1">
+                <MessageCircle className="absolute left-4 top-4 w-5 h-5 text-ink-muted" />
+                <textarea
+                  placeholder="Zum Beispiel: Mein Vermieter will Eigenbedarf anmelden - was kann ich tun?"
+                  value={chatInput}
+                  onChange={e => setChatInput(e.target.value)}
+                  rows={3}
+                  className="w-full min-h-[120px] pl-12 pr-4 py-4 rounded-2xl border border-border bg-white text-base shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all resize-y"
+                />
+              </div>
+              <button
+                onClick={() => submitQuestion()}
+                disabled={!chatInput.trim() || chatLoading}
+                className="mt-3 sm:mt-0 w-full sm:w-auto px-5 py-3 rounded-2xl bg-gold text-white text-sm font-medium hover:bg-gold/90 disabled:opacity-50 cursor-pointer"
+              >
+                Antwort holen
+              </button>
+            </div>
+            <div className="mt-3 flex items-center gap-2 flex-wrap">
+              {[
+                'Mein Vermieter will Eigenbedarf anmelden - was kann ich tun?',
+                'Mein Chef will mich kuendigen - was kann ich tun?',
+                'Was ist nach dem Tierschutzgesetz verboten und wie melde ich Tierquaelerei?',
+              ].map(q => (
+                <button
+                  key={q}
+                  onClick={() => submitQuestion(q)}
+                  className="px-3 py-2 rounded-xl text-sm bg-bg-alt border border-border hover:border-gold/30 cursor-pointer text-left"
+                >
+                  {q}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div className="space-y-3 mb-8">
+            {chatMessages.length === 0 && !chatLoading && (
+              <div className="bg-bg-alt border border-border rounded-2xl p-5 text-sm text-ink-muted">
+                Hier erscheint direkt deine Antwort. Erst wenn du willst, öffnest du danach das passende Gesetz im Volltext.
+              </div>
+            )}
+            {chatMessages.length > 0 && (
+              <>
               {chatMessages.map((msg, i) => (
                 <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
                   <div className={`max-w-[85%] rounded-2xl p-4 ${msg.role === 'user' ? 'bg-gold text-white' : 'bg-card border border-border'}`}>
@@ -636,12 +665,13 @@ function App() {
                   </div>
                 </div>
               ))}
-              {chatLoading && (
-                <div className="flex justify-start"><div className="bg-card border border-border rounded-2xl px-5 py-3 text-sm text-ink-muted">Suche nach passenden Gesetzen und Erklaerungen...</div></div>
-              )}
-              <p className="text-center text-[11px] text-gold">⚠️ Keine Rechtsberatung. GitLaw ist ein erster Orientierungsschritt, keine anwaltliche Pruefung.</p>
-            </div>
-          )}
+              </>
+            )}
+            {chatLoading && (
+              <div className="flex justify-start"><div className="bg-card border border-border rounded-2xl px-5 py-3 text-sm text-ink-muted">Suche nach passenden Gesetzen und Erklaerungen...</div></div>
+            )}
+            <p className="text-center text-[11px] text-gold">⚠️ Keine Rechtsberatung. GitLaw ist ein erster Orientierungsschritt, keine anwaltliche Pruefung.</p>
+          </div>
 
           <details className="mb-6 bg-bg-alt border border-border rounded-2xl p-4">
             <summary className="cursor-pointer text-sm font-medium text-ink">Optional: Antwort auf meine Situation zuschneiden</summary>
