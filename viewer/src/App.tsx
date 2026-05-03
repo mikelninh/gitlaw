@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { Search, ArrowLeft, Scale, FileText, ExternalLink, Sparkles, GitCompare, Lightbulb, MessageCircle, Send, Download, Share2 } from 'lucide-react'
+import { Search, ArrowLeft, Scale, FileText, ExternalLink, Sparkles, Lightbulb, MessageCircle, Send, Download, Share2 } from 'lucide-react'
 import Fuse from 'fuse.js'
 import { loadExplanations, reformDiffs, type Explanations } from './explain'
 import { askLegalQuestion } from './rag'
@@ -90,6 +90,21 @@ function App() {
   const [language, setLanguage] = useState<string>('de')
   const [lawError, setLawError] = useState('')
 
+  const personaDesc: Record<string, string> = {
+    student: 'Student/in, jung, wenig Einkommen, WG, eventuell BAföG',
+    arbeitnehmer: 'Angestellt, Vollzeit, sozialversicherungspflichtig',
+    selbststaendig: 'Selbstständig/Freelancer, keine automatische Absicherung',
+    elternteil: 'Verheiratet mit Kindern, Doppelverdiener oder Alleinverdiener',
+    alleinerziehend: 'Alleinerziehend, ein Einkommen, Kind(er) im Haushalt',
+    rentner: 'Im Ruhestand, 65+, lebt von Rente',
+    mieter: 'Mieter/in einer Wohnung',
+    vermieter: 'Vermieter/in, besitzt vermietete Immobilie(n)',
+    azubi: 'In der Berufsausbildung, geringes Einkommen',
+    migrant: 'Nicht-deutsche Staatsangehörigkeit, lebt in Deutschland',
+    schwanger: 'Schwanger oder gerade Mutter geworden, im Arbeitsverhältnis',
+    arbeitslos: 'Arbeitsuchend, bezieht Bürgergeld oder ALG I',
+  }
+
   // Expose loadLaw for cross-linking from rendered HTML
   useEffect(() => {
     (window as any).__loadLaw = loadLaw
@@ -144,6 +159,48 @@ function App() {
     setActiveTab('fragen')
     setChatInput(question)
     window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+
+  function openSource(source: { law: string; section: string }) {
+    const match = laws.find(l =>
+      l.title === source.law ||
+      l.abbreviation === source.law ||
+      l.title.toLowerCase().includes(source.law.toLowerCase()),
+    )
+    if (match) {
+      loadLaw(match.id)
+      return
+    }
+    setSearch(source.law)
+    setActiveTab('gesetze')
+  }
+
+  function submitQuestion() {
+    if (!chatInput.trim() || chatLoading) return
+    const question = chatInput.trim()
+    setChatInput('')
+    setChatLoading(true)
+    setActiveTab('fragen')
+    const newMsgs = [...chatMessages, { role: 'user' as const, text: question }]
+    setChatMessages(newMsgs)
+    const history = chatMessages.map(m => ({ role: m.role, content: m.text }))
+    const persona = selectedPersona ? personaDesc[selectedPersona] : undefined
+    const langSuffix = language !== 'de'
+      ? ` Antworte auf ${{ easy: 'sehr einfachem Deutsch (Leichte Sprache, kurze Sätze, kein Fachvokabular)', tr: 'Türkisch', ar: 'Arabisch', en: 'Englisch', uk: 'Ukrainisch' }[language] || 'Deutsch'}.`
+      : ''
+    askLegalQuestion(question + langSuffix, persona, history)
+      .then(result => {
+        setChatMessages(prev => [...prev, { role: 'assistant' as const, text: result.answer, sources: result.sources }])
+        setChatLoading(false)
+      })
+      .catch(() => {
+        setChatMessages(prev => [...prev, {
+          role: 'assistant' as const,
+          text: 'Ich konnte dazu gerade keine brauchbare Antwort laden. Bitte versuche die Frage konkreter oder etwas später noch einmal.',
+          sources: [],
+        }])
+        setChatLoading(false)
+      })
   }
 
   // Highlight search in content
@@ -378,10 +435,18 @@ function App() {
                   setActiveTab('fragen')
                   setChatInput(e.target.value)
                 }}
+                onKeyDown={e => { if (e.key === 'Enter') submitQuestion() }}
                 className="w-full pl-12 pr-4 py-4 rounded-2xl border border-border bg-card text-base sm:text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
               />
             </div>
-            <div className="mt-3 flex flex-wrap gap-2">
+            <div className="mt-3 flex items-center gap-2 flex-wrap">
+              <button
+                onClick={submitQuestion}
+                disabled={!chatInput.trim() || chatLoading}
+                className="px-4 py-2 rounded-xl bg-gold text-white text-sm font-medium hover:bg-gold/90 disabled:opacity-50 cursor-pointer"
+              >
+                Frage stellen
+              </button>
               <button onClick={() => startQuestionFlow('Mein Vermieter will Eigenbedarf anmelden - was kann ich tun?')}
                 className="px-3 py-2 rounded-xl text-sm bg-bg-alt border border-border hover:border-gold/30 cursor-pointer">
                 Mietrecht
@@ -435,34 +500,40 @@ function App() {
 
       {/* Tab bar */}
       <div className="bg-bg border-b border-border">
-        <div className="max-w-5xl mx-auto px-5 flex gap-1 pt-2 items-center flex-wrap">
-          <button onClick={() => setActiveTab('fragen')}
-            className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'fragen' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
-            <MessageCircle className="w-4 h-4 inline mr-1.5" />Frage stellen
-          </button>
-          <button onClick={() => setActiveTab('gesetze')}
-            className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'gesetze' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
-            <FileText className="w-4 h-4 inline mr-1.5" />Gesetze durchsuchen
-          </button>
-          <button onClick={() => setActiveTab('reformen')}
-            className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'reformen' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
-            <GitCompare className="w-4 h-4 inline mr-1.5" />Reform-Diffs
-          </button>
-          <button onClick={() => setActiveTab('briefe')}
-            className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'briefe' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
-            <FileText className="w-4 h-4 inline mr-1.5" />Musterbriefe
-          </button>
-          <button onClick={() => setActiveTab('widersprueche')}
-            className={`px-4 py-2.5 rounded-t-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'widersprueche' ? 'bg-bg-alt text-ink border border-border border-b-bg-alt' : 'text-ink-muted hover:text-ink'}`}>
-            ⚡ Widersprüche
-          </button>
-          <a
-            href={`${baseUrl}#/pro`}
-            className="ml-auto px-4 py-2.5 rounded-t-xl text-sm font-semibold text-gold hover:text-ink transition-colors"
-            title="Zur Pro-Version für Anwält:innen"
-          >
-            Pro für Anwält:innen
-          </a>
+        <div className="max-w-5xl mx-auto px-5 py-3">
+          <div className="flex gap-2 items-center flex-wrap">
+            <span className="text-[10px] uppercase tracking-widest font-semibold text-gold mr-1">Start</span>
+            <button onClick={() => setActiveTab('fragen')}
+              className={`px-4 py-2 rounded-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'fragen' ? 'bg-white text-ink border border-border shadow-sm' : 'text-ink-muted hover:text-ink bg-bg-alt border border-transparent'}`}>
+              <MessageCircle className="w-4 h-4 inline mr-1.5" />Frage stellen
+            </button>
+            <button onClick={() => setActiveTab('gesetze')}
+              className={`px-4 py-2 rounded-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'gesetze' ? 'bg-white text-ink border border-border shadow-sm' : 'text-ink-muted hover:text-ink bg-bg-alt border border-transparent'}`}>
+              <FileText className="w-4 h-4 inline mr-1.5" />Gesetze
+            </button>
+            <button onClick={() => setActiveTab('briefe')}
+              className={`px-4 py-2 rounded-xl text-sm font-medium transition-colors cursor-pointer ${activeTab === 'briefe' ? 'bg-white text-ink border border-border shadow-sm' : 'text-ink-muted hover:text-ink bg-bg-alt border border-transparent'}`}>
+              <FileText className="w-4 h-4 inline mr-1.5" />Briefe
+            </button>
+            <a
+              href={`${baseUrl}#/pro`}
+              className="ml-auto px-4 py-2 rounded-xl text-sm font-semibold text-gold hover:text-ink transition-colors"
+              title="Zur Pro-Version für Anwält:innen"
+            >
+              Pro für Anwält:innen
+            </a>
+          </div>
+          <div className="flex gap-2 items-center flex-wrap mt-3 text-sm">
+            <span className="text-[10px] uppercase tracking-widest font-semibold text-ink-muted mr-1">Mehr</span>
+            <button onClick={() => setActiveTab('reformen')}
+              className={`px-3 py-1.5 rounded-lg transition-colors cursor-pointer ${activeTab === 'reformen' ? 'bg-gold-light text-ink border border-gold/20' : 'text-ink-muted hover:text-ink'}`}>
+              Reform-Diffs
+            </button>
+            <button onClick={() => setActiveTab('widersprueche')}
+              className={`px-3 py-1.5 rounded-lg transition-colors cursor-pointer ${activeTab === 'widersprueche' ? 'bg-gold-light text-ink border border-gold/20' : 'text-ink-muted hover:text-ink'}`}>
+              Widersprüche
+            </button>
+          </div>
         </div>
       </div>
 
@@ -532,32 +603,34 @@ function App() {
             <p className="text-ink-muted max-w-md mx-auto">GitLaw versucht zuerst dein Problem zu verstehen, antwortet einfacher und zeigt dir danach die passenden Gesetze dazu.</p>
           </div>
 
-          {/* Persona selection */}
-          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 mb-8">
-            {[
-              { id: 'student', emoji: '📚', label: 'Student/in', desc: 'Jung, wenig Geld, WG' },
-              { id: 'arbeitnehmer', emoji: '👷', label: 'Arbeitnehmer/in', desc: 'Angestellt, Vollzeit' },
-              { id: 'selbststaendig', emoji: '💼', label: 'Selbstständig', desc: 'Freelancer, Unternehmer' },
-              { id: 'elternteil', emoji: '👨‍👩‍👧', label: 'Elternteil', desc: 'Mit Kindern' },
-              { id: 'alleinerziehend', emoji: '👩‍👧', label: 'Alleinerziehend', desc: 'Single-Mutter/Vater' },
-              { id: 'rentner', emoji: '👵', label: 'Rentner/in', desc: '65+, Rente' },
-              { id: 'mieter', emoji: '🏠', label: 'Mieter/in', desc: 'Mietwohnung' },
-              { id: 'vermieter', emoji: '🏘️', label: 'Vermieter/in', desc: 'Eigentum vermietet' },
-              { id: 'azubi', emoji: '🔧', label: 'Azubi', desc: 'In Ausbildung' },
-              { id: 'migrant', emoji: '🌍', label: 'Migrant/in', desc: 'Nicht-deutsch, in DE lebend' },
-              { id: 'schwanger', emoji: '🤰', label: 'Schwanger', desc: 'Mutterschutz/Elternzeit' },
-              { id: 'arbeitslos', emoji: '📋', label: 'Arbeitslos', desc: 'Bürgergeld/Jobsuche' },
-            ].map(p => (
-              <button key={p.id} onClick={() => setSelectedPersona(selectedPersona === p.id ? null : p.id)}
-                className={`flex items-center gap-2 p-3 rounded-xl text-left cursor-pointer transition-all ${selectedPersona === p.id ? 'bg-gold text-white shadow-md ring-2 ring-gold/30' : 'bg-card border border-border hover:border-gold/30'}`}>
-                <span className="text-xl">{p.emoji}</span>
-                <div>
-                  <span className={`text-sm font-medium ${selectedPersona === p.id ? 'text-white' : 'text-ink'}`}>{p.label}</span>
-                  <p className={`text-[11px] ${selectedPersona === p.id ? 'text-white/70' : 'text-ink-muted'}`}>{p.desc}</p>
-                </div>
-              </button>
-            ))}
-          </div>
+          <details className="mb-6 bg-bg-alt border border-border rounded-2xl p-4">
+            <summary className="cursor-pointer text-sm font-medium text-ink">Optional: Antwort auf meine Situation zuschneiden</summary>
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 mt-4">
+              {[
+                { id: 'student', emoji: '📚', label: 'Student/in', desc: 'Jung, wenig Geld, WG' },
+                { id: 'arbeitnehmer', emoji: '👷', label: 'Arbeitnehmer/in', desc: 'Angestellt, Vollzeit' },
+                { id: 'selbststaendig', emoji: '💼', label: 'Selbstständig', desc: 'Freelancer, Unternehmer' },
+                { id: 'elternteil', emoji: '👨‍👩‍👧', label: 'Elternteil', desc: 'Mit Kindern' },
+                { id: 'alleinerziehend', emoji: '👩‍👧', label: 'Alleinerziehend', desc: 'Single-Mutter/Vater' },
+                { id: 'rentner', emoji: '👵', label: 'Rentner/in', desc: '65+, Rente' },
+                { id: 'mieter', emoji: '🏠', label: 'Mieter/in', desc: 'Mietwohnung' },
+                { id: 'vermieter', emoji: '🏘️', label: 'Vermieter/in', desc: 'Eigentum vermietet' },
+                { id: 'azubi', emoji: '🔧', label: 'Azubi', desc: 'In Ausbildung' },
+                { id: 'migrant', emoji: '🌍', label: 'Migrant/in', desc: 'Nicht-deutsch, in DE lebend' },
+                { id: 'schwanger', emoji: '🤰', label: 'Schwanger', desc: 'Mutterschutz/Elternzeit' },
+                { id: 'arbeitslos', emoji: '📋', label: 'Arbeitslos', desc: 'Bürgergeld/Jobsuche' },
+              ].map(p => (
+                <button key={p.id} onClick={() => setSelectedPersona(selectedPersona === p.id ? null : p.id)}
+                  className={`flex items-center gap-2 p-3 rounded-xl text-left cursor-pointer transition-all ${selectedPersona === p.id ? 'bg-gold text-white shadow-md ring-2 ring-gold/30' : 'bg-card border border-border hover:border-gold/30'}`}>
+                  <span className="text-xl">{p.emoji}</span>
+                  <div>
+                    <span className={`text-sm font-medium ${selectedPersona === p.id ? 'text-white' : 'text-ink'}`}>{p.label}</span>
+                    <p className={`text-[11px] ${selectedPersona === p.id ? 'text-white/70' : 'text-ink-muted'}`}>{p.desc}</p>
+                  </div>
+                </button>
+              ))}
+            </div>
+          </details>
 
           {/* Language selector — P1 für Elif & Ahmed */}
           <div className="flex items-center justify-center gap-2 mb-4">
@@ -699,61 +772,17 @@ function App() {
             ))}
           </div>
 
-          {/* Input */}
-          {(() => {
-            const personaDesc: Record<string, string> = {
-              student: 'Student/in, jung, wenig Einkommen, WG, eventuell BAföG',
-              arbeitnehmer: 'Angestellt, Vollzeit, sozialversicherungspflichtig',
-              selbststaendig: 'Selbstständig/Freelancer, keine automatische Absicherung',
-              elternteil: 'Verheiratet mit Kindern, Doppelverdiener oder Alleinverdiener',
-              alleinerziehend: 'Alleinerziehend, ein Einkommen, Kind(er) im Haushalt',
-              rentner: 'Im Ruhestand, 65+, lebt von Rente',
-              mieter: 'Mieter/in einer Wohnung',
-              vermieter: 'Vermieter/in, besitzt vermietete Immobilie(n)',
-              azubi: 'In der Berufsausbildung, geringes Einkommen',
-              migrant: 'Nicht-deutsche Staatsangehörigkeit, lebt in Deutschland',
-              schwanger: 'Schwanger oder gerade Mutter geworden, im Arbeitsverhältnis',
-              arbeitslos: 'Arbeitsuchend, bezieht Bürgergeld oder ALG I',
-            }
-            const sendQuestion = () => {
-              if (chatInput.trim() && !chatLoading) {
-                const question = chatInput.trim()
-                setChatInput('')
-                setChatLoading(true)
-                const newMsgs = [...chatMessages, { role: 'user' as const, text: question }]
-                setChatMessages(newMsgs)
-                const history = chatMessages.map(m => ({ role: m.role, content: m.text }))
-                const persona = selectedPersona ? personaDesc[selectedPersona] : undefined
-                const langSuffix = language !== 'de' ? ` Antworte auf ${{'easy':'sehr einfachem Deutsch (Leichte Sprache, kurze Sätze, kein Fachvokabular)','tr':'Türkisch','ar':'Arabisch','en':'Englisch','uk':'Ukrainisch'}[language] || 'Deutsch'}.` : ''
-                askLegalQuestion(question + langSuffix, persona, history)
-                  .then(result => {
-                    setChatMessages(prev => [...prev, { role: 'assistant' as const, text: result.answer, sources: result.sources }])
-                    setChatLoading(false)
-                  })
-                  .catch(() => {
-                    setChatMessages(prev => [...prev, {
-                      role: 'assistant' as const,
-                      text: 'Ich konnte dazu gerade keine brauchbare Antwort laden. Bitte versuche die Frage konkreter oder etwas später noch einmal.',
-                      sources: [],
-                    }])
-                    setChatLoading(false)
-                  })
-              }
-            }
-            return (
-              <div className="relative mb-4">
-                <input type="text" value={chatInput} onChange={e => setChatInput(e.target.value)}
-                  onKeyDown={e => { if (e.key === 'Enter') sendQuestion() }}
-                  placeholder={chatMessages.length > 0 ? "Folgefrage stellen..." : (selectedPersona ? `Deine Frage als ${selectedPersona}...` : "Deine Rechtsfrage...")}
-                  className="w-full pl-5 pr-14 py-4 rounded-2xl border border-border bg-card text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
-                />
-                <button onClick={sendQuestion} disabled={chatLoading}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 p-2 bg-gold text-white rounded-xl hover:bg-gold/90 transition-colors cursor-pointer disabled:opacity-50">
-                  <Send className="w-5 h-5" />
-                </button>
-              </div>
-            )
-          })()}
+          <div className="relative mb-4">
+            <input type="text" value={chatInput} onChange={e => setChatInput(e.target.value)}
+              onKeyDown={e => { if (e.key === 'Enter') submitQuestion() }}
+              placeholder={chatMessages.length > 0 ? 'Folgefrage stellen...' : 'Deine Rechtsfrage...'}
+              className="w-full pl-5 pr-14 py-4 rounded-2xl border border-border bg-card text-lg shadow-sm focus:outline-none focus:border-gold focus:shadow-md transition-all"
+            />
+            <button onClick={submitQuestion} disabled={chatLoading || !chatInput.trim()}
+              className="absolute right-3 top-1/2 -translate-y-1/2 p-2 bg-gold text-white rounded-xl hover:bg-gold/90 transition-colors cursor-pointer disabled:opacity-50">
+              <Send className="w-5 h-5" />
+            </button>
+          </div>
 
           {/* Answer */}
           {/* Chat messages */}
@@ -772,8 +801,19 @@ function App() {
                     {msg.sources && msg.sources.length > 0 && (
                       <div className="flex flex-wrap gap-1 mt-3 pt-2 border-t border-border/50">
                         {msg.sources.map((s, j) => (
-                          <span key={j} className="text-[10px] bg-bg-alt px-2 py-0.5 rounded text-ink-muted">{s.law} — {s.section}</span>
+                          <button
+                            key={j}
+                            onClick={() => openSource(s)}
+                            className="text-[10px] bg-bg-alt px-2 py-0.5 rounded text-ink-muted hover:text-gold cursor-pointer"
+                          >
+                            {s.law} — {s.section}
+                          </button>
                         ))}
+                      </div>
+                    )}
+                    {msg.role === 'assistant' && (!msg.sources || msg.sources.length === 0) && (
+                      <div className="mt-3 pt-2 border-t border-border/50 text-[11px] text-ink-muted">
+                        Keine klare Quelle gefunden. Versuche eine konkretere Frage oder öffne direkt ein passendes Gesetz.
                       </div>
                     )}
                   </div>
