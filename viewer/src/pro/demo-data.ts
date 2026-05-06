@@ -401,21 +401,32 @@ export function loadDemoData(presetKey: string): { presetKey: string; caseCount:
 
   saveSettings(preset.settings)
 
+  // Idempotenz: existierende Demo-Akten werden auf den aktuellen Stand
+  // refresht (Fristen relativ zu heute), statt Duplikate anzulegen oder
+  // veraltete Fristen zu behalten.
+  const existingByAktenzeichen = new Map(
+    listCases().map(ec => [ec.aktenzeichen, ec]),
+  )
+
   for (const dc of preset.cases) {
-    const c = createCase({
+    const existing = existingByAktenzeichen.get(dc.case.aktenzeichen)
+    const c = existing ?? createCase({
       aktenzeichen: dc.case.aktenzeichen,
       mandantName: dc.case.mandantName,
       description: dc.case.description,
     })
     // Apply optional case metadata (email, frist) via updateCase so it shows
     // in the detail view + dashboard widget.
-    const patch: Parameters<typeof updateCase>[1] = {}
+    const patch: Parameters<typeof updateCase>[1] = {
+      mandantName: dc.case.mandantName,
+      description: dc.case.description,
+    }
     if (dc.case.mandantEmail) patch.mandantEmail = dc.case.mandantEmail
     if (typeof dc.case.fristOffsetDays === 'number') {
       patch.fristDatum = daysFromNow(dc.case.fristOffsetDays)
       patch.fristBezeichnung = dc.case.fristBezeichnung
     }
-    if (Object.keys(patch).length > 0) updateCase(c.id, patch)
+    updateCase(c.id, patch)
     if (dc.research) {
       saveResearch({
         caseId: c.id,

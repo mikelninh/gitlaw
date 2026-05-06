@@ -110,13 +110,14 @@ export default function TodayWidget() {
       c.caseStatus !== 'verfahren_abgeschlossen'
   )
 
-  // Sektion 1: Fristen ≤ 14 Tage
+  // Sektion 1: Fristen in den nächsten 14 Tagen (keine abgelaufenen — die landen
+  // nicht im Tagesblick, sondern werden in der Akte selbst behandelt)
   const fristCases = cases
     .filter(c => {
       if (!c.fristDatum) return false
       const frist = new Date(c.fristDatum)
       frist.setHours(0, 0, 0, 0)
-      return frist <= in14Days
+      return frist >= today && frist <= in14Days
     })
     .map(c => ({ c, days: daysUntil(c.fristDatum!) }))
     .sort((a, b) => a.days - b.days)
@@ -168,7 +169,7 @@ export default function TodayWidget() {
               const fristHint = c.fristDatum
                 ? (() => {
                     const days = daysUntil(c.fristDatum!)
-                    if (days < 0) return `Frist seit ${-days} Tag${-days === 1 ? '' : 'en'} abgelaufen`
+                    if (days < 0) return 'Frist neu setzen'
                     if (days === 0) return 'Frist läuft heute ab'
                     return `Frist in ${days} Tag${days === 1 ? '' : 'en'}`
                   })()
@@ -196,17 +197,15 @@ export default function TodayWidget() {
         <Section
           title="Frist in den nächsten 14 Tagen"
           count={fristCases.length}
-          tone={fristCases.some(({ days }) => days <= 0) ? 'red' : 'amber'}
+          tone={fristCases.some(({ days }) => days === 0) ? 'red' : 'amber'}
         >
           {fristCases.map(({ c, days }) => {
             const hint =
-              days < 0
-                ? `Frist seit ${-days} Tag${-days === 1 ? '' : 'en'} abgelaufen`
-                : days === 0
-                  ? 'Frist läuft heute ab'
-                  : `Frist in ${days} Tag${days === 1 ? '' : 'en'}`
+              days === 0
+                ? 'Frist läuft heute ab'
+                : `Frist in ${days} Tag${days === 1 ? '' : 'en'}`
             const tone: 'red' | 'amber' | 'default' =
-              days <= 0 ? 'red' : days <= 3 ? 'amber' : 'default'
+              days === 0 ? 'red' : days <= 3 ? 'amber' : 'default'
             return (
               <Row
                 key={c.id}
