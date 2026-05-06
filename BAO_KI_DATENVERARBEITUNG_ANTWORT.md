@@ -702,25 +702,93 @@ Deine 9 Punkte werden in zwei Sprints geliefert:
 
 ## 18. Beispielhafte Statuslogik
 
-**Status:** ✓ alle 5 Stati in unserem Datenmodell, plus die 3 weiteren aus UC3
+**Stand:** alle 5 Beispiel-Stati 1:1 wortgleich im Code, plus 3 weitere für vollständige Workflow-Abdeckung.
 
-Deine fünf Beispiel-Stati sind die ersten fünf des Sprint-1-Datenmodells. Wir ergänzen drei weitere aus UC3 (Behörde Nachforderung, Termin steht aus, Verfahren abgeschlossen) für eine vollständige 8-Stati-Kategorisierung.
+| Bao's Status | Code-ID | Internal Description | Mandantenkommunikation DE+VI |
+|---|---|:-:|:-:|
+| Unterlagen fehlen | `unterlagen_fehlen` | ✅ wortgleich | ✅ live |
+| Unterlagen in Prüfung | `unterlagen_in_pruefung` | ✅ wortgleich | ✅ live |
+| Antrag in Vorbereitung | `antrag_in_vorbereitung` | ✅ wortgleich | ✅ live |
+| Antrag eingereicht | `antrag_eingereicht` | ✅ inkl. Hinweis Bearbeitungsdauer | ✅ live |
+| Behördliche Rückmeldung ausstehend | `behoerdliche_rueckmeldung_ausstehend` | ✅ wortgleich | ✅ live |
 
-**Anhang A** zeigt die exakten Status-Übergangs-Regeln und je Status ein DE+VI Antwort-Template.
+**Plus 3 ergänzte Stati** (aus UC3 deines Lastenhefts): `behoerde_nachforderung`, `termin_steht_aus`, `verfahren_abgeschlossen`.
+
+**Pro Status** existieren 4 Templates (Mandant/Mittelsperson × DE/VI) = 32 Templates insgesamt, alle wortgleich an deine „Mandantenkommunikation"-Vorgabe angelehnt: klare Liste fehlender Unterlagen, kurze Erklärung, kein Erfolgsversprechen, klare Trennung Kanzlei/Behörde.
+
+**Anhang A** zeigt die exakten Status-Übergangs-Regeln (z.B. `unterlagen_fehlen` → `unterlagen_in_pruefung` erlaubt, aber nicht zurück; `antrag_eingereicht` → `unterlagen_fehlen` ist blockiert).
+
+### Anmerkungen / Rückfragen
+
+- **Item-Description in Sachstand-Templates seit heute Mittag:** Pflicht-Items werden jetzt mit Erklärung gerendert („Reisepass — Original + Kopie aller Stempelseiten · Die Ausländerbehörde prüft Einreisestempel und frühere Visa"). Das war eine konkrete Ergänzung deiner § 18-Anforderung „kurze Erklärung warum benötigt".
+- **Übergangs-Regeln zu strikt?** Aktuell sind 18 Übergänge erlaubt, ~20 explizit blockiert (z.B. man kann nicht von „verfahren_abgeschlossen" zurück nach „antrag_eingereicht"). Brauchst du Edge-Case-Szenarien?
+- **Status-Wechsel triggert Auto-Frist** (Auto-Berechnung nach § 75 VwVfG bei `antrag_eingereicht`). Ist das willkommen oder zu viel Auto-Magic?
+
+### Technische Einschätzung
+
+- 8-Stati-Modell ist im Datenmodell verankert (`case-status.ts`), die UI rendert nur erlaubte Folge-Stati im Dropdown — keine ungültigen Zustände möglich.
+- Jeder Status-Wechsel wird im Audit-Log mit Zeitstempel + User festgehalten.
+- Templates sind Funktionen, keine Strings — sie rufen `buildSachstandsContext()` auf und füllen automatisch Mandantenname, Behörde, Frist, Aktenzeichen.
+
+### Rechtliche / datenschutzrechtliche Einschätzung
+
+- Templates enthalten **keine** rechtlichen Erfolgsprognosen oder Frist-Zusagen — bewusst formuliert nach § 14 deines Lastenhefts.
+- „Klare Trennung Kanzlei/Behörde" ist in jedem Template explizit: „Die weitere Bearbeitung liegt jetzt bei der Behörde" — schützt vor Haftungs-Falle.
+- Audit-Log-Eintrag pro Status-Wechsel ist beweissicher (lückenlos, nicht editierbar).
+
+### To-dos / nächste Schritte
+
+- **Heute Abend:** Live-Demo der 8 Stati + 32 Templates
+- **Bao-Feedback einarbeiten:** falls Übergangs-Regeln in der Praxis blocken, im Pilot lockern
+- **Sprint 2:** Auto-Versand bei Status-Wechseln (mit Refa-Freigabe)
+- **Sprint 3:** Status-Wechsel-Vorschläge aus OCR-Klassifikation (z.B. Eingang Bescheid → Vorschlag „Status auf `behoerde_nachforderung`")
 
 ---
 
 ## 19. Rollenmodell
 
-**Status:** ~ teilweise
+**Stand ehrlich:** Architektur ist auf 5 Rollen vorbereitet, **technisch implementiert sind heute 3 Rollen** (Owner / Member / Viewer mit ~12 Scopes). Im Solo-Pilot mit Bao alleine reicht das. Sobald Personal dazu kommt, muss verschärft werden.
 
-| Rolle | Status |
-|---|---|
-| Rechtsanwalt | ✓ live — voller Zugriff + Freigabe-Privileg |
-| Refa | ✓ live — Status-Pflege, Erinnerungs-Vorbereitung, Mandanten-Kommunikation nach Freigabe |
-| Studentische Hilfskraft | ✓ live — eingeschränkter Zugriff (kein Edit von rechtlich sensibler Kommunikation) |
-| **Mittelsperson** | ✗ Sprint 4 — neue Rolle, dokumentierte Vollmacht, eingeschränkter Upload + Status-Sicht |
-| **Mandant** | ✗ Phase 4 — eigener Login mit Magic-Link, Status-Anzeige, Unterlagen-Liste |
+### Coverage-Tabelle
+
+| Rolle | Architektur vorbereitet | Technisch live | Lücke / Termin |
+|---|:-:|:-:|---|
+| **Rechtsanwalt** | ✅ | ✅ als `owner` mit allen Scopes | — |
+| **Refa** | ✅ | ~ teilweise — heute als `member` mit denselben Scopes wie Anwalt | Eigene Auth-Rolle mit `case.create + intake.review`, aber ohne `letter.send` für strafrechtliche Bescheide → **Sprint-1-Rest oder Sprint 2** |
+| **Studentische Hilfskraft** | ✅ | ✗ fehlt | Eigene Auth-Rolle `assistant` mit reduzierten Scopes (kein `letter.send`, kein `case.delete`) → **Sprint 2**, ~1 Tag Arbeit |
+| **Mandant** | ✅ | ✗ fehlt | Eigenes Auth-Modell (Magic-Link via Resend), Tenant-isolierte Sicht (nur eigene Akten) → **Phase 4 (Q4 2026)** |
+| **Mittelsperson** | ✅ | ✗ fehlt | Datenmodell mit dokumentierter Vollmacht, Auth-Flow → **Sprint 4 (August)** |
+
+**Was heute live ist:** RBAC-Scopes (`intake.review`, `intake.classify`, `case.view`, `case.create`, `research.view`, `letter.generate`, `audit.view`, `case.delete` etc.) sind im Code vorhanden und werden bei jeder API-Anfrage geprüft. Die feinere Trennung „Refa darf ja, Hilfskraft nein" ist als Mechanismus da, aber die 5-Rollen-Zuweisung ist im UI noch nicht angeboten.
+
+### Anmerkungen / Rückfragen
+
+- **Bao's Frage an dich:** Bist du heute Solo oder hast du eine Refa, die mitarbeitet? Wenn Solo → reicht aktueller Zustand. Wenn Personal dabei → wir verschärfen bis Sprint 2.
+- **Hilfskraft-Use-Case:** Hast du studentische Hilfskräfte, die digitalisieren/sortieren? Wenn ja, welche Aktionen sollen erlaubt/verboten sein? Mein Default-Vorschlag: **erlaubt** (OCR, Match-Bestätigen, Akten ansehen) · **verboten** (Sachstand versenden, Schreiben fertigstellen, Status auf „Verfahren abgeschlossen" setzen).
+- **Mittelsperson-Vollmachts-Verifikation:** Soll die Vollmacht digital hochgeladen werden (PDF + Akte-Verknüpfung)? Oder reicht eine textuelle Bestätigung im System („Vollmacht liegt schriftlich vor, geprüft am ...")? Beides möglich.
+- **Mandant-Login:** Magic-Link an Mandanten-E-Mail oder Mandanten-Smartphone-Nummer (SMS via Twilio EU)? E-Mail ist einfacher, SMS ist niederschwelliger für VI-Mandantschaft ohne starkes E-Mail-Verhalten.
+
+### Technische Einschätzung
+
+- **Heutiger Stand reicht für Solo-Pilot.** Wenn Bao alleine arbeitet, ist die 5-Rollen-Trennung Theater.
+- **Sprint-1-Rest oder Sprint 2 schließt Refa + Hilfskraft:** ~1-2 Tage Arbeit. Neue Rollen-IDs in `access.ts`, Scope-Reduktion, UI-Hinweis bei verbotenen Aktionen.
+- **Sprint 4 schließt Mittelsperson:** Datenmodell + Auth-Flow + Vollmachts-Validierung. ~1 Woche.
+- **Phase 4 schließt Mandant:** Magic-Link-Auth + Tenant-Isolation + Mobile-First-UI + externer Pen-Test. ~8-12 Wochen ehrlich.
+
+### Rechtliche / datenschutzrechtliche Einschätzung
+
+- **Solo-Pilot:** Keine Rollen-Trennungs-Pflicht — Bao verarbeitet alleine seine Mandantendaten. AVV reicht.
+- **Refa/Hilfskraft im Pilot:** Wenn dazu kommt, muss interne Schulung dokumentiert sein (§ 32 BDSG). Datenschutz-Schulung empfohlen, kein Compliance-Aufwand für GitLaw.
+- **Mandant:** Sobald Mandanten direkt einloggen, gilt Drittpersonen-Datenschutz — Mandant darf NUR seine eigenen Daten sehen, niemals Tenant-Datenbank. Architektur ist darauf vorbereitet (Tenant-Isolation), aber externer Audit vor Live-Gang dringend empfohlen.
+- **Mittelsperson:** Vollmacht muss schriftlich + technisch dokumentiert sein. „Person X darf für Mandant Y Status sehen, Erinnerungen empfangen, aber keine eigenen Anträge stellen." Granularität pro Vollmacht.
+- **Risiko-Hot-Spot:** Mandant + Mittelsperson sind die kritischsten Rollen DSGVO-rechtlich. Bei Implementation Pen-Test einplanen (~€2-5k extern, vor Live-Gang).
+
+### To-dos / nächste Schritte
+
+- **Heute Abend:** klären — Solo oder mit Personal?
+- **Bei Personal:** Sprint-1-Rest oder Sprint 2 (Mai/Juni) → Refa + Hilfskraft als eigene Rollen
+- **Sprint 4 (August):** Mittelsperson voll
+- **Phase 4 (Q4):** Mandanten-Portal mit eigenem Auth + externem Pen-Test
 
 ---
 
@@ -750,21 +818,61 @@ Deine 15 Klärungsfragen — wir antworten so weit wir können. Die Top-5, die w
 
 ## 21. Erste Erfolgskriterien
 
-**Status:** ✓ wir messen alle 9 KPIs
+**Confidence-Übersicht: 7 von 9 KPIs erreichbar mit aktueller Roadmap, 2 brauchen Phase 4 oder externe Faktoren.**
 
-Wir bauen einen Kanzlei-KPI-Dashboard ab Sprint 1 mit folgenden Zählern:
+| # | Bao-KPI | Confidence | Wann messbar | Wie wir messen | Ziel-Wert |
+|---|---|:-:|---|---|---|
+| 1 | Erinnerungs-Mails -40 % | **HOCH** mit Sprint 2 | nach 6-8 Wochen Pilot | Audit-Log: manuell vs. automatisch | -40 % |
+| 2 | Sachstandsanfragen -30 % | **SEHR HOCH** | ab Tag 1 zählbar, Vergleich nach 4 Wochen | Sachstand-Generator-Klicks vs. Bao's Self-Report „Mandant rief an" | -30 % |
+| 3 | Schnellere Feststellung fehlender Unterlagen | **HOCH** | sofort | Heute-Widget-Aufrufe + qualitative Bewertung | <2 Min Erkenntnis-Zeit |
+| 4 | Weniger unzugeordnete Dokumente | **MITTEL heute, HOCH Sprint 3** | Sprint 3 (semantische Klassifikation) | OCR-Match-Bestätigungen / manuelle Zuordnungen | <5 % unzugeordnet |
+| 5 | WhatsApp/E-Mail-Sortieraufwand | **MITTEL** | nach 4-6 Wochen | indirekt — Intake-Formular-Nutzung; WhatsApp bleibt extern | qualitativ |
+| 6 | Kürzere interne Bearbeitungszeit bis Antragseinreichung | **HOCH** | nach 6-8 Wochen mit Modul A+B+D | Zeitstempel zwischen Status-Wechseln im Audit-Log | -25 % Cycle-Time |
+| 7 | Bessere Transparenz für Mandanten | **HOCH erst mit Phase 4** | Q1 2027 | Mandanten-Login-Frequenz + Survey | qualitativ |
+| 8 | Geringere Refa-Arbeitsbelastung | **HOCH** | nach 4-6 Wochen | wöchentlicher 2-Min-Refa-Self-Report | qualitativ |
+| 9 | Bessere Planbarkeit bei steigenden Mandatszahlen | **HOCH bei Skalierung** | sobald 10+ neue Akten/Woche | Cycle-Time pro Akte aus Audit-Log | Stabile/sinkende Zeit pro Akte |
 
-| Bao-KPI | Mess-Methodik | Ziel |
-|---|---|---|
-| Reduktion Erinnerungs-E-Mails | Vergleich vor/nach Sprint 2 (Anzahl Refa-Drafts) | -40% |
-| Reduktion Sachstandsanfragen | Vergleich Inbox vs. Mandanten-initiierte Calls | -30% |
-| Schnellere Feststellung fehlender Unterlagen | Zeit zwischen Upload und Match-Ergebnis | <2 Min |
-| Weniger unzugeordnete Dokumente | Anteil mit "Mandat unklar" Flag | <5% |
-| WhatsApp/E-Mail-Sortieraufwand | manuelle Selbstdokumentation 2 Wochen | -50% |
-| Bearbeitungszeit bis Antrag | Zeitstempel "neu" → "Antrag eingereicht" | -25% |
-| Transparenz für Mandanten | Refa-Befragung + (Phase 4) Mandanten-Login-Stats | qualitativ |
-| Refa-Belastung | Selbstreport Refa, vor/nach jedem Sprint | qualitativ |
-| Planbarkeit bei steigenden Zahlen | Mandate/Refa/Woche | Anstieg ohne Verschlechterung |
+### Was wir bereits ab heute Abend messen (Tag 1 des Pilots)
+
+- KPI 2: Anzahl generierter Sachstandsantworten pro Tag
+- KPI 3: Anzahl Akten mit Mandatsart-Zuordnung + Heute-Widget-Hits
+- KPI 4: Anzahl OCR-Match-Bestätigungen + Anteil
+- KPI 8: Wöchentlicher 2-Min-Self-Report-Survey („spart Zeit / neutral / kostet Zeit")
+
+### Was nach 4-6 Wochen messbar wird
+
+- KPIs 1, 5, 6: brauchen Baseline-Vergleich „vorher / nachher"
+- KPI 9: braucht ausreichende Akten-Anzahl
+
+### Was Phase 4 braucht
+
+- KPI 7: Mandanten-Transparenz wirklich nur mit Mandanten-Portal messbar (Login-Frequenz, Self-Service-Rate, Anrufreduktion)
+
+### Anmerkungen / Rückfragen
+
+- **40-%/30-%-Quoten:** Diese Zahlen sind ambitioniert aber realistisch. Mein Confidence-Statement: ich glaube wir schaffen die -30 % bei Sachstandsanfragen schon in den ersten 4 Wochen, sobald du die Templates regelmäßig nutzt. Die -40 % bei Erinnerungs-Mails brauchen Sprint 2 (Auto-Versand) → realistisch ab Juli.
+- **Baseline-Daten brauchen wir von dir:** Wie viele manuelle Erinnerungs-Mails verschickt deine Kanzlei aktuell pro Woche? Wie viele Sachstandsanfragen kommen pro Woche rein? Ohne diese Baseline ist „-30 %" nur eine Zahl ohne Bezug. Wenn du 1 Woche lang grob Buch führst (ich gebe dir ein 5-Felder-Sheet), haben wir den Vergleichsanker.
+- **Refa-Self-Report:** Brauchst du eine Refa, die das Pilot-mitfährt? Wenn nicht, ersetzen wir KPI 8 durch deinen eigenen Anwalts-Self-Report.
+
+### Technische Einschätzung
+
+- **Audit-Log ist die KPI-Quelle.** Jeder relevante Workflow-Event wird dort erfasst. Heute Abend zeige ich dir wie ich das auswerte.
+- **KPI-Dashboard kommt mit Sprint 2** — ein dediziertes Auswertungs-Pane, kein nur „Audit-Log durchscrollen". Heute reicht der Audit-Log selbst.
+- **Externe Daten (KPI 5 WhatsApp):** Können wir nicht direkt messen, weil WhatsApp nicht in unserer Architektur liegt. Self-Report-basiert.
+
+### Rechtliche / datenschutzrechtliche Einschätzung
+
+- **Audit-Log-basierte KPIs:** Personalisierungs-Risiko niedrig — wir tracken Workflow-Events, keine Mandanten-Profile. KPIs werden aggregiert dargestellt.
+- **Refa-Self-Report:** Datenschutz-Hinweis an Refa: Self-Report ist freiwillig, nicht zur Leistungsbewertung verwendbar.
+- **Mandanten-Survey (Phase 4):** Bei späterem Mandanten-Survey gilt Einwilligung in Markt-/Service-Forschung — separater Block im Mandanten-Portal.
+
+### To-dos / nächste Schritte
+
+- **Heute Abend:** Baseline-Sheet vereinbaren (5 Felder, 1 Woche tracken)
+- **Pilot-Start (KW 22):** Tag-1-Metriken aktivieren (KPIs 2, 3, 4, 8)
+- **Pilot-Wochen 4-6:** Erste Vergleichs-Auswertung (KPIs 1, 5, 6)
+- **Pilot-Wochen 8-12:** Skalierungs-Test (KPI 9)
+- **Q1 2027:** Vollständige KPI-Auswertung mit Phase-4-Daten
 
 ---
 
