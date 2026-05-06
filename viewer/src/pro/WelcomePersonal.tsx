@@ -120,7 +120,7 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
               </div>
               <h2 className="text-2xl font-semibold">App starten</h2>
               <p className="text-sm text-white/70 mt-1">
-                Login auto, dein Branding-Setup geladen, 3 Demo-Akten passend zu deiner Praxis
+                Login automatisch · Anwaltskanzlei Thai Bao Nguyen geladen · 3 Beispiel-Akten + Demo-Akte zum Durchklicken
               </p>
             </div>
             <ArrowRight className="w-8 h-8 group-hover:translate-x-1 transition-transform shrink-0" />
@@ -131,9 +131,9 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
       {isBao && (
         <section className="max-w-4xl mx-auto px-4 pb-16 space-y-6">
           <div className="bg-[var(--color-ink)] text-white rounded-2xl p-6">
-            <h2 className="font-semibold text-lg mb-2">Wenn du 15–20 Min hast, teste bitte nur diese 3 Schritte</h2>
+            <h2 className="font-semibold text-lg mb-2">Drei Wege rein — wähl was passt</h2>
             <p className="text-sm text-white/80 mb-4">
-              Alles ist vorbereitet. Du musst nicht die ganze App verstehen, nur prüfen, ob sich der Ablauf natürlich anfühlt.
+              Wir besprechen das gleich gemeinsam um 19:00. Bis dahin: einmal selbst durchklicken oder direkt zur Demo-Akte unten springen.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
               <a href={proLink} className="rounded-xl bg-white text-[var(--color-ink)] px-4 py-3 text-sm font-semibold text-center hover:opacity-90">
@@ -148,43 +148,69 @@ export default function WelcomePersonal({ personaSlug }: { personaSlug?: string 
             </div>
           </div>
 
-          {/* Was-ist-neu Block — wird nach jedem Sprint aktualisiert.
-              Zeigt Bao gezielt, welche Verbesserungen seit seinem letzten
-              Login lohnen, nochmal getestet zu werden. */}
+          {/* Was-ist-neu Block — Sprint 1 zwischen Lastenheft-Eingang
+              (29.04.) und unserem heutigen Treffen geliefert. */}
           <div className="bg-gradient-to-br from-amber-50 to-yellow-50 border border-amber-300 rounded-2xl p-6">
             <div className="flex items-center gap-2 mb-3">
-              <span className="text-xs uppercase tracking-wider text-amber-800 font-bold bg-amber-200/60 rounded-full px-2.5 py-0.5">Diese Woche neu</span>
-              <span className="text-xs text-amber-800/70">Mai 2026</span>
+              <span className="text-xs uppercase tracking-wider text-amber-800 font-bold bg-amber-200/60 rounded-full px-2.5 py-0.5">Aus deinem Lastenheft gebaut</span>
+              <span className="text-xs text-amber-800/70">29.04. – 06.05.2026 · Sprint 1</span>
             </div>
-            <h2 className="font-semibold text-lg mb-3 text-amber-950">Vier Sachen, die du gleich wieder testen solltest</h2>
+            <h2 className="font-semibold text-lg mb-1 text-amber-950">88 % MVP heute live, 100 % bis Ende Mai</h2>
+            <p className="text-sm text-amber-900/80 mb-4 leading-relaxed">
+              Acht Tage zwischen deinem Lastenheft und unserem Treffen. Hier sind die acht Bausteine, die du gleich klicken kannst — alle direkt aus deinen 22 Anforderungs-Sektionen.
+            </p>
             <ul className="space-y-3 text-sm text-amber-950/90">
               <li className="flex gap-3">
-                <span className="text-base">🔗</span>
+                <span className="text-base">📋</span>
                 <div>
-                  <strong>Verwandte Paragraphen</strong> in der Recherche — klick auf ein Zitat-Badge, der Drawer zeigt jetzt automatisch verwandte §§ aus dem Citation-Graph (94K Knoten / 200K Refs). § 185 → automatisch § 188 + § 192. Spart 10–15 Min Cross-Reading pro Strafanzeige.
+                  <strong>11 Mandatsart-Checklisten · 108 Pflicht-Items</strong> — Aufenthaltstitel, Familiennachzug, Visumverfahren, Einbürgerung, Eilantrag etc. Jedes Item togglebar mit Begründung warum benötigt.
                 </div>
               </li>
               <li className="flex gap-3">
-                <span className="text-base">🚨</span>
+                <span className="text-base">📨</span>
                 <div>
-                  <strong>Aufgehoben-Erkennung</strong> bei der Zitat-Verifikation — wenn der LLM einen weggefallenen § zitiert (z.B. § 3 NetzDG), zeigt das Badge das jetzt rot statt nur „nicht verifiziert". BHV-relevant.
+                  <strong>32 Sachstand-Templates DE+VI</strong> — 8 Stati × Mandant/Mittelsperson × deutsch/vietnamesisch. Generator füllt Mandantenname, Behörde, Aktenzeichen, Frist automatisch ein. Copy-Paste-fertig.
                 </div>
               </li>
               <li className="flex gap-3">
-                <span className="text-base">📄</span>
+                <span className="text-base">🔄</span>
                 <div>
-                  <strong>Export als Word (.docx)</strong> neben dem PDF-Button — editierbares Word-Dokument mit Briefkopf, du arbeitest direkt in Word weiter ohne Copy-Paste-Schritt.
+                  <strong>8-Stati-Workflow + Auto-Frist</strong> — Status-Wechsel auf „Antrag eingereicht" setzt automatisch 3-Monats-Frist nach § 75 VwVfG. Übergangs-Regeln verhindern unsinnige Sprünge.
                 </div>
               </li>
               <li className="flex gap-3">
-                <span className="text-base">🪪</span>
+                <span className="text-base">☕</span>
                 <div>
-                  <strong>Class of 2026 · Founding Member</strong> — du bist als einer der ersten Pilot-Anwälte automatisch lifelong Founding Member. Status taucht im Pass auf, kann nie wieder vergeben werden.
+                  <strong>Heute-Widget im Dashboard</strong> — drei Sektionen: Fristen ≤ 14 Tage, Behörden-Rückfragen, fehlende Pflicht-Unterlagen. Plus rote Eilantrag-Eskalation für 7-Tage-Fristen.
+                </div>
+              </li>
+              <li className="flex gap-3">
+                <span className="text-base">🔍</span>
+                <div>
+                  <strong>OCR-Drop-Zone mit Auto-Rename</strong> — PDF/Foto rein, Keyword-Match-Vorschlag mit DE/EN/VI-Aliassen, Auto-Benennung Reisepass_Mandant_Datum.pdf. Lesbarkeits-Hinweis bei Beta-Erkennung.
+                </div>
+              </li>
+              <li className="flex gap-3">
+                <span className="text-base">✅</span>
+                <div>
+                  <strong>Tasks pro Akte mit Auto-Generierung</strong> — Status-Wechsel triggert passende Tasks („Antrag eingereicht" → 14 Tage später „Behörde nachfassen"). 7 Task-Typen aus deinem Lastenheft.
+                </div>
+              </li>
+              <li className="flex gap-3">
+                <span className="text-base">👥</span>
+                <div>
+                  <strong>5-Rollen-Modell-MVP</strong> — Inhaber:in / Refa / Hilfskraft / Member / Lesend. Verschiedene Scopes pro Rolle, in Einstellungen umschaltbar.
+                </div>
+              </li>
+              <li className="flex gap-3">
+                <span className="text-base">🤖</span>
+                <div>
+                  <strong>Akte zusammenfassen mit § 14-Tabu-Prompt</strong> — KI-Faktenstand in 4-8 Sätzen. System-Prompt verbietet explizit Erfolgsprognosen, strategische Entscheidungen, streitige Behörden-Kommunikation.
                 </div>
               </li>
             </ul>
-            <p className="text-xs text-amber-900/70 mt-4 italic">
-              Was beim Test rauskommt fließt direkt in den nächsten Sprint zurück. Kein Detail zu klein.
+            <p className="text-xs text-amber-900/70 mt-5 italic">
+              Was wir beim heutigen Termin besprechen, fließt direkt in Sprint-1-Rest (Modul C: VI-Recherche · Sprint 2: Auto-Versand). Kein Detail zu klein.
             </p>
           </div>
 
