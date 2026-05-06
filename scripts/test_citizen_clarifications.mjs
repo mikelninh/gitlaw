@@ -14,6 +14,18 @@ const tests = [
     expectClarification: true,
   },
   {
+    question: 'Mein Vermieter macht Probleme.',
+    expectClarification: true,
+  },
+  {
+    question: 'Ich habe Stress mit der Krankenkasse.',
+    expectClarification: true,
+  },
+  {
+    question: 'Ich habe online ein Problem.',
+    expectClarification: true,
+  },
+  {
     question: 'Mein Vermieter will Eigenbedarf anmelden - was kann ich tun?',
     expectClarification: false,
   },

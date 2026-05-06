@@ -112,10 +112,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         if (ocrText) {
           return res.status(200).json({ ok: true, status: 'done', provider: 'pdf-text-layer', ocrText })
         }
-        return res.status(501).json({
-          ok: false,
-          status: 'not_supported_yet',
-          message: 'PDF was uploaded, but no text layer could be extracted. Scan-PDF OCR worker is the next step.',
+        return res.status(200).json({
+          ok: true,
+          status: 'needs_render',
+          message: 'PDF has no text layer. Client-side rendering to images required before OCR.',
         })
       }
       if (mimeType.startsWith('image/')) {

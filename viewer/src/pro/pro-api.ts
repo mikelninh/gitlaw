@@ -114,12 +114,16 @@ export async function getServerDocumentMeta(documentId: string): Promise<{
   }
 }
 
-export async function downloadServerDocument(documentId: string): Promise<void> {
+export async function fetchServerDocumentBlob(documentId: string): Promise<Blob> {
   const resp = await fetchWithProSession(`/api/pro/upload?id=${encodeURIComponent(documentId)}`, {
     method: 'GET',
   })
   if (!resp.ok) throw new Error(`Download failed (HTTP ${resp.status})`)
-  const blob = await resp.blob()
+  return resp.blob()
+}
+
+export async function downloadServerDocument(documentId: string): Promise<void> {
+  const blob = await fetchServerDocumentBlob(documentId)
   const url = URL.createObjectURL(blob)
   const a = document.createElement('a')
   a.href = url
@@ -128,6 +132,49 @@ export async function downloadServerDocument(documentId: string): Promise<void> 
   a.click()
   document.body.removeChild(a)
   URL.revokeObjectURL(url)
+}
+
+export interface IntakeClassification {
+  doc_type:
+    | 'Brief'
+    | 'Email'
+    | 'Bescheid'
+    | 'Mahnung'
+    | 'Klage'
+    | 'Vertrag'
+    | 'Rechnung'
+    | 'Foto'
+    | 'Screenshot'
+    | 'Sonstiges'
+  document_date: string | null
+  sender: string | null
+  recipient: string | null
+  parties: string[]
+  aktenzeichen: string | null
+  summary_de: string
+  suggested_filename: string
+  confidence: number
+  needs_review: boolean
+}
+
+export interface IntakeClassifyResult {
+  ok: true
+  serverDocumentId: string
+  fileName: string | null
+  mimeType: string
+  ocr_text: string
+  classification: IntakeClassification
+}
+
+export async function classifyIntakeDocument(serverDocumentId: string): Promise<IntakeClassifyResult> {
+  const resp = await fetchWithProSession('/api/pro/intake/classify', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ serverDocumentId }),
+  })
+  const payload = await resp.json().catch(() => ({}))
+  if (!resp.ok) throw new Error(payload?.error || `Classification failed (HTTP ${resp.status})`)
+  return payload as IntakeClassifyResult
 }
 
 export async function runRemoteDocumentProcessing(input: {

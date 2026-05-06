@@ -8,7 +8,7 @@
 
 import { useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
-import { FileText, Download, Save, Copy, ChevronLeft, Mail, Plus, Trash2, Pencil, Star } from 'lucide-react'
+import { FileText, Download, Save, Copy, ChevronLeft, Mail, Plus, Trash2, Pencil, Star, MapPin } from 'lucide-react'
 import {
   ALL_BUILTIN_TEMPLATES,
   NOTAR_TEMPLATES,
@@ -36,6 +36,7 @@ import {
   type TemplateUsageEntry,
   toggleTemplateFavorite,
 } from './store'
+import { gerichtFuerPLZ, formatGerichtAdresse } from './gerichte'
 import type { CustomTemplate, GeneratedLetter } from './types'
 
 type PickedTemplate =
@@ -823,6 +824,17 @@ export default function ProTemplates() {
                   className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-[var(--color-gold)]"
                 />
               )}
+              {f.id === 'mandantPLZ' && fields[f.id] && (
+                <div className="mt-2">
+                  <CourtSuggestions plz={fields[f.id]} onSelect={adr => {
+                    // Find recipient field and set it
+                    const recipientField = fieldDefs.find(fd => fd.id === 'recipient')
+                    if (recipientField) {
+                      setFields({ ...fields, recipient: adr })
+                    }
+                  }} />
+                </div>
+              )}
               {f.id === 'rechtsgrundlage' && (
                 <p className="text-xs text-[var(--color-ink-muted)] mt-1 italic">Mehrfachauswahl ist erlaubt. Klick die Vorschläge an oder ergänze frei.</p>
               )}
@@ -996,6 +1008,35 @@ Mit freundlichen Grüßen`,
           </button>
         </div>
       </form>
+    </div>
+  )
+}
+
+function CourtSuggestions({ plz, onSelect }: { plz: string; onSelect: (addr: string) => void }) {
+  const suggestions = useMemo(() => {
+    if (!plz || plz.trim().length < 3) return []
+    const types = ['ag', 'lg', 'sg', 'arbg', 'vg', 'fg'] as const
+    return types.map(t => gerichtFuerPLZ(plz.trim(), t)).filter(Boolean).map(g => formatGerichtAdresse(g!))
+  }, [plz])
+  if (suggestions.length === 0) return null
+  return (
+    <div className="space-y-1.5">
+      <p className="text-[11px] text-[var(--color-ink-muted)] flex items-center gap-1">
+        <MapPin className="w-3 h-3" /> Vorgeschlagene Gerichte (PLZ {plz}):
+      </p>
+      <div className="flex flex-wrap gap-1.5">
+        {suggestions.map((s, i) => (
+          <button
+            key={i}
+            type="button"
+            onClick={() => onSelect(s)}
+            className="text-[11px] px-2 py-1 rounded-full border border-[var(--color-border)] bg-[var(--color-bg-alt)] hover:border-[var(--color-gold)] hover:bg-white transition-colors"
+            title={s}
+          >
+            {s.split('\n')[0]}
+          </button>
+        ))}
+      </div>
     </div>
   )
 }

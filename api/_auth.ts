@@ -12,7 +12,12 @@ export interface ProSessionClaims {
   exp: number
 }
 
-const INVITE_MAP: Record<string, Pick<ProSessionClaims, 'tenantId' | 'userId' | 'role'>> = {
+type InviteMap = Record<string, Pick<ProSessionClaims, 'tenantId' | 'userId' | 'role'>>
+
+// Tokens are loaded from GITLAW_BETA_TOKENS (JSON string) at runtime.
+// In production this env var must be set — hardcoded values are dev-only fallback.
+// Rotate all tokens after first production deploy.
+const DEV_INVITE_MAP: InviteMap = {
   'BETA-NGUYEN': { tenantId: 'kanzlei-nguyen', userId: 'nguyen-owner', role: 'owner' },
   'BETA-RUBIN': { tenantId: 'kanzlei-rubin', userId: 'rubin-owner', role: 'owner' },
   'BETA-WERNER': { tenantId: 'kanzlei-gniosdorz', userId: 'werner-owner', role: 'owner' },
@@ -24,6 +29,24 @@ const INVITE_MAP: Record<string, Pick<ProSessionClaims, 'tenantId' | 'userId' | 
   'BETA-MUSTER-5': { tenantId: 'beta-shared', userId: 'beta-muster-5', role: 'anwalt' },
   DEMO: { tenantId: 'beta-shared', userId: 'beta-demo', role: 'anwalt' },
 }
+
+function loadInviteMap(): InviteMap {
+  const raw = process.env.GITLAW_BETA_TOKENS
+  if (raw) {
+    try {
+      return JSON.parse(raw) as InviteMap
+    } catch {
+      console.error('GITLAW_BETA_TOKENS is set but not valid JSON — falling back to dev map')
+    }
+  }
+  if (process.env.VERCEL_ENV === 'production') {
+    console.error('GITLAW_BETA_TOKENS not set in production — no invites will be accepted')
+    return {}
+  }
+  return DEV_INVITE_MAP
+}
+
+const INVITE_MAP = loadInviteMap()
 
 const ROLE_RANK: Record<ProRole, number> = {
   read_only: 1,

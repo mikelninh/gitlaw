@@ -16,6 +16,7 @@ import ProTemplates from './ProTemplates'
 import ProAudit from './ProAudit'
 import ProEingaenge from './ProEingaenge'
 import ProImport from './ProImport'
+import Intake from './Intake'
 import { canAccessRoute } from './access'
 // Welcome pages + Pricing live on top-level (main.tsx) for short URLs.
 // Don't import them here.
@@ -33,6 +34,7 @@ export default function ProApp() {
           <Route path="eingaenge" element={<Guarded path="/pro/eingaenge"><ProEingaenge /></Guarded>} />
           <Route path="audit" element={<Guarded path="/pro/audit"><ProAudit /></Guarded>} />
           <Route path="import" element={<Guarded path="/pro/import"><ProImport /></Guarded>} />
+          <Route path="triage" element={<Guarded path="/pro/triage"><Intake /></Guarded>} />
           <Route path="einstellungen" element={<Guarded path="/pro/einstellungen"><ProSettings /></Guarded>} />
         </Route>
         <Route path="*" element={<Navigate to="/" replace />} />

@@ -109,6 +109,11 @@ export default function ProEingaenge() {
                         <Phone className="w-3 h-3" /> {i.phone}
                       </span>
                     )}
+                    {'source' in i && (i as any).source === 'email' && (
+                      <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-sky-50 border border-sky-200 text-sky-800 text-[10px]">
+                        📧 E-Mail
+                      </span>
+                    )}
                     <span>
                       eingegangen {new Date(i.submittedAt).toLocaleString('de-DE')}
                     </span>

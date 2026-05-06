@@ -421,7 +421,7 @@ def build_viewer_shards(graph: dict) -> tuple[int, int]:
         nodes_by_law.setdefault(n["law"].upper(), []).append(n)
 
     # Bucket edges by source-law and target-law for two-pass writes
-    by_law_in: dict[str, dict[str, list[dict]]] = {}   # target_law → {section → [in-edges]}
+    by_law_in: dict[str, dict[str, list[dict]]] = {}  # target_law → {section → [in-edges]}
     by_law_out: dict[str, dict[str, list[dict]]] = {}  # source_law → {section → [out-edges]}
 
     def _peer_descriptor(peer_id: str) -> dict:

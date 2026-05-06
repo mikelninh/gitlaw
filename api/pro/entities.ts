@@ -10,7 +10,7 @@ const ALLOWED = new Set(['cases', 'research', 'letters'])
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   applySecurityHeaders(res)
-  const corsAllowed = applyCors(req, res, 'GET, PUT, OPTIONS')
+  const corsAllowed = applyCors(req, res, 'GET, PUT, POST, DELETE, OPTIONS')
   if (!corsAllowed) return res.status(403).json({ error: 'Origin not allowed' })
   if (req.method === 'OPTIONS') return res.status(200).end()
 
@@ -28,11 +28,68 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (!ALLOWED.has(collection)) {
     return res.status(400).json({ error: 'Unsupported collection', allowed: Array.from(ALLOWED) })
   }
-  const key = `proEntity:${session.tenantId}:${collection}`
+  const bulkKey = `proEntity:${session.tenantId}:${collection}`
+  const itemId = typeof req.query.id === 'string' ? req.query.id.trim() : ''
 
+  // --- Individual item operations (POST = create, PUT = update, GET = read, DELETE = delete) ---
+  if (itemId) {
+    const itemKey = `proEntity:${session.tenantId}:${collection}:${itemId}`
+
+    if (req.method === 'GET') {
+      try {
+        const payload = await redis.get(itemKey)
+        if (!payload) return res.status(404).json({ error: 'Item not found' })
+        return res.status(200).json({ ok: true, item: payload })
+      } catch (err) {
+        return res.status(500).json({ error: 'Read failed', detail: String(err) })
+      }
+    }
+
+    if (req.method === 'PUT') {
+      const item = req.body?.item
+      if (!item || typeof item !== 'object') {
+        return res.status(400).json({ error: 'Body must contain item object' })
+      }
+      try {
+        await redis.set(itemKey, { ...item, _updatedAt: new Date().toISOString(), _updatedBy: session.userId }, { ex: TTL_SECONDS })
+        return res.status(200).json({ ok: true, id: itemId, collection })
+      } catch (err) {
+        return res.status(500).json({ error: 'Write failed', detail: String(err) })
+      }
+    }
+
+    if (req.method === 'DELETE') {
+      try {
+        await redis.del(itemKey)
+        return res.status(200).json({ ok: true, id: itemId, deleted: true })
+      } catch (err) {
+        return res.status(500).json({ error: 'Delete failed', detail: String(err) })
+      }
+    }
+
+    return res.status(405).json({ error: 'Method not allowed for individual item' })
+  }
+
+  // --- POST: create new item (generates server-side id if not provided) ---
+  if (req.method === 'POST') {
+    const item = req.body?.item
+    if (!item || typeof item !== 'object') {
+      return res.status(400).json({ error: 'Body must contain item object' })
+    }
+    const id = item.id || `${Date.now().toString(36)}_${Math.random().toString(36).slice(2, 8)}`
+    const itemKey = `proEntity:${session.tenantId}:${collection}:${id}`
+    try {
+      await redis.set(itemKey, { ...item, id, _createdAt: new Date().toISOString(), _createdBy: session.userId }, { ex: TTL_SECONDS })
+      return res.status(200).json({ ok: true, id, collection })
+    } catch (err) {
+      return res.status(500).json({ error: 'Write failed', detail: String(err) })
+    }
+  }
+
+  // --- Bulk GET / PUT (existing behavior, preserved for backward compat) ---
   if (req.method === 'GET') {
     try {
-      const payload = await redis.get(key)
+      const payload = await redis.get(bulkKey)
       if (!payload) return res.status(404).json({ error: 'No collection for this tenant' })
       return res.status(200).json(payload)
     } catch (err) {
@@ -61,7 +118,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       updatedBy: session.userId,
     }
     try {
-      await redis.set(key, payload, { ex: TTL_SECONDS })
+      await redis.set(bulkKey, payload, { ex: TTL_SECONDS })
       return res.status(200).json({
         ok: true,
         collection,

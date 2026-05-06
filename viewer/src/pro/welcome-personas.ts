@@ -45,7 +45,7 @@ export const PERSONAS: Record<string, WelcomePersona> = {
   bao: {
     slug: 'bao',
     firstName: 'Bao',
-    fullName: 'Bao Nguyen',
+    fullName: 'Bao N.',
     heroEmoji: '🇻🇳',
     tagline: 'GitLaw Pro ist mein Versuch, einen echten anwaltlichen Arbeitsflow kompakter zu machen: Intake, Akte, Recherche und Schreiben an einem Ort.',
     betaToken: 'BETA-NGUYEN',
