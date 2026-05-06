@@ -366,6 +366,115 @@
     text-align: right;
   }
 
+  /* ── Anhang-A Bewertungsmatrix ──────────────────────────── */
+  .matrix {
+    max-width: 1180px;
+    margin: 0 auto 80px;
+    padding: 0 36px;
+    position: relative;
+    z-index: 2;
+  }
+  .matrix-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 22px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--rule);
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .matrix-head h2 {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 60, "SOFT" 80;
+    font-weight: 360;
+    font-size: 26px;
+    letter-spacing: -0.02em;
+    color: var(--paper);
+  }
+  .matrix-head h2 em { font-style: italic; color: var(--gold); }
+  .matrix-head .legend {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10px;
+    color: var(--text-mute);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+  .matrix-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--ink-2);
+    border: 1px solid var(--rule);
+  }
+  .matrix-table thead th {
+    text-align: left;
+    padding: 14px 16px 12px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10px;
+    font-weight: 500;
+    color: var(--gold);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--rule);
+    background: var(--ink);
+    white-space: nowrap;
+  }
+  .matrix-table tbody td {
+    padding: 14px 16px 13px;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+    font-size: 13.5px;
+    line-height: 1.45;
+  }
+  .matrix-table tbody tr:last-child td { border-bottom: none; }
+  .matrix-table tbody tr:hover { background: rgba(244,237,224,0.02); }
+  .matrix-area {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 16, "SOFT" 60;
+    font-weight: 460;
+    color: var(--paper);
+    min-width: 200px;
+  }
+  .matrix-bem {
+    color: var(--text-soft);
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 14, "SOFT" 60;
+    font-weight: 380;
+  }
+  .lvl {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.04em;
+    padding: 3px 9px 2px;
+    border: 1px solid var(--rule-soft);
+    border-radius: 1px;
+    color: var(--text-soft);
+    background: var(--ink-3);
+    display: inline-block;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .lvl.high     { color: var(--paper); border-color: rgba(212,151,54,0.5); background: rgba(212,151,54,0.08); }
+  .lvl.veryhigh { color: var(--paper); border-color: rgba(210,73,62,0.55); background: rgba(210,73,62,0.10); }
+  .lvl.mid      { color: var(--paper-soft); border-color: rgba(212,151,54,0.3); background: rgba(212,151,54,0.04); }
+  .lvl.low      { color: var(--text-soft); border-color: rgba(107,158,122,0.4); background: rgba(107,158,122,0.05); }
+  .lvl.live     { color: var(--paper); border-color: rgba(107,158,122,0.55); background: rgba(107,158,122,0.10); }
+  .lvl.signal   { color: var(--paper); border-color: rgba(210,73,62,0.4); background: rgba(210,73,62,0.06); }
+  .matrix-table td.col-area { width: 22%; }
+  .matrix-table td.col-pri,
+  .matrix-table td.col-mach,
+  .matrix-table td.col-risk { width: 9%; white-space: nowrap; }
+  .matrix-table td.col-eff { width: 12%; }
+  .matrix-table td.col-bem { width: 39%; }
+  @media (max-width: 920px) {
+    .matrix-table thead { display: none; }
+    .matrix-table, .matrix-table tbody, .matrix-table tr, .matrix-table td { display: block; width: 100%; }
+    .matrix-table tr { padding: 16px; border-bottom: 1px solid var(--rule); }
+    .matrix-table td { border: none; padding: 4px 0; }
+    .matrix-table td::before { content: attr(data-lbl) " · "; font-family: "JetBrains Mono", monospace; font-size: 9.5px; color: var(--text-mute); text-transform: uppercase; letter-spacing: 0.12em; }
+    .matrix-table td.col-area::before { content: ""; }
+  }
+
   /* ── Main grid with timeline spine ─────────────────────── */
   main {
     max-width: 1180px;
@@ -968,6 +1077,146 @@
     </div>
 
   </div>
+</section>
+
+<section class="matrix" aria-label="Anhang A — Bewertungsmatrix">
+  <div class="matrix-head">
+    <h2>Anhang A · <em>Bewertungsmatrix.</em></h2>
+    <div class="legend">13 Bereiche · gefüllt mit unserem echten Stand 06.05.2026</div>
+  </div>
+  <table class="matrix-table">
+    <thead>
+      <tr>
+        <th>Bereich</th>
+        <th>Priorität</th>
+        <th>Machbarkeit</th>
+        <th>Risiko</th>
+        <th>Aufwand</th>
+        <th>Bemerkungen</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Unterlagen-Checklisten je Mandatsart</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl high">Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl live">Live</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl low">Niedrig</span></td>
+        <td class="col-eff" data-lbl="Aufwand">~1 Woche, investiert</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">11 Mandatsarten · 108 kuratierte Pflicht-Items live in <code style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--gold-warm);">mandatsart-checklists.ts</code>. Status pro Item togglebar.</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Erkennung fehlender Unterlagen</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl high">Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl live">Live</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl low">Niedrig</span></td>
+        <td class="col-eff" data-lbl="Aufwand">~3 Tage, investiert</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">Heute-Widget zeigt pro Akte „X Pflicht-Unterlagen fehlen". Filter „nur fehlend" in der Akten-Detail. Item-Description mit Begründung im Sachstand-Generator.</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Automatische Erinnerungstexte</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl high">Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl live">Drafts live · Auto Sprint 2</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl mid">Mittel</span></td>
+        <td class="col-eff" data-lbl="Aufwand">Drafts da · Auto-Versand ~1 Woche</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">8 DE+VI Erinnerungs-Templates für Status <code style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--gold-warm);">unterlagen_fehlen</code>. Auto-Versand braucht: AVV · E-Mail-Provider-Entscheidung · Mandanten-Einwilligung im Intake.</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Vietnamesische / deutsche Kommunikation</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl high">Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl live">Sachstand live · freie Recherche Modul C</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl mid">Mittel</span></td>
+        <td class="col-eff" data-lbl="Aufwand">~2 Wochen mit Voice-Polish</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">32 Sachstand-Templates DE+VI live (Mandant + Mittelsperson). Modul C (freie VI-Recherche) wartet auf 5 Voice-Anchor-Mails von dir.</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Sachstandsantworten</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl high">Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl live">Live</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl low">Niedrig</span></td>
+        <td class="col-eff" data-lbl="Aufwand">~3 Tage, investiert</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen"><strong style="color:var(--paper);">Der Kern.</strong> 8 Stati × Mandant/Mittelsperson × DE/VI = 32 Templates. Generator füllt Mandantenname, Behörde, Aktenzeichen, Frist automatisch ein.</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Dokumentenklassifikation</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl high">Mittel-Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl mid">Beta heute · Sprint 3 voll</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl mid">Mittel (Vision-API + AVV)</span></td>
+        <td class="col-eff" data-lbl="Aufwand">~2 Wochen für semantische Klassifikation</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">Heute Beta-Keyword-Match mit DE/EN/VI-Aliassen + Auto-Rename-Vorschlag. Sprint 3: gpt-4o-vision pro Seite mit Confidence-Score und Sichtprüfungs-Markierung.</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">OCR und Scanqualität</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl mid">Mittel</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl live">Live</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl mid">Mittel (Vercel-Timeout)</span></td>
+        <td class="col-eff" data-lbl="Aufwand">Endpoint da · Quality-Heuristik heute</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">PDF-Text-Layer (Regex) + OpenAI Vision für Scans. Lesbarkeits-Hinweis bei wenig Text oder kein Match. Große PDFs (>10 S.) brauchen Sprint 3 Background-Worker.</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Advoware-Integration</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl high">Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl mid">CSV live · API klärungsabhängig</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl signal">Hoch (keine offene API)</span></td>
+        <td class="col-eff" data-lbl="Aufwand">CSV da · Watch-Folder ~2 Wochen</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">CSV-Bidirectional + branded PDF pro Akte live. Sprint 5: Watch-Folder-Bridge (~30 % Wahrscheinlichkeit Vollintegration falls Advoware kooperiert).</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Rollen- / Rechtekonzept</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl high">Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl live">3 von 5 live · MVP heute Abend</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl low">Niedrig im Solo · Mittel mit Personal</span></td>
+        <td class="col-eff" data-lbl="Aufwand">Refa+Hilfskraft ~1-2 Tage</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">Owner / Member / Viewer mit ~12 Scopes live. Refa und Hilfskraft als sichtbare Rollen-MVPs heute Abend nachgeschoben (Paket A). Mandant Phase 4.</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Mittelspersonen-Zugriff</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl high">Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl mid">Templates ja · Auth Sprint 4</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl signal">Hoch (DSGVO + Vollmacht)</span></td>
+        <td class="col-eff" data-lbl="Aufwand">~1 Woche Sprint 4</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">16 Mittelspersonen-Templates DE+VI bereits in Produktion. Datenmodell + Auth-Flow + Vollmacht-Validierung in Sprint 4 (August).</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Mandanten-App / Portal</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl mid">Mittel-Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl mid">Architektur vorbereitet</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl signal">Hoch (Auth + DSGVO + Pen-Test)</span></td>
+        <td class="col-eff" data-lbl="Aufwand">8-12 Wochen Phase 4</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">Phase 4 (Q4 2026) — separater Track. Magic-Link-Auth via Resend, Tenant-isolierte Mandanten-Sicht, Mobile-First, externer Pen-Test empfohlen vor Live-Gang.</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Fristen und Wiedervorlagen</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl high">Hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl live">Live</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl low">Niedrig</span></td>
+        <td class="col-eff" data-lbl="Aufwand">investiert</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">§§ 187/188 BGB-Tracker · Auto-Frist-Berechnung nach § 75 VwVfG bei Status-Wechsel · Heute-Widget mit 14-Tage-Sicht · rote Eilantrag-Eskalation bei <code style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--gold-warm);">eilantrag-abschiebung</code>.</td>
+      </tr>
+
+      <tr>
+        <td class="col-area matrix-area" data-lbl="Bereich">Datenschutz / Berufsgeheimnis</td>
+        <td class="col-pri" data-lbl="Priorität"><span class="lvl veryhigh">Sehr hoch</span></td>
+        <td class="col-mach" data-lbl="Machbarkeit"><span class="lvl live">Architektur live</span></td>
+        <td class="col-risk" data-lbl="Risiko"><span class="lvl signal">Hoch (extern audit-bedürftig)</span></td>
+        <td class="col-eff" data-lbl="Aufwand">investiert · Audit ~€2-5k extern</td>
+        <td class="col-bem matrix-bem" data-lbl="Bemerkungen">Frankfurt-Hosting · DSGVO-Anonymizer (14 PII-Patterns) · AVV-Vorlage · Audit-Log lückenlos · OpenAI no-train · Notausgang. Externes DSGVO-Audit empfohlen vor produktivem Pilot. Siehe <code style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--gold-warm);">BAO_PILOT_DATENSCHUTZ.md</code>.</td>
+      </tr>
+
+    </tbody>
+  </table>
+  <div class="cov-foot" style="margin-top: 14px; text-align: right; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; color: var(--text-mute); letter-spacing: 0.04em;">7 Bereiche live · 4 teilweise · 2 in mittelfristigen Sprints</div>
 </section>
 
 <main>
