@@ -12,3 +12,6 @@ api/node_modules
 #   python -m gitlaw_mcp.graph_builder
 # The smaller law-level (75 KB) and top-30 (6 MB) JSONs are committed.
 gitlaw_mcp/data/citation_graph.json
+
+# Private Pilot-Kommunikation — nicht für public repo
+private/
