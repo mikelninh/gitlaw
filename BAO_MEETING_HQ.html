@@ -3,522 +3,1050 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Bao-Meeting HQ · 2026-05-06</title>
+<title>Pre-Brief · Bao · 2026-05-06</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,300..900,0..100&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #0e1116;
-    --bg-soft: #161b22;
-    --bg-card: #1c2128;
-    --border: #30363d;
-    --ink: #e6edf3;
-    --ink-soft: #c9d1d9;
-    --ink-muted: #8b949e;
-    --gold: #d4a017;
-    --gold-soft: #f4c542;
-    --green: #56d364;
-    --red: #f85149;
-    --amber: #e3b341;
-    --blue: #58a6ff;
+    --ink:        #0d1014;
+    --ink-2:      #14181f;
+    --ink-3:      #1c2129;
+    --paper:      #f4ede0;
+    --paper-2:    #e8dfcc;
+    --paper-soft: #d4c8a8;
+    --rule:       #2a2e36;
+    --rule-soft:  #393d46;
+    --text:       #e9e4d4;
+    --text-soft:  #aaa494;
+    --text-mute:  #6b6759;
+    --gold:       #c89c3c;
+    --gold-warm:  #d4a93f;
+    --signal:     #d2493e;
+    --signal-2:   #b53d34;
+    --amber:      #d49736;
+    --calm:       #6b9e7a;
+    --shadow-l:   0 1px 0 rgba(255,250,235,0.04), 0 30px 60px -30px rgba(0,0,0,0.7);
   }
+
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html { scroll-behavior: smooth; }
+
   body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-    background: var(--bg);
-    color: var(--ink);
+    font-family: "Fraunces", Georgia, serif;
+    font-variation-settings: "opsz" 14, "SOFT" 30;
+    font-weight: 380;
+    background: var(--ink);
+    color: var(--text);
     line-height: 1.55;
-    padding: 0;
+    font-size: 15px;
+    overflow-x: hidden;
+    background-image:
+      radial-gradient(circle at 18% 10%, rgba(200,156,60,0.06) 0%, transparent 38%),
+      radial-gradient(circle at 88% 110%, rgba(107,158,122,0.045) 0%, transparent 50%);
+    background-attachment: fixed;
   }
+
+  /* Subtle paper grain via SVG noise */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+    opacity: 0.035;
+    mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  }
+
+  /* Hairline grid, very faint */
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+    background-image:
+      linear-gradient(to right, rgba(244,237,224,0.012) 1px, transparent 1px);
+    background-size: 100px 100%;
+  }
+
+  .mono { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 0.83em; letter-spacing: -0.01em; }
+  .small-caps { text-transform: uppercase; letter-spacing: 0.16em; font-size: 0.72em; }
+  .display { font-variation-settings: "opsz" 80, "SOFT" 60; font-weight: 320; letter-spacing: -0.02em; }
+
+  /* ── Masthead ─────────────────────────────────────────── */
   header {
-    background: linear-gradient(135deg, #1c2128 0%, #0e1116 100%);
-    border-bottom: 1px solid var(--border);
-    padding: 28px 32px;
     position: sticky;
     top: 0;
-    z-index: 10;
-    backdrop-filter: blur(8px);
+    z-index: 20;
+    border-bottom: 1px solid var(--rule);
+    background: rgba(13, 16, 20, 0.92);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
   }
-  header h1 {
-    font-size: 22px;
-    font-weight: 600;
+  .masthead {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 18px 36px 16px;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 28px;
+    align-items: center;
+  }
+  .crest {
     display: flex;
     align-items: center;
     gap: 10px;
-  }
-  header h1 .badge {
+    font-family: "JetBrains Mono", monospace;
     font-size: 11px;
+    font-weight: 500;
+    color: var(--text-mute);
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    background: var(--gold);
-    color: #000;
-    padding: 3px 8px;
-    border-radius: 4px;
-    font-weight: 700;
+    letter-spacing: 0.18em;
   }
-  header .meta {
-    color: var(--ink-muted);
-    font-size: 13px;
-    margin-top: 4px;
+  .crest .dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--calm);
+    box-shadow: 0 0 0 4px rgba(107,158,122,0.12), 0 0 12px rgba(107,158,122,0.5);
+    animation: pulse 2.4s ease-in-out infinite;
   }
-  main {
-    max-width: 1080px;
-    margin: 0 auto;
-    padding: 32px;
+  @keyframes pulse {
+    0%, 100% { box-shadow: 0 0 0 4px rgba(107,158,122,0.12), 0 0 12px rgba(107,158,122,0.5); }
+    50%      { box-shadow: 0 0 0 8px rgba(107,158,122,0.04), 0 0 20px rgba(107,158,122,0.7); }
+  }
+  .title-block {
+    text-align: center;
+  }
+  .title-block .kicker {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.32em;
+    color: var(--gold);
+    margin-bottom: 2px;
+  }
+  .title-block .title {
+    font-variation-settings: "opsz" 72, "SOFT" 50;
+    font-weight: 380;
+    font-size: 28px;
+    color: var(--paper);
+    letter-spacing: -0.02em;
+  }
+  .title-block .title em {
+    font-style: italic;
+    font-variation-settings: "opsz" 72, "SOFT" 100;
+    color: var(--gold-warm);
+  }
+  .timestamp {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 11px;
+    color: var(--text-mute);
+    text-align: right;
+    line-height: 1.7;
+  }
+  .timestamp strong { color: var(--paper); font-weight: 500; }
+
+  /* ── Hero / Briefing-Block ─────────────────────────────── */
+  .hero {
+    max-width: 1180px;
+    margin: 60px auto 40px;
+    padding: 0 36px;
+    position: relative;
+    z-index: 2;
+  }
+  .hero-rule {
+    height: 1px;
+    background: linear-gradient(to right, transparent 0%, var(--gold) 8%, var(--gold) 92%, transparent 100%);
+    opacity: 0.4;
+    margin-bottom: 36px;
+  }
+  .hero h2 {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 144, "SOFT" 100;
+    font-weight: 280;
+    font-size: clamp(48px, 7vw, 84px);
+    line-height: 0.95;
+    letter-spacing: -0.035em;
+    color: var(--paper);
+    max-width: 16ch;
+    margin-bottom: 22px;
+  }
+  .hero h2 em {
+    font-style: italic;
+    color: var(--gold);
+    font-variation-settings: "opsz" 144, "SOFT" 100;
+  }
+  .hero .lede {
+    max-width: 58ch;
+    color: var(--text-soft);
+    font-size: 17px;
+    line-height: 1.55;
+    font-variation-settings: "opsz" 18, "SOFT" 50;
+  }
+  .hero .lede strong {
+    color: var(--paper);
+    font-weight: 500;
+  }
+
+  /* ── Numbers strip (stat ribbon) ───────────────────────── */
+  .numbers {
+    max-width: 1180px;
+    margin: 0 auto 56px;
+    padding: 0 36px;
+    position: relative;
+    z-index: 2;
+  }
+  .numbers-grid {
     display: grid;
-    grid-template-columns: 1fr;
-    gap: 24px;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 0;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
   }
-  @media (min-width: 920px) {
-    main { grid-template-columns: 1fr 1fr; }
-    .full { grid-column: 1 / -1; }
+  .numbers-grid .cell {
+    padding: 22px 18px;
+    border-right: 1px solid var(--rule);
+    transition: background 200ms;
   }
-  section {
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 22px 24px;
+  .numbers-grid .cell:last-child { border-right: none; }
+  .numbers-grid .cell:hover { background: rgba(200,156,60,0.04); }
+  .numbers-grid .num {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 144, "SOFT" 100;
+    font-weight: 300;
+    font-size: 46px;
+    line-height: 1;
+    color: var(--gold-warm);
+    letter-spacing: -0.04em;
   }
-  section h2 {
-    font-size: 16px;
-    font-weight: 600;
-    color: var(--gold-soft);
-    margin-bottom: 4px;
+  .numbers-grid .lbl {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--text-mute);
+    margin-top: 8px;
+    line-height: 1.4;
+  }
+  @media (max-width: 880px) {
+    .numbers-grid { grid-template-columns: repeat(3, 1fr); }
+    .numbers-grid .cell:nth-child(3n) { border-right: none; }
+    .numbers-grid .cell:nth-child(n+4) { border-top: 1px solid var(--rule); }
+  }
+
+  /* ── Status pills row ─────────────────────────────────── */
+  .pills {
+    max-width: 1180px;
+    margin: 0 auto 80px;
+    padding: 0 36px;
     display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    position: relative;
+    z-index: 2;
+  }
+  .pill {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.04em;
+    padding: 6px 12px 5px;
+    border: 1px solid var(--rule);
+    border-radius: 1px;
+    color: var(--text-soft);
+    background: var(--ink-2);
+    display: inline-flex;
     align-items: center;
-    gap: 8px;
+    gap: 7px;
+    transition: all 180ms;
   }
-  section .subtitle {
-    color: var(--ink-muted);
-    font-size: 13px;
-    margin-bottom: 16px;
+  .pill::before {
+    content: "";
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--text-mute);
   }
+  .pill.live {
+    color: var(--paper);
+    border-color: rgba(107,158,122,0.4);
+    background: rgba(107,158,122,0.06);
+  }
+  .pill.live::before { background: var(--calm); box-shadow: 0 0 8px var(--calm); }
+  .pill.wait {
+    color: var(--paper-soft);
+    border-color: rgba(212,151,54,0.3);
+    background: rgba(212,151,54,0.05);
+  }
+  .pill.wait::before { background: var(--amber); }
+
+  /* ── Main grid with timeline spine ─────────────────────── */
+  main {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 36px 80px;
+    position: relative;
+    z-index: 2;
+  }
+  .timeline {
+    position: relative;
+    padding-left: 80px;
+  }
+  .timeline::before {
+    content: "";
+    position: absolute;
+    left: 28px;
+    top: 14px;
+    bottom: 0;
+    width: 1px;
+    background: linear-gradient(to bottom, var(--gold) 0%, var(--rule) 8%, var(--rule) 92%, transparent 100%);
+  }
+  .station {
+    position: relative;
+    margin-bottom: 64px;
+    opacity: 0;
+    animation: rise 700ms cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+  }
+  .station:nth-child(1) { animation-delay: 80ms; }
+  .station:nth-child(2) { animation-delay: 160ms; }
+  .station:nth-child(3) { animation-delay: 240ms; }
+  .station:nth-child(4) { animation-delay: 320ms; }
+  .station:nth-child(5) { animation-delay: 400ms; }
+  .station:nth-child(6) { animation-delay: 480ms; }
+  .station:nth-child(7) { animation-delay: 560ms; }
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(14px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .station::before {
+    content: "";
+    position: absolute;
+    left: -65px;
+    top: 18px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: var(--ink);
+    border: 1px solid var(--gold);
+    box-shadow: 0 0 0 3px var(--ink), 0 0 14px rgba(200,156,60,0.4);
+  }
+  .station-marker {
+    position: absolute;
+    left: -136px;
+    top: 18px;
+    width: 60px;
+    text-align: right;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10px;
+    color: var(--text-mute);
+    line-height: 1.5;
+    letter-spacing: 0.08em;
+  }
+  .station-marker strong { color: var(--gold); display: block; font-weight: 500; }
+
+  .station h3 {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 80, "SOFT" 80;
+    font-weight: 360;
+    font-size: 30px;
+    line-height: 1.05;
+    letter-spacing: -0.025em;
+    color: var(--paper);
+    margin-bottom: 6px;
+  }
+  .station h3 em {
+    font-style: italic;
+    color: var(--gold);
+  }
+  .station .station-sub {
+    color: var(--text-mute);
+    font-size: 14px;
+    font-style: italic;
+    font-variation-settings: "opsz" 14, "SOFT" 100;
+    margin-bottom: 22px;
+    max-width: 64ch;
+  }
+
+  /* ── Card body ─────────────────────────────────────────── */
+  .card {
+    background: linear-gradient(180deg, var(--ink-2) 0%, var(--ink-3) 100%);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--gold);
+    padding: 26px 30px 28px;
+    position: relative;
+    box-shadow: var(--shadow-l);
+  }
+  .card.signal-card {
+    border-left-color: var(--signal);
+  }
+  .card .corner-mark {
+    position: absolute;
+    top: 14px;
+    right: 18px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 9.5px;
+    color: var(--text-mute);
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+
+  /* ── Checklist ─────────────────────────────────────────── */
   ul.checklist {
     list-style: none;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 0;
   }
   ul.checklist li {
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
-    padding: 10px 12px;
-    border-radius: 6px;
-    background: var(--bg-soft);
-    border: 1px solid transparent;
-    cursor: pointer;
-    transition: all 120ms ease;
-  }
-  ul.checklist li:hover {
-    border-color: var(--border);
-  }
-  ul.checklist li input[type="checkbox"] {
-    margin-top: 3px;
-    width: 16px;
-    height: 16px;
-    accent-color: var(--green);
-    cursor: pointer;
-    flex-shrink: 0;
-  }
-  ul.checklist li.done {
-    opacity: 0.55;
-  }
-  ul.checklist li.done .label {
-    text-decoration: line-through;
-  }
-  ul.checklist .label {
-    flex: 1;
-    font-size: 14px;
-    color: var(--ink-soft);
-  }
-  ul.checklist .label small {
-    display: block;
-    color: var(--ink-muted);
-    font-size: 12px;
-    margin-top: 2px;
-  }
-  .pill {
-    display: inline-block;
-    font-size: 11px;
-    padding: 2px 7px;
-    border-radius: 10px;
-    margin-left: 6px;
-    font-weight: 500;
-  }
-  .pill.live { background: rgba(86, 211, 100, 0.12); color: var(--green); border: 1px solid rgba(86, 211, 100, 0.4); }
-  .pill.wait { background: rgba(227, 179, 65, 0.12); color: var(--amber); border: 1px solid rgba(227, 179, 65, 0.4); }
-  .pill.risk { background: rgba(248, 81, 73, 0.12); color: var(--red); border: 1px solid rgba(248, 81, 73, 0.4); }
-  .links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-top: 14px;
-  }
-  .links a {
-    color: var(--blue);
-    background: rgba(88, 166, 255, 0.08);
-    border: 1px solid rgba(88, 166, 255, 0.3);
-    padding: 6px 12px;
-    border-radius: 6px;
-    text-decoration: none;
-    font-size: 13px;
-    transition: all 120ms ease;
-  }
-  .links a:hover {
-    background: rgba(88, 166, 255, 0.18);
-    border-color: var(--blue);
-  }
-  .quote {
-    border-left: 3px solid var(--gold);
-    padding: 12px 16px;
-    background: rgba(212, 160, 23, 0.05);
-    color: var(--ink-soft);
-    font-style: italic;
-    font-size: 14px;
-    margin: 12px 0;
-    border-radius: 0 6px 6px 0;
-  }
-  .grid-3 {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 12px;
-    margin-top: 12px;
-  }
-  .stat {
-    background: var(--bg-soft);
-    border: 1px solid var(--border);
-    padding: 12px 14px;
-    border-radius: 8px;
-  }
-  .stat .num {
-    font-size: 22px;
-    font-weight: 700;
-    color: var(--gold-soft);
-  }
-  .stat .lbl {
-    font-size: 12px;
-    color: var(--ink-muted);
-    margin-top: 2px;
-  }
-  .demo-step {
-    display: flex;
+    grid-template-columns: 28px 1fr;
     gap: 14px;
-    align-items: flex-start;
-    padding: 12px;
-    background: var(--bg-soft);
-    border-radius: 8px;
-    margin-bottom: 10px;
-    border-left: 3px solid var(--gold);
+    padding: 14px 0;
+    border-bottom: 1px solid var(--rule);
+    cursor: pointer;
+    transition: background 160ms ease;
+    align-items: start;
   }
-  .demo-step .num {
-    background: var(--gold);
-    color: #000;
-    font-weight: 700;
-    width: 26px;
-    height: 26px;
-    border-radius: 50%;
+  ul.checklist li:last-child { border-bottom: none; }
+  ul.checklist li:hover {
+    background: rgba(244,237,224,0.025);
+  }
+  ul.checklist .checkbox {
+    width: 18px;
+    height: 18px;
+    border: 1px solid var(--rule-soft);
+    border-radius: 1px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
+    margin-top: 2px;
+    transition: all 200ms;
+    background: var(--ink);
+    position: relative;
+  }
+  ul.checklist .checkbox::after {
+    content: "";
+    width: 8px;
+    height: 4px;
+    border-left: 1.5px solid var(--ink);
+    border-bottom: 1.5px solid var(--ink);
+    transform: rotate(-45deg) translate(1px, -1px);
+    opacity: 0;
+    transition: opacity 180ms;
+  }
+  ul.checklist li.done .checkbox {
+    background: var(--gold);
+    border-color: var(--gold);
+  }
+  ul.checklist li.done .checkbox::after {
+    opacity: 1;
+  }
+  ul.checklist input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+  }
+  ul.checklist .label {
+    font-family: "Fraunces", serif;
+    font-size: 15px;
+    color: var(--paper);
+    line-height: 1.5;
+    font-variation-settings: "opsz" 16, "SOFT" 50;
+    font-weight: 380;
+    transition: opacity 200ms, color 200ms;
+  }
+  ul.checklist .label small {
+    display: block;
+    color: var(--text-mute);
     font-size: 13px;
-  }
-  .demo-step .body strong {
-    color: var(--ink);
-    display: block;
-    margin-bottom: 2px;
-  }
-  .demo-step .body small {
-    color: var(--ink-muted);
-    font-size: 12px;
-    display: block;
     margin-top: 4px;
+    font-style: italic;
+    font-variation-settings: "opsz" 13, "SOFT" 100;
   }
-  .progress-bar {
-    width: 100%;
-    height: 6px;
-    background: var(--bg-soft);
-    border-radius: 3px;
+  ul.checklist .label code {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 11.5px;
+    color: var(--gold-warm);
+    background: rgba(200,156,60,0.07);
+    padding: 1px 6px;
+    border-radius: 1px;
+  }
+  ul.checklist .label a {
+    color: var(--gold-warm);
+    text-decoration: underline;
+    text-decoration-color: rgba(200,156,60,0.4);
+    text-underline-offset: 3px;
+  }
+  ul.checklist .label a:hover { text-decoration-color: var(--gold); }
+  ul.checklist li.done .label {
+    color: var(--text-mute);
+    text-decoration: line-through;
+    text-decoration-thickness: 0.5px;
+  }
+  ul.checklist li.done .label small { color: var(--text-mute); opacity: 0.5; text-decoration: none; }
+
+  /* ── Progress ──────────────────────────────────────────── */
+  .progress {
+    margin-top: 22px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10.5px;
+    color: var(--text-mute);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .progress-track {
+    flex: 1;
+    height: 2px;
+    background: var(--rule);
     overflow: hidden;
-    margin-top: 8px;
+    position: relative;
   }
-  .progress-bar .fill {
+  .progress-fill {
     height: 100%;
-    background: linear-gradient(90deg, var(--gold), var(--green));
-    transition: width 240ms ease;
+    background: linear-gradient(to right, var(--gold-warm), var(--calm));
+    width: 0%;
+    transition: width 400ms cubic-bezier(0.2, 0.8, 0.2, 1);
   }
   .reset-btn {
     background: transparent;
-    border: 1px solid var(--border);
-    color: var(--ink-muted);
-    padding: 5px 10px;
-    border-radius: 4px;
-    font-size: 11px;
+    border: 1px solid var(--rule);
+    color: var(--text-mute);
+    padding: 4px 10px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
     cursor: pointer;
-    margin-left: auto;
+    transition: all 180ms;
   }
   .reset-btn:hover {
-    color: var(--ink);
-    border-color: var(--ink-muted);
+    color: var(--paper);
+    border-color: var(--gold);
   }
-  details {
-    background: var(--bg-soft);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 10px 14px;
-    margin-top: 8px;
+
+  /* ── Demo steps (numbered manuscript) ──────────────────── */
+  .manuscript {
+    counter-reset: step;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
   }
-  details summary {
-    cursor: pointer;
-    font-size: 13px;
-    font-weight: 500;
-    color: var(--ink-soft);
+  .step {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 24px;
+    padding: 22px 0;
+    border-bottom: 1px solid var(--rule);
+    align-items: start;
   }
-  details > div {
-    margin-top: 10px;
-    font-size: 13px;
-    color: var(--ink-soft);
-    line-height: 1.6;
+  .step:last-child { border-bottom: none; }
+  .step::before {
+    counter-increment: step;
+    content: counter(step, decimal-leading-zero);
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 144, "SOFT" 60;
+    font-weight: 280;
+    font-size: 44px;
+    color: var(--gold);
+    line-height: 0.85;
+    letter-spacing: -0.04em;
+    margin-top: -6px;
   }
-  details code {
-    background: var(--bg);
-    padding: 1px 6px;
-    border-radius: 3px;
-    font-size: 12px;
-    color: var(--gold-soft);
+  .step-title {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 32, "SOFT" 50;
+    font-weight: 420;
+    font-size: 19px;
+    color: var(--paper);
+    margin-bottom: 6px;
+    letter-spacing: -0.01em;
   }
-  footer {
+  .step-body {
+    color: var(--text-soft);
+    font-size: 14.5px;
+    line-height: 1.55;
+    margin-bottom: 8px;
+  }
+  .step-meta {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10.5px;
+    color: var(--text-mute);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  /* ── Pull-quote ────────────────────────────────────────── */
+  .pull {
+    margin: 32px 0 8px;
+    padding: 24px 0 20px;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
     text-align: center;
-    color: var(--ink-muted);
-    font-size: 12px;
-    padding: 20px;
-    border-top: 1px solid var(--border);
-    margin-top: 20px;
   }
+  .pull blockquote {
+    font-family: "Fraunces", serif;
+    font-style: italic;
+    font-variation-settings: "opsz" 80, "SOFT" 100;
+    font-weight: 320;
+    font-size: 22px;
+    line-height: 1.4;
+    color: var(--paper);
+    letter-spacing: -0.01em;
+    max-width: 36ch;
+    margin: 0 auto;
+  }
+  .pull blockquote::before, .pull blockquote::after {
+    content: "";
+    display: inline-block;
+    width: 28px;
+    height: 1px;
+    background: var(--gold);
+    vertical-align: middle;
+    margin: 0 14px;
+    opacity: 0.6;
+  }
+
+  /* ── Risk panels ────────────────────────────────────────── */
+  details.risk {
+    border-top: 1px solid var(--rule);
+    padding: 14px 0 16px;
+  }
+  details.risk:first-of-type { border-top: none; padding-top: 6px; }
+  details.risk summary {
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    font-family: "Fraunces", serif;
+    font-size: 15px;
+    font-variation-settings: "opsz" 16, "SOFT" 60;
+    color: var(--paper);
+    transition: color 180ms;
+  }
+  details.risk summary::-webkit-details-marker { display: none; }
+  details.risk summary::before {
+    content: "+";
+    font-family: "JetBrains Mono", monospace;
+    color: var(--signal);
+    font-size: 14px;
+    width: 12px;
+    transition: transform 220ms;
+    flex-shrink: 0;
+  }
+  details.risk[open] summary::before { content: "−"; }
+  details.risk summary:hover { color: var(--gold-warm); }
+  details.risk .risk-tag {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 9.5px;
+    color: var(--signal);
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    border: 1px solid rgba(210,73,62,0.4);
+    padding: 2px 7px;
+    flex-shrink: 0;
+  }
+  details.risk > .risk-body {
+    margin-top: 14px;
+    margin-left: 26px;
+    padding: 14px 18px;
+    border-left: 2px solid var(--signal);
+    background: rgba(210,73,62,0.04);
+    color: var(--text-soft);
+    font-size: 14px;
+    line-height: 1.65;
+  }
+  details.risk .risk-body strong { color: var(--paper); font-weight: 520; }
+  details.risk .risk-body code {
+    font-family: "JetBrains Mono", monospace;
+    color: var(--gold-warm);
+    font-size: 12.5px;
+    background: rgba(0,0,0,0.3);
+    padding: 1px 6px;
+  }
+
+  /* ── Quote/pricing ─────────────────────────────────────── */
+  .pricing {
+    border-left: 3px solid var(--gold);
+    padding: 22px 26px;
+    background:
+      linear-gradient(180deg, rgba(200,156,60,0.06) 0%, rgba(200,156,60,0.02) 100%);
+    margin-bottom: 18px;
+  }
+  .pricing p {
+    font-family: "Fraunces", serif;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 1.55;
+    color: var(--paper);
+    font-variation-settings: "opsz" 18, "SOFT" 100;
+  }
+  .pricing strong { font-style: normal; color: var(--gold-warm); font-weight: 600; }
+
+  /* ── Links / Quick-Nav ─────────────────────────────────── */
+  .nav-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0;
+    border: 1px solid var(--rule);
+  }
+  .nav-grid a {
+    padding: 18px 22px;
+    border-right: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    text-decoration: none;
+    color: var(--paper-soft);
+    font-family: "Fraunces", serif;
+    font-size: 15px;
+    transition: all 200ms;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    position: relative;
+    background: var(--ink-2);
+  }
+  .nav-grid a:hover {
+    background: var(--ink-3);
+    color: var(--gold-warm);
+  }
+  .nav-grid a::after {
+    content: "→";
+    font-family: "JetBrains Mono", monospace;
+    color: var(--text-mute);
+    font-size: 12px;
+    transition: transform 200ms, color 200ms;
+  }
+  .nav-grid a:hover::after {
+    color: var(--gold);
+    transform: translateX(4px);
+  }
+  .nav-grid a small {
+    display: block;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 9.5px;
+    color: var(--text-mute);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    margin-top: 4px;
+  }
+  .nav-grid a > div { flex: 1; }
+
+  /* ── Footer ────────────────────────────────────────────── */
+  footer {
+    max-width: 1180px;
+    margin: 60px auto 0;
+    padding: 30px 36px 40px;
+    border-top: 1px solid var(--rule);
+    text-align: center;
+    position: relative;
+    z-index: 2;
+  }
+  footer .closing {
+    font-family: "Fraunces", serif;
+    font-style: italic;
+    font-variation-settings: "opsz" 32, "SOFT" 100;
+    font-weight: 340;
+    font-size: 22px;
+    color: var(--paper);
+    margin-bottom: 12px;
+    letter-spacing: -0.01em;
+  }
+  footer .meta {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10.5px;
+    color: var(--text-mute);
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+
+  /* ── Responsive timeline collapse ──────────────────────── */
+  @media (max-width: 760px) {
+    .timeline { padding-left: 36px; }
+    .timeline::before { left: 8px; }
+    .station::before { left: -32px; }
+    .station-marker { display: none; }
+    .hero h2 { font-size: 44px; }
+    .step { grid-template-columns: 48px 1fr; gap: 16px; }
+    .step::before { font-size: 32px; }
+    .masthead { grid-template-columns: 1fr; gap: 12px; text-align: center; padding: 16px 20px; }
+    .crest, .timestamp { justify-content: center; text-align: center; }
+    .hero, .numbers, .pills, main, footer { padding-left: 20px; padding-right: 20px; }
+  }
+
+  ::selection { background: var(--gold); color: var(--ink); }
 </style>
 </head>
 <body>
 
 <header>
-  <h1>
-    Bao-Meeting HQ
-    <span class="badge">heute, 18:00</span>
-  </h1>
-  <div class="meta">
-    Stand: 2026-05-06 · Repo <code>main</code> · Live: <a href="https://gitlaw-xi.vercel.app/#/bao" target="_blank" style="color: var(--blue);">gitlaw-xi.vercel.app/#/bao</a>
+  <div class="masthead">
+    <div class="crest">
+      <span class="dot"></span>
+      <span>GitLaw Pro · Pre-Brief</span>
+    </div>
+    <div class="title-block">
+      <div class="kicker">Sitzung № 1 · Mandatsaufnahme</div>
+      <div class="title">Mit <em>Bao Nguyen</em></div>
+    </div>
+    <div class="timestamp">
+      <strong>2026-05-06</strong><br>
+      heute, 18:00 · CEST
+    </div>
   </div>
 </header>
 
+<section class="hero">
+  <div class="hero-rule"></div>
+  <h2>Was steht, was wartet, <em>was gleich passiert.</em></h2>
+  <p class="lede">
+    Sieben Wochen Lastenheft, acht Tage Code, elf Commits. Hier ist alles, was du heute Abend brauchst, in der Reihenfolge, in der du es brauchst — ein Cockpit, kein Karteikasten. <strong>Beginne oben links, arbeite die Zeitleiste ab.</strong>
+  </p>
+</section>
+
+<section class="numbers">
+  <div class="numbers-grid">
+    <div class="cell"><div class="num">11</div><div class="lbl">Mandatsarten<br>kuratiert</div></div>
+    <div class="cell"><div class="num">108</div><div class="lbl">Pflicht-Items<br>im Schema</div></div>
+    <div class="cell"><div class="num">8</div><div class="lbl">Stati mit<br>Übergangs-Regeln</div></div>
+    <div class="cell"><div class="num">32</div><div class="lbl">Sachstand-<br>Templates DE+VI</div></div>
+    <div class="cell"><div class="num">17</div><div class="lbl">Behörden<br>vorbefüllt</div></div>
+    <div class="cell"><div class="num">11</div><div class="lbl">Commits seit<br>Lastenheft</div></div>
+  </div>
+</section>
+
+<section class="pills" aria-label="Feature-Status">
+  <span class="pill live">Modul A · Checklisten</span>
+  <span class="pill live">Modul B · Status + Sachstand</span>
+  <span class="pill live">Demo-Akte Phạm Văn Đức</span>
+  <span class="pill live">Behörden-DB</span>
+  <span class="pill live">Heute-Widget</span>
+  <span class="pill live">Auto-Frist § 75 VwVfG</span>
+  <span class="pill live">OCR-Drop-Zone</span>
+  <span class="pill live">Eilantrag-Eskalation</span>
+  <span class="pill wait">Modul C · VI-Recherche</span>
+  <span class="pill wait">Modul D · Tasks</span>
+</section>
+
 <main>
+<div class="timeline">
 
-  <section class="full">
-    <h2>📊 Status — was steht, was wartet</h2>
-    <div class="subtitle">Stand 10:30 Uhr nach gestrigem Push und manuellem Vercel-Redeploy.</div>
-    <div class="grid-3">
-      <div class="stat"><div class="num">11</div><div class="lbl">Mandatsarten mit Checklisten</div></div>
-      <div class="stat"><div class="num">108</div><div class="lbl">kuratierte Pflicht-Items</div></div>
-      <div class="stat"><div class="num">8</div><div class="lbl">Stati mit Übergangs-Regeln</div></div>
-      <div class="stat"><div class="num">32</div><div class="lbl">Sachstand-Templates DE+VI</div></div>
-      <div class="stat"><div class="num">17</div><div class="lbl">Behörden vorbefüllt</div></div>
-      <div class="stat"><div class="num">10</div><div class="lbl">Commits seit Lastenheft</div></div>
-    </div>
-    <div style="margin-top: 18px; display: flex; flex-wrap: wrap; gap: 8px;">
-      <span class="pill live">Modul A · Checklisten</span>
-      <span class="pill live">Modul B · Status + Sachstand</span>
-      <span class="pill live">Demo-Akte Phạm Văn Đức</span>
-      <span class="pill live">Behörden-DB</span>
-      <span class="pill live">Heute-Widget</span>
-      <span class="pill live">Auto-Frist § 75 VwVfG</span>
-      <span class="pill live">OCR-Drop-Zone</span>
-      <span class="pill wait">Eilantrag-Eskalation (deployt im Hintergrund)</span>
-      <span class="pill wait">Modul C · VI in Recherche (wartet auf Voice-Anchor)</span>
-      <span class="pill wait">Modul D · Tasks (Sprint-1-Rest)</span>
-    </div>
-  </section>
-
-  <section>
-    <h2>✅ A · Smoke-Test live <button class="reset-btn" onclick="resetSection('smoke')">Reset</button></h2>
-    <div class="subtitle">15-20 Min vor dem Meeting auf <code>/#/bao</code>. Ein Klick pro Punkt.</div>
-    <ul class="checklist" data-section="smoke">
-      <li><input type="checkbox" /><span class="label">Browser auf <a href="https://gitlaw-xi.vercel.app/#/bao" target="_blank" style="color: var(--blue);">gitlaw-xi.vercel.app/#/bao</a> öffnen<small>Hard-Refresh mit Cmd-Shift-R falls alte Version</small></span></li>
-      <li><input type="checkbox" /><span class="label">„Demo-Akte anlegen" klicken<small>Sollte zu /pro/akten redirecten und AZ-2026-0042 zeigen</small></span></li>
-      <li><input type="checkbox" /><span class="label">Vietnamesische Diakritika prüfen<small>„Phạm Văn Đức" muss korrekt erscheinen, nicht „Pham Van Duc"</small></span></li>
-      <li><input type="checkbox" /><span class="label">Heute-Widget oben im Dashboard sichtbar<small>Mindestens „Frist in 17 Tagen" sollte auftauchen</small></span></li>
-      <li><input type="checkbox" /><span class="label">Akte öffnen → Checkliste mit 10 Items, davon 6 ✓ erhalten<small>Toggle ein Item: Status wechselt</small></span></li>
-      <li><input type="checkbox" /><span class="label">Status-Dropdown öffnen<small>Nur erlaubte Folge-Stati werden angezeigt (Übergangs-Regeln greifen)</small></span></li>
-      <li><input type="checkbox" /><span class="label">Status auf „Antrag eingereicht" wechseln<small>Auto-Frist-Banner sollte erscheinen, neue Frist gesetzt</small></span></li>
-      <li><input type="checkbox" /><span class="label">Sachstand-Generator → DE+VI laden<small>„Ausländerbehörde Berlin Mitte" muss in beiden Texten stehen</small></span></li>
-      <li><input type="checkbox" /><span class="label">Empfänger-Toggle Mandant/Mittelsperson<small>Beide Templates wechseln korrekt</small></span></li>
-      <li><input type="checkbox" /><span class="label">Copy-Button DE → in Notes/Mail einfügen<small>Reine Funktionsprüfung</small></span></li>
-      <li><input type="checkbox" /><span class="label">OCR-Drop-Zone: Foto/Bild rein werfen<small>Vorschlag „Bestätigen" / „Verwerfen" sollte erscheinen</small></span></li>
-      <li><input type="checkbox" /><span class="label">Mobile-Test: Safari auf Handy, /#/bao öffnen<small>Demo-Button + Sachstand-Drawer berührbar?</small></span></li>
-      <li><input type="checkbox" /><span class="label">Backup-Plan: <code>npm run dev</code> in viewer/ läuft auf :5173<small>Falls Vercel um 18 Uhr wieder zickt</small></span></li>
-    </ul>
-    <div class="progress-bar"><div class="fill" id="smoke-progress"></div></div>
-  </section>
-
-  <section>
-    <h2>🎯 Demo-Skript (5 Schritte für Bao)</h2>
-    <div class="subtitle">Reihenfolge ist wichtig. Jeder Schritt antwortet auf einen Lastenheft-§.</div>
-
-    <div class="demo-step">
-      <div class="num">1</div>
-      <div class="body">
-        <strong>Demo-Akte in einem Klick</strong>
-        Auf /bao → „Demo-Akte anlegen" → AZ-2026-0042 erscheint
-        <small>§1 Aktenanlage · §3 Datenmodell · §6 Mandantendaten</small>
+  <article class="station">
+    <div class="station-marker"><strong>17:30 — 17:50</strong>vor dem Termin</div>
+    <h3>Zuerst: <em>Smoke-Test live.</em></h3>
+    <p class="station-sub">15–20 Minuten. Ein Klick pro Punkt. Häkchen überleben Refresh — falls jemand klingelt, du gehst nicht verloren.</p>
+    <div class="card">
+      <span class="corner-mark">A · Pre-Flight</span>
+      <ul class="checklist" data-section="smoke">
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Browser auf <a href="https://gitlaw-xi.vercel.app/#/bao" target="_blank">gitlaw-xi.vercel.app/#/bao</a> öffnen<small>Hard-Refresh mit Cmd-Shift-R falls eine alte Version cacht</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">„Demo-Akte anlegen" klicken<small>Sollte zu /pro/akten redirecten und AZ-2026-0042 zeigen</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Vietnamesische Diakritika prüfen<small>„Phạm Văn Đức" muss korrekt erscheinen, nicht „Pham Van Duc"</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Heute-Widget oben im Dashboard sichtbar<small>Mindestens „Frist in 17 Tagen" sollte auftauchen</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Akte öffnen → Checkliste mit 10 Items, 6 ✓ erhalten<small>Ein Item togglen: Status wechselt sauber</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Status-Dropdown: nur erlaubte Folge-Stati werden angezeigt<small>Übergangs-Regeln greifen</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Status auf „Antrag eingereicht" wechseln<small>Auto-Frist-Banner erscheint, neue Frist wird gesetzt</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Sachstand-Generator → DE+VI laden<small>„Ausländerbehörde Berlin Mitte" muss in beiden Texten stehen</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Empfänger-Toggle Mandant ↔ Mittelsperson<small>Beide Templates wechseln korrekt</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Copy-Button DE → in Notes/Mail einfügen<small>Reine Funktionsprüfung</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">OCR-Drop-Zone: Foto/Bild hineinwerfen<small>Vorschlag „Bestätigen" / „Verwerfen" sollte erscheinen</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Eilantrag-Eskalation testen: Mandatsart kurz auf <code>eilantrag-abschiebung</code> ändern<small>Rote Box muss ganz oben im Dashboard erscheinen — danach wieder zurücksetzen</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Mobile-Test: Safari auf Handy, /#/bao öffnen<small>Demo-Button + Sachstand-Drawer berührbar?</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Backup-Plan: <code>npm run dev</code> in viewer/ läuft auf :5173<small>Falls Vercel um 18 Uhr wieder zickt</small></span></li>
+      </ul>
+      <div class="progress">
+        <span>Fortschritt</span>
+        <div class="progress-track"><div class="progress-fill" id="smoke-progress"></div></div>
+        <span id="smoke-count">0 / 14</span>
+        <button class="reset-btn" onclick="resetSection('smoke')">Reset</button>
       </div>
     </div>
+  </article>
 
-    <div class="demo-step">
-      <div class="num">2</div>
-      <div class="body">
-        <strong>Mandatsart-Checkliste</strong>
-        Akte öffnen → 10 Items · Toggle pending/received/problem · Filter „nur Pflicht-Unterlagen"
-        <small>§4 Unterlagenprüfung · §11 Mandatsart-Logik · Sprint-1-Modul-A</small>
+  <article class="station">
+    <div class="station-marker"><strong>18:00 — 18:25</strong>im Meeting</div>
+    <h3>Dann: <em>fünf Schritte, klare Reihenfolge.</em></h3>
+    <p class="station-sub">Jeder Schritt antwortet auf einen Lastenheft-Paragraphen. Bao führt mit Fragen, du antwortest mit der App.</p>
+    <div class="card">
+      <span class="corner-mark">B · Demo-Skript</span>
+      <div class="manuscript">
+        <div class="step">
+          <div>
+            <div class="step-title">Demo-Akte in einem Klick</div>
+            <p class="step-body">Auf /bao → „Demo-Akte anlegen" → AZ-2026-0042 erscheint mit vietnamesischen Diakritika und 17 Tagen Restfrist.</p>
+            <div class="step-meta">§1 Aktenanlage · §3 Datenmodell · §6 Mandantendaten</div>
+          </div>
+        </div>
+        <div class="step">
+          <div>
+            <div class="step-title">Mandatsart-Checkliste</div>
+            <p class="step-body">Akte öffnen — 10 Items, Status pro Item togglebar, Filter „nur Pflicht-Unterlagen". 108 kuratierte Items insgesamt im Schema.</p>
+            <div class="step-meta">§4 Unterlagenprüfung · §11 Mandatsart-Logik · Modul A</div>
+          </div>
+        </div>
+        <div class="step">
+          <div>
+            <div class="step-title">Status-Workflow + Auto-Frist</div>
+            <p class="step-body">Dropdown: nur erlaubte Folge-Stati. Auf „Antrag eingereicht" → Frist nach § 75 VwVfG (3 Monate) automatisch eingetragen.</p>
+            <div class="step-meta">§7 Status-Modell · §8 Workflow-Regeln · Modul B</div>
+          </div>
+        </div>
+        <div class="step">
+          <div>
+            <div class="step-title">Sachstand-Generator DE+VI <em>— der Kern</em></div>
+            <p class="step-body">2-Spalten-Drawer. Mandantenname, Behörde, Aktenzeichen werden automatisch eingesetzt. Toggle Mandant/Mittelsperson — beide Templates wechseln, Copy-Buttons pro Sprache.</p>
+            <div class="step-meta">§9 Sachstands-Mitteilung · §15 Bilingualität · §17 Mittelspersonen</div>
+          </div>
+        </div>
+        <div class="step">
+          <div>
+            <div class="step-title">OCR-Drop-Zone <em>— Beta-Erkennung</em></div>
+            <p class="step-body">Bild rein → Keyword-Match-Vorschlag → Bestätigen/Verwerfen. Ehrlich als Beta labeln. Voice-Polish kommt nach deinem Feedback.</p>
+            <div class="step-meta">§4 Auto-Klassifikation · Sprint-3-Vorschau</div>
+          </div>
+        </div>
+      </div>
+      <div class="pull">
+        <blockquote>Das ist nicht alles, aber es ist alles, was funktionieren muss bevor wir über mehr reden.</blockquote>
       </div>
     </div>
+  </article>
 
-    <div class="demo-step">
-      <div class="num">3</div>
-      <div class="body">
-        <strong>Status-Workflow + Auto-Frist</strong>
-        Dropdown öffnen → nur erlaubte Folge-Stati · auf „Antrag eingereicht" → Frist nach § 75 VwVfG automatisch gesetzt
-        <small>§7 Status-Modell · §8 Workflow-Regeln · Sprint-1-Modul-B</small>
+  <article class="station">
+    <div class="station-marker"><strong>im Gespräch</strong>5 Antworten</div>
+    <h3>Was du <em>zurückbringen</em> musst.</h3>
+    <p class="station-sub">Ohne diese Antworten bauen wir nach dem Meeting blind. Mit ihnen wird Sprint-1-Rest präzise.</p>
+    <div class="card">
+      <span class="corner-mark">C · Frage-Liste</span>
+      <ul class="checklist" data-section="ask">
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label"><strong>Top-3 Mandatsarten</strong> in seiner echten Häufigkeit<small>Entscheidet wo wir die Checklisten weiter vertiefen</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label"><strong>5 echte Sachstands-E-Mails</strong> (anonymisiert, DE und VI gemischt)<small>Voice-Anchor für Modul C — ohne die bauen wir blind</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label"><strong>Mittelsperson-Häufigkeit</strong> — wie oft schreibt er an Familie/Dolmetscher statt direkt an Mandant?<small>Beeinflusst Sprint-4-Priorität</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label"><strong>Behörden-Lücken</strong> — welche fehlen in der DB?<small>Aktuell 17 Berliner — fehlt LEA Brandenburg, BAMF Außenstelle, etc.?</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label"><strong>Advoware-Lizenzstufe</strong> für §15-Antwort<small>Standard / Pro / Anwaltskanzlei-Edition — beeinflusst API-Zugang</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label"><strong>5 Klärungsfragen</strong> aus Anhang A der Antwort durchgehen<small>Datei: BAO_KI_DATENVERARBEITUNG_ANTWORT.md</small></span></li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="station">
+    <div class="station-marker"><strong>wenn er fragt</strong>Preis</div>
+    <h3>Was es <em>kostet.</em></h3>
+    <p class="station-sub">Im Lastenheft hat er kein Budget genannt. Diese Antwort ist vorbereitet, ruhig vorgetragen.</p>
+    <div class="card">
+      <span class="corner-mark">D · Pricing</span>
+      <div class="pricing">
+        <p>„Vier Wochen kostenloser Pilot — wir nutzen die Zeit, um die VI-Templates mit deinen echten Mails zu polieren und Sprint-1-Modul-D zu liefern. Danach: <strong>€149 / RA / Monat</strong> Kanzlei-Tier mit allem, was du heute siehst, plus Cloud-Sync. Mittelspersonen-Add-on bei Sprint 4 für €+50. Wenn nach 60 Tagen nicht ≥ €1.000 Zeit gespart sind — volle Rückerstattung."</p>
+      </div>
+      <details class="risk">
+        <summary>Falls er nach Vergleich mit RA-Micro / DATEV / advoware fragt</summary>
+        <div class="risk-body">
+          <strong>Differenzierungs-Punkte (knapp, nicht ablesen — auswendig):</strong><br>
+          · Migration-spezifisch (11 Mandatsarten kuratiert) — die Großen sind Generalisten<br>
+          · DE+VI bilingual von Tag 1 — keiner sonst<br>
+          · KI-gestützt mit verifizierten Zitaten (53/53 Eval-Cases) — keine Halluzinationen<br>
+          · DSGVO-Anonymizer vor jeder LLM-Anfrage — keiner sonst<br>
+          · Frankfurt-Hosting durchgängig (Vercel + Upstash + Resend EU)<br>
+          · Open Source (AGPL-3.0) — er kann jederzeit den Code prüfen
+        </div>
+      </details>
+    </div>
+  </article>
+
+  <article class="station">
+    <div class="station-marker"><strong>wenn etwas hakt</strong>Notfall</div>
+    <h3>Vier Sachen, die <em>schiefgehen</em> können.</h3>
+    <p class="station-sub">Aufklappen, lesen, Antwort kennen. Niemand merkt, dass du was nachschlägst, wenn du es kennst.</p>
+    <div class="card signal-card">
+      <span class="corner-mark">E · Risiken</span>
+
+      <details class="risk">
+        <summary><span class="risk-tag">Risiko 01</span><span>OCR matched bei einem Arbeitsvertrag „Sprachzeugnis" weil „B1" drinsteht</span></summary>
+        <div class="risk-body">
+          <strong>Antwort:</strong> „Das ist genau warum nichts automatisch akzeptiert wird. Der Match-Vorschlag ist Beta — der Verifier bist du. Ich poliere die Aliasse mit deinen echten PDFs."<br><br>
+          <strong>Demo-Tipp:</strong> Zeig OCR mit einem Foto, wo der Match eindeutig ist (Reisepass-Hauptseite). Die Schwächen kommen ins Voice-Polish-Gespräch.
+        </div>
+      </details>
+
+      <details class="risk">
+        <summary><span class="risk-tag">Risiko 02</span><span>Vercel ist nicht erreichbar / 500-Error</span></summary>
+        <div class="risk-body">
+          <strong>Plan B:</strong> Lokales <code>npm run dev</code> in <code>viewer/</code> läuft auf <code>localhost:5173</code>. URL für Bao: <code>http://localhost:5173/#/bao</code><br><br>
+          <strong>Vorbereiten:</strong> Dev-Server vor dem Meeting starten und im Browser-Tab offen lassen.<br>
+          <strong>Wenn das auch nicht geht:</strong> Screenshots durchklicken, ehrlich sagen „Server hat einen Moment, der Code ist da."
+        </div>
+      </details>
+
+      <details class="risk">
+        <summary><span class="risk-tag">Risiko 03</span><span>Bao überschüttet dich mit Wünschen, du sagst zu allem ja</span></summary>
+        <div class="risk-body">
+          <strong>Schablone:</strong> „Spannend, kommt auf die Liste — lass uns nach dem Termin gemeinsam priorisieren, sonst landet Sprint 1 nicht."<br><br>
+          Du entscheidest die Reihenfolge nach dem Meeting, nicht im Meeting. Reservier dir 24h Reflektionsfenster.
+        </div>
+      </details>
+
+      <details class="risk">
+        <summary><span class="risk-tag">Risiko 04</span><span>Demo-Button funktioniert nicht — Akte erscheint nicht</span></summary>
+        <div class="risk-body">
+          <strong>1.</strong> DevTools öffnen → Application → Local Storage → alles unter <code>gitlaw.pro.*</code> löschen<br>
+          <strong>2.</strong> Hard-Refresh (Cmd-Shift-R)<br>
+          <strong>3.</strong> Nochmal „Demo-Akte anlegen" klicken<br>
+          <strong>4.</strong> Wenn weiter kaputt: manuell Akte anlegen via /pro/akten/new
+        </div>
+      </details>
+    </div>
+  </article>
+
+  <article class="station">
+    <div class="station-marker"><strong>nach dem Termin</strong>30 Min</div>
+    <h3>Sofort, <em>solange du dich erinnerst.</em></h3>
+    <p class="station-sub">Sieben Sachen, bevor du das Gespräch vergisst. Häkchen sind Anker für morgen.</p>
+    <div class="card">
+      <span class="corner-mark">F · Nach-Meeting</span>
+      <ul class="checklist" data-section="after">
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Bao's Voice-Anchor-Mails sofort ablegen<small>Ordner: gitlaw/.bao-anchors/ (gitignore vorher!)</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Top-3 Mandatsarten notieren<small>Reihenfolge bestimmt Sprint-1-Rest</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Behörden-Lücken in <code>behoerden.ts</code> ergänzen<small>Datei: viewer/src/pro/behoerden.ts</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Klärungsfragen-Antworten in BAO_KI_DATENVERARBEITUNG_ANTWORT.md eintragen<small>Anhang A-Sektion erweitern</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Sprint-1-Plan revidieren basierend auf Bao's Reihenfolge<small>SPRINT_1_PLAN.md</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Memory-Update: Bao-Pilot-Status (zugesagt vs. offen)<small>~/.claude/projects/-Users-mikel-safevoice/memory/</small></span></li>
+        <li><input type="checkbox" /><span class="checkbox"></span><span class="label">Dankesnachricht an Bao mit 1-Pager Zusammenfassung<small>Was wurde gezeigt + nächste Schritte + bis wann</small></span></li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="station">
+    <div class="station-marker"><strong>jederzeit</strong>Quick-Nav</div>
+    <h3>Verweise.</h3>
+    <p class="station-sub">Falls Bao auf Code, Antwort-Dokument, oder Repo schauen will.</p>
+    <div class="card">
+      <span class="corner-mark">G · Links</span>
+      <div class="nav-grid">
+        <a href="https://gitlaw-xi.vercel.app/#/bao" target="_blank"><div>Bao Welcome<small>Live</small></div></a>
+        <a href="https://gitlaw-xi.vercel.app/#/pro" target="_blank"><div>Pro App<small>Live</small></div></a>
+        <a href="https://github.com/mikelninh/gitlaw" target="_blank"><div>GitHub Repo<small>Source</small></div></a>
+        <a href="https://vercel.com/hallochupi-7378s-projects/gitlaw" target="_blank"><div>Vercel Dashboard<small>Deploy-Status</small></div></a>
+        <a href="BAO_KI_DATENVERARBEITUNG_ANTWORT.md" target="_blank"><div>Antwort-Dokument<small>Lastenheft-Mapping</small></div></a>
+        <a href="BAO_DEMO_SKRIPT_2026-05-06.md" target="_blank"><div>Demo-Skript MD<small>Lang-Version</small></div></a>
+        <a href="SPRINT_1_PLAN.md" target="_blank"><div>Sprint-1-Plan<small>Module A-D</small></div></a>
       </div>
     </div>
+  </article>
 
-    <div class="demo-step">
-      <div class="num">4</div>
-      <div class="body">
-        <strong>Sachstand-Generator DE+VI — der Kern</strong>
-        Klick → 2-Spalten-Drawer · Mandantenname, Behörde, Aktenzeichen automatisch eingesetzt · Mandant/Mittelsperson-Toggle
-        <small>§9 Sachstands-Mitteilung · §15 Bilingualität · §17 Mittelspersonen vorbereitet</small>
-      </div>
-    </div>
-
-    <div class="demo-step">
-      <div class="num">5</div>
-      <div class="body">
-        <strong>OCR-Drop-Zone (Beta-Erkennung)</strong>
-        Bild rein → Keyword-Match-Vorschlag → Bestätigen/Verwerfen · ehrlich als Beta labeln
-        <small>§4 Auto-Klassifikation · Sprint-3-Vorschau</small>
-      </div>
-    </div>
-
-    <div class="quote">
-      „Bao, das ist nicht alles, aber es ist alles, was funktionieren muss bevor wir über mehr reden."
-    </div>
-  </section>
-
-  <section>
-    <h2>🎤 C · Was du Bao zurückbringen musst <button class="reset-btn" onclick="resetSection('ask')">Reset</button></h2>
-    <div class="subtitle">Diese 5 Antworten brauche ich für Sprint-1-Rest und Sprint-2-Plan.</div>
-    <ul class="checklist" data-section="ask">
-      <li><input type="checkbox" /><span class="label"><strong>Top-3 Mandatsarten</strong> in seiner echten Häufigkeit<small>Entscheidet wo wir die Checklisten weiter vertiefen</small></span></li>
-      <li><input type="checkbox" /><span class="label"><strong>5 echte Sachstands-E-Mails</strong> (anonymisiert, DE und VI gemischt)<small>Voice-Anchor für Modul C — ohne die bauen wir blind</small></span></li>
-      <li><input type="checkbox" /><span class="label"><strong>Mittelsperson-Häufigkeit</strong> — wie oft schreibt er an Familie/Dolmetscher statt direkt an Mandant?<small>Beeinflusst Sprint-4-Priorität</small></span></li>
-      <li><input type="checkbox" /><span class="label"><strong>Behörden-Lücken</strong> — welche fehlen in der DB?<small>Aktuell 17 Berliner — fehlt LEA Brandenburg, BAMF Außenstelle X, etc.?</small></span></li>
-      <li><input type="checkbox" /><span class="label"><strong>Advoware-Lizenzstufe</strong> für §15-Antwort<small>Standard / Pro / Anwaltskanzlei-Edition — beeinflusst API-Zugang</small></span></li>
-      <li><input type="checkbox" /><span class="label"><strong>5 Klärungsfragen</strong> aus Anhang A der Antwort durchgehen<small>Datei: BAO_KI_DATENVERARBEITUNG_ANTWORT.md</small></span></li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>💰 Wenn er nach Preis fragt</h2>
-    <div class="subtitle">Er hat im Lastenheft kein Budget genannt. Vorbereitete Antwort:</div>
-    <div class="quote">
-      „4 Wochen kostenloser Pilot — wir nutzen die Zeit um die VI-Templates mit deinen echten Mails zu polieren und Sprint-1-Modul-D zu liefern. Danach: <strong>€149 / RA / Monat</strong> Kanzlei-Tier mit allem was du heute siehst plus Cloud-Sync. Mittelspersonen-Add-on bei Sprint 4 für €+50. Wenn nach 60 Tagen nicht ≥ €1.000 Zeit gespart sind — volle Rückerstattung."
-    </div>
-    <details>
-      <summary>Falls er nach Vergleich fragt (RA-Micro, DATEV, advoware)</summary>
-      <div>
-        <strong>Differenzierungs-Punkte:</strong><br>
-        · Migration-spezifisch (11 Mandatsarten kuratiert) — die Großen sind Generalisten<br>
-        · DE+VI bilingual von Tag 1 — keiner sonst<br>
-        · KI-gestützt mit verifizierten Zitaten (53/53 Eval-Cases) — keine Halluzinationen<br>
-        · DSGVO-Anonymizer vor jeder LLM-Anfrage — keiner sonst<br>
-        · Frankfurt-Hosting durchgängig (Vercel + Upstash + Resend EU)<br>
-        · Open Source (AGPL-3.0) — er kann jederzeit den Code prüfen
-      </div>
-    </details>
-  </section>
-
-  <section>
-    <h2>⚠ Risiken & Notfall-Antworten</h2>
-    <div class="subtitle">Drei Sachen die schiefgehen können — und was du sagst.</div>
-
-    <details>
-      <summary><span class="pill risk">Risiko</span> OCR matched bei einem Arbeitsvertrag „Sprachzeugnis" weil „B1" drinsteht</summary>
-      <div>
-        <strong>Antwort:</strong> „Das ist genau warum nichts automatisch akzeptiert wird. Der Match-Vorschlag ist Beta — der Verifier bist du. Ich poliere die Aliasse mit deinen echten PDFs."<br><br>
-        <strong>Demo-Tipp:</strong> Zeig OCR mit einem Foto wo der Match eindeutig ist (Reisepass-Hauptseite). Schwächen kommen ins Voice-Polish-Gespräch.
-      </div>
-    </details>
-
-    <details>
-      <summary><span class="pill risk">Risiko</span> Vercel ist gerade nicht erreichbar / 500-Error</summary>
-      <div>
-        <strong>Plan B:</strong> Lokales <code>npm run dev</code> in <code>viewer/</code> läuft auf <code>localhost:5173</code>. URL für Bao: <code>http://localhost:5173/#/bao</code><br>
-        <strong>Vorbereiten:</strong> Dev-Server vor dem Meeting starten und im Browser-Tab offen lassen.<br>
-        <strong>Wenn das auch nicht geht:</strong> Screenshots von jedem Schritt durchklicken.
-      </div>
-    </details>
-
-    <details>
-      <summary><span class="pill risk">Risiko</span> Bao überschüttet dich mit Wünschen, du sagst zu allem ja</summary>
-      <div>
-        <strong>Antwort-Schablone:</strong> „Spannend, kommt auf die Liste — lass uns nach dem Termin gemeinsam priorisieren, sonst landet Sprint 1 nicht."<br><br>
-        Du entscheidest die Reihenfolge nach dem Meeting, nicht im Meeting. Reservier dir 24h Reflektionsfenster.
-      </div>
-    </details>
-
-    <details>
-      <summary><span class="pill risk">Risiko</span> Demo-Button funktioniert nicht — Akte erscheint nicht</summary>
-      <div>
-        <strong>1.</strong> DevTools öffnen → Application → Local Storage → alles unter <code>gitlaw.pro.*</code> löschen<br>
-        <strong>2.</strong> Hard-Refresh (Cmd-Shift-R)<br>
-        <strong>3.</strong> Nochmal „Demo-Akte anlegen" klicken<br>
-        <strong>4.</strong> Wenn weiter kaputt: manuell Akte anlegen via /pro/akten/new
-      </div>
-    </details>
-  </section>
-
-  <section class="full">
-    <h2>🔗 Quick-Links</h2>
-    <div class="links">
-      <a href="https://gitlaw-xi.vercel.app/#/bao" target="_blank">Bao Welcome (live)</a>
-      <a href="https://gitlaw-xi.vercel.app/#/pro" target="_blank">Pro App (live)</a>
-      <a href="https://github.com/mikelninh/gitlaw" target="_blank">GitHub Repo</a>
-      <a href="https://vercel.com/hallochupi-7378s-projects/gitlaw" target="_blank">Vercel Dashboard</a>
-      <a href="BAO_KI_DATENVERARBEITUNG_ANTWORT.md" target="_blank">Antwort-Dokument</a>
-      <a href="BAO_DEMO_SKRIPT_2026-05-06.md" target="_blank">Demo-Skript MD</a>
-      <a href="SPRINT_1_PLAN.md" target="_blank">Sprint-1-Plan</a>
-    </div>
-  </section>
-
-  <section class="full">
-    <h2>📝 Nach dem Meeting — Sofort-Checkliste <button class="reset-btn" onclick="resetSection('after')">Reset</button></h2>
-    <div class="subtitle">Innerhalb 30 Min nach dem Meeting, bevor du das Gespräch vergisst.</div>
-    <ul class="checklist" data-section="after">
-      <li><input type="checkbox" /><span class="label">Bao's Voice-Anchor-Mails sofort ablegen<small>Ordner: gitlaw/.bao-anchors/ (gitignore vorher!)</small></span></li>
-      <li><input type="checkbox" /><span class="label">Top-3 Mandatsarten notieren<small>Reihenfolge bestimmt Sprint-1-Rest</small></span></li>
-      <li><input type="checkbox" /><span class="label">Behörden-Lücken in behoerden.ts ergänzen<small>Datei: viewer/src/pro/behoerden.ts</small></span></li>
-      <li><input type="checkbox" /><span class="label">5 Klärungsfragen-Antworten in BAO_KI_DATENVERARBEITUNG_ANTWORT.md eintragen<small>Anhang A-Sektion erweitern</small></span></li>
-      <li><input type="checkbox" /><span class="label">Sprint-1-Plan revidieren basierend auf Bao's Reihenfolge<small>SPRINT_1_PLAN.md</small></span></li>
-      <li><input type="checkbox" /><span class="label">Memory-Update: Bao-Pilot-Status (was zugesagt, was offen)<small>~/.claude/projects/-Users-mikel-safevoice/memory/</small></span></li>
-      <li><input type="checkbox" /><span class="label">Dankesnachricht an Bao mit 1-Pager Zusammenfassung<small>Was wurde gezeigt + nächste Schritte + bis wann</small></span></li>
-    </ul>
-  </section>
-
+</div>
 </main>
 
 <footer>
-  Du hast das. Ruhig bleiben, Bao führt mit Fragen, du antwortest mit der App.
+  <div class="closing">Du hast das. Ruhig bleiben.</div>
+  <div class="meta">Briefing geschlossen · 2026-05-06 · M.N.</div>
 </footer>
 
 <script>
-  // Persist checkbox state across refreshes (localStorage)
   const STORAGE_KEY = 'bao-meeting-hq-2026-05-06';
 
   function getState() {
@@ -536,7 +1064,9 @@
     const done = Array.from(items).filter(i => i.checked).length;
     const pct = Math.round((done / items.length) * 100);
     const fill = document.getElementById('smoke-progress');
+    const count = document.getElementById('smoke-count');
     if (fill) fill.style.width = pct + '%';
+    if (count) count.textContent = `${done} / ${items.length}`;
   }
 
   function bindChecklist() {
@@ -557,6 +1087,7 @@
           updateProgress(section);
         });
         li.addEventListener('click', (e) => {
+          if (e.target.tagName === 'A') return;
           if (e.target === cb) return;
           cb.checked = !cb.checked;
           cb.dispatchEvent(new Event('change'));
