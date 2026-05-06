@@ -1,6 +1,7 @@
 /**
- * TodayWidget — drei Sektionen mit sofortigem Handlungsbedarf.
+ * TodayWidget — vier Sektionen mit sofortigem Handlungsbedarf.
  *
+ * 0. Eilanträge gegen Abschiebung (rot, immer zuerst)
  * 1. Fristen in den nächsten 14 Tagen
  * 2. Behörde wartet auf uns
  * 3. Pflicht-Unterlagen fehlen
@@ -8,6 +9,7 @@
  * Voice: respektvoll-warm, kein Marketing-Deutsch.
  */
 
+import { AlertTriangle } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
 import { listCases } from './store'
 import { getChecklistById } from './mandatsart-checklists'
@@ -101,6 +103,13 @@ export default function TodayWidget() {
   const in14Days = new Date(today)
   in14Days.setDate(today.getDate() + 14)
 
+  // Sektion 0: Eilanträge gegen Abschiebung
+  const eilantragCases = cases.filter(
+    c =>
+      c.mandatsartId === 'eilantrag-abschiebung' &&
+      c.caseStatus !== 'verfahren_abgeschlossen'
+  )
+
   // Sektion 1: Fristen ≤ 14 Tage
   const fristCases = cases
     .filter(c => {
@@ -126,6 +135,7 @@ export default function TodayWidget() {
     .filter(({ missing }) => missing > 0)
 
   const allEmpty =
+    eilantragCases.length === 0 &&
     fristCases.length === 0 &&
     behoerdeCases.length === 0 &&
     missingDocCases.length === 0
@@ -141,6 +151,46 @@ export default function TodayWidget() {
   return (
     <div className="bg-white border border-[var(--color-border)] rounded-2xl p-5 space-y-5">
       <h2 className="font-semibold">Heute zu erledigen</h2>
+
+      {eilantragCases.length > 0 && (
+        <div className="bg-red-50 border border-red-300 rounded-xl p-4 space-y-3">
+          <div className="flex items-start gap-2">
+            <AlertTriangle className="text-red-700 mt-0.5 shrink-0" size={18} />
+            <div>
+              <p className="text-sm font-semibold text-red-800">Eilantrag — sofort Aufmerksamkeit</p>
+              <p className="text-xs text-red-700 mt-0.5">
+                7-Tage-Frist. Diese Akten haben Priorität vor allem anderen.
+              </p>
+            </div>
+          </div>
+          <ul className="space-y-1.5">
+            {eilantragCases.map(c => {
+              const fristHint = c.fristDatum
+                ? (() => {
+                    const days = daysUntil(c.fristDatum!)
+                    if (days < 0) return `Frist seit ${-days} Tag${-days === 1 ? '' : 'en'} abgelaufen`
+                    if (days === 0) return 'Frist läuft heute ab'
+                    return `Frist in ${days} Tag${days === 1 ? '' : 'en'}`
+                  })()
+                : 'Frist nicht gesetzt'
+              return (
+                <li key={c.id}>
+                  <button
+                    onClick={() => navigate(`/pro/akten/${c.id}`)}
+                    className="w-full text-left rounded-lg border border-red-200 bg-white px-3 py-2.5 hover:border-red-400 transition-colors"
+                  >
+                    <div className="flex items-baseline gap-2 flex-wrap">
+                      <span className="font-mono text-xs text-red-700">{c.aktenzeichen}</span>
+                      <span className="text-sm font-medium text-[var(--color-ink)] truncate">{c.mandantName}</span>
+                    </div>
+                    <p className="text-xs mt-0.5 text-red-700">{fristHint}</p>
+                  </button>
+                </li>
+              )
+            })}
+          </ul>
+        </div>
+      )}
 
       {fristCases.length > 0 && (
         <Section
