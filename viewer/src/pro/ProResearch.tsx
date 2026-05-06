@@ -351,15 +351,15 @@ export default function ProResearch() {
             <div className="flex items-center gap-1.5 text-xs text-[var(--color-ink-muted)] mb-2">
               <Lightbulb className="w-3.5 h-3.5" /> Beispielfragen (klicken zum Übernehmen):
             </div>
-            <div className="flex flex-wrap gap-1.5">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-1.5">
               {getExampleQuestions(getAccessContext()?.tenantId).map((ex, i) => (
                 <button
                   key={i}
                   type="button"
                   onClick={() => setQuestion(ex)}
-                  className="text-xs px-2 py-1 border border-[var(--color-border)] rounded-md hover:border-[var(--color-gold)] hover:text-[var(--color-ink)] text-[var(--color-ink-soft)]"
+                  className="text-xs px-3 py-2 border border-[var(--color-border)] rounded-md hover:border-[var(--color-gold)] hover:text-[var(--color-ink)] text-[var(--color-ink-soft)] text-left leading-snug max-w-full"
                 >
-                  {ex.length > 55 ? ex.slice(0, 55) + '…' : ex}
+                  {ex}
                 </button>
               ))}
             </div>
