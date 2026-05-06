@@ -35,8 +35,21 @@ const ROLE_RANK: Record<ProRole, number> = {
 const ISSUER = 'gitlaw-pro'
 const SESSION_TTL_SECONDS = 60 * 60 * 12
 
+/**
+ * HMAC-Schlüssel für Pro-Session-Token. Muss in Vercel-Env gesetzt sein.
+ *
+ * Kein Hardcode-Fallback — sonst wäre die Session in einer fehlkonfigurierten
+ * Deploy fälschbar (jeder mit Repo-Zugriff könnte gültige Tokens generieren).
+ *
+ * Local dev: setze GITLAW_SESSION_SECRET in .env.local auf einen zufälligen
+ * 64-char Hex-String, z.B. via:  openssl rand -hex 32
+ */
 function secret(): string {
-  return process.env.GITLAW_SESSION_SECRET || process.env.OPENAI_API_KEY || 'gitlaw-beta-secret'
+  const s = process.env.GITLAW_SESSION_SECRET
+  if (!s || s.length < 32) {
+    throw new Error('GITLAW_SESSION_SECRET environment variable is required (≥32 chars). Generate via: openssl rand -hex 32')
+  }
+  return s
 }
 
 function b64url(input: Buffer | string): string {
