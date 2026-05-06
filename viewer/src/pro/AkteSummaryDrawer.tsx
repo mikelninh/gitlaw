@@ -12,6 +12,7 @@ import { useState, useEffect } from 'react'
 import { X, Copy, Check } from 'lucide-react'
 import type { MandantCase, KanzleiSettings } from './types'
 import { anonymize } from './anonymize'
+import { getStoredSessionToken } from './store'
 import { formatFehlendeUnterlagen } from './case-status'
 
 interface Props {
@@ -80,9 +81,13 @@ export default function AkteSummaryDrawer({ case: c, settings, onClose }: Props)
       .join(', ')
 
     try {
+      const token = getStoredSessionToken()
       const res = await fetch('/api/pro/akte-summary', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          ...(token ? { Authorization: `Bearer ${token}` } : {}),
+        },
         body: JSON.stringify({ akteContext: anonymized, kanzleiContext }),
       })
 

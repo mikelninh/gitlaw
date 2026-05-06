@@ -10,9 +10,9 @@
  */
 
 import { Link } from 'react-router-dom'
-import { FolderOpen, Search, FileText, Plus, CheckCircle2, Gavel } from 'lucide-react'
+import { FolderOpen, Search, FileText, Plus, CheckCircle2, Gavel, Sparkles } from 'lucide-react'
 import {
-  getAccessContext, getSettings, listAlerts, listCases, listLetters, listResearch,
+  getAccessContext, getSettings, listAlerts, listAudit, listCases, listCaseTasks, listLetters, listResearch,
 } from './store'
 import { roleLabel } from './access'
 import TodayWidget from './TodayWidget'
@@ -26,11 +26,40 @@ function getSettingsName(): string {
   return parts[0] || ''
 }
 
+function startOfWeek(d: Date): Date {
+  const out = new Date(d)
+  out.setHours(0, 0, 0, 0)
+  const day = out.getDay() || 7
+  if (day !== 1) out.setDate(out.getDate() - (day - 1))
+  return out
+}
+
+function countSinceWeekStart(items: Array<{ createdAt?: string; at?: string; completedAt?: string }>): number {
+  const week = startOfWeek(new Date()).getTime()
+  return items.filter(it => {
+    const ts = it.completedAt || it.createdAt || it.at
+    if (!ts) return false
+    return new Date(ts).getTime() >= week
+  }).length
+}
+
 export default function ProDashboard() {
   const cases = listCases()
   const research = listResearch()
   const letters = listLetters()
+  const tasks = listCaseTasks()
+  const audit = listAudit()
   const access = getAccessContext()
+
+  // Wochen-Achievements (Mo bis jetzt)
+  const weekStart = startOfWeek(new Date())
+  const newCasesThisWeek = cases.filter(c => new Date(c.createdAt).getTime() >= weekStart.getTime()).length
+  const researchThisWeek = countSinceWeekStart(research)
+  const lettersThisWeek = countSinceWeekStart(letters)
+  const tasksDoneThisWeek = tasks.filter(t => t.status === 'done' && t.completedAt && new Date(t.completedAt).getTime() >= weekStart.getTime()).length
+  const auditEventsThisWeek = audit.filter(a => new Date(a.at).getTime() >= weekStart.getTime()).length
+  const totalAchievements = newCasesThisWeek + researchThisWeek + lettersThisWeek + tasksDoneThisWeek
+  const showAchievements = totalAchievements > 0 || cases.length > 0
 
   const featuredCases = cases
     .filter(c => c.status === 'aktiv')
@@ -70,6 +99,30 @@ export default function ProDashboard() {
           </div>
         )}
       </header>
+
+      {showAchievements && (
+        <section className="bg-gradient-to-br from-[var(--color-gold-light)] via-white to-white border border-[var(--color-border)] rounded-2xl p-5">
+          <div className="flex items-center gap-2 mb-3">
+            <Sparkles className="w-4 h-4 text-[var(--color-gold)]" />
+            <h2 className="font-semibold">Diese Woche</h2>
+            <span className="text-xs text-[var(--color-ink-muted)]">
+              ab Montag, {weekStart.toLocaleDateString('de-DE', { day: '2-digit', month: 'short' })}
+            </span>
+          </div>
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3">
+            <Achievement value={newCasesThisWeek} label="Neue Akten" />
+            <Achievement value={researchThisWeek} label="Recherche-Notizen" />
+            <Achievement value={lettersThisWeek} label="Schreiben verfasst" />
+            <Achievement value={tasksDoneThisWeek} label="Aufgaben erledigt" />
+            <Achievement value={auditEventsThisWeek} label="Vorgänge gesamt" />
+          </div>
+          {totalAchievements === 0 && (
+            <p className="text-sm text-[var(--color-ink-muted)] mt-3 italic">
+              Noch keine Vorgänge diese Woche — fang einfach an, ich zähle mit.
+            </p>
+          )}
+        </section>
+      )}
 
       <TodayWidget />
 
@@ -147,6 +200,19 @@ export default function ProDashboard() {
           </p>
         </div>
       )}
+    </div>
+  )
+}
+
+function Achievement({ value, label }: { value: number; label: string }) {
+  return (
+    <div className="bg-white border border-[var(--color-border)] rounded-xl p-3 text-center">
+      <div className={`text-2xl font-semibold leading-none ${value > 0 ? 'text-[var(--color-gold)]' : 'text-[var(--color-ink-muted)]'}`}>
+        {value}
+      </div>
+      <div className="text-xs text-[var(--color-ink-soft)] mt-1.5 leading-tight">
+        {label}
+      </div>
     </div>
   )
 }
