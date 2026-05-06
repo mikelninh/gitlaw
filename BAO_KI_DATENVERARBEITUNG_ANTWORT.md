@@ -878,6 +878,63 @@ Deine 15 Klärungsfragen — wir antworten so weit wir können. Die Top-5, die w
 
 ## 22. Zusammenfassung — was wir konkret vorschlagen
 
+**Deine Diagnose stimmt:** 900 Mandate/Jahr × dokumentenintensiv × mehrsprachig × wiederkehrende Rückfragen ist mit der jetzigen Personalstruktur nicht skalierbar. Deine Reihenfolge — fehlende Unterlagen, Erinnerungen, Sachstandsanfragen, Dokumentensortierung, interne Aufgabensteuerung — ist die richtige Priorisierung.
+
+**Was wir liefern:**
+
+> Du hast in deinem Lastenheft als „empfohlenen nächsten Schritt" ein **detailliertes Lastenheft mit Checklisten je Mandatsart, Statuslogik, Datenmodell, Schnittstellenprüfung und MVP-Definition** genannt. Genau das hast du in den letzten 7 Tagen geschrieben — und wir haben es **zwischen 29.04. und heute in lebenden Code verwandelt**:
+>
+> - 11 Mandatsart-Checklisten mit 108 Pflicht-Items
+> - 8-Stati-Workflow mit Übergangs-Regeln (1:1 deine Stati)
+> - 32 DE+VI Sachstand-Templates (Mandant + Mittelsperson)
+> - Behörden-DB mit 17 Berliner Migrations-Stellen
+> - Auto-Frist-Berechnung nach § 75 VwVfG
+> - Heute-Widget mit Eilantrag-Eskalation
+> - OCR-Drop-Zone mit Auto-Rename und Lesbarkeits-Hinweis
+> - Akte-Zusammenfassungs-Funktion mit § 14-Tabu-Prompt
+> - DSGVO-Anonymizer · Audit-Log · Frankfurt-Hosting · AVV-Vorlagen
+>
+> **88 % MVP heute live, 100 % bis Ende Mai. Alle 22 Lastenheft-Punkte mit konkreten Sprint-Terminen oder live.**
+
+**Unser Vorschlag für die Pilot-Vereinbarung:**
+
+1. **4 Wochen kostenloser Pilot** (06.05. — 03.06.) — wir verfeinern mit deinen Voice-Anchors, schließen den Sprint-1-Rest ab, klären offene Fragen aus Anhang A.
+2. **AVV unterzeichnen** vor erstem produktivem Mandanten-Datensatz.
+3. **Wöchentliches 15-Min-Sync** (Mittwoch nachmittag, du nennst die beste Zeit).
+4. **Baseline-Sheet** für 1 Woche, damit wir KPI-Reduktion echt messen können.
+5. **Ab 03.06.:** Entscheidung Pilot fortsetzen oder beenden — keine Bindung, kein Lock-in (CSV-Export aller Daten ist 1-Klick).
+6. **Bei Fortsetzung:** €149/RA/Monat Kanzlei-Tier, 60-Tage-Geld-zurück-Garantie, Mittelspersonen-Add-on bei Sprint 4 (€+50/Monat).
+
+### Anmerkungen / Rückfragen
+
+- **Bist du bereit für den Pilot wie skizziert?** Falls nicht, was sind deine Reservierungen?
+- **Welche Refa/Hilfskraft fährt mit?** Bestimmt Rollenmodell-Schärfung in Sprint 2.
+- **AVV-Vorlage:** Lass uns heute Abend einen Termin festlegen wann wir die durchgehen.
+- **Voice-Anchor-Termin:** 30 Min für 5 echte Sachstands-Mails, terminieren bevor wir Modul C bauen.
+
+### Technische Einschätzung
+
+- **Die schnelle Liefergeschwindigkeit ist kein Trick** — sie ist möglich weil GitLaw Pro als Foundation existierte (Akten + Recherche + Schreiben + Audit + RBAC + Frankfurt-Hosting + DSGVO-Anonymizer), und dein Lastenheft die migrations-spezifische Workflow-Layer drauf gemapped hat. Keine Neuentwicklung von Null, gezielte Spezialisierung.
+- **Was wir zeigen ist Beta-Qualität, nicht Produktions-Stabilität.** Pilot-Phase ist genau dafür da: Bugs finden, Edge-Cases klären, Voice polieren.
+- **Was wir nicht sind:** Replacement für Advoware. Wir sind Workflow- und KI-Beschleuniger über Advoware drauf, nicht das Master-System.
+
+### Rechtliche / datenschutzrechtliche Einschätzung
+
+- **DSGVO + Berufsgeheimnis von Anfang an eingebaut** — siehe BAO_PILOT_DATENSCHUTZ.md.
+- **Rollen + Freigabe-Modell:** Solo-tauglich heute, wird mit Personal-Zugang verschärft.
+- **Haftungssicher:** kein Auto-Versand ohne Klick, jeder PDF mit Disclaimer-Footer, jede §-Zitierung verifiziert.
+- **Externe Validierung empfohlen** vor produktivem Pilot mit echten Mandanten-Daten: DSGVO-Audit (€2-5k extern, ~1 Woche).
+
+### To-dos / nächste Schritte
+
+1. **Heute Abend:** Live-Demo, 5 Klärungsfragen, Pilot-Vereinbarung mündlich diskutieren
+2. **KW 19 (08.-11.05.):** AVV unterzeichnen, Voice-Anchor-Termin, Baseline-Sheet starten
+3. **KW 19-22 (Sprint-1-Rest):** Modul C + Modul D + Rollen-Verschärfung wenn Personal kommt
+4. **KW 22 (26.05.):** Erste echte Mandantendaten ins System (mit AVV + Anonymizer-Verifikation + Mandanten-Einwilligungs-Block)
+5. **03.06. (Pilot-Bewertung):** Fortsetzung oder Ende, ehrlich
+
+---
+
 **Wir starten Sprint 0 heute** mit dem Datenschema für die Mandatsart-Checklisten (siehe Anhang B). Das Schema ist bereits angelegt und committet.
 
 **Sprint 1 (3 Wochen) liefert:**
