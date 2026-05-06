@@ -50,8 +50,6 @@ export default function ProDashboard() {
 
   return (
     <div className="space-y-8">
-      <TodayWidget />
-
       <header>
         <h1 className="h-page">
           {greeting}
@@ -72,6 +70,8 @@ export default function ProDashboard() {
           </div>
         )}
       </header>
+
+      <TodayWidget />
 
       <RechtsprechungsAlertWidget />
 
