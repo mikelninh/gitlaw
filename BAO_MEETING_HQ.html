@@ -570,71 +570,141 @@
   .lvl.signal { color: var(--signal); background: var(--signal-bg); }
   .lvl.partial { color: var(--amber); background: var(--amber-bg); }
 
-  /* Card-Layout für Matrix — kein Spalten-Overflow mehr */
+  /* Matrix — Magazin-Layout, ein Eintrag pro Bereich */
   .matrix-card {
-    padding: 22px 26px 20px;
+    padding: 26px 28px 24px;
     border-bottom: 1px solid var(--rule-soft);
     transition: background 160ms;
+    position: relative;
   }
   .matrix-card:last-child { border-bottom: none; }
   .matrix-card:hover { background: var(--paper-soft); }
-  .matrix-card-top {
-    display: grid;
-    grid-template-columns: minmax(180px, 1.4fr) minmax(0, 1fr);
-    gap: 22px;
-    align-items: center;
-    margin-bottom: 12px;
+  .matrix-card.s-live { border-left: 3px solid var(--calm); padding-left: 25px; }
+  .matrix-card.s-partial { border-left: 3px solid var(--amber); padding-left: 25px; }
+  .matrix-card.s-wait { border-left: 3px solid var(--signal); padding-left: 25px; }
+
+  .mc-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 18px;
+    margin-bottom: 14px;
   }
-  @media (max-width: 760px) {
-    .matrix-card-top { grid-template-columns: 1fr; gap: 10px; }
-  }
-  .matrix-card .area {
+  .mc-area {
     font-family: "Fraunces", serif;
-    font-variation-settings: "opsz" 18, "SOFT" 60;
+    font-variation-settings: "opsz" 32, "SOFT" 60;
     font-weight: 480;
     color: var(--ink);
-    font-size: 17px;
-    line-height: 1.3;
+    font-size: 20px;
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+    flex: 1;
+    padding-top: 1px;
   }
-  .matrix-meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-    justify-content: flex-end;
-  }
-  @media (max-width: 760px) {
-    .matrix-meta { justify-content: flex-start; }
-  }
-  .matrix-meta .meta-cell {
+  .mc-status {
+    flex-shrink: 0;
     display: inline-flex;
-    flex-direction: column;
-    gap: 3px;
-    align-items: flex-start;
-    padding: 0;
-  }
-  .matrix-meta .meta-cell .lbl {
+    align-items: center;
+    gap: 7px;
+    padding: 5px 12px 4px;
+    border-radius: 1px;
     font-family: "JetBrains Mono", monospace;
-    font-size: 9px;
+    font-size: 10px;
+    font-weight: 600;
     letter-spacing: 0.14em;
     text-transform: uppercase;
-    color: var(--ink-muted);
-    font-weight: 500;
+    white-space: nowrap;
   }
-  .matrix-card .bem {
+  .mc-status.live { background: var(--calm-bg); color: var(--calm); }
+  .mc-status.partial { background: var(--amber-bg); color: var(--amber); }
+  .mc-status.wait { background: var(--signal-bg); color: var(--signal); }
+  .mc-status::before {
+    content: "";
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .mc-status.live::before { background: var(--calm); }
+  .mc-status.partial::before { background: var(--amber); }
+  .mc-status.wait::before { background: var(--signal); }
+
+  .mc-bem {
     color: var(--ink-soft);
-    font-size: 14.5px;
-    line-height: 1.6;
-    max-width: 90ch;
+    font-size: 15px;
+    line-height: 1.65;
+    max-width: 88ch;
+    margin-bottom: 16px;
   }
-  .matrix-card .bem strong { color: var(--ink); font-weight: 540; }
-  .matrix-card .bem code {
+  .mc-bem strong { color: var(--ink); font-weight: 540; }
+  .mc-bem code {
     font-family: "JetBrains Mono", monospace;
     font-size: 11.5px;
     color: var(--gold);
     background: var(--gold-bg);
-    padding: 1px 5px;
+    padding: 1px 6px;
     border-radius: 1px;
   }
+
+  .mc-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px 28px;
+    padding-top: 12px;
+    border-top: 1px dashed var(--rule-soft);
+  }
+  .mc-meta-item {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 8px;
+  }
+  .mc-meta-item .lbl {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 9.5px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+    font-weight: 500;
+  }
+  .mc-meta-item .val {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 14, "SOFT" 60;
+    font-weight: 480;
+    font-size: 14px;
+    color: var(--ink);
+  }
+  .mc-meta-item .val.high { color: var(--gold); }
+  .mc-meta-item .val.veryhigh { color: var(--signal); font-weight: 540; }
+  .mc-meta-item .val.signal { color: var(--signal); }
+  .mc-meta-item .val.calm { color: var(--calm); }
+  .mc-meta-item .val.amber { color: var(--amber); }
+
+  /* Mini-summary bar at top of matrix */
+  .matrix-summary {
+    background: var(--paper-soft);
+    border-bottom: 1px solid var(--rule);
+    padding: 16px 28px;
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .matrix-summary .lead {
+    font-family: "Fraunces", serif;
+    font-style: italic;
+    color: var(--ink);
+    font-size: 14.5px;
+  }
+  .matrix-summary .breakdown {
+    display: flex;
+    gap: 16px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 11px;
+    color: var(--ink-muted);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .matrix-summary .breakdown span strong { color: var(--ink); font-weight: 600; }
 
   /* ── Demo-Walkthrough ──────────────────────────────────── */
   .steps-wrapper {
@@ -936,7 +1006,7 @@
       <span>Gemeinsame Vorlage</span>
     </div>
     <div class="title-block">
-      <div class="kicker">Mikel × Bao · Pilot-Gespräch</div>
+      <div class="kicker">Mikel × Bao × Marcel · Pilot-Gespräch</div>
       <div class="title">Heute, <em>18:00</em></div>
     </div>
     <div class="timestamp">
@@ -950,7 +1020,7 @@
   <div class="hero-rule"></div>
   <h1>Was wir <em>heute zusammen</em> besprechen.</h1>
   <p class="lede">
-    Diese Seite ist unsere Gesprächsvorlage. Wir gehen die sechs Themen oben Schritt für Schritt durch, halten deine Antworten und unsere Beschlüsse direkt in den Notiz-Feldern fest. Am Ende kannst du alles als PDF exportieren oder die Notizen für deinen eigenen Akten-Vermerk kopieren.
+    Unsere gemeinsame Gesprächsvorlage — Bao, Marcel und ich gehen die sechs Themen oben Schritt für Schritt durch. Marcel führt nebenbei Protokoll und übernimmt die Projektmanagement-Sicht. Antworten und Beschlüsse halten wir direkt in den Notiz-Feldern fest, Markdown- oder PDF-Export am Ende für eure Akten.
   </p>
 </section>
 
@@ -1166,174 +1236,182 @@
     </p>
 
     <div class="matrix-wrapper">
-
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Unterlagen-Checklisten je Mandatsart</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl high">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl live">Live</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl low">Niedrig</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">investiert</span></div>
-          </div>
+      <div class="matrix-summary">
+        <span class="lead">13 Bereiche aus deinem Anhang A · gefüllt mit unserem echten Stand.</span>
+        <div class="breakdown">
+          <span><strong>7</strong> live</span>
+          <span><strong>4</strong> teilweise</span>
+          <span><strong>2</strong> warten</span>
         </div>
-        <p class="bem">11 Mandatsarten mit 108 kuratierten Pflicht-Items live im Code (<code>mandatsart-checklists.ts</code>). Jedes Item togglebar, Filter „nur fehlende Pflicht-Unterlagen" in der Akten-Detail-View. Item-Description erklärt warum jede Unterlage benötigt wird (z. B. „Sicherung des Lebensunterhalts gem. § 5 Abs. 1 Nr. 1 AufenthG").</p>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Erkennung fehlender Unterlagen</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl high">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl live">Live</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl low">Niedrig</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">investiert</span></div>
-          </div>
+      <div class="matrix-card s-live">
+        <div class="mc-head">
+          <h3 class="mc-area">Unterlagen-Checklisten je Mandatsart</h3>
+          <span class="mc-status live">Live</span>
         </div>
-        <p class="bem">Heute-Widget zeigt pro Akte „X Pflicht-Unterlagen fehlen" mit Click-to-Akte. Sachstand-Generator füllt automatisch eine vollständige Liste der fehlenden Items in den Mandanten-Antworttext, mit Begründung pro Item.</p>
+        <p class="mc-bem">11 Mandatsarten mit 108 kuratierten Pflicht-Items live im Code (<code>mandatsart-checklists.ts</code>). Jedes Item togglebar, Filter „nur fehlende Pflicht-Unterlagen" in der Akten-Detail-View. Item-Description erklärt warum jede Unterlage benötigt wird (z. B. „Sicherung des Lebensunterhalts gem. § 5 Abs. 1 Nr. 1 AufenthG").</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val calm">Niedrig</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">investiert</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Automatische Erinnerungstexte</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl high">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl partial">Drafts · Auto Sprint 2</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl mid">Mittel</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">~1 Woche</span></div>
-          </div>
+      <div class="matrix-card s-live">
+        <div class="mc-head">
+          <h3 class="mc-area">Erkennung fehlender Unterlagen</h3>
+          <span class="mc-status live">Live</span>
         </div>
-        <p class="bem">8 DE+VI Erinnerungs-Templates für <code>unterlagen_fehlen</code> (Mandant + Mittelsperson), Copy-Paste-fertig. Auto-Versand-Engine braucht: AVV unterzeichnet · E-Mail-Provider entschieden (Resend EU empfohlen) · Mandanten-Einwilligung im Intake. Alles drei klärbar bis 25.05.</p>
+        <p class="mc-bem">Heute-Widget zeigt pro Akte „X Pflicht-Unterlagen fehlen" mit Click-to-Akte. Sachstand-Generator füllt automatisch eine vollständige Liste der fehlenden Items in den Mandanten-Antworttext, mit Begründung pro Item.</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val calm">Niedrig</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">investiert</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Vietnamesische / deutsche Kommunikation</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl high">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl partial">Sachstand live · freie VI Modul C</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl mid">Mittel</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">~2 Wochen</span></div>
-          </div>
+      <div class="matrix-card s-partial">
+        <div class="mc-head">
+          <h3 class="mc-area">Automatische Erinnerungstexte</h3>
+          <span class="mc-status partial">Teilweise · Auto Sprint 2</span>
         </div>
-        <p class="bem">32 Sachstand-Templates DE+VI live (Mandant + Mittelsperson × 8 Stati). Modul C — freie VI-Antworten in der Recherche — wartet auf 5 Voice-Anchor-Mails von dir, weil ohne diese der Stil ein blinder Schuss wäre. 30-Min-Anchor-Termin in den nächsten 2 Wochen.</p>
+        <p class="mc-bem">8 DE+VI Erinnerungs-Templates für <code>unterlagen_fehlen</code> (Mandant + Mittelsperson), Copy-Paste-fertig. Auto-Versand-Engine braucht: AVV unterzeichnet · E-Mail-Provider entschieden (Resend EU empfohlen) · Mandanten-Einwilligung im Intake. Alles drei klärbar bis 25.05.</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val amber">Mittel</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">~1 Woche Sprint 2</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Sachstandsantworten</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl high">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl live">Live</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl low">Niedrig</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">investiert</span></div>
-          </div>
+      <div class="matrix-card s-partial">
+        <div class="mc-head">
+          <h3 class="mc-area">Vietnamesische / deutsche Kommunikation</h3>
+          <span class="mc-status partial">Sachstand live · freie VI in Modul C</span>
         </div>
-        <p class="bem"><strong>Der Kern unseres Pilots.</strong> Generator füllt Mandantenname, Behörde, Aktenzeichen, Frist automatisch ein. Empfänger-Toggle Mandant ↔ Mittelsperson, Sprach-Toggle DE ↔ VI, Copy-Paste-fertig. Adressiert direkt deinen Punkt 2 der Priorisierung („Reduktion Sachstandsanfragen um 30 %") — höchste KPI-Confidence.</p>
+        <p class="mc-bem">32 Sachstand-Templates DE+VI live (Mandant + Mittelsperson × 8 Stati). Modul C — freie VI-Antworten in der Recherche — wartet auf 5 Voice-Anchor-Mails von dir, weil ohne diese der Stil ein blinder Schuss wäre. 30-Min-Anchor-Termin in den nächsten 2 Wochen.</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val amber">Mittel</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">~2 Wochen mit Voice-Polish</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Dokumentenklassifikation</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl mid">Mittel-Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl partial">Beta · Sprint 3 voll</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl mid">Mittel</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">~2 Wochen</span></div>
-          </div>
+      <div class="matrix-card s-live">
+        <div class="mc-head">
+          <h3 class="mc-area">Sachstandsantworten</h3>
+          <span class="mc-status live">Live · der Kern</span>
         </div>
-        <p class="bem">Heute Beta: Keyword-Match mit DE/EN/VI-Aliassen (Reisepass · passport · hộ chiếu, Krankenversicherung · TK · AOK · Barmer etc.) plus Auto-Rename-Vorschlag. Sprint 3 (Juli): gpt-4o-vision pro Seite mit Confidence-Score. Bei niedrigem Score automatische Sichtprüfungs-Markierung.</p>
+        <p class="mc-bem"><strong>Der Kern unseres Pilots.</strong> Generator füllt Mandantenname, Behörde, Aktenzeichen, Frist automatisch ein. Empfänger-Toggle Mandant ↔ Mittelsperson, Sprach-Toggle DE ↔ VI, Copy-Paste-fertig. Adressiert direkt deinen Punkt 2 der Priorisierung („Reduktion Sachstandsanfragen um 30 %") — höchste KPI-Confidence.</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val calm">Niedrig</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">investiert</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">OCR und Scanqualität</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl mid">Mittel</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl live">Live</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl mid">Mittel</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">investiert</span></div>
-          </div>
+      <div class="matrix-card s-partial">
+        <div class="mc-head">
+          <h3 class="mc-area">Dokumentenklassifikation</h3>
+          <span class="mc-status partial">Beta heute · Sprint 3 voll</span>
         </div>
-        <p class="bem">PDF-Text-Layer-Extraktion (Regex, lokal, instant) + OpenAI Vision für Scans ohne Text-Layer. Lesbarkeits-Hinweis erscheint bei sehr wenig erkanntem Text oder ohne Match („Scan möglicherweise unleserlich, bitte gegenprüfen"). Vercel-10s-Limit bei großen PDFs (&gt; 10 Seiten) wird mit Sprint-3-Background-Worker gelöst.</p>
+        <p class="mc-bem">Heute Beta: Keyword-Match mit DE/EN/VI-Aliassen (Reisepass · passport · hộ chiếu, Krankenversicherung · TK · AOK · Barmer etc.) plus Auto-Rename-Vorschlag. Sprint 3 (Juli): gpt-4o-vision pro Seite mit Confidence-Score. Bei niedrigem Score automatische Sichtprüfungs-Markierung.</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Mittel-Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val amber">Mittel</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">~2 Wochen Sprint 3</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Advoware-Integration</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl high">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl partial">CSV · API klärungsabhängig</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl signal">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">~2 Wochen</span></div>
-          </div>
+      <div class="matrix-card s-live">
+        <div class="mc-head">
+          <h3 class="mc-area">OCR und Scanqualität</h3>
+          <span class="mc-status live">Live</span>
         </div>
-        <p class="bem">CSV-Bidirectional mit Auto-Spalten-Erkennung + branded PDF pro Akte zum manuellen Anhängen — alles live. Mittelfristig (Sprint 5, Q3): Watch-Folder-Bridge oder Business-Connect-Modul, abhängig von deiner Lizenzstufe. Vollintegration nur falls Advoware kooperiert (~30 % Wahrscheinlichkeit, gemeinsame Anfrage als zahlender Kunde + Integrations-Partner).</p>
+        <p class="mc-bem">PDF-Text-Layer-Extraktion (Regex, lokal, instant) + OpenAI Vision für Scans ohne Text-Layer. Lesbarkeits-Hinweis erscheint bei sehr wenig erkanntem Text oder ohne Match („Scan möglicherweise unleserlich, bitte gegenprüfen"). Vercel-10s-Limit bei großen PDFs (&gt; 10 Seiten) wird mit Sprint-3-Background-Worker gelöst.</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Mittel</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val amber">Mittel</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">investiert · Worker Sprint 3</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Rollen- / Rechtekonzept</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl high">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl live">5 Rollen MVP live</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl mid">Mittel</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">investiert</span></div>
-          </div>
+      <div class="matrix-card s-partial">
+        <div class="mc-head">
+          <h3 class="mc-area">Advoware-Integration</h3>
+          <span class="mc-status partial">CSV live · API klärungsabhängig</span>
         </div>
-        <p class="bem">Owner / Paralegal (Refa) / Assistant (Hilfskraft) / Member / Viewer als 5 Rollen mit unterschiedlichen Scopes seit heute Mittag live. Mittelsperson Sprint 4 (August). Mandant Phase 4 (Q4 2026, separater Track mit externem Pen-Test).</p>
+        <p class="mc-bem">CSV-Bidirectional mit Auto-Spalten-Erkennung + branded PDF pro Akte zum manuellen Anhängen — alles live. Mittelfristig (Sprint 5, Q3): Watch-Folder-Bridge oder Business-Connect-Modul, abhängig von deiner Lizenzstufe. Vollintegration nur falls Advoware kooperiert (~30 % Wahrscheinlichkeit).</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val signal">Hoch (keine offene API)</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">CSV da · Watch-Folder ~2 W.</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Mittelspersonen-Zugriff</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl high">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl partial">Templates · Auth Sprint 4</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl signal">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">~1 Woche</span></div>
-          </div>
+      <div class="matrix-card s-live">
+        <div class="mc-head">
+          <h3 class="mc-area">Rollen- / Rechtekonzept</h3>
+          <span class="mc-status live">5 Rollen MVP live</span>
         </div>
-        <p class="bem">16 Mittelspersonen-Templates DE+VI bereits live (8 Stati × DE/VI). Datenmodell + Auth-Flow + Vollmacht-Validierung in Sprint 4 (August). Wenn Mittelspersonen in deinem Alltag häufig sind, ziehen wir Sprint 4 vor.</p>
+        <p class="mc-bem">Owner / Paralegal (Refa) / Assistant (Hilfskraft) / Member / Viewer als 5 Rollen mit unterschiedlichen Scopes seit heute Mittag live. Mittelsperson Sprint 4 (August). Mandant Phase 4 (Q4 2026, separater Track mit externem Pen-Test).</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val amber">Mittel</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">investiert</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Mandanten-App / Portal</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl mid">Mittel-Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl partial">Architektur vorbereitet</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl signal">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">8-12 Wochen</span></div>
-          </div>
+      <div class="matrix-card s-partial">
+        <div class="mc-head">
+          <h3 class="mc-area">Mittelspersonen-Zugriff</h3>
+          <span class="mc-status partial">Templates ja · Auth Sprint 4</span>
         </div>
-        <p class="bem">Phase 4 (Q4 2026) — separater Track. Magic-Link-Auth via Resend EU, Tenant-isolierte Mandanten-Sicht (nur eigene Akten sichtbar), Mobile-First-UI, externer Pen-Test empfohlen vor Live-Gang. Erst sinnvoll wenn Sprint 1-3 alltagstauglich laufen und du echte Pilot-Daten als ROI-Beleg hast.</p>
+        <p class="mc-bem">16 Mittelspersonen-Templates DE+VI bereits live (8 Stati × DE/VI). Datenmodell + Auth-Flow + Vollmacht-Validierung in Sprint 4 (August). Wenn Mittelspersonen in deinem Alltag häufig sind, ziehen wir Sprint 4 vor.</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val signal">Hoch (DSGVO + Vollmacht)</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">~1 Woche Sprint 4</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Fristen und Wiedervorlagen</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl high">Hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl live">Live</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl low">Niedrig</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">investiert</span></div>
-          </div>
+      <div class="matrix-card s-wait">
+        <div class="mc-head">
+          <h3 class="mc-area">Mandanten-App / Portal</h3>
+          <span class="mc-status wait">Wartet · Phase 4</span>
         </div>
-        <p class="bem">§§ 187/188 BGB-konformer Tracker (Wochenend-Hinweis nach § 193 BGB). Auto-Frist-Berechnung nach § 75 VwVfG bei Status-Wechsel auf „Antrag eingereicht" (3 Monate AufenthG, 6 Monate Einbürgerung, 7 Tage Eilantrag). Heute-Widget zeigt 14-Tage-Fenster. Eilanträge erscheinen in roter Eskalations-Box ganz oben.</p>
+        <p class="mc-bem">Phase 4 (Q4 2026) — separater Track. Magic-Link-Auth via Resend EU, Tenant-isolierte Mandanten-Sicht (nur eigene Akten sichtbar), Mobile-First-UI, externer Pen-Test empfohlen vor Live-Gang. Erst sinnvoll wenn Sprint 1-3 alltagstauglich laufen und du echte Pilot-Daten als ROI-Beleg hast.</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val">Mittel-Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val signal">Hoch (Auth + DSGVO)</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">8-12 Wochen Phase 4</span></div>
+        </div>
       </div>
 
-      <div class="matrix-card">
-        <div class="matrix-card-top">
-          <div class="area">Datenschutz / Berufsgeheimnis</div>
-          <div class="matrix-meta">
-            <div class="meta-cell"><span class="lbl">Priorität</span><span class="lvl veryhigh">Sehr hoch</span></div>
-            <div class="meta-cell"><span class="lbl">Machbarkeit</span><span class="lvl live">Architektur live</span></div>
-            <div class="meta-cell"><span class="lbl">Risiko</span><span class="lvl signal">audit-bedürftig</span></div>
-            <div class="meta-cell"><span class="lbl">Aufwand</span><span class="lvl mid">+ ext. Audit</span></div>
-          </div>
+      <div class="matrix-card s-live">
+        <div class="mc-head">
+          <h3 class="mc-area">Fristen und Wiedervorlagen</h3>
+          <span class="mc-status live">Live</span>
         </div>
-        <p class="bem">Frankfurt-Hosting durchgängig (Vercel + Upstash + Resend EU). DSGVO-Anonymizer mit 14 PII-Patterns vor jeder LLM-Anfrage. AVV-Vorlagen für dich-Mandant und für mich-dich. Audit-Log lückenlos, BHV-tauglich. OpenAI no-train Org-Setting + Header. Vollständige Notausgang-Funktion (1 Klick, alles weg). Externer DSGVO-Audit empfohlen vor produktivem Pilot mit echten Daten (~€2-5k). Details in <code>BAO_PILOT_DATENSCHUTZ.md</code>.</p>
+        <p class="mc-bem">§§ 187/188 BGB-konformer Tracker (Wochenend-Hinweis nach § 193 BGB). Auto-Frist-Berechnung nach § 75 VwVfG bei Status-Wechsel auf „Antrag eingereicht" (3 Monate AufenthG, 6 Monate Einbürgerung, 7 Tage Eilantrag). Heute-Widget zeigt 14-Tage-Fenster. Eilanträge erscheinen in roter Eskalations-Box ganz oben.</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val high">Hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val calm">Niedrig</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">investiert</span></div>
+        </div>
+      </div>
+
+      <div class="matrix-card s-live">
+        <div class="mc-head">
+          <h3 class="mc-area">Datenschutz / Berufsgeheimnis</h3>
+          <span class="mc-status live">Architektur live</span>
+        </div>
+        <p class="mc-bem">Frankfurt-Hosting durchgängig (Vercel + Upstash + Resend EU). DSGVO-Anonymizer mit 14 PII-Patterns vor jeder LLM-Anfrage. AVV-Vorlagen für dich-Mandant und für mich-dich. Audit-Log lückenlos, BHV-tauglich. OpenAI no-train Org-Setting + Header. Vollständige Notausgang-Funktion (1 Klick, alles weg). Externer DSGVO-Audit empfohlen vor produktivem Pilot mit echten Daten (~€2-5k). Details in <code>BAO_PILOT_DATENSCHUTZ.md</code>.</p>
+        <div class="mc-meta">
+          <div class="mc-meta-item"><span class="lbl">Priorität</span><span class="val veryhigh">Sehr hoch</span></div>
+          <div class="mc-meta-item"><span class="lbl">Risiko</span><span class="val signal">Hoch (audit-bedürftig)</span></div>
+          <div class="mc-meta-item"><span class="lbl">Aufwand</span><span class="val">investiert · + ext. Audit</span></div>
+        </div>
       </div>
 
     </div>
@@ -1546,8 +1624,8 @@
 </div>
 
 <footer>
-  <div class="closing">Wir zwei machen das gemeinsam.</div>
-  <div class="meta">Mikel × Bao · 06.05.2026</div>
+  <div class="closing">Wir drei machen das gemeinsam.</div>
+  <div class="meta">Mikel × Bao × Marcel · 06.05.2026</div>
 </footer>
 
 <script>
