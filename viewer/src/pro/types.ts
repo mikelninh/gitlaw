@@ -19,6 +19,12 @@ export interface KanzleiSettings {
   anwaltName: string
   /** Bar registration ID, optional but useful in headers. */
   kammerId?: string
+  /**
+   * Bevorzugter Vorname für die Begrüßung im Dashboard. Überschreibt das
+   * automatische Parsing von `anwaltName` (das bei mehrteiligen Vornamen
+   * wie „Thai Bao Nguyen" sonst das falsche Wort wählen würde).
+   */
+  firstName?: string
 }
 
 export interface MandantCase {

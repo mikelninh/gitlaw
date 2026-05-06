@@ -290,6 +290,7 @@ const NGUYEN: KanzleiPreset = {
   settings: {
     name: 'Anwaltskanzlei Thai Bao Nguyen',
     anwaltName: 'Rechtsanwalt Bao Nguyen',
+    firstName: 'Bao',
     address: '[bitte im Profil ergänzen]\nBerlin',
     contact: 'thai.bao@ra-nguyen.de  ·  ra-nguyen.de',
     kammerId: 'Rechtsanwaltskammer Berlin',
@@ -452,6 +453,21 @@ export function loadDemoData(presetKey: string): { presetKey: string; caseCount:
   }
 
   if (preset.key === 'nguyen') {
+    // Demo-Aktivität so verteilen, dass das „Diese Woche"-Widget realistisch
+    // gefüllt aussieht — Recherchen + Schreiben mit createdAt-Werten der
+    // letzten Tage statt alle bei Demo-Load-Zeitpunkt.
+    try {
+      const KEY_RESEARCH = 'gitlaw.pro.research.v1'
+      const KEY_LETTERS = 'gitlaw.pro.letters.v1'
+      const research = JSON.parse(localStorage.getItem(KEY_RESEARCH) || '[]') as Array<{ createdAt: string }>
+      const letters = JSON.parse(localStorage.getItem(KEY_LETTERS) || '[]') as Array<{ createdAt: string }>
+      const offsets = [1, 2, 3, 4, 5, 6]
+      research.slice(-6).forEach((r, i) => { r.createdAt = daysFromNow(-(offsets[i] ?? 6)) })
+      letters.slice(-6).forEach((l, i) => { l.createdAt = daysFromNow(-(offsets[i] ?? 6)) })
+      localStorage.setItem(KEY_RESEARCH, JSON.stringify(research))
+      localStorage.setItem(KEY_LETTERS, JSON.stringify(letters))
+    } catch { /* ignore — demo helper, not critical */ }
+
     const allCases = listCases()
     const minhCase = allCases.find(c => c.aktenzeichen === '25/0301')
     const hoaCase = allCases.find(c => c.aktenzeichen === '25/0312')

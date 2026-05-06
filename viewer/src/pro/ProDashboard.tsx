@@ -19,6 +19,9 @@ import TodayWidget from './TodayWidget'
 
 function getSettingsName(): string {
   const s = getSettings()
+  // Bevorzugter Vorname aus Settings (z.B. „Bao" bei vietnamesischen
+  // mehrteiligen Vornamen) — überschreibt das automatische Parsing.
+  if (s.firstName && s.firstName.trim()) return s.firstName.trim()
   if (!s.anwaltName) return ''
   const parts = s.anwaltName
     .replace(/^(RAin|RA|Rechtsanwalt|Rechtsanwältin|Dr\.|Prof\.|Dipl\.-[A-Za-z]+)\s+/g, '')

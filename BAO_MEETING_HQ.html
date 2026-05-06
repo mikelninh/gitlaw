@@ -991,12 +991,180 @@
 
   a { color: var(--gold); text-decoration: underline; text-decoration-color: rgba(160,116,28,0.3); text-underline-offset: 2px; }
   a:hover { text-decoration-color: var(--gold); }
+
+  /* ── Theme-Switcher ─────────────────────────────────────── */
+  .theme-switcher {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 50;
+    display: flex;
+    gap: 4px;
+    background: var(--paper-card);
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    padding: 4px;
+    box-shadow: 0 6px 20px -6px rgba(31,26,20,0.18);
+    transition: opacity 200ms;
+  }
+  .theme-btn {
+    width: 32px; height: 32px;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    transition: transform 150ms, border-color 150ms;
+  }
+  .theme-btn:hover { transform: scale(1.12); }
+  .theme-btn.active { border-color: var(--gold); background: var(--gold-bg); }
+
+  /* ── DARK MODE ─────────────────────────────────────────── */
+  body.theme-dark {
+    --paper:        #15171c;
+    --paper-soft:   #1c1f25;
+    --paper-card:   #1f232a;
+    --paper-edge:   #3a3e48;
+    --rule:         #2c3038;
+    --rule-soft:    #353944;
+    --ink:          #e8e6e1;
+    --ink-soft:     #c0bdb5;
+    --ink-muted:    #8a877e;
+    --ink-faint:    #5a574f;
+    --gold:         #d4a93f;
+    --gold-warm:    #e8bd54;
+    --gold-bg:      rgba(212,169,63,0.16);
+    --signal:       #e36b5e;
+    --signal-bg:    rgba(227,107,94,0.16);
+    --calm:         #82bd82;
+    --calm-bg:      rgba(130,189,130,0.18);
+    --amber:        #d49736;
+    --amber-bg:     rgba(212,151,54,0.16);
+    background-image:
+      radial-gradient(ellipse at 8% 8%, rgba(212,169,63,0.06) 0%, transparent 45%),
+      radial-gradient(ellipse at 92% 95%, rgba(130,189,130,0.04) 0%, transparent 50%);
+  }
+
+  /* ── RAVE MODE ─────────────────────────────────────────── */
+  body.theme-rave {
+    --paper:        #0a0014;
+    --paper-soft:   #1a0428;
+    --paper-card:   #1f0832;
+    --paper-edge:   #5a1a8a;
+    --rule:         #3d0a5e;
+    --rule-soft:    #4a1572;
+    --ink:          #fff;
+    --ink-soft:     #ffd7ff;
+    --ink-muted:    #c39ad8;
+    --ink-faint:    #7c4aa3;
+    --gold:         #00ffd4;
+    --gold-warm:    #ff00d4;
+    --gold-bg:      rgba(0,255,212,0.18);
+    --signal:       #ff2266;
+    --signal-bg:    rgba(255,34,102,0.22);
+    --calm:         #00ff88;
+    --calm-bg:      rgba(0,255,136,0.18);
+    --amber:        #ffaa00;
+    --amber-bg:     rgba(255,170,0,0.22);
+    background-image:
+      radial-gradient(ellipse at 12% 10%, rgba(255,0,212,0.25) 0%, transparent 40%),
+      radial-gradient(ellipse at 90% 90%, rgba(0,255,212,0.20) 0%, transparent 45%),
+      radial-gradient(ellipse at 50% 50%, rgba(170,0,255,0.10) 0%, transparent 60%);
+    animation: rave-pulse 4s ease-in-out infinite;
+  }
+  @keyframes rave-pulse {
+    0%, 100% { filter: hue-rotate(0deg); }
+    50%      { filter: hue-rotate(45deg); }
+  }
+  body.theme-rave .hero h1 em,
+  body.theme-rave .topic-head h2 em,
+  body.theme-rave .title em {
+    text-shadow: 0 0 12px currentColor;
+  }
+
+  /* ── GHIBLI MODE ───────────────────────────────────────── */
+  body.theme-ghibli {
+    --paper:        #f0e8d2;
+    --paper-soft:   #e3dcc3;
+    --paper-card:   #faf3e0;
+    --paper-edge:   #b8c8a8;
+    --rule:         #c5b8a0;
+    --rule-soft:    #d8cdb5;
+    --ink:          #2d3e2a;
+    --ink-soft:     #5a6b56;
+    --ink-muted:    #8a9784;
+    --ink-faint:    #b0baaa;
+    --gold:         #d4862a;
+    --gold-warm:    #e89d3e;
+    --gold-bg:      #f5e0bb;
+    --signal:       #b8523a;
+    --signal-bg:    #f0d4c5;
+    --calm:         #6b8e58;
+    --calm-bg:      #d8e3c8;
+    --amber:        #c89030;
+    --amber-bg:     #f0e0b5;
+    background-image:
+      radial-gradient(ellipse 80% 60% at 15% 5%, #e8e0c0 0%, transparent 70%),
+      radial-gradient(ellipse 60% 40% at 85% 90%, #d0e0b8 0%, transparent 70%),
+      radial-gradient(circle at 30% 80%, rgba(232,157,62,0.10) 0%, transparent 50%);
+  }
+  body.theme-ghibli h1, body.theme-ghibli h2, body.theme-ghibli h3 {
+    font-family: "Fraunces", Georgia, serif !important;
+  }
+
+  /* ── LEAGUE / TFT MODE ─────────────────────────────────── */
+  body.theme-tft {
+    --paper:        #0e1a2b;
+    --paper-soft:   #142540;
+    --paper-card:   #1a2e4c;
+    --paper-edge:   #3d5278;
+    --rule:         #2a3f5f;
+    --rule-soft:    #344968;
+    --ink:          #e4d4a8;
+    --ink-soft:     #c5a874;
+    --ink-muted:    #8a7548;
+    --ink-faint:    #5e4f30;
+    --gold:         #c89c3c;
+    --gold-warm:    #f0c060;
+    --gold-bg:      rgba(240,192,96,0.18);
+    --signal:       #d63838;
+    --signal-bg:    rgba(214,56,56,0.20);
+    --calm:         #4ea8de;
+    --calm-bg:      rgba(78,168,222,0.20);
+    --amber:        #e89d3e;
+    --amber-bg:     rgba(232,157,62,0.18);
+    background-image:
+      linear-gradient(135deg, rgba(200,156,60,0.04) 0%, transparent 50%),
+      radial-gradient(circle at 50% 0%, rgba(78,168,222,0.10) 0%, transparent 60%);
+  }
+  body.theme-tft .topic-num,
+  body.theme-tft .agenda-item .num,
+  body.theme-tft .step-num,
+  body.theme-tft .stat .num {
+    text-shadow: 0 0 10px rgba(240,192,96,0.4);
+  }
+  body.theme-tft::before {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60' height='52' viewBox='0 0 60 52'><polygon points='30,1 58,15 58,37 30,51 2,37 2,15' fill='none' stroke='rgba(200,156,60,0.4)' stroke-width='1'/></svg>");
+    opacity: 0.08;
+    mix-blend-mode: normal;
+  }
 </style>
 </head>
 <body>
 
 <div class="meeting-progress" aria-hidden="true">
   <div class="fill" id="meeting-progress-fill"></div>
+</div>
+
+<div class="theme-switcher" role="group" aria-label="Theme wechseln">
+  <button class="theme-btn active" data-theme="default" title="Paper · Default">📜</button>
+  <button class="theme-btn" data-theme="dark" title="Dark Mode">🌑</button>
+  <button class="theme-btn" data-theme="rave" title="Rave Mode">🪩</button>
+  <button class="theme-btn" data-theme="ghibli" title="Ghibli Mode">🌿</button>
+  <button class="theme-btn" data-theme="tft" title="League · TFT">⚔️</button>
 </div>
 
 <header>
@@ -1007,7 +1175,7 @@
     </div>
     <div class="title-block">
       <div class="kicker">Mikel × Bao × Marcel · Pilot-Gespräch</div>
-      <div class="title">Heute, <em>18:00</em></div>
+      <div class="title">Heute, <em>19:00</em></div>
     </div>
     <div class="timestamp">
       <strong>06.05.2026</strong><br>
@@ -1727,6 +1895,21 @@
     });
   }, { threshold: [0.3] });
   document.querySelectorAll('.topic').forEach(t => observer.observe(t));
+
+  // Theme-Switcher
+  const THEME_KEY = 'bao-meeting-theme';
+  function applyTheme(name) {
+    document.body.classList.remove('theme-dark','theme-rave','theme-ghibli','theme-tft');
+    if (name && name !== 'default') document.body.classList.add('theme-' + name);
+    document.querySelectorAll('.theme-btn').forEach(b => {
+      b.classList.toggle('active', b.dataset.theme === name);
+    });
+    localStorage.setItem(THEME_KEY, name);
+  }
+  document.querySelectorAll('.theme-btn').forEach(btn => {
+    btn.addEventListener('click', () => applyTheme(btn.dataset.theme));
+  });
+  applyTheme(localStorage.getItem(THEME_KEY) || 'default');
 
   function copyAsMarkdown() {
     const get = (k, fallback = '') => state[k] || fallback;
