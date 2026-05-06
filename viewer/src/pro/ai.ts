@@ -142,7 +142,7 @@ export async function proAsk(question: string, options?: ProAskOptions): Promise
   return (await resp.json()) as ProAnswer
 }
 
-export const EXAMPLE_QUESTIONS = [
+const EXAMPLE_QUESTIONS_DEFAULT = [
   'Welche Tatbestände kommen bei wiederholten Drohnachrichten via Instagram-DM in Betracht?',
   'Wann ist eine fristlose Kündigung des Mietverhältnisses wegen Zahlungsverzugs zulässig?',
   'Welche Verjährungsfristen gelten für Schadensersatzansprüche aus § 823 BGB?',
@@ -150,3 +150,32 @@ export const EXAMPLE_QUESTIONS = [
   'Welche §§ StGB greifen bei Deepfake-Pornografie ohne Einwilligung?',
   'Pflichten der Arbeitgeberin bei Kündigung während der Schwangerschaft?',
 ]
+
+const EXAMPLE_QUESTIONS_MIGRATION = [
+  'Voraussetzungen für Verlängerung der Aufenthaltserlaubnis nach § 8 AufenthG bei Beschäftigungswechsel?',
+  'Wann ist eine Fiktionsbescheinigung nach § 81 Abs. 4 AufenthG zu erteilen und wie lange gilt sie?',
+  'Voraussetzungen für Familiennachzug zum Ehegatten mit Niederlassungserlaubnis (§§ 27, 30 AufenthG)?',
+  'Welcher Sprachnachweis (A1 vs. B1) ist beim Visumverfahren in Hanoi tatsächlich gefordert?',
+  'Frist und Voraussetzungen für Eilantrag nach § 80 Abs. 5 VwGO gegen Abschiebung?',
+  'Voraussetzungen Einbürgerung nach 6 Jahren mit § 10 StAG — welche Unterlagen fordert die Berliner LEA?',
+  'Wann liegt eine Härtefallentscheidung nach § 23a AufenthG vor und wer entscheidet?',
+  'Untätigkeitsklage nach § 75 VwGO bei Aufenthaltstitel — frühestens wann zulässig?',
+  'Pflichten zur Vorlage des Reisepasses bei der ABH — was bei Verlust oder Diebstahl?',
+  'Voraussetzungen Niederlassungserlaubnis nach § 9 AufenthG bei selbstständiger Tätigkeit?',
+]
+
+/**
+ * Liefert tenant-passende Beispielfragen.
+ * - Kanzlei-Nguyen (Bao): Migrationsrecht-fokussiert
+ * - andere: generische Mischung
+ *
+ * Sicher als Funktion (kein top-level access auf access-context),
+ * damit kein zirkulärer Import entsteht.
+ */
+export function getExampleQuestions(tenantId?: string | null): string[] {
+  if (tenantId === 'kanzlei-nguyen') return EXAMPLE_QUESTIONS_MIGRATION
+  return EXAMPLE_QUESTIONS_DEFAULT
+}
+
+/** Legacy-Export für bestehende Importe — Default-Set. */
+export const EXAMPLE_QUESTIONS = EXAMPLE_QUESTIONS_DEFAULT

@@ -396,6 +396,52 @@ export function isDemoLoaded(): boolean {
  * research and letters. Idempotent via DEMO_MARKER. Call eraseAllProData
  * to reset before re-loading a different preset.
  */
+/**
+ * Verteilt vorhandene Demo-Aktivität (Akten / Recherchen / Schreiben /
+ * Tasks) auf realistische Zeitstempel der letzten Woche, damit das
+ * „Diese Woche"-Widget gefüllt aussieht — auch nach langer Demo-Nutzung.
+ * Idempotent, nicht-destruktiv: schreibt nur Zeitstempel, kein Inhalt.
+ */
+export function refreshDemoActivity(presetKey: string): void {
+  if (presetKey !== 'nguyen') return
+
+  try {
+    const KEY_CASES = 'gitlaw.pro.cases.v1'
+    const KEY_RESEARCH = 'gitlaw.pro.research.v1'
+    const KEY_LETTERS = 'gitlaw.pro.letters.v1'
+    const KEY_TASKS = 'gitlaw.pro.tasks.v1'
+
+    const offsets = [1, 2, 3, 4, 5, 6]
+
+    type WithDates = { createdAt?: string; updatedAt?: string; completedAt?: string; status?: string }
+
+    const cases = JSON.parse(localStorage.getItem(KEY_CASES) || '[]') as WithDates[]
+    cases.slice(-3).forEach((c, i) => {
+      c.createdAt = daysFromNow(-(offsets[i * 2] ?? 6))
+      c.updatedAt = daysFromNow(-Math.max(0, (offsets[i] ?? 1) - 1))
+    })
+    localStorage.setItem(KEY_CASES, JSON.stringify(cases))
+
+    const research = JSON.parse(localStorage.getItem(KEY_RESEARCH) || '[]') as WithDates[]
+    research.slice(-6).forEach((r, i) => { r.createdAt = daysFromNow(-(offsets[i] ?? 6)) })
+    localStorage.setItem(KEY_RESEARCH, JSON.stringify(research))
+
+    const letters = JSON.parse(localStorage.getItem(KEY_LETTERS) || '[]') as WithDates[]
+    letters.slice(-6).forEach((l, i) => { l.createdAt = daysFromNow(-(offsets[i] ?? 6)) })
+    localStorage.setItem(KEY_LETTERS, JSON.stringify(letters))
+
+    const tasks = JSON.parse(localStorage.getItem(KEY_TASKS) || '[]') as WithDates[]
+    let doneIdx = 0
+    tasks.forEach(t => {
+      if (t.status === 'done' && doneIdx < 4) {
+        t.completedAt = daysFromNow(-(offsets[doneIdx] ?? 5))
+        doneIdx++
+      }
+    })
+    localStorage.setItem(KEY_TASKS, JSON.stringify(tasks))
+  } catch { /* ignore — demo helper, not critical */ }
+}
+
 export function loadDemoData(presetKey: string): { presetKey: string; caseCount: number } {
   const preset = getPreset(presetKey)
   if (!preset) throw new Error(`Unknown preset: ${presetKey}`)
@@ -453,20 +499,7 @@ export function loadDemoData(presetKey: string): { presetKey: string; caseCount:
   }
 
   if (preset.key === 'nguyen') {
-    // Demo-Aktivität so verteilen, dass das „Diese Woche"-Widget realistisch
-    // gefüllt aussieht — Recherchen + Schreiben mit createdAt-Werten der
-    // letzten Tage statt alle bei Demo-Load-Zeitpunkt.
-    try {
-      const KEY_RESEARCH = 'gitlaw.pro.research.v1'
-      const KEY_LETTERS = 'gitlaw.pro.letters.v1'
-      const research = JSON.parse(localStorage.getItem(KEY_RESEARCH) || '[]') as Array<{ createdAt: string }>
-      const letters = JSON.parse(localStorage.getItem(KEY_LETTERS) || '[]') as Array<{ createdAt: string }>
-      const offsets = [1, 2, 3, 4, 5, 6]
-      research.slice(-6).forEach((r, i) => { r.createdAt = daysFromNow(-(offsets[i] ?? 6)) })
-      letters.slice(-6).forEach((l, i) => { l.createdAt = daysFromNow(-(offsets[i] ?? 6)) })
-      localStorage.setItem(KEY_RESEARCH, JSON.stringify(research))
-      localStorage.setItem(KEY_LETTERS, JSON.stringify(letters))
-    } catch { /* ignore — demo helper, not critical */ }
+    refreshDemoActivity(preset.key)
 
     const allCases = listCases()
     const minhCase = allCases.find(c => c.aktenzeichen === '25/0301')

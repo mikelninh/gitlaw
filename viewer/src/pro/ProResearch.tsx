@@ -12,8 +12,9 @@
 import { useEffect, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { Search, Loader2, Save, Download, CheckCircle2, AlertTriangle, Lightbulb, RotateCcw, Shield } from 'lucide-react'
-import { EXAMPLE_QUESTIONS, proAsk } from './ai'
+import { getExampleQuestions, proAsk } from './ai'
 import {
+  getAccessContext,
   getApprovedMemoryExamples,
   getCase,
   getSettings,
@@ -351,7 +352,7 @@ export default function ProResearch() {
               <Lightbulb className="w-3.5 h-3.5" /> Beispielfragen (klicken zum Übernehmen):
             </div>
             <div className="flex flex-wrap gap-1.5">
-              {EXAMPLE_QUESTIONS.map((ex, i) => (
+              {getExampleQuestions(getAccessContext()?.tenantId).map((ex, i) => (
                 <button
                   key={i}
                   type="button"

@@ -26,7 +26,7 @@ import {
   saveSettings,
 } from './store'
 import { setCloudSyncEnabled, pullFromCloud } from './sync'
-import { isDemoLoaded, loadDemoData, getPreset, DEMO_MARKER } from './demo-data'
+import { isDemoLoaded, loadDemoData, getPreset, DEMO_MARKER, refreshDemoActivity } from './demo-data'
 import { exchangeInviteForSession, resumeSession } from './pro-api'
 
 interface Props {
@@ -80,14 +80,16 @@ export default function ProAuth({ children }: Props) {
           try { loadDemoData(presetFromUrl) }
           catch (err) { console.warn('Preset auto-load failed', err) }
         } else if (currentPreset === presetFromUrl) {
-          // Selber Preset bereits geladen — nur Branding/Name auffrischen,
-          // Akten unangetastet lassen. So bekommt Bao bei jedem /bao-Reload
-          // den aktuellen Namen aus dem Preset (z.B. „Bao Nguyen" statt
-          // veralteter „Thai Bao Nguyen"-Saved-State).
+          // Selber Preset bereits geladen — Settings + Demo-Aktivität auffrischen,
+          // Akten-Inhalt unangetastet lassen. So bekommt Bao bei jedem /bao-Reload
+          // den aktuellen Namen + realistische „Diese Woche"-Zahlen.
           try {
             const preset = getPreset(presetFromUrl)
-            if (preset) saveSettings(preset.settings)
-          } catch (err) { console.warn('Preset settings refresh failed', err) }
+            if (preset) {
+              saveSettings(preset.settings)
+              refreshDemoActivity(presetFromUrl)
+            }
+          } catch (err) { console.warn('Preset refresh failed', err) }
         } else if (currentPreset !== presetFromUrl) {
           // Another preset is loaded — defer to user. We'll show a switcher
           // banner inside the Pro app via this stored „pending preset switch".
