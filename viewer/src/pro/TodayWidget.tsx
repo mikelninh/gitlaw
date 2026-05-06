@@ -11,9 +11,9 @@
 
 import { AlertTriangle } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
-import { listCases } from './store'
+import { listCases, listCaseTasks } from './store'
 import { getChecklistById } from './mandatsart-checklists'
-import type { MandantCase } from './types'
+import type { CaseTask, MandantCase } from './types'
 
 function daysUntil(iso: string): number {
   const diff = new Date(iso).getTime() - Date.now()
@@ -97,11 +97,14 @@ function Row({ aktenzeichen, mandantName, hint, hintTone = 'default', onClick }:
 export default function TodayWidget() {
   const navigate = useNavigate()
   const cases = listCases()
+  const allTasks = listCaseTasks()
 
   const today = new Date()
   today.setHours(0, 0, 0, 0)
   const in14Days = new Date(today)
   in14Days.setDate(today.getDate() + 14)
+  const tomorrow = new Date(today)
+  tomorrow.setDate(today.getDate() + 1)
 
   // Sektion 0: Eilanträge gegen Abschiebung
   const eilantragCases = cases.filter(
@@ -135,11 +138,18 @@ export default function TodayWidget() {
     .map(c => ({ c, missing: countMissingRequired(c) }))
     .filter(({ missing }) => missing > 0)
 
+  // Sektion 4: Aufgaben heute fällig (inkl. morgen)
+  const tomorrowStr = tomorrow.toISOString().slice(0, 10)
+  const dueTodayTasks = allTasks.filter((t: CaseTask) =>
+    t.status === 'open' && t.dueDate != null && t.dueDate <= tomorrowStr,
+  )
+
   const allEmpty =
     eilantragCases.length === 0 &&
     fristCases.length === 0 &&
     behoerdeCases.length === 0 &&
-    missingDocCases.length === 0
+    missingDocCases.length === 0 &&
+    dueTodayTasks.length === 0
 
   if (allEmpty) {
     return (
@@ -255,6 +265,27 @@ export default function TodayWidget() {
               onClick={() => navigate(`/pro/akten/${c.id}`)}
             />
           ))}
+        </Section>
+      )}
+
+      {dueTodayTasks.length > 0 && (
+        <Section title="Aufgaben heute fällig" count={dueTodayTasks.length} tone="amber">
+          {dueTodayTasks.map((task: CaseTask) => {
+            const c = cases.find(x => x.id === task.caseId)
+            if (!c) return null
+            const isOverdue = task.dueDate! < today.toISOString().slice(0, 10)
+            return (
+              <Row
+                key={task.id}
+                caseId={c.id}
+                aktenzeichen={c.aktenzeichen}
+                mandantName={c.mandantName}
+                hint={task.title + (isOverdue ? ' — überfällig' : '')}
+                hintTone={isOverdue ? 'red' : 'amber'}
+                onClick={() => navigate(`/pro/akten/${c.id}`)}
+              />
+            )
+          })}
         </Section>
       )}
     </div>

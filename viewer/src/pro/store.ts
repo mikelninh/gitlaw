@@ -23,9 +23,11 @@ import type {
   KanzleiSettings,
   MandantCase,
   ParagraphNote,
+  RechtsprechungsAlert,
   ResearchQuery,
+  TeamTask,
 } from './types'
-import { scheduleCoreCollectionPersist } from './server-persist'
+import { scheduleCoreCollectionPersist, putItem } from './server-persist'
 import { schedulePush } from './sync'
 import type { ProAction, ProRole } from './access'
 
@@ -56,9 +58,11 @@ const DEFAULT_SETTINGS: KanzleiSettings = {
 export interface AccessContext {
   tenantId: string
   userId: string
-  role: 'owner' | 'anwalt' | 'assistenz' | 'read_only'
+  role: 'owner' | 'anwalt' | 'paralegal' | 'assistenz' | 'assistant' | 'read_only'
   email?: string
   sessionExpiresAt?: string
+  /** Optional custom scopes override (owner-configurable per user). */
+  scopes?: string[]
 }
 
 export interface ProAnalyticsSnapshot {
@@ -104,9 +108,11 @@ function hashString(input: string): string {
 
 const ROLE_RANK: Record<ProRole, number> = {
   read_only: 1,
-  assistenz: 2,
-  anwalt: 3,
-  owner: 4,
+  assistant: 2,
+  assistenz: 3,
+  paralegal: 4,
+  anwalt: 5,
+  owner: 6,
 }
 
 const ACTION_MIN_ROLE: Record<ProAction, ProRole> = {
@@ -307,6 +313,8 @@ export function createCase(input: {
   const all = readJSON<MandantCase[]>(KEY_CASES, [])
   all.push(c)
   writeJSON(KEY_CASES, all)
+  // Server-first: immediately push item so other devices see it
+  void putItem('cases', c)
   log('case.create', `${c.aktenzeichen} — ${c.mandantName}`, c.id)
   return c
 }
@@ -325,12 +333,12 @@ export function archiveCase(id: string): void {
   log('case.archive', `id=${id}`, id)
 }
 
-export function addCaseTask(caseId: string, input: { title: string; assignee?: string }): CaseTask | null {
+export function addCaseTask(caseId: string, input: { title: string; assignee?: string }): TeamTask | null {
   if (!guardAction('case.task')) return null
   const all = readJSON<MandantCase[]>(KEY_CASES, [])
   const idx = all.findIndex(c => c.id === caseId)
   if (idx < 0) return null
-  const task: CaseTask = {
+  const task: TeamTask = {
     id: uid(),
     title: input.title,
     assignee: input.assignee,
@@ -417,14 +425,14 @@ export function toggleCaseTask(caseId: string, taskId: string): void {
   const all = readJSON<MandantCase[]>(KEY_CASES, [])
   const idx = all.findIndex(c => c.id === caseId)
   if (idx < 0) return
-  const tasks = (all[idx].tasks || []).map(t => {
+  const tasks = (all[idx].tasks || []).map((t: TeamTask) => {
     if (t.id !== taskId) return t
     const done = !t.done
     return { ...t, done, completedAt: done ? new Date().toISOString() : undefined }
   })
   all[idx] = { ...all[idx], tasks, updatedAt: new Date().toISOString() }
   writeJSON(KEY_CASES, all)
-  const task = tasks.find(t => t.id === taskId)
+  const task = tasks.find((t: TeamTask) => t.id === taskId)
   if (task?.done) log('case.task.done', task.title, caseId)
 }
 
@@ -568,9 +576,25 @@ export function saveResearch(r: Omit<ResearchQuery, 'id' | 'createdAt'>): Resear
   const all = readJSON<ResearchQuery[]>(KEY_RESEARCH, [])
   all.push(item)
   writeJSON(KEY_RESEARCH, all)
+  void putItem('research', item)
   if (item.caseId) {
     const c = getCase(item.caseId)
-    if (c) updateCase(c.id, { researchIds: [...c.researchIds, item.id] })
+    if (c) {
+      const existing = new Set((c.relevantParagraphs || []).map(p => `${p.lawId}:${p.section}`))
+      const newPars = item.citations
+        .filter(c => c.verified && !existing.has(`${c.lawId}:${c.section}`))
+        .map(c => ({
+          lawId: c.lawId,
+          section: c.section,
+          display: c.display,
+          source: `research:${item.id}`,
+          addedAt: new Date().toISOString(),
+        }))
+      updateCase(c.id, {
+        researchIds: [...c.researchIds, item.id],
+        relevantParagraphs: [...(c.relevantParagraphs || []), ...newPars],
+      })
+    }
   }
   log(
     'research.query',
@@ -662,6 +686,7 @@ export function saveLetter(l: Omit<GeneratedLetter, 'id' | 'createdAt'>): Genera
   const all = readJSON<GeneratedLetter[]>(KEY_LETTERS, [])
   all.push(item)
   writeJSON(KEY_LETTERS, all)
+  void putItem('letters', item)
   if (item.caseId) {
     const c = getCase(item.caseId)
     if (c) updateCase(c.id, { letterIds: [...c.letterIds, item.id] })
@@ -669,6 +694,25 @@ export function saveLetter(l: Omit<GeneratedLetter, 'id' | 'createdAt'>): Genera
   recordTemplateUsage(item.templateId)
   log('letter.generate', `template=${item.templateId}`, item.caseId)
   return item
+}
+
+// --- Rechtsprechungs-Alerts ---
+
+const KEY_ALERTS = 'gitlaw.pro.alerts.v1'
+
+export function listAlerts(): RechtsprechungsAlert[] {
+  return readJSON<RechtsprechungsAlert[]>(KEY_ALERTS, [])
+    .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
+}
+
+export function saveAlerts(alerts: RechtsprechungsAlert[]): void {
+  const existing = readJSON<RechtsprechungsAlert[]>(KEY_ALERTS, [])
+  const seen = new Set(existing.map(a => a.id))
+  const merged = [...existing]
+  for (const alert of alerts) {
+    if (!seen.has(alert.id)) merged.push(alert)
+  }
+  writeJSON(KEY_ALERTS, merged.slice(-200))
 }
 
 export interface TemplateUsageEntry {
@@ -925,6 +969,57 @@ export function listParagraphNotes(): ParagraphNote[] {
   )
 }
 
+// --- Modul D: CaseTasks (standalone, not embedded in MandantCase) ---
+
+export const KEY_TASKS = 'gitlaw.pro.tasks.v1'
+
+export function listCaseTasks(caseId?: string): CaseTask[] {
+  const all = readJSON<CaseTask[]>(KEY_TASKS, [])
+  return (caseId ? all.filter(t => t.caseId === caseId) : all).sort((a, b) =>
+    (a.dueDate ?? a.createdAt).localeCompare(b.dueDate ?? b.createdAt),
+  )
+}
+
+export function createCaseTask(input: {
+  caseId: string
+  title: string
+  type: CaseTask['type']
+  dueDate?: string
+  autoGenerated?: boolean
+}): CaseTask {
+  const now = new Date().toISOString()
+  const task: CaseTask = {
+    id: uid(),
+    caseId: input.caseId,
+    title: input.title,
+    type: input.type,
+    dueDate: input.dueDate,
+    status: 'open',
+    createdAt: now,
+    autoGenerated: input.autoGenerated ?? false,
+  }
+  const all = readJSON<CaseTask[]>(KEY_TASKS, [])
+  all.push(task)
+  writeJSON(KEY_TASKS, all)
+  return task
+}
+
+export function updateCaseTask(id: string, patch: Partial<Pick<CaseTask, 'status' | 'title' | 'dueDate' | 'completedAt'>>): void {
+  const all = readJSON<CaseTask[]>(KEY_TASKS, [])
+  const idx = all.findIndex(t => t.id === id)
+  if (idx < 0) return
+  if (patch.status === 'done' && !patch.completedAt) {
+    patch = { ...patch, completedAt: new Date().toISOString() }
+  }
+  all[idx] = { ...all[idx], ...patch }
+  writeJSON(KEY_TASKS, all)
+}
+
+export function deleteCaseTask(id: string): void {
+  const all = readJSON<CaseTask[]>(KEY_TASKS, []).filter(t => t.id !== id)
+  writeJSON(KEY_TASKS, all)
+}
+
 // --- Reset (Datenschutz / Notausgang) ---
 
 export function eraseAllProData(): void {
@@ -933,6 +1028,6 @@ export function eraseAllProData(): void {
     KEY_AUDIT, KEY_INVITE, KEY_INTAKES,
     KEY_CUSTOM_TEMPLATES, KEY_PARAGRAPH_NOTES,
     KEY_ACCESS_CTX, KEY_LAST_ACTIVE, KEY_ONBOARDING_DISMISSED,
-    KEY_APPROVED_MEMORY, KEY_ANALYTICS,
+    KEY_APPROVED_MEMORY, KEY_ANALYTICS, KEY_TASKS,
   ].forEach(k => localStorage.removeItem(k))
 }

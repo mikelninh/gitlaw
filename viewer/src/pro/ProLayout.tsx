@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react'
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom'
 import { Scale, FolderOpen, FileText, Search, Settings, Shield, LogOut, ExternalLink, Inbox, Cloud, RefreshCw, AlertCircle, CheckCircle2, Upload, Wand2 } from 'lucide-react'
 import { clearStoredInvite, getAccessContext, getSettings, isSessionExpired, listIntakes, touchSessionActivity } from './store'
-import { hasRole, hasScope } from './access'
+import { hasRole, hasScope, roleLabel } from './access'
 import {
   getSyncState,
   isCloudSyncEnabled,
@@ -151,8 +151,8 @@ export default function ProLayout() {
               {settings.anwaltName || <span className="italic text-[var(--color-ink-muted)]">Profil unvollständig</span>}
             </span>
             {access && (
-              <span className="text-[10px] uppercase tracking-wider px-1.5 py-0.5 rounded bg-slate-100 text-slate-700 border border-slate-200" title={`tenant=${access.tenantId}`}>
-                {access.role}
+              <span className="text-[10px] uppercase tracking-wider px-1.5 py-0.5 rounded bg-slate-100 text-slate-700 border border-slate-200" title={`role=${access.role} tenant=${access.tenantId}`}>
+                {roleLabel(access.role)}
               </span>
             )}
             <button

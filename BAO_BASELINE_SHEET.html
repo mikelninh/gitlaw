@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baseline-Sheet — KW 20 (12.–18. Mai 2026)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink: #0d1014;
+      --paper: #f4ede0;
+      --paper-light: #faf6ef;
+      --gold: #c89c3c;
+      --calm: #6b9e7a;
+      --signal: #d2493e;
+      --border: #ddd4c2;
+      --ink-muted: #5a5348;
+      --ink-soft: #7a6f63;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Fraunces', Georgia, serif;
+      background: var(--paper);
+      color: var(--ink);
+      min-height: 100vh;
+      padding: 2rem 1rem 4rem;
+    }
+
+    .page {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 2.5rem;
+      border-bottom: 2px solid var(--gold);
+      padding-bottom: 1.25rem;
+    }
+
+    header h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      font-variation-settings: 'opsz' 60;
+      letter-spacing: -0.02em;
+      line-height: 1.15;
+    }
+
+    header p {
+      margin-top: 0.4rem;
+      font-size: 0.9rem;
+      color: var(--ink-soft);
+    }
+
+    .badge {
+      display: inline-block;
+      background: var(--gold);
+      color: #fff;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.65rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      margin-right: 0.5rem;
+      vertical-align: middle;
+    }
+
+    .section-title {
+      font-size: 0.8rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--ink-muted);
+      margin-bottom: 1rem;
+    }
+
+    /* Table */
+    .baseline-table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--paper-light);
+      border-radius: 10px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      font-size: 0.875rem;
+    }
+
+    .baseline-table thead tr {
+      background: var(--ink);
+      color: var(--paper);
+    }
+
+    .baseline-table thead th {
+      padding: 0.75rem 1rem;
+      text-align: left;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .baseline-table tbody tr {
+      border-bottom: 1px solid var(--border);
+      transition: background 0.12s;
+    }
+
+    .baseline-table tbody tr:last-child {
+      border-bottom: none;
+    }
+
+    .baseline-table tbody tr:hover {
+      background: #ede7d8;
+    }
+
+    .baseline-table td {
+      padding: 0.6rem 1rem;
+      vertical-align: middle;
+    }
+
+    .baseline-table td.day-label {
+      font-weight: 600;
+      font-variation-settings: 'opsz' 20;
+      white-space: nowrap;
+    }
+
+    .baseline-table td.day-label .weekday {
+      font-size: 0.75rem;
+      color: var(--ink-muted);
+      display: block;
+    }
+
+    .baseline-table input[type="number"],
+    .baseline-table input[type="text"] {
+      width: 100%;
+      background: transparent;
+      border: none;
+      border-bottom: 1px solid var(--border);
+      padding: 0.25rem 0.2rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.82rem;
+      color: var(--ink);
+      outline: none;
+      transition: border-color 0.15s;
+      -moz-appearance: textfield;
+    }
+
+    .baseline-table input[type="number"]::-webkit-outer-spin-button,
+    .baseline-table input[type="number"]::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+    }
+
+    .baseline-table input:focus {
+      border-bottom-color: var(--gold);
+    }
+
+    .baseline-table input[type="text"] {
+      font-family: inherit;
+      font-size: 0.82rem;
+    }
+
+    /* Summary row */
+    .summary-row {
+      background: var(--ink) !important;
+      color: var(--paper) !important;
+    }
+
+    .summary-row td {
+      font-weight: 600;
+      padding: 0.75rem 1rem;
+    }
+
+    .summary-row .label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      display: block;
+      color: var(--gold);
+    }
+
+    .summary-row .value {
+      font-size: 1.1rem;
+      font-variation-settings: 'opsz' 40;
+    }
+
+    /* Actions */
+    .actions {
+      margin-top: 1.5rem;
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    button.action-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 0.55rem 1.1rem;
+      border-radius: 8px;
+      border: 1.5px solid var(--ink);
+      background: var(--ink);
+      color: var(--paper);
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+
+    button.action-btn:hover {
+      opacity: 0.85;
+    }
+
+    button.action-btn.secondary {
+      background: transparent;
+      color: var(--ink);
+    }
+
+    .save-note {
+      font-size: 0.78rem;
+      color: var(--calm);
+      font-style: italic;
+    }
+
+    /* Footer */
+    .footer-block {
+      margin-top: 3rem;
+      padding: 1.5rem;
+      background: var(--paper-light);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+    }
+
+    .footer-block h3 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .footer-block p {
+      font-size: 0.85rem;
+      color: var(--ink-soft);
+      line-height: 1.6;
+    }
+
+    .footer-block a {
+      color: var(--gold);
+    }
+
+    .mono {
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    @media (max-width: 600px) {
+      .baseline-table thead th:nth-child(3),
+      .baseline-table tbody td:nth-child(3) {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <h1>
+        <span class="badge">Pilot</span>
+        Baseline-Sheet — KW 20
+      </h1>
+      <p>Mo 12.05. – So 18.05.2026 &nbsp;·&nbsp; Kanzlei Bao &nbsp;·&nbsp; Täglich 5 Minuten ausfüllen</p>
+    </header>
+
+    <p class="section-title">Wochenmessung</p>
+
+    <table class="baseline-table" id="baselineTable">
+      <thead>
+        <tr>
+          <th>Tag</th>
+          <th>Sachstandsanfragen</th>
+          <th>Erinnerungen verschickt</th>
+          <th>Unterlagen-Sortierung (Min)</th>
+          <th>Notiz</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody">
+        <!-- Rows generated by JS -->
+      </tbody>
+      <tfoot>
+        <tr class="summary-row" id="summaryRow">
+          <td><span class="label">Gesamt</span></td>
+          <td><span class="label">Summe</span><span class="value mono" id="sumAnfragen">—</span></td>
+          <td><span class="label">Summe</span><span class="value mono" id="sumErinnerungen">—</span></td>
+          <td><span class="label">Summe / Ø/Tag</span><span class="value mono" id="sumSortierung">—</span></td>
+          <td><span class="label">Notizen</span><span style="font-size:0.8rem">gespeichert</span></td>
+        </tr>
+      </tfoot>
+    </table>
+
+    <div class="actions">
+      <button class="action-btn" id="csvBtn">Als CSV herunterladen</button>
+      <button class="action-btn secondary" id="clearBtn">Woche zurücksetzen</button>
+      <span class="save-note" id="saveNote"></span>
+    </div>
+
+    <div class="footer-block" style="margin-top:2.5rem;">
+      <h3>Nach der Woche: Ergebnisse an Mikel schicken</h3>
+      <p>
+        Klick auf "Als CSV herunterladen", speichere die Datei und schick sie per E-Mail:<br>
+        <strong><a href="mailto:hallo.chupi@gmail.com">hallo.chupi@gmail.com</a></strong><br><br>
+        Betreff: <span class="mono" style="font-size:0.82rem">Baseline KW 20 — Kanzlei Bao</span><br><br>
+        Wir werten gemeinsam aus, welche Aufgaben am meisten Zeit kosten — und welche davon
+        GitLaw Pro bereits übernimmt oder noch übernehmen sollte.
+      </p>
+    </div>
+  </div>
+
+  <script>
+    const STORAGE_KEY = 'bao-baseline-2026-05-12'
+
+    const DAYS = [
+      { short: 'Mo', date: '12.05.' },
+      { short: 'Di', date: '13.05.' },
+      { short: 'Mi', date: '14.05.' },
+      { short: 'Do', date: '15.05.' },
+      { short: 'Fr', date: '16.05.' },
+      { short: 'Sa', date: '17.05.' },
+      { short: 'So', date: '18.05.' },
+    ]
+
+    const FIELDS = ['anfragen', 'erinnerungen', 'sortierung']
+
+    function loadData() {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY)
+        if (raw) return JSON.parse(raw)
+      } catch {}
+      return {}
+    }
+
+    function saveData(data) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data))
+      const note = document.getElementById('saveNote')
+      note.textContent = 'Gespeichert ' + new Date().toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' })
+      setTimeout(() => { note.textContent = '' }, 3000)
+    }
+
+    function buildTable() {
+      const data = loadData()
+      const tbody = document.getElementById('tableBody')
+      tbody.innerHTML = ''
+
+      DAYS.forEach((day, i) => {
+        const tr = document.createElement('tr')
+        tr.setAttribute('data-day', i)
+
+        // Day cell
+        const tdDay = document.createElement('td')
+        tdDay.className = 'day-label'
+        tdDay.innerHTML = `${day.short} ${day.date}<span class="weekday">${day.date}</span>`
+        tdDay.style.paddingLeft = '1rem'
+        tr.appendChild(tdDay)
+
+        // Number inputs
+        FIELDS.forEach(field => {
+          const td = document.createElement('td')
+          const input = document.createElement('input')
+          input.type = field === 'sortierung' ? 'number' : 'number'
+          input.min = '0'
+          input.step = '1'
+          input.placeholder = '0'
+          input.value = data[`${i}_${field}`] ?? ''
+          input.setAttribute('data-day', i)
+          input.setAttribute('data-field', field)
+          input.addEventListener('input', onInput)
+          td.appendChild(input)
+          tr.appendChild(td)
+        })
+
+        // Notiz
+        const tdNote = document.createElement('td')
+        const noteInput = document.createElement('input')
+        noteInput.type = 'text'
+        noteInput.placeholder = 'optional'
+        noteInput.value = data[`${i}_notiz`] ?? ''
+        noteInput.setAttribute('data-day', i)
+        noteInput.setAttribute('data-field', 'notiz')
+        noteInput.addEventListener('input', onInput)
+        tdNote.appendChild(noteInput)
+        tr.appendChild(tdNote)
+
+        tbody.appendChild(tr)
+      })
+
+      updateSummary()
+    }
+
+    function onInput(e) {
+      const data = loadData()
+      const day = e.target.getAttribute('data-day')
+      const field = e.target.getAttribute('data-field')
+      data[`${day}_${field}`] = e.target.value
+      saveData(data)
+      updateSummary()
+    }
+
+    function updateSummary() {
+      const data = loadData()
+      let sumA = 0, sumE = 0, sumS = 0
+      let countS = 0
+
+      DAYS.forEach((_, i) => {
+        const a = parseFloat(data[`${i}_anfragen`]) || 0
+        const e = parseFloat(data[`${i}_erinnerungen`]) || 0
+        const s = parseFloat(data[`${i}_sortierung`]) || 0
+        sumA += a
+        sumE += e
+        sumS += s
+        if (s > 0) countS++
+      })
+
+      document.getElementById('sumAnfragen').textContent = sumA
+      document.getElementById('sumErinnerungen').textContent = sumE
+      const avg = countS > 0 ? Math.round(sumS / countS) : 0
+      document.getElementById('sumSortierung').textContent = `${sumS} / Ø ${avg} Min`
+    }
+
+    document.getElementById('csvBtn').addEventListener('click', () => {
+      const data = loadData()
+      const rows = [['Tag', 'Datum', 'Sachstandsanfragen', 'Erinnerungen verschickt', 'Unterlagen-Sortierung (Min)', 'Notiz']]
+      DAYS.forEach((day, i) => {
+        rows.push([
+          day.short,
+          day.date,
+          data[`${i}_anfragen`] ?? '0',
+          data[`${i}_erinnerungen`] ?? '0',
+          data[`${i}_sortierung`] ?? '0',
+          data[`${i}_notiz`] ?? '',
+        ])
+      })
+      const csv = rows.map(r => r.map(v => `"${String(v).replace(/"/g, '""')}"`).join(',')).join('\n')
+      const blob = new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8' })
+      const url = URL.createObjectURL(blob)
+      const a = document.createElement('a')
+      a.href = url
+      a.download = 'baseline-kw20-bao.csv'
+      a.click()
+      URL.revokeObjectURL(url)
+    })
+
+    document.getElementById('clearBtn').addEventListener('click', () => {
+      if (confirm('Alle Einträge dieser Woche löschen?')) {
+        localStorage.removeItem(STORAGE_KEY)
+        buildTable()
+      }
+    })
+
+    buildTable()
+  </script>
+</body>
+</html>

@@ -21,6 +21,7 @@ import {
   setKanzleiKey,
 } from './sync'
 import { generateAvvPdf } from './avv-pdf'
+import RoleManager from './RoleManager'
 import type { KanzleiSettings } from './types'
 
 const MAX_LOGO_BYTES = 200 * 1024  // 200 KB
@@ -251,6 +252,9 @@ export default function ProSettings() {
           ))}
         </div>
       </section>
+
+      {/* Rollenmodell MVP */}
+      <RoleManager />
 
       {/* DSGVO-Modus: Auto-Anonymisierung */}
       <DsgvoModusSection />

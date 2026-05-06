@@ -7,7 +7,7 @@
  * Voice: respektvoll-warm, klar, kein Marketing-Deutsch.
  */
 
-import type { MandantCase, KanzleiSettings } from './types'
+import type { MandantCase, KanzleiSettings, CaseTaskType } from './types'
 import { getChecklistById } from './mandatsart-checklists'
 
 // ---------------------------------------------------------------------------
@@ -266,6 +266,72 @@ export function formatFehlendeUnterlagen(c: MandantCase, lang: 'de' | 'vi'): str
       return `· ${label}`
     })
     .join('\n')
+}
+
+// ---------------------------------------------------------------------------
+// B.4 — Auto-Aufgaben bei Status-Wechsel (Modul D, Sprint 1)
+// ---------------------------------------------------------------------------
+
+interface AutoTaskSpec {
+  title: string
+  type: CaseTaskType
+  dueDateOffsetDays?: number
+}
+
+/**
+ * Gibt die Liste der Aufgaben zurück, die beim Übergang von fromStatus → toStatus
+ * automatisch erstellt werden sollen.
+ * Leere Liste = kein Auto-Task für diesen Übergang.
+ */
+export function getAutoTasksForStatusChange(
+  _caseId: string,
+  fromStatus: CaseStatus,
+  toStatus: CaseStatus,
+): AutoTaskSpec[] {
+  const specs: AutoTaskSpec[] = []
+
+  // Mandant erinnern wenn Unterlagen fehlen und Status wechselt weg
+  if (fromStatus === 'unterlagen_fehlen') {
+    specs.push({
+      title: 'Mandant:in an fehlende Unterlagen erinnern',
+      type: 'mandant_erinnern',
+      dueDateOffsetDays: 3,
+    })
+  }
+
+  if (toStatus === 'antrag_in_vorbereitung') {
+    specs.push({
+      title: 'Antrag vorbereiten und prüfen',
+      type: 'antrag_vorbereiten',
+      dueDateOffsetDays: 5,
+    })
+  }
+
+  if (toStatus === 'antrag_eingereicht') {
+    specs.push({
+      title: 'Behörde nachfassen — Eingangsbestätigung anfordern',
+      type: 'behoerde_nachfassen',
+      dueDateOffsetDays: 14,
+    })
+  }
+
+  if (toStatus === 'behoerde_nachforderung') {
+    specs.push({
+      title: 'Nachforderung der Behörde prüfen und beantworten',
+      type: 'nachforderung_pruefen',
+      dueDateOffsetDays: 2,
+    })
+  }
+
+  if (toStatus === 'termin_steht_aus') {
+    specs.push({
+      title: 'Anwaltliche Prüfung vor Termin',
+      type: 'anwaltliche_pruefung',
+      dueDateOffsetDays: 7,
+    })
+  }
+
+  return specs
 }
 
 /**
