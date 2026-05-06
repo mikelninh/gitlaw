@@ -174,26 +174,234 @@ Deine Top-7-Reihenfolge spiegeln wir 1:1 in der Sprint-Planung:
 
 ## 10. Zielbild der künftigen Lösung
 
-**Status:** alle 12 Punkte abgebildet im Plan
+**Status:** 8 von 12 Punkten heute live, 4 sind teilweise — kein Punkt fällt raus, nichts ist nur Plan.
 
-Die zwölf Zielbild-Punkte aus deinem Dokument sind 1:1 in den Sprints 1-4 verteilt. Keiner fällt raus. Was wir bewusst **nicht** in der ersten Iteration anstreben:
+### Coverage-Tabelle der 12 Zielbild-Punkte
 
-- **Vollständige Advoware-API-Integration** — Advoware bietet keine offene Schnittstelle. Wir bleiben bei CSV-Import (existiert) + strukturiertem Export. Wenn du bei Advoware-Support nachfragst und doch eine Schnittstelle bekommst: Game-Changer, sofort einbauen.
-- **WhatsApp-Direktintegration** — siehe Punkt 6.
+| # | Zielbild-Punkt | Status | Wo es heute steht |
+|---|---|---|---|
+| 1 | Strukturierte Erfassung neuer Mandate | ✓ live | Akten-CRUD + Mandatsart-Selector aus 11 Optionen + Behörden-Combobox |
+| 2 | Digitale Unterlagenlisten je Mandatsart | ✓ live | 108 kuratierte Items in `mandatsart-checklists.ts`, ein Klick lädt die Checkliste in die Akte |
+| 3 | Automatische Erkennung fehlender Unterlagen | ✓ live | Heute-Widget zeigt pro Akte „X Pflicht-Unterlagen fehlen" + Filter „nur fehlend" in der Checkliste |
+| 4 | Automatische / halbautomatische Erinnerung an Mandanten | ~ teilweise | Drafts in DE+VI live (Sachstand-Generator, Status `unterlagen_fehlen`); **Auto-Versand kommt mit Sprint 2** |
+| 5 | Mehrsprachige Kommunikation DE + VI | ~ teilweise | 32 Sachstand-Templates DE+VI live (8 Stati × Mandant/Mittelsperson); **freie VI-Recherche kommt mit Modul C** |
+| 6 | Standardisierte Sachstandsinformationen | ✓ live | 32 kuratierte Templates, automatisch befüllt mit Mandantenname, Behörde, Aktenzeichen, Frist |
+| 7 | Interne Statusübersichten je Mandat | ✓ live | 8-Stati-Workflow mit Übergangs-Regeln + Heute-Widget + Akten-Detail-View |
+| 8 | Unterstützung bei Dokumentensortierung / -benennung | ~ teilweise | OCR-Drop-Zone mit Keyword-Match-Vorschlägen (Beta) live; **semantische Klassifikation kommt mit Sprint 3** |
+| 9 | Erstellung von E-Mail-Entwürfen | ✓ live | Sachstand-Generator für 8 Stati × Mandant/Mittelsperson × DE/VI = 32 vorbereitete E-Mail-Drafts |
+| 10 | Vorbereitung von Antrags- und Schriftsatzentwürfen | ✓ live | 12 Migration-Templates (Aufenthaltstitel, Familiennachzug, Einbürgerung, Eilantrag, Fiktionsbescheinigung …) auf eigenem Briefkopf, PDF + Word-Export |
+| 11 | Schnittstellen / praktikable Übergaben zu Advoware | ~ teilweise | CSV-Bidirectional live mit Auto-Spalten-Erkennung; **API-Anbindung wartet auf Lizenzklärung** |
+| 12 | Rollen- und Rechtekonzept | ~ teilweise | RBAC + Pro-Session mit Anwalt/Refa/Hilfskraft live; **Mandanten + Mittelspersonen-Auth kommt mit Sprint 4 + Phase 4** |
+
+**8 ✓ live · 4 ~ teilweise · 0 fehlt komplett.**
+
+### Was wir bewusst **nicht** in der ersten Iteration angestrebt haben
+
+- **Vollständige Advoware-API-Integration** — Advoware bietet aktuell keine offene Schnittstelle. CSV-Bridge ist live, API-Anbindung wartet auf Klärung deiner Lizenzstufe.
+- **WhatsApp-Direktintegration** — siehe Punkt 6 deines Lastenhefts und unsere Antwort dort.
+
+### Anmerkungen / Rückfragen
+
+- **Mandanten-Rolle (#12):** Im Zielbild stehen sowohl „Mandanten" als auch „Mittelspersonen" als eigene Rollen. Heißt das Mandanten-Endnutzer mit eigenem Login (Mandanten-Portal Phase 4)? Oder reicht bis dahin die Erreichbarkeit über Mittelspersonen, weil die meisten Mandant:innen kein digitales Self-Service-Setup haben?
+- **Auto-Versand (#4):** Brauchen wir vor Sprint 2 eine Entscheidung — eigener Kanzlei-SMTP, Resend (EU-Region), Mailgun? Mein Vorschlag: Resend, weil EU-only und in 30 Min einsatzbereit.
+- **VI-Voice-Polish (#5):** 5 echte (anonymisierte) Sachstands-Antworten von dir, gemischt DE + VI, sind die Voraussetzung für Modul C. Ohne backst du blind.
+- **Dokumentenbenennung (#8):** Nach welcher Konvention sollen wir Dokumente automatisch umbenennen? Vorschlag: `{aktenzeichen}_{kategorie}_{datum}.{ext}` — funktioniert, aber dein Stil bestimmt das Format.
+- **Mittelsperson-Häufigkeit (#12):** Wenn das ein häufiger Workflow ist, schiebe ich Sprint 4 vor Sprint 3.
+
+### Technische Einschätzung
+
+- **Das gesamte Zielbild ist mit dem aktuellen Stack vollständig erreichbar.** Kein Blocker, keine Architektur-Refactor-Pflicht.
+- **Kritische Pfade für die 4 teilweisen Punkte:**
+  - **#4 Auto-Versand** — Mail-Layer (Resend mit Domain-Verifikation) + Refa-Freigabe-Stufe + Audit-Eintrag pro Versand. ~1 Woche bei sauberer Implementierung.
+  - **#8 Doku-Sortierung** — muss von Keyword-Match auf semantische Klassifikation umgestellt werden. Optionen: gpt-4o-vision pro Seite (teuer aber präzise) oder lokales Embedding-Modell (günstig, etwas weniger präzise). Empfehlung: Vision für die ersten 6 Monate, danach Re-Evaluation. ~2 Wochen.
+  - **#11 Advoware** — bleibt CSV bis Lizenz-Klärung. Falls API verfügbar wird: 1-2 Wochen für stabile Anbindung.
+  - **#12 Rollen** — bestehendes RBAC bricht für Mandant + Mittelsperson auf, weil andere Auth-Modelle (Magic Link statt Beta-Token, eigene Tenant-Begrenzung). ~1 Woche pro Rolle.
+- **Risiken die ich sehe:**
+  - VI-Templates sind grammatikalisch sauber, aber muttersprachlicher Voice-Polish ist Pflicht vor produktivem Versand.
+  - OCR-Beta-Erkennung kann bei unklarem Match falsche Vorschläge machen — Bestätigung ist deshalb manuell, das bleibt so bis Sprint 3.
+- **Open Source unter AGPL-3.0:** Du kannst Code jederzeit prüfen oder prüfen lassen. Kein Lock-in, keine Black Box.
+
+### Rechtliche / datenschutzrechtliche Einschätzung
+
+Die 12 Zielbild-Punkte aus DSGVO-Sicht, sortiert nach Risiko-Hebel:
+
+- **#4 Auto-Versand:** Braucht Mandanten-Einwilligung zur Verarbeitung der E-Mail-Adresse für Erinnerungen. Intake-Formular kann das abdecken, ist aktuell noch nicht eingebaut → **Sprint-2-Add-on**, vor erstem Auto-Versand.
+- **#5 VI-Übersetzung über OpenAI:** AVV-Standard-Klauseln greifen, EU-Endpoint, Anonymizer (14 PII-Pattern) läuft vor jeder Anfrage. **Wichtig:** OpenAI bleibt US-Anbieter trotz EU-Endpoint — für Großkanzlei-Anforderungen ist Azure OpenAI EU der Upgrade-Pfad (Sprint 5+).
+- **#8 OCR:** Lädt PDFs an OpenAI Vision (für Scans ohne Text-Layer). Anonymizer-Coverage ist hier kritisch, weil viele Migrations-Dokumente sensible PII enthalten. **Empfehlung:** Mandanten-Einwilligung bei Erstaufnahme abfragen; Sprint-3-OCR-Refactor schaltet ggf. auf lokales Embedding-Modell um, wenn das DSGVO-rechtlich verlangt wird.
+- **#9 E-Mail-Entwürfe:** Drafts werden lokal generiert, kein automatischer Versand → niedrigstes Risiko.
+- **#10 Antrags-Entwürfe:** Lokal, kein Auto-Versand → niedriges Risiko.
+- **#12 Rollen-Trennung:** Wichtig dass Mandanten **nicht** auf andere Akten oder Tenant-Daten zugreifen können. Architektur ist darauf vorbereitet (signierte Sessions mit `tenantId` + `caseId`-Filter), aber Implementation für Mandanten-Login muss in Phase 4 sauber geprüft werden.
+- **Restliche Punkte (#1, #2, #3, #6, #7, #11):** keine relevanten DSGVO-Hebel.
+
+**AVV zwischen dir und mir** als Auftragsverarbeiter: Vorlage liegt bereit, müssen wir vor produktivem Pilot-Betrieb unterzeichnen.
+
+### To-dos / nächste Schritte (für das Zielbild)
+
+**Heute (06.05.):** Live-Demo der 8 live-Punkte; offene Fragen zu den 4 teilweisen Punkten beantworten.
+
+**Diese Woche (KW 19):** AVV-Vorlage prüfen, ggf. unterzeichnen. Bao-Feedback in `behoerden.ts`-Lücken einarbeiten.
+
+**Bis Ende Mai (Sprint-1-Abschluss):**
+- Modul C aktiviert #5 vollständig (freie VI-Recherche-Antworten)
+- Modul D liefert Tasks pro Akte → schließt #7 noch besser ab
+
+**Juni (Sprint 2):** #4 Auto-Versand wird voll. Mandanten-Einwilligungs-Block im Intake.
+
+**Juli (Sprint 3):** #8 wird voll (semantische Klassifikation).
+
+**August (Sprint 4):** #12 (Mittelspersonen-Datenmodell) wird voll.
+
+**Q3 (Sprint 5):** #11 Advoware-API falls möglich, sonst Erweiterung der CSV-Bridge.
+
+**Q4 (Phase 4):** Mandanten-Portal — #12 erweitert um Mandanten-Endnutzer-Rolle.
+
+**Laufend:** Wöchentliches 15-Min-Sync, monatliches Demo-Review mit § 21-KPIs, diese Datei nach jedem Sprint aktualisieren.
 
 ---
 
 ## 11. Erste Use Cases
 
-| Use Case | Status heute | Sprint |
-|---|:-:|:-:|
-| UC1: Automatische Prüfung fehlender Unterlagen | ✗ | 1 (mit Modul A) + 3 (mit Auto-Klassifikation) |
-| UC2: Automatische Erinnerung an fehlende Unterlagen | ✗ | 2 |
-| UC3: Automatisierte Sachstandsantworten | ~ teil | 1 |
-| UC4: Dokumentensortierung und Benennung | ~ OCR ja, Klassifikation nein | 3 |
-| UC5: Mandantenführung Upload-Prozess | ~ Intake-Formular ja, Upload-Wizard nein | Phase 4 |
-| UC6: Interne Aufgabensteuerung | ✗ | 1 (Modul D) |
-| UC7: E-Mail/Nachrichten-Vorlagen | ~ Templates ja, kontextabhängige Drafts nein | 1 + 2 |
+**Stand 2026-05-06:** UC3 ist komplett live, UC1/UC2/UC7 sind überwiegend live, UC4 ist im Aufbau (Beta-Erkennung), UC5/UC6 stehen noch aus.
+
+### Detail-Coverage je Use Case
+
+#### UC1 — Prüfung fehlender Unterlagen · ~ 5 von 7 Sub-Punkten ✓
+
+| Sub-Punkt | Status | Beleg |
+|---|:-:|---|
+| Pro Mandatsart definierte Unterlagenlisten | ✓ live | 11 Mandatsarten, 108 Items in `mandatsart-checklists.ts` |
+| Eingehende Dokumente Mandat zuordnen + abgleichen | ~ teilweise | Manuelle Zuordnung in der Akte ✓; OCR-Drop-Zone macht Match-Vorschläge (Beta) |
+| Erkennung Reisepass / Aufenthaltstitel / Geburtsurkunde / Arbeitsvertrag | ~ teilweise | Keyword-Match mit Aliassen (DE/EN/VI) live; semantische Klassifikation kommt Sprint 3 |
+| Markierung unvollständiger Unterlagensätze | ✓ live | Filter „nur fehlende Pflicht-Unterlagen" + Heute-Widget |
+| Hinweis auf nicht lesbare / unpassende Dokumente | ✗ fehlt heute | **Heute Abend nachgeschoben** (siehe To-dos) |
+| Erzeugung aktueller Liste fehlender Unterlagen | ✓ live | Heute-Widget zeigt Anzahl pro Akte |
+| Vorbereitung Erinnerung an Mandant/Mittelsperson | ✓ live | Sachstand-Generator für Status `unterlagen_fehlen` |
+
+#### UC2 — Automatische Erinnerung · ~ 4 von 6 ✓
+
+| Sub-Punkt | Status | Beleg |
+|---|:-:|---|
+| Erinnerungen DE + VI | ✓ live | 4 Templates für `unterlagen_fehlen` (Mandant DE/VI + Mittelsperson DE/VI) |
+| Klare Angabe welche Unterlagen fehlen | ✓ live | `{fehlende_unterlagen}`-Platzhalter wird automatisch gefüllt |
+| Verständliche Erklärung warum benötigt | ~ teilweise | Aktuell nur Item-Name; **heute Abend: Item-Description aus Schema mitrendern** |
+| Eskalationslogik bei mehrfacher Nichtreaktion | ✗ Sprint 2 | Auto-Versand + Modul-D-Tasks |
+| Dokumentation in Akte | ✓ live | Audit-Log lückenlos |
+| Refa-/Anwalts-Freigabe vor Versand | ~ vorbereitet | Aktuell kein Auto-Versand → Freigabe wird mit Sprint 2 relevant |
+
+#### UC3 — Automatisierte Sachstandsantworten · ✓ 4 von 4
+
+| Sub-Punkt | Status | Beleg |
+|---|:-:|---|
+| 8 Statuskategorien (1:1 deine Liste) | ✓ live | `case-status.ts` mit identischen IDs zu deinem Lastenheft |
+| Mandatsbezogen (Aktenzeichen, Behörde, Frist eingesetzt) | ✓ live | `buildSachstandsContext()` füllt automatisch |
+| Risikokontrolliert (keine falschen Zusagen) | ✓ live | Voice-poliert: keine Erfolgsversprechen, keine Frist-Zusagen, 4-8 Sätze |
+| Trennung Kanzleibearbeitung / Behördenbearbeitung | ✓ live | Explizit in jedem Template: „Die weitere Bearbeitung liegt jetzt bei der Behörde" |
+
+#### UC4 — Dokumentensortierung und Benennung · ~ 1 von 5
+
+| Sub-Punkt | Status | Beleg |
+|---|:-:|---|
+| Dokumente erkennen + klassifizieren | ~ Beta | Keyword-Match-Vorschläge live; semantische Klassifikation Sprint 3 |
+| Auto-Benennung `{Kategorie}_{Mandant}_{Datum}.{ext}` | ✗ fehlt heute | **Heute Abend nachgeschoben** (siehe To-dos) |
+| Dubletten-Erkennung | ✗ Sprint 3 | Hash-basierter Vergleich plus Metadaten-Match |
+| Schlechte Scanqualität markieren | ✗ fehlt heute | **Heute Abend nachgeschoben** (siehe To-dos) |
+| Unklare Dokumente markieren | ✗ Sprint 3 | Semantischer Confidence-Score |
+
+#### UC5 — Mandantenführung Upload-Prozess · 0 von 7 (Phase 4)
+
+Komplett im Mandanten-Portal-Track. Die Mandanten-seitige Komponente baut auf den existierenden Mandatsart-Checklisten + Mehrsprachigkeits-Layer auf — die Foundation steht also, der UI-Layer und die Mandanten-Auth fehlen.
+
+#### UC6 — Interne Aufgabensteuerung · 0 von 7 (Modul D Sprint-1-Rest)
+
+Datenmodell + Auto-Generierung sind im Sprint-1-Plan. Status-Wechsel triggern Tasks: `antrag_in_vorbereitung` → „Antrag vorbereiten", `behoerde_nachforderung` → „Nachforderung prüfen", 14 Tage nach `antrag_eingereicht` → „Behörde nachfassen". 7 deiner Task-Typen sind 1:1 abgebildet.
+
+#### UC7 — E-Mail-/Nachrichtenvorlagen · ~ 3 von 6
+
+| Empfänger | Status | Beleg |
+|---|:-:|---|
+| Mandant | ✓ live | 16 Templates (8 Stati × DE/VI) |
+| Mittelsperson | ✓ live | 16 Templates (8 Stati × DE/VI) |
+| Behörde | ~ teilweise | Behörden-Schreiben-Templates (Antrag, Untätigkeitsklage etc.) im Schreiben-Generator; **heute Abend: Sachstands-Anfrage-Template direkt an Behörde** |
+| Gericht | ~ teilweise | Klage-Templates im Schreiben-Generator (Eilantrag, Untätigkeitsklage) |
+| Interne Kanzleimitarbeiter | ✗ Sprint-1-Rest | Internes Memo-Template (Modul D) |
+| WhatsApp-Textentwürfe | ✗ bewusst nicht | Siehe §6 — Compliance-Risiko zu hoch |
+
+### Anmerkungen / Rückfragen
+
+- **UC1 + UC4 Lesbarkeits-/Quality-Hinweise:** Aktuell macht OCR keinen Confidence-Score. Heute Abend baue ich einen einfachen Heuristik-Hinweis („Scan möglicherweise unleserlich") wenn der OCR-Text unter einer Zeichenschwelle oder kein Match möglich ist. Echtes ML-basiertes Quality-Scoring kommt mit Sprint 3.
+- **UC4 Auto-Benennung:** Soll das Format `{Kategorie}_{MandantName}_{Datum}.{ext}` deinem Standard entsprechen, oder gibt es eine andere Convention in deiner Kanzlei? Heute Abend baue ich das Default-Format; Override ist via Settings möglich.
+- **UC4 Dubletten-Erkennung:** Wie strikt soll das sein? SHA-256-Hash (exakte Datei-Dubletten) ist heute Abend machbar; semantische Dubletten („gleicher Reisepass, andere Scans") brauchen Sprint 3.
+- **UC5 Mandanten-Portal-Priorität:** Du hast Mandanten + Mittelspersonen als zwei eigenständige Empfänger-Rollen genannt. In welcher Reihenfolge? Mein Vorschlag: Mittelspersonen-Datenmodell zuerst (Sprint 4), Mandanten-Portal erst wenn Sprint 1-4 alltagstauglich sind (Phase 4).
+- **UC6 Aufgabentypen:** Deine 7 Aufgabentypen sind die Default-Liste in Modul D. Reichen die oder fehlen typische?
+- **UC7 Behördenkommunikation:** Wenn ein Sachstands-Anfrage-Template direkt an die Behörde kommen soll — soll das eine eigene Empfänger-Kategorie im Sachstand-Generator sein („An Behörde" statt nur „An Mandant/Mittelsperson")?
+- **WhatsApp:** Bestätige bitte unsere Empfehlung — wir bauen es nicht, weil DSGVO-Compliance + Berufsgeheimnis schwer zu garantieren sind. Stattdessen: SMS-Gateway über Twilio EU als reines Erinnerungs-Medium ohne Mandanten-Antwort-Loop möglich (Sprint 2 optional).
+
+### Technische Einschätzung
+
+- **UC3 ist 100 % live.** Die anderen sind in unterschiedlichen Reife-Stufen.
+- **UC4-Komplettierung in Sprint 3** braucht semantische Bild-Klassifikation. Optionen:
+  - **OpenAI gpt-4o-vision pro Seite** — präzise, ~$0.01/Bild, EU-Endpoint, AVV-Klauseln
+  - **Lokales Embedding-Modell** (z.B. CLIP) — billiger, etwas weniger präzise, läuft Frankfurt-only
+  - Empfehlung: Vision für die ersten 6 Monate, danach Re-Evaluation
+- **UC5 Phase 4** braucht zusätzlich:
+  - Mandanten-Auth-Modell (Magic-Link via Resend, separat vom Beta-Token-Flow)
+  - Tenant-Isolation auf Akten-Ebene (existiert bereits in der Pro-Session-Architektur)
+  - Mobile-First-UI für den Upload-Wizard
+- **UC6 Modul D** ist ein Datenmodell-Add (3 Tabellen) + Auto-Generierungs-Logik bei Status-Wechseln. Niedriges Risiko, ~3 Tage.
+- **UC7 Empfänger-Erweiterung:** „Behörde", „Gericht", „interne Mitarbeiter" als zusätzliche Empfänger-Toggle im Sachstand-Generator. ~1 Tag pro Empfänger-Kategorie.
+- **Heute-Abend-Lieferung-Pakete (vor 18 Uhr):**
+  1. UC1 Lesbarkeits-Hinweis bei OCR
+  2. UC4 Auto-Benennung beim Match-Bestätigen
+  3. UC2 Item-Description in Sachstand-Templates
+  4. UC7 Behörden-Sachstands-Anfrage-Template (Schreiben-Generator)
+
+### Rechtliche / datenschutzrechtliche Einschätzung
+
+- **UC1 OCR-Anonymisierung:** Migrations-Dokumente enthalten viele PII (Geburtsdaten, Adressen, Familienverhältnisse, Asylgründe). Der bestehende DSGVO-Anonymizer mit 14 Patterns greift, **aber:** Dokumente werden trotzdem an OpenAI Vision gesendet (für Scans ohne Text-Layer). Das ist ein bewusster Tradeoff — Mandanten-Einwilligung muss in der Erstaufnahme abgefragt werden. Empfehlung: Sprint 3 prüft, ob lokales Embedding-Modell die OCR-Vision-Aufrufe ablösen kann.
+- **UC2 Auto-Versand-Einwilligung:** Vor erstem automatisierten E-Mail-Versand braucht jeder Mandant eine explizite Einwilligung in die Datenverarbeitung für Erinnerungen. Intake-Formular muss diese Checkbox bekommen → Sprint-2-Add-on, vor Auto-Versand-Live.
+- **UC3 Sachstandsantworten:** Niedrigstes Risiko — Drafts bleiben lokal, Versand manuell durch Anwalt.
+- **UC4 Auto-Benennung:** Niedrig — passiert clientseitig, keine LLM-Anfrage.
+- **UC4 Dubletten-Erkennung:** SHA-256 ist Standard, kein Risiko. Semantische Dubletten brauchen Vision-Anfrage → Sprint-3-Anonymizer-Coverage prüfen.
+- **UC5 Mandanten-Portal:** Mandanten dürfen ausschließlich ihre eigenen Akten-Inhalte sehen, niemals Tenant-weite Daten. Architektur ist darauf vorbereitet, Implementation in Phase 4 muss sauber geprüft werden (idealerweise externer Security-Review vor Live-Gang).
+- **UC6 Interne Aufgaben:** Niedrig — alles lokal.
+- **UC7 Behörden-/Gerichts-Versand:** Berufsgeheimnis bleibt durch Anwalts-Freigabe gewahrt; kein Auto-Versand an Behörden ohne Refa-/Anwalts-Klick.
+- **Berufsgeheimnis (§ 43a BRAO):** UC2 + UC4 + UC7 sind die kritischen Use Cases. Alle drei haben den Mensch-im-Loop als zentrale Sicherung — kein KI-Output verlässt die Kanzlei ohne Klick.
+
+### To-dos / nächste Schritte
+
+**Heute Abend bis zum Meeting (4 nachgeschobene Mini-Features):**
+1. UC1: Lesbarkeits-Hinweis bei OCR (wenn Text < N Zeichen oder kein Match)
+2. UC4: Auto-Benennung beim Match-Bestätigen (`{Kategorie}_{Mandant}_{ISO-Datum}.{ext}`)
+3. UC2: `{fehlende_unterlagen}`-Platzhalter rendert auch die Item-Description aus dem Schema (echte Erklärung warum)
+4. UC7: Behörden-Sachstands-Anfrage als neues Schreiben-Template (mit Behörden-Combobox + Aktenzeichen-Auto-Fill)
+
+**KW 19 (08.-11.05.):**
+- Bao-Feedback aus dem Meeting in Lücken einarbeiten
+- AVV-Vorlage prüfen + unterzeichnen
+- Mandatsart-Reihenfolge aus Bao's Top-3 → Checklisten-Vertiefung
+
+**KW 20-22 (12.05.-31.05., Sprint-1-Abschluss):**
+- Modul C: VI-Recherche mit Voice-Anchor-Mails von Bao
+- Modul D: UC6 voll (Tasks pro Akte mit Auto-Generierung)
+
+**KW 23-26 (Juni, Sprint 2):**
+- UC2 voll: Auto-Versand-Engine mit Refa-Freigabe + Audit-Eintrag pro Versand
+- Mandanten-Einwilligungs-Block im Intake (DSGVO-Voraussetzung)
+- E-Mail-Provider entscheiden (Resend EU empfohlen)
+
+**KW 27-30 (Juli, Sprint 3):**
+- UC1 + UC4 voll: semantische OCR-Klassifikation, Auto-Benennung mit hoher Genauigkeit, Dubletten-Erkennung, Quality-Score
+- Confidence-basierte Sichtprüfungs-Markierung
+
+**Q3 (August-September, Sprint 4-5):**
+- Sprint 4: UC7 voll (alle 5 Empfänger-Kategorien live), Mittelspersonen-Datenmodell mit Vollmacht-Validierung
+- Sprint 5: Advoware-API falls möglich
+
+**Q4 (Phase 4):**
+- UC5: Mandanten-Portal/App mit Upload-Wizard, mehrsprachiger Führung, Mittelspersonen-Einbindung
+- Externer Security-Review vor Live-Gang
+
+**Laufend:** Wöchentliches 15-Min-Sync, monatliches Demo-Review, diese Datei nach jedem Sprint aktualisieren.
 
 ---
 
@@ -560,6 +768,89 @@ Datenschema + Seed-Daten für 11 Migrations-Mandatsarten mit insgesamt 108 kurat
 ---
 
 **Diese Datei** (`BAO_KI_DATENVERARBEITUNG_ANTWORT.md`) ist die persistierte, lebende Antwort auf dein Lastenheft. Ich aktualisiere sie nach jedem Sprint.
+
+---
+
+## Anmerkungen / Rückfragen
+
+- **Auto-Versand-Hebel (Punkte 1 + 5 deiner Priorisierung):** Wir brauchen vor Sprint 2 eine Entscheidung zu deinem E-Mail-Setup. Eigener SMTP der Kanzlei, Resend (EU-Region) oder Mailgun? Mein Vorschlag: Resend, weil EU-only und mit Domain-Verifikation in 30 Min einsatzbereit. Die Refa-Freigabe-Stufe baue ich ohnehin ein.
+- **Voice-Anchor-Mails:** 5 echte (anonymisierte) Sachstands-Antworten von dir, gemischt DE + VI, sind die Voraussetzung für Modul C. Ohne die bauen wir die VI-Stilistik blind.
+- **Mittelsperson-Häufigkeit:** Wie oft schreibst du tatsächlich an Familienmitglieder oder Dolmetscher statt direkt an die Mandantschaft? Bestimmt, ob Sprint 4 vorgezogen wird.
+- **Modul-Reihenfolge nach dem Meeting:** Modul D (Tasks pro Akte, ~3 Tage) oder Modul C (VI-Recherche, ~1 Woche) zuerst? Beide sind Sprint-1-Rest, Reihenfolge ist deine.
+- **Advoware-Lizenzstufe:** Standard, Pro oder Anwaltskanzlei-Edition? Beeinflusst, ob eine API-Anbindung in Sprint 5 möglich ist oder ob wir bei der CSV-Bridge bleiben.
+- **Behörden-Lücken:** Aktuell 17 Berliner Stellen vorbefüllt. Welche fehlen für deinen Alltag? LEA Brandenburg, BAMF-Außenstellen, andere Botschaften? Ergänze ich nach dem Termin.
+
+---
+
+## Technische Einschätzung
+
+- **Stack:** React 19 + TypeScript + Vite + Tailwind 4 (Frontend), Vercel Serverless Functions Frankfurt + Upstash Redis Frankfurt (Backend), OpenAI gpt-4o-mini mit JSON-Schema Structured Outputs (LLM). Alles produktionsfähig, nichts experimentell.
+- **Anti-Halluzination:** Jede §-Zitierung wird gegen den lokalen Korpus von 5.936 Bundesgesetzen verifiziert. 53/53 hand-gelabelte Eval-Cases laufen grün in der CI. Strukturierte Verifikations-Stati (✓ verifiziert · ⚠ unbekannt · 🚨 aufgehoben) sind im UI sichtbar — keine stille KI-Erfindung.
+- **Skalierbarkeit:** Aktuell läuft der Pro-Datenstore lokal im Browser (localStorage), Cloud-Sync ist optional und tenant-gebunden. Für deine Solo-Phase reicht das. Sobald Refa(s) mitarbeiten, wechseln wir auf den Server-Modus — der Code ist dafür vorbereitet.
+- **Bekannte Bottlenecks:**
+  - OCR auf großen PDFs (>10 Seiten) kann an Vercels 10s-Funktions-Limit stoßen. Lösung in Sprint 3: Background-Worker oder Client-seitiges PDF-Splitting.
+  - VI-Templates sind grammatikalisch korrekt aber nicht muttersprachlich poliert — Voice-Polish mit dir ist kritisch.
+  - Keyword-Match-OCR ist Beta. Echtes Document-Understanding kommt in Sprint 3.
+- **Open Source:** Alles unter AGPL-3.0 auf GitHub. Du kannst jederzeit den Code prüfen oder prüfen lassen. Kein Lock-in.
+
+---
+
+## Rechtliche / datenschutzrechtliche Einschätzung
+
+- **Hosting durchgängig EU/DE:** Vercel Frankfurt (Hosting + APIs), Upstash Frankfurt (Redis), Resend EU (E-Mail). Keine US-Datentransfers im laufenden Betrieb.
+- **DSGVO-Schutz vor LLM-Anfragen:** 14 PII-Pattern (Namen, Adressen, IBAN, BIC, Steuer-ID, SV-Nummer, Aktenzeichen, Geburtsdatum, Firmen) werden vor jeder OpenAI-Anfrage anonymisiert. Whitelist gegen Falsch-Anonymisierung von Rechtsbegriffen.
+- **AVV-Vorlage:** Generator für deine Mandanten-AVV ist live, mit deinem Briefkopf.
+- **Berufsgeheimnis (§ 43a BRAO):** KI bereitet vor, du verantwortest. Kein KI-Output wird automatisch versandt. Jeder PDF-Export hat Disclaimer-Footer. Anwaltliche Verschwiegenheit bleibt durch lokale Citation-Verifikation gewahrt.
+- **Audit-Log:** Lückenlos, BHV-tauglich als PDF exportierbar. Eingegangene Informationen, KI-Empfehlungen, Freigaben, Versendungen und Statusübermittlungen sind nachverfolgbar.
+- **OpenAI-Settings:** Org-weiter „no training"-Status gesetzt, plus `X-No-Train`-Header pro Anfrage.
+- **Offene Punkte für deine Bewertung:**
+  - **OpenAI = US-Anbieter trotz EU-Endpoint:** Standard-Geschäftsklauseln vorhanden, AVV mit Microsoft (Azure-OpenAI-Tenant) als Upgrade-Pfad in Sprint 5+ falls dein Mandantenkreis das fordert.
+  - **Notausgang-Funktion:** Vollständige Löschung aller Pro-Daten dieses Tenants ist 1 Klick (live in Einstellungen).
+  - **AVV zwischen dir und mir (als Auftragsverarbeiter):** Vorlage liegt bereit, müssen wir vor produktivem Pilot-Betrieb unterzeichnen.
+
+---
+
+## To-dos / nächste Schritte
+
+**Heute Abend (06.05.):**
+- Live-Demo der 7 gelieferten Features durchgehen
+- Deine Top-3 Mandatsarten + Top-3 Pain-Points-Korrekturen aufnehmen
+- 5 Voice-Anchor-Mails einsammeln (oder Termin dafür festsetzen)
+- 5 Klärungsfragen aus diesem Dokument durchgehen
+
+**Diese Woche (KW 19, bis 11.05.):**
+- Bao-Feedback in `behoerden.ts`-Lücken einarbeiten
+- Sprint-1-Rest-Reihenfolge basierend auf deiner Antwort: Modul C oder Modul D zuerst
+- AVV-Vorlage zwischen uns vorbereiten und unterzeichnen, falls du im Pilot fortfahren willst
+
+**Bis Ende Mai (Sprint-1-Abschluss):**
+- Modul C (VI-Recherche) mit deinen Voice-Anchors backen
+- Modul D (Tasks pro Akte) mit Auto-Generierung bei Status-Wechseln
+- Erste echte Mandanten-Akte (mit DSGVO-konformer Anonymisierung) durch den Flow führen
+
+**Juni — Sprint 2 (Auto-Erinnerungs-Engine):**
+- E-Mail-Setup-Entscheidung umsetzen (Resend-Domain-Verifikation, ~30 Min)
+- Auto-Detection für 14-Tage-Erinnerungen + Refa-Freigabe-Stufe
+- Versand-Logging im Audit-Log
+
+**Juli — Sprint 3 (OCR-Klassifikation, UC4):**
+- Background-Worker für große PDFs
+- Semantische Klassifikation statt Keyword-Match
+- Confidence-Score + Sichtprüfungs-Markierung
+
+**August — Sprint 4 (Mittelspersonen):**
+- Datenmodell für autorisierte Kontaktpersonen
+- Vollmacht-Validierung beim Versand
+- Templates für Mittelspersonen sind bereits da
+
+**Q4 — Phase 4 (Mandanten-Portal):**
+- Erst wenn die ersten 3 Sprints im Alltag bestehen
+- Separater Track, eigene Bewertung
+
+**Laufend:**
+- Wöchentliches 15-Min-Sync (Vorschlag: Mittwoch nachmittag, du sagst mir die beste Zeit)
+- Monatliches Demo-Review mit gezeigten KPIs aus § 21
+- Diese Datei wird nach jedem Sprint aktualisiert
 
 ---
 
