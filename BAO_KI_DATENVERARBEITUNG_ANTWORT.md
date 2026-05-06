@@ -485,17 +485,96 @@ Deine "geeignete vs. nicht ohne anwaltliche Kontrolle"-Trennung ist die operativ
 
 ## 15. Integration mit Advoware
 
-**Status:** ~ teil (CSV ja, API nein — Klärung mit Advoware nötig)
+**Status:** Stufe 1 + 2 live · Stufe 3 klärungsabhängig · Stufe 4 nur mit Advoware-Vertrag.
 
-**Was bereits existiert:**
-- **Bidirectional CSV-Import** mit Auto-Spalten-Erkennung für Advoware-Export (plus DATEV, RA-Micro, advoware-eigenem Format) — Bulk-Migration einer Akten-Datei in unter 10 Minuten
+### Stufen-Realitätscheck
 
-**Was Klärung mit Advoware-Support braucht:**
-- Hat Advoware eine **nicht-öffentliche** API für Partner? Manche Anbieter geben Schnittstellen nur auf Anfrage frei. Falls ja — erste Priorität für Sprint 5+.
-- Welche Lizenzstufe nutzt deine Kanzlei (Standard, Pro, Anwaltskanzlei-Edition)? Beeinflusst evtl. Schnittstellen-Verfügbarkeit.
+| Stufe | Heute | Pilot-Anfang | Mittelfristig | Langfristig |
+|---|:-:|:-:|:-:|:-:|
+| 1. Manuelle Übergabe | ✓ live | ✓ | ✓ | ✓ |
+| 2. Dateibasierter Export (CSV-Bidirectional + PDF pro Akte) | ✓ live | ✓ erweitert | ✓ erweitert | ✓ |
+| 3. Teilautomatische Schnittstelle | klärungsabhängig | — | ✓ Q3 (Sprint 5) | ✓ |
+| 4. Vollintegration | nicht von uns aus | — | — | nur falls Advoware kooperiert (Wahrscheinlichkeit ~30 %) |
 
-**Bis zur API-Klärung:**
-- **Datei-basierte Übergabe** in beide Richtungen: Akten-CSV-Import + strukturierter PDF-Export pro Akte für manuelles Anhängen in Advoware. Kein Live-Sync, aber praktikabel.
+### Was wir heute haben (Stufe 1 + 2 live)
+
+- **CSV-Bidirectional-Import mit Auto-Spalten-Erkennung** für Advoware-Export, plus DATEV / RA-Micro / Excel-Formate. Bulk-Migration einer Akten-Datei in unter 10 Minuten.
+- **Branded PDF pro Akte** — kompletter Status mit Checklisten-Stand, Frist, Audit-Auszug, eigenem Briefkopf. Refa hängt das an die Advoware-Akte.
+- **Aktenzeichen-Sync** — wenn dein Advoware-Schema bekannt ist (z.B. `25/0301`), 1:1 übernehmbar, kein Mapping.
+- **Keine Datenpflege-Doppelung im Pilot** — die CSV-Brücke ist täglich nutzbar, kein Bruch im Arbeitsfluss.
+
+### Was im Pilot-Anfang erweitert wird (KW 19-22)
+
+- **Strukturierter Statuswechsel-Export** — wenn du in GitLaw einen Status änderst, kann das automatisch in eine Tagesliste laufen, die du am Abend in Advoware nachpflegst (CSV oder Drag&Drop).
+- **Frist-Sync nach Advoware** — wenn die Auto-Frist nach § 75 VwVfG gesetzt wird, exportieren wir das in deinen Advoware-Frist-Kalender (CSV-Format).
+
+### Mittelfristig (Q3, Sprint 5) — drei Optionen
+
+**Option A — Watch-Folder-Bridge** (am wahrscheinlichsten):
+- Advoware exportiert nach einem definierten Verzeichnis (Standard-Funktion in vielen Lizenz-Stufen)
+- GitLaw beobachtet den Ordner, aktualisiert Akten automatisch
+- Funktioniert ohne API, reine Filesystem-Kommunikation
+- Realistisch in **2 Wochen** lieferbar
+- Risiko: dein Advoware-Setup muss Watch-Ordner unterstützen
+
+**Option B — Advoware Business Connect** (das offizielle Schnittstellenmodul):
+- Falls deine Lizenz das Modul enthält oder du es zubuchst
+- REST-ähnliche Schnittstelle, dokumentiert
+- Realistisch in **3-4 Wochen** lieferbar
+- Risiko: Modul kostet extra (~€500/Monat zusätzlich je nach Stufe)
+
+**Option C — SQL-Direkt-Verbindung (Reverse-Engineering)**:
+- Advoware nutzt SQL Server im Hintergrund, Read-Only-Zugriff technisch möglich
+- **Nicht empfohlen.** Verletzt Advoware-Lizenz, rechtliches Risiko, bei jedem Advoware-Update kaputt.
+
+### Langfristig (Q4+) — Vollintegration
+
+Nur möglich wenn Advoware dafür einen Vertrag schließt. Realistisch:
+- Wir kontaktieren Advoware **gemeinsam** (du als zahlender Kunde, ich als Integrations-Partner)
+- Use-Case: Migrations-Kanzlei, Pilot-Phase, DSGVO-konform, Frankfurt-Hosting
+- Advoware entscheidet ob sie es wollen — manche Anbieter blocken aus Wettbewerbs-Gründen
+- **Realistische Wahrscheinlichkeit: ~30 %.** Wenn nicht, bleiben wir bei Option A oder B.
+
+### Anmerkungen / Rückfragen
+
+- **Welche Advoware-Lizenz hast du genau?** Standard / Pro / Anwaltskanzlei-Edition / mit Business Connect? Steht in deiner Lizenzmail oder ist im Advoware-Kontakt-Bereich abrufbar.
+- **Bist du bereit, Advoware-Support zu kontaktieren** (15 Min E-Mail-Anfrage) und nach Watch-Folder / Business-Connect / API-Partnerschaft zu fragen? Ich gebe dir den Text dafür.
+- **Welche Daten musst du täglich hin- und herbewegen?** Akten anlegen, Statuswechsel, Schreiben, Fristen — Reihenfolge bestimmt die Sprint-5-Priorität.
+- **Gibt es einen Watch-Folder in deinem Advoware-Setup?** Manche Kanzleien haben das schon eingerichtet (Scan-In-Box etc.), das spart uns zwei Wochen.
+
+### Technische Einschätzung
+
+- **Die CSV-Bridge reicht für den Pilot**, das ist nicht nur Zwischenlösung. Bao verwaltet seine Mandanten weiterhin in Advoware, GitLaw übernimmt die KI-/Workflow-/Bilingual-Layer.
+- **Watch-Folder ist die wahrscheinlichste Brücke** für Sprint 5 — niedriges Risiko, kein API-Vertrag nötig, Lieferzeit überschaubar.
+- **Vollintegration ist nicht von unserer Roadmap allein abhängig** — wir bauen sie nicht spekulativ. Erst wenn Advoware mitspielt, investieren wir die 4-6 Wochen.
+- **Open-Source-Vorteil:** Wenn dein Kanzlei-IT-Mensch eine spezielle Advoware-Konfiguration kennt, kann er den Adapter selbst beisteuern. AGPL-3.0 erlaubt das.
+
+### Rechtliche / datenschutzrechtliche Einschätzung
+
+- **Datensicherheit bei Drittintegration:** Bei jeder Advoware-Anbindung läuft Mandanten-Daten zwischen Advoware (deine Kanzlei-Infrastruktur) und GitLaw (Frankfurt-Hosting). Verschlüsselung in-transit (TLS 1.3) ist Pflicht und live.
+- **AVV-Kette:** Du hast bereits einen AVV mit Advoware (Standard für Kanzlei-Software). AVV mit mir muss vor produktivem Pilot-Betrieb stehen — Vorlage liegt bereit.
+- **Lizenzfragen:** Reverse-Engineering der Advoware-DB ist nicht zulässig (Option C oben). CSV-Export und Watch-Folder sind ausdrücklich erlaubte Standard-Funktionen, da unkritisch.
+- **Datenminimierung:** Wir übertragen nur die Felder, die wir für die Workflow-Layer brauchen — nicht die kompletten Mandanten-Stammdaten. Das macht den Lizenz-Footprint klein.
+- **Berufsgeheimnis:** Advoware bleibt das Master-System für die Mandanten-Akte. GitLaw ist der Workflow-Beschleuniger, nicht der Speicher des Wahrheitsbestands.
+- **Notausgang:** Wenn du den Pilot beendest, exportierst du alle GitLaw-Daten als CSV und löschst den Tenant — keine Hängematte in Advoware-Schnittstellen, kein Vendor-Lock-in.
+
+### To-dos / nächste Schritte
+
+**Heute Abend:**
+- Klären: Lizenzstufe + Bereitschaft Advoware-Support zu kontaktieren
+
+**KW 19-22 (Pilot-Anfang):**
+- Strukturierter Statuswechsel-Export als tägliche CSV-Liste
+- Frist-Sync nach Advoware (CSV-Format)
+- Wenn du Advoware-Support kontaktiert hast → Antwort einarbeiten
+
+**Sprint 5 (Q3, August-September):**
+- Watch-Folder-Bridge (Option A) — vorbehaltlich Lizenzstufe
+- ODER Business-Connect-Anbindung (Option B) — falls Advoware das anbietet und du zubuchen willst
+
+**Q4+:**
+- Falls Advoware-Vertrag möglich: Vollintegration evaluieren
+- Sonst: CSV + Watch-Folder bleiben dauerhaft die Brücke, wir polieren und stabilisieren statt zu ersetzen
 
 ---
 
