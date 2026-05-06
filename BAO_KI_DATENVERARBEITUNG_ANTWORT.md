@@ -580,15 +580,95 @@ Nur möglich wenn Advoware dafür einen Vertrag schließt. Realistisch:
 
 ## 16. Mögliche Entwicklungsphasen
 
-**Status:** ✓ deckt sich exakt mit unserer Sprint-Planung
+**Stand:** Phase 1 ist erledigt, Phase 2 überwiegend live, Phase 3-5 stehen mit konkreten Terminen.
 
-| Bao-Phase | Unser Sprint(s) |
-|---|---|
-| Phase 1: Prozessaufnahme + Datenmodell | Sprint 0 (heute) |
-| Phase 2: Internes KI-Assistenzsystem | Sprint 1-2 |
-| Phase 3: Strukturierter Upload-Prozess | Sprint 3-4 |
-| Phase 4: Mandantenportal/App | Phase 4 (separater 1-2 Monats-Track ab Sprint 5) |
-| Phase 5: Erweiterte Automatisierung | Phase 5 (nach Pilot-Daten aus Phase 4) |
+| Phase | Stand 06.05.2026 | Sprint(s) | Realistisch erreichbar |
+|---|:-:|---|---|
+| **Phase 1** Prozessaufnahme + Datenmodell | ✅ erledigt | Sprint 0 | done |
+| **Phase 2** Internes KI-Assistenzsystem | ✅ 5/6 Ziele live | Sprint 1-2 | Rest bis 31.05. (Modul D + voller Auto-Versand) |
+| **Phase 3** Strukturierter Upload-Prozess | ⏳ teilweise (Intake-Formular live, Wizard nicht) | Sprint 3-4 | Juli-September |
+| **Phase 4** Mandantenportal/App | ⏳ nicht begonnen | separater Track | **Q4 2026** — falls Pilot-Daten gut sind |
+| **Phase 5** Erweiterte Automatisierung | ⏳ nicht begonnen | nach Phase 4 | **2027** — wenn Phase 1-4 alltagstauglich laufen |
+
+### Anmerkungen / Rückfragen
+
+- **Phase 2 Lücke:** „Dokumentenklassifikation als Pilotfunktion" — heute Beta-Keyword-Match, semantisch erst Sprint 3. Reicht das für Pilot?
+- **Phase 4 Bottleneck:** Mandanten-Portal ist ehrlich ein 8-12-Wochen-Block, nicht 4. Braucht eigenes Auth-Modell, eigenes Datenschutz-Konzept (Mandanten-Sicht), externer Pen-Test empfohlen. Sollten wir Phase 4 zeitlich strecken?
+- **Phase 5 Frühindikator:** Auswertung Kanzlei-Kennzahlen hat erst Sinn mit 50-100 Akten und 6+ Monaten Pilot. Vor 2027 nicht belastbar.
+
+### Technische Einschätzung
+
+- **Phase 1+2 sind Architektur-stabil.** Datenmodell hält für die nächsten 12-18 Monate ohne Migration.
+- **Phase 3** baut auf existierender Mandatsart-Checklisten-Infrastruktur auf — der Sprung ist nicht groß. Hauptarbeit: Mehrsprachiges Upload-Wizard-UI + Fortschrittsanzeige.
+- **Phase 4** ist der größte Sprung: zweite App-Schicht (Mandanten-View), zweiter Auth-Flow (Magic Link), zweites Datenschutz-Konzept. Architektur ist vorbereitet (Tenant-Isolation), Implementation ist trotzdem 8-12 Wochen.
+- **Phase 5** ist eher Polish + Auswertung als neue Architektur. Niedrigeres Risiko, hohe ROI.
+
+### Rechtliche / datenschutzrechtliche Einschätzung
+
+- **Phase 1+2 (heute live):** Einfaches Risiko-Profil — KI bereitet vor, Anwalt versendet. AVV reicht.
+- **Phase 3 (Upload-Wizard):** Mandanten laden Dokumente direkt hoch → eigene Einwilligung pro Hochlade-Akt nötig. Intake-Formular muss erweitert werden.
+- **Phase 4 (Mandanten-Portal):** **Größter DSGVO-Hebel.** Mandanten dürfen NUR ihre eigenen Akten sehen, niemals Tenant-Daten. Empfehlung: externer Pen-Test + Code-Audit vor Live-Gang.
+- **Phase 5 (Auswertung):** Kanzlei-Statistiken sind aggregiert/anonymisiert — niedriges Risiko. Aber: keine Mandanten-Profile bilden, keine Empfehlungen die Mandanten kategorisieren.
+
+### To-dos / nächste Schritte
+
+- **KW 19-22:** Phase 2 vollständig abschließen (Modul C + Modul D)
+- **Juni (Sprint 2):** Phase 2 produktiv (Auto-Versand) + Vorbereitung Phase 3
+- **Juli-September (Sprint 3-4):** Phase 3 (Upload-Wizard mehrsprachig)
+- **Q4 2026:** Phase 4 startet — vorausgesetzt der Pilot zeigt klaren ROI
+- **2027:** Phase 5 — wenn 50+ Akten in Phase 1-4 laufen
+
+---
+
+## 17. MVP-Vorschlag
+
+**Stand:** 8 von 9 Punkten live, 1 in Arbeit.
+
+| # | Bao's MVP-Punkt | Stand 06.05. | Wo Bao das sieht |
+|---|---|:-:|---|
+| 1 | Mandatsart auswählen | ✅ live | 11 Migrations-Optionen im Akten-Formular |
+| 2 | Checkliste generieren | ✅ live | 108 Items, automatisch beim Akten-Anlegen |
+| 3 | Eingegangene Unterlagen erfassen | ✅ live | Toggle pro Item + OCR-Drop-Zone |
+| 4 | Fehlende Unterlagen anzeigen | ✅ live | Heute-Widget + Filter + Item-Description in Sachstand |
+| 5 | Erinnerung DE/VI erzeugen | ✅ live, ⏳ Auto-Versand | 32 Templates · Auto-Versand Sprint 2 (Juni) |
+| 6 | Statuskategorie festlegen | ✅ live | 8 Stati mit Übergangs-Regeln |
+| 7 | Sachstandsantwort erzeugen | ✅ live | **Der Kern.** 32 Templates, automatisch befüllt |
+| 8 | Interne Aufgabe erstellen | ⏳ Modul D | Sprint-1-Rest, ~3 Tage Arbeit, bis Ende Mai |
+| 9 | Export Advoware | ✅ live | CSV-Bidirectional + branded PDF pro Akte |
+
+### Bao's vier Zeitfresser — Status
+
+- **Erinnerungen:** ✅ Drafts live, ⏳ Auto-Versand kommt mit Sprint 2 (Juni)
+- **Sachstandsanfragen:** ✅ **komplett gelöst** — der größte Hebel ist da
+- **Unterlagenprüfung:** ✅ Checklisten + Beta-OCR + Lesbarkeits-Hinweis seit heute Abend
+- **Interne Aufgabensteuerung:** ⏳ Modul D bis Ende Mai
+
+### Anmerkungen / Rückfragen
+
+- **MVP-Definition durch Bao:** „internes Assistenzsystem mit klar begrenztem Funktionsumfang". Genau das haben wir geliefert — kein Mandanten-Portal-Theater, kein Feature-Bloat. Möchtest du beim MVP-Scope bleiben oder erweitern?
+- **Modul-D-Priorität:** Tasks pro Akte mit Auto-Generierung bei Status-Wechseln — soll ich das in der nächsten Woche fertig machen oder erst nach Modul C (VI-Recherche)? Beide sind 3-5 Tage Arbeit.
+- **Auto-Versand-Trigger (Sprint 2):** Welche Trigger willst du am ehesten — 14 Tage nach Antrag eingereicht „Behörde nachfassen", 7 Tage nach Sachstand-Anfrage Mandant „Erinnerung", 30 Tage nach Status `unterlagen_fehlen` „Mahnung"? Reihenfolge nennen, ich baue.
+
+### Technische Einschätzung
+
+- **MVP-Erfüllungsgrad: 88 % heute, 100 % bis Ende Mai.** Das ist schneller als realistische Marktstandards für Legal-Tech.
+- **Modul D ist niedriges Risiko:** Datenmodell-Add (3 Tabellen) + Auto-Generierungs-Logik bei bestehenden Status-Hooks. ~3 Tage saubere Arbeit.
+- **Was den Liefergrad ermöglicht hat:** Vorhandene GitLaw-Pro-Foundation (Akten + Recherche + Schreiben + Audit + RBAC + Frankfurt-Hosting) war schon da. Dein Lastenheft hat die migrations-spezifische Workflow-Layer drauf gemapped — das war keine Neuentwicklung, sondern gezielte Spezialisierung.
+- **Risiko Verzettelung:** Wenn du nach dem Meeting 10 weitere Wünsche hast, schiebt sich Modul D nach hinten. Empfehlung: Modul D in der ersten Juni-Woche fertig, dann erst neue Themen.
+
+### Rechtliche / datenschutzrechtliche Einschätzung
+
+- **MVP heute live:** Niedrigstes Risiko-Profil. Alles läuft mit Mensch-im-Loop, kein Auto-Versand. AVV reicht.
+- **MVP-Punkt 5 (Auto-Versand) Sprint 2:** Hier kippt das Risiko — wir brauchen vorher die Mandanten-Einwilligung im Intake. Das ist im Pre-Pilot-Paket dokumentiert (BAO_PILOT_DATENSCHUTZ.md, Punkt 2.3).
+- **MVP-Punkt 9 (Advoware-Export):** CSV verlässt deinen Browser nicht ohne deine Aktion. Niedrig.
+
+### To-dos / nächste Schritte
+
+**Heute Abend:** MVP-Punkte 1-7 + 9 live demonstrieren. Punkt 8 als Sprint-1-Rest ankündigen.
+
+**Bis 25.05.:** Modul D (MVP-Punkt 8) live → 100 % MVP-Erfüllung.
+
+**Juni (Sprint 2):** MVP-Punkt 5 voll (Auto-Versand mit Refa-Freigabe). Dann beginnt Phase-3-Vorbereitung.
 
 ---
 
