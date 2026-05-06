@@ -258,7 +258,12 @@ export function formatFehlendeUnterlagen(c: MandantCase, lang: 'de' | 'vi'): str
   return missing
     .map(item => {
       const label = lang === 'vi' && item.labelVi ? item.labelVi : item.label
-      return `– ${label}`
+      // Nur bei DE: item.description als Erklärungszeile anhängen.
+      // Bei VI lieber weglassen — Mischsprache im Brief vermeiden.
+      if (lang === 'de' && item.description) {
+        return `· ${label}\n  — ${item.description}`
+      }
+      return `· ${label}`
     })
     .join('\n')
 }

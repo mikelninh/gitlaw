@@ -10,6 +10,7 @@
  */
 
 import { useRef, useState } from 'react'
+import { AlertTriangle, Copy, Check } from 'lucide-react'
 import { getChecklistById } from './mandatsart-checklists'
 import type { MandantCase } from './types'
 
@@ -64,7 +65,60 @@ interface OcrMatch {
   itemId: string
   itemLabel: string
   confirmed: boolean | null  // null = pending, true = akzeptiert, false = verworfen
+  suggestedFilename?: string  // Feature 2: gesetzt nach Bestätigung
+  filenameCopied?: boolean
 }
+
+// ---------------------------------------------------------------------------
+// Hilfsfunktionen für Feature 2 — Auto-Benennung
+// ---------------------------------------------------------------------------
+
+const UMLAUT_MAP: Record<string, string> = {
+  ä: 'ae', ö: 'oe', ü: 'ue', Ä: 'Ae', Ö: 'Oe', Ü: 'Ue', ß: 'ss',
+}
+
+function mapUmlaute(s: string): string {
+  return s.replace(/[äöüÄÖÜß]/g, c => UMLAUT_MAP[c] ?? c)
+}
+
+/**
+ * Extrahiert das erste Wort aus einem Checklist-Label, mappt Umlaute,
+ * entfernt Sonderzeichen — für den Kategorie-Teil des Dateinamens.
+ */
+function kategorieFromLabel(label: string): string {
+  const first = label.split(/[\s(]/)[0] ?? label
+  return mapUmlaute(first).replace(/[^A-Za-z0-9]/g, '')
+}
+
+/**
+ * Reinigt einen Mandant-Namen für den Dateinamen:
+ * Diakritika per NFKD-Normalize entfernen, Leerzeichen → Bindestriche.
+ */
+function mandantNameClean(name: string): string {
+  return name
+    .normalize('NFKD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/[^A-Za-z0-9-]/g, '')
+}
+
+function buildSuggestedFilename(
+  itemLabel: string,
+  mandantName: string,
+  originalFilename: string,
+): string {
+  const kategorie = kategorieFromLabel(itemLabel)
+  const nameClean = mandantNameClean(mandantName)
+  const isoDate = new Date().toISOString().slice(0, 10)
+  const ext = originalFilename.includes('.')
+    ? originalFilename.slice(originalFilename.lastIndexOf('.')).toLowerCase()
+    : ''
+  return `${kategorie}_${nameClean}_${isoDate}${ext}`
+}
+
+// ---------------------------------------------------------------------------
+// Typen
+// ---------------------------------------------------------------------------
 
 interface Props {
   case: MandantCase
@@ -186,8 +240,28 @@ export default function ChecklistUploadZone({ case: c, onChange }: Props) {
       onChange({ ...c, checklistStates: newStates })
     }
     setMatches(prev =>
-      prev.map(m => (m.itemId === itemId ? { ...m, confirmed: accept } : m))
+      prev.map(m => {
+        if (m.itemId !== itemId) return m
+        // Feature 2: Dateiname-Vorschlag beim Bestätigen generieren
+        const suggestedFilename = accept
+          ? buildSuggestedFilename(m.itemLabel, c.mandantName, fileName)
+          : undefined
+        return { ...m, confirmed: accept, suggestedFilename }
+      })
     )
+  }
+
+  function copyFilename(itemId: string, name: string) {
+    navigator.clipboard.writeText(name).then(() => {
+      setMatches(prev =>
+        prev.map(m => m.itemId === itemId ? { ...m, filenameCopied: true } : m)
+      )
+      setTimeout(() => {
+        setMatches(prev =>
+          prev.map(m => m.itemId === itemId ? { ...m, filenameCopied: false } : m)
+        )
+      }, 2000)
+    })
   }
 
   function reset() {
@@ -280,10 +354,58 @@ export default function ChecklistUploadZone({ case: c, onChange }: Props) {
             </button>
           </div>
 
-          {/* Bestätigte Matches */}
+          {/* Feature 1 — §12.2 Lesbarkeits-Hinweis */}
+          {ocrText.length < 80 && (
+            <div className="flex items-start gap-2 rounded-lg border border-amber-300 bg-amber-50 px-3 py-2.5 text-xs text-amber-900">
+              <AlertTriangle className="w-4 h-4 shrink-0 mt-0.5" />
+              <span>
+                Scan möglicherweise unleserlich (sehr wenig Text erkannt).
+                Bitte gegenprüfen oder als höher aufgelöstes Bild erneut hochladen.
+              </span>
+            </div>
+          )}
+          {ocrText.length >= 80 && hasChecklist && matches.length === 0 && (
+            <div className="flex items-start gap-2 rounded-lg border border-amber-300 bg-amber-50 px-3 py-2.5 text-xs text-amber-900">
+              <AlertTriangle className="w-4 h-4 shrink-0 mt-0.5" />
+              <span>
+                Text wurde erkannt, aber kein Pflicht-Item passt.
+                Möglicherweise gehört das Dokument zu einer anderen Mandatsart oder ist unklar.
+                Bitte manuell zuordnen.
+              </span>
+            </div>
+          )}
+
+          {/* Bestätigte Matches + Feature 2 — Dateiname-Vorschlag */}
           {acceptedMatches.length > 0 && (
-            <div className="rounded-lg border border-green-200 bg-green-50 px-3 py-2 text-xs text-green-800">
-              {acceptedMatches.length} Unterlage{acceptedMatches.length === 1 ? '' : 'n'} als erhalten markiert.
+            <div className="space-y-2">
+              <div className="rounded-lg border border-green-200 bg-green-50 px-3 py-2 text-xs text-green-800">
+                {acceptedMatches.length} Unterlage{acceptedMatches.length === 1 ? '' : 'n'} als erhalten markiert.
+              </div>
+              {acceptedMatches.filter(m => m.suggestedFilename).map(m => (
+                <div key={`fn-${m.itemId}`} className="rounded-lg border border-[var(--color-border)] bg-[var(--color-bg-alt)] px-3 py-2 space-y-1">
+                  <p className="text-[10px] uppercase tracking-wide text-[var(--color-ink-muted)] font-semibold">
+                    Vorschlag — kopieren und manuell beim Speichern verwenden
+                  </p>
+                  <div className="flex items-center gap-2">
+                    <input
+                      readOnly
+                      value={m.suggestedFilename}
+                      className="flex-1 font-mono text-xs bg-white border border-[var(--color-border)] rounded px-2 py-1 text-[var(--color-ink)] focus:outline-none"
+                    />
+                    <button
+                      onClick={() => m.suggestedFilename && copyFilename(m.itemId, m.suggestedFilename)}
+                      className={`inline-flex items-center gap-1 text-xs rounded border px-2 py-1 transition-colors shrink-0 ${
+                        m.filenameCopied
+                          ? 'border-green-300 bg-green-50 text-green-800'
+                          : 'border-[var(--color-border)] bg-white text-[var(--color-ink-muted)] hover:border-[var(--color-gold)]'
+                      }`}
+                    >
+                      {m.filenameCopied ? <Check className="w-3 h-3" /> : <Copy className="w-3 h-3" />}
+                      {m.filenameCopied ? 'Kopiert' : 'Kopieren'}
+                    </button>
+                  </div>
+                </div>
+              ))}
             </div>
           )}
 
@@ -318,13 +440,6 @@ export default function ChecklistUploadZone({ case: c, onChange }: Props) {
                 </div>
               ))}
             </div>
-          )}
-
-          {/* Keine Matches */}
-          {matches.length === 0 && hasChecklist && (
-            <p className="text-xs text-[var(--color-ink-muted)]">
-              Keine Checklisten-Unterlagen im Dokument erkannt.
-            </p>
           )}
 
           {/* OCR-Text collapsible */}

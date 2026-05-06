@@ -11,6 +11,7 @@ import {
   ArrowLeft, Plus, FolderOpen, Archive, FileText, Search as SearchIcon,
   Shield, Package, Clock, AlertCircle, Share2, Copy, Check,
 } from 'lucide-react'
+import AkteSummaryDrawer from './AkteSummaryDrawer'
 import Fuse from 'fuse.js'
 import {
   addCaseDocument,
@@ -480,6 +481,7 @@ export function ProCaseDetail() {
   const [selectedDocumentId, setSelectedDocumentId] = useState<string | null>(null)
   const [ocrProgress, setOcrProgress] = useState<{ page: number; total: number; stage: string } | null>(null)
   const [showSachstand, setShowSachstand] = useState(false)
+  const [showAkteSummary, setShowAkteSummary] = useState(false)
   const c = useMemo(() => (id ? getCase(id) : undefined), [id, tick])
   const research = useMemo(() => (id ? listResearch(id) : []), [id, tick])
   const letters = useMemo(() => (id ? listLetters(id) : []), [id, tick])
@@ -697,6 +699,12 @@ export function ProCaseDetail() {
           >
             Sachstand-Antwort generieren
           </button>
+          <button
+            onClick={() => setShowAkteSummary(true)}
+            className="inline-flex items-center gap-1.5 text-sm bg-white border border-[var(--color-border)] rounded-lg px-3 py-1.5 hover:border-[var(--color-gold)] transition-colors"
+          >
+            <FileText className="w-4 h-4" /> Akte zusammenfassen
+          </button>
         </div>
       </div>
 
@@ -705,6 +713,15 @@ export function ProCaseDetail() {
         <SachstandsGenerator
           case={c}
           onClose={() => setShowSachstand(false)}
+        />
+      )}
+
+      {/* Akte zusammenfassen Drawer */}
+      {showAkteSummary && (
+        <AkteSummaryDrawer
+          case={c}
+          settings={getSettings()}
+          onClose={() => setShowAkteSummary(false)}
         />
       )}
 
