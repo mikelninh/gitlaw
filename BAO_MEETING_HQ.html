@@ -237,50 +237,134 @@
     .numbers-grid .cell:nth-child(n+4) { border-top: 1px solid var(--rule); }
   }
 
-  /* ── Status pills row ─────────────────────────────────── */
-  .pills {
+  /* ── Coverage matrix (Lastenheft-§ → Status) ──────────── */
+  .coverage {
     max-width: 1180px;
     margin: 0 auto 80px;
     padding: 0 36px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
     position: relative;
     z-index: 2;
   }
-  .pill {
+  .coverage-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 22px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--rule);
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .coverage-head h2 {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 60, "SOFT" 80;
+    font-weight: 360;
+    font-size: 26px;
+    letter-spacing: -0.02em;
+    color: var(--paper);
+  }
+  .coverage-head h2 em { font-style: italic; color: var(--gold); }
+  .coverage-head .legend {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10px;
+    color: var(--text-mute);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+  .cov-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    border: 1px solid var(--rule);
+  }
+  @media (max-width: 880px) {
+    .cov-grid { grid-template-columns: 1fr; }
+  }
+  .cov-col {
+    padding: 22px 24px;
+    border-right: 1px solid var(--rule);
+    background: var(--ink-2);
+    position: relative;
+  }
+  .cov-col:last-child { border-right: none; }
+  @media (max-width: 880px) {
+    .cov-col { border-right: none; border-bottom: 1px solid var(--rule); }
+    .cov-col:last-child { border-bottom: none; }
+  }
+  .cov-col-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 18px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .cov-col-title {
+    font-family: "Fraunces", serif;
+    font-style: italic;
+    font-variation-settings: "opsz" 32, "SOFT" 100;
+    font-weight: 420;
+    font-size: 18px;
+    letter-spacing: -0.005em;
+  }
+  .cov-col-tally {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: -0.04em;
+  }
+  .cov-col.live .cov-col-title { color: var(--calm); }
+  .cov-col.live .cov-col-tally { color: var(--calm); }
+  .cov-col.partial .cov-col-title { color: var(--amber); }
+  .cov-col.partial .cov-col-tally { color: var(--amber); }
+  .cov-col.missing .cov-col-title { color: var(--signal); }
+  .cov-col.missing .cov-col-tally { color: var(--signal); }
+  .cov-col ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .cov-col li {
+    display: grid;
+    grid-template-columns: 36px 1fr;
+    gap: 10px;
+    align-items: baseline;
+  }
+  .cov-col li .ref {
     font-family: "JetBrains Mono", monospace;
     font-size: 10.5px;
-    letter-spacing: 0.04em;
-    padding: 6px 12px 5px;
-    border: 1px solid var(--rule);
-    border-radius: 1px;
-    color: var(--text-soft);
-    background: var(--ink-2);
-    display: inline-flex;
-    align-items: center;
-    gap: 7px;
-    transition: all 180ms;
+    color: var(--text-mute);
+    letter-spacing: 0.06em;
+    padding-top: 1px;
   }
-  .pill::before {
-    content: "";
-    width: 5px;
-    height: 5px;
-    border-radius: 50%;
-    background: var(--text-mute);
-  }
-  .pill.live {
+  .cov-col.live li .ref { color: var(--calm); }
+  .cov-col.partial li .ref { color: var(--amber); }
+  .cov-col.missing li .ref { color: var(--signal); }
+  .cov-col li .what {
+    font-family: "Fraunces", serif;
+    font-size: 14px;
     color: var(--paper);
-    border-color: rgba(107,158,122,0.4);
-    background: rgba(107,158,122,0.06);
+    font-variation-settings: "opsz" 14, "SOFT" 60;
+    line-height: 1.45;
   }
-  .pill.live::before { background: var(--calm); box-shadow: 0 0 8px var(--calm); }
-  .pill.wait {
-    color: var(--paper-soft);
-    border-color: rgba(212,151,54,0.3);
-    background: rgba(212,151,54,0.05);
+  .cov-col li .what small {
+    display: block;
+    color: var(--text-mute);
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 3px;
+    font-variation-settings: "opsz" 12, "SOFT" 100;
   }
-  .pill.wait::before { background: var(--amber); }
+  .cov-foot {
+    margin-top: 14px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10.5px;
+    color: var(--text-mute);
+    letter-spacing: 0.04em;
+    text-align: right;
+  }
 
   /* ── Main grid with timeline spine ─────────────────────── */
   main {
@@ -821,17 +905,69 @@
   </div>
 </section>
 
-<section class="pills" aria-label="Feature-Status">
-  <span class="pill live">Modul A · Checklisten</span>
-  <span class="pill live">Modul B · Status + Sachstand</span>
-  <span class="pill live">Demo-Akte Phạm Văn Đức</span>
-  <span class="pill live">Behörden-DB</span>
-  <span class="pill live">Heute-Widget</span>
-  <span class="pill live">Auto-Frist § 75 VwVfG</span>
-  <span class="pill live">OCR-Drop-Zone</span>
-  <span class="pill live">Eilantrag-Eskalation</span>
-  <span class="pill wait">Modul C · VI-Recherche</span>
-  <span class="pill wait">Modul D · Tasks</span>
+<section class="coverage" aria-label="Coverage gegen Bao's Lastenheft">
+  <div class="coverage-head">
+    <h2>Lastenheft-Coverage <em>— ehrlich.</em></h2>
+    <div class="legend">22 §§ · 3 Buckets · Stand 06.05.2026</div>
+  </div>
+  <div class="cov-grid">
+
+    <div class="cov-col live">
+      <div class="cov-col-head">
+        <span class="cov-col-title">Funktioniert</span>
+        <span class="cov-col-tally">13</span>
+      </div>
+      <ul>
+        <li><span class="ref">§3</span><span class="what">Mandatsarten · 11 kuratiert<small>108 Pflicht-Items im Schema</small></span></li>
+        <li><span class="ref">§9</span><span class="what">Priorisierung der Probleme<small>Reihenfolge identisch mit Sprint-Plan</small></span></li>
+        <li><span class="ref">§10</span><span class="what">Zielbild · 12-Punkte-Liste<small>Alle im Plan abgebildet</small></span></li>
+        <li><span class="ref">§12</span><span class="what">Funktionale Anforderungen<small>15 Akten-Felder · Status · Behörde · Bilingual-Templates</small></span></li>
+        <li><span class="ref">§13</span><span class="what">Datenschutz + Berufsrecht<small>Frankfurt-Hosting · DSGVO-Anonymizer · Audit-Log · AVV</small></span></li>
+        <li><span class="ref">§14</span><span class="what">KI-Funktionen-Trennlinie<small>KI bereitet vor, Mensch verantwortet — eingebaut</small></span></li>
+        <li><span class="ref">§16</span><span class="what">Entwicklungsphasen-Mapping<small>Bao-Phasen ↔ Sprints 1:1</small></span></li>
+        <li><span class="ref">§17</span><span class="what">MVP-Vorschlag · 7/9 Punkte live<small>Mandatsart · Checkliste · Status · Sachstand · Advoware-CSV</small></span></li>
+        <li><span class="ref">§18</span><span class="what">8-Stati-Statuslogik<small>Mit Übergangs-Regeln, im UI</small></span></li>
+        <li><span class="ref">§21</span><span class="what">9 Erfolgs-KPIs werden gemessen<small>Audit-Log + Analytics</small></span></li>
+        <li><span class="ref">§22</span><span class="what">Zusammenfassung · Modell vorgeschlagen<small>Pilot-Vereinbarung steht heute zur Diskussion</small></span></li>
+        <li><span class="ref">§1, §2</span><span class="what">Zweck + Kanzleiprofil verstanden<small>Doku-Sektionen, Kontext aufgenommen</small></span></li>
+      </ul>
+      <div class="cov-foot">~ 60 % Lastenheft-Deckung live</div>
+    </div>
+
+    <div class="cov-col partial">
+      <div class="cov-col-head">
+        <span class="cov-col-title">Teilweise</span>
+        <span class="cov-col-tally">07</span>
+      </div>
+      <ul>
+        <li><span class="ref">§4</span><span class="what">Sprach-/Mandantenstruktur<small>32 Sachstand-Templates DE+VI live · freie VI-Recherche kommt mit Modul C</small></span></li>
+        <li><span class="ref">§5</span><span class="what">Mandatsablauf<small>Workflow-Modell live · OCR-Klassifikation auf Sprint 3</small></span></li>
+        <li><span class="ref">§6</span><span class="what">Kommunikationskanäle<small>Sachstand-Generator live · Auto-Versand kommt mit Sprint 2</small></span></li>
+        <li><span class="ref">§7</span><span class="what">Einreichung + Speicherung<small>Upload + OCR-Drop-Zone live · semantische Klassifikation Sprint 3</small></span></li>
+        <li><span class="ref">§8</span><span class="what">Kernprobleme im Alltag<small>Heute-Widget adressiert die wichtigsten · Mittelspersonen Sprint 4</small></span></li>
+        <li><span class="ref">§15</span><span class="what">Advoware-Integration<small>CSV-Bidirectional live · API-Anbindung wartet auf Lizenzklärung</small></span></li>
+        <li><span class="ref">§19</span><span class="what">Rollenmodell<small>RBAC + Pro-Session live · Refa/Anwalt-Trennung im Pilot zu schärfen</small></span></li>
+      </ul>
+      <div class="cov-foot">~ 30 % im Pilot zu schärfen</div>
+    </div>
+
+    <div class="cov-col missing">
+      <div class="cov-col-head">
+        <span class="cov-col-title">Wartet</span>
+        <span class="cov-col-tally">06</span>
+      </div>
+      <ul>
+        <li><span class="ref">§17.5</span><span class="what">Erinnerungs-Drafts DE/VI<small>Mit Auto-Versand · Sprint 2</small></span></li>
+        <li><span class="ref">§17.8</span><span class="what">Interne Aufgaben pro Akte<small>Modul D · Sprint-1-Rest, ~3 Tage</small></span></li>
+        <li><span class="ref">§4 / Modul C</span><span class="what">VI-Antworten in der Recherche<small>Wartet auf deine 5 Voice-Anchor-Mails</small></span></li>
+        <li><span class="ref">UC4</span><span class="what">Semantische OCR-Klassifikation<small>Aktuell nur Keyword-Match · Sprint 3, ~2 Wochen</small></span></li>
+        <li><span class="ref">§17.E</span><span class="what">Mittelsperson-Datenmodell<small>Templates vorbereitet · Datenmodell Sprint 4</small></span></li>
+        <li><span class="ref">Phase 4</span><span class="what">Mandanten-Portal / App<small>Separater Track, nach Sprint-1-Pilot-Daten</small></span></li>
+      </ul>
+      <div class="cov-foot">~ 10 % offen, alle terminiert</div>
+    </div>
+
+  </div>
 </section>
 
 <main>
