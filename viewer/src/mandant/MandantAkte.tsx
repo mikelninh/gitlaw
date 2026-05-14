@@ -382,12 +382,50 @@ export default function MandantAkte({ mandantId, backendToken, lang: langProp }:
         </div>
       )}
 
-      {missingItems.length === 0 && checklist && (
-        <div className="bg-green-50 border border-green-200 rounded-xl p-4 flex items-start gap-2">
-          <CheckCircle2 className="w-5 h-5 text-green-700 shrink-0 mt-0.5" />
-          <p className="text-sm text-green-800 leading-relaxed">{t.checklistAllDone}</p>
-        </div>
-      )}
+      {missingItems.length === 0 && checklist && (() => {
+        // Differenziertes Footer-Banner basierend auf reviewStatus aller Docs:
+        // alle approved → grün "alles bestätigt"
+        // mind. 1 pending → gelb "alle eingereicht, wartet auf Prüfung"
+        // mind. 1 rejected → rot "Anwalt hat etwas abgelehnt — handle nach"
+        const allDocs = caseData.documents ?? []
+        const anyRejected = allDocs.some((d) => d.reviewStatus === 'rejected')
+        const allApproved =
+          allDocs.length > 0 && allDocs.every((d) => d.reviewStatus === 'approved')
+        if (anyRejected) {
+          return (
+            <div className="bg-red-50 border border-red-200 rounded-xl p-4 flex items-start gap-2">
+              <CheckCircle2 className="w-5 h-5 text-red-700 shrink-0 mt-0.5" />
+              <p className="text-sm text-red-900 leading-relaxed">
+                {lang === 'vi'
+                  ? 'Luật sư đã từ chối một số tài liệu — vui lòng tải lại bản đúng.'
+                  : 'Anwält:in hat einzelne Dokumente abgelehnt — bitte oben in der Liste neu hochladen.'}
+              </p>
+            </div>
+          )
+        }
+        if (allApproved) {
+          return (
+            <div className="bg-green-50 border border-green-200 rounded-xl p-4 flex items-start gap-2">
+              <CheckCircle2 className="w-5 h-5 text-green-700 shrink-0 mt-0.5" />
+              <p className="text-sm text-green-800 leading-relaxed">
+                {lang === 'vi'
+                  ? 'Luật sư đã xác nhận tất cả tài liệu. Đơn đang được chuẩn bị.'
+                  : 'Anwält:in hat alle Unterlagen geprüft + bestätigt. Antrag wird vorbereitet.'}
+              </p>
+            </div>
+          )
+        }
+        return (
+          <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 flex items-start gap-2">
+            <CheckCircle2 className="w-5 h-5 text-amber-700 shrink-0 mt-0.5" />
+            <p className="text-sm text-amber-900 leading-relaxed">
+              {lang === 'vi'
+                ? 'Bạn đã nộp tất cả tài liệu. Luật sư sẽ kiểm tra và xác nhận từng cái.'
+                : 'Du hast alle Unterlagen eingereicht. Anwält:in prüft sie jetzt — du wirst informiert sobald alle bestätigt sind.'}
+            </p>
+          </div>
+        )
+      })()}
 
       {/* Eingereichte Dokumente collapsible */}
       {receivedDocs.length > 0 && (
@@ -648,19 +686,65 @@ function ChecklistCard({
 
   // Abgeschlossen -- gruen, bleibt sichtbar
   if (complete) {
+    // Status-Differenzierung pro Item (alle Docs in itemDocs anschauen):
+    //   approved → grün "Bestätigt"
+    //   pending  → gelb "Eingereicht — wartet auf Prüfung"
+    //   rejected → rot "Abgelehnt"
+    // Wenn alle Docs approved sind: voll grün. Wenn mind. 1 pending: gelb.
+    const allApproved = itemDocs.every((d) => d.reviewStatus === 'approved')
+    const anyRejected = itemDocs.some((d) => d.reviewStatus === 'rejected')
+    const statusKey: 'approved' | 'pending' | 'rejected' = anyRejected
+      ? 'rejected'
+      : allApproved
+        ? 'approved'
+        : 'pending'
+
+    const palette =
+      statusKey === 'approved'
+        ? { bg: 'bg-green-50', border: 'border-green-200', text: 'text-green-900', badge: 'bg-green-200 text-green-900', iconCls: 'text-green-700' }
+        : statusKey === 'pending'
+          ? { bg: 'bg-amber-50', border: 'border-amber-200', text: 'text-amber-900', badge: 'bg-amber-200 text-amber-900', iconCls: 'text-amber-700' }
+          : { bg: 'bg-red-50', border: 'border-red-200', text: 'text-red-900', badge: 'bg-red-200 text-red-900', iconCls: 'text-red-700' }
+
+    const badgeLabel =
+      statusKey === 'approved'
+        ? lang === 'vi'
+          ? 'Đã xác nhận'
+          : 'Bestätigt'
+        : statusKey === 'pending'
+          ? lang === 'vi'
+            ? 'Đang chờ duyệt'
+            : 'Wartet auf Prüfung'
+          : lang === 'vi'
+            ? 'Bị từ chối'
+            : 'Abgelehnt'
+
+    const subline =
+      statusKey === 'pending'
+        ? lang === 'vi'
+          ? 'Đã nộp — luật sư sẽ kiểm tra.'
+          : 'Eingereicht — Anwält:in prüft demnächst.'
+        : statusKey === 'approved'
+          ? lang === 'vi'
+            ? 'Luật sư đã xác nhận.'
+            : 'Von Anwält:in geprüft + bestätigt.'
+          : lang === 'vi'
+            ? 'Bị từ chối — vui lòng tải lại.'
+            : 'Abgelehnt — bitte neu hochladen.'
+
     return (
-      <div className="bg-green-50 border border-green-200 rounded-xl p-4 space-y-2">
+      <div className={`${palette.bg} ${palette.border} border rounded-xl p-4 space-y-2`}>
         <div className="flex items-center gap-3">
-          <CheckCircle2 className="w-5 h-5 text-green-700 shrink-0" />
+          <CheckCircle2 className={`w-5 h-5 ${palette.iconCls} shrink-0`} />
           <div className="flex-1 min-w-0">
-            <h3 className="text-sm font-medium text-green-900 leading-snug">{label}</h3>
+            <h3 className={`text-sm font-medium ${palette.text} leading-snug`}>{label}</h3>
+            <p className={`text-xs ${palette.text} opacity-80 mt-0.5`}>{subline}</p>
             {isMultiPhoto && (
-              <p className="text-xs text-green-700 mt-0.5">{t.photoProgress(uploaded, required)}</p>
+              <p className={`text-xs ${palette.iconCls} mt-0.5`}>{t.photoProgress(uploaded, required)}</p>
             )}
           </div>
-          <span className="shrink-0 inline-flex items-center rounded-full bg-green-200 text-green-900 px-2 py-0.5 text-[10px] uppercase tracking-wide font-semibold">
-            {lang === 'vi' ? 'Hoan thanh' : 'Fertig'}
-            {/* TODO: VI-review native speaker */}
+          <span className={`shrink-0 inline-flex items-center rounded-full ${palette.badge} px-2 py-0.5 text-[10px] uppercase tracking-wide font-semibold`}>
+            {badgeLabel}
           </span>
         </div>
         {isMultiPhoto && itemDocs.length > 0 && (

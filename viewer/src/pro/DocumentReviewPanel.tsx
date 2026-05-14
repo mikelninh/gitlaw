@@ -89,8 +89,16 @@ function DocPreviewModal({
 
   const id = doc.serverDocumentId ?? doc.id
   const isPdf = doc.mimeType?.includes('pdf')
+  // External dataUrl (z.B. visa-kompass Vercel-Blob) — direkt anzeigen, kein vault-lookup.
+  const externalUrl =
+    typeof doc.dataUrl === 'string' && /^https?:\/\//.test(doc.dataUrl) ? doc.dataUrl : null
 
   useEffect(() => {
+    if (externalUrl) {
+      // Externe URL: nicht durch /api/pro/upload routen
+      setBlobUrl(externalUrl)
+      return
+    }
     const token = getStoredSessionToken()
     let revoke = ''
     fetch(`${API_URL}/api/pro/upload?id=${encodeURIComponent(id)}`, {
@@ -115,7 +123,7 @@ function DocPreviewModal({
       if (revoke) URL.revokeObjectURL(revoke)
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [id])
+  }, [id, externalUrl])
 
   function handleBackdrop(e: React.MouseEvent<HTMLDivElement>) {
     if (e.target === e.currentTarget) onClose()
