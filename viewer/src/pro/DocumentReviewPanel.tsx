@@ -284,7 +284,7 @@ export default function DocumentReviewPanel({ document: doc, onUpdate, onReviewe
       <div className="mt-2 space-y-2">
         <div className="flex items-center gap-1.5 text-xs text-[var(--color-ink-muted)]">
           <Clock className="w-3.5 h-3.5 shrink-0" />
-          <span>Ausstehend — Mandant-Upload, noch nicht geprüft</span>
+          <span>Wartet auf Prüfung — Mandant-Upload</span>
         </div>
 
         {!showComment ? (
@@ -295,7 +295,7 @@ export default function DocumentReviewPanel({ document: doc, onUpdate, onReviewe
               className="inline-flex items-center gap-1.5 text-xs bg-green-600 text-white rounded-md px-2.5 py-1.5 hover:bg-green-700 disabled:opacity-50 transition-colors"
             >
               <Check className="w-3.5 h-3.5" />
-              Bestätigt
+              Geprüft + bestätigen
             </button>
             <button
               onClick={() => setShowComment(true)}
