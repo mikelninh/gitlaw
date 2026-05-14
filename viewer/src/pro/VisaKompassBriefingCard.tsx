@@ -15,7 +15,8 @@ import {
   markVisaKompassBriefingReviewed,
   deleteVisaKompassBriefing,
 } from './pro-api'
-import { createCase, saveResearch, updateCase } from './store'
+import { createCase, saveResearch, updateCase, addCaseDocument } from './store'
+import { getChecklistById } from './mandatsart-checklists'
 
 // Mapping visa-kompass-Slug → gitlaw-Mandatsart-ID. Default visumsverfahren-national.
 const VISA_TO_MANDATSART: Record<string, string> = {
@@ -45,6 +46,41 @@ const VISA_TO_MANDATSART: Record<string, string> = {
 function mapMandatsart(visaSlug?: string): string {
   if (!visaSlug) return 'visumsverfahren-national'
   return VISA_TO_MANDATSART[visaSlug] ?? 'visumsverfahren-national'
+}
+
+// Filename + checklist-item-keyword Heuristik. Order = priority (most specific first).
+const FILENAME_KEYWORDS: { keywords: string[]; itemIds: string[] }[] = [
+  { keywords: ['heirats', 'marriage', 'ket-hon', 'kết hôn'], itemIds: ['heiratsurkunde'] },
+  { keywords: ['geburt', 'birth', 'khai-sinh'], itemIds: ['geburtsurkunde-kind', 'geburtsurkunden-kinder'] },
+  { keywords: ['lichtbild', 'biometric', 'passfoto', 'photo'], itemIds: ['biometrisches-lichtbild-antragsteller', 'biometrisches-lichtbild'] },
+  { keywords: ['vollmacht'], itemIds: ['anwaltsvollmacht'] },
+  { keywords: ['goethe', 'sprach', 'language', 'tieng-duc', 'tiếng đức', 'a1', 'a2', 'b1', 'b2'], itemIds: ['sprachzeugnis-a1', 'sprachzeugnis'] },
+  { keywords: ['meldebescheinigung', 'anmeldung'], itemIds: ['meldebescheinigung-stammberechtigter', 'meldebescheinigung'] },
+  { keywords: ['miet', 'wohn', 'rental'], itemIds: ['wohnraumnachweis', 'mietvertrag'] },
+  { keywords: ['lohn', 'gehalt', 'einkommen', 'salary', 'income'], itemIds: ['einkommensnachweis-stammberechtigter', 'einkommensnachweis'] },
+  { keywords: ['arbeitsvertrag', 'employment'], itemIds: ['arbeitsvertrag'] },
+  { keywords: ['krankenvers', 'health-insur', 'kv-nachweis'], itemIds: ['krankenversicherung-antragsteller', 'krankenversicherungsnachweis'] },
+  { keywords: ['aufenthalts'], itemIds: ['aufenthaltstitel-stammberechtigter', 'aufenthaltstitel-elternteil', 'aktueller-aufenthaltstitel'] },
+  { keywords: ['stammberechtig', 'spouse', 'partner'], itemIds: ['reisepass-stammberechtigter'] },
+  { keywords: ['reisepass', 'passport', 'pass-', 'ho-chieu', 'hộ chiếu'], itemIds: ['reisepass-antragsteller', 'reisepass-kind', 'reisepasse-eltern', 'reisepass'] },
+]
+
+function matchChecklistItem(
+  filename: string,
+  mandatsartId: string,
+): string | undefined {
+  const checklist = getChecklistById(mandatsartId)
+  if (!checklist) return undefined
+  const valid = new Set(checklist.requiredDocuments.map((d) => d.id))
+  const norm = filename.toLowerCase()
+  for (const rule of FILENAME_KEYWORDS) {
+    if (rule.keywords.some((kw) => norm.includes(kw))) {
+      for (const id of rule.itemIds) {
+        if (valid.has(id)) return id
+      }
+    }
+  }
+  return undefined
 }
 
 interface Props {
@@ -85,15 +121,46 @@ export function VisaKompassBriefingCard({ briefing: b, onChanged }: Props) {
           'Visa-Kompass-Anfrage',
       })
       // Mandatsart aus Quiz-Top-Treffer ableiten + setzen
-      updateCase(c.id, {
-        mandatsartId: mapMandatsart(
-          b.intake.quizContext?.topVisaSlug ?? b.caseHint?.visaSlug,
-        ),
-      })
+      const mandatsartId = mapMandatsart(
+        b.intake.quizContext?.topVisaSlug ?? b.caseHint?.visaSlug,
+      )
+      updateCase(c.id, { mandatsartId })
+
+      // Pre-uploaded Docs als CaseDocuments anhängen, mit Match zur Checkliste
+      const preDocs = b.intake.preUploadedDocs ?? []
+      const matchSummary: { filename: string; matched: string | null }[] = []
+      for (const d of preDocs) {
+        const checklistItemId = matchChecklistItem(d.filename, mandatsartId)
+        matchSummary.push({ filename: d.filename, matched: checklistItemId ?? null })
+        addCaseDocument(c.id, {
+          originalName: d.filename,
+          internalName: `vk-pre-${d.filename}`,
+          mimeType: d.mime,
+          sizeBytes: d.size,
+          uploadedBy: 'visa-kompass',
+          languageHint: b.client.language,
+          dataUrl: d.url, // Blob-URL — Bao klickt, lädt direkt aus visa-kompass-Blob
+          storageMode: 'local_inline',
+          ...(checklistItemId ? { checklistItemId } : {}),
+          kind: 'standard',
+        })
+      }
+
+      const summary = buildResearchSummary(b)
+      const matchNote =
+        matchSummary.length > 0
+          ? '\n\n== Pre-Upload-Zuordnung zur Checkliste ==\n' +
+            matchSummary
+              .map(
+                (m) =>
+                  `${m.matched ? '✓' : '⚠'} ${m.filename} → ${m.matched ?? 'kein automatisches Match — manuell zuordnen'}`,
+              )
+              .join('\n')
+          : ''
       saveResearch({
         caseId: c.id,
         question: `[Visa-Kompass-Eingang] ${b.client.name}${b.client.email ? ` — ${b.client.email}` : ''}${b.client.phone ? ` — ${b.client.phone}` : ''} (Sprache ${b.client.language.toUpperCase()})`,
-        answer: buildResearchSummary(b),
+        answer: summary + matchNote,
         citations: [],
         reviewed: false,
       })
