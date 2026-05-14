@@ -15,7 +15,8 @@ import {
   markVisaKompassBriefingReviewed,
   deleteVisaKompassBriefing,
 } from './pro-api'
-import { createCase, saveResearch, updateCase, addCaseDocument } from './store'
+import { createCase, saveResearch, updateCase, addCaseDocument, getCase } from './store'
+import { putItem } from './server-persist'
 import { getChecklistById } from './mandatsart-checklists'
 
 // Mapping visa-kompass-Slug → gitlaw-Mandatsart-ID. Default visumsverfahren-national.
@@ -150,7 +151,14 @@ export function VisaKompassBriefingCard({ briefing: b, onChanged }: Props) {
       }
 
       // Server-Sync: jetzt sowohl Mandatsart als auch alle Docs persistieren.
+      // WICHTIG: await statt void — sonst rast die Detail-Page-Navigation
+      // gegen den async putItem, refreshDocuments lädt leere Server-Docs
+      // und überschreibt unsere lokalen Docs.
       updateCase(c.id, { mandatsartId })
+      const fullCase = getCase(c.id)
+      if (fullCase) {
+        await putItem('cases', fullCase)
+      }
 
       const summary = buildResearchSummary(b)
       const matchNote =
