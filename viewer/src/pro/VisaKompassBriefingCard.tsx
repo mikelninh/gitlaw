@@ -122,13 +122,14 @@ export function VisaKompassBriefingCard({ briefing: b, onChanged }: Props) {
           b.intake.quizContext?.topVisaName ??
           'Visa-Kompass-Anfrage',
       })
-      // Mandatsart aus Quiz-Top-Treffer ableiten + setzen
+      // Mandatsart aus Quiz-Top-Treffer ableiten
       const mandatsartId = mapMandatsart(
         b.intake.quizContext?.topVisaSlug ?? b.caseHint?.visaSlug,
       )
-      updateCase(c.id, { mandatsartId })
 
-      // Pre-uploaded Docs als CaseDocuments anhängen, mit Match zur Checkliste
+      // Pre-uploaded Docs als CaseDocuments anhängen, mit Match zur Checkliste.
+      // addCaseDocument schreibt nur lokal — Server-Sync triggern wir mit
+      // updateCase() ganz am Ende, sodass die Docs mitsynchronisiert werden.
       const preDocs = b.intake.preUploadedDocs ?? []
       const matchSummary: { filename: string; matched: string | null }[] = []
       for (const d of preDocs) {
@@ -147,6 +148,9 @@ export function VisaKompassBriefingCard({ briefing: b, onChanged }: Props) {
           kind: 'standard',
         })
       }
+
+      // Server-Sync: jetzt sowohl Mandatsart als auch alle Docs persistieren.
+      updateCase(c.id, { mandatsartId })
 
       const summary = buildResearchSummary(b)
       const matchNote =
