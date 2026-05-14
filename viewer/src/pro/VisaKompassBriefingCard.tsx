@@ -15,7 +15,37 @@ import {
   markVisaKompassBriefingReviewed,
   deleteVisaKompassBriefing,
 } from './pro-api'
-import { createCase, saveResearch } from './store'
+import { createCase, saveResearch, updateCase } from './store'
+
+// Mapping visa-kompass-Slug → gitlaw-Mandatsart-ID. Default visumsverfahren-national.
+const VISA_TO_MANDATSART: Record<string, string> = {
+  'familiennachzug-ehegatte': 'familiennachzug-ehegatte',
+  'familiennachzug-kind': 'familiennachzug-kind',
+  chancenkarte: 'chancenkarte',
+  einbuergerung: 'einbuergerung',
+  niederlassungserlaubnis: 'niederlassungserlaubnis',
+  fachkraft: 'beschaeftigungserlaubnis',
+  westbalkan: 'beschaeftigungserlaubnis',
+  'it-spezialisten-19c': 'beschaeftigungserlaubnis',
+  'anerkennungspartnerschaft-16d': 'beschaeftigungserlaubnis',
+  beschaeftigungsduldung: 'beschaeftigungserlaubnis',
+  ausbildungsduldung: 'aufenthaltsgestattung',
+  chancenaufenthalt: 'aufenthaltsgestattung',
+  'humanitaer-25': 'aufenthaltsgestattung',
+  'ukraine-24': 'aufenthaltsgestattung',
+  'blue-card': 'visumsverfahren-national',
+  studium: 'visumsverfahren-national',
+  selbststaendig: 'visumsverfahren-national',
+  ausbildung: 'visumsverfahren-national',
+  'au-pair': 'visumsverfahren-national',
+  forschung: 'visumsverfahren-national',
+  'working-holiday': 'visum_kurzaufenthalt',
+}
+
+function mapMandatsart(visaSlug?: string): string {
+  if (!visaSlug) return 'visumsverfahren-national'
+  return VISA_TO_MANDATSART[visaSlug] ?? 'visumsverfahren-national'
+}
 
 interface Props {
   briefing: VisaKompassBriefing
@@ -53,6 +83,12 @@ export function VisaKompassBriefingCard({ briefing: b, onChanged }: Props) {
           b.intake.germanSummary?.slice(0, 200) ??
           b.intake.quizContext?.topVisaName ??
           'Visa-Kompass-Anfrage',
+      })
+      // Mandatsart aus Quiz-Top-Treffer ableiten + setzen
+      updateCase(c.id, {
+        mandatsartId: mapMandatsart(
+          b.intake.quizContext?.topVisaSlug ?? b.caseHint?.visaSlug,
+        ),
       })
       saveResearch({
         caseId: c.id,
