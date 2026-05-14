@@ -141,11 +141,11 @@ export function VisaKompassBriefingCard({ briefing: b, onChanged }: Props) {
           internalName: `vk-pre-${d.filename}`,
           mimeType: d.mime,
           sizeBytes: d.size,
-          uploadedBy: 'visa-kompass',
+          // 'mandant' macht den Doc reviewStatus='pending' — Bao muss freigeben.
+          // 'visa-kompass' wäre als 'kanzlei' geflaggt und auto-approved — falsch.
+          uploadedBy: 'mandant',
           languageHint: b.client.language,
-          dataUrl: d.url, // Blob-URL — Bao klickt, lädt direkt aus visa-kompass-Blob
-          // 'vercel_blob' matcht postgres-enum storage_provider_type.
-          // Cast nötig weil client-types nur local_inline/server_vault kennen.
+          dataUrl: d.url,
           storageMode: 'vercel_blob' as 'local_inline',
           storageProvider: 'vercel_blob',
           ...(checklistItemId ? { checklistItemId } : {}),
