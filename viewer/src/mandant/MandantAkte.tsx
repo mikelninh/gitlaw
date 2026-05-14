@@ -454,7 +454,6 @@ export default function MandantAkte({ mandantId, backendToken, lang: langProp }:
 
       {/* Weitere/Sonstige Unterlagen — optional */}
       <ExtraDocsSection
-        lang={lang}
         t={t}
         uploading={uploadingId === '__loose__'}
         success={recentlyUploadedId === '__loose__'}
@@ -997,7 +996,6 @@ function ChecklistCard({
 // ---------------------------------------------------------------------------
 
 interface ExtraDocsProps {
-  lang: MandantLang
   t: ReturnType<typeof getMandantStrings>
   uploading: boolean
   success: boolean
@@ -1006,7 +1004,7 @@ interface ExtraDocsProps {
   onFile: (file: File) => void
 }
 
-function ExtraDocsSection({ lang, t, uploading, success, error, errorMessage, onFile }: ExtraDocsProps) {
+function ExtraDocsSection({ t, uploading, success, error, errorMessage, onFile }: ExtraDocsProps) {
   const fileRef = useRef<HTMLInputElement>(null)
 
   function handleChange(e: React.ChangeEvent<HTMLInputElement>) {
