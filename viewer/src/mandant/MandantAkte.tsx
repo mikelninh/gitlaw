@@ -22,6 +22,7 @@ import {
   isItemComplete,
   mandantUploadForChecklistItem,
   mandantAddDocument,
+  mandantDeleteDocument,
 } from './mandant-store'
 import { uploadMandantDocument, deleteMandantDocument, getMandantDocumentUrl } from './mandant-api'
 import { useMandantCase } from './useMandantCase'
@@ -209,24 +210,47 @@ export default function MandantAkte({ mandantId, backendToken, lang: langProp }:
     }
   }
 
-  async function handleDeleteDoc(documentId: string) {
-    if (!caseData) return
+  async function handleDeleteDoc(documentId: string): Promise<boolean> {
+    if (!caseData) return false
     setDeletingDocId(documentId)
     setDeleteConfirmId(null)
     try {
       if (backendToken) {
         await deleteMandantDocument(backendToken, documentId)
       } else {
-        // Demo-Modus: kein Backend — nur lokalen State bereinigen
+        mandantDeleteDocument(caseData.id, documentId)
       }
       setDeletedSuccessId(documentId)
       setTimeout(() => setDeletedSuccessId(null), 4000)
       reload()
+      return true
     } catch {
-      // Fehler-Feedback wird inline angezeigt — kein weiterer State nötig
+      return false
     } finally {
       setDeletingDocId(null)
     }
+  }
+
+  // Ersetzen-Flow: alte pending Docs eines Items soft-deleten, dann neuen Upload
+  async function handleReplaceDocs(item: ChecklistItem, file: File) {
+    if (!caseData) return
+    const itemDocs = (caseData.documents ?? []).filter(
+      d => d.checklistItemId === item.id && !(d as { deletedAt?: string }).deletedAt,
+    )
+    // Nur pending Docs ersetzen — approved bleiben (Warnung wird vorher angezeigt)
+    const replaceable = itemDocs.filter(d => !d.reviewStatus || d.reviewStatus === 'pending')
+    for (const d of replaceable) {
+      try {
+        if (backendToken) {
+          await deleteMandantDocument(backendToken, d.id)
+        } else {
+          mandantDeleteDocument(caseData.id, d.id)
+        }
+      } catch {
+        // Best-effort — falls Delete schiefgeht, Upload trotzdem versuchen
+      }
+    }
+    await uploadFor(item, file)
   }
 
   return (
@@ -369,12 +393,13 @@ export default function MandantAkte({ mandantId, backendToken, lang: langProp }:
                   t={t}
                   complete={complete}
                   uploaded={uploadedCount}
-                  itemDocs={itemDocs}
+                  itemDocs={itemDocs.filter(d => !(d as { deletedAt?: string }).deletedAt)}
                   uploading={uploadingId === item.id}
                   recentlyUploaded={recentlyUploadedId === item.id}
                   error={errorId === item.id}
                   errorMessage={errorId === item.id ? errorMessage : null}
                   onFile={(file, slotId) => uploadFor(item, file, slotId)}
+                  onReplace={(file) => handleReplaceDocs(item, file)}
                 />
               </div>
             )
@@ -426,6 +451,17 @@ export default function MandantAkte({ mandantId, backendToken, lang: langProp }:
           </div>
         )
       })()}
+
+      {/* Weitere/Sonstige Unterlagen — optional */}
+      <ExtraDocsSection
+        lang={lang}
+        t={t}
+        uploading={uploadingId === '__loose__'}
+        success={recentlyUploadedId === '__loose__'}
+        error={errorId === '__loose__'}
+        errorMessage={errorId === '__loose__' ? errorMessage : null}
+        onFile={(file) => uploadFor(null, file)}
+      />
 
       {/* Eingereichte Dokumente collapsible */}
       {receivedDocs.length > 0 && (
@@ -522,7 +558,7 @@ export default function MandantAkte({ mandantId, backendToken, lang: langProp }:
                             <ExternalLink className="w-4 h-4" />
                           </a>
                         )}
-                        {doc.kind !== 'vollmacht' && (
+                        {doc.kind !== 'vollmacht' && (!doc.reviewStatus || doc.reviewStatus === 'pending') && (
                           <button
                             onClick={() =>
                               isConfirming
@@ -646,6 +682,7 @@ interface CardProps {
   error: boolean
   errorMessage?: string | null
   onFile: (file: File, slotId?: string) => void
+  onReplace: (file: File) => void
 }
 
 function ChecklistCard({
@@ -660,9 +697,12 @@ function ChecklistCard({
   error,
   errorMessage,
   onFile,
+  onReplace,
 }: CardProps) {
   const fileRef = useRef<HTMLInputElement>(null)
   const cameraRef = useRef<HTMLInputElement>(null)
+  const replaceRef = useRef<HTMLInputElement>(null)
+  const [confirmReplace, setConfirmReplace] = useState(false)
   const label = lang === 'vi' && item.labelVi ? item.labelVi : item.label
   const required = item.requiredPhotoCount ?? 1
   const isMultiPhoto = required > 1
@@ -752,6 +792,65 @@ function ChecklistCard({
             {itemDocs.map(doc => (
               <PhotoThumb key={doc.id} doc={doc} />
             ))}
+          </div>
+        )}
+
+        {/* Ersetzen-Mini-Flow: nur wenn Doc(s) noch nicht approved sind oder mit Warnung wenn approved */}
+        {statusKey !== 'rejected' && (
+          <div className="pl-8 pt-1">
+            <input
+              ref={replaceRef}
+              type="file"
+              accept={fileAccept}
+              className="hidden"
+              onChange={(e) => {
+                const file = e.target.files?.[0]
+                e.target.value = ''
+                if (file) {
+                  setConfirmReplace(false)
+                  onReplace(file)
+                }
+              }}
+            />
+            {confirmReplace ? (
+              <div className="flex items-center gap-2 rounded-lg bg-amber-50 border border-amber-200 px-3 py-2 text-xs text-amber-900">
+                <AlertTriangle className="w-3.5 h-3.5 shrink-0" />
+                <span className="flex-1 leading-snug">
+                  {statusKey === 'approved' ? t.docReplaceApprovedWarning : t.docReplaceHint}
+                </span>
+                <button
+                  type="button"
+                  onClick={() => setConfirmReplace(false)}
+                  className="px-2 py-1 text-amber-700 hover:bg-amber-100 rounded"
+                  disabled={uploading}
+                >
+                  {lang === 'vi' ? 'Hủy' : 'Abbrechen'}
+                </button>
+                <button
+                  type="button"
+                  onClick={() => replaceRef.current?.click()}
+                  className="px-2 py-1 font-medium text-white bg-amber-600 hover:bg-amber-700 rounded disabled:opacity-50"
+                  disabled={uploading}
+                >
+                  {uploading ? t.checklistUploadingButton : t.docReplaceLabel}
+                </button>
+              </div>
+            ) : (
+              <button
+                type="button"
+                onClick={() => {
+                  if (statusKey === 'approved') {
+                    setConfirmReplace(true)
+                  } else {
+                    replaceRef.current?.click()
+                  }
+                }}
+                disabled={uploading}
+                className={`text-xs underline underline-offset-2 ${palette.iconCls} hover:opacity-80 disabled:opacity-40`}
+              >
+                {uploading ? t.checklistUploadingButton : t.docReplaceHint}
+              </button>
+            )}
           </div>
         )}
       </div>
@@ -891,6 +990,68 @@ function ChecklistCard({
 // ---------------------------------------------------------------------------
 // PhotoThumb -- Vorschau eines bereits hochgeladenen Fotos
 // ---------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------
+// ExtraDocsSection — Mandantin kann beliebige Sonstige-Docs hochladen
+// (ohne Zuordnung zu Checklist-Item). Wird Bao als "Sonstige" angezeigt.
+// ---------------------------------------------------------------------------
+
+interface ExtraDocsProps {
+  lang: MandantLang
+  t: ReturnType<typeof getMandantStrings>
+  uploading: boolean
+  success: boolean
+  error: boolean
+  errorMessage?: string | null
+  onFile: (file: File) => void
+}
+
+function ExtraDocsSection({ lang, t, uploading, success, error, errorMessage, onFile }: ExtraDocsProps) {
+  const fileRef = useRef<HTMLInputElement>(null)
+
+  function handleChange(e: React.ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0]
+    e.target.value = ''
+    if (file) onFile(file)
+  }
+
+  return (
+    <div className="bg-white border border-dashed border-[var(--color-border)] rounded-xl p-4 sm:p-5 space-y-3">
+      <div>
+        <h3 className="text-sm font-medium text-[var(--color-ink)]">{t.extraDocsTitle}</h3>
+        <p className="text-xs text-[var(--color-ink-soft)] leading-relaxed mt-1">{t.extraDocsIntro}</p>
+      </div>
+      <input
+        ref={fileRef}
+        type="file"
+        accept="image/*,application/pdf"
+        className="hidden"
+        onChange={handleChange}
+      />
+      <button
+        type="button"
+        onClick={() => fileRef.current?.click()}
+        disabled={uploading}
+        className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-lg border border-[var(--color-border)] bg-white text-sm font-medium text-[var(--color-ink)] active:bg-slate-50 disabled:opacity-50"
+      >
+        <FileText className="w-4 h-4 text-[var(--color-gold)]" />
+        {uploading ? t.checklistUploadingButton : t.extraDocsUploadButton}
+      </button>
+      {success && (
+        <div className="flex items-center gap-2 rounded-lg bg-green-50 border border-green-200 px-3 py-2 text-sm text-green-800">
+          <CheckCircle2 className="w-4 h-4 shrink-0" />
+          {t.checklistUploadSuccess}
+        </div>
+      )}
+      {error && (
+        <div className="flex items-center gap-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-sm text-red-800">
+          <AlertTriangle className="w-4 h-4 shrink-0" />
+          {errorMessage ?? t.checklistUploadError}
+        </div>
+      )}
+    </div>
+  )
+}
 
 function PhotoThumb({ doc }: { doc: CaseDocument }) {
   if (doc.dataUrl && doc.mimeType.startsWith('image/')) {

@@ -121,13 +121,23 @@ export interface MandantStrings {
   vollmachtSubmitSuccess: string
   vollmachtOrtLabel: string
 
-  // Dokument-Aktionen (Self-View: Anzeigen / Löschen)
+  // Dokument-Aktionen (Self-View: Anzeigen / Löschen / Ersetzen)
   docViewLabel: string
   docDeleteLabel: string
   docDeleteConfirm: string
   docDeleteSuccess: string
+  docDeleteOnlyPendingHint: string
+  docReplaceLabel: string
+  docReplaceHint: string
+  docReplaceApprovedWarning: string
   /** {datum} wird ersetzt mit dem formatierten Datum */
   docUploadedAt: string
+
+  // Zusätzliche Docs (Sonstige)
+  extraDocsTitle: string
+  extraDocsIntro: string
+  extraDocsUploadButton: string
+  extraDocsLabel: string
 
   // Dokument-Review-Status (sichtbar im Mandant-Portal nach Kanzlei-Prüfung)
   docRejectedBanner: string
@@ -251,7 +261,16 @@ const DE: MandantStrings = {
   docDeleteLabel: 'Löschen',
   docDeleteConfirm: 'Dieses Dokument wirklich löschen?',
   docDeleteSuccess: 'Dokument gelöscht.',
+  docDeleteOnlyPendingHint: 'Bereits geprüfte Dokumente können nicht gelöscht werden. Bitte Kanzlei kontaktieren.',
+  docReplaceLabel: 'Neu hochladen',
+  docReplaceHint: 'Falsches Dokument? Hier ersetzen.',
+  docReplaceApprovedWarning: 'Dieses Dokument wurde bereits bestätigt. Wenn Sie es ersetzen, wird die neue Version erneut geprüft.',
   docUploadedAt: 'Hochgeladen am {datum}',
+
+  extraDocsTitle: 'Weitere Unterlagen hochladen',
+  extraDocsIntro: 'Optional — falls Sie zusätzliche Dokumente haben, die nicht in der Liste oben stehen.',
+  extraDocsUploadButton: 'Datei auswählen',
+  extraDocsLabel: 'Sonstige Datei',
 
   docRejectedBanner: 'Bitte erneut hochladen — Hinweis Ihrer Kanzlei:',
   docApprovedBadge: 'Bestätigt',
@@ -381,7 +400,18 @@ const VI: MandantStrings = {
   docDeleteLabel: 'Xóa',
   docDeleteConfirm: 'Bạn có chắc muốn xóa tài liệu này không?',
   docDeleteSuccess: 'Đã xóa tài liệu.',
+  // TODO: VI-review — neue Strings docDeleteOnlyPendingHint / docReplace*; plausibel aber ungeprüft
+  docDeleteOnlyPendingHint: 'Tài liệu đã được kiểm tra không thể xóa. Vui lòng liên hệ văn phòng luật sư.',
+  docReplaceLabel: 'Tải lên lại',
+  docReplaceHint: 'Sai tài liệu? Thay thế tại đây.',
+  docReplaceApprovedWarning: 'Tài liệu này đã được xác nhận. Nếu bạn thay thế, bản mới sẽ được kiểm tra lại.',
   docUploadedAt: 'Đã tải lên vào {datum}',
+
+  // TODO: VI-review — extraDocs Strings; plausibel aber ungeprüft
+  extraDocsTitle: 'Tải lên tài liệu khác',
+  extraDocsIntro: 'Tùy chọn — nếu bạn có tài liệu bổ sung không có trong danh sách ở trên.',
+  extraDocsUploadButton: 'Chọn tệp',
+  extraDocsLabel: 'Tài liệu khác',
 
   // TODO: VI-review — docRejectedBanner / docApprovedBadge / docPendingBadge; plausibel aber ungeprüft
   docRejectedBanner: 'Vui lòng tải lên lại — Ghi chú từ văn phòng luật sư:',

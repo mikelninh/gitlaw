@@ -199,3 +199,34 @@ export function mandantUploadForChecklistItem(
   writeCases(all)
   return doc
 }
+
+/**
+ * Soft-delete eines Mandant-eigenen Documents im Demo-Modus.
+ * Setzt deletedAt — countUploadedForItem ignoriert dann das Doc.
+ * Vollmacht-Docs (kind='vollmacht') sind nicht löschbar.
+ */
+export function mandantDeleteDocument(caseId: string, documentId: string): boolean {
+  const all = readCases()
+  const idx = all.findIndex(c => c.id === caseId)
+  if (idx < 0) return false
+
+  const docs = all[idx].documents ?? []
+  const docIdx = docs.findIndex(d => d.id === documentId)
+  if (docIdx < 0) return false
+
+  const doc = docs[docIdx] as CaseDocument & { kind?: string; uploadedBy?: string; deletedAt?: string }
+  if (doc.kind === 'vollmacht') return false
+  if (doc.uploadedBy && doc.uploadedBy !== 'mandant') return false
+
+  const updatedDoc = { ...doc, deletedAt: new Date().toISOString() }
+  const newDocs = [...docs]
+  newDocs[docIdx] = updatedDoc
+
+  all[idx] = {
+    ...all[idx],
+    documents: newDocs,
+    updatedAt: new Date().toISOString(),
+  }
+  writeCases(all)
+  return true
+}
