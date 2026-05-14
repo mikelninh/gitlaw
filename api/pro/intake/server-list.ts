@@ -15,7 +15,7 @@ import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { Redis } from '@upstash/redis'
 import { requireProSession } from '../../_auth'
 import { applyCors, applySecurityHeaders } from '../../_http'
-import { applyRateLimit, RATE_READ, RATE_WRITE } from '../../_ratelimit'
+import { applyRateLimit, RATE_PUBLIC, RATE_WRITE } from '../../_ratelimit'
 import type { VisaKompassBriefing } from './visa-kompass'
 
 const hasRedis = !!process.env.KV_REST_API_URL && !!process.env.KV_REST_API_TOKEN
@@ -63,7 +63,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (!session) return
 
   if (req.method === 'GET') {
-    const rlOk = await applyRateLimit(req, res, RATE_READ)
+    const rlOk = await applyRateLimit(req, res, RATE_PUBLIC)
     if (!rlOk) return
     const items = await listForTenant(session.tenantId)
     return res.status(200).json({ ok: true, items })
