@@ -309,6 +309,7 @@ export interface VisaKompassBriefing {
     vnSpecificNotes?: string[]
     originalMessage?: string
     vcJwt?: string
+    preUploadedDocs?: { url: string; filename: string; mime: string; size: number }[]
   }
 }
 

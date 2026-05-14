@@ -9,7 +9,7 @@
  */
 
 import { useState } from 'react'
-import { CheckCircle2, ArrowRight, Trash2, FileText, Globe2 } from 'lucide-react'
+import { CheckCircle2, ArrowRight, Trash2, FileText, Globe2, Paperclip } from 'lucide-react'
 import {
   type VisaKompassBriefing,
   markVisaKompassBriefingReviewed,
@@ -185,6 +185,37 @@ export function VisaKompassBriefingCard({ briefing: b, onChanged }: Props) {
         </div>
       )}
 
+      {b.intake.preUploadedDocs && b.intake.preUploadedDocs.length > 0 && (
+        <div className="rounded-lg border border-emerald-300 bg-emerald-50 p-3 text-sm">
+          <div className="text-xs text-emerald-800 uppercase tracking-wider mb-2 flex items-center gap-2">
+            <Paperclip className="w-3 h-3" />
+            Mandantin hat {b.intake.preUploadedDocs.length} Dokument
+            {b.intake.preUploadedDocs.length === 1 ? '' : 'e'} vorab freigegeben
+          </div>
+          <ul className="space-y-1.5">
+            {b.intake.preUploadedDocs.map((d, i) => (
+              <li key={i} className="flex items-baseline justify-between gap-2">
+                <a
+                  href={d.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-emerald-800 hover:text-emerald-900 underline underline-offset-2 truncate"
+                >
+                  {d.filename}
+                </a>
+                <span className="text-xs text-stone-500 shrink-0">
+                  {(d.size / 1024).toFixed(0)} KB · {d.mime.split('/')[1] ?? d.mime}
+                </span>
+              </li>
+            ))}
+          </ul>
+          <p className="text-xs text-stone-600 mt-2">
+            Werden bei „In Akte umwandeln" als Pre-Upload-Hinweis im Akten-Audit
+            vermerkt. Du kannst sie einzeln in die Akte annehmen oder ignorieren.
+          </p>
+        </div>
+      )}
+
       {checklist.length > 0 && (
         <details className="text-sm">
           <summary className="cursor-pointer text-stone-700 hover:text-emerald-700 flex items-center gap-2">
@@ -330,6 +361,13 @@ function buildResearchSummary(b: VisaKompassBriefing): string {
   }
   if (b.intake.replyDraft) {
     lines.push(`== AI-Antwort-Entwurf (${b.client.language.toUpperCase()}) ==`, b.intake.replyDraft, '')
+  }
+  if (b.intake.preUploadedDocs && b.intake.preUploadedDocs.length > 0) {
+    lines.push('== Pre-Uploads (von Mandantin freigegeben) ==')
+    for (const d of b.intake.preUploadedDocs) {
+      lines.push(`☐ ${d.filename} (${(d.size / 1024).toFixed(0)} KB, ${d.mime}) — ${d.url}`)
+    }
+    lines.push('')
   }
   lines.push(`Empfangen via visa-kompass am ${new Date(b.receivedAt).toLocaleString('de-DE')}.`)
   return lines.join('\n')
