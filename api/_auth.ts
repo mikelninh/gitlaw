@@ -130,6 +130,18 @@ export function extractBearerToken(req: VercelRequest): string | null {
   return token.trim()
 }
 
+/**
+ * HMAC-peppered hash of an email address — for rate-limit keys, user-lookup
+ * keys, and audit logs. Uses GITLAW_SESSION_SECRET as pepper so the hash
+ * cannot be brute-forced by email enumeration even if Redis is leaked.
+ *
+ * Input is normalized to lowercase + trimmed before hashing.
+ */
+export function hashEmail(email: string): string {
+  const normalized = email.toLowerCase().trim()
+  return crypto.createHmac('sha256', secret()).update(normalized).digest('hex')
+}
+
 export function requireProSession(
   req: VercelRequest,
   res: VercelResponse,

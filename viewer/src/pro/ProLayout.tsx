@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react'
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom'
 import { Scale, FolderOpen, FileText, Search, Settings, Shield, LogOut, ExternalLink, Inbox, Cloud, RefreshCw, AlertCircle, CheckCircle2, Upload, Wand2 } from 'lucide-react'
 import { clearStoredInvite, getAccessContext, getSettings, isSessionExpired, listIntakes, touchSessionActivity } from './store'
-import { hasRole, hasScope, roleLabel } from './access'
+import { hasScope, roleLabel } from './access'
 import {
   getSyncState,
   isCloudSyncEnabled,
@@ -19,6 +19,7 @@ import {
 } from './sync'
 import { eraseAllProData } from './store'
 import { loadDemoData, getPreset } from './demo-data'
+import HealthBadge from './HealthBadge'
 
 type NavItem = {
   to: string
@@ -47,7 +48,6 @@ const NAV_GROUPS: { title: string; items: NavItem[] }[] = [
     items: [
       { to: '/pro/audit', icon: Shield, label: 'Audit', badge: 0, access: () => hasScope('audit.view') },
       { to: '/pro/import', icon: Upload, label: 'Import', badge: 0, access: () => hasScope('case.create') },
-      { to: '/pro/einstellungen', icon: Settings, label: 'Einstellungen', badge: 0, access: () => hasRole('owner') },
     ],
   },
 ]
@@ -118,6 +118,18 @@ export default function ProLayout() {
     }
   }, [])
 
+  // Live-Refresh: alle 20s wenn Tab sichtbar — damit Mandant-Uploads
+  // ohne manuellen Reload bei Bao auftauchen.
+  useEffect(() => {
+    if (!isCloudSyncEnabled()) return
+    const id = window.setInterval(() => {
+      if (document.visibilityState === 'visible') {
+        pullFromCloud().catch(() => { /* non-blocking */ })
+      }
+    }, 20000)
+    return () => window.clearInterval(id)
+  }, [])
+
   function handleLogout() {
     if (!confirm('Beta-Zugang dieses Browsers aufheben?')) return
     clearStoredInvite()
@@ -138,6 +150,7 @@ export default function ProLayout() {
             </span>
           </Link>
           <div className="flex items-center gap-3 text-sm">
+            <HealthBadge />
             <SyncIndicator state={syncState} />
             <Link
               to="/"
@@ -155,6 +168,13 @@ export default function ProLayout() {
                 {roleLabel(access.role)}
               </span>
             )}
+            <Link
+              to="/pro/einstellungen"
+              className="text-[var(--color-ink-muted)] hover:text-[var(--color-ink)]"
+              title="Einstellungen"
+            >
+              <Settings className="w-4 h-4" />
+            </Link>
             <button
               onClick={handleLogout}
               className="text-[var(--color-ink-muted)] hover:text-[var(--color-ink)]"

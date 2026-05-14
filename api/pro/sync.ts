@@ -2,6 +2,7 @@ import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { Redis } from '@upstash/redis'
 import { requireProSession } from '../_auth'
 import { applyCors, applySecurityHeaders } from '../_http'
+import { applyRateLimit, RATE_WRITE, ipUserKey } from '../_ratelimit'
 
 const redis = Redis.fromEnv()
 const MAX_SNAPSHOT_SIZE = 900_000
@@ -15,6 +16,12 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
   const session = requireProSession(req, res, 'assistenz')
   if (!session) return
+
+  // Sync-Writes rate-limitieren (RATE_WRITE: 30 req/min/IP+user)
+  if (req.method === 'PUT') {
+    const rlOk = await applyRateLimit(req, res, RATE_WRITE, ipUserKey(req, session.userId))
+    if (!rlOk) return
+  }
 
   if (!process.env.KV_REST_API_URL || !process.env.KV_REST_API_TOKEN) {
     return res.status(503).json({

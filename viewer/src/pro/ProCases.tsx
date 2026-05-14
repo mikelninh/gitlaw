@@ -5,11 +5,12 @@
  * and per-case ZIP bundle export (BHV-tauglich).
  */
 
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import {
   ArrowLeft, Plus, FolderOpen, Archive, FileText, Search as SearchIcon,
-  Shield, Package, Clock, AlertCircle, Share2, Copy, Check,
+  Shield, Package, Clock, AlertCircle, Share2, Copy, Check, RefreshCw, RotateCw,
+  Eye, Trash2, X, AlertTriangle,
 } from 'lucide-react'
 import AkteSummaryDrawer from './AkteSummaryDrawer'
 import Fuse from 'fuse.js'
@@ -37,19 +38,27 @@ import {
   updateCase,
   updateCaseTask,
 } from './store'
-import { downloadServerDocument, fetchServerDocumentBlob, runRemoteDocumentProcessing, uploadDocumentToVault } from './pro-api'
+import { deleteServerDocument, downloadServerDocument, fetchServerDocumentBlob, runRemoteDocumentProcessing, uploadDocumentToVault, viewServerDocument } from './pro-api'
 import { ocrScanPdf } from './pdf-render'
 import { exportAuditPDF } from './pdf'
 import { exportCaseBundle } from './zip'
 import { berechneFristAusPreset, FRIST_PRESETS, presetToBezeichnung } from './frist-calc'
 import { getCaseRecommendations } from './recommendations'
 import QrCard from './QrCard'
-import CaseChecklist from './CaseChecklist'
 import MandatsartSelector from './MandatsartSelector'
 import BehoerdenSelector from './BehoerdenSelector'
 import StatusDropdown from './StatusDropdown'
 import SachstandsGenerator from './SachstandsGenerator'
-import type { CaseTask, CaseTaskType, MandantCase } from './types'
+import MissingDocsReminder from './MissingDocsReminder'
+import MandantInviteDrawer from './MandantInviteDrawer'
+import AdvowareImportDrawer from './AdvowareImportDrawer'
+import AdvowareExportButton from './AdvowareExportButton'
+import { getStoredSessionToken } from './store'
+import type { CaseDocument, CaseTask, CaseTaskType, MandantCase } from './types'
+import DocumentReviewPanel from './DocumentReviewPanel'
+import { getChecklistById } from './mandatsart-checklists'
+import ProChecklistPanel from './ProChecklistPanel'
+import { computeItemStatus } from './checklist-status'
 
 /** Returns days until the ISO date, negative if past. */
 function daysUntil(iso: string): number {
@@ -174,6 +183,7 @@ export function ProCasesList() {
   const navigate = useNavigate()
   const [search] = useSearchParams()
   const [showCreate, setShowCreate] = useState(search.get('new') === '1')
+  const [showImport, setShowImport] = useState(false)
   const [tick, setTick] = useState(0)
   const [query, setQuery] = useState('')
   const [statusFilter, setStatusFilter] = useState<'aktiv' | 'archiviert' | 'alle'>('aktiv')
@@ -203,20 +213,37 @@ export function ProCasesList() {
 
   return (
     <div className="space-y-6">
-      <header className="flex items-baseline justify-between gap-3">
+      <header className="flex items-baseline justify-between gap-3 flex-wrap">
         <div>
           <h1 className="h-page">Mandant:innen-Akten</h1>
           <p className="text-sm text-[var(--color-ink-soft)]">
             Eine Akte gruppiert Recherchen, Schreiben und ein Audit-Log pro Fall.
           </p>
         </div>
-        <button
-          onClick={() => setShowCreate(s => !s)}
-          className="inline-flex items-center gap-2 bg-[var(--color-ink)] text-white rounded-lg px-4 py-2 hover:opacity-90"
-        >
-          <Plus className="w-4 h-4" /> Neue Akte
-        </button>
+        <div className="flex items-center gap-2 flex-wrap">
+          <AdvowareExportButton cases={cases} />
+          <button
+            onClick={() => setShowImport(true)}
+            className="inline-flex items-center gap-2 px-3 py-1.5 rounded-md border border-gray-300 bg-white text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+            title="Advoware-CSV importieren und Akten synchronisieren"
+          >
+            <RefreshCw className="w-4 h-4" /> Sync mit Advoware
+          </button>
+          <button
+            onClick={() => setShowCreate(s => !s)}
+            className="inline-flex items-center gap-2 bg-[var(--color-ink)] text-white rounded-lg px-4 py-2 hover:opacity-90"
+          >
+            <Plus className="w-4 h-4" /> Neue Akte
+          </button>
+        </div>
       </header>
+
+      {showImport && (
+        <AdvowareImportDrawer
+          onClose={() => setShowImport(false)}
+          onDone={() => { setTick(t => t + 1); setShowImport(false) }}
+        />
+      )}
 
       {showCreate && (
         <CreateForm
@@ -484,8 +511,20 @@ export function ProCaseDetail() {
   const [docLanguage, setDocLanguage] = useState<'de' | 'vi' | 'en' | 'tr' | 'ar' | 'other'>('de')
   const [selectedDocumentId, setSelectedDocumentId] = useState<string | null>(null)
   const [ocrProgress, setOcrProgress] = useState<{ page: number; total: number; stage: string } | null>(null)
+  const [lastSyncAt, setLastSyncAt] = useState<Date | null>(null)
+  const [syncing, setSyncing] = useState(false)
   const [showSachstand, setShowSachstand] = useState(false)
+  const [showReminder, setShowReminder] = useState(false)
   const [showAkteSummary, setShowAkteSummary] = useState(false)
+  const [showMandantInvite, setShowMandantInvite] = useState(false)
+  // Doc-Liste: Filter, Paginierung, Lightbox, Delete-Dialog
+  const [docFilter, setDocFilter] = useState<'alle' | 'mandant' | 'anwalt' | 'vollmacht' | 'review'>('alle')
+  const [docVisibleCount, setDocVisibleCount] = useState(20)
+  const [lightboxUrl, setLightboxUrl] = useState<string | null>(null)
+  const [deletingDocId, setDeletingDocId] = useState<string | null>(null)
+  const [deleteConfirmOpen, setDeleteConfirmOpen] = useState(false)
+  const [staleDocError, setStaleDocError] = useState<string | null>(null)
+  const docsRef = useRef<HTMLElement | null>(null)
   const [newCaseTaskTitle, setNewCaseTaskTitle] = useState('')
   const [newCaseTaskType, setNewCaseTaskType] = useState<CaseTaskType>('sonstiges')
   const [newCaseTaskDue, setNewCaseTaskDue] = useState('')
@@ -497,6 +536,57 @@ export function ProCaseDetail() {
   const intakes = useMemo(() => (id ? listIntakes({ caseId: id }) : []), [id, tick])
 
   useEffect(() => { /* re-render trigger placeholder */ }, [tick])
+
+  // cancelledRef allows the hoisted refreshDocuments to skip stale responses.
+  const cancelledRef = useRef(false)
+
+  // Mandant-Upload-Sync: Postgres ist Source-of-Truth. Wir OVERWRITEN die
+  // documents-Liste komplett (statt zu mergen) damit Bao keine stale localStorage-
+  // Docs sieht die backend-seitig schon gelöscht oder verschoben sind.
+  // Auch checklist_states wird vom Backend übernommen.
+  const refreshDocuments = useCallback(async () => {
+    if (!id) return
+    try {
+      setSyncing(true)
+      const token = getStoredSessionToken()
+      if (!token) return
+      const resp = await fetch(`/api/pro/entities?collection=cases&id=${encodeURIComponent(id)}`, {
+        headers: { Authorization: `Bearer ${token}` },
+      })
+      if (!resp.ok || cancelledRef.current) return
+      const data = await resp.json()
+      const remoteDocuments: unknown[] | undefined = data?.item?.documents
+      const remoteChecklistStates = data?.item?.checklist_states ?? data?.item?.checklistStates
+      if (!Array.isArray(remoteDocuments) || cancelledRef.current) return
+      const local = getCase(id)
+      if (!local || cancelledRef.current) return
+      // OVERWRITE — Backend ist authoritative für Documents + checklistStates
+      const patch: Partial<typeof local> = {
+        documents: remoteDocuments as typeof local.documents,
+      }
+      if (remoteChecklistStates && typeof remoteChecklistStates === 'object') {
+        patch.checklistStates = remoteChecklistStates as typeof local.checklistStates
+      }
+      updateCase(id, patch)
+      setTick((t) => t + 1)
+      setLastSyncAt(new Date())
+    } catch {
+      // non-blocking — Netzwerkfehler still ignorieren
+    } finally {
+      setSyncing(false)
+    }
+  }, [id])
+
+  useEffect(() => {
+    if (!id) return
+    cancelledRef.current = false
+    void refreshDocuments()
+    const timer = setInterval(refreshDocuments, 30_000)
+    return () => {
+      cancelledRef.current = true
+      clearInterval(timer)
+    }
+  }, [id, refreshDocuments])
 
   if (!c) {
     return (
@@ -513,6 +603,13 @@ export function ProCaseDetail() {
     if (!c) return
     archiveCase(c.id)
     setConfirmingArchive(false)
+    setTick(t => t + 1)
+  }
+
+  function handleDocUpdate(updatedDoc: CaseDocument) {
+    if (!c) return
+    const nextDocs = (c.documents ?? []).map(d => d.id === updatedDoc.id ? { ...d, ...updatedDoc } : d)
+    updateCase(c.id, { documents: nextDocs })
     setTick(t => t + 1)
   }
 
@@ -542,6 +639,112 @@ export function ProCaseDetail() {
   const frist = c.fristDatum ? daysUntil(c.fristDatum) : null
   const selectedDocument = (c.documents || []).find(d => d.id === selectedDocumentId) || (c.documents || [])[0] || null
   const recommendations = getCaseRecommendations(c).slice(0, 3)
+
+  async function onViewDocument(d: CaseDocument) {
+    setStaleDocError(null)
+    if (!d.serverDocumentId) {
+      // Local-inline image already has a dataUrl
+      if (d.dataUrl && d.mimeType.startsWith('image/')) {
+        setLightboxUrl(d.dataUrl)
+      } else {
+        setStaleDocError(d.id)
+      }
+      return
+    }
+    try {
+      const result = await viewServerDocument(d.serverDocumentId, d.mimeType)
+      if (result.mode === 'image') {
+        setLightboxUrl(result.objectUrl)
+      }
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : ''
+      if (msg.includes('404') || msg.includes('Download failed')) {
+        setStaleDocError(d.id)
+      } else {
+        alert('Datei konnte nicht geladen werden: ' + (msg || 'unbekannter Fehler'))
+      }
+    }
+  }
+
+  async function onDeleteDocument(d: CaseDocument) {
+    if (!c) return
+    if (d.storageMode === 'local_inline' && !d.serverDocumentId) {
+      // Nur lokaler Eintrag — direkt aus State entfernen
+      const nextDocs = (c.documents ?? []).filter(x => x.id !== d.id)
+      updateCase(c.id, { documents: nextDocs })
+      setTick(t => t + 1)
+      setDeletingDocId(null)
+      setDeleteConfirmOpen(false)
+      return
+    }
+    if (!d.serverDocumentId) {
+      alert('Dokument hat keine Server-ID — lokal entfernt.')
+      const nextDocs = (c.documents ?? []).filter(x => x.id !== d.id)
+      updateCase(c.id, { documents: nextDocs })
+      setTick(t => t + 1)
+      setDeletingDocId(null)
+      setDeleteConfirmOpen(false)
+      return
+    }
+    try {
+      const result = await deleteServerDocument(d.serverDocumentId)
+      if (result.alreadyGone) {
+        // Serverseitig bereits weg — lokalen Eintrag trotzdem entfernen
+        const nextDocs = (c.documents ?? []).filter(x => x.id !== d.id)
+        updateCase(c.id, { documents: nextDocs })
+        setTick(t => t + 1)
+      } else {
+        const nextDocs = (c.documents ?? []).filter(x => x.id !== d.id)
+        updateCase(c.id, { documents: nextDocs })
+        setTick(t => t + 1)
+      }
+    } catch (err) {
+      alert('Loeschen fehlgeschlagen: ' + (err instanceof Error ? err.message : 'unbekannter Fehler'))
+    } finally {
+      setDeletingDocId(null)
+      setDeleteConfirmOpen(false)
+    }
+  }
+
+  // Quick-Stats: Checklisten-Übersicht für Quick-Stats-Leiste
+  const checklistForStats = c.mandatsartId ? getChecklistById(c.mandatsartId) : null
+  const requiredItems = checklistForStats?.requiredDocuments.filter(i => i.level === 'required') ?? []
+  const itemStatuses = requiredItems.map(item => computeItemStatus(c, item))
+  const statsApproved = itemStatuses.filter(s => s === 'approved').length
+  const statsPending = itemStatuses.filter(s => s === 'pending').length
+  const nowMs = Date.now()
+  const statsNewToday = (c.documents ?? []).filter(d =>
+    d.uploadedBy === 'mandant' &&
+    !d.deletedAt &&
+    d.uploadedAt &&
+    nowMs - new Date(d.uploadedAt).getTime() < 24 * 3600 * 1000
+  ).length
+
+  // Gefilterte + sortierte Doc-Liste
+  const allDocs = (c.documents ?? []).slice().sort((a, b) => {
+    const ta = a.uploadedAt ? new Date(a.uploadedAt).getTime() : 0
+    const tb = b.uploadedAt ? new Date(b.uploadedAt).getTime() : 0
+    return tb - ta
+  })
+  const filteredDocs = allDocs.filter(d => {
+    if (docFilter === 'mandant') return d.uploadedBy === 'mandant'
+    if (docFilter === 'anwalt') return d.uploadedBy !== 'mandant' && d.kind !== 'vollmacht'
+    if (docFilter === 'vollmacht') return d.kind === 'vollmacht'
+    if (docFilter === 'review') return d.reviewStatus === 'pending' && d.uploadedBy === 'mandant'
+    return true
+  })
+  const visibleDocs = filteredDocs.slice(0, docVisibleCount)
+
+  // Duplikat-Erkennung: gleicher originalName (case-insensitive)
+  const nameCounts = new Map<string, number>()
+  for (const d of allDocs) {
+    const key = d.originalName.toLowerCase().trim()
+    nameCounts.set(key, (nameCounts.get(key) ?? 0) + 1)
+  }
+  const duplicateGroupCount = Array.from(nameCounts.values()).filter(n => n > 1).length
+
+  // Doc, das gerade bestätigt gelöscht werden soll
+  const docToDelete = deletingDocId ? (c.documents ?? []).find(d => d.id === deletingDocId) : null
 
   function slugPart(input: string): string {
     return input.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '').slice(0, 24) || 'doc'
@@ -635,6 +838,13 @@ export function ProCaseDetail() {
             <Share2 className="w-4 h-4" /> Fragebogen teilen
           </button>
           <button
+            onClick={() => setShowMandantInvite(true)}
+            className="inline-flex items-center gap-1.5 text-sm bg-white border border-[var(--color-border)] rounded-lg px-3 py-1.5 hover:border-[var(--color-gold)]"
+            title="Mandant einladen — Token-Link fuer das Mandant-Portal"
+          >
+            <Share2 className="w-4 h-4" /> Mandant einladen
+          </button>
+          <button
             onClick={onExportZip}
             disabled={exportingZip}
             className="inline-flex items-center gap-1.5 text-sm bg-[var(--color-ink)] text-white rounded-lg px-3 py-1.5 hover:opacity-90 disabled:opacity-50"
@@ -674,6 +884,46 @@ export function ProCaseDetail() {
         </div>
       </header>
 
+      {/* Quick-Stats-Leiste */}
+      {requiredItems.length > 0 && (
+        <div className="flex items-center gap-3 flex-wrap text-sm bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded-xl px-4 py-2.5">
+          <span className="text-[var(--color-ink-muted)]">
+            <span className="font-medium text-[var(--color-ink)]">{statsApproved} von {requiredItems.length}</span> Pflichtdokumenten bestätigt
+          </span>
+          {statsPending > 0 && (
+            <>
+              <span className="text-[var(--color-border)]">|</span>
+              <button
+                onClick={() => {
+                  setDocFilter('review')
+                  setDocVisibleCount(20)
+                  docsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+                }}
+                className="inline-flex items-center gap-1 text-amber-700 font-medium hover:underline"
+              >
+                <AlertTriangle className="w-3.5 h-3.5" />
+                {statsPending} wartet auf Prüfung
+              </button>
+            </>
+          )}
+          {statsNewToday > 0 && (
+            <>
+              <span className="text-[var(--color-border)]">|</span>
+              <button
+                onClick={() => {
+                  setDocFilter('mandant')
+                  setDocVisibleCount(20)
+                  docsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+                }}
+                className="inline-flex items-center gap-1 text-blue-700 font-medium hover:underline"
+              >
+                {statsNewToday} neue Uploads heute
+              </button>
+            </>
+          )}
+        </div>
+      )}
+
       {/* Mandatsart-Auswahl + Status */}
       <div className="bg-white border border-[var(--color-border)] rounded-xl px-4 py-3 space-y-3">
         <MandatsartSelector
@@ -708,6 +958,12 @@ export function ProCaseDetail() {
             Sachstand-Antwort generieren
           </button>
           <button
+            onClick={() => setShowReminder(true)}
+            className="inline-flex items-center gap-1.5 text-sm bg-white border border-[var(--color-border)] rounded-lg px-3 py-1.5 hover:border-[var(--color-gold)] transition-colors"
+          >
+            Erinnerung erstellen
+          </button>
+          <button
             onClick={() => setShowAkteSummary(true)}
             className="inline-flex items-center gap-1.5 text-sm bg-white border border-[var(--color-border)] rounded-lg px-3 py-1.5 hover:border-[var(--color-gold)] transition-colors"
           >
@@ -721,6 +977,14 @@ export function ProCaseDetail() {
         <SachstandsGenerator
           case={c}
           onClose={() => setShowSachstand(false)}
+        />
+      )}
+
+      {/* Missing-Docs-Reminder Drawer */}
+      {showReminder && (
+        <MissingDocsReminder
+          case={c}
+          onClose={() => setShowReminder(false)}
         />
       )}
 
@@ -746,6 +1010,15 @@ export function ProCaseDetail() {
             })
           }}
           onClose={() => setShowIntakeShare(false)}
+        />
+      )}
+
+      {showMandantInvite && c && (
+        <MandantInviteDrawer
+          caseId={c.id}
+          mandantName={c.mandantName}
+          sessionToken={getStoredSessionToken()}
+          onClose={() => setShowMandantInvite(false)}
         />
       )}
 
@@ -781,7 +1054,7 @@ export function ProCaseDetail() {
             <div>
               <h2 className="font-semibold">Naechster sinnvoller Schritt</h2>
               <p className="text-sm text-[var(--color-ink-soft)]">
-                Transparent aus Fallstatus, Dokumenten, OCR, Uebersetzung, Recherche und Entwurf abgeleitet.
+                Abgeleitet aus dem aktuellen Fall-Status.
               </p>
             </div>
             <span className="text-[10px] uppercase px-1.5 py-0.5 rounded border bg-[var(--color-bg-alt)] border-[var(--color-border)] text-[var(--color-ink-muted)]">
@@ -815,17 +1088,14 @@ export function ProCaseDetail() {
         </section>
       )}
 
-      {/* Unterlagen-Checkliste */}
-      <section className="bg-white border border-[var(--color-border)] rounded-2xl p-4">
-        <h2 className="font-semibold mb-3">Unterlagen-Checkliste</h2>
-        <CaseChecklist
-          case={c}
-          onChange={updated => {
-            updateCase(c.id, { checklistStates: updated.checklistStates })
-            setTick(t => t + 1)
-          }}
-        />
-      </section>
+      {/* Unterlagen-Checkliste mit Per-Item-Upload (ersetzt alte CaseChecklist) */}
+      <ProChecklistPanel
+        case={c}
+        onUploaded={() => {
+          setTick(t => t + 1)
+          void refreshDocuments()
+        }}
+      />
 
       {/* Modul D: Aufgaben pro Akte */}
       <section>
@@ -1046,10 +1316,111 @@ export function ProCaseDetail() {
         </section>
       )}
 
-      <section>
-        <h2 className="font-semibold mb-2">Dokumente ({c.documents?.length || 0})</h2>
+      {/* Lightbox für Server-Vault-Bilder */}
+      {lightboxUrl && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm p-4"
+          onClick={() => {
+            URL.revokeObjectURL(lightboxUrl)
+            setLightboxUrl(null)
+          }}
+        >
+          <button
+            className="absolute top-4 right-4 text-white hover:opacity-80"
+            onClick={() => {
+              URL.revokeObjectURL(lightboxUrl)
+              setLightboxUrl(null)
+            }}
+            title="Schliessen"
+          >
+            <X className="w-6 h-6" />
+          </button>
+          <img
+            src={lightboxUrl}
+            alt="Dokument-Vorschau"
+            className="max-w-full max-h-full object-contain rounded"
+            onClick={e => e.stopPropagation()}
+          />
+        </div>
+      )}
+
+      {/* Delete-Bestätigungs-Dialog */}
+      {deleteConfirmOpen && docToDelete && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm p-4"
+          onClick={() => { setDeleteConfirmOpen(false); setDeletingDocId(null) }}
+        >
+          <div
+            className="bg-white rounded-2xl border border-[var(--color-border)] max-w-md w-full p-6 space-y-4"
+            onClick={e => e.stopPropagation()}
+          >
+            <h2 className="font-semibold text-[var(--color-danger)]">Dokument loeschen?</h2>
+            {docToDelete.uploadedBy === 'mandant' ? (
+              <p className="text-sm text-[var(--color-ink-soft)]">
+                Diesen Mandanten-Upload loeschen? <strong>{docToDelete.originalName}</strong> wird
+                fuer {c.mandantName} nicht mehr sichtbar sein.
+              </p>
+            ) : (
+              <p className="text-sm text-[var(--color-ink-soft)]">
+                <strong>{docToDelete.originalName}</strong> wirklich loeschen?
+              </p>
+            )}
+            <div className="flex gap-3">
+              <button
+                onClick={() => { setDeleteConfirmOpen(false); setDeletingDocId(null) }}
+                className="flex-1 text-sm border border-[var(--color-border)] rounded-lg px-3 py-2 hover:bg-[var(--color-bg-alt)]"
+              >
+                Abbrechen
+              </button>
+              <button
+                onClick={() => { void onDeleteDocument(docToDelete) }}
+                className="flex-1 text-sm bg-red-600 text-white rounded-lg px-3 py-2 hover:bg-red-700"
+              >
+                Loeschen
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      <section ref={docsRef}>
+        <div className="flex items-center gap-3 mb-2 flex-wrap">
+          <h2 className="font-semibold">Dokumente ({allDocs.length})</h2>
+          <div className="flex flex-col items-start gap-0.5">
+            <button
+              onClick={() => { void refreshDocuments() }}
+              disabled={syncing}
+              title="Akte mit Backend synchronisieren"
+              className="inline-flex items-center gap-1.5 text-xs text-[var(--color-ink-muted)] hover:text-[var(--color-ink)] disabled:opacity-50 transition-colors"
+            >
+              <RotateCw className={`w-3.5 h-3.5 ${syncing ? 'animate-spin' : ''}`} />
+              Synchronisieren
+            </button>
+            {lastSyncAt && (
+              <span className="text-[10px] text-[var(--color-ink-muted)] pl-5">
+                Zuletzt synchronisiert: {lastSyncAt.toLocaleTimeString('de-DE')}
+              </span>
+            )}
+          </div>
+          {(() => {
+            const vollmacht = allDocs.find(d => d.kind === 'vollmacht')
+            if (!vollmacht) return null
+            const signedDate = new Date(vollmacht.uploadedAt).toLocaleDateString('de-DE')
+            return (
+              <button
+                onClick={() => vollmacht.serverDocumentId && setSelectedDocumentId(vollmacht.id)}
+                className="inline-flex items-center gap-1.5 bg-green-50 border border-green-200 text-green-800 text-xs rounded-lg px-2.5 py-1 hover:bg-green-100 transition-colors"
+                title="Klicken zum Anzeigen der Unterschrift"
+              >
+                <Check className="w-3.5 h-3.5" />
+                Vollmacht digital signiert am {signedDate}
+              </button>
+            )
+          })()}
+        </div>
         <div className="bg-white border border-[var(--color-border)] rounded-2xl p-4 space-y-4">
-          <div className="flex gap-2 flex-wrap">
+          {/* Upload-Controls + Filter */}
+          <div className="flex gap-2 flex-wrap items-center">
             <select
               value={docCategory}
               onChange={e => setDocCategory(e.target.value as typeof docCategory)}
@@ -1079,26 +1450,160 @@ export function ProCaseDetail() {
             </label>
           </div>
 
-          {!c.documents || c.documents.length === 0 ? (
-            <p className="text-sm text-[var(--color-ink-muted)]">Noch keine lokalen Beta-Dokumente in dieser Akte.</p>
+          {/* Filter-Toggle */}
+          {allDocs.length > 0 && (
+            <div className="flex items-center gap-1 text-xs bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded-lg p-1 flex-wrap">
+              {([
+                ['alle', 'Alle'],
+                ['mandant', 'Mandant-Uploads'],
+                ['anwalt', 'Anwalt-Uploads'],
+                ['vollmacht', 'Vollmacht'],
+                ['review', 'Wartet auf Review'],
+              ] as const).map(([val, label]) => (
+                <button
+                  key={val}
+                  onClick={() => { setDocFilter(val); setDocVisibleCount(20) }}
+                  className={`px-2 py-1 rounded ${
+                    docFilter === val
+                      ? 'bg-[var(--color-ink)] text-white'
+                      : 'text-[var(--color-ink-muted)] hover:text-[var(--color-ink)]'
+                  }`}
+                >
+                  {label}
+                </button>
+              ))}
+            </div>
+          )}
+
+          {/* Duplikat-Banner */}
+          {duplicateGroupCount > 0 && (
+            <div className="rounded-lg border border-amber-200 bg-amber-50 px-3 py-2 text-sm text-amber-900">
+              {duplicateGroupCount} Duplikat{duplicateGroupCount > 1 ? 'e' : ''} erkannt — bitte alte Versionen manuell loeschen.
+            </div>
+          )}
+
+          {allDocs.length === 0 ? (
+            <p className="text-sm text-[var(--color-ink-muted)]">Noch keine Dokumente in dieser Akte.</p>
+          ) : filteredDocs.length === 0 ? (
+            <p className="text-sm text-[var(--color-ink-muted)]">Keine Dokumente fuer diesen Filter.</p>
           ) : (
             <div className="grid grid-cols-1 lg:grid-cols-[320px,1fr] gap-4">
-              <ul className="border border-[var(--color-border)] rounded-xl divide-y divide-[var(--color-border)]">
-                {c.documents.map(d => (
-                  <li key={d.id}>
-                    <button
-                      onClick={() => setSelectedDocumentId(d.id)}
-                      className={`w-full text-left px-3 py-2 hover:bg-[var(--color-bg-alt)] ${selectedDocument?.id === d.id ? 'bg-[var(--color-bg-alt)]' : ''}`}
-                    >
-                      <div className="font-mono text-xs text-[var(--color-gold)] truncate">{d.internalName}</div>
-                      <div className="text-sm truncate">{d.originalName}</div>
-                      <div className="text-[11px] text-[var(--color-ink-muted)] mt-1">
-                        {d.category || 'sonstiges'} · {d.languageHint || 'de'}
-                      </div>
-                    </button>
-                  </li>
-                ))}
-              </ul>
+              <div>
+                <ul className="border border-[var(--color-border)] rounded-xl divide-y divide-[var(--color-border)]">
+                  {visibleDocs.map(d => {
+                    const checklistLabel = c.mandatsartId && d.checklistItemId
+                      ? getChecklistById(c.mandatsartId)?.requiredDocuments.find(i => i.id === d.checklistItemId)?.label
+                      : undefined
+                    const uploadedAtDate = d.uploadedAt ? new Date(d.uploadedAt) : null
+                    const uploadDateTime = uploadedAtDate
+                      ? uploadedAtDate.toLocaleDateString('de-DE', {
+                          day: '2-digit', month: '2-digit', year: 'numeric',
+                          hour: '2-digit', minute: '2-digit',
+                          timeZone: 'Europe/Berlin',
+                        })
+                      : '—'
+                    const isNew = uploadedAtDate
+                      ? d.uploadedBy === 'mandant' && (nowMs - uploadedAtDate.getTime() < 24 * 3600 * 1000)
+                      : false
+                    const uploaderBadge = d.uploadedBy === 'mandant' ? 'Mandant'
+                      : d.uploadedBy ? 'Anwalt' : null
+                    const isVollmacht = d.kind === 'vollmacht'
+                    const isRejected = d.reviewStatus === 'rejected'
+                    const isStale = staleDocError === d.id
+                    return (
+                      <li key={d.id} className={isRejected ? 'bg-red-50' : ''}>
+                        <button
+                          onClick={() => setSelectedDocumentId(d.id)}
+                          className={`w-full text-left px-3 py-2 hover:bg-[var(--color-bg-alt)] ${selectedDocument?.id === d.id ? 'bg-[var(--color-bg-alt)]' : ''} ${isRejected ? 'opacity-70' : ''}`}
+                        >
+                          {checklistLabel ? (
+                            <>
+                              <div className="text-sm font-medium truncate">{checklistLabel}</div>
+                              <div className="text-[11px] text-[var(--color-ink-muted)] truncate mt-0.5">{d.originalName}</div>
+                            </>
+                          ) : (
+                            <div className="text-sm truncate">{d.originalName}</div>
+                          )}
+                          <div className="flex items-center gap-1.5 mt-1 flex-wrap">
+                            {isVollmacht && (
+                              <span className="text-[10px] bg-green-100 text-green-800 border border-green-200 px-1.5 py-0.5 rounded">
+                                Digital signiert
+                              </span>
+                            )}
+                            {isNew && (
+                              <span className="text-[10px] bg-blue-100 text-blue-800 border border-blue-200 px-1.5 py-0.5 rounded font-semibold">
+                                NEU
+                              </span>
+                            )}
+                            {isRejected && (
+                              <span className="text-[10px] bg-red-100 text-red-700 border border-red-200 px-1.5 py-0.5 rounded font-semibold">
+                                Abgelehnt
+                              </span>
+                            )}
+                            {uploaderBadge && (
+                              <span className={`text-[10px] px-1.5 py-0.5 rounded border ${
+                                d.uploadedBy === 'mandant'
+                                  ? 'bg-blue-50 text-blue-800 border-blue-200'
+                                  : 'bg-slate-50 text-slate-700 border-slate-200'
+                              }`}>
+                                {uploaderBadge}
+                              </span>
+                            )}
+                            <span className="text-[10px] text-[var(--color-ink-muted)]">{uploadDateTime}</span>
+                          </div>
+                        </button>
+                        {/* Stale-Doc-Banner */}
+                        {isStale && (
+                          <div className="mx-3 mb-1 rounded-lg border border-amber-200 bg-amber-50 px-3 py-2 text-xs text-amber-900 flex items-start gap-2">
+                            <AlertTriangle className="w-3.5 h-3.5 shrink-0 mt-0.5" />
+                            <span>
+                              Datei nicht mehr im Vault (älter als 30 Tage oder nicht migriert).
+                              Mandant muss neu hochladen — oder lokales Backup öffnen.
+                            </span>
+                          </div>
+                        )}
+                        {/* View + Delete Buttons */}
+                        <div className="px-3 pb-1 flex items-center gap-2">
+                          <button
+                            onClick={() => void onViewDocument(d)}
+                            title="Anzeigen"
+                            className={`inline-flex items-center gap-1 text-[11px] border rounded px-1.5 py-0.5 ${isStale ? 'text-[var(--color-ink-muted)] border-amber-200 bg-amber-50' : 'text-[var(--color-ink-muted)] hover:text-[var(--color-ink)] border-[var(--color-border)] hover:bg-[var(--color-bg-alt)]'}`}
+                          >
+                            <Eye className="w-3 h-3" /> Anzeigen
+                          </button>
+                          {isVollmacht ? (
+                            <span className="text-[10px] text-[var(--color-ink-muted)] italic">
+                              nicht loeschbar
+                            </span>
+                          ) : (
+                            <button
+                              onClick={() => {
+                                setDeletingDocId(d.id)
+                                setDeleteConfirmOpen(true)
+                              }}
+                              title={d.uploadedBy === 'mandant' ? 'Mandanten-Upload loeschen' : 'Loeschen'}
+                              className={`inline-flex items-center gap-1 text-[11px] border rounded px-1.5 py-0.5 hover:bg-red-50 hover:border-red-200 hover:text-red-700 ${isRejected ? 'text-red-700 border-red-300 bg-red-50' : 'text-[var(--color-ink-muted)] border-[var(--color-border)]'}`}
+                            >
+                              <Trash2 className="w-3 h-3" /> Loeschen
+                            </button>
+                          )}
+                        </div>
+                        <div className="px-3 pb-2">
+                          <DocumentReviewPanel document={d} onUpdate={handleDocUpdate} onReviewed={refreshDocuments} />
+                        </div>
+                      </li>
+                    )
+                  })}
+                </ul>
+                {filteredDocs.length > docVisibleCount && (
+                  <button
+                    onClick={() => setDocVisibleCount(n => n + 20)}
+                    className="mt-2 w-full text-center text-sm text-[var(--color-ink-muted)] hover:text-[var(--color-ink)] py-1.5"
+                  >
+                    Mehr laden ({filteredDocs.length - docVisibleCount} weitere)
+                  </button>
+                )}
+              </div>
 
               {selectedDocument && (
                 <div className="border border-[var(--color-border)] rounded-xl p-4 space-y-3">

@@ -25,9 +25,11 @@ import {
   touchSessionActivity,
   saveSettings,
 } from './store'
-import { setCloudSyncEnabled, pullFromCloud } from './sync'
+import { setCloudSyncEnabled, pullFromCloud, pushToCloud } from './sync'
 import { isDemoLoaded, loadDemoData, getPreset, DEMO_MARKER, refreshDemoActivity } from './demo-data'
 import { exchangeInviteForSession, resumeSession } from './pro-api'
+import type { SessionResponse } from './pro-api'
+import MagicLinkLogin from './MagicLinkLogin'
 
 interface Props {
   children: React.ReactNode
@@ -37,6 +39,7 @@ export default function ProAuth({ children }: Props) {
   const [unlocked, setUnlocked] = useState(false)
   const [token, setToken] = useState('')
   const [error, setError] = useState<string | null>(null)
+  const [showBetaToken, setShowBetaToken] = useState(false)
   const [searchParams, setSearchParams] = useSearchParams()
 
   async function bootstrapAccess(tokenRaw: string) {
@@ -67,35 +70,38 @@ export default function ProAuth({ children }: Props) {
     if (fromUrl && isInviteValid(fromUrl)) {
       setStoredInvite(fromUrl)
       bootstrapAccess(fromUrl)
-        .then(() => {
+        .then(async () => {
           log('login', 'via URL token')
+          // Cloud-Sync MUSS vor loadDemoData/createCase/updateCase aktiv sein,
+          // sonst landen frisch geseedete Demo-Akten nicht im Backend und der
+          // Mandanten-Link findet sie spaeter nicht in Redis.
+          setCloudSyncEnabled(true)
+
+          if (presetFromUrl && getPreset(presetFromUrl)) {
+            const currentPreset = localStorage.getItem(DEMO_MARKER)
+            if (!isDemoLoaded()) {
+              try { loadDemoData(presetFromUrl) }
+              catch (err) { console.warn('Preset auto-load failed', err) }
+            } else if (currentPreset === presetFromUrl) {
+              try {
+                const preset = getPreset(presetFromUrl)
+                if (preset) {
+                  saveSettings(preset.settings)
+                  refreshDemoActivity(presetFromUrl)
+                }
+              } catch (err) { console.warn('Preset refresh failed', err) }
+            } else if (currentPreset !== presetFromUrl) {
+              localStorage.setItem('gitlaw.pro.pendingPresetSwitch.v1', presetFromUrl)
+            }
+          }
+
+          // Erst pullen (was schon im Backend liegt mergen), dann pushen
+          // (lokale Demo-Akten ins Backend hochladen).
+          await pullFromCloud().catch(() => { /* non-blocking */ })
+          await pushToCloud().catch(() => { /* non-blocking */ })
           setUnlocked(true)
         })
         .catch(err => setError(err instanceof Error ? err.message : 'Login fehlgeschlagen'))
-
-      if (presetFromUrl && getPreset(presetFromUrl)) {
-        const currentPreset = localStorage.getItem(DEMO_MARKER)
-        if (!isDemoLoaded()) {
-          // First time — auto-load preset directly
-          try { loadDemoData(presetFromUrl) }
-          catch (err) { console.warn('Preset auto-load failed', err) }
-        } else if (currentPreset === presetFromUrl) {
-          // Selber Preset bereits geladen — Settings + Demo-Aktivität auffrischen,
-          // Akten-Inhalt unangetastet lassen. So bekommt Bao bei jedem /bao-Reload
-          // den aktuellen Namen + realistische „Diese Woche"-Zahlen.
-          try {
-            const preset = getPreset(presetFromUrl)
-            if (preset) {
-              saveSettings(preset.settings)
-              refreshDemoActivity(presetFromUrl)
-            }
-          } catch (err) { console.warn('Preset refresh failed', err) }
-        } else if (currentPreset !== presetFromUrl) {
-          // Another preset is loaded — defer to user. We'll show a switcher
-          // banner inside the Pro app via this stored „pending preset switch".
-          localStorage.setItem('gitlaw.pro.pendingPresetSwitch.v1', presetFromUrl)
-        }
-      }
 
       // Strip token + preset from URL so they're not shoulder-surfed / copied.
       const clean = new URLSearchParams(searchParams)
@@ -144,6 +150,20 @@ export default function ProAuth({ children }: Props) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
+  async function handleMagicLinkSuccess(session: SessionResponse) {
+    if (!session.token) {
+      setError('Session-Token fehlt. Bitte erneut versuchen.')
+      return
+    }
+    setStoredSessionToken(session.token)
+    setAccessContext(session.access)
+    touchSessionActivity()
+    log('login', 'via magic-link')
+    setCloudSyncEnabled(true)
+    await pullFromCloud().catch(() => { /* non-blocking */ })
+    setUnlocked(true)
+  }
+
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
     if (!isInviteValid(token)) {
@@ -154,6 +174,8 @@ export default function ProAuth({ children }: Props) {
       setStoredInvite(token)
       await bootstrapAccess(token)
       log('login', `via form`)
+      setCloudSyncEnabled(true)
+      pullFromCloud().catch(() => { /* non-blocking */ })
       setUnlocked(true)
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Login fehlgeschlagen')
@@ -171,32 +193,44 @@ export default function ProAuth({ children }: Props) {
         </div>
 
         <p className="text-sm text-[var(--color-ink-soft)] mb-6 leading-relaxed">
-          Geschlossene Beta für Anwält:innen und Kanzleien. Wenn du bereits
-          einen persönlichen Beta-Token hast, kannst du hier direkt rein.
-          Wenn nicht, ist der richtige nächste Schritt aktuell ein kurzer
-          Demo- oder Pilotkontakt.
+          Zugang für Anwält:innen und Kanzleien im Pilotprogramm.
+          Geben Sie Ihre E-Mail ein — wir schicken Ihnen einen Login-Link.
         </p>
 
-        <form onSubmit={handleSubmit} className="space-y-3">
-          <input
-            type="text"
-            value={token}
-            onChange={e => {
-              setToken(e.target.value)
-              setError(null)
-            }}
-            placeholder="BETA-…"
-            className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 font-mono uppercase tracking-wide focus:outline-none focus:border-[var(--color-gold)]"
-            autoFocus
-          />
-          {error && <p className="text-sm text-red-700">{error}</p>}
+        <MagicLinkLogin onSuccess={handleMagicLinkSuccess} />
+
+        {/* Beta-Token als sekundärer Weg (geschlossener Test) */}
+        <div className="mt-6 pt-4 border-t border-[var(--color-border)]">
           <button
-            type="submit"
-            className="w-full bg-[var(--color-ink)] text-white rounded-lg py-2 font-medium hover:opacity-90"
+            type="button"
+            onClick={() => setShowBetaToken(v => !v)}
+            className="text-xs text-[var(--color-ink-muted)] underline hover:text-[var(--color-ink)]"
           >
-            Freischalten
+            {showBetaToken ? 'Verbergen' : 'Beta-Token eingeben (geschlossener Test)'}
           </button>
-        </form>
+
+          {showBetaToken && (
+            <form onSubmit={handleSubmit} className="mt-3 space-y-2">
+              <input
+                type="text"
+                value={token}
+                onChange={e => {
+                  setToken(e.target.value)
+                  setError(null)
+                }}
+                placeholder="BETA-…"
+                className="w-full border border-[var(--color-border)] rounded-lg px-3 py-2 font-mono uppercase tracking-wide text-sm focus:outline-none focus:border-[var(--color-gold)]"
+              />
+              {error && <p className="text-sm text-red-700">{error}</p>}
+              <button
+                type="submit"
+                className="w-full bg-[var(--color-ink)] text-white rounded-lg py-2 text-sm font-medium hover:opacity-90"
+              >
+                Mit Beta-Token einloggen
+              </button>
+            </form>
+          )}
+        </div>
 
         <div className="mt-6 pt-6 border-t border-[var(--color-border)] text-xs text-[var(--color-ink-muted)] space-y-2">
           <p>

@@ -1,0 +1,16 @@
+{
+  "name": "gitlaw",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "migrate": "tsx scripts/migrate-redis-to-postgres.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4",
+    "@upstash/redis": "^1.37.0"
+  }
+}

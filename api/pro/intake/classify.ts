@@ -15,6 +15,7 @@ import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { Redis } from '@upstash/redis'
 import { requireProSession } from '../../_auth'
 import { applyCors, applySecurityHeaders } from '../../_http'
+import { chat } from '../../_llm'
 
 const redis = Redis.fromEnv()
 
@@ -55,23 +56,6 @@ function extractTextFromPdfBase64(base64: string): string {
   return pieces.join('\n').replace(/[ \t]+\n/g, '\n').replace(/\n{3,}/g, '\n\n').trim()
 }
 
-async function openAIChat(
-  body: Record<string, unknown>,
-): Promise<{ content: string; usage?: { prompt_tokens?: number; completion_tokens?: number; total_tokens?: number } }> {
-  const OPENAI_API_KEY = process.env.OPENAI_API_KEY
-  if (!OPENAI_API_KEY) throw new Error('OpenAI key not configured')
-  const response = await fetch('https://api.openai.com/v1/chat/completions', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${OPENAI_API_KEY}` },
-    body: JSON.stringify(body),
-  })
-  const data = await response.json()
-  const content = data.choices?.[0]?.message?.content
-  if (!response.ok || !content) {
-    throw new Error(data?.error?.message || `LLM error (HTTP ${response.status})`)
-  }
-  return { content: String(content).trim(), usage: data.usage }
-}
 
 async function runOcr(mimeType: string, base64: string): Promise<string> {
   if (mimeType.startsWith('text/')) {
@@ -86,11 +70,8 @@ async function runOcr(mimeType: string, base64: string): Promise<string> {
   }
   if (mimeType.startsWith('image/')) {
     const dataUrl = `data:${mimeType};base64,${base64}`
-    const { content } = await openAIChat({
-      model: 'gpt-4o-mini',
-      temperature: 0.1,
-      max_tokens: 1600,
-      messages: [
+    const { content } = await chat(
+      [
         {
           role: 'system',
           content:
@@ -104,7 +85,8 @@ async function runOcr(mimeType: string, base64: string): Promise<string> {
           ],
         },
       ],
-    })
+      { max_tokens: 1600, temperature: 0.1 },
+    )
     return content
   }
   return ''
@@ -246,16 +228,17 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     // the typical Brief/Bescheid header + body comfortably.
     const trimmed = ocrText.length > 6000 ? ocrText.slice(0, 6000) : ocrText
 
-    const { content } = await openAIChat({
-      model: 'gpt-4o-mini',
-      temperature: 0.1,
-      max_tokens: 600,
-      messages: [
+    const { content } = await chat(
+      [
         { role: 'system', content: CLASSIFY_SYSTEM_PROMPT },
         { role: 'user', content: `Dateiname (Hinweis, kann irreführend sein): ${payload.fileName || 'unbekannt'}\n\nOCR-Text:\n${trimmed}` },
       ],
-      response_format: { type: 'json_schema', json_schema: CLASSIFY_SCHEMA },
-    })
+      {
+        max_tokens: 600,
+        temperature: 0.1,
+        response_format: { type: 'json_schema', json_schema: CLASSIFY_SCHEMA },
+      },
+    )
 
     let classification: Record<string, unknown>
     try {

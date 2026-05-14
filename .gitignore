@@ -15,3 +15,4 @@ gitlaw_mcp/data/citation_graph.json
 
 # Private Pilot-Kommunikation — nicht für public repo
 private/
+.env*.local

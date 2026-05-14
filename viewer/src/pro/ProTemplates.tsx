@@ -38,6 +38,7 @@ import {
 } from './store'
 import { gerichtFuerPLZ, formatGerichtAdresse } from './gerichte'
 import type { CustomTemplate, GeneratedLetter } from './types'
+import DraftVerificationBadge from './DraftVerificationBadge'
 
 type PickedTemplate =
   | { kind: 'builtin'; t: LawyerTemplate }
@@ -877,6 +878,7 @@ export default function ProTemplates() {
           <pre className="text-xs leading-relaxed whitespace-pre-wrap font-sans bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded-lg p-3 max-h-[500px] overflow-y-auto">
             {finalBody}
           </pre>
+          <DraftVerificationBadge text={finalBody} />
           <div className="flex flex-wrap items-center gap-2 pt-2">
             <button onClick={onCopy} className="inline-flex items-center gap-1.5 text-sm bg-white border border-[var(--color-border)] rounded-lg px-3 py-1.5 hover:border-[var(--color-gold)]">
               <Copy className="w-4 h-4" /> {copyOk ? 'Kopiert!' : 'Text kopieren'}

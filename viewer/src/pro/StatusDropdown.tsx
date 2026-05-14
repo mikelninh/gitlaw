@@ -1,20 +1,34 @@
 /**
  * StatusDropdown — zeigt den aktuellen Status + Dropdown der erlaubten Folgezustände.
  * Deaktivierte Übergänge werden angezeigt, aber nicht klickbar.
+ * Schreibt bei jedem Wechsel einen Eintrag in case.statusHistory.
  * Modul B, Sprint 1.
  */
 
 import { useState } from 'react'
-import { ChevronDown } from 'lucide-react'
+import { ChevronDown, History } from 'lucide-react'
 import StatusBadge from './StatusBadge'
 import { CASE_STATUSES, canTransition, getStatusInfo, computeBehoerdenFrist, getAutoTasksForStatusChange } from './case-status'
 import type { CaseStatus } from './case-status'
-import type { MandantCase } from './types'
-import { createCaseTask } from './store'
+import type { MandantCase, StatusHistoryEntry } from './types'
+import { createCaseTask, getSettings } from './store'
 
 interface Props {
   case: MandantCase
   onChange: (updated: MandantCase) => void
+}
+
+function formatHistoryDate(iso: string): string {
+  try {
+    const d = new Date(iso)
+    const day = d.getDate().toString().padStart(2, '0')
+    const month = (d.getMonth() + 1).toString().padStart(2, '0')
+    const hours = d.getHours().toString().padStart(2, '0')
+    const minutes = d.getMinutes().toString().padStart(2, '0')
+    return `${day}.${month}. ${hours}:${minutes}`
+  } catch {
+    return iso
+  }
 }
 
 export default function StatusDropdown({ case: c, onChange }: Props) {
@@ -25,10 +39,25 @@ export default function StatusDropdown({ case: c, onChange }: Props) {
   const currentInfo = getStatusInfo(currentStatus)
   const isTerminal = currentInfo.allowedNextStates.length === 0
 
+  // Neueste 5 Eintraege, juengster zuerst
+  const historyEntries: StatusHistoryEntry[] = (c.statusHistory ?? []).slice().reverse().slice(0, 5)
+
   function handleSelect(next: CaseStatus) {
     if (!canTransition(currentStatus, next)) return
 
-    let patch: Partial<MandantCase> = { caseStatus: next }
+    const settings = getSettings()
+    const changedBy = settings.anwaltName || settings.firstName || '—'
+
+    const newEntry: StatusHistoryEntry = {
+      status: next,
+      changedAt: new Date().toISOString(),
+      changedBy,
+    }
+
+    let patch: Partial<MandantCase> = {
+      caseStatus: next,
+      statusHistory: [...(c.statusHistory ?? []), newEntry],
+    }
 
     if (next === 'antrag_eingereicht') {
       const antragDatum = new Date()
@@ -98,6 +127,43 @@ export default function StatusDropdown({ case: c, onChange }: Props) {
           {!isTerminal && <ChevronDown className={`w-3.5 h-3.5 text-[var(--color-ink-muted)] transition-transform ${open ? 'rotate-180' : ''}`} />}
         </button>
       </div>
+
+      {/* Mandanten-Text-Vorschau — zeigt Bao/Refa was der Mandant aktuell liest */}
+      {currentInfo.mandantTextDe && (
+        <div className="rounded-lg border border-[var(--color-border)] bg-[var(--color-bg-alt)] px-3 py-2 text-xs text-[var(--color-ink-soft)] max-w-sm">
+          <span className="block font-semibold text-[var(--color-ink-muted)] uppercase tracking-wide text-[10px] mb-1">
+            Mandant sieht gerade
+          </span>
+          {currentInfo.mandantTextDe}
+        </div>
+      )}
+
+      {/* Status-Verlauf — max 5 Eintraege */}
+      {historyEntries.length > 0 && (
+        <div className="rounded-lg border border-[var(--color-border)] bg-white px-3 py-2 max-w-sm space-y-1">
+          <div className="flex items-center gap-1.5 mb-1">
+            <History className="w-3 h-3 text-[var(--color-ink-muted)]" />
+            <span className="text-[10px] uppercase tracking-wide font-semibold text-[var(--color-ink-muted)]">
+              Verlauf
+            </span>
+          </div>
+          {historyEntries.map((entry, i) => {
+            const info = CASE_STATUSES.find(s => s.id === entry.status)
+            return (
+              <p key={i} className="text-xs text-[var(--color-ink-soft)]">
+                Geändert auf{' '}
+                <span className="font-medium text-[var(--color-ink)]">
+                  {info?.label ?? entry.status}
+                </span>{' '}
+                am {formatHistoryDate(entry.changedAt)}
+                {entry.changedBy && entry.changedBy !== '—' && (
+                  <span className="text-[var(--color-ink-muted)]"> · {entry.changedBy}</span>
+                )}
+              </p>
+            )
+          })}
+        </div>
+      )}
 
       {fristHinweis && (
         <div className="mt-1 rounded-lg border border-green-200 bg-green-50 px-3 py-2 text-xs text-green-800">

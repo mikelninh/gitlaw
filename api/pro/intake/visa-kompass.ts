@@ -15,10 +15,17 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { createHmac, timingSafeEqual, randomBytes } from 'node:crypto'
 import { Redis } from '@upstash/redis'
-import { applyCors, applySecurityHeaders } from '../_http'
-import { applyRateLimit, RATE_WRITE } from '../_ratelimit'
+import { applyCors, applySecurityHeaders } from '../../_http'
+import { applyRateLimit, RATE_WRITE } from '../../_ratelimit'
 
-const redis = Redis.fromEnv()
+// Lazy Redis: nur instanzieren wenn Env-Vars gesetzt — sonst Dev-Fallback.
+const hasRedis = !!process.env.KV_REST_API_URL && !!process.env.KV_REST_API_TOKEN
+const redis = hasRedis ? Redis.fromEnv() : null
+
+// Globaler Dev-Fallback (process-lokal, persistent über den dev-server-Lauf).
+const devStore: Map<string, unknown> =
+  ((globalThis as unknown as { __vkDevStore?: Map<string, unknown> }).__vkDevStore ??=
+    new Map())
 
 export interface VisaKompassBriefing {
   id: string
@@ -107,9 +114,6 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   const rlOk = await applyRateLimit(req, res, RATE_WRITE)
   if (!rlOk) return
 
-  if (!process.env.KV_REST_API_URL || !process.env.KV_REST_API_TOKEN) {
-    return res.status(503).json({ error: 'Redis not configured' })
-  }
   if (!process.env.INTAKE_SECRET) {
     return res.status(503).json({ error: 'INTAKE_SECRET not configured' })
   }
@@ -164,7 +168,11 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   }
 
   const key = `gitlaw:intake:vk:${tenantId}:${id}`
-  await redis.set(key, briefing, { ex: 60 * 60 * 24 * 30 })
+  if (redis) {
+    await redis.set(key, briefing, { ex: 60 * 60 * 24 * 30 })
+  } else {
+    devStore.set(key, briefing)
+  }
 
   return res.status(200).json({
     ok: true,

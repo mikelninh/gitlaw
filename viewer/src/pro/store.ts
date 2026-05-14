@@ -325,6 +325,9 @@ export function updateCase(id: string, patch: Partial<MandantCase>): void {
   if (idx < 0) return
   all[idx] = { ...all[idx], ...patch, updatedAt: new Date().toISOString() }
   writeJSON(KEY_CASES, all)
+  // Server-Sync: auch den Individual-Key updaten, sonst sieht der Mandant
+  // veraltete createCase-Daten ohne mandatsartId/caseStatus.
+  void putItem('cases', all[idx])
 }
 
 export function archiveCase(id: string): void {
@@ -369,6 +372,8 @@ export function addCaseDocument(caseId: string, input: {
   storageProvider?: string
   checksumSha256?: string
   textContent?: string
+  checklistItemId?: string
+  kind?: CaseDocument['kind']
 }): CaseDocument | null {
   if (!guardAction('case.document.upload')) return null
   const all = readJSON<MandantCase[]>(KEY_CASES, [])
@@ -390,6 +395,8 @@ export function addCaseDocument(caseId: string, input: {
     storageProvider: input.storageProvider,
     checksumSha256: input.checksumSha256,
     textContent: input.textContent,
+    ...(input.checklistItemId ? { checklistItemId: input.checklistItemId } : {}),
+    ...(input.kind ? { kind: input.kind } : {}),
   }
   all[idx] = {
     ...all[idx],

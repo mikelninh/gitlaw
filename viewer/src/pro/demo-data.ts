@@ -33,7 +33,7 @@ function daysFromNow(n: number): string {
   return d.toISOString().slice(0, 10)
 }
 
-export const DEMO_MARKER = 'gitlaw.pro.demo-loaded.v2'
+export const DEMO_MARKER = 'gitlaw.pro.demo-loaded.v3'
 
 interface DemoCase {
   case: {
@@ -43,6 +43,8 @@ interface DemoCase {
     mandantEmail?: string
     fristOffsetDays?: number  // relative to "today" so demo always shows live Fristen
     fristBezeichnung?: string
+    mandatsartId?: string
+    caseStatus?: string
   }
   research?: {
     question: string
@@ -298,12 +300,26 @@ const NGUYEN: KanzleiPreset = {
   cases: [
     {
       case: {
+        aktenzeichen: '26/MN-007',
+        mandantName: 'Marcel Nguyen',
+        description: 'Test-Akte für Mandanten-Portal-Pilot. Aufenthaltstitel-Verlängerung, Beschäftigungswechsel — vollständig fiktiver Datensatz für End-zu-End-Test des Portals.',
+        mandantEmail: 'marcel.nguyen@example.com',
+        fristOffsetDays: 21,
+        fristBezeichnung: 'Verlängerungsantrag § 8 AufenthG',
+        mandatsartId: 'aufenthalt_verlaengerung',
+        caseStatus: 'unterlagen_fehlen',
+      },
+    },
+    {
+      case: {
         aktenzeichen: '25/0301',
         mandantName: 'Nguyen Van Minh',
         description: 'Aufenthaltstitel-Verlängerung; Mandant lebt seit 4 J. in DE, Beschäftigung gewechselt — Frist läuft.',
         mandantEmail: 'minh.nguyen@example.com',
         fristOffsetDays: 14,
         fristBezeichnung: 'Verlängerungsantrag § 8 AufenthG',
+        mandatsartId: 'aufenthalt_verlaengerung',
+        caseStatus: 'unterlagen_fehlen',
       },
       research: {
         question: 'Welche Voraussetzungen für die Verlängerung einer Aufenthaltserlaubnis nach § 8 AufenthG, wenn der Mandant den Arbeitgeber gewechselt hat?',
@@ -328,6 +344,8 @@ const NGUYEN: KanzleiPreset = {
         mandantEmail: 'hoa.le@example.com',
         fristOffsetDays: 21,
         fristBezeichnung: 'Visumsantrag bei Botschaft Hanoi',
+        mandatsartId: 'familiennachzug_ehegatten',
+        caseStatus: 'unterlagen_in_pruefung',
       },
       research: {
         question: 'Welche Voraussetzungen für Familiennachzug der Ehegattin aus Vietnam zu Stammberechtigten mit Niederlassungserlaubnis? Sprachnachweis-Pflicht?',
@@ -351,6 +369,8 @@ const NGUYEN: KanzleiPreset = {
         mandantEmail: 'an.pham@example.com',
         fristOffsetDays: 24,
         fristBezeichnung: 'Einspruch Strafbefehl § 410 StPO',
+        mandatsartId: 'strafbefehl_einspruch',
+        caseStatus: 'antrag_in_vorbereitung',
       },
       research: {
         question: 'Welche Verteidigungsansätze bei Strafbefehl wegen § 263 StGB, wenn bei der ersten Vernehmung erhebliche Sprachprobleme bestanden?',
@@ -473,6 +493,8 @@ export function loadDemoData(presetKey: string): { presetKey: string; caseCount:
       patch.fristDatum = daysFromNow(dc.case.fristOffsetDays)
       patch.fristBezeichnung = dc.case.fristBezeichnung
     }
+    if (dc.case.mandatsartId) patch.mandatsartId = dc.case.mandatsartId
+    if (dc.case.caseStatus) patch.caseStatus = dc.case.caseStatus
     updateCase(c.id, patch)
     if (dc.research) {
       saveResearch({

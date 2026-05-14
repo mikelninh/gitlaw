@@ -32,6 +32,9 @@ const MINUTES_PER_ACTION: Record<AuditEntry['action'], number> = {
   'doc.translate.queue': 6,
   'doc.review.done': 2,
   'settings.update': 0,
+  'reminder.generate': 5,
+  'reminder.sent': 0,
+  'advoware.import': 10,
   'login': 0,
 }
 

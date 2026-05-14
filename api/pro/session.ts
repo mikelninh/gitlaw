@@ -1,11 +1,17 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { applyCors, applySecurityHeaders } from '../_http'
 import { extractBearerToken, mintSessionToken, resolveInvite, verifySessionToken } from '../_auth'
+import { applyRateLimit, RATE_AUTH } from '../_ratelimit'
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   applySecurityHeaders(res)
   const corsAllowed = applyCors(req, res, 'GET, POST, OPTIONS')
   if (!corsAllowed) return res.status(403).json({ error: 'Origin not allowed' })
+
+  if (req.method !== 'OPTIONS') {
+    const ok = await applyRateLimit(req, res, RATE_AUTH)
+    if (!ok) return
+  }
 
   if (req.method === 'OPTIONS') return res.status(200).end()
 

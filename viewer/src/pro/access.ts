@@ -156,7 +156,7 @@ export function roleLabel(role: ProRole = currentRole()): string {
 }
 
 export function canAccessRoute(route: string): boolean {
-  if (route.startsWith('/pro/einstellungen')) return hasRole('owner')
+  if (route.startsWith('/pro/einstellungen')) return hasRole('anwalt')
   if (route.startsWith('/pro/import')) return hasRole('assistenz')
   if (route.startsWith('/pro/triage')) return hasRole('assistenz')
   if (route.startsWith('/pro/recherche')) return hasScope('research.view')

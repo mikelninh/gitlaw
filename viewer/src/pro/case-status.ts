@@ -32,6 +32,19 @@ export interface CaseStatusInfo {
   color: 'amber' | 'blue' | 'orange' | 'green' | 'gray'
   icon?: string
   allowedNextStates: CaseStatus[]
+  /**
+   * Mandantenkommunikations-Text DE — zweite Person, sachlich-warm.
+   * Abgeleitet aus Abschnitt 18 des Bao-PDFs ("Ki Datenverarbeitung Kanzlei
+   * Arbeitsgrundlage"). Das PDF enthält Spezifikationen in dritter Person;
+   * dieser Feld ist die konkrete Umsetzung für die Mandanten-Anzeige.
+   * TODO: Bao/Refa final-signoff auf genauen Wortlaut vor Produktiv-Einsatz.
+   */
+  mandantTextDe: string
+  /**
+   * Mandantenkommunikations-Text VI — plausible Übersetzung.
+   * TODO: Native-Review durch Bao oder VI-Muttersprachler vor Produktiv-Einsatz.
+   */
+  mandantTextVi: string
 }
 
 export const CASE_STATUSES: CaseStatusInfo[] = [
@@ -44,6 +57,16 @@ export const CASE_STATUSES: CaseStatusInfo[] = [
     color: 'amber',
     icon: '📋',
     allowedNextStates: ['unterlagen_in_pruefung'],
+    // Bao-PDF Abschnitt 18 Spec: "Der Mandant erhält eine klare Liste fehlender
+    // Unterlagen und eine kurze Erklärung, dass eine Bearbeitung erst nach Eingang
+    // der vollständigen Unterlagen möglich ist."
+    mandantTextDe:
+      'Wir können Ihre Akte noch nicht weiterbearbeiten, weil folgende Unterlagen fehlen. ' +
+      'Bitte reichen Sie die fehlenden Dokumente so bald wie möglich ein — erst danach kann Ihr Antrag vorbereitet werden.',
+    // TODO: Native-Review durch Bao oder VI-Muttersprachler
+    mandantTextVi:
+      'Chúng tôi chưa thể tiếp tục xử lý hồ sơ của bạn vì còn thiếu một số tài liệu. ' +
+      'Vui lòng nộp các tài liệu còn thiếu sớm nhất có thể — chỉ sau khi nhận đủ, đơn của bạn mới được chuẩn bị.',
   },
   {
     id: 'unterlagen_in_pruefung',
@@ -54,6 +77,15 @@ export const CASE_STATUSES: CaseStatusInfo[] = [
     color: 'blue',
     icon: '🔍',
     allowedNextStates: ['antrag_in_vorbereitung', 'unterlagen_fehlen'],
+    // Bao-PDF Abschnitt 18 Spec: "Der Mandant wird informiert, dass die Unterlagen
+    // eingegangen sind und geprüft werden."
+    mandantTextDe:
+      'Ihre Unterlagen sind bei uns eingegangen. Wir prüfen gerade, ob alles vollständig und verwendbar ist. ' +
+      'Sie hören von uns, sobald die Prüfung abgeschlossen ist.',
+    // TODO: Native-Review durch Bao oder VI-Muttersprachler
+    mandantTextVi:
+      'Chúng tôi đã nhận được tài liệu của bạn và đang kiểm tra xem hồ sơ có đầy đủ và hợp lệ không. ' +
+      'Chúng tôi sẽ liên hệ bạn ngay khi quá trình kiểm tra hoàn tất.',
   },
   {
     id: 'antrag_in_vorbereitung',
@@ -64,6 +96,15 @@ export const CASE_STATUSES: CaseStatusInfo[] = [
     color: 'blue',
     icon: '✍️',
     allowedNextStates: ['antrag_eingereicht'],
+    // Bao-PDF Abschnitt 18 Spec: "Der Mandant wird informiert, dass die Kanzlei
+    // den Antrag vorbereitet und sich bei Rückfragen meldet."
+    mandantTextDe:
+      'Die wesentlichen Unterlagen liegen vor. Wir bereiten Ihren Antrag jetzt vor. ' +
+      'Falls wir noch Fragen haben, melden wir uns bei Ihnen.',
+    // TODO: Native-Review durch Bao oder VI-Muttersprachler
+    mandantTextVi:
+      'Các tài liệu cần thiết đã đầy đủ. Chúng tôi đang chuẩn bị đơn của bạn. ' +
+      'Nếu có câu hỏi gì thêm, chúng tôi sẽ liên hệ bạn.',
   },
   {
     id: 'antrag_eingereicht',
@@ -74,6 +115,18 @@ export const CASE_STATUSES: CaseStatusInfo[] = [
     color: 'green',
     icon: '📬',
     allowedNextStates: ['behoerdliche_rueckmeldung_ausstehend'],
+    // Bao-PDF Abschnitt 18 Spec: "Der Mandant wird informiert, dass die weitere
+    // Bearbeitung nun bei der Behörde oder sonstigen Stelle liegt und dass die
+    // Bearbeitungsdauer regelmäßig mehrere Wochen oder länger betragen kann."
+    mandantTextDe:
+      'Ihr Antrag wurde eingereicht. Die weitere Bearbeitung liegt jetzt bei der Behörde — nicht bei uns. ' +
+      'Behördliche Bearbeitungszeiten betragen erfahrungsgemäß mehrere Wochen oder länger. ' +
+      'Wir informieren Sie, sobald eine Rückmeldung vorliegt.',
+    // TODO: Native-Review durch Bao oder VI-Muttersprachler
+    mandantTextVi:
+      'Đơn của bạn đã được nộp. Từ đây, quá trình xử lý thuộc về cơ quan có thẩm quyền — không phải văn phòng chúng tôi. ' +
+      'Thời gian xử lý thường kéo dài nhiều tuần hoặc hơn. ' +
+      'Chúng tôi sẽ thông báo ngay khi nhận được phản hồi.',
   },
   {
     id: 'behoerdliche_rueckmeldung_ausstehend',
@@ -88,6 +141,16 @@ export const CASE_STATUSES: CaseStatusInfo[] = [
       'termin_steht_aus',
       'verfahren_abgeschlossen',
     ],
+    // Bao-PDF Abschnitt 18 Spec: "Der Mandant erhält eine standardisierte Erklärung,
+    // dass derzeit keine neue Rückmeldung vorliegt und die Kanzlei den Vorgang
+    // weiter überwacht."
+    mandantTextDe:
+      'Wir warten aktuell auf eine Rückmeldung der Behörde. Eine neue Nachricht liegt uns noch nicht vor. ' +
+      'Wir beobachten den Vorgang weiterhin und informieren Sie sofort, wenn sich etwas ändert.',
+    // TODO: Native-Review durch Bao oder VI-Muttersprachler
+    mandantTextVi:
+      'Chúng tôi đang chờ phản hồi từ cơ quan có thẩm quyền. Hiện tại chưa có thông tin mới. ' +
+      'Chúng tôi tiếp tục theo dõi và sẽ thông báo ngay khi có thay đổi.',
   },
   {
     id: 'behoerde_nachforderung',
@@ -98,6 +161,13 @@ export const CASE_STATUSES: CaseStatusInfo[] = [
     color: 'amber',
     icon: '📩',
     allowedNextStates: ['unterlagen_in_pruefung'],
+    // Kein eigener Bao-PDF-Abschnitt-18-Status — Fallback-Text.
+    // Bao-PDF deckt nur 5 Stati ab; dieser ist interne Kanzlei-Granularität.
+    mandantTextDe:
+      'Die Behörde hat weitere Unterlagen oder Informationen angefordert. Wir informieren Sie, was als nächstes benötigt wird.',
+    // TODO: Native-Review durch Bao oder VI-Muttersprachler
+    mandantTextVi:
+      'Cơ quan đã yêu cầu thêm tài liệu hoặc thông tin. Chúng tôi sẽ thông báo cho bạn những gì cần cung cấp tiếp theo.',
   },
   {
     id: 'termin_steht_aus',
@@ -108,6 +178,13 @@ export const CASE_STATUSES: CaseStatusInfo[] = [
     color: 'orange',
     icon: '📅',
     allowedNextStates: ['verfahren_abgeschlossen'],
+    // Kein eigener Bao-PDF-Abschnitt-18-Status — Fallback-Text.
+    // Bao-PDF deckt nur 5 Stati ab; dieser ist interne Kanzlei-Granularität.
+    mandantTextDe:
+      'Ein Termin oder eine Entscheidung steht aus. Wir halten Sie auf dem Laufenden, sobald das Ergebnis bekannt ist.',
+    // TODO: Native-Review durch Bao oder VI-Muttersprachler
+    mandantTextVi:
+      'Đang chờ lịch hẹn hoặc quyết định từ cơ quan. Chúng tôi sẽ thông báo ngay khi có kết quả.',
   },
   {
     id: 'verfahren_abgeschlossen',
@@ -118,6 +195,13 @@ export const CASE_STATUSES: CaseStatusInfo[] = [
     color: 'gray',
     icon: '✅',
     allowedNextStates: [],
+    // Kein eigener Bao-PDF-Abschnitt-18-Status — Fallback-Text.
+    // Bao-PDF deckt nur 5 Stati ab; dieser ist interne Kanzlei-Granularität.
+    mandantTextDe:
+      'Ihr Verfahren ist abgeschlossen. Wir haben alle Ergebnisse in Ihrer Akte dokumentiert. Bei weiteren Fragen stehen wir Ihnen gerne zur Verfügung.',
+    // TODO: Native-Review durch Bao oder VI-Muttersprachler
+    mandantTextVi:
+      'Hồ sơ của bạn đã được hoàn tất. Chúng tôi đã lưu toàn bộ kết quả vào hồ sơ. Nếu có thắc mắc thêm, vui lòng liên hệ chúng tôi.',
   },
 ]
 
@@ -128,7 +212,10 @@ export function getStatusInfo(s: CaseStatus): CaseStatusInfo {
 }
 
 export function canTransition(from: CaseStatus, to: CaseStatus): boolean {
-  return getStatusInfo(from).allowedNextStates.includes(to)
+  // Pilot: alle Übergänge erlaubt — auch rückwärts. Im Kanzlei-Alltag
+  // werden Status-Korrekturen oft gebraucht (Versehen, neue Information).
+  // allowedNextStates bleibt für Auto-Tasks/Suggestions im Code erhalten.
+  return from !== to
 }
 
 // ---------------------------------------------------------------------------

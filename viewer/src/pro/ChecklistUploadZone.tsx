@@ -12,48 +12,8 @@
 import { useRef, useState } from 'react'
 import { AlertTriangle, Copy, Check } from 'lucide-react'
 import { getChecklistById } from './mandatsart-checklists'
+import { matchesItem } from './checklist-match'
 import type { MandantCase } from './types'
-
-// ---------------------------------------------------------------------------
-// Aliase für OCR-Keyword-Matching
-// ---------------------------------------------------------------------------
-
-const KEYWORD_ALIASES: Record<string, string[]> = {
-  reisepass: ['reisepass', 'passport', 'hộ chiếu'],
-  meldebescheinigung: ['meldebescheinigung', 'anmeldung', 'melderegister'],
-  mietvertrag: ['mietvertrag', 'mietverhältnis'],
-  krankenversicherung: ['krankenversicherung', 'versicherungsnachweis', 'tk', 'aok', 'barmer'],
-  einkommen: ['einkommen', 'lohn', 'gehalt', 'arbeitsentgelt', 'lohnabrechnung'],
-  lichtbild: ['lichtbild', 'passfoto', 'biometrisch'],
-  sprachzeugnis: ['sprachzeugnis', 'goethe', 'telc', 'dtz', 'b1', 'a2'],
-  vollmacht: ['vollmacht', 'bevollmächtigung'],
-  arbeitsvertrag: ['arbeitsvertrag', 'beschäftigungsverhältnis'],
-  aufenthaltstitel: ['aufenthaltstitel', 'aufenthaltserlaubnis', 'eat', 'elektronischer aufenthaltstitel'],
-}
-
-function normalize(s: string): string {
-  return s
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '')
-}
-
-function matchesItem(itemLabel: string, itemId: string, ocrText: string): boolean {
-  const text = normalize(ocrText)
-
-  // Prüfe zuerst Aliase per item-ID-Präfix
-  for (const [key, aliases] of Object.entries(KEYWORD_ALIASES)) {
-    if (itemId.includes(key) || itemLabel.toLowerCase().includes(key)) {
-      if (aliases.some(alias => text.includes(normalize(alias)))) return true
-    }
-  }
-
-  // Fallback: item.label direkt als Substring (ab 6 Zeichen, um Rauschen zu vermeiden)
-  const labelNorm = normalize(itemLabel)
-  if (labelNorm.length >= 6 && text.includes(labelNorm)) return true
-
-  return false
-}
 
 // ---------------------------------------------------------------------------
 // Typen
@@ -202,7 +162,7 @@ export default function ChecklistUploadZone({ case: c, onChange }: Props) {
           .filter(item => {
             const alreadyReceived = (c.checklistStates ?? {})[item.id] === 'received'
             if (alreadyReceived) return false
-            return matchesItem(item.label, item.id, text)
+            return matchesItem(item.label, item.id, text).matched
           })
           .map(item => ({
             itemId: item.id,

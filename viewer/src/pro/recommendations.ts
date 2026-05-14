@@ -1,5 +1,11 @@
+/**
+ * Status-getriebene Workflow-Empfehlungen fuer den Anwalt/Refa.
+ *
+ * Frueherer Ansatz lieferte OCR- und Recherche-Vorschlaege — zu viel Rauschen
+ * fuer den Bao-Pilot. Jetzt: nur Status-bezogene naechste Schritte.
+ */
+
 import type { MandantCase } from './types'
-import { listLetters, listResearch } from './store'
 
 export interface WorkflowRecommendation {
   id: string
@@ -18,120 +24,118 @@ function daysUntil(iso: string): number {
   return Math.ceil(diff / (1000 * 60 * 60 * 24))
 }
 
+/**
+ * Gibt 0–3 Status-getriebene Empfehlungen fuer eine Akte zurueck.
+ * OCR- und Recherche-Vorschlaege wurden entfernt (Bao-Wunsch, Sprint 1).
+ */
 export function getCaseRecommendations(c: MandantCase): WorkflowRecommendation[] {
-  const docs = c.documents || []
-  const research = listResearch(c.id)
-  const letters = listLetters(c.id)
   const recs: WorkflowRecommendation[] = []
   const frist = c.fristDatum ? daysUntil(c.fristDatum) : null
+  const fristNah = frist !== null && frist <= 3
 
-  if (docs.length === 0) {
+  const status = c.caseStatus ?? 'unterlagen_fehlen'
+
+  if (status === 'unterlagen_fehlen') {
     recs.push({
-      id: `${c.id}:documents`,
+      id: `${c.id}:status:unterlagen`,
       caseId: c.id,
-      priority: 92,
-      title: 'Dokumente zuerst sichern',
-      reason: 'Ohne Bescheid, Vertrag oder Foto fehlt dem Fall die Arbeitsgrundlage fuer OCR, Recherche und Schreiben.',
-      cta: 'Zur Akte',
+      priority: fristNah ? 96 : 90,
+      title: 'Mandant:in an fehlende Unterlagen erinnern',
+      reason: 'Akte kann nicht weiterbearbeitet werden, solange Unterlagen fehlen.',
+      cta: 'Erinnerung erstellen',
       to: `/pro/akten/${c.id}`,
-      tone: 'action',
+      tone: fristNah ? 'urgent' : 'action',
       stage: 'documents',
     })
   }
 
-  const docWithoutText = docs.find(d => !d.ocrText && !d.textContent)
-  if (docWithoutText) {
+  if (status === 'unterlagen_in_pruefung') {
     recs.push({
-      id: `${c.id}:ocr`,
+      id: `${c.id}:status:pruefung`,
       caseId: c.id,
-      priority: 88,
-      title: 'OCR fuer Dokument starten',
-      reason: `${docWithoutText.originalName} hat noch keinen nutzbaren Text. Erst danach wird Recherche und Entwurf deutlich schneller.`,
-      cta: 'OCR starten',
+      priority: fristNah ? 94 : 85,
+      title: 'Eingereichte Unterlagen prüfen',
+      reason: 'Alle Unterlagen eingegangen — bitte Vollständigkeit und Richtigkeit bestätigen.',
+      cta: 'Zur Checkliste',
       to: `/pro/akten/${c.id}`,
-      tone: 'action',
-      stage: 'ocr',
+      tone: fristNah ? 'urgent' : 'review',
+      stage: 'documents',
     })
   }
 
-  const foreignDoc = docs.find(d =>
-    d.languageHint &&
-    d.languageHint !== 'de' &&
-    (d.ocrText || d.textContent) &&
-    !d.translatedTextDe,
-  )
-  if (foreignDoc) {
+  if (status === 'antrag_in_vorbereitung') {
     recs.push({
-      id: `${c.id}:translate`,
+      id: `${c.id}:status:vorbereitung`,
       caseId: c.id,
-      priority: 82,
-      title: 'DE-Arbeitsfassung erzeugen',
-      reason: `${foreignDoc.originalName} ist nicht deutsch. Eine DE-Fassung macht Recherche, Rueckfragen und Schreiben sofort belastbarer.`,
-      cta: 'Zur Uebersetzung',
-      to: `/pro/akten/${c.id}`,
-      tone: 'action',
-      stage: 'translation',
-    })
-  }
-
-  const unreviewedTranslation = docs.find(d => d.translatedTextDe && !d.translationReviewed)
-  if (unreviewedTranslation) {
-    recs.push({
-      id: `${c.id}:translation-review`,
-      caseId: c.id,
-      priority: 76,
-      title: 'DE-Fassung kurz freigeben',
-      reason: `${unreviewedTranslation.originalName} hat eine maschinelle DE-Fassung, die noch nicht anwaltlich geprueft ist.`,
-      cta: 'Zur Pruefung',
-      to: `/pro/akten/${c.id}`,
-      tone: 'review',
-      stage: 'translation',
-    })
-  }
-
-  if (research.length === 0) {
-    recs.push({
-      id: `${c.id}:research`,
-      caseId: c.id,
-      priority: frist !== null && frist <= 3 ? 96 : 74,
-      title: frist !== null && frist <= 3 ? 'Recherche jetzt priorisieren' : 'Erstfrage zur Akte stellen',
-      reason: frist !== null && frist <= 3
-        ? 'Die Frist ist nah. Eine erste belastbare Recherche sollte vor dem Entwurf stehen.'
-        : 'Zur Akte liegt noch keine Recherche vor. Das ist meist der naechste produktive Schritt.',
-      cta: 'Recherche oeffnen',
-      to: `/pro/recherche?case=${c.id}`,
-      tone: frist !== null && frist <= 3 ? 'urgent' : 'action',
-      stage: 'research',
-    })
-  }
-
-  if (research.length > 0 && letters.length === 0) {
-    recs.push({
-      id: `${c.id}:draft`,
-      caseId: c.id,
-      priority: frist !== null && frist <= 3 ? 94 : 68,
-      title: 'Ersten Entwurf erzeugen',
-      reason: 'Recherche ist vorhanden, aber noch kein Schreiben. Jetzt kann der Fall in einen versendbaren Entwurf uebergehen.',
-      cta: 'Schreiben oeffnen',
+      priority: fristNah ? 96 : 88,
+      title: 'Schreiben generieren',
+      reason: 'Unterlagen geprüft — Antrag kann jetzt vorbereitet und eingereicht werden.',
+      cta: 'Vorlagen öffnen',
       to: `/pro/schreiben?case=${c.id}`,
-      tone: frist !== null && frist <= 3 ? 'urgent' : 'action',
+      tone: fristNah ? 'urgent' : 'action',
       stage: 'draft',
     })
   }
 
-  if (research.some(r => r.reviewed) && letters.length > 0) {
+  if (status === 'antrag_eingereicht') {
     recs.push({
-      id: `${c.id}:follow-through`,
+      id: `${c.id}:status:eingereicht`,
       caseId: c.id,
-      priority: 50,
-      title: 'Freigabe und Versand vorbereiten',
-      reason: 'Es gibt bereits gepruefte Recherche und einen Entwurf. Jetzt geht es um Finalisierung, PDF und Versand.',
+      priority: 60,
+      title: 'Eingangsbestätigung anfordern',
+      reason: 'Antrag liegt bei der Behörde — Eingangsbestätigung sichert den Nachweis.',
       cta: 'Zur Akte',
       to: `/pro/akten/${c.id}`,
       tone: 'review',
       stage: 'draft',
     })
   }
+
+  if (status === 'behoerdliche_rueckmeldung_ausstehend') {
+    if (fristNah) {
+      recs.push({
+        id: `${c.id}:status:frist`,
+        caseId: c.id,
+        priority: 95,
+        title: 'Frist läuft bald ab — Behörde nachfassen',
+        reason: 'Keine Rückmeldung und Frist nah. Jetzt Untätigkeitsbeschwerde prüfen.',
+        cta: 'Zur Akte',
+        to: `/pro/akten/${c.id}`,
+        tone: 'urgent',
+        stage: 'draft',
+      })
+    }
+  }
+
+  if (status === 'behoerde_nachforderung') {
+    recs.push({
+      id: `${c.id}:status:nachforderung`,
+      caseId: c.id,
+      priority: fristNah ? 96 : 88,
+      title: 'Nachforderung der Behörde prüfen',
+      reason: 'Behörde hat weitere Unterlagen angefordert — bitte zeitnah beantworten.',
+      cta: 'Zur Akte',
+      to: `/pro/akten/${c.id}`,
+      tone: fristNah ? 'urgent' : 'action',
+      stage: 'documents',
+    })
+  }
+
+  if (status === 'termin_steht_aus') {
+    recs.push({
+      id: `${c.id}:status:termin`,
+      caseId: c.id,
+      priority: fristNah ? 95 : 80,
+      title: 'Anwaltliche Vorbereitung auf Termin',
+      reason: 'Termin oder Entscheidung steht aus — Unterlagen und Argumente bereitlegen.',
+      cta: 'Zur Akte',
+      to: `/pro/akten/${c.id}`,
+      tone: fristNah ? 'urgent' : 'action',
+      stage: 'draft',
+    })
+  }
+
+  // 'verfahren_abgeschlossen': kein Vorschlag — Terminal-Status
 
   return recs.sort((a, b) => b.priority - a.priority)
 }

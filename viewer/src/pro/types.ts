@@ -73,6 +73,11 @@ export interface MandantCase {
    */
   caseStatus?: string
   /**
+   * Chronologische Liste aller Status-Wechsel fuer diese Akte.
+   * Wachst bei jedem Wechsel in StatusDropdown an.
+   */
+  statusHistory?: StatusHistoryEntry[]
+  /**
    * Konkrete Behörde, die diesen Fall bearbeitet — wird in
    * Sachstands-Templates anstelle des generischen "zuständige Behörde"
    * genutzt. Free-text, aber aus BehoerdenSelector befüllbar.
@@ -80,6 +85,13 @@ export interface MandantCase {
   behoerde?: string
   /** PLZ-Präfix für Behörden-Suggestions (optional). */
   behoerdePLZ?: string
+}
+
+/** Ein einzelner Eintrag im Status-Verlauf einer Akte. */
+export interface StatusHistoryEntry {
+  status: string
+  changedAt: string  // ISO timestamp
+  changedBy: string  // anwaltName oder userId
 }
 
 export interface TeamTask {
@@ -138,6 +150,35 @@ export interface CaseDocument {
   ocrText?: string
   translatedTextDe?: string
   translationReviewed?: boolean
+  /** Wenn vom Mandanten zu einem konkreten Checklist-Item hochgeladen. */
+  checklistItemId?: string
+  /**
+   * Optional slot ID within a multi-photo checklist item.
+   * Matches PhotoSlot.id from ChecklistItem.photoSlots.
+   */
+  photoSlotId?: string
+  /**
+   * Dokumenttyp. 'vollmacht' = digital signierte Anwaltsvollmacht vom Mandanten.
+   * 'anwalt_upload' = direkt von RA/Refa per ProChecklistCard hochgeladen.
+   * Fehlt das Feld, wird 'standard' angenommen.
+   */
+  kind?: 'vollmacht' | 'standard' | 'anwalt_upload'
+  /**
+   * Review-Status für Mandant-Uploads (uploadedBy === 'mandant').
+   * Default: 'pending'. Wird von RA/Refa in /pro gesetzt.
+   */
+  reviewStatus?: 'pending' | 'approved' | 'rejected'
+  /** userId des RA/Refa, der das Dokument geprüft hat. */
+  reviewedBy?: string
+  /** ISO-Timestamp der Review. */
+  reviewedAt?: string
+  /** Optionaler Hinweis der Kanzlei an den Mandanten (sichtbar im Mandant-Portal). */
+  reviewComment?: string
+  /**
+   * ISO-Timestamp wenn vom Mandanten gelöscht (Soft-Delete).
+   * Dokumente mit gesetztem deletedAt werden nicht angezeigt.
+   */
+  deletedAt?: string
 }
 
 export interface ResearchQuery {
@@ -217,6 +258,9 @@ export interface AuditEntry {
     | 'pdf.export'
     | 'settings.update'
     | 'intake.received'
+    | 'reminder.generate'
+    | 'reminder.sent'
+    | 'advoware.import'
   /** Free-form payload for the action. */
   detail: string
   /** Optional case context. */
@@ -378,6 +422,17 @@ export type MandatsartCategory =
 export type DocumentRequirementLevel = 'required' | 'optional' | 'conditional'
 
 /**
+ * A named slot within a multi-photo checklist item.
+ * E.g. "Hauptseite mit Foto" and "Visa-Stempel-Seite" for a Reisepass.
+ */
+export interface PhotoSlot {
+  id: string
+  label: string
+  /** Vietnamese label — TODO VI-review native speaker */
+  labelVi?: string
+}
+
+/**
  * A single line-item in a Mandatsart checklist.
  * Both DE and VI labels are provided for Bao's bilingual workflow.
  */
@@ -408,6 +463,18 @@ export interface ChecklistItem {
     | 'sprache'
     | 'biometrie'
     | 'sonstiges'
+  /**
+   * Minimum number of photos/files required to complete this item.
+   * Defaults to 1 when not set. E.g. 5 for "Reisepass alle Seiten",
+   * 6 for "Kontoauszuege 6 Monate".
+   */
+  requiredPhotoCount?: number
+  /**
+   * Optional named slots for each required photo.
+   * When set: one slot per page, each with its own label.
+   * When absent but requiredPhotoCount > 1: generic "Foto X von Y" labels.
+   */
+  photoSlots?: PhotoSlot[]
 }
 
 /**

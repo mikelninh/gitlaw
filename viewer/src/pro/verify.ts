@@ -194,3 +194,98 @@ function isRepealed(text: string, paragraph: string): boolean {
 export async function verifyAllCitations(citations: ProCitation[]): Promise<Citation[]> {
   return Promise.all(citations.map(verifyCitation))
 }
+
+// ---------------------------------------------------------------------------
+// Draft-text verification
+// ---------------------------------------------------------------------------
+
+export interface DraftCitationVerified {
+  display: string
+  lawId: string
+  section: string
+}
+
+export interface DraftCitationUnverified {
+  display: string
+  reason: string
+}
+
+export interface DraftVerification {
+  verified: DraftCitationVerified[]
+  unverified: DraftCitationUnverified[]
+  total: number
+}
+
+/**
+ * Extracts §-citations from free draft text and verifies each against the
+ * local law corpus.
+ *
+ * Handles:
+ *   "§ 263 StGB"          → {paragraph: "263", gesetz: "StGB"}
+ *   "§ 147 Abs. 1 StPO"   → {paragraph: "147", gesetz: "StPO"}
+ *   "§ 81a AufenthG"      → {paragraph: "81a", gesetz: "AufenthG"}
+ *   "§§ 263, 264 StGB"    → flagged as Sammelzitat (not expanded)
+ *
+ * Does NOT handle:
+ *   "§§ 263, 264 StGB" — listed as unverified with reason "Sammelzitat"
+ *   Cross-references like "(vgl. § 3 NetzDG)" — parsed normally
+ *   Multi-law ranges like "§§ 3 bis 5 StGB" — flagged as Sammelzitat
+ */
+export async function verifyDraftCitations(text: string): Promise<DraftVerification> {
+  // Sammelzitate ("§§") — detect and surface as unverified without expanding
+  const sammelRe = /§§\s*[\d][\d,\sa-z–-]*/gi
+  const sammelMatches: string[] = []
+  for (const m of text.matchAll(sammelRe)) {
+    sammelMatches.push(m[0].trim())
+  }
+
+  // Build a list of known law abbrevs, longest first so "SGB V" matches
+  // before a possible bare "V" if we ever see that.
+  const knownAbbrevs = Object.keys(LAW_ABBREV_MAP).sort((a, b) => b.length - a.length)
+  const abbrevPattern = knownAbbrevs.map(a => a.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')
+
+  // Match:  § <num>[letter]  [any Abs./Nr./S./Satz etc. noise]  <KnownGesetz>
+  // The noise group skips over modifiers like "Abs. 1 Nr. 2" that sit
+  // between the paragraph number and the law abbreviation.
+  const singleRe = new RegExp(
+    `§\\s*(\\d+[a-z]?)(?:\\s+(?:Abs\\.?|Nr\\.?|Satz|S\\.?)\\s*\\d+(?:\\s+Nr\\.?\\s*\\d+)?)*\\s+(${abbrevPattern})`,
+    'gi',
+  )
+
+  // Collect unique citations (dedupe by "paragraph|gesetz" key)
+  const seen = new Map<string, ProCitation>()
+  for (const m of text.matchAll(singleRe)) {
+    const paragraph = m[1].toLowerCase().replace(/^0+/, '') || m[1]  // strip leading zeros
+    const gesetz = normalizeAbbrev(m[2])
+    const key = `${paragraph}|${gesetz}`
+    if (!seen.has(key)) {
+      seen.set(key, { paragraph: m[1], gesetz, bedeutung: '' })
+    }
+  }
+
+  const citations = Array.from(seen.values())
+  const results = await verifyAllCitations(citations)
+
+  const verified: DraftCitationVerified[] = []
+  const unverified: DraftCitationUnverified[] = []
+
+  for (const c of results) {
+    if (c.verified) {
+      verified.push({ display: c.display, lawId: c.lawId, section: c.section })
+    } else {
+      unverified.push({
+        display: c.display,
+        reason: c.verificationHint ?? c.verificationReason ?? 'Unbekannter Fehler',
+      })
+    }
+  }
+
+  for (const s of sammelMatches) {
+    unverified.push({
+      display: s,
+      reason: 'Sammelzitat — bitte jeden Paragraphen einzeln prüfen.',
+    })
+  }
+
+  return { verified, unverified, total: verified.length + unverified.length }
+}

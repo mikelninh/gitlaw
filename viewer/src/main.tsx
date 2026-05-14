@@ -4,6 +4,7 @@ import { HashRouter, Route, Routes } from 'react-router-dom'
 import './index.css'
 import App from './App.tsx'
 import ProApp from './pro/ProApp.tsx'
+import MandantApp from './mandant/MandantApp.tsx'
 import IntakeForm from './pro/IntakeForm.tsx'
 import WelcomePersonal from './pro/WelcomePersonal.tsx'
 import ProPricing from './pro/ProPricing.tsx'
@@ -36,6 +37,8 @@ createRoot(document.getElementById('root')!).render(
           <Route path="/willkommen/:slug" element={<WelcomePersonal />} />
           {/* Pro app (auth-gated) */}
           <Route path="/pro/*" element={<ProApp />} />
+          {/* Mandanten-Portal (auth-gated, getrennt von /pro) */}
+          <Route path="/mandant/*" element={<MandantApp />} />
           {/* Citizen app (default) */}
           <Route path="/*" element={<App />} />
         </Routes>

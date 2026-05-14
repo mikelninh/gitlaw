@@ -91,6 +91,7 @@ const aufenthaltstitelVerlaengerung: MandatsartChecklist = {
       labelVi: 'Ảnh sinh trắc học (35 × 45 mm, không quá 6 tháng, nền trắng)', // TODO: VI-review by native speaker
       level: 'required',
       category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
       typicalIssues: ['Druck muss auf Fotopapier sein', 'Kein Ausdruck auf Normalpapier'],
     },
     {
@@ -215,6 +216,7 @@ const familiennachzugEhegatte: MandatsartChecklist = {
       labelVi: 'Ảnh sinh trắc học (35 × 45 mm, không quá 6 tháng)', // TODO: VI-review by native speaker
       level: 'required',
       category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
     },
     {
       id: 'anwaltsvollmacht',
@@ -317,6 +319,7 @@ const familiennachzugKind: MandatsartChecklist = {
       labelVi: 'Ảnh sinh trắc học của trẻ (35 × 45 mm, không quá 6 tháng)', // TODO: VI-review by native speaker
       level: 'required',
       category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
     },
     {
       id: 'anwaltsvollmacht',
@@ -370,6 +373,7 @@ const visumsverfahrenNational: MandatsartChecklist = {
       labelVi: 'Ảnh sinh trắc học (35 × 45 mm, không quá 6 tháng, nền trắng)', // TODO: VI-review by native speaker
       level: 'required',
       category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
     },
     {
       id: 'einladungsschreiben-arbeitgeber',
@@ -611,6 +615,7 @@ const niederlassungserlaubnis: MandatsartChecklist = {
       labelVi: 'Ảnh sinh trắc học (35 × 45 mm, không quá 6 tháng)', // TODO: VI-review by native speaker
       level: 'required',
       category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
     },
     {
       id: 'anwaltsvollmacht',
@@ -697,6 +702,7 @@ const chancenkarte: MandatsartChecklist = {
       labelVi: 'Ảnh sinh trắc học (35 × 45 mm, không quá 6 tháng)', // TODO: VI-review by native speaker
       level: 'required',
       category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
     },
     {
       id: 'anwaltsvollmacht',
@@ -779,6 +785,7 @@ const beschaeftigungserlaubnis: MandatsartChecklist = {
       labelVi: 'Ảnh sinh trắc học (35 × 45 mm, không quá 6 tháng)', // TODO: VI-review by native speaker
       level: 'required',
       category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
     },
     {
       id: 'anwaltsvollmacht',
@@ -1039,6 +1046,773 @@ const haertefall: MandatsartChecklist = {
 }
 
 // ---------------------------------------------------------------------------
+// 12. Aufenthaltstitel-Verlängerung (Bao-pilot validated set, 6-Monats-Einkommen)
+// ---------------------------------------------------------------------------
+// Note: differs from #1 (aufenthaltstitel-verlaengerung) in document scope:
+// 6-month income window, explicit Steuer-ID, A1/B1 as optional rather than conditional.
+
+const aufenthaltVerlaengerung: MandatsartChecklist = {
+  id: 'aufenthalt_verlaengerung',
+  title: 'Aufenthaltstitel-Verlängerung',
+  titleVi: 'Gia hạn giấy phép cư trú', // TODO: VI-review by native speaker
+  category: 'migration',
+  description:
+    'Verlängerung eines bestehenden Aufenthaltstitels vor Ablauf der Gültigkeitsdauer (§ 8 AufenthG). Checkliste für Bao-Pilot: deckt den vollständigen Dokumentensatz inklusive 6-Monats-Einkommensnachweise ab.',
+  legalBasis: ['§ 8 AufenthG', '§ 81 AufenthG', '§ 5 AufenthG', '§ 26 AufenthG'],
+  typicalDuration: '6–12 Wochen',
+  requiredDocuments: [
+    {
+      id: 'reisepass',
+      label: 'Gültiger Reisepass (Original + Kopie aller Stempelseiten, ≥ 6 Monate gültig)',
+      labelVi: 'Hộ chiếu còn hiệu lực (bản gốc + bản sao tất cả trang đóng dấu, còn hạn ≥ 6 tháng)', // TODO: VI-review by native speaker
+      description: 'Alle bestempelten Seiten müssen farbig kopiert werden.',
+      level: 'required',
+      category: 'identitaet',
+      typicalIssues: [
+        'Ablichtung muss farbig sein',
+        'Reisepass mit weniger als 6 Monaten Restlaufzeit wird oft abgelehnt',
+      ],
+    },
+    {
+      id: 'alter_aufenthaltstitel',
+      label: 'Alter Aufenthaltstitel (Original + Kopie Vorder- und Rückseite)',
+      labelVi: 'Giấy phép cư trú cũ (bản gốc + bản sao cả hai mặt)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'aufenthalt',
+      typicalIssues: ['Gültigkeitsdatum prüfen — Antrag muss vor Ablauf gestellt werden'],
+    },
+    {
+      id: 'biometrisches_lichtbild',
+      label: 'Biometrisches Passfoto (35 × 45 mm, ≤ 6 Monate alt, weißer Hintergrund)',
+      labelVi: 'Ảnh sinh trắc học (35 × 45 mm, không quá 6 tháng, nền trắng)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
+      typicalIssues: ['Druck auf Fotopapier, kein Normalpapier-Ausdruck'],
+    },
+    {
+      id: 'krankenversicherungsnachweis',
+      label: 'Nachweis Krankenversicherung (Versicherungskarte oder Bescheinigung)',
+      labelVi: 'Bằng chứng bảo hiểm y tế (thẻ bảo hiểm hoặc giấy chứng nhận)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'gesundheit',
+    },
+    {
+      id: 'meldebescheinigung',
+      label: 'Aktuelle Meldebescheinigung (≤ 3 Monate alt)',
+      labelVi: 'Giấy xác nhận đăng ký hộ khẩu (không quá 3 tháng)', // TODO: VI-review by native speaker
+      description: 'Amtliche Bestätigung der Wohnadresse vom Einwohnermeldeamt. Maximales Alter: 3 Monate.',
+      level: 'required',
+      category: 'wohnen',
+    },
+    {
+      id: 'einkommensnachweise_6_monate',
+      label: 'Einkommensnachweise letzte 6 Monate (Lohnabrechnungen oder Bescheid)',
+      labelVi: 'Bằng chứng thu nhập 6 tháng gần nhất (phiếu lương hoặc quyết định)', // TODO: VI-review by native speaker
+      description: 'Sicherung des Lebensunterhalts gem. § 5 Abs. 1 Nr. 1 AufenthG. Sechs Monate werden für Verlängerung erwartet.',
+      level: 'required',
+      category: 'einkommen',
+      typicalIssues: ['Minijob reicht oft nicht für Lebensunterhaltssicherung', 'Selbstständige: Steuerbescheid letzter 2 Jahre'],
+    },
+    {
+      id: 'mietvertrag',
+      label: 'Aktueller Mietvertrag',
+      labelVi: 'Hợp đồng thuê nhà hiện tại', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'wohnen',
+    },
+    {
+      id: 'anwaltsvollmacht',
+      label: 'Anwaltsvollmacht (Original, unterschrieben)',
+      labelVi: 'Giấy ủy quyền luật sư (bản gốc, có chữ ký)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'sonstiges',
+    },
+    {
+      id: 'sprachzertifikat_a1_b1',
+      label: 'Sprachzertifikat A1 oder B1 Deutsch (z. B. Goethe, telc)',
+      labelVi: 'Chứng chỉ tiếng Đức A1 hoặc B1 (ví dụ Goethe, telc)', // TODO: VI-review by native speaker
+      description: 'Erforderlich, wenn der Aufenthaltstitel oder die angestrebte Kategorie einen Sprachnachweis voraussetzt.',
+      level: 'optional',
+      category: 'sprache',
+    },
+    {
+      id: 'integrationskursnachweis',
+      label: 'Integrationskursnachweis (Teilnahme- oder Abschlussbestätigung)',
+      labelVi: 'Bằng chứng khóa hội nhập (xác nhận tham gia hoặc hoàn thành)', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'sprache',
+    },
+    {
+      id: 'steuer_id_bescheinigung',
+      label: 'Steuer-ID-Bescheinigung (Schreiben des Bundeszentralamts für Steuern)',
+      labelVi: 'Giấy chứng nhận mã số thuế (thư từ Cơ quan thuế liên bang)', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'sonstiges',
+    },
+  ],
+}
+
+// ---------------------------------------------------------------------------
+// 13. Familiennachzug Ehegatten (Bao-pilot validated set)
+// ---------------------------------------------------------------------------
+// Note: differs from #2 (familiennachzug-ehegatte) in document scope:
+// Heiratsbestätigung Standesamt DE as required (when applicable),
+// Härtefall-Sprachbefreiung as optional (validate with Bao: conditional?).
+
+const familiennachzugEhegatten: MandatsartChecklist = {
+  id: 'familiennachzug_ehegatten',
+  title: 'Familiennachzug Ehegatten',
+  titleVi: 'Đoàn tụ gia đình – vợ/chồng (đầy đủ)', // TODO: VI-review by native speaker
+  category: 'migration',
+  description:
+    'Nachzug eines Ehegatten zu einem in Deutschland lebenden Stammberechtigten (§ 30 AufenthG). Beinhaltet vollständigen Dokumentensatz für Visumverfahren und anschließende Aufenthaltserlaubnis.',
+  legalBasis: ['§ 27 AufenthG', '§ 30 AufenthG', '§ 5 AufenthG', '§ 29 AufenthG'],
+  typicalDuration: '3–6 Monate (Visumverfahren + Aufenthaltserlaubnis)',
+  requiredDocuments: [
+    {
+      id: 'reisepass_nachziehend',
+      label: 'Reisepass des nachziehenden Partners (Original + Kopie aller Stempelseiten, ≥ 6 Monate gültig)',
+      labelVi: 'Hộ chiếu người theo (bản gốc + bản sao tất cả trang đóng dấu, còn hạn ≥ 6 tháng)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'identitaet',
+    },
+    {
+      id: 'heiratsurkunde_apostille',
+      label: 'Eheurkunde mit Apostille oder Legalisation + Übersetzung durch vereidigten Übersetzer',
+      labelVi: 'Giấy đăng ký kết hôn kèm Apostille hoặc hợp pháp hóa + bản dịch công chứng', // TODO: VI-review by native speaker
+      description: 'Ausländische Eheurkunden benötigen Apostille (Haager Abkommen) oder Legalisation. Vietnamesische Dokumente benötigen Legalisation (kein Apostille-Mitglied).',
+      level: 'required',
+      category: 'familie',
+      typicalIssues: [
+        'Vietnamesische Urkunden: Legalisation durch Deutsche Botschaft Hanoi/HCMC',
+        'Übersetzung muss vereidigter Übersetzer erstellen',
+        'Originalurkunde muss vorgelegt werden',
+      ],
+    },
+    {
+      id: 'sprachzeugnis_a1_nachziehend',
+      label: 'A1-Sprachzertifikat des nachziehenden Partners (Deutsch, z. B. Goethe "Start Deutsch 1")',
+      labelVi: 'Chứng chỉ tiếng Đức A1 của người theo (ví dụ Goethe "Start Deutsch 1")', // TODO: VI-review by native speaker
+      description: 'Gem. § 30 Abs. 1 Nr. 2 AufenthG Grundvoraussetzung, sofern kein Ausnahmegrund vorliegt.',
+      level: 'required',
+      category: 'sprache',
+      typicalIssues: [
+        'Ausnahmen: Höheres Alter (67+), gesundheitliche Hinderungsgründe, nachweislich unmöglich',
+        'Prüfung muss vor Visumsantrag abgeschlossen sein',
+      ],
+    },
+    {
+      id: 'wohnraumnachweis',
+      label: 'Nachweis ausreichender Wohnraum: Mietvertrag + Wohnflächenberechnung',
+      labelVi: 'Bằng chứng nhà ở đủ tiêu chuẩn: hợp đồng thuê + tính diện tích', // TODO: VI-review by native speaker
+      description: 'Faustregel der Behörden: mind. 12 m² pro Person (Wohn-/Schlafzimmer, ohne Küche/Bad).',
+      level: 'required',
+      category: 'wohnen',
+    },
+    {
+      id: 'einkommensnachweise_stammberechtigter_6m',
+      label: 'Einkommensnachweise des Stammberechtigten letzte 6 Monate (Lohnabrechnungen + Arbeitsvertrag)',
+      labelVi: 'Bằng chứng thu nhập người bảo lãnh 6 tháng gần nhất (phiếu lương + hợp đồng lao động)', // TODO: VI-review by native speaker
+      description: 'Lebensunterhaltssicherung gem. § 5 Abs. 1 Nr. 1 AufenthG für beide Personen.',
+      level: 'required',
+      category: 'einkommen',
+    },
+    {
+      id: 'krankenversicherung',
+      label: 'Nachweis Krankenversicherung (für nachziehenden Partner)',
+      labelVi: 'Bằng chứng bảo hiểm y tế (cho người theo)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'gesundheit',
+    },
+    {
+      id: 'biometrisches_lichtbild',
+      label: 'Biometrisches Passfoto nachziehender Partner (35 × 45 mm, ≤ 6 Monate alt)',
+      labelVi: 'Ảnh sinh trắc học người theo (35 × 45 mm, không quá 6 tháng)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
+    },
+    {
+      id: 'aufenthaltstitel_stammberechtigter',
+      label: 'Aufenthaltstitel des Stammberechtigten (Original + Kopie)',
+      labelVi: 'Giấy phép cư trú của người bảo lãnh (bản gốc + bản sao)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'aufenthalt',
+      typicalIssues: ['Bei deutschen Stammberechtigten entfällt dieser Nachweis'],
+    },
+    {
+      id: 'heiratsbestaetigung_standesamt',
+      label: 'Heiratsbestätigung Standesamt Deutschland (wenn Eheschließung in DE erfolgt)',
+      labelVi: 'Xác nhận kết hôn của cơ quan hộ tịch Đức (nếu kết hôn ở Đức)', // TODO: VI-review by native speaker
+      description: 'Nur erforderlich, wenn die Ehe in Deutschland geschlossen wurde. Steht neben der ausländischen Eheurkunde.',
+      level: 'required',
+      category: 'familie',
+      typicalIssues: ['Entfällt, wenn Eheschließung im Ausland stattgefunden hat'],
+    },
+    {
+      id: 'anwaltsvollmacht',
+      label: 'Anwaltsvollmacht (Original, unterschrieben)',
+      labelVi: 'Giấy ủy quyền luật sư (bản gốc, có chữ ký)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'sonstiges',
+    },
+    {
+      id: 'haertefall_begruendung',
+      label: 'Härtefall-Begründung (Antrag auf Befreiung vom Sprachnachweis gem. § 30 Abs. 1 S. 3 AufenthG)',
+      labelVi: 'Lý do trường hợp khó khăn đặc biệt (miễn chứng chỉ ngôn ngữ, § 30 Abs. 1 S. 3 AufenthG)', // TODO: VI-review by native speaker
+      description: 'Gilt z. B. bei Analphabetismus, schwerer Krankheit oder wenn Erwerb objektiv nicht möglich ist.',
+      level: 'optional',
+      category: 'sonstiges',
+    },
+    {
+      id: 'geburtsurkunde_gemeinsames_kind',
+      label: 'Geburtsurkunde gemeinsames Kind (Original + Apostille/Legalisation + Übersetzung)',
+      labelVi: 'Giấy khai sinh con chung (bản gốc + Apostille/hợp pháp hóa + bản dịch)', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'familie',
+    },
+  ],
+}
+
+// ---------------------------------------------------------------------------
+// 14. Strafbefehl-Einspruch nach § 410 StPO
+// ---------------------------------------------------------------------------
+
+const strafbefehlEinspruch: MandatsartChecklist = {
+  id: 'strafbefehl_einspruch',
+  title: 'Strafbefehl-Einspruch (§ 410 StPO)',
+  titleVi: 'Kháng nghị lệnh xử phạt hình sự (§ 410 StPO)', // TODO: VI-review by native speaker
+  category: 'strafrecht',
+  description:
+    'Einspruch gegen einen Strafbefehl gem. § 410 StPO. Frist: 2 Wochen ab Zustellung. Bearbeitung für Bao als Strafverteidiger — häufig bei Mandantschaft mit Migrationshintergrund wegen Sprachbarriere verpasst.',
+  legalBasis: ['§ 407 StPO', '§ 410 StPO', '§ 147 StPO', '§ 185 GVG'],
+  typicalDuration: '2–6 Monate (Hauptverhandlung nach Einspruch)',
+  requiredDocuments: [
+    {
+      id: 'strafbefehl_original',
+      label: 'Strafbefehl-Original mit verzeichnetem Zustellungsdatum',
+      labelVi: 'Lệnh xử phạt hình sự gốc kèm ngày tống đạt', // TODO: VI-review by native speaker
+      description: 'Das Zustellungsdatum ist maßgeblich für die 2-Wochen-Einspruchsfrist gem. § 410 Abs. 1 StPO. Ohne Datum kann die Frist nicht berechnet werden.',
+      level: 'required',
+      category: 'sonstiges',
+      typicalIssues: [
+        'Zustellungsdatum auf dem Umschlag dokumentieren (Briefkasten-Zustellung)',
+        'Bei Zustellung durch die Post: Datum auf dem gelben Einschreiben-Beleg',
+        'Fristversäumnis prüfen — ggf. Wiedereinsetzungsantrag nach § 44 StPO',
+      ],
+    },
+    {
+      id: 'personalausweis_mandant',
+      label: 'Personalausweis oder Reisepass des Mandanten (Kopie)',
+      labelVi: 'CMND hoặc hộ chiếu của thân chủ (bản sao)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'identitaet',
+    },
+    {
+      id: 'vollmacht_akteneinsicht',
+      label: 'Anwaltsvollmacht für Akteneinsicht (§ 147 StPO, Original, unterschrieben)',
+      labelVi: 'Giấy ủy quyền luật sư để xem hồ sơ (§ 147 StPO, bản gốc, có chữ ký)', // TODO: VI-review by native speaker
+      description: 'Berechtigt zur Einsicht in die Ermittlungsakte bei Staatsanwaltschaft oder Gericht vor der Verhandlung.',
+      level: 'required',
+      category: 'sonstiges',
+    },
+    {
+      id: 'sachverhaltsschilderung',
+      label: 'Sachverhaltsschilderung des Mandanten (schriftlich, datiert)',
+      labelVi: 'Tường trình của thân chủ về sự việc (bằng văn bản, có ngày)', // TODO: VI-review by native speaker
+      description: 'Eigene Darstellung des Mandanten zum Vorwurf — Grundlage für Verteidigungsstrategie und ggf. Widerspruch zur Anklageschrift.',
+      level: 'required',
+      category: 'sonstiges',
+    },
+    {
+      id: 'zeugenkontakte',
+      label: 'Zeugen-Kontaktdaten (Name, Anschrift, ggf. Telefon)',
+      labelVi: 'Thông tin liên lạc nhân chứng (tên, địa chỉ, điện thoại nếu có)', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'sonstiges',
+    },
+    {
+      id: 'beweismittel',
+      label: 'Beweismittel (Fotos, Screenshots, Nachrichten, Dokumente)',
+      labelVi: 'Bằng chứng (ảnh, ảnh chụp màn hình, tin nhắn, tài liệu)', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'sonstiges',
+      acceptedFormats: ['pdf', 'jpg', 'png', 'mp4', 'docx'],
+    },
+    {
+      id: 'fruehere_strafbefehle',
+      label: 'Frühere Strafbefehle oder laufende Verfahren (soweit bekannt)',
+      labelVi: 'Lệnh xử phạt cũ hoặc các vụ án đang xử lý (nếu có)', // TODO: VI-review by native speaker
+      description: 'Relevant für Strafzumessung und Einschätzung der Wiederholungsgefahr.',
+      level: 'optional',
+      category: 'sonstiges',
+    },
+    {
+      id: 'dolmetscher_bestaetigung',
+      label: 'Bestätigung Dolmetscher-Einsatz bei polizeilicher Vernehmung (falls zutreffend)',
+      labelVi: 'Xác nhận sử dụng phiên dịch trong buổi hỏi cung (nếu có)', // TODO: VI-review by native speaker
+      description: 'Relevant, wenn der Mandant bei Vernehmung oder Zustellung keinen Dolmetscher hatte — möglicher Verfahrensfehler.',
+      level: 'optional',
+      category: 'sonstiges',
+    },
+  ],
+}
+
+// ---------------------------------------------------------------------------
+// 15. Schengen-Kurzaufenthaltsvisum (§ 6 AufenthG)
+// ---------------------------------------------------------------------------
+
+const visumKurzaufenthalt: MandatsartChecklist = {
+  id: 'visum_kurzaufenthalt',
+  title: 'Schengen-Visum / Besuchervisum (max. 90 Tage)',
+  titleVi: 'Thị thực Schengen / thị thực thăm viếng (tối đa 90 ngày)', // TODO: VI-review by native speaker
+  category: 'migration',
+  description:
+    'Schengen-Kurzaufenthaltsvisum (Typ C) für Aufenthalte bis zu 90 Tagen innerhalb von 180 Tagen. Typisch für Familienbesuche, Touristenreisen oder kurze Geschäftsreisen. Antrag bei der Deutschen Botschaft im Heimatland.',
+  legalBasis: ['§ 6 AufenthG', 'Art. 2 ff. Visakodex (EG) 810/2009', 'Anhang I Visakodex'],
+  typicalDuration: '2–4 Wochen (Botschaftsbearbeitung)',
+  requiredDocuments: [
+    {
+      id: 'antragsformular',
+      label: 'Ausgefülltes Visumantragsformular (Schengen-Formular, unterschrieben)',
+      labelVi: 'Mẫu đơn xin thị thực đã điền và ký (mẫu Schengen)', // TODO: VI-review by native speaker
+      description: 'Das Formular ist über das Online-Terminportal der Deutschen Botschaft abrufbar und muss vollständig ausgefüllt und handschriftlich unterschrieben werden.',
+      level: 'required',
+      category: 'sonstiges',
+    },
+    {
+      id: 'reisepass',
+      label: 'Reisepass (Original, ≥ 6 Monate gültig nach geplantem Abreisedatum, mind. 2 freie Seiten)',
+      labelVi: 'Hộ chiếu (bản gốc, còn hạn ≥ 6 tháng sau ngày dự kiến rời đi, ít nhất 2 trang trống)', // TODO: VI-review by native speaker
+      description: 'Der Reisepass muss noch mindestens 3 Monate nach Ende des geplanten Aufenthalts gültig sein — viele Botschaften prüfen 6 Monate.',
+      level: 'required',
+      category: 'identitaet',
+      typicalIssues: [
+        'Ältere Reisepässe ohne Chip werden von manchen Botschaften nicht mehr akzeptiert',
+        'Reisepass muss mind. 2 leere Seiten für Visa-Stempel haben',
+      ],
+    },
+    {
+      id: 'biometrisches_lichtbild',
+      label: 'Biometrisches Lichtbild (35 × 45 mm, ≤ 6 Monate alt, weißer Hintergrund)',
+      labelVi: 'Ảnh sinh trắc học (35 × 45 mm, không quá 6 tháng, nền trắng)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
+      typicalIssues: ['Druck muss auf Fotopapier sein, kein Ausdruck auf Normalpapier'],
+    },
+    {
+      id: 'reisekrankenversicherung',
+      label: 'Auslandsreisekrankenversicherung (mind. 30.000 € Deckung, für gesamten Schengen-Raum)',
+      labelVi: 'Bảo hiểm y tế du lịch quốc tế (tối thiểu 30.000 €, bao phủ toàn khu vực Schengen)', // TODO: VI-review by native speaker
+      description: 'Pflichtvoraussetzung gem. Art. 15 Visakodex. Die Police muss den gesamten geplanten Aufenthaltszeitraum abdecken.',
+      level: 'required',
+      category: 'gesundheit',
+      typicalIssues: ['Deckungssumme muss explizit ≥ 30.000 € ausgewiesen sein'],
+    },
+    {
+      id: 'finanzierungsnachweis',
+      label: 'Finanzierungsnachweis: Kontoauszüge letzter 3 Monate oder Verpflichtungserklärung des Einladers',
+      labelVi: 'Bằng chứng tài chính: sao kê ngân hàng 3 tháng gần nhất hoặc cam kết tài chính của người mời', // TODO: VI-review by native speaker
+      description: 'Nachweis ausreichender Mittel für Reise und Aufenthalt. Faustregel: ca. 45 €/Tag in Deutschland. Alternativ: Verpflichtungserklärung gem. § 68 AufenthG vom Einlader.',
+      level: 'required',
+      category: 'einkommen',
+    },
+    {
+      id: 'unterkunftsnachweis',
+      label: 'Unterkunftsnachweis: Hotelbuchung oder Bestätigung der Gastfamilie',
+      labelVi: 'Bằng chứng chỗ ở: đặt phòng khách sạn hoặc xác nhận của gia đình tiếp đón', // TODO: VI-review by native speaker
+      description: 'Nachweis, wo der Antragsteller während des Aufenthalts wohnen wird.',
+      level: 'required',
+      category: 'wohnen',
+    },
+    {
+      id: 'hin_und_rueckflug',
+      label: 'Hin- und Rückflugbuchung (Bestätigung, noch kein gebuchtes Ticket erforderlich)',
+      labelVi: 'Đặt vé khứ hồi (xác nhận đặt chỗ, chưa cần mua vé)', // TODO: VI-review by native speaker
+      description: 'Die Buchungsbestätigung (ohne vollständige Zahlung) reicht i.d.R. aus. Sie belegt die Rückreiseabsicht.',
+      level: 'required',
+      category: 'sonstiges',
+    },
+    {
+      id: 'einladungsschreiben',
+      label: 'Einladungsschreiben von Verwandten oder Geschäftspartner:in in Deutschland',
+      labelVi: 'Thư mời từ người thân hoặc đối tác kinh doanh ở Đức', // TODO: VI-review by native speaker
+      description: 'Das Schreiben sollte Zweck, Dauer und finanzielle Übernahme des Besuchs bestätigen. Für Familienbesuche empfohlen, für Geschäftsreisen oft verlangt.',
+      level: 'optional',
+      category: 'sonstiges',
+    },
+  ],
+}
+
+// ---------------------------------------------------------------------------
+// 16. Verpflichtungserklärung (§ 68 AufenthG)
+// ---------------------------------------------------------------------------
+
+const verpflichtungserklaerung: MandatsartChecklist = {
+  id: 'verpflichtungserklaerung',
+  title: 'Verpflichtungserklärung (§ 68 AufenthG)',
+  titleVi: 'Cam kết tài chính cho người nhập cảnh (§ 68 AufenthG)', // TODO: VI-review by native speaker
+  category: 'migration',
+  description:
+    'Formelle Erklärung einer in Deutschland lebenden Person (Einlader), alle Kosten des Aufenthalts und der Rückreise des Eingeladenen zu übernehmen. Wird von der Ausländerbehörde ausgestellt und ist Visumvoraussetzung für Kurzaufenthalte.',
+  legalBasis: ['§ 68 AufenthG', '§ 6 AufenthG', '§ 66 AufenthG'],
+  typicalDuration: '1–3 Wochen (Ausländerbehörde)',
+  requiredDocuments: [
+    {
+      id: 'personalausweis_verpflichteter',
+      label: 'Personalausweis oder Reisepass des/der Verpflichteten (Original)',
+      labelVi: 'CMND hoặc hộ chiếu của người cam kết (bản gốc)', // TODO: VI-review by native speaker
+      description: 'Die Ausländerbehörde prüft die Identität und den Aufenthaltsstatus der verpflichtenden Person.',
+      level: 'required',
+      category: 'identitaet',
+    },
+    {
+      id: 'einkommensnachweise_verpflichteter',
+      label: 'Einkommensnachweise des/der Verpflichteten: letzte 6 Monate (Lohnabrechnungen oder Steuerbescheid)',
+      labelVi: 'Bằng chứng thu nhập của người cam kết: 6 tháng gần nhất (phiếu lương hoặc quyết định thuế)', // TODO: VI-review by native speaker
+      description: 'Die Behörde prüft, ob der Einlader finanziell in der Lage ist, Kosten vollständig zu übernehmen.',
+      level: 'required',
+      category: 'einkommen',
+      typicalIssues: ['Selbstständige: Steuerbescheid der letzten 2 Jahre einreichen'],
+    },
+    {
+      id: 'mietvertrag_wohnflaeche',
+      label: 'Mietvertrag des/der Verpflichteten + Wohnflächenberechnung (für Mitversicherungs-Nachweis)',
+      labelVi: 'Hợp đồng thuê nhà của người cam kết + tính diện tích nhà ở', // TODO: VI-review by native speaker
+      description: 'Belegt ausreichenden Wohnraum, falls der Eingeladene bei der verpflichteten Person wohnen wird.',
+      level: 'required',
+      category: 'wohnen',
+    },
+    {
+      id: 'schufa',
+      label: 'Schufa-Selbstauskunft (≤ 3 Monate alt)',
+      labelVi: 'Báo cáo tín dụng Schufa (không quá 3 tháng)', // TODO: VI-review by native speaker
+      description: 'Nachweis der Kreditwürdigkeit — manche Ausländerbehörden fordern dies als Bonitätsnachweis.',
+      level: 'required',
+      category: 'einkommen',
+    },
+    {
+      id: 'pass_kopie_eingeladener',
+      label: 'Kopie des Reisepasses des/der Eingeladenen (Hauptdatenseite)',
+      labelVi: 'Bản sao hộ chiếu của người được mời (trang thông tin chính)', // TODO: VI-review by native speaker
+      description: 'Die Daten des Eingeladenen werden in die Verpflichtungserklärung eingetragen.',
+      level: 'required',
+      category: 'identitaet',
+    },
+    {
+      id: 'reisezeitraum_nachweis',
+      label: 'Geplanter Reisezeitraum + Reisezweck (schriftliche Angabe)',
+      labelVi: 'Thời gian và mục đích chuyến đi dự kiến (khai bằng văn bản)', // TODO: VI-review by native speaker
+      description: 'Wird in das Formular der Ausländerbehörde eingetragen.',
+      level: 'required',
+      category: 'sonstiges',
+    },
+    {
+      id: 'krankenversicherung_mitversicherung',
+      label: 'Nachweis Krankenversicherungs-Mitversicherung (bei Familienangehörigen in der GKV)',
+      labelVi: 'Bằng chứng bảo hiểm y tế chung (đối với thành viên gia đình trong bảo hiểm y tế pháp định)', // TODO: VI-review by native speaker
+      description: 'Nur erforderlich, wenn der Eingeladene als Familienangehöriger in der gesetzlichen Krankenversicherung des Einladers mitversichert werden soll.',
+      level: 'conditional',
+      conditionalNote: 'Nur bei geplanter GKV-Mitversicherung des Eingeladenen als Familienangehöriger',
+      category: 'gesundheit',
+    },
+    {
+      id: 'verwandtschaftsnachweis',
+      label: 'Verwandtschaftsnachweis (Geburtsurkunde, Heiratsurkunde) bei Familienangehörigen',
+      labelVi: 'Bằng chứng quan hệ họ hàng (giấy khai sinh, giấy đăng ký kết hôn) với thành viên gia đình', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'familie',
+    },
+  ],
+}
+
+// ---------------------------------------------------------------------------
+// 17. Aufenthaltsgestattung Asyl (§ 55 AsylG)
+// ---------------------------------------------------------------------------
+
+const aufenthaltsgestattung: MandatsartChecklist = {
+  id: 'aufenthaltsgestattung',
+  title: 'Aufenthaltsgestattung Asyl (§ 55 AsylG)',
+  titleVi: 'Giấy phép tạm trú trong thủ tục xin tị nạn (§ 55 AsylG)', // TODO: VI-review by native speaker
+  category: 'migration',
+  description:
+    'Aufenthaltsgestattung für Asylsuchende während des laufenden Asylverfahrens beim BAMF. Kein eigenständiger Aufenthaltstitel, sondern eine Duldung des Aufenthalts während der Prüfung. Mandatsart für Bao: Erstberatung, Akteneinsicht und Begleitung des BAMF-Verfahrens.',
+  legalBasis: ['§ 55 AsylG', '§ 63 AsylG', '§ 14 AsylG', '§ 48 AsylG'],
+  typicalDuration: '3–36 Monate (BAMF-Verfahren)',
+  requiredDocuments: [
+    {
+      id: 'bamf_bescheid_asylgesuch',
+      label: 'BAMF-Bescheid über Asylgesuch oder Registrierungsnachweis (Ankunftsnachweis)',
+      labelVi: 'Quyết định của BAMF về đơn xin tị nạn hoặc bằng chứng đăng ký (giấy chứng nhận đến nơi)', // TODO: VI-review by native speaker
+      description: 'Der Ankunftsnachweis (früher BÜMA) wird bei Einleitung des Asylverfahrens durch die Aufnahmeeinrichtung ausgestellt.',
+      level: 'required',
+      category: 'aufenthalt',
+      typicalIssues: ['Unterschied zwischen Ankunftsnachweis (frühe Phase) und Aufenthaltsgestattungs-Karte (spätere Phase) beachten'],
+    },
+    {
+      id: 'aufenthaltsgestattung_karte',
+      label: 'Aufenthaltsgestattungs-Karte (falls bereits ausgestellt)',
+      labelVi: 'Thẻ tạm trú (nếu đã được cấp)', // TODO: VI-review by native speaker
+      description: 'Die Karte wird nach der förmlichen Asylantragstellung bei der Außenstelle des BAMF ausgestellt.',
+      level: 'required',
+      category: 'aufenthalt',
+    },
+    {
+      id: 'biometrisches_lichtbild',
+      label: 'Biometrisches Lichtbild (35 × 45 mm, ≤ 6 Monate alt)',
+      labelVi: 'Ảnh sinh trắc học (35 × 45 mm, không quá 6 tháng)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
+    },
+    {
+      id: 'sachverhaltsschilderung_mandant',
+      label: 'Sachverhaltsschilderung des Mandanten (schriftlich, eigene Darstellung der Fluchtgeschichte)',
+      labelVi: 'Tường trình tình huống của thân chủ (bằng văn bản, mô tả lý do và hành trình tị nạn)', // TODO: VI-review by native speaker
+      description: 'Grundlage für die Anhörungsvorbereitung beim BAMF. Je konkreter und detaillierter, desto besser für die Vorbereitung.',
+      level: 'required',
+      category: 'sonstiges',
+      typicalIssues: ['Widersprüche zwischen schriftlicher Schilderung und mündlicher BAMF-Anhörung sind häufige Ablehnungsgründe'],
+    },
+    {
+      id: 'anwaltsvollmacht',
+      label: 'Anwaltsvollmacht (Original, unterschrieben)',
+      labelVi: 'Giấy ủy quyền luật sư (bản gốc, có chữ ký)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'sonstiges',
+    },
+    {
+      id: 'identitaetsdokumente_heimatland',
+      label: 'Identitätsdokumente aus dem Heimatland (Reisepass, Personalausweis, Geburtsurkunde — sofern vorhanden)',
+      labelVi: 'Giấy tờ nhân thân từ quê hương (hộ chiếu, CMND, giấy khai sinh — nếu có)', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'identitaet',
+    },
+    {
+      id: 'beweismittel_verfolgung',
+      label: 'Beweismittel zur Verfolgungsgeschichte (Fotos, Dokumente, ärztliche Atteste, polizeiliche Anzeigen)',
+      labelVi: 'Bằng chứng về lịch sử bị bắt bớ (ảnh, tài liệu, giấy y tế, đơn tố cáo cảnh sát)', // TODO: VI-review by native speaker
+      description: 'Konkrete Beweise stärken die Glaubwürdigkeit beim BAMF erheblich. Auch digitale Belege (Screenshots, Nachrichten) können eingereicht werden.',
+      level: 'optional',
+      category: 'sonstiges',
+    },
+    {
+      id: 'bisherige_anwaltskorrespondenz',
+      label: 'Bisherige Anwaltskorrespondenz und BAMF-Schriftsätze (chronologisch geordnet)',
+      labelVi: 'Thư từ luật sư trước đây và các văn bản BAMF (sắp xếp theo thứ tự thời gian)', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'sonstiges',
+    },
+  ],
+}
+
+// ---------------------------------------------------------------------------
+// 18. Familiennachzug Kind (snake_case ID, § 32 AufenthG)
+// ---------------------------------------------------------------------------
+
+const familiennachzugKindSnake: MandatsartChecklist = {
+  id: 'familiennachzug_kind',
+  title: 'Familiennachzug Kind (§ 32 AufenthG)',
+  titleVi: 'Đoàn tụ gia đình – con cái (§ 32 AufenthG)', // TODO: VI-review by native speaker
+  category: 'migration',
+  description:
+    'Nachzug eines minderjährigen Kindes zu einem oder beiden Elternteilen in Deutschland gem. § 32 AufenthG (Drittstaatsangehörige). Bei einem deutschen Elternteil gilt § 28 AufenthG. Gilt auch für Adoptivkinder mit entsprechendem Adoptionsnachweis.',
+  legalBasis: ['§ 32 AufenthG', '§ 28 AufenthG', '§ 29 AufenthG', '§ 5 AufenthG'],
+  typicalDuration: '3–8 Monate',
+  requiredDocuments: [
+    {
+      id: 'reisepass_kind',
+      label: 'Reisepass des Kindes (Original + Kopie aller Stempelseiten, ≥ 6 Monate gültig)',
+      labelVi: 'Hộ chiếu của trẻ (bản gốc + bản sao tất cả trang đóng dấu, còn hạn ≥ 6 tháng)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'identitaet',
+    },
+    {
+      id: 'geburtsurkunde_kind',
+      label: 'Geburtsurkunde des Kindes mit Apostille/Legalisation + beglaubigte Übersetzung ins Deutsche',
+      labelVi: 'Giấy khai sinh của trẻ kèm Apostille/hợp pháp hóa + bản dịch công chứng tiếng Đức', // TODO: VI-review by native speaker
+      description: 'Ausländische Geburtsurkunden bedürfen der Apostille (Haager Abkommen) oder Legalisation durch die Deutsche Botschaft.',
+      level: 'required',
+      category: 'familie',
+      typicalIssues: [
+        'Vietnamesische Urkunden: Legalisation statt Apostille (Vietnam ist kein Haag-Mitglied)',
+        'Übersetzung muss von einem vereidigten Übersetzer stammen',
+      ],
+    },
+    {
+      id: 'sorgerechtsentscheidung',
+      label: 'Sorgerechtsentscheidung oder Nachweis gemeinsames Sorgerecht (notarielle Erklärung)',
+      labelVi: 'Quyết định về quyền nuôi con hoặc bằng chứng quyền nuôi chung (công chứng)', // TODO: VI-review by native speaker
+      description: 'Wenn nur ein Elternteil in Deutschland lebt, muss das Sorgerecht und ggf. die Zustimmung des anderen Elternteils nachgewiesen werden.',
+      level: 'required',
+      category: 'familie',
+      typicalIssues: ['Zustimmung des im Ausland lebenden Elternteils ggf. notariell beglaubigt erforderlich'],
+    },
+    {
+      id: 'aufenthaltstitel_stammberechtigter',
+      label: 'Aufenthaltstitel des in Deutschland lebenden Elternteils (Original + Kopie)',
+      labelVi: 'Giấy phép cư trú của cha/mẹ đang sống ở Đức (bản gốc + bản sao)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'aufenthalt',
+    },
+    {
+      id: 'wohnraumnachweis',
+      label: 'Wohnraumnachweis: Mietvertrag + ausreichende Wohnfläche für das Kind (mind. 12 m² pro Person)',
+      labelVi: 'Bằng chứng nhà ở: hợp đồng thuê + diện tích đủ cho trẻ (ít nhất 12 m² mỗi người)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'wohnen',
+    },
+    {
+      id: 'einkommensnachweis_stammberechtigter',
+      label: 'Einkommensnachweis des Stammberechtigten (letzte 3 Monate, Lohnabrechnungen)',
+      labelVi: 'Bằng chứng thu nhập của người bảo lãnh (3 tháng gần nhất, phiếu lương)', // TODO: VI-review by native speaker
+      description: 'Lebensunterhaltssicherung gem. § 5 Abs. 1 Nr. 1 AufenthG für Kind und Stammberechtigte:n gemeinsam.',
+      level: 'required',
+      category: 'einkommen',
+    },
+    {
+      id: 'krankenversicherung_kind',
+      label: 'Krankenversicherungsnachweis für das Kind',
+      labelVi: 'Bằng chứng bảo hiểm y tế cho trẻ', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'gesundheit',
+    },
+    {
+      id: 'biometrisches_lichtbild_kind',
+      label: 'Biometrisches Lichtbild des Kindes (35 × 45 mm, ≤ 6 Monate alt)',
+      labelVi: 'Ảnh sinh trắc học của trẻ (35 × 45 mm, không quá 6 tháng)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'biometrie',
+      acceptedFormats: ['jpg', 'png'],
+    },
+    {
+      id: 'anwaltsvollmacht',
+      label: 'Anwaltsvollmacht (unterschrieben von sorgeberechtigtem Elternteil)',
+      labelVi: 'Giấy ủy quyền luật sư (ký bởi người giám hộ hợp pháp)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'sonstiges',
+    },
+    {
+      id: 'schulbescheinigung',
+      label: 'Schulbescheinigung (falls Kind schulpflichtig, ≥ 6 Jahre)',
+      labelVi: 'Giấy xác nhận học sinh (nếu trẻ trong độ tuổi đi học, ≥ 6 tuổi)', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'sonstiges',
+    },
+    {
+      id: 'sprachzeugnis_kind_16',
+      label: 'Sprachzertifikat Kind ab 16 Jahren (Deutsch C1 erforderlich gem. § 32 Abs. 2 AufenthG)',
+      labelVi: 'Chứng chỉ ngôn ngữ cho trẻ từ 16 tuổi (Tiếng Đức C1 theo § 32 Abs. 2 AufenthG)', // TODO: VI-review by native speaker
+      description: 'Ab dem vollendeten 16. Lebensjahr ist für den eigenständigen Kindernachzug gem. § 32 Abs. 2 AufenthG ein C1-Sprachnachweis erforderlich.',
+      level: 'conditional',
+      conditionalNote: 'Nur wenn das Kind zum Zeitpunkt des Antrags das 16. Lebensjahr vollendet hat',
+      category: 'sprache',
+    },
+  ],
+}
+
+// ---------------------------------------------------------------------------
+// 19. Erlaubnis zum Daueraufenthalt-EU (§ 9a AufenthG)
+// ---------------------------------------------------------------------------
+
+const niederlassungEuDaueraufenthalt: MandatsartChecklist = {
+  id: 'niederlassung_eu_daueraufenthalt',
+  title: 'Erlaubnis zum Daueraufenthalt-EU (§ 9a AufenthG)',
+  titleVi: 'Giấy phép cư trú dài hạn EU (§ 9a AufenthG)', // TODO: VI-review by native speaker
+  category: 'migration',
+  description:
+    'Daueraufenthaltsstatus gem. EU-Richtlinie 2003/109/EG, umgesetzt in § 9a AufenthG. Ermöglicht nach 5 Jahren legalen Aufenthalts einen EU-weit anerkannten Aufenthaltsstatus. Voraussetzungen ähnlich wie Niederlassungserlaubnis (§ 9 AufenthG), aber mit EU-Anerkennung in anderen Mitgliedstaaten.',
+  legalBasis: ['§ 9a AufenthG', '§ 9b AufenthG', '§ 9c AufenthG', 'Richtlinie 2003/109/EG'],
+  typicalDuration: '4–8 Wochen',
+  requiredDocuments: [
+    {
+      id: 'reisepass',
+      label: 'Reisepass (Original + Kopie aller Stempelseiten, ≥ 6 Monate gültig)',
+      labelVi: 'Hộ chiếu (bản gốc + bản sao tất cả trang đóng dấu, còn hạn ≥ 6 tháng)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'identitaet',
+    },
+    {
+      id: 'aktueller_aufenthaltstitel',
+      label: 'Aktueller Aufenthaltstitel (Original + Kopie) — Nachweis ≥ 5 Jahre rechtmäßiger Aufenthalt',
+      labelVi: 'Giấy phép cư trú hiện tại (bản gốc + bản sao) — chứng minh ≥ 5 năm cư trú hợp pháp', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'aufenthalt',
+    },
+    {
+      id: 'meldebescheinigung',
+      label: 'Meldebescheinigungen der letzten 5 Jahre (lückenlos, oder Sammel-Meldebescheinigung)',
+      labelVi: 'Giấy đăng ký hộ khẩu 5 năm qua (không gián đoạn, hoặc giấy xác nhận tổng hợp)', // TODO: VI-review by native speaker
+      description: 'Belegt 5 Jahre tatsächlichen Aufenthalt in Deutschland. Lücken können zur Ablehnung führen.',
+      level: 'required',
+      category: 'wohnen',
+      typicalIssues: ['Meldebescheinigungen für Zeiträume ohne Meldung können rückwirkend nicht erstellt werden — frühzeitig prüfen'],
+    },
+    {
+      id: 'einkommensnachweise_5_jahre',
+      label: 'Einkommensnachweise der letzten 5 Jahre (Lohnabrechnungen, Steuerbescheide oder Rentenbescheide)',
+      labelVi: 'Bằng chứng thu nhập 5 năm qua (phiếu lương, quyết định thuế hoặc thông báo lương hưu)', // TODO: VI-review by native speaker
+      description: 'Nachweis dauerhafter Lebensunterhaltssicherung über den gesamten Zeitraum ohne Sozialleistungen.',
+      level: 'required',
+      category: 'einkommen',
+    },
+    {
+      id: 'rentenversicherungsnachweise',
+      label: 'Rentenversicherungsnachweise: 60 Monate Pflichtbeiträge (Rentenauskunft der DRV)',
+      labelVi: 'Bằng chứng bảo hiểm hưu trí: 60 tháng đóng góp bắt buộc (xác nhận của DRV)', // TODO: VI-review by native speaker
+      description: 'Online abrufbar über www.deutsche-rentenversicherung.de. Bearbeitungsdauer 2–3 Wochen einplanen.',
+      level: 'required',
+      category: 'einkommen',
+      typicalIssues: ['Rentenauskunft rechtzeitig beantragen — Bearbeitungszeit 2–3 Wochen'],
+    },
+    {
+      id: 'krankenversicherungsnachweis',
+      label: 'Nachweis Krankenversicherung (gesetzlich oder privat, lückenlos)',
+      labelVi: 'Bằng chứng bảo hiểm y tế (bảo hiểm pháp định hoặc tư nhân, không gián đoạn)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'gesundheit',
+    },
+    {
+      id: 'wohnraumnachweis',
+      label: 'Wohnraumnachweis: aktueller Mietvertrag + ausreichende Wohnfläche für alle Haushaltsmitglieder',
+      labelVi: 'Bằng chứng nhà ở: hợp đồng thuê hiện tại + diện tích đủ cho tất cả thành viên hộ gia đình', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'wohnen',
+    },
+    {
+      id: 'sprachzeugnis_b1',
+      label: 'Sprachzertifikat mind. B1 Deutsch (Goethe, telc, DTZ oder Schulabschluss in DE)',
+      labelVi: 'Chứng chỉ tiếng Đức tối thiểu B1 (Goethe, telc, DTZ hoặc bằng tốt nghiệp ở Đức)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'sprache',
+    },
+    {
+      id: 'anwaltsvollmacht',
+      label: 'Anwaltsvollmacht (Original, unterschrieben)',
+      labelVi: 'Giấy ủy quyền luật sư (bản gốc, có chữ ký)', // TODO: VI-review by native speaker
+      level: 'required',
+      category: 'sonstiges',
+    },
+    {
+      id: 'sprachzeugnis_hoeher_b1',
+      label: 'Sprachzertifikat höher als B1 (B2 oder C1 — stärkt den Antrag, kein Pflichtdokument)',
+      labelVi: 'Chứng chỉ tiếng Đức cao hơn B1 (B2 hoặc C1 — củng cố hồ sơ, không bắt buộc)', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'sprache',
+    },
+    {
+      id: 'integrationsnachweis',
+      label: 'Nachweis besonderer Integration: Ehrenamt, Vereinsmitgliedschaft, ehrenamtliche Tätigkeit',
+      labelVi: 'Bằng chứng hội nhập đặc biệt: hoạt động tình nguyện, thành viên hội đoàn, công tác cộng đồng', // TODO: VI-review by native speaker
+      level: 'optional',
+      category: 'sonstiges',
+    },
+  ],
+}
+
+// ---------------------------------------------------------------------------
 // Main export
 // ---------------------------------------------------------------------------
 
@@ -1054,6 +1828,14 @@ export const MANDATSART_CHECKLISTS: MandatsartChecklist[] = [
   eilantragAbschiebung,              // 9
   untaetigkeitsklage,                // 10
   haertefall,                        // 11
+  aufenthaltVerlaengerung,           // 12
+  familiennachzugEhegatten,          // 13
+  strafbefehlEinspruch,              // 14
+  visumKurzaufenthalt,               // 15
+  verpflichtungserklaerung,          // 16
+  aufenthaltsgestattung,             // 17
+  familiennachzugKindSnake,          // 18
+  niederlassungEuDaueraufenthalt,    // 19
 ]
 
 // ---------------------------------------------------------------------------

@@ -2,6 +2,8 @@ import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { Redis } from '@upstash/redis'
 import { requireProSession } from './_auth'
 import { applyCors, applySecurityHeaders } from './_http'
+import { chat } from './_llm'
+import { applyRateLimit, RATE_LLM, ipUserKey } from './_ratelimit'
 
 const redis = Redis.fromEnv()
 
@@ -49,29 +51,6 @@ function extractTextFromPdfBase64(base64: string): string {
   return normalized
 }
 
-async function openAIChat(messages: Array<Record<string, unknown>>, maxTokens = 1000): Promise<string> {
-  const OPENAI_API_KEY = process.env.OPENAI_API_KEY
-  if (!OPENAI_API_KEY) throw new Error('OpenAI key not configured')
-  const response = await fetch('https://api.openai.com/v1/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      Authorization: `Bearer ${OPENAI_API_KEY}`,
-    },
-    body: JSON.stringify({
-      model: 'gpt-4o-mini',
-      messages,
-      temperature: 0.1,
-      max_tokens: maxTokens,
-    }),
-  })
-  const data = await response.json()
-  const content = data.choices?.[0]?.message?.content
-  if (!response.ok || !content) {
-    throw new Error(data?.error?.message || 'Empty LLM response')
-  }
-  return String(content).trim()
-}
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   applySecurityHeaders(res)
@@ -82,6 +61,11 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' })
   const session = requireProSession(req, res, 'assistenz')
   if (!session) return
+
+  // KI-Cost-Schutz per User (RATE_LLM: 20 req/min/IP+user)
+  const rlOk = await applyRateLimit(req, res, RATE_LLM, ipUserKey(req, session.userId))
+  if (!rlOk) return
+
   if (!process.env.KV_REST_API_URL || !process.env.KV_REST_API_TOKEN) {
     return res.status(503).json({ error: 'Document vault not configured' })
   }
@@ -120,7 +104,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       }
       if (mimeType.startsWith('image/')) {
         const dataUrl = `data:${mimeType};base64,${base64}`
-        const ocrText = await openAIChat([
+        const { content: ocrText } = await chat([
           {
             role: 'system',
             content: 'You perform OCR for legal documents. Transcribe the document faithfully into plain text. Do not summarize.',
@@ -132,7 +116,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
               { type: 'image_url', image_url: { url: dataUrl } },
             ],
           },
-        ], 1600)
+        ], { max_tokens: 1600, temperature: 0.1 })
         return res.status(200).json({ ok: true, status: 'done', provider: 'openai-vision', ocrText })
       }
       return res.status(501).json({
@@ -155,7 +139,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
           hint: 'Run OCR first or provide sourceText',
         })
       }
-      const translatedTextDe = await openAIChat([
+      const { content: translatedTextDe } = await chat([
         {
           role: 'system',
           content: 'You translate legal working texts into German. Preserve legal meaning, keep names, dates, and identifiers unchanged where possible. Return only the German working translation.',
@@ -164,7 +148,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
           role: 'user',
           content: `Source language: ${sourceLanguage || 'unknown'}\nTarget language: ${targetLanguage || 'de'}\n\nText:\n${source}`,
         },
-      ], 1400)
+      ], { max_tokens: 1400, temperature: 0.1 })
       return res.status(200).json({ ok: true, status: 'done', provider: 'openai-translation', translatedTextDe })
     }
 

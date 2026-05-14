@@ -19,6 +19,8 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { requireProSession } from './_auth'
 import { applyCors, applySecurityHeaders } from './_http'
+import { chat } from './_llm'
+import { applyRateLimit, RATE_LLM, ipUserKey } from './_ratelimit'
 
 // ── Base (static) prompt ─────────────────────────────────────
 
@@ -132,10 +134,9 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   const session = requireProSession(req, res, 'assistenz')
   if (!session) return
 
-  const OPENAI_API_KEY = process.env.OPENAI_API_KEY
-  if (!OPENAI_API_KEY) {
-    return res.status(500).json({ error: 'OpenAI key not configured' })
-  }
+  // KI-Cost-Schutz per User (RATE_LLM: 20 req/min/IP+user)
+  const rlOk = await applyRateLimit(req, res, RATE_LLM, ipUserKey(req, session.userId))
+  if (!rlOk) return
 
   const { question, lawyerProfile } = req.body as {
     question?: unknown
@@ -153,29 +154,17 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     buildMemoryPrompt(req.body?.approvedMemory)
 
   try {
-    const response = await fetch('https://api.openai.com/v1/chat/completions', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        Authorization: `Bearer ${OPENAI_API_KEY}`,
-      },
-      body: JSON.stringify({
-        model: 'gpt-4o-mini',
-        messages: [
-          { role: 'system', content: systemPrompt },
-          { role: 'user', content: question },
-        ],
+    const { content } = await chat(
+      [
+        { role: 'system', content: systemPrompt },
+        { role: 'user', content: question },
+      ],
+      {
         max_tokens: 800,
         temperature: 0.2,
         response_format: { type: 'json_schema', json_schema: PRO_JSON_SCHEMA },
-      }),
-    })
-
-    const data = await response.json()
-    const content = data.choices?.[0]?.message?.content
-    if (!content) {
-      return res.status(502).json({ error: 'Empty LLM response' })
-    }
+      },
+    )
 
     try {
       const parsed = JSON.parse(content)
@@ -184,6 +173,12 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       return res.status(502).json({ error: 'LLM returned invalid JSON', raw: content.slice(0, 300) })
     }
   } catch (err) {
+    if (err instanceof Error && err.message === 'OpenAI key not configured') {
+      return res.status(500).json({ error: 'OpenAI key not configured' })
+    }
+    if (err instanceof Error && err.message === 'Empty LLM response') {
+      return res.status(502).json({ error: 'Empty LLM response' })
+    }
     return res.status(500).json({
       error: 'OpenAI request failed',
       detail: err instanceof Error ? err.message : 'unknown',
