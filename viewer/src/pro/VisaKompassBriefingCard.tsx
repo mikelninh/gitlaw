@@ -144,7 +144,10 @@ export function VisaKompassBriefingCard({ briefing: b, onChanged }: Props) {
           uploadedBy: 'visa-kompass',
           languageHint: b.client.language,
           dataUrl: d.url, // Blob-URL — Bao klickt, lädt direkt aus visa-kompass-Blob
-          storageMode: 'local_inline',
+          // 'vercel_blob' matcht postgres-enum storage_provider_type.
+          // Cast nötig weil client-types nur local_inline/server_vault kennen.
+          storageMode: 'vercel_blob' as 'local_inline',
+          storageProvider: 'vercel_blob',
           ...(checklistItemId ? { checklistItemId } : {}),
           kind: 'standard',
         })

@@ -183,6 +183,11 @@ async function pgUpsertItem(
       if (!docId) continue
       const uploadedBy = (d.uploadedBy as string) === 'mandant' ? 'mandant' : 'kanzlei'
       const kindRaw = (d.kind as string) ?? 'standard'
+      // Map client storage hints to valid postgres enum values
+      // (storage_provider_type ENUM: 'vercel_blob' | 'upstash_redis' | 'neon_large_object').
+      const VALID_STORAGE = new Set(['vercel_blob', 'upstash_redis', 'neon_large_object'])
+      const rawStorage = (d.storageMode as string | null) ?? null
+      const storageProvider = rawStorage && VALID_STORAGE.has(rawStorage) ? rawStorage : 'vercel_blob'
       try {
         await sql`
           INSERT INTO case_documents (
@@ -199,7 +204,7 @@ async function pgUpsertItem(
             ${(d.mimeType as string | null) ?? null},
             ${(d.sizeBytes as number | null) ?? null},
             ${(d.checksumSha256 as string | null) ?? null},
-            ${(d.storageMode as string | null) ?? 'local_inline'},
+            ${storageProvider},
             ${`proDoc:${tenantId}:${docId}`},
             ${kindRaw},
             ${(d.checklistItemId as string | null) ?? null},
