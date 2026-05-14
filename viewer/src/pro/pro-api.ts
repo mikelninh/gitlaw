@@ -2,7 +2,7 @@ import { getStoredSessionToken } from './store'
 
 const API_URL = import.meta.env.VITE_API_URL || 'https://gitlaw-xi.vercel.app'
 
-interface SessionResponse {
+export interface SessionResponse {
   token?: string
   access: {
     tenantId: string
@@ -19,6 +19,36 @@ function sessionHeaders(extra?: HeadersInit): HeadersInit {
     ...(token ? { Authorization: `Bearer ${token}` } : {}),
   }
 }
+
+// ---------------------------------------------------------------------------
+// Magic-Link Auth
+// ---------------------------------------------------------------------------
+
+export async function requestMagicLink(email: string): Promise<void> {
+  await fetch(`${API_URL}/api/pro/auth/magic-link`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ email }),
+  })
+  // Antwort wird ignoriert — Server antwortet immer { ok: true } (kein Enumeration-Leak)
+}
+
+export async function verifyMagicLink(token: string): Promise<SessionResponse> {
+  const resp = await fetch(`${API_URL}/api/pro/auth/verify`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ token }),
+  })
+  if (!resp.ok) {
+    const body = await resp.json().catch(() => ({})) as { error?: string }
+    throw new Error(body?.error || `Verifizierung fehlgeschlagen (HTTP ${resp.status})`)
+  }
+  return (await resp.json()) as SessionResponse
+}
+
+// ---------------------------------------------------------------------------
+// Legacy invite-token (Beta)
+// ---------------------------------------------------------------------------
 
 export async function exchangeInviteForSession(invite: string): Promise<SessionResponse> {
   const resp = await fetch(`${API_URL}/api/pro/session`, {
@@ -44,7 +74,7 @@ export async function fetchWithProSession(input: string, init?: RequestInit): Pr
   return fetch(`${API_URL}${input}`, { ...init, headers })
 }
 
-export async function uploadDocumentToVault(file: File, caseId?: string): Promise<{
+export async function uploadDocumentToVault(file: File, caseId?: string, checklistItemId?: string): Promise<{
   ok: true
   documentId: string
   storageMode: 'server_vault'
@@ -71,6 +101,7 @@ export async function uploadDocumentToVault(file: File, caseId?: string): Promis
       mimeType: file.type || 'application/octet-stream',
       sizeBytes: file.size,
       base64,
+      ...(checklistItemId ? { checklistItemId } : {}),
     }),
   })
   if (!resp.ok) {
@@ -134,6 +165,50 @@ export async function downloadServerDocument(documentId: string): Promise<void> 
   URL.revokeObjectURL(url)
 }
 
+/**
+ * Oeffnet ein Dokument aus dem Server-Vault im Browser.
+ * PDF → neuer Tab, Bild → gibt Object-URL zurueck (fuer Lightbox).
+ * Aufrufer ist verantwortlich fuer revokeObjectURL bei Bildern.
+ */
+export async function viewServerDocument(
+  documentId: string,
+  mimeType: string,
+): Promise<{ mode: 'tab' } | { mode: 'image'; objectUrl: string }> {
+  const blob = await fetchServerDocumentBlob(documentId)
+  const url = URL.createObjectURL(blob)
+  if (mimeType === 'application/pdf') {
+    window.open(url, '_blank')
+    // Kurz warten, dann freigeben — der Tab hat das PDF bereits geladen
+    setTimeout(() => URL.revokeObjectURL(url), 10_000)
+    return { mode: 'tab' }
+  }
+  return { mode: 'image', objectUrl: url }
+}
+
+export interface DeleteDocumentResult {
+  ok: boolean
+  alreadyGone: boolean
+  source?: string
+  error?: string
+}
+
+export async function deleteServerDocument(documentId: string): Promise<DeleteDocumentResult> {
+  const resp = await fetchWithProSession(`/api/pro/document?id=${encodeURIComponent(documentId)}`, {
+    method: 'DELETE',
+  })
+  if (resp.status === 404) {
+    // Serverseitig bereits weg — kein Fehler, lokale Bereinigung ist korrekt
+    const body = await resp.json().catch(() => ({})) as { alreadyGone?: boolean; error?: string }
+    return { ok: true, alreadyGone: true, error: body?.error }
+  }
+  if (!resp.ok) {
+    const body = await resp.json().catch(() => ({})) as { error?: string }
+    throw new Error(body?.error || `Loeschen fehlgeschlagen (HTTP ${resp.status})`)
+  }
+  const body = await resp.json().catch(() => ({})) as { ok?: boolean; source?: string }
+  return { ok: true, alreadyGone: false, source: body?.source }
+}
+
 export interface IntakeClassification {
   doc_type:
     | 'Brief'
@@ -194,4 +269,71 @@ export async function runRemoteDocumentProcessing(input: {
   const payload = await resp.json().catch(() => ({}))
   if (!resp.ok) throw new Error(payload?.error || payload?.message || `Processing failed (HTTP ${resp.status})`)
   return payload as { ok: boolean; status: string; provider?: string; ocrText?: string; translatedTextDe?: string; message?: string }
+}
+
+
+// ---------------------------------------------------------------------------
+// Visa-Kompass-Briefings (server-side intakes via /api/pro/intake/server-list)
+// ---------------------------------------------------------------------------
+
+export interface VisaKompassBriefing {
+  id: string
+  tenantId: string
+  receivedAt: string
+  source: 'visa-kompass'
+  reviewed: boolean
+  client: {
+    name: string
+    email?: string
+    phone?: string
+    language: 'de' | 'en' | 'vi'
+  }
+  caseHint?: { visaSlug?: string; topic?: string }
+  intake: {
+    quizContext?: {
+      topVisaSlug?: string
+      topVisaName?: string
+      matchScore?: number
+      answers?: Record<string, unknown>
+    }
+    triage?: {
+      complexity?: string
+      urgencyDays?: number
+      suggestedFocusArea?: string
+      suggestedPriceRange?: string
+    }
+    germanSummary?: string
+    germanTranslation?: string
+    replyDraft?: string
+    docChecklist?: { label: string; detail?: string; vnSpecificNote?: string }[]
+    vnSpecificNotes?: string[]
+    originalMessage?: string
+    vcJwt?: string
+  }
+}
+
+export async function listVisaKompassBriefings(): Promise<VisaKompassBriefing[]> {
+  const resp = await fetchWithProSession('/api/pro/intake/server-list', { method: 'GET' })
+  if (!resp.ok) {
+    if (resp.status === 503) return []
+    throw new Error(`Briefings load failed (HTTP ${resp.status})`)
+  }
+  const data = (await resp.json()) as { ok: boolean; items: VisaKompassBriefing[] }
+  return data.items ?? []
+}
+
+export async function markVisaKompassBriefingReviewed(id: string): Promise<void> {
+  await fetchWithProSession('/api/pro/intake/server-list', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ action: 'mark-reviewed', id }),
+  })
+}
+
+export async function deleteVisaKompassBriefing(id: string): Promise<void> {
+  await fetchWithProSession('/api/pro/intake/server-list', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ action: 'delete', id }),
+  })
 }

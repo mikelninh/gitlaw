@@ -5,19 +5,57 @@
  * to full case, or archive.
  */
 
-import { useMemo, useState } from 'react'
-import { Link } from 'react-router-dom'
-import { Inbox, Mail, Phone, CheckCircle2, ArrowRight } from 'lucide-react'
+import { useEffect, useMemo, useState } from 'react'
+import { Link, useSearchParams } from 'react-router-dom'
+import { Inbox, Mail, Phone, CheckCircle2, ArrowRight, Globe2 } from 'lucide-react'
 import { createCase, listIntakes, markIntakeReviewed, saveResearch } from './store'
 import type { IntakeEntry } from './types'
+import {
+  listVisaKompassBriefings,
+  type VisaKompassBriefing as VKBriefing,
+} from './pro-api'
+import { VisaKompassBriefingCard } from './VisaKompassBriefingCard'
 
 export default function ProEingaenge() {
   const [tick, setTick] = useState(0)
   const [showAll, setShowAll] = useState(false)
+  const [vkBriefings, setVkBriefings] = useState<VKBriefing[]>([])
+  const [vkLoading, setVkLoading] = useState(true)
+  const [vkError, setVkError] = useState<string | null>(null)
+  const [searchParams] = useSearchParams()
+  const highlightedVk = searchParams.get('vk')
+
   const intakes = useMemo(
     () => listIntakes(showAll ? {} : { reviewed: false }),
     [tick, showAll],
   )
+
+  useEffect(() => {
+    let cancelled = false
+    setVkLoading(true)
+    listVisaKompassBriefings()
+      .then((items) => {
+        if (cancelled) return
+        setVkBriefings(items)
+        setVkError(null)
+      })
+      .catch((err) => {
+        if (cancelled) return
+        setVkError(err instanceof Error ? err.message : String(err))
+      })
+      .finally(() => !cancelled && setVkLoading(false))
+    return () => {
+      cancelled = true
+    }
+  }, [tick])
+
+  const visibleVk = showAll ? vkBriefings : vkBriefings.filter((b) => !b.reviewed)
+  const orderedVk = highlightedVk
+    ? [
+        ...visibleVk.filter((b) => b.id === highlightedVk),
+        ...visibleVk.filter((b) => b.id !== highlightedVk),
+      ]
+    : visibleVk
 
   function onMarkReviewed(i: IntakeEntry) {
     markIntakeReviewed(i.id)
@@ -74,6 +112,46 @@ export default function ProEingaenge() {
         </label>
       </header>
 
+      {/* Visa-Kompass-Briefings (server-side, vorqualifiziert) */}
+      <section className="space-y-3">
+        <div className="flex items-baseline justify-between gap-3">
+          <h2 className="text-sm font-medium text-[var(--color-ink-soft)] uppercase tracking-wider flex items-center gap-2">
+            <Globe2 className="w-4 h-4 text-emerald-700" /> Visa-Kompass-Briefings
+            {orderedVk.length > 0 && (
+              <span className="text-xs font-normal text-[var(--color-ink-muted)] normal-case tracking-normal">
+                · {orderedVk.length}
+              </span>
+            )}
+          </h2>
+          {vkLoading && (
+            <span className="text-xs text-[var(--color-ink-muted)]">lädt …</span>
+          )}
+        </div>
+        {vkError && (
+          <div className="rounded-lg border border-amber-200 bg-amber-50 px-3 py-2 text-xs text-amber-900">
+            {vkError}
+          </div>
+        )}
+        {!vkLoading && orderedVk.length === 0 && !vkError && (
+          <div className="rounded-xl border border-dashed border-emerald-200 bg-emerald-50/30 p-5 text-sm text-stone-600">
+            Noch keine vorqualifizierten Anfragen aus visa-kompass.de.
+          </div>
+        )}
+        <div className="space-y-3">
+          {orderedVk.map((b) => (
+            <VisaKompassBriefingCard
+              key={b.id}
+              briefing={b}
+              onChanged={() => setTick((t) => t + 1)}
+            />
+          ))}
+        </div>
+      </section>
+
+      {/* Klassische Mandant:innen-Fragebogen-Eingänge */}
+      <h2 className="text-sm font-medium text-[var(--color-ink-soft)] uppercase tracking-wider flex items-center gap-2">
+        <Inbox className="w-4 h-4 text-[var(--color-gold)]" /> Klassische Eingänge
+      </h2>
       {intakes.length === 0 ? (
         <div className="bg-white border border-dashed border-[var(--color-border)] rounded-2xl p-10 text-center">
           <Inbox className="w-8 h-8 text-[var(--color-ink-muted)] mx-auto mb-3" />
