@@ -54,7 +54,8 @@ async function pgGetItem(tenantId: string, collection: string, itemId: string) {
              photo_slot_id AS "photoSlotId", uploaded_by AS "uploadedBy",
              uploaded_at AS "uploadedAt", review_status AS "reviewStatus",
              reviewed_by AS "reviewedBy", reviewed_at AS "reviewedAt",
-             review_comment AS "reviewComment"
+             review_comment AS "reviewComment",
+             CASE WHEN storage_ref LIKE 'http%' THEN storage_ref ELSE NULL END AS "dataUrl"
       FROM case_documents
       WHERE case_id = ${itemId} AND deleted_at IS NULL
       ORDER BY uploaded_at DESC
@@ -89,7 +90,8 @@ async function pgGetCollection(tenantId: string, collection: string) {
              photo_slot_id AS "photoSlotId", uploaded_by AS "uploadedBy",
              uploaded_at AS "uploadedAt", review_status AS "reviewStatus",
              reviewed_by AS "reviewedBy", reviewed_at AS "reviewedAt",
-             review_comment AS "reviewComment"
+             review_comment AS "reviewComment",
+             CASE WHEN storage_ref LIKE 'http%' THEN storage_ref ELSE NULL END AS "dataUrl"
       FROM case_documents
       WHERE case_id = ANY(${caseIds}) AND deleted_at IS NULL
       ORDER BY uploaded_at DESC
@@ -188,6 +190,13 @@ async function pgUpsertItem(
       const VALID_STORAGE = new Set(['vercel_blob', 'upstash_redis', 'neon_large_object'])
       const rawStorage = (d.storageMode as string | null) ?? null
       const storageProvider = rawStorage && VALID_STORAGE.has(rawStorage) ? rawStorage : 'vercel_blob'
+      // storage_ref: für vercel_blob die externe URL aus dataUrl behalten
+      // (VK-pre-uploads landen so im PG-Mirror), sonst Redis-Key-Format.
+      const rawDataUrl = typeof d.dataUrl === 'string' ? d.dataUrl : null
+      const storageRef =
+        storageProvider === 'vercel_blob' && rawDataUrl && /^https?:\/\//.test(rawDataUrl)
+          ? rawDataUrl
+          : `proDoc:${tenantId}:${docId}`
       try {
         await sql`
           INSERT INTO case_documents (
@@ -205,14 +214,19 @@ async function pgUpsertItem(
             ${(d.sizeBytes as number | null) ?? null},
             ${(d.checksumSha256 as string | null) ?? null},
             ${storageProvider},
-            ${`proDoc:${tenantId}:${docId}`},
+            ${storageRef},
             ${kindRaw},
             ${(d.checklistItemId as string | null) ?? null},
             ${(d.photoSlotId as string | null) ?? null},
             ${uploadedBy},
             ${(d.uploadedAt as string | null) ?? now}::timestamptz
           FROM tenants t WHERE t.slug = ${tenantId}
-          ON CONFLICT (id) DO NOTHING
+          ON CONFLICT (id) DO UPDATE SET
+            storage_ref = EXCLUDED.storage_ref,
+            storage_provider = EXCLUDED.storage_provider,
+            checklist_item_id = COALESCE(EXCLUDED.checklist_item_id, case_documents.checklist_item_id)
+          WHERE case_documents.storage_ref LIKE 'proDoc:%'
+             OR case_documents.storage_ref IS NULL
         `
       } catch (err) {
         console.warn('[entities] case_document mirror failed:', docId, err instanceof Error ? err.message : err)
