@@ -29,12 +29,23 @@
 import crypto from 'node:crypto'
 import { Redis } from '@upstash/redis'
 
+export interface AuditLlmUsage {
+  model: string
+  prompt_tokens: number
+  completion_tokens: number
+  total_tokens: number
+  estimated_cost_usd: number
+  request_id?: string
+}
+
 export interface AuditInput {
   action: string
   entityType: string
   entityId?: string
   /** Strukturierte Änderungen — KEIN PII darin speichern */
   diff?: Record<string, unknown>
+  /** LLM-Token-Verbrauch + Kostenschätzung — wird für Cost-per-Mandant-Reporting genutzt */
+  llm?: AuditLlmUsage
 }
 
 interface AuditRecord {
@@ -46,6 +57,7 @@ interface AuditRecord {
   entityType: string
   entityId?: string
   diff?: Record<string, unknown>
+  llm?: AuditLlmUsage
 }
 
 const REDIS_LIST_MAX = 10_000
@@ -86,6 +98,7 @@ export async function recordAudit(
     entityType: input.entityType,
     ...(input.entityId ? { entityId: input.entityId } : {}),
     ...(input.diff ? { diff: input.diff } : {}),
+    ...(input.llm ? { llm: input.llm } : {}),
   }
 
   const redisKey = `audit:${tenantId}`
@@ -109,7 +122,10 @@ export async function recordAudit(
       const { neon } = await import('@neondatabase/serverless')
       const sql = neon(dbUrl)
       await sql`
-        INSERT INTO audit_log (id, ts, tenant_id, user_hash, action, entity_type, entity_id, diff)
+        INSERT INTO audit_log (
+          id, ts, tenant_id, user_hash, action, entity_type, entity_id, diff,
+          llm_model, llm_prompt_tokens, llm_completion_tokens, llm_total_tokens, llm_estimated_cost_usd
+        )
         VALUES (
           ${record.id},
           ${record.ts}::timestamptz,
@@ -118,7 +134,12 @@ export async function recordAudit(
           ${record.action},
           ${record.entityType},
           ${record.entityId ?? null},
-          ${record.diff ? JSON.stringify(record.diff) : null}
+          ${record.diff ? JSON.stringify(record.diff) : null},
+          ${record.llm?.model ?? null},
+          ${record.llm?.prompt_tokens ?? null},
+          ${record.llm?.completion_tokens ?? null},
+          ${record.llm?.total_tokens ?? null},
+          ${record.llm?.estimated_cost_usd ?? null}
         )
       `
     } catch {

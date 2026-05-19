@@ -58,6 +58,7 @@ import type { CaseDocument, CaseTask, CaseTaskType, MandantCase } from './types'
 import DocumentReviewPanel from './DocumentReviewPanel'
 import { getChecklistById } from './mandatsart-checklists'
 import ProChecklistPanel from './ProChecklistPanel'
+import BulkSuggestModal from './BulkSuggestModal'
 import { computeItemStatus } from './checklist-status'
 
 /** Returns days until the ISO date, negative if past. */
@@ -523,6 +524,7 @@ export function ProCaseDetail() {
   const [lightboxUrl, setLightboxUrl] = useState<string | null>(null)
   const [deletingDocId, setDeletingDocId] = useState<string | null>(null)
   const [deleteConfirmOpen, setDeleteConfirmOpen] = useState(false)
+  const [showBulkSuggest, setShowBulkSuggest] = useState(false)
   const [staleDocError, setStaleDocError] = useState<string | null>(null)
   const docsRef = useRef<HTMLElement | null>(null)
   const [newCaseTaskTitle, setNewCaseTaskTitle] = useState('')
@@ -726,7 +728,18 @@ export function ProCaseDetail() {
     const tb = b.uploadedAt ? new Date(b.uploadedAt).getTime() : 0
     return tb - ta
   })
-  const filteredDocs = allDocs.filter(d => {
+  // IDs der Pflicht-Checkliste-Items — diese Docs werden bereits inline in der
+  // Checkliste oben angezeigt (mit Review-Aktionen). Hier nur "Sonstige" zeigen.
+  const requiredItemIds = (() => {
+    if (!c.mandatsartId) return new Set<string>()
+    const cl = getChecklistById(c.mandatsartId)
+    if (!cl) return new Set<string>()
+    return new Set(cl.requiredDocuments.filter(i => i.level === 'required').map(i => i.id))
+  })()
+  // "Sonstige": Docs ohne Pflicht-Checkliste-Match — Vollmacht + Anwalt-Uploads
+  // + nicht-zugeordnete Mandant-Uploads.
+  const sonstigeDocs = allDocs.filter(d => !d.checklistItemId || !requiredItemIds.has(d.checklistItemId))
+  const filteredDocs = sonstigeDocs.filter(d => {
     if (docFilter === 'mandant') return d.uploadedBy === 'mandant'
     if (docFilter === 'anwalt') return d.uploadedBy !== 'mandant' && d.kind !== 'vollmacht'
     if (docFilter === 'vollmacht') return d.kind === 'vollmacht'
@@ -1088,12 +1101,59 @@ export function ProCaseDetail() {
         </section>
       )}
 
-      {/* Unterlagen-Checkliste mit Per-Item-Upload (ersetzt alte CaseChecklist) */}
+      {/* Bulk-AI-Vorprüfung Button: nur wenn ≥2 pending Mandant-Docs */}
+      {(() => {
+        const pendingMandantDocs = (c.documents ?? []).filter(d =>
+          d.uploadedBy === 'mandant' &&
+          (!d.reviewStatus || d.reviewStatus === 'pending') &&
+          !d.deletedAt,
+        )
+        if (pendingMandantDocs.length < 2) return null
+        return (
+          <div className="flex items-center justify-between gap-3 flex-wrap bg-amber-50 border border-amber-200 rounded-xl px-4 py-3">
+            <div className="text-sm text-amber-900">
+              <strong>{pendingMandantDocs.length}</strong> Mandant-Uploads warten auf Prüfung.
+              Lass Claude eine Empfehlung pro Doc geben — spart manuelles Klicken.
+            </div>
+            <button
+              onClick={() => setShowBulkSuggest(true)}
+              className="text-sm bg-[var(--color-gold)] text-white rounded-lg px-3 py-1.5 hover:opacity-90 whitespace-nowrap"
+            >
+              Alle Mandant-Uploads prüfen lassen
+            </button>
+          </div>
+        )
+      })()}
+
+      {showBulkSuggest && (
+        <BulkSuggestModal
+          case={c}
+          pendingDocs={(c.documents ?? []).filter(d =>
+            d.uploadedBy === 'mandant' &&
+            (!d.reviewStatus || d.reviewStatus === 'pending') &&
+            !d.deletedAt,
+          )}
+          onClose={() => setShowBulkSuggest(false)}
+          onReviewed={() => {
+            void refreshDocuments()
+          }}
+        />
+      )}
+
+      {/* Unterlagen-Checkliste mit Per-Item-Upload + inline Review (ersetzt alte CaseChecklist) */}
       <ProChecklistPanel
         case={c}
         onUploaded={() => {
           setTick(t => t + 1)
           void refreshDocuments()
+        }}
+        onReviewed={() => {
+          setTick(t => t + 1)
+          void refreshDocuments()
+        }}
+        onSelectDocument={(docId) => {
+          setSelectedDocumentId(docId)
+          docsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
         }}
       />
 
@@ -1385,7 +1445,7 @@ export function ProCaseDetail() {
 
       <section ref={docsRef}>
         <div className="flex items-center gap-3 mb-2 flex-wrap">
-          <h2 className="font-semibold">Dokumente ({allDocs.length})</h2>
+          <h2 className="font-semibold">Sonstige Dokumente ({sonstigeDocs.length})</h2>
           <div className="flex flex-col items-start gap-0.5">
             <button
               onClick={() => { void refreshDocuments() }}
@@ -1451,14 +1511,13 @@ export function ProCaseDetail() {
           </div>
 
           {/* Filter-Toggle */}
-          {allDocs.length > 0 && (
+          {sonstigeDocs.length > 0 && (
             <div className="flex items-center gap-1 text-xs bg-[var(--color-bg-alt)] border border-[var(--color-border)] rounded-lg p-1 flex-wrap">
               {([
                 ['alle', 'Alle'],
                 ['mandant', 'Mandant-Uploads'],
                 ['anwalt', 'Anwalt-Uploads'],
                 ['vollmacht', 'Vollmacht'],
-                ['review', 'Wartet auf Review'],
               ] as const).map(([val, label]) => (
                 <button
                   key={val}
@@ -1482,8 +1541,10 @@ export function ProCaseDetail() {
             </div>
           )}
 
-          {allDocs.length === 0 ? (
-            <p className="text-sm text-[var(--color-ink-muted)]">Noch keine Dokumente in dieser Akte.</p>
+          {sonstigeDocs.length === 0 ? (
+            <p className="text-sm text-[var(--color-ink-muted)]">
+              Keine sonstigen Dokumente. Pflicht-Dokumente werden oben in der Checkliste verwaltet.
+            </p>
           ) : filteredDocs.length === 0 ? (
             <p className="text-sm text-[var(--color-ink-muted)]">Keine Dokumente fuer diesen Filter.</p>
           ) : (

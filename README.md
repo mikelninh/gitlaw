@@ -43,7 +43,7 @@ For lawyers, GitLaw Pro is a **mandate workflow tier**: 11 Mandatsart-Checkliste
 
 Free, donations-funded, no account needed.
 
-- 🔍 **Search 5,936 laws** — fuzzy + semantic (FAISS, 98K vectors)
+- 🔍 **Search 5,936 laws** — hybrid retrieval, BM25 for exact paragraph matches + FAISS for semantic similarity (98K vectors)
 - 💡 **AI-explained paragraphs** — 112 §§ in plain German, generated with OpenAI structured outputs, cached on disk
 - 💬 **Chat with follow-up questions** — personalized for 12 user profiles
 - 🛡 **Anti-hallucination badges** — `✓ verified` / `⚠ unknown` / `🚨 superseded`. Recognises range markers (`§§ 2 bis 3f weggefallen` covers § 3 NetzDG)
@@ -140,7 +140,7 @@ Demo without an API key: `python -m gitlaw_mcp.demo`
 | Layer | Stack |
 |---|---|
 | Frontend | React 19 + TypeScript + Vite + Tailwind 4, HashRouter, react-router-dom 7 |
-| Citizen RAG | LangChain + FAISS + OpenAI Embeddings (`text-embedding-3-small`) |
+| Citizen RAG | LangChain + FAISS + BM25 hybrid retrieval, OpenAI Embeddings (`text-embedding-3-small`) |
 | Pro AI | OpenAI gpt-4o-mini with JSON-Schema structured outputs |
 | Pro backend | Vercel Serverless Functions + Upstash Redis (Frankfurt) + signed Pro sessions (HMAC-SHA256) |
 | Citation verification | Local lookup against 5,936 markdown files (`### § N` heading match) |
@@ -151,6 +151,9 @@ Demo without an API key: `python -m gitlaw_mcp.demo`
 | Updates | GitHub Actions (weekly law + Leitsatz refresh via OpenAI structured outputs) |
 | Hosting | GitHub Pages (citizen) + Vercel + Upstash Frankfurt (Pro + APIs) |
 | Observability | JSON-structured logs per MCP tool call (request_id, latency_ms, status) — Datadog/Loki/Sentry-ready |
+| LLM gateway | Central `api/_llm.ts` with retries (408/429/5xx), exponential backoff + jitter, Retry-After parsing, Zod schema validation, `LLMValidationError` for schema mismatches vs. provider outages |
+| Cost tracking | Per-request usage (model, tokens, USD) logged to `llm_usage` table; aggregated views at `/api/admin/costs` for tenant-level dashboards |
+| RAG eval | `evals/run_rag_eval.py` — Retrieval@k + LLM-as-judge (faithfulness + relevance) on the citizen Q&A set |
 
 ---
 

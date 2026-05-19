@@ -1,0 +1,164 @@
+{
+  "summary": {
+    "n_questions": 3,
+    "retrieval@1": 1.0,
+    "retrieval@3": 1.0,
+    "retrieval@5": 1.0,
+    "avg_faithfulness": 1.0,
+    "avg_relevance": 1.0,
+    "per_category": {
+      "Mietrecht": {
+        "n": 1,
+        "retrieval@5": 1.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 1.0
+      },
+      "Nachbarrecht": {
+        "n": 1,
+        "retrieval@5": 1.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 1.0
+      },
+      "Schadensrecht": {
+        "n": 1,
+        "retrieval@5": 1.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 1.0
+      }
+    }
+  },
+  "results": [
+    {
+      "id": "q01",
+      "category": "Nachbarrecht",
+      "question": "Mein Nachbar grillt jeden Abend und der Rauch zieht in meine Wohnung. Was kann ich tun?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "906"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "1004"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 906 — Zuführung unwägbarer Stoffe"
+        },
+        {
+          "abbr": "FeuAO",
+          "section": "§ 5 — Ableitung der Abgase"
+        },
+        {
+          "abbr": "SchfHwG",
+          "section": "§ 1 — Eigentümerpflichten; Verordnungsermächtigungen"
+        },
+        {
+          "abbr": "GarBBAnO",
+          "section": "§ 11 — Rauchabschnitte"
+        },
+        {
+          "abbr": "FeuAO",
+          "section": "§ 7 — Aufstellräume von Feuerstätten"
+        }
+      ],
+      "answer": "Nach § 906 BGB kann der Eigentümer eines Grundstücks die Zuführung von Rauch und ähnlichen Einwirkungen nicht verbieten, solange diese die Benutzung seines Grundstücks nicht oder nur unwesentlich beeinträchtigen. Eine unwesentliche Beeinträchtigung liegt in der Regel vor, wenn gesetzliche Grenzwerte nicht überschritten werden. Wenn der Rauch jedoch eine wesentliche Beeinträchtigung darstellt, könnte ein Anspruch auf einen angemessenen Ausgleich in Geld bestehen, sofern die Einwirkung über das zumutbare Maß hinausgeht. Es wäre ratsam, zunächst das Gespräch mit dem Nachbarn zu suchen, um eine einvernehmliche Lösung zu finden.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf § 906 BGB und beantwortet die Frage nach möglichen Handlungsoptionen bei Rauchbelästigung durch den Nachbarn sinnvoll."
+    },
+    {
+      "id": "q02",
+      "category": "Schadensrecht",
+      "question": "Der Hund meines Nachbarn hat mich gebissen. Wer haftet für die Behandlungskosten?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "833"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "823"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 833 — Haftung des Tierhalters"
+        },
+        {
+          "abbr": "AHundV",
+          "section": "§ 27 — Haftpflichtversicherung"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 834 — Haftung des Tieraufsehers"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 251 — Schadensersatz in Geld ohne Fristsetzung"
+        },
+        {
+          "abbr": "HaftPflG",
+          "section": "§ 6"
+        }
+      ],
+      "answer": "In diesem Fall haftet der Halter des Hundes gemäß § 833 BGB, da durch das Tier ein Mensch verletzt wurde. Der Tierhalter ist verpflichtet, die daraus entstehenden Behandlungskosten zu ersetzen, es sei denn, er hat die erforderliche Sorgfalt bei der Beaufsichtigung des Tieres beachtet oder der Schaden wäre auch bei Anwendung dieser Sorgfalt entstanden. Wenn der Hund als Assistenzhund gilt, muss der Halter gemäß § 27 AHundV eine Haftpflichtversicherung haben, die die Behandlungskosten abdeckt. In jedem Fall sollte der Halter für die Kosten aufkommen, es sei denn, es liegen besondere Umstände vor.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf die zitierten Paragraphen und beantwortet die Frage zur Haftung des Hundebesitzers klar und präzise."
+    },
+    {
+      "id": "q03",
+      "category": "Mietrecht",
+      "question": "Mein Vermieter will die Miete um 20 Prozent erhöhen. Ist das erlaubt?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "558"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "559"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 558 — Mieterhöhung bis zur ortsüblichen Vergleichsmiete"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 559 — Mieterhöhung nach Modernisierungsmaßnahmen"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 558b — Zustimmung zur Mieterhöhung"
+        },
+        {
+          "abbr": "WoBindG",
+          "section": "§ 10 — Einseitige Mieterhöhung"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 559e — Mieterhöhung nach Einbau oder Aufstellung einer Heizungsanlage"
+        }
+      ],
+      "answer": "Eine Mieterhöhung um 20 Prozent ist nur unter bestimmten Bedingungen erlaubt. Nach § 558 Abs. 3 BGB darf sich die Miete innerhalb von drei Jahren nicht um mehr als 20 Prozent erhöhen, es sei denn, es handelt sich um eine Erhöhung nach Modernisierungsmaßnahmen oder es gibt besondere Regelungen in der Gemeinde. Wenn die letzte Mieterhöhung weniger als 15 Monate zurückliegt, kann der Vermieter die Erhöhung nicht verlangen. Daher ist es wichtig zu prüfen, wann die letzte Mieterhöhung stattfand und ob die Voraussetzungen für die Erhöhung erfüllt sind.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich auf die relevanten Paragraphen des BGB und beantwortet die Frage zur Mieterhöhung korrekt und umfassend."
+    }
+  ]
+}

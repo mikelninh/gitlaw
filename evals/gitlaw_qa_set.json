@@ -1,0 +1,146 @@
+{
+  "version": "1.0",
+  "description": "GitLaw RAG evaluation set. Realistic Bürger-questions in German with expected paragraphs that should be retrieved from the FAISS vectorstore.",
+  "questions": [
+    {
+      "id": "q01",
+      "question": "Mein Nachbar grillt jeden Abend und der Rauch zieht in meine Wohnung. Was kann ich tun?",
+      "expected": [{"abbr": "BGB", "paragraph": "906"}, {"abbr": "BGB", "paragraph": "1004"}],
+      "category": "Nachbarrecht",
+      "notes": "Immissionen + Beseitigungsanspruch"
+    },
+    {
+      "id": "q02",
+      "question": "Der Hund meines Nachbarn hat mich gebissen. Wer haftet für die Behandlungskosten?",
+      "expected": [{"abbr": "BGB", "paragraph": "833"}, {"abbr": "BGB", "paragraph": "823"}],
+      "category": "Schadensrecht",
+      "notes": "Tierhalterhaftung"
+    },
+    {
+      "id": "q03",
+      "question": "Mein Vermieter will die Miete um 20 Prozent erhöhen. Ist das erlaubt?",
+      "expected": [{"abbr": "BGB", "paragraph": "558"}, {"abbr": "BGB", "paragraph": "559"}],
+      "category": "Mietrecht",
+      "notes": "Mieterhöhung Kappungsgrenze + Modernisierung"
+    },
+    {
+      "id": "q04",
+      "question": "Mein Vermieter hat mir gekündigt weil er die Wohnung selbst braucht. Geht das einfach so?",
+      "expected": [{"abbr": "BGB", "paragraph": "573"}, {"abbr": "BGB", "paragraph": "574"}],
+      "category": "Mietrecht",
+      "notes": "Eigenbedarfskündigung + Sozialklausel"
+    },
+    {
+      "id": "q05",
+      "question": "Ich habe online ein Sofa bestellt. Kann ich es zurückgeben wenn es mir nicht gefällt?",
+      "expected": [{"abbr": "BGB", "paragraph": "312g"}, {"abbr": "BGB", "paragraph": "355"}],
+      "category": "Verbraucherrecht",
+      "notes": "Widerrufsrecht Fernabsatz"
+    },
+    {
+      "id": "q06",
+      "question": "Die Waschmaschine die ich vor drei Monaten gekauft habe ist kaputt. Welche Rechte habe ich gegenüber dem Verkäufer?",
+      "expected": [{"abbr": "BGB", "paragraph": "437"}, {"abbr": "BGB", "paragraph": "433"}],
+      "category": "Kaufrecht",
+      "notes": "Mängelrechte"
+    },
+    {
+      "id": "q07",
+      "question": "Mein Chef hat mir mündlich gekündigt. Ist das überhaupt wirksam?",
+      "expected": [{"abbr": "BGB", "paragraph": "623"}],
+      "category": "Arbeitsrecht",
+      "notes": "Schriftform Kündigung"
+    },
+    {
+      "id": "q08",
+      "question": "Ich wurde betriebsbedingt gekündigt. Habe ich Anspruch auf eine Abfindung?",
+      "expected": [{"abbr": "KSchG", "paragraph": "1a"}, {"abbr": "KSchG", "paragraph": "1"}],
+      "category": "Arbeitsrecht",
+      "notes": "Abfindung bei betriebsbedingter Kündigung"
+    },
+    {
+      "id": "q09",
+      "question": "Mein Arbeitgeber lässt mich regelmäßig 12 Stunden am Tag arbeiten. Ist das zulässig?",
+      "expected": [{"abbr": "ArbZG", "paragraph": "3"}, {"abbr": "ArbZG", "paragraph": "4"}],
+      "category": "Arbeitsrecht",
+      "notes": "Höchstarbeitszeit + Ruhepausen"
+    },
+    {
+      "id": "q10",
+      "question": "Jemand hat im Internet schlimme Lügen über mich verbreitet. Kann ich denjenigen anzeigen?",
+      "expected": [{"abbr": "StGB", "paragraph": "186"}, {"abbr": "StGB", "paragraph": "187"}],
+      "category": "Strafrecht",
+      "notes": "Üble Nachrede + Verleumdung"
+    },
+    {
+      "id": "q11",
+      "question": "Ich wurde auf der Straße geschlagen und musste ins Krankenhaus. Was passiert mit dem Täter strafrechtlich?",
+      "expected": [{"abbr": "StGB", "paragraph": "223"}, {"abbr": "StGB", "paragraph": "224"}],
+      "category": "Strafrecht",
+      "notes": "Körperverletzung"
+    },
+    {
+      "id": "q12",
+      "question": "Ich bin mit dem Auto einen geparkten Wagen leicht angefahren und weggefahren ohne zu warten. Was droht mir?",
+      "expected": [{"abbr": "StGB", "paragraph": "142"}],
+      "category": "Strafrecht",
+      "notes": "Unerlaubtes Entfernen vom Unfallort"
+    },
+    {
+      "id": "q13",
+      "question": "Mein Auto wurde von einem anderen Fahrzeug beschädigt. Wer haftet wenn der Fahrer nicht der Halter ist?",
+      "expected": [{"abbr": "StVG", "paragraph": "7"}, {"abbr": "StVG", "paragraph": "18"}],
+      "category": "Verkehrsrecht",
+      "notes": "Halterhaftung + Fahrerhaftung"
+    },
+    {
+      "id": "q14",
+      "question": "Ich möchte heiraten. Welche rechtlichen Voraussetzungen muss ich erfüllen?",
+      "expected": [{"abbr": "BGB", "paragraph": "1303"}, {"abbr": "BGB", "paragraph": "1310"}],
+      "category": "Familienrecht",
+      "notes": "Ehemündigkeit + Eheschließung"
+    },
+    {
+      "id": "q15",
+      "question": "Mein Vater ist verstorben ohne Testament. Wer erbt was?",
+      "expected": [{"abbr": "BGB", "paragraph": "1924"}, {"abbr": "BGB", "paragraph": "1931"}],
+      "category": "Erbrecht",
+      "notes": "Gesetzliche Erbfolge"
+    },
+    {
+      "id": "q16",
+      "question": "Ich möchte enterbt sein? Bekomme ich trotzdem etwas?",
+      "expected": [{"abbr": "BGB", "paragraph": "2303"}],
+      "category": "Erbrecht",
+      "notes": "Pflichtteil"
+    },
+    {
+      "id": "q17",
+      "question": "Mein Arbeitgeber hat ohne meine Zustimmung meine privaten E-Mails durchsucht. Darf er das?",
+      "expected": [{"abbr": "BDSG", "paragraph": "26"}],
+      "category": "Datenschutz",
+      "notes": "Beschäftigtendatenschutz"
+    },
+    {
+      "id": "q18",
+      "question": "Mein Vermieter will unangekündigt in meine Wohnung kommen um Reparaturen zu prüfen. Muss ich ihn reinlassen?",
+      "expected": [{"abbr": "BGB", "paragraph": "535"}, {"abbr": "BGB", "paragraph": "242"}],
+      "category": "Mietrecht",
+      "notes": "Besitzschutz Mieter + Treu und Glauben"
+    },
+    {
+      "id": "q19",
+      "question": "Ich habe ein Fahrrad ausgeliehen und nicht zurückgegeben. Ist das schon Diebstahl?",
+      "expected": [{"abbr": "StGB", "paragraph": "246"}, {"abbr": "StGB", "paragraph": "248b"}],
+      "category": "Strafrecht",
+      "notes": "Unterschlagung + unbefugter Gebrauch"
+    },
+    {
+      "id": "q20",
+      "question": "Mein Ex-Partner droht mir und steht ständig vor meiner Haustür. Was kann ich rechtlich tun?",
+      "expected": [{"abbr": "StGB", "paragraph": "238"}, {"abbr": "StGB", "paragraph": "240"}],
+      "category": "Strafrecht",
+      "notes": "Nachstellung Stalking + Nötigung"
+    }
+  ]
+}

@@ -17,9 +17,10 @@
  */
 
 import type { VercelRequest, VercelResponse } from '@vercel/node'
+import { recordAudit } from './_audit'
 import { requireProSession } from './_auth'
 import { applyCors, applySecurityHeaders } from './_http'
-import { chat } from './_llm'
+import { chat, estimateCostUsd } from './_llm'
 import { applyRateLimit, RATE_LLM, ipUserKey } from './_ratelimit'
 
 // ── Base (static) prompt ─────────────────────────────────────
@@ -154,7 +155,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     buildMemoryPrompt(req.body?.approvedMemory)
 
   try {
-    const { content } = await chat(
+    const { content, model, usage } = await chat(
       [
         { role: 'system', content: systemPrompt },
         { role: 'user', content: question },
@@ -165,6 +166,18 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         response_format: { type: 'json_schema', json_schema: PRO_JSON_SCHEMA },
       },
     )
+
+    await recordAudit(session.tenantId, session.userId, {
+      action: 'ai.ask-pro',
+      entityType: 'research',
+      llm: {
+        model,
+        prompt_tokens: usage?.prompt_tokens ?? 0,
+        completion_tokens: usage?.completion_tokens ?? 0,
+        total_tokens: usage?.total_tokens ?? 0,
+        estimated_cost_usd: estimateCostUsd(model, usage),
+      },
+    })
 
     try {
       const parsed = JSON.parse(content)

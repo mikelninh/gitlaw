@@ -11,12 +11,17 @@ import { addCaseDocument, getSettings, updateCase } from './store'
 import { deleteServerDocument, uploadDocumentToVault } from './pro-api'
 import { countUploadedForItem } from '../mandant/mandant-store'
 import { computeItemStatus } from './checklist-status'
+import DocumentReviewPanel from './DocumentReviewPanel'
 import type { ChecklistItem, CaseDocument, MandantCase } from './types'
 
 interface Props {
   case: MandantCase
   item: ChecklistItem
   onUploaded: (newDoc: CaseDocument) => void
+  /** Optional: parent kann Refresh nach Approve/Reject triggern. */
+  onReviewed?: () => void
+  /** Optional: parent kann Detail-Panel auf diesen Doc fokussieren (OCR/Translate). */
+  onSelectDocument?: (docId: string) => void
 }
 
 function slugPart(s: string): string {
@@ -29,7 +34,7 @@ function slugPart(s: string): string {
     .slice(0, 24) || 'doc'
 }
 
-export default function ProChecklistCard({ case: c, item, onUploaded }: Props) {
+export default function ProChecklistCard({ case: c, item, onUploaded, onReviewed, onSelectDocument }: Props) {
   const fileRef = useRef<HTMLInputElement>(null)
   const cameraRef = useRef<HTMLInputElement>(null)
   const [uploading, setUploading] = useState(false)
@@ -218,6 +223,7 @@ export default function ProChecklistCard({ case: c, item, onUploaded }: Props) {
 
       {/* Vorschau bereits hochgeladener Docs */}
       {visibleDocs.length > 0 && (
+        <div className="space-y-2">
         <div className="flex flex-wrap gap-2">
           {visibleDocs.map(doc => {
             const isImage = doc.mimeType?.startsWith('image/')
@@ -228,23 +234,33 @@ export default function ProChecklistCard({ case: c, item, onUploaded }: Props) {
             // Anwalt darf nur eigene Uploads löschen (nicht Mandant-Uploads)
             const canDelete = doc.uploadedBy !== 'mandant'
             const isRejected = doc.reviewStatus === 'rejected'
+            const thumb = isImage && src ? (
+              <img
+                src={src}
+                alt={doc.originalName}
+                className={`w-16 h-16 rounded-lg object-cover border ${isRejected ? 'border-red-300 opacity-60' : 'border-[var(--color-border)]'}`}
+              />
+            ) : isPdf ? (
+              <div className={`w-16 h-16 rounded-lg border bg-slate-50 flex items-center justify-center ${isRejected ? 'border-red-300 opacity-60' : 'border-[var(--color-border)]'}`}>
+                <FileText className="w-5 h-5 text-[var(--color-gold)]" />
+              </div>
+            ) : (
+              <div className={`w-16 h-16 rounded-lg border bg-slate-50 flex items-center justify-center ${isRejected ? 'border-red-300 opacity-60' : 'border-[var(--color-border)]'}`}>
+                <Image className="w-5 h-5 text-[var(--color-ink-muted)]" />
+              </div>
+            )
             return (
               <div key={doc.id} className="relative group">
-                {isImage && src ? (
-                  <img
-                    src={src}
-                    alt={doc.originalName}
-                    className={`w-16 h-16 rounded-lg object-cover border ${isRejected ? 'border-red-300 opacity-60' : 'border-[var(--color-border)]'}`}
-                  />
-                ) : isPdf ? (
-                  <div className={`w-16 h-16 rounded-lg border bg-slate-50 flex items-center justify-center ${isRejected ? 'border-red-300 opacity-60' : 'border-[var(--color-border)]'}`}>
-                    <FileText className="w-5 h-5 text-[var(--color-gold)]" />
-                  </div>
-                ) : (
-                  <div className={`w-16 h-16 rounded-lg border bg-slate-50 flex items-center justify-center ${isRejected ? 'border-red-300 opacity-60' : 'border-[var(--color-border)]'}`}>
-                    <Image className="w-5 h-5 text-[var(--color-ink-muted)]" />
-                  </div>
-                )}
+                {onSelectDocument ? (
+                  <button
+                    type="button"
+                    onClick={() => onSelectDocument(doc.id)}
+                    title="In Detail-Panel öffnen (OCR / Übersetzung)"
+                    className="block"
+                  >
+                    {thumb}
+                  </button>
+                ) : thumb}
                 {canDelete && (
                   <button
                     onClick={() =>
@@ -267,6 +283,25 @@ export default function ProChecklistCard({ case: c, item, onUploaded }: Props) {
               </div>
             )
           })}
+        </div>
+
+        {/* Review-Panel pro Mandant-Upload (inline statt separater Sektion) */}
+        {visibleDocs.filter(d => d.uploadedBy === 'mandant').map(doc => (
+          <div key={`review-${doc.id}`} className="rounded-lg border border-[var(--color-border)] bg-white p-2">
+            <div className="text-[11px] text-[var(--color-ink-muted)] truncate mb-1">
+              {doc.originalName}
+            </div>
+            <DocumentReviewPanel
+              document={doc}
+              onUpdate={(updated) => {
+                // Lokalen Cache aktualisieren — Source-of-Truth bleibt Postgres via onReviewed.
+                const nextDocs = (c.documents ?? []).map(d => d.id === updated.id ? { ...d, ...updated } : d)
+                updateCase(c.id, { documents: nextDocs })
+              }}
+              onReviewed={onReviewed}
+            />
+          </div>
+        ))}
         </div>
       )}
 

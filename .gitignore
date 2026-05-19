@@ -5,7 +5,10 @@ parser/fetch_log.txt
 .DS_Store
 rag/vectorstore/index.faiss
 rag/vectorstore/index.pkl
+# 258 MB BM25 corpus — regeneratable via: python rag/build_bm25.py
+rag/vectorstore/bm25.pkl
 .vercel
+node_modules/
 api/node_modules
 
 # 32 MB paragraph-level citation graph — regeneratable in 6s via:

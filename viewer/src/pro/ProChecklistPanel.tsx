@@ -14,9 +14,11 @@ import type { CaseDocument, MandantCase } from './types'
 interface Props {
   case: MandantCase
   onUploaded: (newDoc: CaseDocument) => void
+  onReviewed?: () => void
+  onSelectDocument?: (docId: string) => void
 }
 
-export default function ProChecklistPanel({ case: c, onUploaded }: Props) {
+export default function ProChecklistPanel({ case: c, onUploaded, onReviewed, onSelectDocument }: Props) {
   if (!c.mandatsartId) return null
 
   const checklist = getChecklistById(c.mandatsartId)
@@ -73,6 +75,8 @@ export default function ProChecklistPanel({ case: c, onUploaded }: Props) {
             case={c}
             item={item}
             onUploaded={onUploaded}
+            onReviewed={onReviewed}
+            onSelectDocument={onSelectDocument}
           />
         ))}
       </div>

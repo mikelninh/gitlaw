@@ -1,0 +1,944 @@
+{
+  "summary": {
+    "n_questions": 20,
+    "retrieval@1": 0.45,
+    "retrieval@3": 0.6,
+    "retrieval@5": 0.65,
+    "avg_faithfulness": 0.97,
+    "avg_relevance": 0.77,
+    "per_category": {
+      "Arbeitsrecht": {
+        "n": 3,
+        "retrieval@5": 1.0,
+        "avg_faithfulness": 0.933,
+        "avg_relevance": 1.0
+      },
+      "Datenschutz": {
+        "n": 1,
+        "retrieval@5": 0.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 0.0
+      },
+      "Erbrecht": {
+        "n": 2,
+        "retrieval@5": 0.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 0.1
+      },
+      "Familienrecht": {
+        "n": 1,
+        "retrieval@5": 0.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 1.0
+      },
+      "Kaufrecht": {
+        "n": 1,
+        "retrieval@5": 1.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 1.0
+      },
+      "Mietrecht": {
+        "n": 3,
+        "retrieval@5": 0.667,
+        "avg_faithfulness": 0.933,
+        "avg_relevance": 0.967
+      },
+      "Nachbarrecht": {
+        "n": 1,
+        "retrieval@5": 1.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 1.0
+      },
+      "Schadensrecht": {
+        "n": 1,
+        "retrieval@5": 1.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 1.0
+      },
+      "Strafrecht": {
+        "n": 5,
+        "retrieval@5": 0.8,
+        "avg_faithfulness": 0.96,
+        "avg_relevance": 0.86
+      },
+      "Verbraucherrecht": {
+        "n": 1,
+        "retrieval@5": 0.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 0.0
+      },
+      "Verkehrsrecht": {
+        "n": 1,
+        "retrieval@5": 1.0,
+        "avg_faithfulness": 1.0,
+        "avg_relevance": 1.0
+      }
+    }
+  },
+  "results": [
+    {
+      "id": "q01",
+      "category": "Nachbarrecht",
+      "question": "Mein Nachbar grillt jeden Abend und der Rauch zieht in meine Wohnung. Was kann ich tun?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "906"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "1004"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 906 — Zuführung unwägbarer Stoffe"
+        },
+        {
+          "abbr": "FeuAO",
+          "section": "§ 5 — Ableitung der Abgase"
+        },
+        {
+          "abbr": "SchfHwG",
+          "section": "§ 1 — Eigentümerpflichten; Verordnungsermächtigungen"
+        },
+        {
+          "abbr": "GarBBAnO",
+          "section": "§ 11 — Rauchabschnitte"
+        },
+        {
+          "abbr": "FeuAO",
+          "section": "§ 7 — Aufstellräume von Feuerstätten"
+        }
+      ],
+      "answer": "Nach § 906 BGB kann der Eigentümer eines Grundstücks die Zuführung von Rauch und ähnlichen Einwirkungen nicht verbieten, solange diese die Benutzung seines Grundstücks nicht oder nur unwesentlich beeinträchtigen. Eine unwesentliche Beeinträchtigung liegt in der Regel vor, wenn die festgelegten Grenzwerte nicht überschritten werden. Wenn der Rauch jedoch eine wesentliche Beeinträchtigung darstellt, kann der Eigentümer einen angemessenen Ausgleich in Geld verlangen. Es wäre ratsam, zunächst das Gespräch mit dem Nachbarn zu suchen, um eine einvernehmliche Lösung zu finden. Wenn dies nicht hilft, könnte eine rechtliche Beratung in Betracht gezogen werden.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf § 906 BGB und behandelt die wesentlichen Aspekte der Frage, indem sie die rechtlichen Möglichkeiten und den Vorschlag einer einvernehmlichen Lösung anspricht."
+    },
+    {
+      "id": "q02",
+      "category": "Schadensrecht",
+      "question": "Der Hund meines Nachbarn hat mich gebissen. Wer haftet für die Behandlungskosten?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "833"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "823"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 833 — Haftung des Tierhalters"
+        },
+        {
+          "abbr": "AHundV",
+          "section": "§ 27 — Haftpflichtversicherung"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 834 — Haftung des Tieraufsehers"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 251 — Schadensersatz in Geld ohne Fristsetzung"
+        },
+        {
+          "abbr": "HaftPflG",
+          "section": "§ 6"
+        }
+      ],
+      "answer": "In diesem Fall haftet der Halter des Hundes gemäß § 833 BGB, da durch das Tier ein Mensch verletzt wurde. Der Tierhalter ist verpflichtet, die daraus entstehenden Behandlungskosten zu ersetzen, es sei denn, er kann nachweisen, dass er die erforderliche Sorgfalt bei der Beaufsichtigung des Tieres beachtet hat oder der Schaden auch bei Anwendung dieser Sorgfalt entstanden wäre. Wenn es sich um einen Assistenzhund handelt, muss der Halter zudem eine Haftpflichtversicherung gemäß § 27 AHundV haben, die die Kosten abdeckt. In jedem Fall sollten die genauen Umstände des Vorfalls betrachtet werden, um die Haftung zu klären.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf die zitierten Paragraphen und beantwortet die Frage zur Haftung des Hundebesitzers klar und präzise."
+    },
+    {
+      "id": "q03",
+      "category": "Mietrecht",
+      "question": "Mein Vermieter will die Miete um 20 Prozent erhöhen. Ist das erlaubt?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "558"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "559"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 558 — Mieterhöhung bis zur ortsüblichen Vergleichsmiete"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 559 — Mieterhöhung nach Modernisierungsmaßnahmen"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 558b — Zustimmung zur Mieterhöhung"
+        },
+        {
+          "abbr": "WoBindG",
+          "section": "§ 10 — Einseitige Mieterhöhung"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 559e — Mieterhöhung nach Einbau oder Aufstellung einer Heizungsanlage"
+        }
+      ],
+      "answer": "Eine Mieterhöhung um 20 Prozent ist nur unter bestimmten Bedingungen erlaubt. Nach § 558 Abs. 3 BGB darf sich die Miete innerhalb von drei Jahren nicht um mehr als 20 Prozent erhöhen, es sei denn, es handelt sich um eine Mieterhöhung nach Modernisierungsmaßnahmen oder es gelten besondere Regelungen in bestimmten Gebieten. Wenn die Miete seit der letzten Erhöhung weniger als 15 Monate unverändert war, kann der Vermieter die Erhöhung nicht verlangen. Daher ist es wichtig zu prüfen, ob die Voraussetzungen für die Erhöhung erfüllt sind.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 0.8,
+      "relevance": 0.9,
+      "judge_rationale": "Die Antwort stützt sich größtenteils auf die relevanten Paragraphen des BGB, jedoch wird § 558 Abs. 3 fälschlicherweise zitiert, da dieser nicht existiert; die Antwort ist dennoch relevant für die Frage."
+    },
+    {
+      "id": "q04",
+      "category": "Mietrecht",
+      "question": "Mein Vermieter hat mir gekündigt weil er die Wohnung selbst braucht. Geht das einfach so?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "573"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "574"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 573a — Erleichterte Kündigung des Vermieters"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 573b — Teilkündigung des Vermieters"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 573 — Ordentliche Kündigung des Vermieters"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 576 — Fristen der ordentlichen Kündigung bei Werkmietwohnungen"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 569 — Außerordentliche fristlose Kündigung aus wichtigem Grund"
+        }
+      ],
+      "answer": "Der Vermieter kann nur kündigen, wenn er ein berechtigtes Interesse an der Beendigung des Mietverhältnisses hat, wie in § 573 BGB beschrieben. Ein solches Interesse liegt vor, wenn der Vermieter die Räume für sich oder seine Angehörigen benötigt. In deinem Fall, wenn der Vermieter die Wohnung selbst benötigt, könnte dies ein berechtigtes Interesse darstellen. Allerdings muss er die Gründe für die Kündigung im Kündigungsschreiben angeben. Wenn er die Kündigung auf die Voraussetzungen des § 573 stützt, ist dies grundsätzlich zulässig, solange die Kündigungsfristen eingehalten werden.",
+      "hit@1": 0,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf die relevanten Paragraphen des BGB und beantwortet die Frage des Nutzers klar und präzise."
+    },
+    {
+      "id": "q05",
+      "category": "Verbraucherrecht",
+      "question": "Ich habe online ein Sofa bestellt. Kann ich es zurückgeben wenn es mir nicht gefällt?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "312g"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "355"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 604 — Rückgabepflicht"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 357 — Rechtsfolgen des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 376 — Rücknahmerecht"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 546 — Rückgabepflicht des Mieters"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 697 — Rückgabeort"
+        }
+      ],
+      "answer": "Dazu habe ich keine passenden Gesetzestexte.",
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "faithfulness": 1.0,
+      "relevance": 0.0,
+      "judge_rationale": "Die Antwort ist zwar korrekt, da sie keine falschen Inhalte enthält, jedoch beantwortet sie die Frage des Nutzers nicht, da keine der zitierten Quellen auf das Rückgaberecht bei Online-Bestellungen eingeht."
+    },
+    {
+      "id": "q06",
+      "category": "Kaufrecht",
+      "question": "Die Waschmaschine die ich vor drei Monaten gekauft habe ist kaputt. Welche Rechte habe ich gegenüber dem Verkäufer?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "437"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "433"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 437 — Rechte des Käufers bei Mängeln"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 457 — Haftung des Wiederverkäufers"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 327i — Rechte des Verbrauchers bei Mängeln"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 634 — Rechte des Bestellers bei Mängeln"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 445a — Rückgriff des Verkäufers"
+        }
+      ],
+      "answer": "Wenn die Waschmaschine mangelhaft ist, hast du gemäß § 437 BGB folgende Rechte gegenüber dem Verkäufer:\n\n1. Du kannst nach § 439 Nacherfüllung verlangen, das heißt, der Verkäufer muss die Waschmaschine reparieren oder dir eine neue liefern.\n2. Du kannst nach den §§ 440, 323 und 326 Abs. 5 vom Vertrag zurücktreten oder nach § 441 den Kaufpreis mindern.\n3. Außerdem hast du nach den §§ 440, 280, 281, 283 und 311a das Recht auf Schadensersatz oder nach § 284 Ersatz vergeblicher Aufwendungen.\n\nEs ist wichtig, dass du dem Verkäufer den Mangel zeitnah meldest.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf die zitierten Paragraphen des BGB und beantwortet die Frage nach den Rechten des Käufers bei einem Mangel der Waschmaschine umfassend."
+    },
+    {
+      "id": "q07",
+      "category": "Arbeitsrecht",
+      "question": "Mein Chef hat mir mündlich gekündigt. Ist das überhaupt wirksam?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "623"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "AGB DDR",
+          "section": "§ 59"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 623 — Schriftform der Kündigung"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 626 — Fristlose Kündigung aus wichtigem Grund"
+        },
+        {
+          "abbr": "BPersVG 2021",
+          "section": "§ 128 — Beteiligung bei Kündigungen"
+        },
+        {
+          "abbr": "BPersVG 2021",
+          "section": "§ 85 — Ordentliche Kündigung"
+        }
+      ],
+      "answer": "Eine mündliche Kündigung ist nicht wirksam. Nach § 623 BGB muss die Kündigung schriftlich erfolgen, da die Schriftform für die Beendigung von Arbeitsverhältnissen erforderlich ist. Das bedeutet, dass eine Kündigung nur dann rechtlich gültig ist, wenn sie in schriftlicher Form vorliegt. Daher ist die mündliche Kündigung Ihres Chefs nicht rechtskräftig.",
+      "hit@1": 0,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich korrekt auf § 623 BGB, der die Schriftform für Kündigungen vorschreibt, und beantwortet die Frage direkt und präzise."
+    },
+    {
+      "id": "q08",
+      "category": "Arbeitsrecht",
+      "question": "Ich wurde betriebsbedingt gekündigt. Habe ich Anspruch auf eine Abfindung?",
+      "expected": [
+        {
+          "abbr": "KSchG",
+          "paragraph": "1a"
+        },
+        {
+          "abbr": "KSchG",
+          "paragraph": "1"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "KSchG",
+          "section": "§ 1a — Abfindungsanspruch bei betriebsbedingter Kündigung"
+        },
+        {
+          "abbr": "KSchG",
+          "section": "§ 10 — Höhe der Abfindung"
+        },
+        {
+          "abbr": "BetrVG",
+          "section": "§ 113 — Nachteilsausgleich"
+        },
+        {
+          "abbr": "KSchG",
+          "section": "§ 11 — Anrechnung auf entgangenen Zwischenverdienst"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 628 — Teilvergütung und Schadensersatz bei fristloser Kündigung"
+        }
+      ],
+      "answer": "Ja, Sie haben unter bestimmten Voraussetzungen Anspruch auf eine Abfindung. Nach § 1a KSchG haben Sie Anspruch auf eine Abfindung, wenn Ihr Arbeitgeber wegen dringender betrieblicher Erfordernisse kündigt und Sie bis zum Ablauf der Klagefrist keine Klage erheben. Der Arbeitgeber muss in der Kündigung darauf hinweisen, dass die Kündigung auf diesen Gründen basiert. Die Höhe der Abfindung beträgt 0,5 Monatsverdienste für jedes Jahr des Bestehens des Arbeitsverhältnisses (§ 1a Abs. 2 KSchG).",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 0.8,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich größtenteils auf die Quellen, enthält jedoch einen Fehler in der Berechnung der Abfindungshöhe, da § 10 KSchG nicht korrekt zitiert wurde."
+    },
+    {
+      "id": "q09",
+      "category": "Arbeitsrecht",
+      "question": "Mein Arbeitgeber lässt mich regelmäßig 12 Stunden am Tag arbeiten. Ist das zulässig?",
+      "expected": [
+        {
+          "abbr": "ArbZG",
+          "paragraph": "3"
+        },
+        {
+          "abbr": "ArbZG",
+          "paragraph": "4"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "ArbZG",
+          "section": "§ 7 — Abweichende Regelungen"
+        },
+        {
+          "abbr": "ArbZG",
+          "section": "§ 14 — Außergewöhnliche Fälle"
+        },
+        {
+          "abbr": "ArbZG",
+          "section": "§ 15 — Bewilligung, Ermächtigung"
+        },
+        {
+          "abbr": "ArbZG",
+          "section": "§ 3 — Arbeitszeit der Arbeitnehmer"
+        },
+        {
+          "abbr": "Offshore-ArbZV",
+          "section": "§ 12 — Arbeitszeit"
+        }
+      ],
+      "answer": "Nach dem Arbeitszeitgesetz (§ 3) darf die werktägliche Arbeitszeit der Arbeitnehmer grundsätzlich acht Stunden nicht überschreiten. Eine Verlängerung auf bis zu zehn Stunden ist nur zulässig, wenn im Durchschnitt innerhalb von sechs Kalendermonaten oder 24 Wochen acht Stunden werktäglich nicht überschritten werden. In bestimmten Fällen, wie bei Offshore-Tätigkeiten, kann die Arbeitszeit jedoch auf bis zu zwölf Stunden täglich verlängert werden (§ 12 Offshore-ArbZV). Wenn du also nicht im Offshore-Bereich arbeitest, ist die regelmäßige 12-Stunden-Arbeit deines Arbeitgebers nicht zulässig.",
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf die zitierten Paragraphen des Arbeitszeitgesetzes und der Offshore-Arbeitszeitverordnung und beantwortet die Frage zur Zulässigkeit der 12-Stunden-Arbeit korrekt."
+    },
+    {
+      "id": "q10",
+      "category": "Strafrecht",
+      "question": "Jemand hat im Internet schlimme Lügen über mich verbreitet. Kann ich denjenigen anzeigen?",
+      "expected": [
+        {
+          "abbr": "StGB",
+          "paragraph": "186"
+        },
+        {
+          "abbr": "StGB",
+          "paragraph": "187"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "StGB",
+          "section": "§ 187 — Verleumdung"
+        },
+        {
+          "abbr": "StGB",
+          "section": "§ 186 — Üble Nachrede"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 824 — Kreditgefährdung"
+        },
+        {
+          "abbr": "StGB",
+          "section": "§ 131 — Gewaltdarstellung"
+        },
+        {
+          "abbr": "HinSchG",
+          "section": "§ 32 — Offenlegen von Informationen"
+        }
+      ],
+      "answer": "Ja, Sie können denjenigen anzeigen. Wenn jemand wider besseres Wissen unwahre Tatsachen über Sie verbreitet, die geeignet sind, Sie verächtlich zu machen oder Ihren Kredit zu gefährden, könnte dies unter § 187 StGB (Verleumdung) fallen. Hierbei droht eine Freiheitsstrafe von bis zu zwei Jahren oder eine Geldstrafe. Auch § 186 StGB (Üble Nachrede) könnte relevant sein, wenn die verbreiteten Tatsachen nicht erweislich wahr sind, was ebenfalls mit Freiheitsstrafe oder Geldstrafe geahndet werden kann. Es ist ratsam, Beweise für die Lügen zu sammeln, um Ihre Anzeige zu unterstützen.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf die zitierten Paragraphen des StGB und beantwortet die Frage klar und präzise."
+    },
+    {
+      "id": "q11",
+      "category": "Strafrecht",
+      "question": "Ich wurde auf der Straße geschlagen und musste ins Krankenhaus. Was passiert mit dem Täter strafrechtlich?",
+      "expected": [
+        {
+          "abbr": "StGB",
+          "paragraph": "223"
+        },
+        {
+          "abbr": "StGB",
+          "paragraph": "224"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "StGB",
+          "section": "§ 223 — Körperverletzung"
+        },
+        {
+          "abbr": "StGB",
+          "section": "§ 63 — Unterbringung in einem psychiatrischen Krankenhaus"
+        },
+        {
+          "abbr": "StGB",
+          "section": "§ 230 — Strafantrag"
+        },
+        {
+          "abbr": "StPO",
+          "section": "§ 373b — Begriff des Verletzten"
+        },
+        {
+          "abbr": "StGB",
+          "section": "§ 229 — Fahrlässige Körperverletzung"
+        }
+      ],
+      "answer": "Der Täter könnte sich wegen Körperverletzung gemäß § 223 StGB strafbar gemacht haben, da er eine andere Person körperlich misshandelt hat. Die Strafe kann bis zu fünf Jahren Freiheitsstrafe oder eine Geldstrafe betragen. Ob der Täter tatsächlich bestraft wird, hängt davon ab, ob ein Strafantrag gestellt wird, da die vorsätzliche Körperverletzung nur auf Antrag verfolgt wird (§ 230 StGB). Wenn du im Krankenhaus warst, könntest du als Verletzter im Sinne von § 373b StPO gelten und somit ein Antragsrecht haben. Es ist auch möglich, dass die Staatsanwaltschaft von Amts wegen ermittelt, wenn ein öffentliches Interesse an der Strafverfolgung besteht.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf die zitierten Paragraphen des StGB und StPO und beantwortet die Frage zur strafrechtlichen Konsequenz für den Täter umfassend."
+    },
+    {
+      "id": "q12",
+      "category": "Strafrecht",
+      "question": "Ich bin mit dem Auto einen geparkten Wagen leicht angefahren und weggefahren ohne zu warten. Was droht mir?",
+      "expected": [
+        {
+          "abbr": "StGB",
+          "paragraph": "142"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "StGB",
+          "section": "§ 142 — Unerlaubtes Entfernen vom Unfallort"
+        },
+        {
+          "abbr": "StVO 2013",
+          "section": "§ 12 — Halten und Parken"
+        },
+        {
+          "abbr": "PflVG",
+          "section": "§ 30 — Strafvorschriften"
+        },
+        {
+          "abbr": "StVG",
+          "section": "§ 21 — Fahren ohne Fahrerlaubnis"
+        },
+        {
+          "abbr": "StGB",
+          "section": "§ 248b — Unbefugter Gebrauch eines Fahrzeugs"
+        }
+      ],
+      "answer": "Wenn Sie nach einem Unfall im Straßenverkehr, wie dem Anfahren eines geparkten Wagens, den Unfallort verlassen, ohne die erforderlichen Feststellungen zu ermöglichen, machen Sie sich nach § 142 StGB (Unerlaubtes Entfernen vom Unfallort) strafbar. Sie müssen entweder Ihre Identität und die Art Ihrer Beteiligung angeben oder eine angemessene Zeit warten, damit die Feststellungen getroffen werden können. Wenn Sie dies nicht getan haben, droht Ihnen eine Freiheitsstrafe bis zu drei Jahren oder eine Geldstrafe. Zudem könnte Ihnen auch eine Strafe nach § 30 PflVG (Pflichtversicherung) drohen, wenn Sie gegen die Versicherungspflicht verstoßen haben.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 0.8,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich größtenteils auf die Quellen, jedoch wird die mögliche Strafe nach § 142 StGB übertrieben dargestellt, da die Höchststrafe für unerlaubtes Entfernen vom Unfallort bis zu drei Jahren beträgt, was nicht korrekt ist, da es sich um eine Geldstrafe oder Freiheitsstrafe bis zu drei"
+    },
+    {
+      "id": "q13",
+      "category": "Verkehrsrecht",
+      "question": "Mein Auto wurde von einem anderen Fahrzeug beschädigt. Wer haftet wenn der Fahrer nicht der Halter ist?",
+      "expected": [
+        {
+          "abbr": "StVG",
+          "paragraph": "7"
+        },
+        {
+          "abbr": "StVG",
+          "paragraph": "18"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "StVG",
+          "section": "§ 7 — Haftung des Halters, Schwarzfahrt"
+        },
+        {
+          "abbr": "StVG",
+          "section": "§ 17 — Schadensverursachung durch mehrere Kraftfahrzeuge"
+        },
+        {
+          "abbr": "StVG",
+          "section": "§ 19 — Haftung des Halters bei Unfällen mit Anhängern und Gespannen"
+        },
+        {
+          "abbr": "StVG",
+          "section": "§ 16 — Sonstige Gesetze"
+        },
+        {
+          "abbr": "LuftVG",
+          "section": "§ 41"
+        }
+      ],
+      "answer": "In diesem Fall haftet der Halter des Fahrzeugs, das den Schaden verursacht hat, gemäß § 7 Abs. 1 StVG. Wenn der Fahrer das Fahrzeug ohne Wissen und Willen des Halters benutzt hat, ist der Fahrer anstelle des Halters zum Ersatz des Schadens verpflichtet, es sei denn, der Halter hat durch sein Verschulden die Benutzung ermöglicht (§ 7 Abs. 3 StVG). Der Halter bleibt jedoch in jedem Fall für den Schaden verantwortlich, wenn die Benutzung durch sein Verschulden ermöglicht wurde. Es ist wichtig zu klären, ob der Fahrer mit dem Halter in einem Beschäftigungsverhältnis steht oder ob das Fahrzeug ihm überlassen wurde, da dies die Haftung beeinflussen kann.",
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf die relevanten Paragraphen des Straßenverkehrsgesetzes und beantwortet die Frage zur Haftung des Halters und Fahrers korrekt."
+    },
+    {
+      "id": "q14",
+      "category": "Familienrecht",
+      "question": "Ich möchte heiraten. Welche rechtlichen Voraussetzungen muss ich erfüllen?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "1303"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "1310"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 1312 — Trauung"
+        },
+        {
+          "abbr": "PStG",
+          "section": "§ 14 — Eheschließung"
+        },
+        {
+          "abbr": "PStG",
+          "section": "§ 13 — Prüfung der Ehevoraussetzungen"
+        },
+        {
+          "abbr": "PStG",
+          "section": "§ 12 — Anmeldung der Eheschließung"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 1410 — Form"
+        }
+      ],
+      "answer": "Um zu heiraten, müssen Sie einige rechtliche Voraussetzungen erfüllen. Zunächst müssen Sie die Eheschließung bei einem Standesamt anmelden (§ 12 PStG). Dabei müssen Sie durch öffentliche Urkunden nachweisen, dass Sie die erforderlichen Voraussetzungen erfüllen, wie Ihren Personenstand, Wohnsitz, Staatsangehörigkeit und gegebenenfalls die Auflösung früherer Ehen oder Lebenspartnerschaften (§ 12 PStG). Das Standesamt prüft dann, ob ein Ehehindernis vorliegt (§ 13 PStG). Wenn alles in Ordnung ist, können Sie die Ehe schließen, wobei der Standesbeamte Sie einzeln befragt und die Eheschließung beurkundet (§ 1312 PStG).",
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf die zitierten Paragraphen und beantwortet die Frage nach den rechtlichen Voraussetzungen zur Eheschließung umfassend."
+    },
+    {
+      "id": "q15",
+      "category": "Erbrecht",
+      "question": "Mein Vater ist verstorben ohne Testament. Wer erbt was?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "1924"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "1931"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 857 — Vererblichkeit"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 1490 — Tod eines Abkömmlings"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 1939 — Vermächtnis"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 2160 — Vorversterben des Bedachten"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 1586b — Kein Erlöschen bei Tod des Verpflichteten"
+        }
+      ],
+      "answer": "Dazu habe ich keine passenden Gesetzestexte.",
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "faithfulness": 1.0,
+      "relevance": 0.0,
+      "judge_rationale": "Die Antwort bezieht sich korrekt auf die Quellen, enthält jedoch keine Informationen zur Erbfolge ohne Testament, was die Frage des Nutzers nicht beantwortet."
+    },
+    {
+      "id": "q16",
+      "category": "Erbrecht",
+      "question": "Ich möchte enterbt sein? Bekomme ich trotzdem etwas?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "2303"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 2160 — Vorversterben des Bedachten"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 1922 — Gesamtrechtsnachfolge"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 857 — Vererblichkeit"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 1490 — Tod eines Abkömmlings"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 1939 — Vermächtnis"
+        }
+      ],
+      "answer": "Dazu habe ich keine passenden Gesetzestexte.",
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "faithfulness": 1.0,
+      "relevance": 0.2,
+      "judge_rationale": "Die Antwort bezieht sich zwar auf die Quellen, beantwortet jedoch nicht die spezifische Frage, ob man trotz Enterbung etwas erhält."
+    },
+    {
+      "id": "q17",
+      "category": "Datenschutz",
+      "question": "Mein Arbeitgeber hat ohne meine Zustimmung meine privaten E-Mails durchsucht. Darf er das?",
+      "expected": [
+        {
+          "abbr": "BDSG",
+          "paragraph": "26"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "DDG",
+          "section": "§ 25 — Auskunftserteilung und Durchsuchungen"
+        },
+        {
+          "abbr": "StPO",
+          "section": "§ 110 — Durchsicht von Papieren und elektronischen Speichermedien"
+        },
+        {
+          "abbr": "BDG",
+          "section": "§ 27 — Beschlagnahmen und Durchsuchungen"
+        },
+        {
+          "abbr": "GWB",
+          "section": "§ 59b — Durchsuchungen"
+        },
+        {
+          "abbr": "ZFdG 2021",
+          "section": "§ 56 — Durchsuchung von Personen und Sachen"
+        }
+      ],
+      "answer": "Dazu habe ich keine passenden Gesetzestexte.",
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "faithfulness": 1.0,
+      "relevance": 0.0,
+      "judge_rationale": "Die Antwort bezieht sich korrekt auf die Quellen, beantwortet jedoch nicht die spezifische Frage zur Durchsuchung privater E-Mails durch den Arbeitgeber."
+    },
+    {
+      "id": "q18",
+      "category": "Mietrecht",
+      "question": "Mein Vermieter will unangekündigt in meine Wohnung kommen um Reparaturen zu prüfen. Muss ich ihn reinlassen?",
+      "expected": [
+        {
+          "abbr": "BGB",
+          "paragraph": "535"
+        },
+        {
+          "abbr": "BGB",
+          "paragraph": "242"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "BGB",
+          "section": "§ 536c — Während der Mietzeit auftretende Mängel; Mängelanzeige durch den Mieter"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 555a — Erhaltungsmaßnahmen"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 559d — Pflichtverletzungen bei Ankündigung oder Durchführung einer baulichen Veränderung"
+        },
+        {
+          "abbr": "WoEigG",
+          "section": "§ 20 — Bauliche Veränderungen"
+        },
+        {
+          "abbr": "ZFdG 2021",
+          "section": "§ 46 — Betreten und Durchsuchung von Wohnungen"
+        }
+      ],
+      "answer": "Nach § 555a BGB hat der Mieter Maßnahmen zur Instandhaltung oder Instandsetzung der Mietsache zu dulden, jedoch müssen diese rechtzeitig angekündigt werden, es sei denn, es handelt sich um eine unerhebliche Einwirkung oder die sofortige Durchführung ist zwingend erforderlich. Wenn Ihr Vermieter unangekündigt in Ihre Wohnung kommen möchte, ist dies in der Regel nicht zulässig, es sei denn, es liegt ein dringender Grund vor. Sie sind nicht verpflichtet, ihn ohne vorherige Ankündigung hereinzulassen.",
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf § 555a BGB und beantwortet die Frage klar und präzise, indem sie die Notwendigkeit einer Ankündigung für den Zutritt des Vermieters zur Wohnung erklärt."
+    },
+    {
+      "id": "q19",
+      "category": "Strafrecht",
+      "question": "Ich habe ein Fahrrad ausgeliehen und nicht zurückgegeben. Ist das schon Diebstahl?",
+      "expected": [
+        {
+          "abbr": "StGB",
+          "paragraph": "246"
+        },
+        {
+          "abbr": "StGB",
+          "paragraph": "248b"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "StGB",
+          "section": "§ 242 — Diebstahl"
+        },
+        {
+          "abbr": "StGB",
+          "section": "§ 289 — Pfandkehr"
+        },
+        {
+          "abbr": "StGB",
+          "section": "§ 248b — Unbefugter Gebrauch eines Fahrzeugs"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 602 — Abnutzung der Sache"
+        },
+        {
+          "abbr": "StGB",
+          "section": "§ 246 — Unterschlagung"
+        }
+      ],
+      "answer": "Dazu habe ich keine passenden Gesetzestexte.",
+      "hit@1": 0,
+      "hit@3": 1,
+      "hit@5": 1,
+      "faithfulness": 1.0,
+      "relevance": 0.3,
+      "judge_rationale": "Die Antwort bezieht sich korrekt auf die Quellen, ignoriert jedoch relevante Paragraphen, die die Frage direkt beantworten könnten."
+    },
+    {
+      "id": "q20",
+      "category": "Strafrecht",
+      "question": "Mein Ex-Partner droht mir und steht ständig vor meiner Haustür. Was kann ich rechtlich tun?",
+      "expected": [
+        {
+          "abbr": "StGB",
+          "paragraph": "238"
+        },
+        {
+          "abbr": "StGB",
+          "paragraph": "240"
+        }
+      ],
+      "retrieved_top5": [
+        {
+          "abbr": "GewSchG",
+          "section": "§ 2 — Überlassung einer gemeinsam genutzten Wohnung"
+        },
+        {
+          "abbr": "LPartG",
+          "section": "§ 14 — Wohnungszuweisung bei Getrenntleben"
+        },
+        {
+          "abbr": "GewSchG",
+          "section": "§ 1 — Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen"
+        },
+        {
+          "abbr": "StGB",
+          "section": "§ 241 — Bedrohung"
+        },
+        {
+          "abbr": "BGB",
+          "section": "§ 1361b — Ehewohnung bei Getrenntleben"
+        }
+      ],
+      "answer": "In einem solchen Fall können Sie gemäß § 1 Abs. 1 des Gesetzes zum zivilrechtlichen Schutz vor Gewalttaten und Nachstellungen (GewSchG) beim Gericht einen Antrag stellen, um Maßnahmen zum Schutz vor Ihrem Ex-Partner zu erwirken. Das Gericht kann anordnen, dass Ihr Ex-Partner es unterlässt, sich in einem bestimmten Umkreis Ihrer Wohnung aufzuhalten oder diese zu betreten. Zudem können Sie auch nach § 2 GewSchG die Überlassung Ihrer gemeinsam genutzten Wohnung zur alleinigen Benutzung verlangen, wenn Sie dort mit Ihrem Ex-Partner einen gemeinsamen Haushalt geführt haben. Es ist wichtig, dass Sie Beweise für die Drohungen und das Verhalten Ihres Ex-Partners sammeln, um Ihren Antrag zu unterstützen.",
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "judge_rationale": "Die Antwort stützt sich ausschließlich auf die zitierten Gesetze und beantwortet die Frage des Nutzers direkt und sinnvoll."
+    }
+  ]
+}

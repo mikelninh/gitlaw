@@ -15,7 +15,8 @@ import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { Redis } from '@upstash/redis'
 import { requireProSession } from '../../_auth'
 import { applyCors, applySecurityHeaders } from '../../_http'
-import { chat } from '../../_llm'
+import { z } from 'zod'
+import { chat, chatJSON, LLMValidationError } from '../../_llm'
 
 const redis = Redis.fromEnv()
 
@@ -152,6 +153,22 @@ const CLASSIFY_SCHEMA = {
   },
 }
 
+const ClassificationSchema = z.object({
+  doc_type: z.enum([
+    'Brief', 'Email', 'Bescheid', 'Mahnung', 'Klage',
+    'Vertrag', 'Rechnung', 'Foto', 'Screenshot', 'Sonstiges',
+  ]),
+  document_date: z.string().nullable(),
+  sender: z.string().nullable(),
+  recipient: z.string().nullable(),
+  parties: z.array(z.string()),
+  aktenzeichen: z.string().nullable(),
+  summary_de: z.string(),
+  suggested_filename: z.string(),
+  confidence: z.number().min(0).max(1),
+  needs_review: z.boolean(),
+})
+
 const CLASSIFY_SYSTEM_PROMPT = `Du bist Triage-Assistenz für eine deutsche Anwaltskanzlei.
 
 Eingabe: der OCR-Text eines einzelnen Dokuments (Brief, Bescheid, Email, Mahnung, Foto/Screenshot, etc.).
@@ -228,33 +245,35 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     // the typical Brief/Bescheid header + body comfortably.
     const trimmed = ocrText.length > 6000 ? ocrText.slice(0, 6000) : ocrText
 
-    const { content } = await chat(
-      [
-        { role: 'system', content: CLASSIFY_SYSTEM_PROMPT },
-        { role: 'user', content: `Dateiname (Hinweis, kann irreführend sein): ${payload.fileName || 'unbekannt'}\n\nOCR-Text:\n${trimmed}` },
-      ],
-      {
-        max_tokens: 600,
-        temperature: 0.1,
-        response_format: { type: 'json_schema', json_schema: CLASSIFY_SCHEMA },
-      },
-    )
-
-    let classification: Record<string, unknown>
     try {
-      classification = JSON.parse(content)
-    } catch {
-      return res.status(502).json({ error: 'LLM returned invalid JSON', raw: content.slice(0, 200) })
-    }
+      const { data: classification } = await chatJSON(
+        ClassificationSchema,
+        [
+          { role: 'system', content: CLASSIFY_SYSTEM_PROMPT },
+          { role: 'user', content: `Dateiname (Hinweis, kann irreführend sein): ${payload.fileName || 'unbekannt'}\n\nOCR-Text:\n${trimmed}` },
+        ],
+        {
+          max_tokens: 600,
+          temperature: 0.1,
+          response_format: { type: 'json_schema', json_schema: CLASSIFY_SCHEMA },
+          route: 'pro.intake.classify',
+        },
+      )
 
-    return res.status(200).json({
-      ok: true,
-      serverDocumentId,
-      fileName: payload.fileName || null,
-      mimeType: payload.mimeType,
-      ocr_text: ocrText,
-      classification,
-    })
+      return res.status(200).json({
+        ok: true,
+        serverDocumentId,
+        fileName: payload.fileName || null,
+        mimeType: payload.mimeType,
+        ocr_text: ocrText,
+        classification,
+      })
+    } catch (err) {
+      if (err instanceof LLMValidationError) {
+        return res.status(502).json({ error: 'LLM returned invalid JSON', raw: err.raw.slice(0, 200), request_id: err.request_id })
+      }
+      throw err
+    }
   } catch (err) {
     return res.status(500).json({
       error: 'Classification failed',

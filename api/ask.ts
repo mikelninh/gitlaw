@@ -6,8 +6,9 @@
  */
 
 import type { VercelRequest, VercelResponse } from '@vercel/node'
+import { recordAudit } from './_audit'
 import { applyCors, applySecurityHeaders } from './_http'
-import { chat } from './_llm'
+import { chat, estimateCostUsd } from './_llm'
 import { applyRateLimit, RATE_LLM } from './_ratelimit'
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
@@ -89,7 +90,20 @@ ${context || 'Keine passenden Quellen gefunden.'}`
   messages.push({ role: 'user', content: question })
 
   try {
-    const { content: answer } = await chat(messages, { max_tokens: 400, temperature: 0.2 })
+    const { content: answer, model, usage } = await chat(messages, { max_tokens: 400, temperature: 0.2 })
+
+    await recordAudit('public', 'anon', {
+      action: 'ai.ask',
+      entityType: 'rag-query',
+      llm: {
+        model,
+        prompt_tokens: usage?.prompt_tokens ?? 0,
+        completion_tokens: usage?.completion_tokens ?? 0,
+        total_tokens: usage?.total_tokens ?? 0,
+        estimated_cost_usd: estimateCostUsd(model, usage),
+      },
+    })
+
     return res.status(200).json({
       answer: answer || 'Keine Antwort möglich.',
       sources: Array.isArray(sources) ? sources : [],
