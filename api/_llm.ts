@@ -54,8 +54,15 @@ const DEFAULT_MODEL = 'gpt-4o-mini'
 const OPENAI_BASE = 'https://api.openai.com/v1'
 
 const RETRY_STATUS = new Set([408, 429, 500, 502, 503, 504])
-const MAX_ATTEMPTS = 3
-const BASE_BACKOFF_MS = 500
+// Free-tier OpenAI accounts are 5 RPM. Multi-LLM agent runs trip this
+// constantly. Old defaults (3 attempts × 500ms base) gave up at second 1.
+// New defaults wait long enough to actually clear a 5-RPM bucket — at
+// the cost of a few extra seconds of latency, which is fine since we're
+// already in agent territory (10-30s end-to-end).
+const MAX_ATTEMPTS = 6
+const BASE_BACKOFF_MS = 3000
+// Hard cap so a stuck retry-after doesn't lock the function for minutes.
+const MAX_BACKOFF_MS = 20000
 
 // USD pro 1M Token. Quelle: https://openai.com/api/pricing (Stand 2026-05-18).
 // gpt-4o-mini bleibt der Default-Workhorse, andere Modelle werden hier ergänzt
@@ -144,7 +151,7 @@ export async function chat(
 
       if (!response.ok && RETRY_STATUS.has(response.status) && attempt < MAX_ATTEMPTS) {
         const retryAfter = parseRetryAfter(response.headers.get('retry-after'))
-        const wait = retryAfter ?? jitter(BASE_BACKOFF_MS * 2 ** (attempt - 1))
+        const wait = retryAfter ?? jitter(Math.min(BASE_BACKOFF_MS * 2 ** (attempt - 1), MAX_BACKOFF_MS))
         await sleep(wait)
         continue
       }
@@ -184,7 +191,7 @@ export async function chat(
       // Network error path: retry if attempts remain.
       const isFetchError = err instanceof TypeError || (err as { name?: string })?.name === 'FetchError'
       if (isFetchError && attempt < MAX_ATTEMPTS) {
-        await sleep(jitter(BASE_BACKOFF_MS * 2 ** (attempt - 1)))
+        await sleep(jitter(Math.min(BASE_BACKOFF_MS * 2 ** (attempt - 1), MAX_BACKOFF_MS)))
         continue
       }
       throw err

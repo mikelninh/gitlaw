@@ -140,48 +140,96 @@ async function callOpenAI(opts: {
     }
   }
 
-  try {
-    const response = await fetch(`${OPENAI_BASE}/chat/completions`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        Authorization: `Bearer ${apiKey}`,
-      },
-      body: JSON.stringify({
-        model: opts.model,
-        temperature: opts.temperature,
-        messages: opts.messages,
-        tools: opts.tools,
-        tool_choice: 'auto',
-      }),
-    })
+  // Free-tier OpenAI is 5 RPM. Agent loops can chain 6+ LLM calls in
+  // seconds, which trips the limit. Retry the chat call with exponential
+  // backoff respecting any Retry-After header from OpenAI. Bounded at 5
+  // attempts × max 20s — total worst case ~50s but in practice frees
+  // up after one retry cycle.
+  const RETRY_STATUS = new Set([408, 429, 500, 502, 503, 504])
+  const MAX_ATTEMPTS = 5
+  const BASE_BACKOFF_MS = 3000
+  const MAX_BACKOFF_MS = 20000
+  const _sleep = (ms: number) => new Promise<void>((r) => setTimeout(r, ms))
+  const _jitter = (ms: number) => Math.round(ms * (0.8 + Math.random() * 0.4))
+  const _parseRetryAfter = (h: string | null): number | null => {
+    if (!h) return null
+    const n = Number(h)
+    if (Number.isFinite(n) && n >= 0) return n * 1000
+    const d = Date.parse(h)
+    return Number.isNaN(d) ? null : Math.max(0, d - Date.now())
+  }
 
-    const data = await response.json()
-    if (!response.ok) {
-      const msg = data?.error?.message ?? `HTTP ${response.status}`
+  let lastErrMsg: string | null = null
+  try {
+    for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+      const response = await fetch(`${OPENAI_BASE}/chat/completions`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${apiKey}`,
+        },
+        body: JSON.stringify({
+          model: opts.model,
+          temperature: opts.temperature,
+          messages: opts.messages,
+          tools: opts.tools,
+          tool_choice: 'auto',
+        }),
+      })
+
+      if (!response.ok && RETRY_STATUS.has(response.status) && attempt < MAX_ATTEMPTS) {
+        const retryAfter = _parseRetryAfter(response.headers.get('retry-after'))
+        const backoff = _jitter(Math.min(BASE_BACKOFF_MS * 2 ** (attempt - 1), MAX_BACKOFF_MS))
+        const wait = retryAfter ?? backoff
+        logger.warn({
+          msg: 'agent.openai.retry',
+          attempt,
+          status: response.status,
+          waitMs: wait,
+          requestId,
+        })
+        await _sleep(wait)
+        continue
+      }
+
+      const data = await response.json()
+      if (!response.ok) {
+        const msg = data?.error?.message ?? `HTTP ${response.status}`
+        lastErrMsg = msg
+        return {
+          content: null,
+          toolCalls: [],
+          usage: {},
+          model: opts.model,
+          estimatedCostUsd: 0,
+          requestId,
+          error: msg,
+        }
+      }
+
+      const message = data.choices?.[0]?.message ?? {}
+      const usage = data.usage ?? {}
+      const estimatedCostUsd = estimateCostUsd(opts.model, usage)
+
       return {
-        content: null,
-        toolCalls: [],
-        usage: {},
+        content: typeof message.content === 'string' ? message.content : null,
+        toolCalls: Array.isArray(message.tool_calls) ? message.tool_calls : [],
+        usage,
         model: opts.model,
-        estimatedCostUsd: 0,
+        estimatedCostUsd,
         requestId,
-        error: msg,
+        error: null,
       }
     }
-
-    const message = data.choices?.[0]?.message ?? {}
-    const usage = data.usage ?? {}
-    const estimatedCostUsd = estimateCostUsd(opts.model, usage)
-
+    // Loop ran out of attempts on retryable status codes — return last err.
     return {
-      content: typeof message.content === 'string' ? message.content : null,
-      toolCalls: Array.isArray(message.tool_calls) ? message.tool_calls : [],
-      usage,
+      content: null,
+      toolCalls: [],
+      usage: {},
       model: opts.model,
-      estimatedCostUsd,
+      estimatedCostUsd: 0,
       requestId,
-      error: null,
+      error: lastErrMsg ?? `retry budget exhausted after ${MAX_ATTEMPTS} attempts`,
     }
   } catch (err) {
     logger.warn({ requestId, route: 'agent.callOpenAI', err: String(err) })

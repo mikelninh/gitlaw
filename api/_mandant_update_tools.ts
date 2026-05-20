@@ -112,9 +112,13 @@ async function extractCaseChanges(args: {
 
 // ── Tool 3: detect_mandant_language ──────────────────────────────────────
 
-const VI_NAME_HINTS = /\b(nguy|tran|trần|le|lê|pham|phạm|hoang|hoàng|vu|vũ|dang|đặng|bui|bùi|do|đỗ|ho|hồ|ngo|ngô|duong|dương|ly|lý|phan|võ|vo|huynh|huỳnh|trinh|trịnh)\b/i
-const TR_NAME_HINTS = /\b(yilmaz|yılmaz|kaya|demir|şahin|sahin|celik|çelik|yıldız|yildiz|öztürk|ozturk|aydın|aydin|özdemir|ozdemir|arslan|doğan|dogan)\b/i
-const AR_NAME_HINTS = /\b(mohammed|ahmed|ali|hassan|hussein|mahmoud|abdul|fatima|khalid|omar|youssef|yusuf|ibrahim|amin|saleh)\b/i
+// Surname-prefix patterns. Earlier version was `\b(nguy|tran|...)\b` which
+// silently failed on "Nguyen" because the trailing \b doesn't fire between
+// "Nguy" and "e" (both are word chars). New form: prefix + \w* so the whole
+// surname token is captured. Order matters when surnames overlap.
+const VI_NAME_HINTS = /\b(?:Nguy|Tran|Trần|Lê|Phạm|Pham|Hoàng|Hoang|Vũ|Vu|Đặng|Dang|Bùi|Bui|Đỗ|Hồ|Ngô|Ngo|Dương|Duong|Lý|Phan|Võ|Vo|Huỳnh|Huynh|Trịnh|Trinh)\w*/i
+const TR_NAME_HINTS = /\b(?:Yılmaz|Yilmaz|Kaya|Demir|Şahin|Sahin|Çelik|Celik|Yıldız|Yildiz|Öztürk|Ozturk|Aydın|Aydin|Özdemir|Ozdemir|Arslan|Doğan|Dogan|Kılıç|Kilic|Aslan)\w*/i
+const AR_NAME_HINTS = /\b(?:Mohammed|Muhammad|Ahmed|Ali|Hassan|Hussein|Mahmoud|Abdul|Fatima|Khalid|Omar|Youssef|Yusuf|Ibrahim|Amin|Saleh|Karim|Rahman|Aziz|Hakim)\w*/i
 
 async function detectMandantLanguage(args: {
   mandant_email?: string | null
@@ -141,10 +145,24 @@ async function detectMandantLanguage(args: {
 
 // ── Tool 4: draft_sachstand_email ────────────────────────────────────────
 
+// Tolerant schema — the LLM occasionally drops `language` or returns it as
+// a longer word ("vietnamese" instead of "vi"). We accept either form and
+// normalise; missing fields don't kill the draft. Same lesson learned in
+// Lebenslagen draft_letter.
 const DraftSachstandSchema = z.object({
   subject: z.string(),
   body: z.string(),
-  language: z.enum(MANDANT_LANGUAGES),
+  language: z
+    .string()
+    .optional()
+    .transform((v) => {
+      if (!v) return undefined
+      const lower = v.toLowerCase().slice(0, 2)
+      const allowed = ['de', 'vi', 'tr', 'ar', 'en'] as const
+      return (allowed as readonly string[]).includes(lower)
+        ? (lower as (typeof allowed)[number])
+        : undefined
+    }),
 })
 
 const STATUS_LABEL_DE: Record<string, string> = {
@@ -228,7 +246,13 @@ Gib die Email in ${langLabel} aus — Subject + Body im JSON. Halte den Ton mens
       { role: 'system', content: system },
       { role: 'user', content: `Bitte draftet die Sachstand-Email in ${langLabel}.` },
     ])
-    return data
+    return {
+      subject: data.subject,
+      body: data.body,
+      // Fall back to the agent-supplied language when the LLM omits or
+      // mangles the field — tolerant schema allowed it through.
+      language: (data.language as MandantLanguage | undefined) ?? args.language,
+    }
   } catch (e) {
     logger.warn({ msg: 'draft_sachstand_email failed', err: String(e) })
     return {
