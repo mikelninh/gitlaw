@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Mikel — AI Software Engineer · Portfolio</title>
-<meta name="description" content="GitLaw — Legal-Tech AI auf 5.936 deutschen Bundesgesetzen. RAG, MCP, Knowledge Graphs, Cloud-ready Container. Portfolio-Mapping für die AI Software Engineer Rolle.">
+<title>Mikel — Corporate LLM Engineer · Portfolio</title>
+<meta name="description" content="Produktiver Agent-Runtime, LLM-Gateway, EU-Data-Layer, Multi-Tenant-Platform — gebaut auf 5.936 deutschen Bundesgesetzen + SafeVoice. Code-Paths zu jeder Anforderung.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,700;9..144,900&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -117,19 +117,19 @@
 <!-- ── HERO ────────────────────────────────────────────────────── -->
 <section class="hero">
   <div class="container">
-    <div class="pre">Bewerbung · AI Software Engineer · Legal Tech</div>
+    <div class="pre">Bewerbung · Corporate LLM Engineer</div>
     <h1 class="display">Mikel</h1>
     <p class="tagline">
-      Ich baue produktionsreife AI-Systeme für deutsches Recht — RAG-Pipelines, Knowledge-Graphs, MCP-Server, mit Anti-Halluzinations-Layer und realer Verifikation gegen den vollen Bundesrecht-Korpus.
+      Ich baue produktive LLM-Systeme für regulierte Domänen — eigener Agent-Runtime mit Cost- und Iteration-Caps, LLM-Gateway mit Audit-Tabelle, EU-Data-Layer (DSGVO + Frankfurt-Only), Multi-Tenant-Platform mit RBAC. Real shipped: Pilot mit einer Berliner Migrationsrechts-Kanzlei, NGO-Partner-Pilot bei SafeVoice.
     </p>
     <div class="stats">
-      <span><strong>5.936</strong> deutsche Gesetze indiziert</span>
+      <span><strong>8 Agents</strong> spec'd, #1 produktiv</span>
       <span>·</span>
-      <span><strong>94.178</strong> Paragraphen als Graph-Knoten</span>
+      <span><strong>5.936</strong> Gesetze · 94K Graph-Knoten · 200K Edges</span>
       <span>·</span>
-      <span><strong>200.464</strong> verifizierte Cross-References</span>
+      <span><strong>53/53</strong> Citation-Evals in CI</span>
       <span>·</span>
-      <span><strong>~98K</strong> FAISS-Vektoren</span>
+      <span><strong>Pilot</strong> bei Kanzlei + NGO</span>
     </div>
     <div class="links">
       <a class="btn btn-primary" href="https://github.com/mikelninh/gitlaw">GitHub Repo →</a>
@@ -143,32 +143,32 @@
 <!-- ── HEADLINE TRIO ──────────────────────────────────────────── -->
 <section>
   <div class="container">
-    <div class="pre">Drei Sachen, die in der Stellenanzeige spezifisch genannt sind</div>
-    <h2 class="display">Konkret gebaut. Demo-fähig.</h2>
+    <div class="pre">Vier Säulen der Stellenanzeige — drei davon laufen produktiv, eine ist in flight</div>
+    <h2 class="display">Konkret gebaut. Demo-fähig. Über zwei Repos.</h2>
 
     <div class="trio">
       <div class="card">
-        <div class="num">RAG</div>
-        <div class="label">Retrieval-Augmented Generation</div>
-        <h3>Legal-Doc Pipelines</h3>
-        <p>FAISS-Vectorstore über 5.936 Bundesgesetze, paragraphen-genaues Chunking, OpenAI text-embedding-3-small. Pro-Anwält:in-Recherche mit 3-Stufen-Belegen + Zitat-Verifikation gegen lokalen Korpus (kein Halluzinations-Risiko).</p>
-        <a class="tag" href="https://github.com/mikelninh/gitlaw/blob/main/rag/server.py">→ rag/server.py · rag/build_vectorstore.py</a>
+        <div class="num">Agent</div>
+        <div class="label">Agent-Runtime · native, kein LangChain</div>
+        <h3>Court-Prep Agent in Production</h3>
+        <p>Eigener Agent-Loop in Python (SafeVoice) und TypeScript (GitLaw) — Cost-Cap + Iteration-Cap + Idempotency-Keys + Tool-Call-Audit von Tag 1. Court-Prep-Agent mit <strong>8 Tools</strong> erzeugt eine vollständige Strafanzeige in ~30s. <strong>8 Agents</strong> spec'd, #1 produktiv, #2-3 next.</p>
+        <a class="tag" href="https://github.com/mikelninh/safevoice/blob/main/backend/app/services/agent_loop.py">→ safevoice/services/agent_loop.py · court_prep_agent.py</a>
       </div>
 
       <div class="card">
-        <div class="num">MCP</div>
-        <div class="label">Model Context Protocol · stdio + SSE</div>
-        <h3>Eigener MCP-Server</h3>
-        <p>FastMCP-Server, der GitLaw als <strong>6 Tools</strong> für jeden LLM-Client bereitstellt: search_laws, verify_citation, lookup_paragraph, list_laws, find_related_paragraphs, hybrid_search. <strong>53/53 Citation-Eval-Tests in CI</strong>. JSON-strukturierte Logs. Fly.io-Deploy + AWS-Terraform.</p>
-        <a class="tag" href="https://github.com/mikelninh/gitlaw/tree/main/gitlaw_mcp">→ gitlaw_mcp/</a>
+        <div class="num">Gateway</div>
+        <div class="label">LLM-Gateway · multi-provider in flight</div>
+        <h3>Central Gateway + Audit-Table</h3>
+        <p>Jeder LLM-Call läuft durch <code>llm_gateway</code>: Model, Tokens, USD-Cost, request_id, prompt_version, agent_run_id — pro Call in <code>llm_usage</code> persistiert. Versionierte Prompts (<code>PROMPT_VERSION = "v2"</code>) bleiben pro Klassifikation attribuierbar. <strong>Multi-Provider-Routing (Anthropic + Azure-OpenAI Fallback) wird gerade ergänzt</strong> — Gateway-Interface ist schon abstrahiert.</p>
+        <a class="tag" href="https://github.com/mikelninh/safevoice/blob/main/backend/app/services/llm_gateway.py">→ safevoice/services/llm_gateway.py</a>
       </div>
 
       <div class="card">
-        <div class="num">Graph</div>
-        <div class="label">Knowledge Graph</div>
-        <h3>Citation Network</h3>
-        <p>Aus dem Korpus extrahiert: 94K Paragraphen-Knoten, 200K Cross-Reference-Edges, davon 1.163 cross-law. Force-directed Visualisierung mit D3 v7, plus MCP-Tool find_related_paragraphs für agentic-Workflows die durch Statut-Verweise navigieren.</p>
-        <a class="tag" href="gitlaw_mcp/graph_viewer.html">→ Live-Demo (graph_viewer.html)</a>
+        <div class="num">EU</div>
+        <div class="label">EU-Data-Layer + Multi-Tenant</div>
+        <h3>DSGVO, Frankfurt, RBAC</h3>
+        <p>14-Pattern PII-Anonymizer vor jedem LLM-Call · Frankfurt-Only-Hosting (Vercel EU, Upstash Frankfurt, Fly.io FRA) · signierte Pro-Sessions mit <strong>5-Rollen-RBAC</strong> · Tenant-gebundene Akten · full audit log. Reale Pilot-Kanzlei mit Mandant:innen-Daten unter NDA.</p>
+        <a class="tag" href="https://github.com/mikelninh/gitlaw/blob/main/GDPR_READINESS_DE.md">→ GDPR_READINESS_DE.md · auth/RBAC code</a>
       </div>
     </div>
   </div>
@@ -177,114 +177,183 @@
 <!-- ── JD MAPPING ─────────────────────────────────────────────── -->
 <section>
   <div class="container">
-    <div class="pre">Stellenbeschreibung × Code</div>
-    <h2 class="display">Jeder Bullet-Point — gemappt auf etwas Reales.</h2>
-    <p class="lede">Auf der linken Seite die Anforderung aus der Anzeige, auf der rechten Seite was in diesem Repo dafür existiert. Klick führt zum Code.</p>
+    <div class="pre">Mission der Rolle × Code</div>
+    <h2 class="display">Vier Mission-Bullets — gemappt auf konkrete Code-Pfade.</h2>
+    <p class="lede">Links die Anforderung aus der Anzeige, rechts was in diesem oder im SafeVoice-Repo existiert. Klick führt zum Code. Was noch nicht produktiv ist, steht offen dort.</p>
 
-    <!-- AI Engineering -->
+    <!-- 1. Agent-Runtime -->
     <div class="group">
-      <h3>AI Engineering &amp; Development</h3>
+      <h3>1 · Agent-Runtime</h3>
 
       <div class="map-row">
-        <div class="jd">"Build and deploy AI pipelines for legal document workflows, including RAG and multi-step agentic processes."</div>
-        <div class="built"><strong>RAG-Pipeline + Citizen-Intent-Layer + Pro-Recherche-Workflow</strong>
-          Multi-Schritt: intent → clarification → retrieval → curated answer → PDF.<br>
-          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/rag/server.py">rag/server.py</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/scripts/test_citizen_intents.mjs">scripts/test_citizen_intents.mjs</a></code>
+        <div class="jd">"Design and operate an agentic runtime that orchestrates multi-step LLM workflows safely in production."</div>
+        <div class="built"><strong>Eigener Agent-Loop, native (kein LangChain)</strong>
+          Cost-Cap (<code>max_cost_usd=0.50</code>), Iteration-Cap (<code>max_iterations=10</code>), Idempotency-Key <code>(run_id, tool, sha256(input))</code>, Tool-Call-Audit-Tabelle, Human-in-Loop-Checkpoint vor jedem externen Send — alles von Tag 1.<br>
+          <code><a href="https://github.com/mikelninh/safevoice/blob/main/backend/app/services/agent_loop.py">safevoice/services/agent_loop.py</a></code> · <code><a href="https://github.com/mikelninh/safevoice/blob/main/docs/AGENT_MASTERPLAN.md">docs/AGENT_MASTERPLAN.md</a></code>
         </div>
       </div>
 
       <div class="map-row">
-        <div class="jd">"Design and implement robust data pipelines for legal technology applications, covering data ingestion, cleansing, transformation, and integration from diverse enterprise systems and databases."</div>
-        <div class="built"><strong>Parser-Pipeline für gesetze-im-internet.de</strong>
-          Crawl → Parse → Markdown-Normalisierung → FAISS-Index → Pro-Akten-CSV-Import (DATEV, RA-Micro, advoware Auto-Mapping).<br>
-          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/parser/fetch_all.py">parser/fetch_all.py</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/tree/main/parser">parser/</a></code>
+        <div class="jd">"Ship at least one production agent that delivers measurable value to a regulated workflow."</div>
+        <div class="built"><strong>Court-Prep Agent · 8 Tools · ~30s statt ~3h</strong>
+          Input: <code>case_id</code>. Output: Strafanzeige-PDF + NetzDG-<code>.eml</code> pro Plattform + StA-Zuordnung + Frist-Check (§ 77 StGB) + Re-Archive der Beweis-URLs + Anonymisierungs-Antrag wenn nötig. Tools: read_case · determine_jurisdiction · check_strafantrag_frist · detect_anonymisierung_needed · re_archive_urls · draft_netzdg_email · generate_strafanzeige_pdf · build_onlinewache_text.<br>
+          <code><a href="https://github.com/mikelninh/safevoice/blob/main/backend/app/services/court_prep_agent.py">court_prep_agent.py</a></code> · <code><a href="https://github.com/mikelninh/safevoice/blob/main/backend/app/services/court_prep_tools.py">court_prep_tools.py</a></code> · <code><a href="https://github.com/mikelninh/safevoice/blob/main/backend/app/routers/agent.py">routers/agent.py</a></code>
         </div>
       </div>
 
       <div class="map-row">
-        <div class="jd">"Establish and maintain automated data workflow processes to uphold high standards of data quality, consistency, and regulatory compliance throughout the entire data lifecycle."</div>
-        <div class="built"><strong>Wöchentliches Auto-Update via GitHub Actions</strong>
-          Sonntags-Cron prüft mit OpenAI Structured Outputs neue BGH-Urteile, öffnet PR mit Diff. Plus separater Workflow für Gesetzesänderungen.<br>
-          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/.github/workflows/update-laws.yml">update-laws.yml</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/.github/workflows/update-leitsaetze.yml">update-leitsaetze.yml</a></code>
+        <div class="jd">"Build the foundation so additional agents can be added without re-inventing the loop."</div>
+        <div class="built"><strong>8 Agents geplant in 14 Tagen — #1 produktiv, #2-#3 spec'd</strong>
+          Shared Contract (Python + TypeScript-Port) für Court-Prep (SafeVoice), Lebenslagen-Assistent (GitLaw Citizen), Gesetzes-Diff-Watcher (cron), Behörden-Korrespondenz-Agent (Pro · Pilot), Fristen-Monitor + Untätigkeitsklage, Document-Review, Mandant-Update-Agent (DE+VI), PMM-Investigation. Reihenfolge bewusst: #1 baut Shared-Infra, #2 testet Python-↔-TS-Parität.<br>
+          <code><a href="https://github.com/mikelninh/safevoice/blob/main/docs/AGENT_MASTERPLAN.md">AGENT_MASTERPLAN.md</a></code> · <code><a href="https://github.com/mikelninh/safevoice/blob/main/evals/agent_court_prep.json">evals/agent_court_prep.json</a></code>
         </div>
       </div>
 
       <div class="map-row">
-        <div class="jd">"Integrate knowledge graphs and vector databases for structured reasoning and semantic search across large legal datasets."</div>
-        <div class="built"><strong>FAISS-Vectorstore + Citation Graph</strong>
-          ~98K Paragraphen-Vektoren (FAISS, lokal) plus 94K-Knoten/200K-Edges Citation-Network mit interaktiver D3-Visualisierung und MCP-Tool zur Graph-Traversierung.<br>
-          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/rag/build_vectorstore.py">rag/build_vectorstore.py</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/gitlaw_mcp/graph_builder.py">gitlaw_mcp/graph_builder.py</a></code>
-        </div>
-      </div>
-
-      <div class="map-row">
-        <div class="jd">"Optimize performance and scalability of LLM-based systems for production environments."</div>
-        <div class="built"><strong>Lazy-Loading + Structured Outputs + Caching</strong>
-          FAISS und Graph-Indexes erst beim ersten Tool-Call geladen, OpenAI gpt-4o-mini mit JSON-Schema Structured Outputs für deterministische Antworten, Upstash-Redis Frankfurt mit 60d-TTL für Rechtsprechungs-Suche.<br>
-          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/gitlaw_mcp/server.py">gitlaw_mcp/server.py</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/api/ask-pro.ts">api/ask-pro.ts</a></code>
-        </div>
-      </div>
-
-      <div class="map-row">
-        <div class="jd">"Develop and integrate solutions with MCP servers to support advanced legal tech workflows."</div>
-        <div class="built"><strong>Eigener produktiver MCP-Server mit stdio + HTTP/SSE</strong>
-          FastMCP-basiert, sechs Tools (search · verify · lookup · list · related · hybrid_search), eine Resource. Multi-Stage Docker, drei deploy-fähige Pfade (lokal stdio / Fly.io SSE / AWS Fargate via Terraform), 53/53 Citation-Eval-Tests in CI, JSON-strukturierte Logs.<br>
-          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/gitlaw_mcp/README.md">gitlaw_mcp/README.md</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/gitlaw_mcp/server.py">server.py</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/fly.toml">fly.toml</a></code>
-        </div>
-      </div>
-
-      <div class="map-row">
-        <div class="jd">"Collaborate with legal engineers and product teams to turn complex requirements into working prototypes."</div>
-        <div class="built"><strong>Drei Stakeholder, drei Apps, ein Korpus</strong>
-          Bürger-Tier (kostenlos), Anwält:innen-Tier (Pro mit Akten/Recherche/PDF), Mandant:innen-Intake (5 Sprachen, RTL für Arabisch). Verifizierte Pilot-Anwender:innen-Welcome-Pages mit Anpassung pro Kanzlei.<br>
-          <code><a href="https://github.com/mikelninh/gitlaw/tree/main/viewer/src/pro">viewer/src/pro/</a></code>
+        <div class="jd">"Eval-driven prompt and tool development — no vibes-based changes."</div>
+        <div class="built"><strong>Eval-Sets ab Tag 1</strong>
+          Pro Agent: <code>evals/agent_&lt;name&gt;.json</code> mit 5-10 Cases, läuft nach jeder Prompt-Änderung. Plus für RAG: 53/53 hand-gelabelte Citation-Cases in CI (real / halluziniert / edge), Pass-Rate 100%.<br>
+          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/gitlaw_mcp/tests/cases.json">gitlaw_mcp/tests/cases.json (53)</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/.github/workflows/mcp-ci.yml">.github/workflows/mcp-ci.yml</a></code>
         </div>
       </div>
     </div>
 
-    <!-- Cloud Architecture -->
+    <!-- 2. LLM-Gateway -->
     <div class="group">
-      <h3>Cloud Architecture &amp; Compliance</h3>
+      <h3>2 · LLM-Gateway</h3>
 
       <div class="map-row">
-        <div class="jd">"Architect and deploy AI services on cloud platforms (Azure/AWS) using containerization and CI/CD pipelines."</div>
-        <div class="built"><strong>Multi-Stage Dockerfile + Fly.io Live-Deploy + AWS Terraform IaC</strong>
-          Zwei deploy-fähige Pfade: (1) <code>fly.toml</code> + push-to-deploy GitHub Action → Frankfurt SSE-Endpoint in 60s. (2) <code>deploy/aws/</code> — 10 Terraform-Files mit VPC + ECS Fargate + ALB + ACM + EFS + Secrets Manager + WAF + CloudWatch + Autoscaling, ~$31/Monat. Plan, plan-able, applicable.<br>
-          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/fly.toml">fly.toml</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/tree/main/deploy/aws">deploy/aws/</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/gitlaw_mcp/Dockerfile">gitlaw_mcp/Dockerfile</a></code>
+        <div class="jd">"Single point of entry to all LLM calls — cost, latency, request_id, prompt version tracked per call."</div>
+        <div class="built"><strong>Central <code>llm_gateway</code> Module mit Audit-Tabelle</strong>
+          Jeder Call: Model, Prompt/Completion/Total-Tokens, USD-Cost (geschätzt aus Tarif-Tabelle), <code>request_id</code>, <code>prompt_version</code>, <code>agent_run_id</code> — in <code>llm_usage</code> persistiert. Per-User / per-Feature / per-Agent-Run Dashboards lesen aus einer Quelle. Versionierte Prompts (<code>PROMPT_VERSION = "v2"</code>) bleiben pro Klassifikation attribuierbar.<br>
+          <code><a href="https://github.com/mikelninh/safevoice/blob/main/backend/app/services/llm_gateway.py">safevoice/services/llm_gateway.py</a></code>
         </div>
       </div>
 
       <div class="map-row">
-        <div class="jd">"Implement security and compliance frameworks for GDPR and legal industry standards."</div>
-        <div class="built"><strong>14-Pattern PII-Anonymizer + Frankfurt-Hosting + signierte Pro-Sessions</strong>
-          Auto-Anonymisierung vor jeder LLM-Anfrage (Namen, Adressen, IBAN, BIC, Steuer-ID, SV-Nr., Aktenzeichen, Geb-Datum, Firmen) mit 50-Token-Whitelist gegen Falsch-Anonymisierung von Rechtsbegriffen. Tenant-gebundene Sessions mit RBAC.<br>
+        <div class="jd">"Multi-provider routing with fallback — never single-vendor-locked in production."</div>
+        <div class="built"><strong>In flight — wird parallel zu dieser Bewerbung gebaut</strong>
+          Heute: OpenAI <code>gpt-4o-mini</code> + Vision für Klassifikator, OCR, Strukturierte Outputs. Gateway-Interface ist bereits provider-neutral abstrahiert (<code>llm_gateway.chat_completion(...)</code>) → Multi-Provider-Layer mit Anthropic + Azure-OpenAI-Fallback wird gerade als Adapter ergänzt. Eval-Harness erweitert auf provider-comparison.<br>
+          <code><a href="https://github.com/mikelninh/safevoice/blob/main/backend/app/services/llm_gateway.py">llm_gateway.py</a></code> · <em>multi-provider PR in arbeit</em>
+        </div>
+      </div>
+
+      <div class="map-row">
+        <div class="jd">"Structured outputs by default — no JSON-mode hopium."</div>
+        <div class="built"><strong>Pydantic <code>.parse()</code> + OpenAI Strict-Mode überall</strong>
+          16 Offense-Kategorien + 12 deutsche Paragraphen als Python-Enum (Modell <em>kann</em> nichts erfinden). Bei Schema-Fail oder Safety-Refuse: sauberer <code>503</code>, kein silent-fallback. Gleiches Pattern für jeden GitLaw-LLM-Call (Citizen-Intent, Pro-Recherche, Anti-Halluzinations-Verifikation).<br>
+          <code><a href="https://github.com/mikelninh/safevoice/blob/main/backend/app/services/classifier_llm_v2.py">classifier_llm_v2.py</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/rag/server.py">rag/server.py</a></code>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3. EU-Data-Layer -->
+    <div class="group">
+      <h3>3 · EU-Data-Layer</h3>
+
+      <div class="map-row">
+        <div class="jd">"DSGVO-compliant data handling — PII never leaves the EU, never reaches a model un-anonymised when avoidable."</div>
+        <div class="built"><strong>14-Pattern PII-Anonymizer + 50-Token-Whitelist</strong>
+          Auto-Anonymisierung vor jeder LLM-Anfrage: Namen, Adressen, IBAN, BIC, Steuer-ID, SV-Nr., Aktenzeichen, Geb-Datum, Firmen. Whitelist (50 Tokens) verhindert, dass Rechtsbegriffe fälschlich anonymisiert werden („Beleidigung" ist kein Name).<br>
           <code><a href="https://github.com/mikelninh/gitlaw/blob/main/GDPR_READINESS_DE.md">GDPR_READINESS_DE.md</a></code>
         </div>
       </div>
 
       <div class="map-row">
-        <div class="jd">"Monitor and maintain system reliability through automated testing and observability tools."</div>
-        <div class="built"><strong>53/53 Citation-Eval + JSON-Logs + 3-Job-Parallel-CI</strong>
-          53 hand-gelabelte Citation-Verification-Cases (real, halluziniert, edge-cases) als pytest-Suite, in CI getrackt — pass-rate 100%. JSON-strukturierte Logs pro Tool-Call (request_id, latency_ms, status) — pipe-fähig in Datadog/Loki/Sentry/Axiom ohne Parser. CI: smoke + lint (ruff+mypy) + docker mit BuildKit-Cache.<br>
-          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/.github/workflows/mcp-ci.yml">mcp-ci.yml</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/gitlaw_mcp/tests/cases.json">tests/cases.json (53)</a></code>
+        <div class="jd">"All infrastructure in EU regions — region preference Frankfurt where available."</div>
+        <div class="built"><strong>Frankfurt-Only Hosting</strong>
+          Vercel EU (Frankfurt Fluid Compute), Upstash Redis Frankfurt mit 60d-TTL für Rechtsprechungs-Cache, Fly.io FRA für MCP-Server-SSE, Neon Postgres EU. AWS-Pfad ist Terraform-fertig für EU-Central-1 (10 Files, ~$31/Mo).<br>
+          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/fly.toml">fly.toml</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/tree/main/deploy/aws">deploy/aws/</a></code>
+        </div>
+      </div>
+
+      <div class="map-row">
+        <div class="jd">"Auditability — every LLM call, every tool call, every user action traceable for legal-tech defensibility."</div>
+        <div class="built"><strong>Drei Audit-Tabellen, JSON-strukturierte Logs</strong>
+          <code>llm_usage</code> (jeder LLM-Call), <code>agent_runs</code> + <code>tool_calls</code> (jede Agent-Iteration mit input/output/latency/cost/cached-flag), Pro-Audit-Log für User-Actions. Logs sind JSON pro Tool-Call (request_id, latency_ms, status) — pipe-fähig in Datadog/Loki/Sentry ohne Parser.<br>
+          <code><a href="https://github.com/mikelninh/safevoice/blob/main/docs/AGENT_MASTERPLAN.md">AGENT_MASTERPLAN.md (Schema)</a></code>
         </div>
       </div>
     </div>
 
-    <!-- About You -->
+    <!-- 4. Multi-Tenant -->
     <div class="group">
-      <h3>Coding Skills &amp; Working Style</h3>
+      <h3>4 · Multi-Tenant-Platform</h3>
 
       <div class="map-row">
-        <div class="jd">"Strong coding skills (Python, Typescript and experience with knowledge graphs and vector databases)."</div>
-        <div class="built"><strong>Beide Sprachen produktiv im selben Repo</strong>
-          Python: rag/, parser/, gitlaw_mcp/. TypeScript: viewer/ (React 19 + Vite + Tailwind 4), api/ (Vercel Serverless Functions). Knowledge Graphs: Citation Network. Vector DBs: FAISS lokal, Strategie für Pinecone/Weaviate-Migration in ARCHITECTURE.md.</div>
+        <div class="jd">"Tenant isolation for B2B — one platform, many customers, no leakage."</div>
+        <div class="built"><strong>Signierte Pro-Sessions, Tenant-gebundene Akten, 5-Rollen-RBAC</strong>
+          Pro-Tenant: <code>org_id</code> auf jedem Datensatz (Akte, Evidence, Sachstand, Audit-Eintrag). Sessions signiert pro Tenant, Routes auth-gated. Rollen: Kanzlei-Admin · Anwält:in · Sachbearbeitung · Mandant:in · Mittelsperson. Reale Pilot-Kanzlei mit Mandant:innen-Daten unter NDA.<br>
+          <code><a href="https://github.com/mikelninh/gitlaw/tree/main/viewer/src/pro">viewer/src/pro/</a></code> · <code><a href="https://github.com/mikelninh/safevoice/blob/main/backend/app/services/authz.py">safevoice/services/authz.py</a></code>
+        </div>
       </div>
 
       <div class="map-row">
-        <div class="jd">"You don't just identify problems. You own solutions."</div>
-        <div class="built"><strong>Solo-built, drei Stakeholder bedient</strong>
-          GitLaw existiert bisher als Solo-Projekt (~9 Monate). Bürger-Version live deployed auf GitHub Pages, Pro-Version live auf Vercel mit Frankfurt-Cloud-Backend, MCP-Server CI-getestet. Kein Demo-Toy — produktive Workflows mit echten Pilot-Anwender:innen.</div>
+        <div class="jd">"Per-tenant cost accounting + usage limits — sane unit economics for SaaS."</div>
+        <div class="built"><strong><code>agent_run_id</code> Spalte in <code>llm_usage</code></strong>
+          Cost-Dashboard kann pro Tenant, pro Feature, pro Agent-Run abrechnen. Strafanzeige-Run zeigt als 1 Zeile, nicht 7 LLM-Calls. Pro-Tier ist von Anfang an als <code>€99-299/Anwält:in/Monat</code> spezifiziert, daher braucht das Tracking solide Foundation.<br>
+          <code><a href="https://github.com/mikelninh/safevoice/blob/main/backend/app/services/llm_gateway.py">llm_gateway.py</a></code> · <code><a href="https://github.com/mikelninh/safevoice/blob/main/docs/AGENT_MASTERPLAN.md">AGENT_MASTERPLAN.md</a></code>
+        </div>
+      </div>
+
+      <div class="map-row">
+        <div class="jd">"Per-tenant configuration — UI, language, templates, branding."</div>
+        <div class="built"><strong>White-Label per Kanzlei + 5 Mandant:innen-Sprachen</strong>
+          Welcome-Pages pro Kanzlei anpassbar, Mandant:innen-Intake in DE/VI/TR/AR/EN (RTL für Arabisch), 32 Sachstand-Templates Deutsch+Vietnamesisch, branded PDF/Word-Export. 11 Mandatsart-Checklisten mit 108 curated Pflicht-Items.<br>
+          <code><a href="https://github.com/mikelninh/gitlaw/tree/main/viewer/src/pro">viewer/src/pro/</a></code>
+        </div>
+      </div>
+    </div>
+
+    <!-- Foundation row (RAG/MCP/Graph that the agents build on) -->
+    <div class="group">
+      <h3>Fundament · worauf die vier Säulen aufsetzen</h3>
+
+      <div class="map-row">
+        <div class="jd">"RAG over the legal corpus — paragraph-precise, citation-verified, no hallucinations."</div>
+        <div class="built"><strong>FAISS-Vectorstore + Citation Graph + Anti-Hallucination-Layer</strong>
+          ~98K Paragraphen-Vektoren (text-embedding-3-small), 94K-Knoten/200K-Edges Citation-Network. <code>verify_citation()</code> liefert nicht ✓/✗ sondern strukturierte Failure-Modes (<code>law_not_found</code> vs <code>paragraph_not_found</code> vs <code>could_not_parse</code>) — agent-tauglich.<br>
+          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/rag/build_vectorstore.py">rag/build_vectorstore.py</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/gitlaw_mcp/graph_builder.py">gitlaw_mcp/graph_builder.py</a></code>
+        </div>
+      </div>
+
+      <div class="map-row">
+        <div class="jd">"MCP-server so the corpus is reachable from any LLM client — Claude Desktop, Cursor, in-house."</div>
+        <div class="built"><strong>FastMCP-Server mit 6 Tools + Resource</strong>
+          search_laws · verify_citation · lookup_paragraph · list_laws · find_related_paragraphs · hybrid_search. Multi-Stage Docker (~250MB), drei Deploy-Pfade (lokal stdio / Fly.io SSE / AWS Fargate Terraform), Lazy-Loading der teuren Indizes (Server-Start &lt;200ms).<br>
+          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/gitlaw_mcp/server.py">gitlaw_mcp/server.py</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/fly.toml">fly.toml</a></code>
+        </div>
+      </div>
+
+      <div class="map-row">
+        <div class="jd">"Data pipelines + automated regulatory updates."</div>
+        <div class="built"><strong>Parser-Pipeline + wöchentlicher Auto-Update-Cron</strong>
+          Crawl <code>gesetze-im-internet.de</code> → Parse → Markdown → FAISS. Sonntags-Cron prüft neue BGH-Urteile via OpenAI Structured Outputs, öffnet PR mit Diff. Separater Workflow für Gesetzesänderungen.<br>
+          <code><a href="https://github.com/mikelninh/gitlaw/blob/main/parser/fetch_all.py">parser/fetch_all.py</a></code> · <code><a href="https://github.com/mikelninh/gitlaw/blob/main/.github/workflows/update-laws.yml">update-laws.yml</a></code>
+        </div>
+      </div>
+    </div>
+
+    <!-- Working Style -->
+    <div class="group">
+      <h3>Working Style · wer das gebaut hat</h3>
+
+      <div class="map-row">
+        <div class="jd">"Strong coding skills (Python, TypeScript) — comfortable across the full LLM-app stack."</div>
+        <div class="built"><strong>Beide Sprachen produktiv, gleicher Agent-Loop in beiden</strong>
+          Python: <code>safevoice/backend/</code>, <code>gitlaw/rag/</code>, <code>gitlaw/parser/</code>, <code>gitlaw/gitlaw_mcp/</code>. TypeScript: <code>gitlaw/viewer/</code> (React 19 + Vite + Tailwind 4), <code>gitlaw/api/</code> (Vercel Serverless). Agent-Loop existiert sowohl als Python-Modul wie als TypeScript-Port — gleicher Contract.</div>
+      </div>
+
+      <div class="map-row">
+        <div class="jd">"Owns the problem end-to-end — from spec to deployed production."</div>
+        <div class="built"><strong>Solo-built, drei Repos, zwei Pilots</strong>
+          GitLaw + GitLaw Pro: ~9 Monate solo, Bürger-Version live, Pro-Pilot mit Berliner Migrationsrechts-Kanzlei. SafeVoice: NGO-Partner-Pilot, anonym im Browser nutzbar, Klassifikator gegen 35 reale Cases validiert. 8-Agent-Roadmap mit konkretem Spec pro Agent, #1 produktiv in 14 Tagen.</div>
+      </div>
+
+      <div class="map-row">
+        <div class="jd">"Pragmatic about tools — pick frameworks when they earn their keep."</div>
+        <div class="built"><strong>Native vor LangChain, Pydantic vor JSON-mode-hopium</strong>
+          Agent-Loop bewusst native (kein LangChain), um zu verstehen was Frameworks abstrahieren — LangSmith für Tracing und LangGraph für Multi-Agent-Komposition sind aber auf dem Radar wenn die Komplexität es rechtfertigt. Strict-Mode Structured Outputs überall statt regex-Post-Processing.</div>
       </div>
     </div>
 
@@ -327,20 +396,20 @@
 
     <div class="highlights">
       <div class="hl">
-        <h4>HTTP/SSE-Transport für hosted MCP-Clients</h4>
-        <p>Aktuell stdio. FastMCP unterstützt SSE und streamable-HTTP nativ — nächster Schritt für Production-Hosting.</p>
+        <h4>Multi-Provider-Gateway (in flight)</h4>
+        <p>Anthropic + Azure-OpenAI als Adapter hinter dem bestehenden <code>llm_gateway</code>-Interface. Fallback-Routing pro Feature, Eval-Harness erweitert auf Provider-Comparison.</p>
       </div>
       <div class="hl">
-        <h4>Eval-Harness für Citation-Verification</h4>
-        <p>100 hand-gelabelte Cases (echte vs. halluzinierte Zitate) als pytest-Suite, in CI getrackt. Pass-Rate als Metrik in jedem PR.</p>
-      </div>
-      <div class="hl">
-        <h4>Multi-Jurisdiction</h4>
-        <p>Schweizer und Österreichischer Korpus existiert bereits in <code>data/laws_*.py</code>. Mit minimalem Aufwand in MCP-Server + Vectorstore aufnehmbar.</p>
+        <h4>Agents #2 + #3 — Lebenslagen + Diff-Watcher</h4>
+        <p>TypeScript-Port des Agent-Loops in <code>gitlaw/api/_agent.ts</code> für Lebenslagen-Assistent. Plus cron-getriebener Gesetzes-Diff-Watcher als Pattern-Test für non-user-initiated Agents.</p>
       </div>
       <div class="hl">
         <h4>OpenTelemetry-Tracing pro Tool-Invocation</h4>
-        <p>Strukturierte Spans für FAISS-Suche + OpenAI-Call + Graph-Lookup. Visualisiert in Grafana / App Insights, hilft bei "warum war dieser Call langsam".</p>
+        <p>Strukturierte Spans für FAISS-Suche + LLM-Call + Graph-Lookup. JSON-Logs sind schon da — OTel ist die nächste Schicht, visualisiert in Grafana / App Insights.</p>
+      </div>
+      <div class="hl">
+        <h4>Multi-Jurisdiction</h4>
+        <p>Schweizer und österreichischer Korpus existiert bereits in <code>data/laws_*.py</code>. Mit minimalem Aufwand in MCP-Server + Vectorstore aufnehmbar.</p>
       </div>
     </div>
   </div>
