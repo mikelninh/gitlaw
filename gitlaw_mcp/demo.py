@@ -28,7 +28,7 @@ from gitlaw_mcp.server import (  # type: ignore
 )
 
 
-CASES: list[tuple[str, str, str]] = [
+CASES: list[tuple[str, str, str | tuple[str, str]]] = [
     # (label, kind, args)
     ("Real citation — Beleidigung", "verify", "§ 185 StGB"),
     ("Real citation — Computerbetrug", "verify", "§ 263a StGB"),
@@ -62,6 +62,7 @@ def main() -> None:
             print(f"  verify_citation({args!r})")
             print(fmt(verify_citation(args)))
         elif kind == "lookup":
+            assert isinstance(args, tuple), "lookup case requires a (abbr, para) tuple"
             abbr, para = args
             print(f"  lookup_paragraph({abbr!r}, {para!r})")
             print(fmt(lookup_paragraph(abbr, para)))

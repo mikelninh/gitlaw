@@ -142,7 +142,28 @@ LAWS_DIR = ROOT / "laws"
 VECTORSTORE_DIR = ROOT / "rag" / "vectorstore"
 GRAPH_FILE = Path(__file__).parent / "data" / "citation_graph.json"
 
-mcp = FastMCP("gitlaw")
+mcp = FastMCP(
+    "gitlaw",
+    # Bind 0.0.0.0 by default so health checks from outside the container
+    # can reach us in SSE/HTTP mode. Honour explicit env override.
+    host=os.getenv("FASTMCP_HOST", "0.0.0.0"),
+    port=int(os.getenv("FASTMCP_PORT", os.getenv("PORT", "8000"))),
+)
+
+
+# ---------------------------------------------------------------------------
+# Plain HTTP health probe — kept separate from the MCP /sse stream because
+# Fly's / Railway's TCP health checks expect a fast 200 on GET, while /sse
+# is a long-lived event-stream that never returns "done".
+# ---------------------------------------------------------------------------
+try:
+    from starlette.responses import JSONResponse  # type: ignore
+
+    @mcp.custom_route("/health", methods=["GET"])
+    async def _health(_request):  # noqa: ANN001
+        return JSONResponse({"status": "ok", "service": "gitlaw-mcp"})
+except Exception:  # pragma: no cover — only matters when FastMCP supports it
+    pass
 
 # ---------------------------------------------------------------------------
 # Lazy vectorstore (only loaded when search_laws is first called)
@@ -665,9 +686,7 @@ def main() -> None:
     """
     transport = os.getenv("MCP_TRANSPORT", "stdio").lower()
     if transport in ("sse", "streamable-http"):
-        # FastMCP picks up host/port from these conventional env vars.
-        os.environ.setdefault("FASTMCP_HOST", "0.0.0.0")
-        os.environ.setdefault("FASTMCP_PORT", os.getenv("PORT", "8000"))
+        # host/port already wired into the FastMCP instance above.
         mcp.run(transport=transport)
     else:
         mcp.run()
