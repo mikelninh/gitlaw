@@ -1,0 +1,47 @@
+# Freshness guard rail — runs on every PR.
+#
+# If a law file in /laws/ is edited without regenerating manifest.json, this
+# workflow fails. The check is fast (~5s on 5,942 files) and zero-config.
+#
+# A separate daily-sync workflow (planned, freshness/TRUST.md § "Phase 1")
+# will run `freshness.sync` to actually re-fetch from gesetze-im-internet.de.
+# That one needs the upstream parser wired up — this one is the simple guard
+# that catches local drift today.
+
+name: Freshness Check
+
+on:
+  pull_request:
+    paths:
+      - "laws/**"
+      - "gitlaw_mcp/freshness/manifest.json"
+      - "gitlaw_mcp/freshness/build_manifest.py"
+  push:
+    branches: [main]
+    paths:
+      - "laws/**"
+      - "gitlaw_mcp/freshness/manifest.json"
+
+jobs:
+  manifest-matches-corpus:
+    name: Manifest matches corpus
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Verify manifest.json matches /laws/ contents
+        run: python -m gitlaw_mcp.freshness.build_manifest --check
+
+      - name: Report on drift
+        if: failure()
+        run: |
+          echo "::error::Corpus drift detected. A law file changed without"
+          echo "::error::regenerating manifest.json. To fix locally:"
+          echo "::error::  python -m gitlaw_mcp.freshness.build_manifest"
+          echo "::error::Then commit the updated gitlaw_mcp/freshness/manifest.json."

@@ -668,6 +668,114 @@ def get_law_text(abbreviation: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Provenance / freshness — answer the user's question "how do you know it's real?"
+# ---------------------------------------------------------------------------
+
+
+MANIFEST_FILE = Path(__file__).parent / "freshness" / "manifest.json"
+
+
+def _load_manifest() -> dict[str, Any] | None:
+    """Return the committed corpus manifest, or None if not built yet."""
+    if not MANIFEST_FILE.exists():
+        return None
+    try:
+        return _json.loads(MANIFEST_FILE.read_text(encoding="utf-8"))
+    except (OSError, _json.JSONDecodeError):
+        return None
+
+
+@mcp.tool()
+@_traced
+def get_corpus_status() -> dict[str, Any]:
+    """
+    Return the public provenance snapshot of the law corpus the server is serving.
+
+    Use this whenever you (or your user) want to answer "where does this answer
+    come from, when was it last checked, and is it the same corpus everyone else
+    is seeing?" Every field is verifiable against the public manifest.json in
+    the repo.
+
+    Returns:
+      {
+        "law_count":         <int — number of laws in the indexed corpus>
+        "aggregate_sha256":  <single hash over all law hashes — changes iff any law changes>
+        "generated_at_utc":  <when the manifest was last regenerated>
+        "source":            <upstream we point back to (gesetze-im-internet.de)>
+        "manifest_present":  true | false
+      }
+
+      Or { "error": "manifest_not_built", "hint": "..." } when the corpus has not
+      been hashed yet — that itself is a useful signal of incomplete provenance.
+    """
+    m = _load_manifest()
+    if m is None:
+        return {
+            "error": "manifest_not_built",
+            "hint": "Run `python -m gitlaw_mcp.freshness.build_manifest` to generate. "
+            "See gitlaw_mcp/freshness/TRUST.md for the current trust statement.",
+        }
+    return {
+        "law_count": m["law_count"],
+        "aggregate_sha256": m["aggregate_sha256"],
+        "generated_at_utc": m["generated_at_utc"],
+        "source": m["source"],
+        "manifest_present": True,
+    }
+
+
+@mcp.tool()
+@_traced
+def verify_law_provenance(abbreviation: str) -> dict[str, Any]:
+    """
+    Return the provenance record for a single law: where we got it from, when
+    it was last touched in our corpus, and the SHA-256 hash a user can verify
+    against the committed manifest.
+
+    This is the "show your work" tool. When an LLM cites § 573 BGB, the user
+    (or another agent) can call verify_law_provenance("BGB") to get a structured
+    answer to "okay, but where does your BGB text come from?"
+
+    Args:
+      abbreviation: case-insensitive law abbreviation, e.g. "BGB", "StGB", "GG".
+
+    Returns:
+      {
+        "found": true,
+        "abbreviation": "BGB",
+        "source_url": "https://www.gesetze-im-internet.de/bgb/",
+        "corpus_path": "laws/bgb.md",
+        "corpus_sha256": "<hex>",
+        "corpus_bytes": <int>,
+        "git_last_modified_iso": "<ISO timestamp of last edit in git>"
+      }
+
+      Or { "found": false, "reason": "manifest_not_built" | "abbreviation_not_in_manifest" }.
+    """
+    m = _load_manifest()
+    if m is None:
+        return {"found": False, "reason": "manifest_not_built"}
+
+    needle = abbreviation.strip().upper()
+    for entry in m["laws"]:
+        if entry["abbreviation"].upper() == needle:
+            return {
+                "found": True,
+                "abbreviation": entry["abbreviation"],
+                "source_url": entry["source_url"],
+                "corpus_path": entry["corpus_path"],
+                "corpus_sha256": entry["corpus_sha256"],
+                "corpus_bytes": entry["corpus_bytes"],
+                "git_last_modified_iso": entry["git_last_modified_iso"],
+            }
+    return {
+        "found": False,
+        "reason": "abbreviation_not_in_manifest",
+        "searched_for": needle,
+    }
+
+
+# ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
 
