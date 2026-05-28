@@ -1,7 +1,7 @@
 # GitLaw MCP Server
 
 [![MCP CI](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml/badge.svg)](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml)
-[![Citation Eval: 53/53](https://img.shields.io/badge/citation_eval-53%2F53_(100%25)-brightgreen?logo=pytest)](gitlaw_mcp/tests/cases.json)
+[![Eval: 118/118](https://img.shields.io/badge/eval-118%2F118_(100%25)-brightgreen?logo=pytest)](gitlaw_mcp/tests/cases.json)
 [![Transport: stdio + SSE](https://img.shields.io/badge/transport-stdio_%2B_SSE-blue)](#hosted-deployment-flyio-frankfurt)
 
 > **MCP server that exposes 5,936 German laws + RAG search + citation verification as tools any LLM client can call.**
@@ -20,6 +20,55 @@ LLMs hallucinate German law all the time. They confidently cite `§ 999 StGB` (d
 - **Law enumeration** for discovery
 
 The result: an LLM connected to this server can ground every legal claim in the real German Bundesrecht corpus, with a structured "I checked" / "I couldn't verify" signal on every citation.
+
+---
+
+## Quickstart — Claude Desktop in one minute
+
+```bash
+git clone https://github.com/mikelninh/gitlaw
+cd gitlaw
+pip install -e gitlaw_mcp
+python rag/build_vectorstore.py    # one-off, ~15 min, costs ~$0.50 in OpenAI embeddings
+```
+
+Then add to `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS):
+
+```json
+{
+  "mcpServers": {
+    "gitlaw": {
+      "command": "gitlaw-mcp",
+      "env": {
+        "OPENAI_API_KEY": "sk-..."
+      }
+    }
+  }
+}
+```
+
+Restart Claude Desktop. Ask: *"Verifiziere § 573 BGB."* — you should get the real paragraph text back.
+
+For Cursor / Continue / custom agents: same `command` + `env`, the config schema is identical.
+
+---
+
+## Test coverage
+
+```
+118 passed in 10s
+```
+
+- **81** citation-parsing & hallucination tests — `§ 999 StGB` correctly rejected, `Art. 5 Abs. 1 S. 1 GG` correctly parsed, mixed-case / whitespace / unicode handled
+- **8** lookup-content tests — returned paragraph text actually contains the domain-specific terms a lawyer expects under that number (catches silent index drift)
+- **2** citation-graph tests — known cross-references between paragraphs are preserved
+- **10** semantic-search Lebenslagen tests — plain-language queries ("Mieterhöhung Zustimmung", "Cyberstalking Nachstellung") surface the canonical paragraph in top-N
+- **14** adversarial tests — prompt-injection, 10k-char inputs, unicode soup, SQL-ish payloads degrade gracefully
+- **2** latency-budget tests — `verify_citation` < 50 ms, `lookup_paragraph` < 100 ms after warmup
+
+Known limitations (honest):
+- Citation parser doesn't yet handle the nested `Abs. X Nr. Y` form (e.g. `§ 573 Abs. 2 Nr. 2 BGB`) — falls back to flat parsing. On the roadmap.
+- Some specialised statutes (EFZG, certain Landesgesetze) aren't in the indexed corpus. Federal Bundesrecht is complete.
 
 ---
 
@@ -99,9 +148,13 @@ python rag/build_vectorstore.py      # builds FAISS index, ~$0.50, ~10 min
 
 ---
 
-## Wire it into Claude Desktop
+## Wire it into Claude Desktop (or any MCP client)
 
-Add to `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS) or the equivalent on your OS:
+See the [Quickstart](#quickstart--claude-desktop-in-one-minute) above — the
+canonical config uses the `gitlaw-mcp` entry-point installed by `pip install -e gitlaw_mcp`.
+
+If you'd rather invoke without `pip install` (e.g. running straight from the
+cloned source), the equivalent config is:
 
 ```json
 {
@@ -110,19 +163,13 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS)
       "command": "python",
       "args": ["-m", "gitlaw_mcp.server"],
       "cwd": "/absolute/path/to/gitlaw",
-      "env": {
-        "OPENAI_API_KEY": "sk-..."
-      }
+      "env": { "OPENAI_API_KEY": "sk-..." }
     }
   }
 }
 ```
 
-Restart Claude Desktop. You should see a 🔧 indicator and the four `gitlaw` tools available in any conversation.
-
-### Cursor / Continue / generic MCP clients
-
-Most MCP clients accept a similar `command + args + cwd` config. Use the `python -m gitlaw_mcp.server` entry point.
+Cursor / Continue / custom agents accept the same `command + args + env` shape.
 
 ---
 

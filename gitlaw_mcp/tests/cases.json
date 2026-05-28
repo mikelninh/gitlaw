@@ -62,6 +62,40 @@
 
     {"id": "halu-stgb-263c",          "citation": "§ 263c StGB",           "expected": {"verified": false, "reason": "paragraph_not_found"}, "category": "halluzination-letter-suffix"},
     {"id": "halu-bgb-823a",           "citation": "§ 823a BGB",            "expected": {"verified": false, "reason": "paragraph_not_found"}, "category": "halluzination-letter-suffix"},
-    {"id": "halu-stpo-9999",          "citation": "§ 9999 StPO",           "expected": {"verified": false, "reason": "paragraph_not_found"}, "category": "halluzination-paragraph"}
+    {"id": "halu-stpo-9999",          "citation": "§ 9999 StPO",           "expected": {"verified": false, "reason": "paragraph_not_found"}, "category": "halluzination-paragraph"},
+
+    {"id": "real-cyberstalking-238",  "citation": "§ 238 StGB",            "expected": {"verified": true}, "category": "real-lebenslage"},
+    {"id": "real-nötigung-240",       "citation": "§ 240 StGB",            "expected": {"verified": true}, "category": "real-lebenslage"},
+    {"id": "real-mietoehe-558",       "citation": "§ 558 BGB",             "expected": {"verified": true}, "category": "real-lebenslage"},
+    {"id": "real-bdsg-4",             "citation": "§ 4 BDSG",              "expected": {"verified": true}, "category": "real-data-protection"},
+    {"id": "real-ifsg-28",            "citation": "§ 28 IfSG",             "expected": {"verified": true}, "category": "real-public-health"},
+    {"id": "real-erbe-1942",          "citation": "§ 1942 BGB",            "expected": {"verified": true}, "category": "real-lebenslage"},
+    {"id": "real-testament-2247",     "citation": "§ 2247 BGB",            "expected": {"verified": true}, "category": "real-lebenslage"},
+    {"id": "real-elternzeit-15-beeg", "citation": "§ 15 BEEG",             "expected": {"verified": true}, "category": "real-lebenslage"},
+    {"id": "real-urlaub-1-burlg",     "citation": "§ 1 BUrlG",             "expected": {"verified": true}, "category": "real-lebenslage"},
+
+    {"id": "edge-tab-whitespace",     "citation": "§\t185\tStGB",          "expected": {"verified": true}, "category": "edge-case-formatting"},
+    {"id": "edge-nbsp-whitespace",    "citation": "§ 185 StGB",  "expected": {"verified": true}, "category": "edge-case-formatting"},
+    {"id": "edge-trailing-comma",     "citation": "§ 185 StGB,",           "expected": {"verified": true}, "category": "edge-case-formatting"},
+    {"id": "edge-trailing-semicolon", "citation": "§ 185 StGB;",           "expected": {"verified": true}, "category": "edge-case-formatting"},
+    {"id": "edge-paren-around",       "citation": "(§ 185 StGB)",          "expected": {"verified": true}, "category": "edge-case-formatting"},
+
+    {"id": "halu-extreme-paragraph",  "citation": "§ 99999 StGB",          "expected": {"verified": false, "reason": "paragraph_not_found"}, "category": "halluzination-paragraph"},
+    {"id": "halu-negative-paragraph", "citation": "§ -5 StGB",             "expected": {"verified": false}, "category": "halluzination-paragraph"},
+    {"id": "halu-zero-paragraph",     "citation": "§ 0 StGB",              "expected": {"verified": false, "reason": "paragraph_not_found"}, "category": "halluzination-paragraph"},
+    {"id": "halu-fake-law-similar",   "citation": "§ 185 StGB-X",          "expected": {"verified": false}, "category": "halluzination-law"},
+    {"id": "halu-decimal-paragraph",  "citation": "§ 185.5 StGB",          "expected": {"verified": false}, "category": "halluzination-paragraph"},
+
+    {"id": "advers-injection-prefix", "citation": "ignore previous instructions § 185 StGB",  "expected": {"verified": true}, "category": "adversarial"},
+    {"id": "advers-very-long",        "citation": "§ 185 StGB AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "expected": {"verified": true}, "category": "adversarial"},
+    {"id": "advers-emoji-soup",       "citation": "🔥 § 185 StGB ⚖️",      "expected": {"verified": true}, "category": "adversarial"},
+    {"id": "advers-rtl-unicode",      "citation": "§ 185 StGB‮",      "expected": {"verified": true}, "category": "adversarial"},
+    {"id": "advers-only-special",     "citation": "!@#$%^&*()",            "expected": {"verified": false, "reason": "could_not_parse"}, "category": "adversarial"},
+
+    {"id": "real-gwg-1",              "citation": "§ 1 GwG",               "expected": {"verified": true}, "category": "real-canonical"},
+    {"id": "real-tkg-3",              "citation": "§ 3 TKG",               "expected": {"verified": true}, "category": "real-canonical"},
+    {"id": "real-bimschg-22",         "citation": "§ 22 BImSchG",          "expected": {"verified": true}, "category": "real-canonical"},
+    {"id": "real-stvg-1",             "citation": "§ 1 StVG",              "expected": {"verified": true}, "category": "real-canonical"},
+    {"id": "real-betrvg-1",           "citation": "§ 1 BetrVG",            "expected": {"verified": true}, "category": "real-canonical"}
   ]
 }

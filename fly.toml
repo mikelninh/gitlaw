@@ -44,12 +44,12 @@ primary_region = "fra"          # Frankfurt — DSGVO-aligned, low EU latency
   processes = ["app"]
 
   [[http_service.checks]]
-    grace_period = "10s"
+    grace_period = "15s"
     interval = "30s"
     method = "GET"
     timeout = "5s"
-    path = "/sse"
-    # SSE endpoint returns 200 with text/event-stream — counts as healthy
+    path = "/health"
+    # Plain JSON 200 — separate route from the long-lived /sse stream.
 
 [[vm]]
   cpu_kind = "shared"
