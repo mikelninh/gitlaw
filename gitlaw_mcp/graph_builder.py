@@ -367,7 +367,11 @@ def build_law_level_graph(graph: dict) -> dict:
     edges = [{"from": a, "to": b, "weight": w} for (a, b), w in pair_count.most_common()]
 
     # Headline ranking — laws other laws reference most
-    most_cited = sorted(nodes, key=lambda n: int(n["in_degree"]), reverse=True)[:20]
+    most_cited = sorted(
+        nodes,
+        key=lambda n: int(n["in_degree"]) if isinstance(n["in_degree"], (int, str)) else 0,
+        reverse=True,
+    )[:20]
 
     return {
         "stats": {

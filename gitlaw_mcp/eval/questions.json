@@ -1,0 +1,36 @@
+{
+  "_doc": "Outcome-eval question set. Each question is a real Lebenslage a Berlin citizen, tenant, employee, or victim might ask. expected_paragraphs is the canonical citation(s) any competent answer should ground in. Hand-labelled — citations are independently confirmed against gesetze-im-internet.de and our cases.json verification tests. The eval harness scores answers against this ground truth.",
+  "questions": [
+    {"id": "miete-01", "category": "Miete",       "question": "Mein Vermieter kündigt mir wegen Eigenbedarf. Kann ich widersprechen und wenn ja wie?",                              "expected_paragraphs": ["§ 574 BGB"]},
+    {"id": "miete-02", "category": "Miete",       "question": "Wie hoch darf mein Vermieter die Miete erhöhen?",                                                                       "expected_paragraphs": ["§ 558 BGB"]},
+    {"id": "miete-03", "category": "Miete",       "question": "Ich habe Schimmel in der Wohnung. Darf ich die Miete kürzen?",                                                          "expected_paragraphs": ["§ 536 BGB"]},
+    {"id": "miete-04", "category": "Miete",       "question": "Wie lange ist die Kündigungsfrist wenn ich als Mieter kündige?",                                                        "expected_paragraphs": ["§ 573c BGB"]},
+    {"id": "miete-05", "category": "Miete",       "question": "Mein Vermieter zahlt mir die Kaution nicht zurück. Welche Frist hat er?",                                               "expected_paragraphs": ["§ 551 BGB"]},
+
+    {"id": "arbeit-01", "category": "Arbeit",     "question": "Mein Chef will mir kündigen. Welche Rechte habe ich beim Kündigungsschutz?",                                            "expected_paragraphs": ["§ 1 KSchG"]},
+    {"id": "arbeit-02", "category": "Arbeit",     "question": "Wieviele Urlaubstage stehen mir pro Jahr mindestens zu?",                                                               "expected_paragraphs": ["§ 3 BUrlG"]},
+    {"id": "arbeit-03", "category": "Arbeit",     "question": "Was darf mein Arbeitgeber zur maximalen täglichen Arbeitszeit verlangen?",                                              "expected_paragraphs": ["§ 3 ArbZG"]},
+    {"id": "arbeit-04", "category": "Arbeit",     "question": "Was sind die Aufgaben und Rechte des Betriebsrats?",                                                                    "expected_paragraphs": ["§ 1 BetrVG"]},
+
+    {"id": "straf-01",  "category": "Strafrecht", "question": "Mein Ex bedroht mich auf WhatsApp damit, mein Wohnort zu veröffentlichen. Was ist das strafrechtlich?",                "expected_paragraphs": ["§ 241 StGB"]},
+    {"id": "straf-02",  "category": "Strafrecht", "question": "Was ist Stalking strafrechtlich in Deutschland?",                                                                       "expected_paragraphs": ["§ 238 StGB"]},
+    {"id": "straf-03",  "category": "Strafrecht", "question": "Jemand hat mich öffentlich auf Instagram beleidigt. Welcher Paragraph greift?",                                         "expected_paragraphs": ["§ 185 StGB"]},
+    {"id": "straf-04",  "category": "Strafrecht", "question": "Was ist die rechtliche Definition von Betrug?",                                                                         "expected_paragraphs": ["§ 263 StGB"]},
+    {"id": "straf-05",  "category": "Strafrecht", "question": "Jemand greift mich körperlich an. Wann ist Notwehr erlaubt?",                                                           "expected_paragraphs": ["§ 32 StGB"]},
+    {"id": "straf-06",  "category": "Strafrecht", "question": "Was ist Nötigung im deutschen Strafrecht?",                                                                             "expected_paragraphs": ["§ 240 StGB"]},
+
+    {"id": "erbe-01",   "category": "Erbrecht",   "question": "Mein Vater ist gestorben ohne Testament. Wer erbt?",                                                                    "expected_paragraphs": ["§ 1922 BGB"]},
+    {"id": "erbe-02",   "category": "Erbrecht",   "question": "Wie schreibe ich rechtsgültig ein handschriftliches Testament?",                                                        "expected_paragraphs": ["§ 2247 BGB"]},
+
+    {"id": "fam-01",    "category": "Familie",    "question": "Ab wann habe ich Anspruch auf Elternzeit?",                                                                             "expected_paragraphs": ["§ 15 BEEG"]},
+
+    {"id": "gg-01",     "category": "Grundgesetz","question": "Habe ich das Recht meine politische Meinung öffentlich zu äußern?",                                                     "expected_paragraphs": ["Art. 5 GG"]},
+    {"id": "gg-02",     "category": "Grundgesetz","question": "Ist die Menschenwürde in Deutschland antastbar?",                                                                       "expected_paragraphs": ["Art. 1 GG"]},
+    {"id": "gg-03",     "category": "Grundgesetz","question": "Brauche ich für eine politische Demonstration eine Genehmigung?",                                                       "expected_paragraphs": ["Art. 8 GG"]},
+
+    {"id": "haft-01",   "category": "Zivilrecht", "question": "Mein Nachbar hat mein Auto beschädigt. Auf welcher Grundlage kann ich Schadensersatz fordern?",                          "expected_paragraphs": ["§ 823 BGB"]},
+    {"id": "haft-02",   "category": "Zivilrecht", "question": "Mein Kaufvertrag wurde nicht erfüllt. Welcher Paragraph regelt die Pflichten beim Kaufvertrag?",                        "expected_paragraphs": ["§ 433 BGB"]},
+
+    {"id": "data-01",   "category": "Datenschutz","question": "Was sind die Grundbegriffe des deutschen Datenschutzes nach BDSG?",                                                     "expected_paragraphs": ["§ 4 BDSG"]}
+  ]
+}

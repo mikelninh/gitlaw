@@ -668,6 +668,294 @@ def get_law_text(abbreviation: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Provenance / freshness — answer the user's question "how do you know it's real?"
+# ---------------------------------------------------------------------------
+
+
+MANIFEST_FILE = Path(__file__).parent / "freshness" / "manifest.json"
+UPSTREAM_SNAPSHOTS_FILE = Path(__file__).parent / "freshness" / "upstream_snapshots.json"
+
+
+def _load_upstream_snapshots() -> dict[str, Any] | None:
+    """Return the committed upstream-snapshot file, or None if not present."""
+    if not UPSTREAM_SNAPSHOTS_FILE.exists():
+        return None
+    try:
+        return _json.loads(UPSTREAM_SNAPSHOTS_FILE.read_text(encoding="utf-8"))
+    except (OSError, _json.JSONDecodeError):
+        return None
+
+
+def _parse_rfc2822_to_iso(rfc_date: str) -> str | None:
+    """Parse an HTTP Last-Modified date (RFC 2822) to ISO 8601, or None."""
+    if not rfc_date:
+        return None
+    try:
+        from email.utils import parsedate_to_datetime
+
+        return parsedate_to_datetime(rfc_date).isoformat(timespec="seconds")
+    except (TypeError, ValueError):
+        return None
+
+
+def _load_manifest() -> dict[str, Any] | None:
+    """Return the committed corpus manifest, or None if not built yet."""
+    if not MANIFEST_FILE.exists():
+        return None
+    try:
+        return _json.loads(MANIFEST_FILE.read_text(encoding="utf-8"))
+    except (OSError, _json.JSONDecodeError):
+        return None
+
+
+@mcp.tool()
+@_traced
+def get_corpus_status() -> dict[str, Any]:
+    """
+    Return the public provenance snapshot of the law corpus the server is serving.
+
+    Use this whenever you (or your user) want to answer "where does this answer
+    come from, when was it last checked, and is it the same corpus everyone else
+    is seeing?" Every field is verifiable against the public manifest.json in
+    the repo.
+
+    Returns:
+      {
+        "law_count":         <int — number of laws in the indexed corpus>
+        "aggregate_sha256":  <single hash over all law hashes — changes iff any law changes>
+        "generated_at_utc":  <when the manifest was last regenerated>
+        "source":            <upstream we point back to (gesetze-im-internet.de)>
+        "manifest_present":  true | false
+      }
+
+      Or { "error": "manifest_not_built", "hint": "..." } when the corpus has not
+      been hashed yet — that itself is a useful signal of incomplete provenance.
+    """
+    m = _load_manifest()
+    if m is None:
+        return {
+            "error": "manifest_not_built",
+            "hint": "Run `python -m gitlaw_mcp.freshness.build_manifest` to generate. "
+            "See gitlaw_mcp/freshness/TRUST.md for the current trust statement.",
+        }
+    return {
+        "law_count": m["law_count"],
+        "aggregate_sha256": m["aggregate_sha256"],
+        "generated_at_utc": m["generated_at_utc"],
+        "source": m["source"],
+        "manifest_present": True,
+    }
+
+
+@mcp.tool()
+@_traced
+def verify_law_provenance(abbreviation: str) -> dict[str, Any]:
+    """
+    Return the provenance record for a single law: where we got it from, when
+    it was last touched in our corpus, and the SHA-256 hash a user can verify
+    against the committed manifest.
+
+    This is the "show your work" tool. When an LLM cites § 573 BGB, the user
+    (or another agent) can call verify_law_provenance("BGB") to get a structured
+    answer to "okay, but where does your BGB text come from?"
+
+    Args:
+      abbreviation: case-insensitive law abbreviation, e.g. "BGB", "StGB", "GG".
+
+    Returns:
+      {
+        "found": true,
+        "abbreviation": "BGB",
+        "source_url": "https://www.gesetze-im-internet.de/bgb/",
+        "corpus_path": "laws/bgb.md",
+        "corpus_sha256": "<hex>",
+        "corpus_bytes": <int>,
+        "git_last_modified_iso": "<ISO timestamp of last edit in git>"
+      }
+
+      Or { "found": false, "reason": "manifest_not_built" | "abbreviation_not_in_manifest" }.
+    """
+    m = _load_manifest()
+    if m is None:
+        return {"found": False, "reason": "manifest_not_built"}
+
+    needle = abbreviation.strip().upper()
+    for entry in m["laws"]:
+        if entry["abbreviation"].upper() == needle:
+            return {
+                "found": True,
+                "abbreviation": entry["abbreviation"],
+                "source_url": entry["source_url"],
+                "corpus_path": entry["corpus_path"],
+                "corpus_sha256": entry["corpus_sha256"],
+                "corpus_bytes": entry["corpus_bytes"],
+                "git_last_modified_iso": entry["git_last_modified_iso"],
+            }
+    return {
+        "found": False,
+        "reason": "abbreviation_not_in_manifest",
+        "searched_for": needle,
+    }
+
+
+# ---------------------------------------------------------------------------
+# Upstream currency — answer "is our corpus actually up to date with the source?"
+# ---------------------------------------------------------------------------
+
+
+@mcp.tool()
+@_traced
+def check_upstream_currency(abbreviation: str) -> dict[str, Any]:
+    """
+    Return whether our local copy of a law is current with the upstream source
+    on gesetze-im-internet.de.
+
+    This is the tool that answers "I'm about to act on § 573 BGB — is your BGB
+    the latest one?" The check compares two timestamps:
+
+      - `our_corpus_last_modified` — when we last touched laws/<abbr>.md in git
+      - `upstream_last_modified`    — when gesetze-im-internet.de last updated
+                                      the official XML for this law
+
+    If upstream is newer than our corpus, we are stale. Stale doesn't necessarily
+    mean wrong (the change may be cosmetic / numbering / fixing a typo), but it
+    means the user should know.
+
+    Args:
+      abbreviation: case-insensitive law abbreviation, e.g. "BGB", "StGB".
+
+    Returns:
+      {
+        "found": true,
+        "abbreviation": "BGB",
+        "our_corpus_last_modified": "<ISO timestamp from git>",
+        "upstream_last_modified":   "<ISO from gesetze-im-internet.de Last-Modified>",
+        "upstream_checked_at":      "<when our sync job last hit upstream>",
+        "drift_status": "current" | "stale" | "unknown",
+        "days_behind":  <int — only set when stale>,
+        "source_url":   "https://www.gesetze-im-internet.de/<slug>/"
+      }
+    """
+    manifest = _load_manifest()
+    snapshots = _load_upstream_snapshots()
+
+    if manifest is None:
+        return {"found": False, "reason": "manifest_not_built"}
+
+    needle = abbreviation.strip().upper()
+    manifest_entry = next(
+        (e for e in manifest["laws"] if e["abbreviation"].upper() == needle),
+        None,
+    )
+    if not manifest_entry:
+        return {
+            "found": False,
+            "reason": "abbreviation_not_in_manifest",
+            "searched_for": needle,
+        }
+
+    our_iso = manifest_entry["git_last_modified_iso"]
+
+    if snapshots is None or needle not in (snapshots.get("snapshots") or {}):
+        return {
+            "found": True,
+            "abbreviation": needle,
+            "our_corpus_last_modified": our_iso,
+            "upstream_last_modified": None,
+            "upstream_checked_at": None,
+            "drift_status": "unknown",
+            "reason": "no_upstream_snapshot_yet",
+            "source_url": manifest_entry["source_url"],
+        }
+
+    snap = snapshots["snapshots"][needle]
+    upstream_iso = _parse_rfc2822_to_iso(snap.get("last_modified_upstream", ""))
+
+    days_behind = None
+    drift_status = "unknown"
+    if our_iso and upstream_iso:
+        from datetime import datetime as _dt
+
+        try:
+            ours = _dt.fromisoformat(our_iso.replace("Z", "+00:00"))
+            theirs = _dt.fromisoformat(upstream_iso)
+            delta_days = (theirs.date() - ours.date()).days
+            if delta_days <= 0:
+                drift_status = "current"
+                days_behind = 0
+            else:
+                drift_status = "stale"
+                days_behind = delta_days
+        except (ValueError, TypeError):
+            pass
+
+    return {
+        "found": True,
+        "abbreviation": needle,
+        "our_corpus_last_modified": our_iso,
+        "upstream_last_modified": upstream_iso,
+        "upstream_checked_at": snap.get("last_checked_at_utc"),
+        "drift_status": drift_status,
+        "days_behind": days_behind,
+        "source_url": manifest_entry["source_url"],
+    }
+
+
+@mcp.tool()
+@_traced
+def list_drifted_laws() -> dict[str, Any]:
+    """
+    Return every law where the upstream gesetze-im-internet.de source is newer
+    than our committed corpus markdown — i.e. we have known staleness.
+
+    Useful for: "is anything in our corpus currently out of date?" An agent
+    surfaces the list to the user before relying on stale text.
+
+    Returns:
+      {
+        "drifted_count": <int>,
+        "total_monitored": <int — laws covered by the sync job>,
+        "last_full_sync_at_utc": <ISO timestamp>,
+        "drifted": [
+          {"abbreviation": "BGB", "days_behind": 51, ...},
+          ...
+        ]
+      }
+    """
+    manifest = _load_manifest()
+    snapshots = _load_upstream_snapshots()
+    if manifest is None:
+        return {"error": "manifest_not_built"}
+    if snapshots is None:
+        return {"error": "no_upstream_snapshots_yet", "total_monitored": 0, "drifted": []}
+
+    drifted: list[dict[str, Any]] = []
+    monitored = snapshots.get("snapshots") or {}
+
+    for abbr in monitored:
+        result = check_upstream_currency(abbr)
+        if result.get("drift_status") == "stale":
+            drifted.append(
+                {
+                    "abbreviation": abbr,
+                    "days_behind": result.get("days_behind"),
+                    "upstream_last_modified": result.get("upstream_last_modified"),
+                    "our_corpus_last_modified": result.get("our_corpus_last_modified"),
+                    "source_url": result.get("source_url"),
+                }
+            )
+
+    drifted.sort(key=lambda d: d.get("days_behind") or 0, reverse=True)
+
+    return {
+        "drifted_count": len(drifted),
+        "total_monitored": len(monitored),
+        "last_full_sync_at_utc": snapshots.get("last_full_sync_at_utc"),
+        "drifted": drifted,
+    }
+
+
+# ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
 

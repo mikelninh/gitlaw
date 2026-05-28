@@ -1,0 +1,51 @@
+# Daily upstream sync — HEAD-checks gesetze-im-internet.de for drift in any
+# monitored law, then commits the updated snapshot file + sync log if anything
+# changed.
+#
+# This is what makes "is our corpus current?" answerable continuously, not just
+# at the moment a developer notices. Runs unattended on schedule; opens no PRs
+# (it commits directly to main because the only files touched are the
+# snapshot record and the human-readable log — never the corpus itself).
+#
+# Phase 2 of the freshness roadmap (rewriting the markdown corpus from the
+# fresh XML) is a separate workflow.
+
+name: Upstream Sync
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # 05:17 UTC daily — early-morning Europe, off the hour
+  workflow_dispatch: {}
+
+jobs:
+  sync:
+    name: Check upstream gesetze-im-internet.de for drift
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write   # the job commits state changes back to main
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run sync
+        id: sync
+        run: |
+          python -m gitlaw_mcp.freshness.sync
+          echo "ran=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit snapshot + log changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet gitlaw_mcp/freshness/upstream_snapshots.json gitlaw_mcp/freshness/sync_log.md; then
+            echo "No upstream changes detected; nothing to commit."
+            exit 0
+          fi
+          git add gitlaw_mcp/freshness/upstream_snapshots.json gitlaw_mcp/freshness/sync_log.md
+          git commit -m "chore(freshness): daily upstream sync — $(date -u +%Y-%m-%d)"
+          git push

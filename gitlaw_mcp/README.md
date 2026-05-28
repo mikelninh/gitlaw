@@ -1,25 +1,64 @@
 # GitLaw MCP Server
 
 [![MCP CI](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml/badge.svg)](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml)
-[![Eval: 118/118](https://img.shields.io/badge/eval-118%2F118_(100%25)-brightgreen?logo=pytest)](gitlaw_mcp/tests/cases.json)
-[![Transport: stdio + SSE](https://img.shields.io/badge/transport-stdio_%2B_SSE-blue)](#hosted-deployment-flyio-frankfurt)
+[![Tests](https://img.shields.io/badge/tests-146%2F146-brightgreen?logo=pytest)](gitlaw_mcp/tests/)
+[![Hallucination rate](https://img.shields.io/badge/measured_hallucinations-0%25-brightgreen)](gitlaw_mcp/eval/eval_summary.md)
+[![Trust statement](https://img.shields.io/badge/trust-TRUST.md-blue)](gitlaw_mcp/freshness/TRUST.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../LICENSE)
 
-> **MCP server that exposes 5,936 German laws + RAG search + citation verification as tools any LLM client can call.**
+> **Model Context Protocol server for German federal law — 5,942 statutes indexed, anti-hallucination citation verification, daily drift detection against the official source. Built for legal agents that need to ground every § they cite.**
 
-Built on top of the existing GitLaw RAG pipeline (FAISS vectorstore, OpenAI embeddings, paragraph-level chunking of all federal German laws).
+10 tools, one resource, one trust contract:
+
+| You ask Claude / Cursor… | …with GitLaw MCP it answers |
+|---|---|
+| "Verify § 573 BGB" | Returns the real paragraph text. Or `verified: false` with a structured reason. **Never invents.** |
+| "Mein Vermieter kündigt wegen Eigenbedarf — was kann ich tun?" | Semantic search finds § 574 BGB, returns the text, the LLM grounds its answer in real statute |
+| "How do you know your BGB is current?" | `check_upstream_currency("BGB")` — returns the days_behind vs. gesetze-im-internet.de live |
+| "What's the integrity hash of your corpus right now?" | `get_corpus_status()` — single SHA-256 every consumer can verify |
 
 ---
 
 ## Why this exists
 
-LLMs hallucinate German law all the time. They confidently cite `§ 999 StGB` (doesn't exist), invent paragraph titles, or swap statutes. This server gives any MCP-compatible client (Claude Desktop, Cursor, Continue, custom agents) a set of **verifiable** legal tools:
+LLMs hallucinate German law all the time. They confidently cite `§ 999 StGB` (doesn't exist), invent paragraph titles, swap statutes. We measured `gpt-4o-mini` on 25 real Lebenslagen questions: **5.9% of its cited paragraphs were fake.** That's catastrophic for a lawyer, harmful for a citizen, dishonest for AI.
 
-- **Semantic search** across all 5,936 laws → grounded retrieval
-- **Citation verification** → returns *the actual paragraph text* if the citation exists, or `verified: false` with a reason if not
+With GitLaw MCP available as a tool, hallucination rate drops to **0%** — the model has no reason to invent when `verify_citation` is one call away. See [`eval/eval_summary.md`](gitlaw_mcp/eval/eval_summary.md) for the reproducible report.
+
+This server gives any MCP-compatible client (Claude Desktop, Cursor, Continue, custom agents) the legal-tools surface they need:
+
+- **Semantic search** across all 5,942 federal statutes → grounded retrieval
+- **Citation verification** → real paragraph text or structured rejection — **no hallucinated §**
 - **Exact lookup** by abbreviation + paragraph
-- **Law enumeration** for discovery
+- **Citation-graph traversal** (94k nodes, 200k edges) — who cites whom
+- **Corpus provenance** — every served paragraph has a public source URL and SHA-256
+- **Live drift detection** — daily HEAD-check against gesetze-im-internet.de, surfaces stale law data
 
-The result: an LLM connected to this server can ground every legal claim in the real German Bundesrecht corpus, with a structured "I checked" / "I couldn't verify" signal on every citation.
+---
+
+## How do you know it's correct? *(read this before building on top of us)*
+
+This is the most important section of the README. Trust isn't a vibe — it's evidence.
+
+| Question | Where to look |
+|---|---|
+| Is every cited § actually in the corpus? | `verify_citation()` returns `verified: false` if not. **0% hallucination measured.** |
+| Where does each law come from? | `verify_law_provenance(abbr)` → official source URL + SHA-256 + git timestamp |
+| Is the corpus the same one another agent is seeing? | `get_corpus_status()` → single aggregate SHA-256, deterministic, public |
+| Has anything changed upstream since we synced? | `check_upstream_currency(abbr)` → days behind upstream + last-modified timestamps |
+| What's your full promise / disclosure of gaps? | **Read [`freshness/TRUST.md`](gitlaw_mcp/freshness/TRUST.md) — it's the most honest legal-tech trust document you'll read this year.** |
+
+**Live drift status** (the integrity check is automated; this section reflects the latest sync):
+
+```
+6 of 36 monitored laws are stale vs. upstream gesetze-im-internet.de
+  BGB:  50 days behind   ZPO:  49 days behind   SGG:  49 days behind
+  GG:   29 days behind   HGB:  29 days behind   AO:   21 days behind
+```
+
+We tell you this *on purpose*. A citizen looking up tenant rights should know if our § 573 BGB is older than the official version. Daily cron (`upstream-sync.yml`) refreshes it automatically.
+
+---
 
 ---
 
@@ -74,13 +113,25 @@ Known limitations (honest):
 
 ## Tools exposed
 
+### Retrieval & verification (the core six)
+
 | Tool | Purpose | Example |
 |---|---|---|
-| `search_laws(query, limit=5)` | Semantic search across all paragraphs (FAISS, OpenAI embeddings) | `"Beleidigung im Internet"` |
-| `verify_citation(citation)` | Parse `§ 185 StGB` style strings, return actual text or `verified: false` with reason | `"§ 185 Abs. 1 StGB"` |
-| `lookup_paragraph(abbr, paragraph)` | Exact lookup with structured input | `("StGB", "263a")` |
-| `list_laws(filter=None, limit=50)` | Enumerate available laws (4,852+ unique abbreviations indexed) | `filter="bgb"` |
-| `find_related_paragraphs(citation)` | Walk the citation graph (94K paragraphs, 200K refs) — returns who cites X *and* what X cites | `"§ 185 StGB"` |
+| `search_laws(query, limit=5)` | Semantic search across all paragraphs (FAISS + OpenAI embeddings) | `"Beleidigung im Internet"` |
+| `verify_citation(citation)` | Parse `§ 185 StGB` style strings → real text or structured rejection. **The anti-hallucination tool.** | `"§ 185 Abs. 1 StGB"` |
+| `lookup_paragraph(abbr, paragraph)` | Exact lookup when you have structured input | `("StGB", "263a")` |
+| `list_laws(filter=None, limit=50)` | Enumerate available laws (5,942 indexed) | `filter="bgb"` |
+| `find_related_paragraphs(citation)` | Walk the citation graph (94k nodes, 200k edges) — who cites X, what X cites | `"§ 185 StGB"` |
+| `hybrid_search(query, limit, expand)` | Semantic + 1-hop graph expansion in one call | `"Eigenbedarf", expand=2` |
+
+### Provenance & freshness (the four trust tools)
+
+| Tool | Purpose | Example output |
+|---|---|---|
+| `get_corpus_status()` | Single integrity hash + law count + when manifest was last built | `aggregate_sha256: b93152a9…` |
+| `verify_law_provenance(abbr)` | Source URL + SHA-256 + git timestamp for one law | source_url, corpus_sha256, corpus_bytes |
+| `check_upstream_currency(abbr)` | Compares our git timestamp vs. gesetze-im-internet.de Last-Modified | `drift_status: "stale", days_behind: 50` |
+| `list_drifted_laws()` | Every monitored law where upstream is newer than our corpus, sorted by staleness | sorted list of drifted laws |
 
 Plus the resource `gitlaw://law/{abbreviation}` returning the full markdown content of a law.
 
@@ -307,13 +358,42 @@ default `gitlaw_mcp/Dockerfile` stays in stdio mode for Claude Desktop.
 ## Roadmap
 
 - [x] ~~HTTP/SSE transport~~ — done (Dockerfile.fly + fly.toml + SSE in server.py)
-- [x] ~~Citation graph + `find_related_paragraphs` tool~~ — done (94K nodes, 200K edges)
-- [ ] Eval harness: 50+ hand-labelled citation-verification cases, run in CI
+- [x] ~~Citation graph + `find_related_paragraphs` tool~~ — done (94k nodes, 200k edges)
+- [x] ~~Eval harness with reproducible hallucination measurement~~ — done (`eval/`, 25 questions)
+- [x] ~~Corpus provenance manifest~~ — done (`freshness/manifest.json`, per-law SHA-256)
+- [x] ~~Live drift detection vs. gesetze-im-internet.de~~ — done (`freshness/sync.py`, daily cron)
+- [ ] **Phase 1b** — auto-resync stale markdown when drift detected (needs XML→markdown parser, ~2 weekends)
+- [ ] Nested `§ X Abs. Y Nr. Z` citation parsing
 - [ ] Schweizer / Österreichischer Rechtskorpus (already partially in `laws_*.py`)
+- [ ] Landesrecht (state-level law)
 - [ ] Per-tenant rate limiting (relevant once multi-tenant SSE clients exist)
+
+---
+
+## Part of an MCP-server portfolio
+
+GitLaw MCP is one of three Model Context Protocol servers built as
+**a thin agent-readable layer over real-world workflows**. The pattern is
+deliberately reproducible — same architecture, different domains:
+
+- **[gitlaw-mcp](https://github.com/mikelninh/gitlaw)** — German federal law (you're here)
+- **[safevoice-mcp](https://github.com/mikelninh/safevoice)** — victim-of-digital-harassment tooling: classification, applicable §, Strafantrag-Fristen, jurisdiction, anonymisation (DE/AT/CH/UK)
+- **[grailsense](https://github.com/mikelninh/grailsense)** — NFT collector intelligence over Blockscout: archetype classification + shareable soul cards
+
+Together they're an early sketch of what **public-good civic infrastructure**
+looks like in the LLM era: open source, MIT, verifiable, composable.
+
+---
+
+## Contact + community
+
+- **Issues / bug reports** — [GitHub Issues](https://github.com/mikelninh/gitlaw/issues)
+- **Strategic discussion** — [GitHub Discussions](https://github.com/mikelninh/gitlaw/discussions)
+- **Direct** — open an issue tagged `question` if it's broader than a bug
+- **Built by** [@mikelninh](https://github.com/mikelninh) — Berlin
 
 ---
 
 ## License
 
-MIT. Part of the [GitLaw](../README.md) project — open infrastructure for digital legal services in Germany.
+MIT. Part of the [GitLaw](../README.md) project — open infrastructure for digital legal services in Germany. The underlying corpus of German federal law is public domain per § 5 UrhG.
