@@ -54,9 +54,9 @@ from typing import Any
 ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(ROOT))
 
-from openai import OpenAI
+from openai import OpenAI  # noqa: E402  — must follow sys.path setup above
 
-from gitlaw_mcp.server import (
+from gitlaw_mcp.server import (  # noqa: E402  — same reason
     lookup_paragraph as _lookup_paragraph,
     search_laws as _search_laws,
     verify_citation as _verify_citation,
