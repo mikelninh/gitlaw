@@ -55,9 +55,14 @@ this empirically: on the latest committed run, hallucination rate is 0%.
 ### 1. Byte-equivalence with gesetze-im-internet.de today
 
 Our corpus is markdown derived from upstream XML at some point in the past.
-There is **no automated re-fetch** running yet. If a law changed at the
-source last week, our copy may still be the older version. We know this is
-a gap; it's the next item on the freshness roadmap below.
+We now **detect upstream drift** on 36 monitored laws via a daily HEAD-check
+(see `upstream-sync.yml`), so any agent can call `check_upstream_currency()`
+and learn "BGB upstream changed on date X, our copy is N days behind."
+
+What we **don't yet do**: re-parse the upstream XML and rewrite the markdown
+when drift is detected. That's Phase 2 (the XML → markdown parser layer). So
+for now drift is *visible* but not *closed automatically* — the corpus
+remains until a human (or a follow-up PR) re-syncs it.
 
 ### 2. Per-paragraph "in force since" dates
 
@@ -84,20 +89,34 @@ on the parser roadmap.
 
 Items here are intentionally specific so they're testable as "done" vs "promised".
 
-### Phase 1 — Daily sync (planned, ~1 weekend of work)
+### Phase 1a — Daily drift detection (✅ shipped)
 
-A scheduled GitHub Action runs `python -m gitlaw_mcp.freshness.sync` daily.
-For each law, it:
+A scheduled GitHub Action (`upstream-sync.yml`) runs
+`python -m gitlaw_mcp.freshness.sync` daily at 05:17 UTC. For each of the 36
+monitored laws (see `upstream_sources.json`), it does a single HTTP HEAD
+against `https://www.gesetze-im-internet.de/<slug>/xml.zip`, reads the
+`Last-Modified` and `ETag` response headers, and compares them to the
+committed `upstream_snapshots.json`. When an ETag differs, the action
+appends a row to `sync_log.md` and commits both files back to main.
 
-1. Fetches the official XML from gesetze-im-internet.de
-2. Parses it through the same normaliser our corpus uses
-3. Diffs against the local markdown
-4. If different: writes the new markdown, updates the manifest, opens a PR
-   with a human-readable diff (one PR per drift day, automatically labelled)
-5. Logs to `freshness/sync_log.md` (committed, public)
+Result: **drift is visible within 24 hours of an upstream change**. Two MCP
+tools (`check_upstream_currency`, `list_drifted_laws`) surface the data to
+any agent. The first live run revealed 6 of 36 laws were already stale —
+e.g. BGB was 50 days behind upstream.
 
-Result: maximum staleness is 24 hours. Anyone can see "last sync ran at X,
-N laws changed, here's the PR with the diff."
+### Phase 1b — Auto-resync of stale markdown (planned, ~2 weekends)
+
+The current sync detects drift but doesn't *close* it. Closing it means:
+
+1. When `sync.py` finds a new ETag, also fetch the full XML
+2. Parse the XML through the same normaliser our `/laws/` corpus uses
+3. Write the updated markdown
+4. Regenerate `manifest.json`
+5. Open a PR with the diff for human review
+
+The XML → markdown parser is the hard part — it has to match the exact
+heading + structure conventions of our existing corpus, otherwise every
+file will look "different" on cosmetic grounds.
 
 ### Phase 2 — In-force tracking (~2 weekends)
 

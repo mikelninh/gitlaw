@@ -673,6 +673,29 @@ def get_law_text(abbreviation: str) -> str:
 
 
 MANIFEST_FILE = Path(__file__).parent / "freshness" / "manifest.json"
+UPSTREAM_SNAPSHOTS_FILE = Path(__file__).parent / "freshness" / "upstream_snapshots.json"
+
+
+def _load_upstream_snapshots() -> dict[str, Any] | None:
+    """Return the committed upstream-snapshot file, or None if not present."""
+    if not UPSTREAM_SNAPSHOTS_FILE.exists():
+        return None
+    try:
+        return _json.loads(UPSTREAM_SNAPSHOTS_FILE.read_text(encoding="utf-8"))
+    except (OSError, _json.JSONDecodeError):
+        return None
+
+
+def _parse_rfc2822_to_iso(rfc_date: str) -> str | None:
+    """Parse an HTTP Last-Modified date (RFC 2822) to ISO 8601, or None."""
+    if not rfc_date:
+        return None
+    try:
+        from email.utils import parsedate_to_datetime
+
+        return parsedate_to_datetime(rfc_date).isoformat(timespec="seconds")
+    except (TypeError, ValueError):
+        return None
 
 
 def _load_manifest() -> dict[str, Any] | None:
@@ -772,6 +795,163 @@ def verify_law_provenance(abbreviation: str) -> dict[str, Any]:
         "found": False,
         "reason": "abbreviation_not_in_manifest",
         "searched_for": needle,
+    }
+
+
+# ---------------------------------------------------------------------------
+# Upstream currency — answer "is our corpus actually up to date with the source?"
+# ---------------------------------------------------------------------------
+
+
+@mcp.tool()
+@_traced
+def check_upstream_currency(abbreviation: str) -> dict[str, Any]:
+    """
+    Return whether our local copy of a law is current with the upstream source
+    on gesetze-im-internet.de.
+
+    This is the tool that answers "I'm about to act on § 573 BGB — is your BGB
+    the latest one?" The check compares two timestamps:
+
+      - `our_corpus_last_modified` — when we last touched laws/<abbr>.md in git
+      - `upstream_last_modified`    — when gesetze-im-internet.de last updated
+                                      the official XML for this law
+
+    If upstream is newer than our corpus, we are stale. Stale doesn't necessarily
+    mean wrong (the change may be cosmetic / numbering / fixing a typo), but it
+    means the user should know.
+
+    Args:
+      abbreviation: case-insensitive law abbreviation, e.g. "BGB", "StGB".
+
+    Returns:
+      {
+        "found": true,
+        "abbreviation": "BGB",
+        "our_corpus_last_modified": "<ISO timestamp from git>",
+        "upstream_last_modified":   "<ISO from gesetze-im-internet.de Last-Modified>",
+        "upstream_checked_at":      "<when our sync job last hit upstream>",
+        "drift_status": "current" | "stale" | "unknown",
+        "days_behind":  <int — only set when stale>,
+        "source_url":   "https://www.gesetze-im-internet.de/<slug>/"
+      }
+    """
+    manifest = _load_manifest()
+    snapshots = _load_upstream_snapshots()
+
+    if manifest is None:
+        return {"found": False, "reason": "manifest_not_built"}
+
+    needle = abbreviation.strip().upper()
+    manifest_entry = next(
+        (e for e in manifest["laws"] if e["abbreviation"].upper() == needle),
+        None,
+    )
+    if not manifest_entry:
+        return {
+            "found": False,
+            "reason": "abbreviation_not_in_manifest",
+            "searched_for": needle,
+        }
+
+    our_iso = manifest_entry["git_last_modified_iso"]
+
+    if snapshots is None or needle not in (snapshots.get("snapshots") or {}):
+        return {
+            "found": True,
+            "abbreviation": needle,
+            "our_corpus_last_modified": our_iso,
+            "upstream_last_modified": None,
+            "upstream_checked_at": None,
+            "drift_status": "unknown",
+            "reason": "no_upstream_snapshot_yet",
+            "source_url": manifest_entry["source_url"],
+        }
+
+    snap = snapshots["snapshots"][needle]
+    upstream_iso = _parse_rfc2822_to_iso(snap.get("last_modified_upstream", ""))
+
+    days_behind = None
+    drift_status = "unknown"
+    if our_iso and upstream_iso:
+        from datetime import datetime as _dt
+
+        try:
+            ours = _dt.fromisoformat(our_iso.replace("Z", "+00:00"))
+            theirs = _dt.fromisoformat(upstream_iso)
+            delta_days = (theirs.date() - ours.date()).days
+            if delta_days <= 0:
+                drift_status = "current"
+                days_behind = 0
+            else:
+                drift_status = "stale"
+                days_behind = delta_days
+        except (ValueError, TypeError):
+            pass
+
+    return {
+        "found": True,
+        "abbreviation": needle,
+        "our_corpus_last_modified": our_iso,
+        "upstream_last_modified": upstream_iso,
+        "upstream_checked_at": snap.get("last_checked_at_utc"),
+        "drift_status": drift_status,
+        "days_behind": days_behind,
+        "source_url": manifest_entry["source_url"],
+    }
+
+
+@mcp.tool()
+@_traced
+def list_drifted_laws() -> dict[str, Any]:
+    """
+    Return every law where the upstream gesetze-im-internet.de source is newer
+    than our committed corpus markdown — i.e. we have known staleness.
+
+    Useful for: "is anything in our corpus currently out of date?" An agent
+    surfaces the list to the user before relying on stale text.
+
+    Returns:
+      {
+        "drifted_count": <int>,
+        "total_monitored": <int — laws covered by the sync job>,
+        "last_full_sync_at_utc": <ISO timestamp>,
+        "drifted": [
+          {"abbreviation": "BGB", "days_behind": 51, ...},
+          ...
+        ]
+      }
+    """
+    manifest = _load_manifest()
+    snapshots = _load_upstream_snapshots()
+    if manifest is None:
+        return {"error": "manifest_not_built"}
+    if snapshots is None:
+        return {"error": "no_upstream_snapshots_yet", "total_monitored": 0, "drifted": []}
+
+    drifted: list[dict[str, Any]] = []
+    monitored = snapshots.get("snapshots") or {}
+
+    for abbr in monitored:
+        result = check_upstream_currency(abbr)
+        if result.get("drift_status") == "stale":
+            drifted.append(
+                {
+                    "abbreviation": abbr,
+                    "days_behind": result.get("days_behind"),
+                    "upstream_last_modified": result.get("upstream_last_modified"),
+                    "our_corpus_last_modified": result.get("our_corpus_last_modified"),
+                    "source_url": result.get("source_url"),
+                }
+            )
+
+    drifted.sort(key=lambda d: d.get("days_behind") or 0, reverse=True)
+
+    return {
+        "drifted_count": len(drifted),
+        "total_monitored": len(monitored),
+        "last_full_sync_at_utc": snapshots.get("last_full_sync_at_utc"),
+        "drifted": drifted,
     }
 
 
