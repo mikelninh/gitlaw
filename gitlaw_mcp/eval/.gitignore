@@ -1,0 +1,3 @@
+# Per-run output reports — eval_summary.md is committed as the latest snapshot,
+# but the timestamped per-run JSON dumps are not (they grow without bound).
+eval_report_*.json
