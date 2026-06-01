@@ -11,23 +11,23 @@
 
 Geldinstitute im Sinne dieses Gesetzes sind
 
-1.
+1. Geldinstitute im Währungsgebiet (§ 9 Abs. 2 des Währungsgesetzes, § 1 Abs. 1 Nr. 5 des Umstellungsgesetzes, § 1 der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz),
 
-2.
+2. die in der Anlage zu § 1 und in § 18 des Altbankengesetzes vom 10. Dezember 1953 (Gesetz- und Verordnungsblatt für Berlin S. 1483), zuletzt geändert durch das Gesetz zur Abwicklung der unter Sonderverwaltung stehenden Vermögen von Kreditinstituten, Versicherungsunternehmen und Bausparkassen vom 21. März 1972 (Bundesgesetzbl. I S. 465), bezeichneten Institute,
 
-3.
+3. Kreditinstitute im Saarland, das Postscheckamt Saarbrücken und die ehemalige Saarländische Rediskontbank (§§ 1, 12 des Gesetzes über die Umwandlung von Reichsmarkguthaben im Saarland vom 15. April 1961 - Bundesgesetzbl. I S. 441 -),
 
-4.
+4. Bausparkassen (§ 25 des Umstellungsgesetzes).
 
 ### § 2 — Ansprüche aus Reichsmarkguthaben
 
 (1) Mit Ablauf des 30. Juni 1976 erlöschen die Ansprüche aus folgenden Reichsmarkguthaben, soweit sie weder in Deutsche Mark umgewandelt worden oder erloschen sind noch auf Grund einer bis zum 30. Juni 1976 erfolgenden Anmeldung in Deutsche Mark umgewandelt werden:
 
-1.
+1. Altgeldguthaben bei Geldinstituten im Währungsgebiet (§ 1 Abs. 1 Nr. 1 des Umstellungsgesetzes, § 4 der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz),
 
-2.
+2. Uraltguthaben in Berlin (§ 1 des Umstellungsergänzungsgesetzes vom 21. September 1953 - Bundesgesetzbl. I S. 1439 -, zuletzt geändert durch das Vierte Umstellungsergänzungsgesetz vom 23. Dezember 1964 - Bundesgesetzbl. I S. 1083 -),
 
-3.
+3. Reichsmarkguthaben im Saarland (§§ 1, 12 des Gesetzes über die Umwandlung von Reichsmarkguthaben im Saarland).
 
 (2) Berliner Altbanken, für welche die Beschränkungen einer Inanspruchnahme nach Maßgabe des § 12 des Altbankengesetzes aufgehoben worden sind, können für ihre in § 12 Abs. 2 Buchstabe b des Altbankengesetzes bezeichneten Verbindlichkeiten aus Uraltguthaben bei der Berliner Niederlassung in Höhe von einer Deutschen Mark für je zwanzig Reichsmark, zuzüglich drei vom Hundert jährliche Zinsen seit dem 1. Januar 1953, in Anspruch genommen werden, sofern die Uraltguthaben in der Zeit zwischen dem Inkrafttreten des Gesetzes und dem 30. Juni 1976 bei der Altbank angemeldet werden.
 
@@ -83,13 +83,13 @@ Geldinstitute
 
 (4) Mit der Bekanntmachung der Beendigung der Abwicklung gehen über
 
-1.
+1. ein Vermögensüberschuß des Umschuldungsverbandes deutscher Gemeinden (§ 1 des Gemeindeumschuldungsgesetzes vom 21. September 1933 - Reichsgesetzbl. I S. 647 -) auf den bei der Deutschen Bundesbank bestehenden Fonds zum Ankauf von Ausgleichsforderungen (§ 8 des Gesetzes über die Tilgung von Ausgleichsforderungen vom 30. Juli 1965 - Bundesgesetzbl. I S. 650),
 
-2.
+2. ein Vermögensüberschuß der Deutschen Rentenbank-Kreditanstalt (Gesetz über die Errichtung der Deutschen Rentenbank-Kreditanstalt vom 18. Juli 1925 - Reichsgesetzbl. I S. 145 -) auf die Landwirtschaftliche Rentenbank,
 
-3.
+3. die nicht nach Abschnitt A Nr. 4 der Anlage I des Abkommens über deutsche Auslandsschulden geregelten Verbindlichkeiten aus den von der Konversionskasse für deutsche Auslandsschulden ausgegebenen Auslandsbonds (Abschnitt B der Anlage zu § 1 Abs. 1 des Bereinigungsgesetzes für deutsche Auslandsbonds) auf die Bundesrepublik Deutschland,
 
-4.
+4. ein Vermögensüberschuß der Konversionskasse für deutsche Auslandsschulden und ein Vermögensüberschuß der Deutschen Verrechnungskasse auf die Bundesrepublik Deutschland.
 
 ### § 9 — Beendigung der Abwicklung von Geldinstituten
 
@@ -103,13 +103,9 @@ Geldinstitute
 
 (2) Die Verpflichtung zur Abführung gemäß Absatz 1 entfällt, wenn
 
-1.
+1. das Geldinstitut die Wertpapiere im Hinblick darauf hinterlegt, daß die Verfügungsberechtigung streitig ist, oder
 
-2.
-
-a)
-
-b)
+2. der Präsident des Bundesausgleichsamtes auf die Abführung verzichtet, weila)Umstände dargelegt werden, wonach mit einer baldigen Meldung des Berechtigten oder mit einer Klärung der Verfügungsberechtigung gerechnet werden kann, oder b)die Wertpapiere, Schuldbuchforderungen oder die an ihre Stelle getretenen Werte als wertlos anzusehen sind. Umstände dargelegt werden, wonach mit einer baldigen Meldung des Berechtigten oder mit einer Klärung der Verfügungsberechtigung gerechnet werden kann, oder die Wertpapiere, Schuldbuchforderungen oder die an ihre Stelle getretenen Werte als wertlos anzusehen sind.
 
 (3) Mit der Abführung gemäß Absatz 1 wird das Geldinstitut von seiner Verpflichtung aus früheren Verwahrungsverträgen auch für die in Absatz 2 Nr. 2 Buchstabe b aufgeführten Wertpapiere frei.
 
@@ -121,31 +117,25 @@ b)
 
 ### § 12 — Aufhebung von Rechtsvorschriften
 
-Aufgehoben werden 6. 7. 8.
+Aufgehoben werden
 
-1.
+1. die Elfte, Zwölfte und Dreizehnte Durchführungsverordnung zum Währungsgesetz,
 
-2.
+2. § 17 der Zweiundvierzigsten, § 17 der Dreiundvierzigsten und § 20 der Vierundvierzigsten Durchführungsverordnung zum Umstellungsgesetz,
 
-3.
+3. die §§ 2 bis 4 der Fünfundvierzigsten Durchführungsverordnung zum Umstellungsgesetz,
 
-4.
+4. § 18 des Altbankengesetzes,
 
-5.
+5. § 8 Abs. 4 des Altbanken-Bilanz-Gesetzes vom 10. Dezember 1953 (Gesetz- und Verordnungsblatt für Berlin S. 1488), zuletzt geändert durch das Dritte Umstellungsergänzungsgesetz vom 22. Januar 1964 (Bundesgesetzbl. I S. 33).
 
 ### § 13 — Sonderregelung für Berlin
 
 Im Land Berlin gelten die vorstehenden Bestimmungen mit folgender Maßgabe:
 
-1.
+1. Es tretena)in § 1 Nr. 1 an die Stelle der Worte "Geldinstitute im Währungsgebiet (§ 9 Abs. 2 des Währungsgesetzes, § 1 Abs. 1 Nr. 5 des Umstellungsgesetzes, § 1 der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz)" die Worte "Geldinstitute (Artikel I Nr. 1 Buchstabe a der Vierten Verordnung zur Neuordnung des Geldwesens (Umstellungsergänzungsverordnung) vom 20. März 1949 - Verordnungsblatt für Groß-Berlin I S. 88 -)"; b)in § 2 Abs. 1 Nr. 1 an die Stelle der Worte "Altgeldguthaben bei Geldinstituten im Währungsgebiet (§ 1 Abs. 1 Nr. 1 des Umstellungsgesetzes, § 4 der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz)" die Worte "Altgeldguthaben bei Geldinstituten im betreffenden Gebiet (Artikel 1 Abs. 1 Nr. 1 der Zweiten Verordnung zur Neuordnung des Geldwesens (Umstellungsverordnung) vom 4. Juli 1948 - Verordnungsblatt für Groß-Berlin I S. 374 -)"; c)in § 3 Abs. 6 an die Stelle der Worte "bei Geldinstituten im Währungsgebiet als Altgeldguthaben der Gruppe IV (§ 1 Abs. 1 Nr. 1 Buchstabe d des Umstellungsgesetzes)" die Worte "bei Geldinstituten in Berlin als Altgeldguthaben der Gruppe IV (Artikel 1 Abs. 1 Nr. 1 Buchstabe d der Umstellungsverordnung)". in § 1 Nr. 1 an die Stelle der Worte "Geldinstitute im Währungsgebiet (§ 9 Abs. 2 des Währungsgesetzes, § 1 Abs. 1 Nr. 5 des Umstellungsgesetzes, § 1 der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz)" die Worte "Geldinstitute (Artikel I Nr. 1 Buchstabe a der Vierten Verordnung zur Neuordnung des Geldwesens (Umstellungsergänzungsverordnung) vom 20. März 1949 - Verordnungsblatt für Groß-Berlin I S. 88 -)"; in § 2 Abs. 1 Nr. 1 an die Stelle der Worte "Altgeldguthaben bei Geldinstituten im Währungsgebiet (§ 1 Abs. 1 Nr. 1 des Umstellungsgesetzes, § 4 der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz)" die Worte "Altgeldguthaben bei Geldinstituten im betreffenden Gebiet (Artikel 1 Abs. 1 Nr. 1 der Zweiten Verordnung zur Neuordnung des Geldwesens (Umstellungsverordnung) vom 4. Juli 1948 - Verordnungsblatt für Groß-Berlin I S. 374 -)"; in § 3 Abs. 6 an die Stelle der Worte "bei Geldinstituten im Währungsgebiet als Altgeldguthaben der Gruppe IV (§ 1 Abs. 1 Nr. 1 Buchstabe d des Umstellungsgesetzes)" die Worte "bei Geldinstituten in Berlin als Altgeldguthaben der Gruppe IV (Artikel 1 Abs. 1 Nr. 1 Buchstabe d der Umstellungsverordnung)".
 
-a)
-
-b)
-
-c)
-
-2.
+2. Bei der Anwendung des § 1 Nr. 4 sind Bausparkassen die in der Durchführungsbestimmung Nummer 7 vom 26. Oktober 1950 zur Vierten Verordnung zur Neuordnung des Geldwesens (Umstellungsergänzungsverordnung) vom 20. März 1949 (Westberliner Bausparkassenbestimmung) - Verordnungsblatt für Berlin I S. 494 - aufgeführten Bausparkassen sowie die Landesbausparkasse Berlin und die Bausparkasse Deutsche Bau-Gemeinschaft AG.
 
 ### § 14 — Berlin-Klausel
 

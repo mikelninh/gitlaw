@@ -12,53 +12,37 @@ Auf Grund des § 4, auch in Verbindung mit § 15 Absatz 6 Satz 1, des Düngegese
 
 ### § 1 — Geltungsbereich
 
-Diese Verordnung gilt für Die §§ 3 bis 5 gelten nicht beim Inverkehrbringen, beim Befördern und bei der Übernahme der in Satz 1 Nummer 1 genannten Stoffe,
+Diese Verordnung gilt für
 
-1.
+1. das Inverkehrbringen einschließlich des Vermittelns, das Befördern und die Übernahme von Wirtschaftsdüngern sowie von Stoffen, die als Ausgangsstoff oder Bestandteil Wirtschaftsdünger enthalten, im Inland sowie
 
-2.
-
-1.
-
-a)
-
-b)
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
+2. das Befördern der in Nummer 1 genannten Stoffe nach anderen Staaten.
 
 ### § 2 — Begriffsbestimmungen
 
-Im Sinne dieser Verordnung sind Eine Übernahme im Sinne des Satzes 1 Nummer 3 liegt auch vor, soweit ein in § 1 Satz 1 Nummer 1 genannter Stoff im Auftrag des Empfängers unmittelbar durch Dritte auf Flächen des Empfängers aufgebracht wird.
+Im Sinne dieser Verordnung sind
 
-1.
+1. Abgeber: natürliche oder juristische Person, die einen der in § 1 Satz 1 Nummer 1 genannten Stoffe an andere abgibt;
 
-2.
+2. Beförderer: natürliche oder juristische Person, die einen der in § 1 Satz 1 Nummer 1 genannten Stoffe für sich selbst oder für andere befördert;
 
-3.
+3. Empfänger: natürliche oder juristische Person, die einen der in § 1 Satz 1 Nummer 1 genannten Stoffe von anderen übernimmt.
 
 ### § 3 — Aufzeichnungspflicht
 
-(1) Abgeber, Beförderer sowie Empfänger haben spätestens einen Monat nach Abschluss des Inverkehrbringens, des Beförderns oder der Übernahme Aufzeichnungen zu erstellen, in denen Folgendes angegeben werden muss: Ergeben sich die in Satz 1 genannten Angaben ohne Weiteres aus den geschäftlichen Unterlagen, brauchen keine gesonderten Aufzeichnungen erstellt zu werden. Satz 1 Nummer 4 gilt nicht für den Beförderer, der ausschließlich im Auftrag eines anderen befördert. Für Empfänger, die Stoffe nach § 1 Satz 1 im eigenen Betrieb verwenden, gilt Satz 1 mit der Maßgabe, dass die Aufzeichnungen spätestens zwei Monate nach der Übernahme zu erstellen sind.
+(1) Abgeber, Beförderer sowie Empfänger haben spätestens einen Monat nach Abschluss des Inverkehrbringens, des Beförderns oder der Übernahme Aufzeichnungen zu erstellen, in denen Folgendes angegeben werden muss:
 
-1.
+1. Name und Anschrift des Abgebers,
 
-2.
+2. Datum der Abgabe, des Beförderns oder der Übernahme,
 
-3.
+3. Menge in Tonnen Frischmasse und Angabe der Wirtschaftsdüngerart oder des sonstigen Stoffes,
 
-4.
+4. Gehalte an Stickstoff (Gesamt N) und Phosphat (P2O5) in Kilogramm je Tonne Frischmasse sowie die Menge Stickstoffs aus Wirtschaftsdünger tierischer Herkunft in Kilogramm,
 
-5.
+5. Name und Anschrift des Beförderers,
 
-6.
+6. Name und Anschrift des Empfängers.
 
 (2) Wer Aufzeichnungen nach Absatz 1 zu erstellen hat, hat diese für drei Jahre ab dem Datum der Abgabe aufzubewahren. Der Aufzeichnungspflichtige hat die Aufzeichnungen der zuständigen Stelle auf Verlangen vorzulegen.
 
@@ -80,15 +64,15 @@ Den Landesregierungen wird die Befugnis übertragen, durch Rechtsverordnung weit
 
 Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe d des Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 4, eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt,
 
-2.
+2. entgegen § 3 Absatz 2 Satz 1 eine Aufzeichnung nicht oder nicht für die vorgeschriebene Dauer aufbewahrt,
 
-3.
+3. entgegen § 3 Absatz 2 Satz 2 eine Aufzeichnung nicht vorlegt,
 
-4.
+4. entgegen § 4 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
 
-5.
+5. entgegen § 5 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 ### § 8 — Inkrafttreten
 

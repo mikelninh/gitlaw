@@ -13,13 +13,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 ### Art 1 — Zustimmung zu dem Übereinkommen zur Errichtung
 der Welthandelsorganisation
 
-Dem in Marrakesch am 15. April 1994 unterzeichneten Übereinkommen zur Errichtung der Welthandelsorganisation einschließlich der Schlußakte über die Ergebnisse der multilateralen Handelsverhandlungen der Uruguay-Runde vom selben Tage wird zugestimmt. Das Übereinkommen und die Schlußakte einschließlich der Übereinkünfte*) sowie werden nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht. ----------
+Dem in Marrakesch am 15. April 1994 unterzeichneten Übereinkommen zur Errichtung der Welthandelsorganisation einschließlich der Schlußakte über die Ergebnisse der multilateralen Handelsverhandlungen der Uruguay-Runde vom selben Tage wird zugestimmt. Das Übereinkommen und die Schlußakte einschließlich der Übereinkünfte*) sowie
 
-a)
+a) die Zollzugeständnis-Liste LXXX, soweit sie unter den Vertrag über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl fallende Waren enthält,
 
-b)
-
-*)
+b) die Listen der Europäischen Gemeinschaften und ihrer Mitgliedstaaten über Verpflichtungen und Meistbegünstigungsausnahmen im Dienstleistungshandel
 
 ### (XXXX) Art 2 bis 6
 

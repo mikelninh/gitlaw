@@ -4750,6 +4750,16 @@
     "file": "strandschutzwerksicherungsv.md"
   },
   {
+    "id": "patinfozgeohwindbek",
+    "title": "Bekanntmachung der zur Entgegennahme von Anträgen auf Eintragung von geografischen Angaben für handwerkliche und industrielle Erzeugnisse befugten Patentinformationszentren",
+    "abbreviation": "PatInfoZGeoHwIndBek",
+    "date": "2026-05-19",
+    "stand": "",
+    "sections": 2,
+    "lines": 31,
+    "file": "patinfozgeohwindbek.md"
+  },
+  {
     "id": "patinfozbek",
     "title": "Bekanntmachung der zur Entgegennahme von Patent- und Gebrauchsmusteranmeldungen befugten Patentinformationszentren",
     "abbreviation": "PatInfoZBek",
@@ -17551,12 +17561,12 @@
   },
   {
     "id": "strbnübkseg",
-    "title": "Gesetz zu dem Protokoll vom 18. September 1997 über den Beitritt",
+    "title": "Gesetz zu dem Protokoll vom 18. September 1997 über den Beitritt des Königreichs Schweden zu dem Übereinkommen vom 9. Februar 1994 über die Erhebung von Gebühren für die Benutzung bestimmter Straßen mit schweren Nutzfahrzeugen sowie zu dem Zusatzübereinkommen vom 18. September 1997 zu dem vorgenannten Übereinkommen",
     "abbreviation": "StrBNÜbkSEG",
     "date": "1998-07-23",
     "stand": "",
     "sections": 3,
-    "lines": 29,
+    "lines": 25,
     "file": "strbnübkseg.md"
   },
   {
@@ -17911,12 +17921,12 @@
   },
   {
     "id": "eurhiisrübkergvtrg",
-    "title": "Gesetz zu dem Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik",
+    "title": "Gesetz zu dem Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik Deutschland und dem Staat Israel über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
     "abbreviation": "EuRHiISRÜbkErgVtrG",
     "date": "1980-09-29",
     "stand": "Geändert durch § 83 Abs. 1 Nr. 7 G v. 23.12.1982 I 2071",
     "sections": 8,
-    "lines": 53,
+    "lines": 50,
     "file": "eurhiisrübkergvtrg.md"
   },
   {
@@ -18386,7 +18396,7 @@
     "date": "1994-08-30",
     "stand": "",
     "sections": 6,
-    "lines": 41,
+    "lines": 39,
     "file": "wtoübkg.md"
   },
   {
@@ -18561,12 +18571,12 @@
   },
   {
     "id": "dsübkg",
-    "title": "Gesetz zu dem Übereinkommen vom 28. Januar 1981 zum Schutz des Menschen",
+    "title": "Gesetz zu dem Übereinkommen vom 28. Januar 1981 zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten",
     "abbreviation": "DSÜbkG",
     "date": "1985-03-13",
     "stand": "Geändert durch Art. 70 V v. 19.6.2020 I 1328",
     "sections": 5,
-    "lines": 31,
+    "lines": 30,
     "file": "dsübkg.md"
   },
   {
@@ -18936,7 +18946,7 @@
     "date": "1975-12-17",
     "stand": "",
     "sections": 15,
-    "lines": 159,
+    "lines": 149,
     "file": "währumstabschlg.md"
   },
   {
@@ -19548,6 +19558,16 @@
     "sections": 1,
     "lines": 19,
     "file": "uaganwg.md"
+  },
+  {
+    "id": "dadg",
+    "title": "Gesetz zur Anwendung und Durchsetzung der Datenverordnung",
+    "abbreviation": "DADG",
+    "date": "2026-05-26",
+    "stand": "",
+    "sections": 16,
+    "lines": 221,
+    "file": "dadg.md"
   },
   {
     "id": "schrag",
@@ -20540,6 +20560,16 @@
     "file": "ausgstg.md"
   },
   {
+    "id": "dgg",
+    "title": "Gesetz zur Durchführung der EU-Verordnung über europäische Daten-Governance",
+    "abbreviation": "DGG",
+    "date": "2026-05-12",
+    "stand": "",
+    "sections": 12,
+    "lines": 171,
+    "file": "dgg.md"
+  },
+  {
     "id": "mog",
     "title": "Gesetz zur Durchführung der gemeinsamen Marktorganisationen und der Direktzahlungen",
     "abbreviation": "MOG",
@@ -20656,7 +20686,7 @@
     "date": "2019-04-18",
     "stand": "Geändert durch Art. 30 G v. 27.7.2021 I 3146",
     "sections": 9,
-    "lines": 96,
+    "lines": 108,
     "file": "gasgerätedg.md"
   },
   {
@@ -21950,6 +21980,16 @@
     "file": "bergarbwofög.md"
   },
   {
+    "id": "klinemfög",
+    "title": "Gesetz zur Förderung klimaneutraler Mobilität",
+    "abbreviation": "KliNeMFöG",
+    "date": "2026-05-12",
+    "stand": "",
+    "sections": 1,
+    "lines": 15,
+    "file": "klinemfög.md"
+  },
+  {
     "id": "kinvfg",
     "title": "Gesetz zur Förderung von Investitionen finanzschwacher Kommunen",
     "abbreviation": "KInvFG",
@@ -23208,6 +23248,16 @@
     "sections": 55,
     "lines": 14199,
     "file": "sokasig.md"
+  },
+  {
+    "id": "bttg",
+    "title": "Gesetz zur Sicherung der Tariftreue bei der Vergabe und Ausführung öffentlicher Aufträge und Konzessionen des Bundes",
+    "abbreviation": "BTTG",
+    "date": "2026-04-27",
+    "stand": "",
+    "sections": 17,
+    "lines": 175,
+    "file": "bttg.md"
   },
   {
     "id": "sokasig_2",
@@ -29890,6 +29940,16 @@
     "file": "ivsg.md"
   },
   {
+    "id": "ivsg_2026",
+    "title": "Gesetz über intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern und über die Datenbereitstellung über den Nationalen Zugangspunkt",
+    "abbreviation": "IVSG 2026",
+    "date": "2026-05-15",
+    "stand": "Ersetzt G 9231-13 v. 11.6.2013 I 1553 (IVSG)",
+    "sections": 15,
+    "lines": 268,
+    "file": "ivsg_2026.md"
+  },
+  {
     "id": "gnotkg",
     "title": "Gesetz über Kosten der freiwilligen Gerichtsbarkeit für Gerichte und Notare",
     "abbreviation": "GNotKG",
@@ -31776,7 +31836,7 @@
     "date": "1986-04-19",
     "stand": "Neugefasst durch Bek. v. 30.10.2023 I Nr. 291",
     "sections": 33,
-    "lines": 540,
+    "lines": 536,
     "file": "paßg_1986.md"
   },
   {
@@ -42466,7 +42526,7 @@
     "date": "2010-07-21",
     "stand": "Zuletzt geändert durch Art. 2 Abs. 1 V v. 28.4.2020 I 846",
     "sections": 10,
-    "lines": 100,
+    "lines": 84,
     "file": "wdüngv.md"
   },
   {
@@ -43830,6 +43890,16 @@
     "file": "bafög-teilerlaßv.md"
   },
   {
+    "id": "wm2026lärmschv",
+    "title": "Verordnung über den Lärmschutz bei öffentlichen Fernsehdarbietungen im Freien über die Fußball-Weltmeisterschaft der Männer 2026",
+    "abbreviation": "WM2026LärmSchV",
+    "date": "2026-05-13",
+    "stand": "Die V tritt gem. § 4 mWv 1.8.2026 außer Kraft",
+    "sections": 7,
+    "lines": 38,
+    "file": "wm2026lärmschv.md"
+  },
+  {
     "id": "muscheltzv",
     "title": "Verordnung über den Mutterschutz für Beamtinnen des Bundes und die Elternzeit für Beamtinnen und Beamte des Bundes",
     "abbreviation": "MuSchEltZV",
@@ -44570,6 +44640,16 @@
     "file": "prüflabv.md"
   },
   {
+    "id": "alehrv",
+    "title": "Verordnung über die allgemeine Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals an der Hochschule des Bundes für öffentliche Verwaltung",
+    "abbreviation": "ALehrV",
+    "date": "2026-04-29",
+    "stand": "",
+    "sections": 14,
+    "lines": 165,
+    "file": "alehrv.md"
+  },
+  {
     "id": "befbedv",
     "title": "Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen",
     "abbreviation": "BefBedV",
@@ -44651,12 +44731,12 @@
   },
   {
     "id": "gükg_6av",
-    "title": "Verordnung über die Anerkennung von Stadt- und Landkreisen nach § 6a des",
+    "title": "Verordnung über die Anerkennung von Stadt- und Landkreisen nach § 6a des Güterkraftverkehrsgesetzes",
     "abbreviation": "GüKG§6aV",
     "date": "1962-08-07",
     "stand": "",
     "sections": 4,
-    "lines": 40,
+    "lines": 39,
     "file": "gükg_6av.md"
   },
   {
@@ -50836,7 +50916,7 @@
     "date": "2023-11-04",
     "stand": "Geändert durch Art. 1 V v. 18.10.2024 I Nr. 317",
     "sections": 37,
-    "lines": 452,
+    "lines": 440,
     "file": "weinfögewv.md"
   },
   {
@@ -52664,7 +52744,7 @@
     "title": "Verordnung über die Prüfung der Jahresabschlüsse der Kreditinstitute und Finanzdienstleistungsinstitute sowie über die darüber zu erstellenden Berichte",
     "abbreviation": "PrüfbV 2015",
     "date": "2015-06-11",
-    "stand": "Zuletzt geändert durch Art. 13 G v. 28.2.2025 I Nr. 69",
+    "stand": "Zuletzt geändert durch Art. 13 G v. 25.3.2026 I Nr. 81",
     "sections": 84,
     "lines": 918,
     "file": "prüfbv_2015.md"
@@ -54078,6 +54158,36 @@
     "sections": 44,
     "lines": 458,
     "file": "schsihafv.md"
+  },
+  {
+    "id": "strrehagschäv",
+    "title": "Verordnung über die schädigenden Ereignisse und gesundheitlichen Schädigungen im Sinne des § 21 Absatz 6 Satz 1 des Strafrechtlichen Rehabilitierungsgesetzes",
+    "abbreviation": "StrRehaGSchäV",
+    "date": "2026-05-13",
+    "stand": "",
+    "sections": 5,
+    "lines": 43,
+    "file": "strrehagschäv.md"
+  },
+  {
+    "id": "vwrehagschäv",
+    "title": "Verordnung über die schädigenden Ereignisse und gesundheitlichen Schädigungen im Sinne des § 3 Absatz 6 Satz 1 des Verwaltungsrechtlichen Rehabilitierungsgesetzes",
+    "abbreviation": "VwRehaGSchäV",
+    "date": "2026-05-13",
+    "stand": "",
+    "sections": 5,
+    "lines": 35,
+    "file": "vwrehagschäv.md"
+  },
+  {
+    "id": "hhgschäv",
+    "title": "Verordnung über die schädigenden Ereignisse und gesundheitlichen Schädigungen im Sinne des § 4 Absatz 6 Satz 1 des Häftlingshilfegesetzes",
+    "abbreviation": "HHGSchäV",
+    "date": "2026-05-08",
+    "stand": "",
+    "sections": 5,
+    "lines": 39,
+    "file": "hhgschäv.md"
   },
   {
     "id": "schkispv",

@@ -1,8 +1,4 @@
-# Gesetz zu dem Protokoll vom 18. September 1997 über den Beitritt
-des Königreichs Schweden zu dem Übereinkommen vom 9. Februar 1994 über
-die Erhebung von Gebühren für die Benutzung bestimmter Straßen mit
-schweren Nutzfahrzeugen sowie zu dem Zusatzübereinkommen vom
-18. September 1997 zu dem vorgenannten Übereinkommen
+# Gesetz zu dem Protokoll vom 18. September 1997 über den Beitritt des Königreichs Schweden zu dem Übereinkommen vom 9. Februar 1994 über die Erhebung von Gebühren für die Benutzung bestimmter Straßen mit schweren Nutzfahrzeugen sowie zu dem Zusatzübereinkommen vom 18. September 1997 zu dem vorgenannten Übereinkommen
 
 **Abkürzung:** StrBNÜbkSEG
 **Ausfertigungsdatum:** 1998-07-23

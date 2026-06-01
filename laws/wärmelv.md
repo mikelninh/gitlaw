@@ -17,9 +17,9 @@ Auf Grund des § 556c Absatz 3 des Bürgerlichen Gesetzbuchs, der durch Artikel 
 
 Gegenstand der Verordnung sind
 
-1.
+1. Vorschriften für Wärmelieferverträge, die bei einer Umstellung auf Wärmelieferung nach § 556c des Bürgerlichen Gesetzbuchs geschlossen werden, und
 
-2.
+2. mietrechtliche Vorschriften für den Kostenvergleich und die Umstellungsankündigung nach § 556c Absatz 1 und 2 des Bürgerlichen Gesetzbuchs.
 
 ## Abschnitt 2: Wärmeliefervertrag
 
@@ -27,25 +27,25 @@ Gegenstand der Verordnung sind
 
 (1) Der Wärmeliefervertrag soll enthalten:
 
-1.
+1. eine genaue Beschreibung der durch den Wärmelieferanten zu erbringenden Leistungen, insbesondere hinsichtlich der Art der Wärmelieferung sowie der Zeiten der Belieferung,
 
-2.
+2. die Aufschlüsselung des Wärmelieferpreises in den Grundpreis in Euro pro Monat und in Euro pro Jahr und den Arbeitspreis in Cent pro Kilowattstunde, jeweils als Netto- und Bruttobeträge, sowie etwaige Preisänderungsklauseln,
 
-3.
+3. die Festlegung des Übergabepunkts,
 
-4.
+4. Angaben zur Dimensionierung der Heizungs- oder Warmwasseranlage unter Berücksichtigung der üblichen mietrechtlichen Versorgungspflichten,
 
-5.
+5. Regelungen zum Umstellungszeitpunkt sowie zur Laufzeit des Vertrages,
 
-6.
+6. falls der Kunde Leistungen vorhalten oder Leistungen des Wärmelieferanten vergüten soll, die vom Grund- und Arbeitspreis nicht abgegolten sind, auch eine Beschreibung dieser Leistungen oder Vergütungen,
 
-7.
+7. Regelungen zu den Rechten und Pflichten der Parteien bei Vertragsbeendigung, insbesondere wenn für Zwecke des Wärmeliefervertrages eine Heizungs- oder Warmwasseranlage neu errichtet wurde.
 
 (2) Der Wärmelieferant ist verpflichtet, in seiner Vertragserklärung
 
-1.
+1. die voraussichtliche energetische Effizienzverbesserung nach § 556c Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs oder die energetisch verbesserte Betriebsführung nach § 556c Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs anzugeben sowie
 
-2.
+2. den Kostenvergleich nach § 556c Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs und nach den §§ 8 bis 10 durchzuführen sowie die ihm zugrunde liegenden Annahmen und Berechnungen mitzuteilen.
 
 (3) Die Vereinbarung von Mindestabnahmemengen oder von Modernisierungsbeschränkungen ist unwirksam.
 
@@ -75,19 +75,19 @@ Eine von den Vorschriften dieses Abschnitts abweichende Vereinbarung ist unwirks
 
 Beim Kostenvergleich nach § 556c Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs sind für das Mietwohngebäude gegenüberzustellen
 
-1.
+1. die Kosten der Eigenversorgung durch den Vermieter mit Wärme oder Warmwasser, die der Mieter bislang als Betriebskosten zu tragen hatte, und
 
-2.
+2. die Kosten, die der Mieter zu tragen gehabt hätte, wenn er die den bisherigen Betriebskosten zugrunde liegende Wärmemenge im Wege der Wärmelieferung bezogen hätte.
 
 ### § 9 — Ermittlung der Betriebskosten der Eigenversorgung
 
 (1) Die bisherigen Betriebskosten nach § 8 Nummer 1 sind wie folgt zu ermitteln:
 
-1.
+1. Auf der Grundlage des Endenergieverbrauchs der letzten drei Abrechnungszeiträume, die vor der Umstellungsankündigung gegenüber dem Mieter abgerechnet worden sind, ist der bisherige durchschnittliche Endenergieverbrauch für einen Abrechnungszeitraum zu ermitteln; liegt der Endenergieverbrauch nicht vor, ist er aufgrund des Energiegehalts der eingesetzten Brennstoffmengen zu bestimmen.
 
-2.
+2. Der nach Nummer 1 ermittelte Endenergieverbrauch ist mit den Brennstoffkosten auf Grundlage der durchschnittlich vom Vermieter entrichteten Preise des letzten Abrechnungszeitraums zu multiplizieren.
 
-3.
+3. Den nach Nummer 2 ermittelten Kosten sind die sonstigen abgerechneten Betriebskosten des letzten Abrechnungszeitraums, die der Versorgung mit Wärme oder Warmwasser dienen, hinzuzurechnen.
 
 (2) Hat der Vermieter die Heizungs- oder Warmwasseranlage vor dem Übergabepunkt während der letzten drei Abrechnungszeiträume modernisiert, so sind die Betriebskosten der bisherigen Versorgung auf Grundlage des Endenergieverbrauchs der modernisierten Anlage zu berechnen.
 
@@ -105,15 +105,15 @@ Beim Kostenvergleich nach § 556c Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Ges
 
 (2) Sie muss Angaben enthalten
 
-1.
+1. zur Art der künftigen Wärmelieferung,
 
-2.
+2. zur voraussichtlichen energetischen Effizienzverbesserung nach § 556c Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs oder zur energetisch verbesserten Betriebsführung nach § 556c Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs; § 555c Absatz 3 des Bürgerlichen Gesetzbuchs gilt entsprechend,
 
-3.
+3. zum Kostenvergleich nach § 556c Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs und nach den §§ 8 bis 10 einschließlich der ihm zugrunde liegenden Annahmen und Berechnungen,
 
-4.
+4. zum geplanten Umstellungszeitpunkt,
 
-5.
+5. zu den im Wärmeliefervertrag vorgesehenen Preisen und den gegebenenfalls vorgesehenen Preisänderungsklauseln.
 
 (3) Rechnet der Vermieter Wärmelieferkosten als Betriebskosten ab und hat er dem Mieter die Umstellung nicht nach den Absätzen 1 und 2 angekündigt, so beginnt die Frist für Einwendungen gegen die Abrechnung der Wärmelieferkosten (§ 556 Absatz 3 Satz 5 des Bürgerlichen Gesetzbuchs) frühestens, wenn der Mieter eine Mitteilung erhalten hat, die den Anforderungen nach den Absätzen 1 und 2 entspricht.
 

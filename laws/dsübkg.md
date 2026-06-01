@@ -1,5 +1,4 @@
-# Gesetz zu dem Übereinkommen vom 28. Januar 1981 zum Schutz des Menschen
-bei der automatischen Verarbeitung personenbezogener Daten
+# Gesetz zu dem Übereinkommen vom 28. Januar 1981 zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten
 
 **Abkürzung:** DSÜbkG
 **Ausfertigungsdatum:** 1985-03-13
