@@ -1630,6 +1630,16 @@
     "file": "bmjgerwidano_2024.md"
   },
   {
+    "id": "bmjvgerwidano_2026",
+    "title": "Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden in beamtenrechtlichen Angelegenheiten auf die Gerichte und Behörden im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz",
+    "abbreviation": "BMJVGerWidAnO 2026",
+    "date": "2026-03-11",
+    "stand": "Ersetzt AnO 2030-14-237 v. 30.10.2023 I Nr. 308 (BMJGerWidAnO 2024)",
+    "sections": 4,
+    "lines": 36,
+    "file": "bmjvgerwidano_2026.md"
+  },
+  {
     "id": "dpmawidvertrano_2021",
     "title": "Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden sowie der Vertretung bei Klagen von Beamtinnen und Beamten des Deutschen Patent- und Markenamts in Angelegenheiten der Besoldung und des Reisekostenrechts",
     "abbreviation": "DPMAWidVertrAnO 2021",
@@ -3550,6 +3560,16 @@
     "file": "asylvfg_1992.md"
   },
   {
+    "id": "asylzbv_2026",
+    "title": "Asylzuständigkeitsbestimmungsverordnung",
+    "abbreviation": "AsylZBV 2026",
+    "date": "2026-04-30",
+    "stand": "Geändert durch Art. 2 V v. 30.4.2026 I Nr. 127",
+    "sections": 8,
+    "lines": 126,
+    "file": "asylzbv_2026.md"
+  },
+  {
     "id": "aufenthv",
     "title": "Aufenthaltsverordnung",
     "abbreviation": "AufenthV",
@@ -3598,6 +3618,16 @@
     "sections": 87,
     "lines": 1062,
     "file": "pflaprv.md"
+  },
+  {
+    "id": "pflfassaprv",
+    "title": "Ausbildungs- und Prüfungsverordnung für die Pflegefachassistenz",
+    "abbreviation": "PflFAssAPrV",
+    "date": "2026-06-02",
+    "stand": "",
+    "sections": 26,
+    "lines": 169,
+    "file": "pflfassaprv.md"
   },
   {
     "id": "diätass-aprv",
@@ -12170,6 +12200,16 @@
     "file": "schkg_19abs2__24bek_2025.md"
   },
   {
+    "id": "schkg_19abs2__24bek_2026",
+    "title": "Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2026 geltenden Beträge",
+    "abbreviation": "SchKG§19Abs2/§24Bek 2026",
+    "date": "2026-06-08",
+    "stand": "",
+    "sections": 1,
+    "lines": 17,
+    "file": "schkg_19abs2__24bek_2026.md"
+  },
+  {
     "id": "seemamtsbek_1982",
     "title": "Bekanntmachung über die Seemannsämter außerhalb des Geltungsbereiches des",
     "abbreviation": "SeemAmtsBek 1982",
@@ -17961,22 +18001,22 @@
   },
   {
     "id": "eurhiübkvtrfrag",
-    "title": "Gesetz zu dem Vertrag vom 24. Oktober 1974 zwischen der Bundesrepublik",
+    "title": "Gesetz zu dem Vertrag vom 24. Oktober 1974 zwischen der Bundesrepublik Deutschland und der Französischen Republik zu dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen",
     "abbreviation": "EuRHiÜbkVtrFRAG",
     "date": "1978-03-28",
     "stand": "Geändert durch § 83 Abs. 1 Nr. 6 G v. 23.12.1982 I 2071",
     "sections": 6,
-    "lines": 36,
+    "lines": 34,
     "file": "eurhiübkvtrfrag.md"
   },
   {
     "id": "eurhiübkvtritag",
-    "title": "Gesetz zu dem Vertrag vom 24. Oktober 1979 zwischen der Bundesrepublik",
+    "title": "Gesetz zu dem Vertrag vom 24. Oktober 1979 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
     "abbreviation": "EuRHiÜbkVtrITAG",
     "date": "1982-02-03",
     "stand": "Geändert durch § 83 Abs. 2 Nr. 3 G v. 23.12.1982 I 2071",
     "sections": 6,
-    "lines": 37,
+    "lines": 34,
     "file": "eurhiübkvtritag.md"
   },
   {
@@ -18051,12 +18091,12 @@
   },
   {
     "id": "eurhiübkvtrnldg",
-    "title": "Gesetz zu dem Vertrag vom 30. August 1979 zwischen der Bundesrepublik",
+    "title": "Gesetz zu dem Vertrag vom 30. August 1979 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
     "abbreviation": "EuRHiÜbkVtrNLDG",
     "date": "1981-12-21",
     "stand": "",
     "sections": 7,
-    "lines": 40,
+    "lines": 37,
     "file": "eurhiübkvtrnldg.md"
   },
   {
@@ -22244,9 +22284,9 @@
     "title": "Gesetz zur Marktüberwachung und zur Sicherstellung der Konformität von Produkten",
     "abbreviation": "MüG 2021",
     "date": "2021-06-09",
-    "stand": "",
+    "stand": "Geändert durch Art. 4 G v. 22.6.2026 I nr. 191",
     "sections": 24,
-    "lines": 239,
+    "lines": 240,
     "file": "müg_2021.md"
   },
   {
@@ -22686,7 +22726,7 @@
     "date": "1972-08-07",
     "stand": "Neugefasst durch Bek. v. 3.2.1995 I 158;",
     "sections": 31,
-    "lines": 468,
+    "lines": 470,
     "file": "aüg.md"
   },
   {
@@ -23791,12 +23831,12 @@
   },
   {
     "id": "famrändg",
-    "title": "Gesetz zur Vereinheitlichung und Änderung familienrechtlicher",
+    "title": "Gesetz zur Vereinheitlichung und Änderung familienrechtlicher Vorschriften",
     "abbreviation": "FamRÄndG",
     "date": "1961-08-11",
     "stand": "Zuletzt geändert durch Art. 51 G v. 17.12.2008 I 2586",
     "sections": 7,
-    "lines": 59,
+    "lines": 58,
     "file": "famrändg.md"
   },
   {
@@ -24426,7 +24466,7 @@
     "date": "1961-07-21",
     "stand": "Zuletzt geändert durch Art. 7 Abs. 9 G v. 19.6.2001 I 1149",
     "sections": 15,
-    "lines": 144,
+    "lines": 112,
     "file": "wobaug2ändg.md"
   },
   {
@@ -26006,7 +26046,7 @@
     "date": "1921-07-29",
     "stand": "",
     "sections": 1,
-    "lines": 13,
+    "lines": 11,
     "file": "wastrübgvtrg.md"
   },
   {
@@ -27174,7 +27214,7 @@
     "title": "Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft",
     "abbreviation": "MinÖlDatG",
     "date": "1988-12-20",
-    "stand": "Zuletzt geändert durch Art. 258 V v. 19.6.2020 I 1328",
+    "stand": "Zuletzt geändert durch Art. 6 G v. 22.6.2026 I Nr. 191",
     "sections": 9,
     "lines": 90,
     "file": "minöldatg.md"
@@ -28990,6 +29030,16 @@
     "file": "ebpg.md"
   },
   {
+    "id": "ökodesigng",
+    "title": "Gesetz über die umweltgerechte Gestaltung von Produkten",
+    "abbreviation": "ÖkodesignG",
+    "date": "2026-06-22",
+    "stand": "",
+    "sections": 7,
+    "lines": 61,
+    "file": "ökodesigng.md"
+  },
+  {
     "id": "wrmg",
     "title": "Gesetz über die Umweltverträglichkeit von Wasch- und Reinigungsmitteln",
     "abbreviation": "WRMG",
@@ -30644,9 +30694,9 @@
     "title": "Güterkraftverkehrsgesetz",
     "abbreviation": "GüKG 1998",
     "date": "1998-06-22",
-    "stand": "Zuletzt geändert durch Art. 39 G v. 15.7.2024 I Nr. 236",
+    "stand": "Zuletzt geändert durch Art. 1 G v. 23.2.2026 I Nr. 47",
     "sections": 37,
-    "lines": 760,
+    "lines": 762,
     "file": "gükg_1998.md"
   },
   {
@@ -31386,7 +31436,7 @@
     "date": "1922-02-18",
     "stand": "",
     "sections": 5,
-    "lines": 41,
+    "lines": 21,
     "file": "wastrübgvtrgntrag.md"
   },
   {
@@ -32590,6 +32640,16 @@
     "file": "schausrv.md"
   },
   {
+    "id": "schausrv_2026",
+    "title": "Schiffsausrüstungsverordnung",
+    "abbreviation": "SchAusrV 2026",
+    "date": "2026-06-18",
+    "stand": "Ersetzt V 9510-1-29 v. 1.10.2008 I 1913 (SchAusrV)",
+    "sections": 37,
+    "lines": 512,
+    "file": "schausrv_2026.md"
+  },
+  {
     "id": "schbesv_2013",
     "title": "Schiffsbesetzungsverordnung",
     "abbreviation": "SchBesV 2013",
@@ -33038,6 +33098,26 @@
     "sections": 5,
     "lines": 30,
     "file": "hzvv_7.md"
+  },
+  {
+    "id": "lohnugaüv_7",
+    "title": "Siebte Verordnung über eine Lohnuntergrenze in der Arbeitnehmerüberlassung",
+    "abbreviation": "LohnUGAÜV 7",
+    "date": "2026-06-19",
+    "stand": "Die V tritt gem. § 3 am 1.10.2027 außer Kraft",
+    "sections": 5,
+    "lines": 40,
+    "file": "lohnugaüv_7.md"
+  },
+  {
+    "id": "pflegearbbv_7",
+    "title": "Siebte Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche",
+    "abbreviation": "PflegeArbbV 7",
+    "date": "2026-03-03",
+    "stand": "Die V tritt gem. § 6 dieser V mit Ablauf d. 30.9.2028 außer Kraft",
+    "sections": 8,
+    "lines": 104,
+    "file": "pflegearbbv_7.md"
   },
   {
     "id": "ordenerl_7",
@@ -35510,6 +35590,26 @@
     "file": "gasspfüllstv_2025.md"
   },
   {
+    "id": "berrehaganpv_2026",
+    "title": "Verordnung zur Anpassung der Höhe der monatlichen Ausgleichsleistungen nach § 8 Absatz 1 Satz 4 des Beruflichen Rehabilitierungsgesetzes ab dem 1. Juli 2026",
+    "abbreviation": "BerRehaGAnpV 2026",
+    "date": "2026-06-17",
+    "stand": "",
+    "sections": 3,
+    "lines": 19,
+    "file": "berrehaganpv_2026.md"
+  },
+  {
+    "id": "strrehaganpv_2026",
+    "title": "Verordnung zur Anpassung der Höhe der monatlichen besonderen Zuwendung nach § 17a Absatz 1 Satz 5 des Strafrechtlichen Rehabilitierungsgesetzes ab dem 1. Juli 2026",
+    "abbreviation": "StrRehaGAnpV 2026",
+    "date": "2026-06-18",
+    "stand": "",
+    "sections": 3,
+    "lines": 19,
+    "file": "strrehaganpv_2026.md"
+  },
+  {
     "id": "rav_1998",
     "title": "Verordnung zur Anpassung der Renten",
     "abbreviation": "RAV 1998",
@@ -36648,6 +36748,16 @@
     "sections": 8,
     "lines": 47,
     "file": "rwbestv_2025.md"
+  },
+  {
+    "id": "rwbestv_2026",
+    "title": "Verordnung zur Bestimmung des Rentenwerts in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2026",
+    "abbreviation": "RWBestV 2026",
+    "date": "2026-06-16",
+    "stand": "",
+    "sections": 7,
+    "lines": 43,
+    "file": "rwbestv_2026.md"
   },
   {
     "id": "nootsnetzv",
@@ -39315,8 +39425,8 @@
     "abbreviation": "RohmilchGütV",
     "date": "2021-01-11",
     "stand": "Geändert durch Art. 2 V v. 24.11.2025 I Nr. 280",
-    "sections": 43,
-    "lines": 620,
+    "sections": 44,
+    "lines": 634,
     "file": "rohmilchgütv.md"
   },
   {
@@ -43744,7 +43854,7 @@
     "title": "Verordnung über den Gegenstand der Prüfung und die Inhalte der Prüfungsberichte für externe Kapitalverwaltungsgesellschaften, Investmentaktiengesellschaften, Investmentkommanditgesellschaften und Sondervermögen",
     "abbreviation": "KAPrüfbV",
     "date": "2013-07-24",
-    "stand": "Zuletzt geändert durch Art. 17 Abs. 4 G v. 3.6.2021 I 1498",
+    "stand": "Zuletzt geändert durch Art. 26 Abs. 6 G v. 25.3.2026 I Nr. 81",
     "sections": 53,
     "lines": 680,
     "file": "kaprüfbv.md"
@@ -43774,7 +43884,7 @@
     "title": "Verordnung über den grenzüberschreitenden Güterkraftverkehr und den Kabotageverkehr",
     "abbreviation": "GüKGrKabotageV 2012",
     "date": "2011-12-28",
-    "stand": "Zuletzt geändert durch Art. 29 G v. 2.3.2023 I Nr. 56",
+    "stand": "Zuletzt geändert durch Art. 3 Abs. 3 G v. 23.2.2026 I Nr. 47",
     "sections": 30,
     "lines": 326,
     "file": "gükgrkabotagev_2012.md"
@@ -43824,9 +43934,9 @@
     "title": "Verordnung über den Inhalt der Prüfungsberichte zu den Jahresabschlüssen und den Solvabilitätsübersichten von Versicherungsunternehmen",
     "abbreviation": "PrüfV 2017",
     "date": "2017-07-19",
-    "stand": "Zuletzt geändert durch Art. 11 G v. 19.3.2020 I 529",
-    "sections": 60,
-    "lines": 624,
+    "stand": "Zuletzt geändert durch Art. 1 V v. 29.4.2026 I Nr. 124",
+    "sections": 62,
+    "lines": 652,
     "file": "prüfv_2017.md"
   },
   {
@@ -45098,6 +45208,16 @@
     "sections": 55,
     "lines": 678,
     "file": "anzv_2006.md"
+  },
+  {
+    "id": "kmanzv",
+    "title": "Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kryptomärkteaufsichtsgesetz",
+    "abbreviation": "KMAnzV",
+    "date": "2026-05-20",
+    "stand": "",
+    "sections": 15,
+    "lines": 221,
+    "file": "kmanzv.md"
   },
   {
     "id": "wpi-anzv",
@@ -48594,9 +48714,9 @@
     "title": "Verordnung über die berufsbezogene Deutschsprachförderung",
     "abbreviation": "DeuFöV",
     "date": "2016-05-04",
-    "stand": "Zuletzt geändert durch Art. 11 Abs. 5 G v. 16.4.2026 I Nr. 107",
-    "sections": 30,
-    "lines": 382,
+    "stand": "Zuletzt geändert durch Art. 1 V v. 27.4.2026 I Nr. 118",
+    "sections": 32,
+    "lines": 416,
     "file": "deuföv.md"
   },
   {
@@ -51928,6 +52048,16 @@
     "sections": 9,
     "lines": 57,
     "file": "kohleugrv.md"
+  },
+  {
+    "id": "augoptmstrv_2026",
+    "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Augenoptiker-Handwerk",
+    "abbreviation": "AugOptMstrV 2026",
+    "date": "2025-07-08",
+    "stand": "Ersetzt V 7110-3-159 v. 29.8.2005 I 2610 (AugOptMstrV)",
+    "sections": 15,
+    "lines": 204,
+    "file": "augoptmstrv_2026.md"
   },
   {
     "id": "behappmstrv",
@@ -56880,6 +57010,16 @@
     "file": "düngmprobv.md"
   },
   {
+    "id": "milchpqv",
+    "title": "Verordnung über Qualitätsanforderungen an Milchprodukte",
+    "abbreviation": "MilchPQV",
+    "date": "2025-11-24",
+    "stand": "Geändert durch Art. 3 V v. 21.5.2026 I Nr. 168",
+    "sections": 76,
+    "lines": 1026,
+    "file": "milchpqv.md"
+  },
+  {
     "id": "amradv",
     "title": "Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel",
     "abbreviation": "AMRadV",
@@ -57506,7 +57646,7 @@
     "date": "2018-07-06",
     "stand": "",
     "sections": 3,
-    "lines": 19,
+    "lines": 17,
     "file": "zjdvträndvtr_2018.md"
   },
   {
@@ -58830,6 +58970,16 @@
     "file": "finausglg2018dv_2.md"
   },
   {
+    "id": "finausglg2019dv_2",
+    "title": "Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2019",
+    "abbreviation": "FinAusglG2019DV 2",
+    "date": "2026-06-12",
+    "stand": "Ersetzt V 603-9-50-1 v. 18.3.2019 I 341 (FinAusglG2019DV 1)",
+    "sections": 7,
+    "lines": 42,
+    "file": "finausglg2019dv_2.md"
+  },
+  {
     "id": "fluglsv_2",
     "title": "Zweite Verordnung zur Durchführung des Gesetzes zum Schutz gegen Fluglärm",
     "abbreviation": "FlugLSV 2",
@@ -59156,7 +59306,7 @@
     "date": "1928-12-22",
     "stand": "",
     "sections": 4,
-    "lines": 25,
+    "lines": 21,
     "file": "wastrübgvtrgntrag_2.md"
   },
   {

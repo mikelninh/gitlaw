@@ -9,7 +9,7 @@
 
 Artikel 2 Absatz 1 des Vertrages zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts – vom 27. Januar 2003 (BGBl. I S. 1597), zuletzt geändert durch den Vertrag vom 3. März 2008 (BGBl. I S. 2398), wird wie folgt gefasst:
 
-„(1) Zu den in Artikel 1 genannten Zwecken zahlt die Bundesrepublik Deutschland an den Zentralrat der Juden in Deutschland jährlich einen Betrag von 10 000 000 Euro, beginnend – unabhängig vom Inkrafttreten des Vertrages – mit dem Haushaltsjahr 2012.“
+„(1) Zu den in Artikel 1 genannten Zwecken zahlt die Bundesrepublik Deutschland an den Zentralrat der Juden in Deutschland jährlich einen Betrag von 10 000 000 Euro, beginnend – unabhängig vom Inkrafttreten des Vertrages – mit dem Haushaltsjahr 2012.“
 
 ### Art 2 — Zustimmung des Deutschen Bundestages, Inkrafttreten
 

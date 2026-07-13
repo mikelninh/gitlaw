@@ -2,7 +2,7 @@
 
 **Abkürzung:** MinÖlDatG
 **Ausfertigungsdatum:** 1988-12-20
-**Stand:** Zuletzt geändert durch Art. 258 V v. 19.6.2020 I 1328
+**Stand:** Zuletzt geändert durch Art. 6 G v. 22.6.2026 I Nr. 191
 
 ---
 

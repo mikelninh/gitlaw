@@ -2,7 +2,7 @@
 
 **Abkürzung:** KAPrüfbV
 **Ausfertigungsdatum:** 2013-07-24
-**Stand:** Zuletzt geändert durch Art. 17 Abs. 4 G v. 3.6.2021 I 1498
+**Stand:** Zuletzt geändert durch Art. 26 Abs. 6 G v. 25.3.2026 I Nr. 81
 
 ---
 
