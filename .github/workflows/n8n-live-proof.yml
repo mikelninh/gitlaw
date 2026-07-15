@@ -46,15 +46,67 @@ jobs:
         run: n8n import:workflow --input=n8n/outcome-engine-live-proof.json --skipMigrationChecks
 
       - name: Execute proof workflow
+        run: n8n execute --id outcome-engine-live-proof --rawOutput > /tmp/n8n-live-proof.json
+
+      - name: Assert and summarize evidence
         run: |
-          set -o pipefail
-          n8n execute --id outcome-engine-live-proof 2>&1 | tee /tmp/n8n-live-proof.log
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          raw_path = Path('/tmp/n8n-live-proof.json')
+          data = json.loads(raw_path.read_text())
+
+          matches = []
+          def walk(value):
+              if isinstance(value, dict):
+                  if value.get('passed') is True and isinstance(value.get('checks'), dict):
+                      matches.append(value)
+                  for child in value.values():
+                      walk(child)
+              elif isinstance(value, list):
+                  for child in value:
+                      walk(child)
+
+          walk(data)
+          if not matches:
+              raise SystemExit('No passed proof object found in n8n execution output')
+
+          proof = matches[-1]
+          required = {
+              'live_gateway': True,
+              'no_auto_send': True,
+              'structured_run_id': True,
+              'deadline_correct': True,
+              'three_documents': True,
+              'human_review_gate': True,
+          }
+          if proof.get('checks') != required:
+              raise SystemExit(f'Unexpected proof checks: {proof.get("checks")}')
+
+          summary = {
+              'result': 'PASS',
+              'runtime': 'n8n 2.30.5',
+              'checks': proof['checks'],
+              'backend_mode': proof.get('backend_mode'),
+              'agent_run_id': proof.get('agent_run_id'),
+              'deadline': proof.get('deadline'),
+              'documents': proof.get('documents'),
+              'tool_trace': proof.get('tool_trace'),
+              'elapsed_ms': proof.get('elapsed_ms'),
+              'auto_send': proof.get('auto_send'),
+          }
+          Path('/tmp/n8n-proof-summary.json').write_text(json.dumps(summary, indent=2, ensure_ascii=False))
+          print(json.dumps(summary, indent=2, ensure_ascii=False))
+          PY
 
       - name: Preserve execution evidence
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: n8n-live-proof-evidence
-          path: /tmp/n8n-live-proof.log
+          path: |
+            /tmp/n8n-live-proof.json
+            /tmp/n8n-proof-summary.json
           if-no-files-found: warn
           retention-days: 14
