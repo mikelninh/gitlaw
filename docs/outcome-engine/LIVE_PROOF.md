@@ -1,8 +1,9 @@
 # Live proof — n8n → Outcome Engine → GitLaw
 
-Last verified: **2026-07-15**
+Last verified: **2026-07-15**  
+GitHub Actions run: **29418004378 — passed**
 
-A real n8n 2.30.5 CLI execution imported `n8n/outcome-engine-live-proof.json`, called the public Outcome Engine gateway, and completed all workflow nodes successfully.
+A real n8n 2.30.5 CLI execution imported `n8n/outcome-engine-live-proof.json`, called the public Outcome Engine gateway, and completed every workflow and evidence-assertion step successfully.
 
 ## Verified assertions
 
@@ -22,17 +23,19 @@ A real n8n 2.30.5 CLI execution imported `n8n/outcome-engine-live-proof.json`, c
   "result": "PASS",
   "runtime": "n8n 2.30.5",
   "backend_mode": "gitlaw_grounded_rules",
-  "agent_run_id": "oe_0128b80f-e6b0-4661-a1d8-841d04935c1f",
+  "agent_run_id": "oe_3351666d-6be2-4b03-b2d1-7ddf7992f7d7",
   "deadline": "2026-07-30",
   "documents": [
     "vollständige Gehaltsnachweise der letzten drei Monate",
     "aktuelle Meldebescheinigung",
     "Nachweis über bestehenden Krankenversicherungsschutz"
   ],
-  "elapsed_ms": 11555,
+  "elapsed_ms": 11563,
   "auto_send": false
 }
 ```
+
+The complete raw n8n execution and a machine-readable proof summary are retained as the `n8n-live-proof-evidence` artifact for the passing workflow run.
 
 ## Important limitation
 
