@@ -55,7 +55,11 @@ jobs:
           from pathlib import Path
 
           raw_path = Path('/tmp/n8n-live-proof.json')
-          data = json.loads(raw_path.read_text())
+          raw = raw_path.read_text()
+          json_start = raw.find('{')
+          if json_start < 0:
+              raise SystemExit('n8n execution output contained no JSON object')
+          data = json.loads(raw[json_start:])
 
           matches = []
           def walk(value):
