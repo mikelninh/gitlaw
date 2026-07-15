@@ -24,7 +24,7 @@ jobs:
       N8N_DIAGNOSTICS_ENABLED: "false"
       N8N_VERSION_NOTIFICATIONS_ENABLED: "false"
       N8N_TEMPLATES_ENABLED: "false"
-      N8N_LOG_LEVEL: error
+      N8N_LOG_LEVEL: info
       N8N_ENCRYPTION_KEY: outcome-engine-ci-only-encryption-key-2026
       DB_TYPE: sqlite
       DB_SQLITE_DATABASE: /tmp/n8n-outcome-engine.sqlite
