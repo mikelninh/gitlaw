@@ -1,244 +1,284 @@
 # GitLaw ⚖️
 
-**RAG-grounded German legal research with verified citations + a closed-beta workflow tier for law firms.**
+**Verified legal AI for citizens and law firms — grounded in 5,936 German federal laws.**
 
-> Solo-built by [Mikel Ninh](https://github.com/mikelninh) in Berlin · open source under [AGPL-3.0](LICENSE) · in active pilot with a Berlin migration-law firm (May 2026)
+GitLaw combines hybrid retrieval, a citation graph, local source verification and human review. The goal is not to make legal AI sound confident. The goal is to make useful answers inspectable.
 
-| | |
-|---|---|
-| **Citizen app (free)** | [gitlaw-xi.vercel.app](https://gitlaw-xi.vercel.app/) · [gitlaw.app](https://mikelninh.github.io/gitlaw/) |
-| **Pro tier (closed beta)** | [/#/pro](https://gitlaw-xi.vercel.app/#/pro) — invite-only |
-| **Wiki** | [Home](wiki/Home.md) · [Architecture](wiki/Architecture.md) · [Features](wiki/Features.md) · [Legal & Privacy](wiki/Legal-and-Privacy.md) · [Development](wiki/Development.md) · [Roadmap](wiki/Roadmap.md) |
-| **For recruiters** | [`portfolio.html`](portfolio.html) — JD requirements mapped 1:1 to code paths |
-| **Conventions** | [AGENTS.md](AGENTS.md) · [CLAUDE.md](CLAUDE.md) · [CHANGELOG.md](CHANGELOG.md) |
+[![Citation eval: 53/53](https://img.shields.io/badge/citation_eval-53%2F53-brightgreen)](gitlaw_mcp/tests/cases.json)
+[![MCP CI](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml/badge.svg)](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml)
+[![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue)](LICENSE)
+
+| Explore | Link |
+| --- | --- |
+| **Citizen app** | [gitlaw-xi.vercel.app](https://gitlaw-xi.vercel.app/) · [GitHub Pages](https://mikelninh.github.io/gitlaw/) |
+| **GitLaw Pro** | Closed beta workflow tier for law firms |
+| **Recruiter map** | [`portfolio.html`](portfolio.html) — capabilities mapped to code paths |
+| **Technical docs** | [Architecture](wiki/Architecture.md) · [Features](wiki/Features.md) · [Privacy](wiki/Legal-and-Privacy.md) · [Development](wiki/Development.md) |
+
+> Solo-built by [Mikel Ninh](https://github.com/mikelninh) in Berlin. Open source where it improves trust; closed-beta workflows are being tested with a Berlin migration-law firm.
 
 ---
 
-## What it does
+## The problem
 
-**5,936 German federal laws** indexed paragraph-level, queryable via fuzzy + semantic search. **AI-generated explanations** for the 112 most-asked paragraphs, in plain German. Every AI answer is **citation-verified** against the local corpus — 53/53 hand-labelled eval cases pass in CI. **94K-node citation graph** lets users navigate from one § to all related ones in one click.
+German law is public, but it is not easy to navigate. Search is fragmented, references point across thousands of statutes, and generated answers can create dangerous certainty when a paragraph is missing, repealed or misquoted.
 
-For lawyers, GitLaw Pro is a **mandate workflow tier**: 11 Mandatsart-Checklisten with 108 curated Pflicht-Items, 8-state Workflow with transition rules, 32 Sachstand-Templates Deutsch+Vietnamese, OCR-Drop-Zone with auto-rename, branded PDF/Word export, signed Pro-Sessions with 5-Rollen-RBAC, frankfurt-only hosting, full audit log.
+GitLaw treats **evidence and failure states as product features**:
 
-## Stats
+- exact paragraph lookup before a citation is accepted
+- BM25 for legal terms and paragraph references
+- semantic retrieval for natural-language questions
+- graph traversal across cited and related provisions
+- explicit `verified`, `unknown` and `superseded` states
+- human review before professional outputs are used
+
+---
+
+## What works today
+
+| Surface | Current capability | Status |
+| --- | --- | --- |
+| **Citizen research** | Search and navigate 5,936 federal laws with hybrid retrieval and related-paragraph graph links | Live |
+| **Verified explanations** | Plain-language answers whose legal citations are checked against the local corpus | Live |
+| **MCP server** | Six legal research and verification tools over stdio and HTTP/SSE | Live |
+| **GitLaw Pro** | Case workflows, mandate checklists, deadlines, multilingual status templates, reviewable exports and audit trails | Closed beta / pilot |
+| **Cloud multi-tenancy** | Signed sessions, role boundaries and Frankfurt-hosted workflow data | Pilot architecture |
+| **Scaled production use** | External security review, penetration testing and operational hardening | Not complete |
+
+This distinction is deliberate: **live**, **pilot** and **not yet production-ready** are not treated as the same thing.
+
+---
+
+## Proof at a glance
 
 | | |
-|---|---|
-| Federal laws indexed | **5,936** (1.3M lines of legal text) |
-| Paragraphs (graph nodes) | **94,178** |
-| Cross-references (graph edges) | **200,464** (199K intra-law · 1,163 cross-law) |
+| --- | --- |
+| Federal laws indexed | **5,936** |
+| Legal paragraphs / graph nodes | **94,178** |
+| Cross-references | **200,464** |
 | FAISS vectors | **98,367** |
-| Citizen letter templates | **20** (16 free · 4 premium) |
-| Pro letter templates | **59** (Notariat · Migration · Familie · Sozial · Steuer · allgemein) |
-| Pro Sachstand-Templates | **32** (8 Stati × Mandant/Mittelsperson × DE/VI) |
-| Curated BGH/BVerfG-Leitsätze | **40** zu Top-30 §§ |
-| Live-Rechtsprechungs-Index | **150K+ Urteile** via OpenLegalData |
-| Citation eval (CI) | **53/53 cases · 100% pass-rate** |
-| Languages | **6 citizen** (DE/Leichte Sprache/TR/AR/EN/UK) · **5 Pro-Intake** (DE/VI/TR/AR/EN, RTL für Arabisch) |
-| Updates | **weekly auto-update** (laws + Leitsätze via GitHub Action) |
+| Citation evaluation | **53/53 hand-labelled cases passing in CI** |
+| Curated high-court principles | **40** |
+| Searchable decisions | **150K+** via OpenLegalData |
+| Citizen UI languages | **6** |
+| Pro intake languages | **5** |
+
+Metrics are useful only when they support a real workflow. The central question remains: **can a user reach the right source, understand what is known and notice when the system is unsure?**
 
 ---
 
-## Citizen tier — `gitlaw.app`
+## One end-to-end workflow
 
-Free, donations-funded, no account needed.
+A professional workflow can move through GitLaw like this:
 
-- 🔍 **Search 5,936 laws** — hybrid retrieval, BM25 for exact paragraph matches + FAISS for semantic similarity (98K vectors)
-- 💡 **AI-explained paragraphs** — 112 §§ in plain German, generated with OpenAI structured outputs, cached on disk
-- 💬 **Chat with follow-up questions** — personalized for 12 user profiles
-- 🛡 **Anti-hallucination badges** — `✓ verified` / `⚠ unknown` / `🚨 superseded`. Recognises range markers (`§§ 2 bis 3f weggefallen` covers § 3 NetzDG)
-- 🔗 **Verwandte Paragraphen** — citation-graph drawer per cited § (94K nodes / 200K edges)
-- 📝 **20 letter templates** — Widerruf Online-Kauf · Kündigung Mietvertrag · Einspruch Bußgeld · Widerspruch Nebenkosten · DSGVO-Auskunft · etc.
-- 📰 **Gesetz des Tages** + Reform-Diffs — daily highlight, week-old changes
-- ♿ **A11y** — A-/A+ text, darkmode, keyboard navigation, theme buttons over typing
-- 🌍 **6 UI languages** with on-the-fly answer translation
+1. **Open or import a matter**
+2. **Classify the mandate type** and load the relevant required-document checklist
+3. **Upload a document** and extract its text or OCR a scan
+4. **Research the legal issue** with hybrid retrieval and graph navigation
+5. **Verify every cited paragraph** against the local corpus
+6. **Generate a reviewable status update or document**
+7. **Require human approval** before external use
+8. **Record the action and evidence** in the audit trail
 
-### Top demanded letter templates (search volume / month)
-
-| Template | Searches/Mo |
-|---|---|
-| 🛒 Widerruf Online-Kauf | 40K |
-| 🔧 Reklamation | 25K |
-| 🏠 Kündigung Mietvertrag | 22K |
-| 🚗 Einspruch Bußgeld | 20K |
-| 💧 Widerspruch Nebenkosten | 18K |
-| + 15 more | 150K+ |
+This is the product boundary: GitLaw assists research and preparation. It does not make final legal decisions or communicate externally without review.
 
 ---
 
-## GitLaw Pro — closed-beta lawyer tier
+## Architecture
 
-Separate route at `/#/pro`, invite-token-gated, currently in active pilot.
+```text
+German federal laws + case-law sources
+               │
+               ▼
+       ingestion + normalization
+               │
+       ┌───────┴────────┐
+       ▼                ▼
+ BM25 / exact      FAISS vectors
+ retrieval         semantic search
+       └───────┬────────┘
+               ▼
+        hybrid ranker
+               │
+       citation graph lookup
+               │
+               ▼
+      local citation verifier
+               │
+       ┌───────┴────────┐
+       ▼                ▼
+ citizen interface   Pro workflows
+ React / TypeScript  case tools / exports
+       │                │
+       └───────┬────────┘
+               ▼
+       MCP tools + APIs + audit
+```
 
-### What it does
+### Core design choices
 
-| Area | Functionality |
-|---|---|
-| **Mandant:innen-Akten** | CRUD with §§ 187/188 BGB Frist-Tracker, auto-Frist after § 75 VwVfG, mandate-typed checklists, status workflow |
-| **11 Mandatsart-Checklisten** *(Sprint 1)* | 108 curated Pflicht-Items · status per item · "only missing required"-filter · Item-Description per item explains why needed |
-| **8-Stati-Workflow** *(Sprint 1)* | `unterlagen_fehlen` → `antrag_in_vorbereitung` → `antrag_eingereicht` → `behoerdliche_rueckmeldung_ausstehend` → `behoerde_nachforderung` → `termin_steht_aus` → `verfahren_abgeschlossen`, with transition rules |
-| **Sachstand-Generator DE+VI** *(Sprint 1)* | 32 templates auto-filled with Mandantenname, Behörde, Aktenzeichen, Frist · Mandant ↔ Mittelsperson toggle · DE ↔ VI toggle |
-| **Behörden-Combobox** *(Sprint 1)* | 17 Berliner migration agencies pre-filled (LEA, BAMF, VG Berlin, Botschaften Vietnam) |
-| **Heute-Widget** *(Sprint 1)* | Dashboard top: deadlines ≤14 days, Behörden-Rückfragen, missing required docs, red **Eilantrag-Eskalation** for 7-day cases |
-| **OCR-Drop-Zone** *(Sprint 1)* | PDF text-layer + OpenAI Vision for scans · keyword-match suggestions with DE/EN/VI aliases · auto-rename `Reisepass_Mandant_2026-05-06.pdf` · readability hint |
-| **Tasks pro Akte (Modul D)** *(Sprint 1)* | Auto-generation on status changes · 7 task types · "Behörde nachfassen 14 days after Antrag eingereicht" etc. |
-| **Akte-Zusammenfassung** *(Sprint 1)* | LLM summary with **§14-tabu prompt** — explicitly forbids Erfolgsprognosen, strategic decisions, contested authority/court communication |
-| **Recherche with 3-tier evidence** | KI-Antwort with verified citations + (1) curated BGH/BVerfG-Leitsätze (40) · (2) live OpenLegalData (150K+ Urteile) · (3) deep-links Beck/dejure/openjur |
-| **Anti-hallucination badges** | Same verifier as citizen-tier · 53/53 eval cases passing in CI |
-| **Word + branded PDF export** | Editable .docx with Briefkopf · PDF with verification status per citation · disclaimer footer |
-| **5-Rollen-RBAC** *(Sprint 1)* | Owner / Paralegal (Refa) / Assistant (Hilfskraft) / Member / Viewer · scope-restricted per role |
-| **DSGVO-Schutz-Modus** | 14 PII-pattern anonymizer + 50-token whitelist before any LLM call |
-| **CSV-Akten-Import** | DATEV / RA-Micro / advoware / Excel auto-column-detection |
-| **Cloud-Sync** | Tenant-bound, signed Pro-Session, Upstash Frankfurt |
-| **Audit-Log** | Lückenlos, BHV-tauglich PDF export |
-| **Mehrsprachiges Intake-Formular** | DE/VI/TR/AR/EN with triage block (Dringlichkeit + Frist + Anhang-Metadaten) |
-| **AVV-Vorlagen-Generator** | Auf eigenem Briefkopf |
-
-### Sprint 1 (May 2026, 8 days)
-
-Built between **2026-04-29** (Lastenheft received from pilot lawyer) and **2026-05-06** (today's pilot meeting). 88% of MVP requirements live, 100% by end of May. See [CHANGELOG.md](CHANGELOG.md) and [wiki/Features](wiki/Features.md) for the full liste.
+- **Retrieval is separated from generation.** Search can be inspected without trusting the model.
+- **Citation verification is local and deterministic.** A generated citation must resolve against the corpus.
+- **Structured outputs constrain legal workflow states.** Invalid enum values fail instead of becoming plausible text.
+- **Professional actions remain bounded.** No automatic court or authority communication.
+- **Failures stay visible.** Missing paragraphs, provider errors and schema mismatches are represented differently.
 
 ---
 
-## MCP Server — GitLaw as a tool for any LLM client
+## What I personally owned
 
-[![MCP CI](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml/badge.svg)](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml) [![Citation Eval: 53/53](https://img.shields.io/badge/citation_eval-53%2F53_(100%25)-brightgreen)](gitlaw_mcp/tests/cases.json) [![Transport: stdio + SSE](https://img.shields.io/badge/transport-stdio_%2B_SSE-blue)](gitlaw_mcp/README.md)
+I took GitLaw from an open-ended problem to a live, testable system and made the main product and engineering decisions across:
 
-The full corpus + citation verification is exposed as a [Model Context Protocol](https://modelcontextprotocol.io) server — Claude Desktop, Cursor, Continue, or your own agent can call GitLaw tools natively.
+- product scope for citizens and the law-firm pilot
+- statute ingestion and paragraph-level normalization
+- BM25 + FAISS hybrid retrieval
+- citation graph construction and navigation
+- deterministic citation verification
+- MCP tool contracts and transports
+- FastAPI / serverless API boundaries
+- React and TypeScript workflows
+- evaluation cases and CI checks
+- signed sessions, auditability and privacy boundaries
+- Vercel, Fly.io and AWS deployment paths
+
+I have not yet led a large engineering team or a mature enterprise rollout. GitLaw demonstrates **end-to-end ownership of a substantial product**, while the remaining production gaps are documented rather than disguised.
+
+---
+
+## Trust and evaluation
+
+A generated legal answer is useful only when the underlying evidence can be checked.
 
 ```python
-# An LLM calls verify_citation("§ 999 StGB")
+# Example MCP result
+verify_citation("§ 999 StGB")
+
 {
-  "verified": false,
-  "reason": "paragraph_not_found",
-  "law": { "name": "Strafgesetzbuch", "abbreviation": "StGB" },
-  "hint": "StGB exists, but '§ 999' was not found."
+    "verified": False,
+    "reason": "paragraph_not_found",
+    "law": {
+        "name": "Strafgesetzbuch",
+        "abbreviation": "StGB"
+    },
+    "hint": "StGB exists, but § 999 was not found."
 }
 ```
 
-**Six tools:**
-- `search_laws` — FAISS retrieval (98K vectors)
-- `verify_citation` — anti-hallucination with structured failure modes
-- `lookup_paragraph` — exact §-text retrieval
-- `list_laws` — corpus enumeration (4,852 abbreviations)
-- `find_related_paragraphs` — citation-graph traversal
-- `hybrid_search` — vector + graph combined
+The evaluation suite includes valid citations, missing paragraphs, repealed ranges and ambiguous forms. **53/53 hand-labelled cases currently pass in CI.**
 
-Plus the resource `gitlaw://law/{abbr}` for full law texts.
+Additional reliability measures include:
 
-**Three deploy paths:**
-- **stdio** local — Claude Desktop / Cursor / own agents ([setup](gitlaw_mcp/README.md))
-- **HTTP/SSE** on Fly.io Frankfurt — push-to-deploy ([`fly.toml`](fly.toml))
-- **AWS ECS Fargate** via Terraform — VPC + ALB + EFS + Secrets Manager + Autoscaling ([`deploy/aws/`](deploy/aws/README.md))
-
-Demo without an API key: `python -m gitlaw_mcp.demo`
+- JSON-schema validation for model outputs
+- retries with exponential backoff and jitter
+- separate validation errors and provider failures
+- token, cost, latency and request logging
+- PII minimization before model calls
+- role and human-review boundaries for professional workflows
 
 ---
 
-## Tech stack
+## GitLaw Pro
 
-| Layer | Stack |
-|---|---|
-| Frontend | React 19 + TypeScript + Vite + Tailwind 4, HashRouter, react-router-dom 7 |
-| Citizen RAG | LangChain + FAISS + BM25 hybrid retrieval, OpenAI Embeddings (`text-embedding-3-small`) |
-| Pro AI | OpenAI gpt-4o-mini with JSON-Schema structured outputs |
-| Pro backend | Vercel Serverless Functions + Upstash Redis (Frankfurt) + signed Pro sessions (HMAC-SHA256) |
-| Citation verification | Local lookup against 5,936 markdown files (`### § N` heading match) |
-| Knowledge graph | 94K paragraphs + 200K cross-references, sharded per-law as JSON |
-| MCP transport | stdio (local) + SSE (Fly.io) + ECS Fargate (AWS) |
-| PDF / Word | jsPDF (branded templates) + docx (editable export) |
-| Anonymizer | 14 regex PII patterns + 50 whitelist tokens |
-| Updates | GitHub Actions (weekly law + Leitsatz refresh via OpenAI structured outputs) |
-| Hosting | GitHub Pages (citizen) + Vercel + Upstash Frankfurt (Pro + APIs) |
-| Observability | JSON-structured logs per MCP tool call (request_id, latency_ms, status) — Datadog/Loki/Sentry-ready |
-| LLM gateway | Central `api/_llm.ts` with retries (408/429/5xx), exponential backoff + jitter, Retry-After parsing, Zod schema validation, `LLMValidationError` for schema mismatches vs. provider outages |
-| Cost tracking | Per-request usage (model, tokens, USD) logged to `llm_usage` table; aggregated views at `/api/admin/costs` for tenant-level dashboards |
-| RAG eval | `evals/run_rag_eval.py` — Retrieval@k + LLM-as-judge (faithfulness + relevance) on the citizen Q&A set |
+GitLaw Pro extends research into a case-bound workflow for law firms. The current beta includes:
+
+- mandate-specific checklists and required documents
+- deadline and status tracking
+- multilingual intake and status templates
+- OCR-assisted document handling
+- verified research inside a client matter
+- editable Word and branded PDF exports
+- role-based access and signed sessions
+- audit trails and privacy controls
+
+The complete feature inventory lives in [wiki/Features.md](wiki/Features.md). Keeping it there makes this README a product and engineering overview rather than a catalogue.
+
+---
+
+## MCP server
+
+The legal corpus and verification layer are exposed as Model Context Protocol tools:
+
+- `search_laws`
+- `hybrid_search`
+- `verify_citation`
+- `lookup_paragraph`
+- `find_related_paragraphs`
+- `list_laws`
+
+Supported paths:
+
+- local `stdio`
+- HTTP/SSE deployment
+- AWS ECS/Fargate reference deployment with Terraform
+
+Run the API-key-free demonstration:
+
+```bash
+python -m gitlaw_mcp.demo
+```
+
+See [gitlaw_mcp/README.md](gitlaw_mcp/README.md) for setup and tool schemas.
+
+---
+
+## Stack
+
+| Layer | Technology |
+| --- | --- |
+| Frontend | React 19 · TypeScript · Vite · Tailwind |
+| Retrieval | BM25 · FAISS · OpenAI embeddings |
+| Backend | FastAPI · Vercel serverless functions · Upstash Redis |
+| Agent interfaces | MCP · structured tool schemas |
+| Validation | Pydantic / JSON Schema · Zod |
+| Knowledge graph | 94K paragraph nodes · 200K references |
+| Deployment | GitHub Pages · Vercel · Fly.io · AWS ECS/Fargate · Terraform |
+| Reliability | CI evals · structured logs · retry policy · cost and latency tracking |
 
 ---
 
 ## Run locally
 
 ```bash
-# Citizen viewer
-cd viewer && npm install && npm run dev
-# → http://localhost:5173
+# Citizen interface
+cd viewer
+npm install
+npm run dev
 
-# Pro tier (same dev server, different route)
-# → http://localhost:5173/#/pro?invite=DEMO
-
-# API (Vercel functions, requires OPENAI_API_KEY in .env.local)
+# API and Pro workflows
 npx vercel dev
+
+# MCP demonstration without an API key
+python -m gitlaw_mcp.demo
 ```
 
-Full setup details: [wiki/Development](wiki/Development.md).
+Full instructions: [wiki/Development.md](wiki/Development.md)
 
 ---
 
-## Privacy & legal
+## Production boundaries
 
-- **Hosting durchgängig EU/Frankfurt:** Vercel + Upstash + Resend (planned)
-- **DSGVO-Anonymizer** before every LLM call (14 PII patterns + whitelist)
-- **OpenAI no-training:** org-setting + `X-No-Train` header
-- **Audit-Log:** lückenlos, BHV-tauglich PDF export
-- **Berufsgeheimnis (§ 43a BRAO):** architectural lock — no auto-send, every PDF has disclaimer footer
-- **AVV templates** for Mikel ↔ pilot firm and pilot firm ↔ clients
+Before broader professional deployment, GitLaw still requires:
 
-GitLaw is a research and template tool. **AI-generated answers and letters do not replace legal advice.** Every output requires Anwält:in review before use.
+- external security and privacy review
+- penetration testing
+- hardened multi-tenant authorization tests
+- operational monitoring and incident procedures
+- further user evaluation with legal professionals
+- clear contractual and data-processing agreements
 
-Full privacy concept and external-audit recommendations: [wiki/Legal-and-Privacy](wiki/Legal-and-Privacy.md).
-
----
-
-## Roadmap
-
-- [x] 5,936 laws indexed · 98K vectors · semantic search
-- [x] AI-explained paragraphs (112 §§) · 12 user profiles · 6 languages
-- [x] 20 citizen letter templates · 59 Pro templates (6 packs)
-- [x] **3-tier Rechtsprechung** (deep-links · 40 curated BGH/BVerfG-Leitsätze · OpenLegalData live)
-- [x] **GitLaw Pro Beta** — Akten · verified research · branded templates · Frist-Calc · Cloud-Sync · AVV
-- [x] **Migration-MVP Sprint 1** *(May 2026)* — 11 Mandatsart-Checklisten · 8-Stati-Workflow · Sachstand-Generator DE+VI · Behörden-DB · OCR-Drop-Zone · Tasks · 5-Rollen-RBAC · Akte-Zusammenfassung
-- [x] **MCP Server** — 6 tools · 3 deploy paths · 53/53 citation eval passing
-- [ ] **Sprint 2** *(June 2026)* — Auto-Erinnerungs-Engine · Refa-Freigabe · Resend EU integration
-- [ ] **Sprint 3** *(July 2026)* — Semantic OCR with gpt-4o-vision · Confidence-Scores · Background workers for large PDFs
-- [ ] **Sprint 4** *(August 2026)* — Mittelsperson data model · Vollmachts-Validierung · Magic-Link-Auth
-- [ ] **Phase 4** *(Q4 2026)* — Mandanten-Portal · external Pen-Test
-- [ ] **External DSGVO audit** before productive scaling
-- [ ] **Azure OpenAI EU-Region** for Großkanzlei AVV requirements
-
-Full roadmap: [wiki/Roadmap](wiki/Roadmap.md).
+GitLaw is a research and workflow tool. **It does not replace legal advice.** Professional outputs require review by a qualified lawyer.
 
 ---
 
-## Ecosystem — Open-Source Digital Democracy
+## Documentation
 
-This project is part of an open-source ecosystem for digital democracy:
-
-| Project | Question | Link |
-|---|---|---|
-| **FairEint** | What should Germany do differently? | [github.com/mikelninh/faireint](https://github.com/mikelninh/faireint) · [Live](https://mikelninh.github.io/faireint/) |
-| **GitLaw** | What does the law actually say? | [github.com/mikelninh/gitlaw](https://github.com/mikelninh/gitlaw) · [Live](https://gitlaw-xi.vercel.app/) |
-| **Public Money Mirror** | Where is the tax money going? | [github.com/mikelninh/Public-Money-Mirror](https://github.com/mikelninh/Public-Money-Mirror) |
-| **SafeVoice** | Who is being attacked online? | [github.com/mikelninh/safevoice](https://github.com/mikelninh/safevoice) |
-
-All projects: [github.com/mikelninh](https://github.com/mikelninh) · Support: [Ko-fi](https://ko-fi.com/mikel777) · [GitHub Sponsors](https://github.com/sponsors/mikelninh)
-
----
+- [Architecture](wiki/Architecture.md)
+- [Feature reference](wiki/Features.md)
+- [Privacy and legal boundaries](wiki/Legal-and-Privacy.md)
+- [Development guide](wiki/Development.md)
+- [Roadmap](wiki/Roadmap.md)
+- [Changelog](CHANGELOG.md)
 
 ## License
 
-**AGPL-3.0** for the entire repository.
-
-AGPL closes the SaaS loophole: anyone offering this software as a network service must publish their changes under the same license. For a legal-tech tool that protects long-term openness — nobody can take this code and ship it as a closed commercial fork.
-
-Commercial license without AGPL copyleft obligations: [mikel_ninh@yahoo.de](mailto:mikel_ninh@yahoo.de).
-
----
-
-## Contact
-
-- **Operator:** Mikel Ninh, Berlin · [mikel_ninh@yahoo.de](mailto:mikel_ninh@yahoo.de)
-- **Beta access GitLaw Pro:** same e-mail
-- **Job applications / portfolio context:** [`portfolio.html`](portfolio.html) — JD requirements mapped 1:1 to code paths
-
-> *„Demokratie sollte Open Source sein."*
+[AGPL-3.0](LICENSE)
