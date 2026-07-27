@@ -1,79 +1,121 @@
-# Roadmap
+# GitLaw Roadmap
 
-Where we are, where we're going.
+**Last updated: July 2026**
 
-## Now — May 2026
+GitLaw already has a live citizen research surface, a working legal-retrieval and citation-verification layer, MCP tools and a closed-beta professional workflow. The roadmap is therefore not “add more AI.” It is to prove usefulness with legal professionals and harden the system before broader production use.
 
-**Sprint 1 closing.** Built between 2026-04-29 and 2026-05-06 in collaboration with the pilot law firm (migration-focused practice, German + Vietnamese client base):
+## Current baseline
 
-- 11 Mandatsart-Checklisten + 8-state workflow + 32 bilingual templates — all live
-- OCR-Drop-Zone with auto-rename (beta) + Akte-Zusammenfassung with §14 tabu-prompt — live
-- 5-role MVP (Owner / Paralegal / Assistant / Member / Viewer) — live
-- Pilot meeting today 19:00 with three participants (founder + lawyer + project-manager friend)
+### Live and testable
 
-## Next 2 weeks (KW 19-20)
+- public citizen search across 5,936 German federal laws;
+- BM25, semantic and paragraph-reference retrieval;
+- citation graph and deterministic paragraph resolution;
+- six MCP search and verification tools;
+- CI evaluation with 53/53 hand-labelled citation-resolution cases passing;
+- closed-beta case workflow with checklists, documents, deadlines, templates and exports;
+- multilingual citizen and intake surfaces;
+- audit-oriented and human-review boundaries.
 
-- Voice-anchor session with pilot lawyer for Vietnamese template polish
-- Modul C — free Vietnamese research answers (gpt-4o-mini with VI system prompt + voice anchors)
-- Refa + Hilfskraft role-scope tightening if pilot brings personnel into the loop
-- AVV signature with pilot before any productive use of real client data
+### Not yet proven or production-complete
 
-## Next month (KW 21-23) — Sprint 2
+- the 53/53 suite is not a complete benchmark of legal-answer correctness;
+- the professional workflow has not been validated at scale across firms or legal domains;
+- external privacy/security review and penetration testing are not complete;
+- tenant isolation, incident response, backups and deletion processes require broader operational testing;
+- there is no claim of security certification or mature enterprise rollout.
 
-- **Auto-Erinnerungs-Engine** with Refa/Anwalt Freigabe-Stufe
-- E-mail provider integration (Resend EU domain verification, ~30 min setup)
-- Mandanten-Einwilligungs-Block in Intake-Formular (DSGVO precondition for auto-send)
-- KPI-Dashboard für Pilot-Auswertung (Erinnerungen verschickt, Sachstand-Klicks, Fristen-Quote)
+## Milestone 1 — Pilot evidence
 
-## Q3 2026 — Sprint 3
+**Goal:** establish whether GitLaw improves a real legal workflow rather than merely looking capable.
 
-- **Semantic OCR classification** with gpt-4o-vision (replaces current keyword-match beta)
-- Confidence-Score per classified document with sight-check markers
-- Background worker for large PDFs (> 10 pages, beats Vercel 10s limit)
-- Dubletten-Erkennung via SHA-256 hash + metadata match
+- define 3–5 high-frequency pilot tasks;
+- test with anonymized or synthetic matters before any real client data;
+- measure source-finding success, time-to-answer, correction rate and reviewer confidence;
+- record failures and disputed answers as evaluation cases;
+- verify Vietnamese and German workflow templates with the pilot practice;
+- document which features are genuinely used and which should be removed.
 
-## Q3-Q4 2026 — Sprint 4
+### Exit gate
 
-- **Mittelsperson-Datenmodell** — autorisierte Kontaktpersonen mit Vollmacht-Validierung
-- Eigener Auth-Flow für Mittelspersonen (Magic-Link via Resend EU)
-- Vollmachts-Upload + Rechte-Granularität pro Vollmacht
+- qualified reviewers complete the selected tasks;
+- material errors and uncertainty are captured visibly;
+- the pilot produces a prioritized, evidence-backed product decision.
 
-## Q4 2026 — Phase 4 (separater Track)
+## Milestone 2 — Authorization and privacy hardening
 
-- **Mandanten-Portal / App**
-  - Magic-Link-Auth via Resend EU
-  - Tenant-isolierte Mandanten-Sicht (nur eigene Akten sichtbar)
-  - Mobile-First UI für VI-Mandantschaft
-  - **Externer Pen-Test empfohlen** vor Live-Gang
-  - 8-12 Wochen ehrlich, nicht 4
+- expand tenant-isolation tests;
+- test every role boundary and privilege transition;
+- add explicit data-retention and deletion workflows;
+- validate document-access logs and export logs;
+- complete data-processing agreements before handling real client data;
+- run structured privacy and threat-model review.
 
-## 2027 — Sprint 5+
+### Exit gate
 
-- **Advoware-Integration** — Watch-Folder-Bridge oder Business-Connect-Modul (lizenzabhängig). Vollintegration nur falls Advoware kooperiert (~30% Wahrscheinlichkeit)
-- **Externes DSGVO-Audit** vor produktivem Skalierungs-Launch
-- **KPI-Auswertung** mit Phase-4-Daten — Mandanten-Login-Frequenz, Self-Service-Rate, Anrufreduktion
+- no cross-tenant access in automated and manual tests;
+- documented retention, deletion, backup and recovery behavior;
+- qualified review of privacy and professional-use boundaries.
 
-## Funding/business model
+## Milestone 3 — Reliability and operations
 
-- Pilot-Phase: 4 Wochen kostenlos, danach €149/RA/Monat Kanzlei-Tier
-- Mittelspersonen-Add-on: €+50/Monat ab Sprint 4
-- 60-Tage-Geld-zurück-Garantie wenn keine ≥ €1.000 Zeitersparnis
-- Open Source AGPL-3.0 — kein Vendor-Lock-in, jeder kann Code prüfen lassen
+- production monitoring and alerting;
+- request, tool, model and prompt version tracing;
+- latency and cost budgets;
+- retry, idempotency and provider-failure behavior;
+- backup restoration test;
+- incident runbook and responsible owner;
+- background processing for large documents.
+
+### Exit gate
+
+- operational failures are observable;
+- recovery procedures have been exercised;
+- critical workflows have documented fallbacks.
+
+## Milestone 4 — Broader evaluation
+
+- expand beyond citation resolution into retrieval relevance and answer support;
+- add adversarial and outdated-source cases;
+- test across multiple legal domains;
+- compare model-assisted and non-model workflows;
+- publish evaluation definitions and limitations.
+
+### Exit gate
+
+- agreed thresholds for citation precision, retrieval relevance and unsupported claims;
+- results reproducible in CI;
+- failure cases remain visible in the product.
+
+## Milestone 5 — Independent go-live review
+
+- external security review;
+- penetration test;
+- legal/privacy review of professional workflows;
+- contractual and data-processing documents;
+- controlled rollout with named support and incident responsibilities.
+
+Only after these gates should GitLaw Pro be described as production-ready for broader professional use.
 
 ## Citizen tier
 
-The citizen tier is donations-funded. Roadmap there is more conservative:
+The citizen interface remains free and public-interest oriented.
 
-- Auto-update der Leitsätze: weekly via GitHub Action — already live
-- More AI-explained paragraphs: 112 done, 200 by end of 2026
-- Mehrsprachige Erklärungen: currently DE + Leichte Sprache, planned: TR + AR + EN
+Priorities:
 
-## Year-out vision
+- keep the federal-law corpus current;
+- improve plain-language explanations without hiding the source;
+- expand accessibility and multilingual quality;
+- make unknown, changed and superseded material easier to recognize;
+- grow public evaluation cases and feedback loops.
 
-GitLaw becomes the open-source reference implementation for German RAG-grounded legal-tech:
+## Longer-term direction
 
-- 5K+ users on citizen tier (free legal info)
-- 50+ paying law firms on Pro tier (workflow tool)
-- MCP server adopted by 3+ AI agent vendors
-- DSGVO-Audit certified
-- Foundation for **Path to Peace** (war crimes documentation tool, similar architecture, German-criminal-law-aware Strafanzeige builder) — separate project, shares the legal corpus + RAG stack
+GitLaw can become an open reference implementation for inspectable German legal AI:
+
+- public legal research for citizens;
+- reviewable workflows for legal professionals;
+- reusable MCP tools for other trustworthy products;
+- shared source and verification infrastructure for projects such as PrüfPilot and Path to Peace.
+
+The product earns trust through evidence, boundaries and correction—not through the number of features listed in a roadmap.
