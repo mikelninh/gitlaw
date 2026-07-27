@@ -1,88 +1,66 @@
 # GitLaw ⚖️
 
-**Verified legal AI for citizens and law firms — grounded in 5,936 German federal laws.**
+**Verified legal research and workflow infrastructure grounded in 5,936 German federal laws.**
 
-GitLaw combines hybrid retrieval, a citation graph, local source verification and human review. The goal is not to make legal AI sound confident. The goal is to make useful answers inspectable.
+GitLaw helps citizens and legal professionals find the relevant source, inspect why it was retrieved and notice when the system is uncertain. It combines hybrid retrieval, a paragraph-level citation graph, deterministic citation checks, APIs, MCP tools and human-reviewable workflows.
 
-[![Citation eval: 53/53](https://img.shields.io/badge/citation_eval-53%2F53-brightgreen)](gitlaw_mcp/tests/cases.json)
+[![Citation resolution eval: 53/53](https://img.shields.io/badge/citation_resolution-53%2F53-brightgreen)](gitlaw_mcp/tests/cases.json)
 [![MCP CI](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml/badge.svg)](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml)
 [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue)](LICENSE)
 
-| Explore | Link |
-| --- | --- |
-| **Citizen app** | [gitlaw-xi.vercel.app](https://gitlaw-xi.vercel.app/) · [GitHub Pages](https://mikelninh.github.io/gitlaw/) |
-| **GitLaw Pro** | Closed beta workflow tier for law firms |
-| **Recruiter map** | [`portfolio.html`](portfolio.html) — capabilities mapped to code paths |
-| **Technical docs** | [Architecture](wiki/Architecture.md) · [Features](wiki/Features.md) · [Privacy](wiki/Legal-and-Privacy.md) · [Development](wiki/Development.md) |
+## Explore
 
-> Solo-built by [Mikel Ninh](https://github.com/mikelninh) in Berlin. Open source where it improves trust; closed-beta workflows are being tested with a Berlin migration-law firm.
-
----
-
-## The problem
-
-German law is public, but it is not easy to navigate. Search is fragmented, references point across thousands of statutes, and generated answers can create dangerous certainty when a paragraph is missing, repealed or misquoted.
-
-GitLaw treats **evidence and failure states as product features**:
-
-- exact paragraph lookup before a citation is accepted
-- BM25 for legal terms and paragraph references
-- semantic retrieval for natural-language questions
-- graph traversal across cited and related provisions
-- explicit `verified`, `unknown` and `superseded` states
-- human review before professional outputs are used
-
----
-
-## What works today
-
-| Surface | Current capability | Status |
+| Surface | Link | Honest status |
 | --- | --- | --- |
-| **Citizen research** | Search and navigate 5,936 federal laws with hybrid retrieval and related-paragraph graph links | Live |
-| **Verified explanations** | Plain-language answers whose legal citations are checked against the local corpus | Live |
-| **MCP server** | Six legal research and verification tools over stdio and HTTP/SSE | Live |
-| **GitLaw Pro** | Case workflows, mandate checklists, deadlines, multilingual status templates, reviewable exports and audit trails | Closed beta / pilot |
-| **Cloud multi-tenancy** | Signed sessions, role boundaries and Frankfurt-hosted workflow data | Pilot architecture |
-| **Scaled production use** | External security review, penetration testing and operational hardening | Not complete |
+| **Citizen app** | [Live app](https://gitlaw-xi.vercel.app/) · [GitHub Pages](https://mikelninh.github.io/gitlaw/) | Public research interface |
+| **Source code** | [GitHub repository](https://github.com/mikelninh/gitlaw) | Public, AGPL-3.0 |
+| **GitLaw Pro** | Closed-beta workflow tier | Pilot, not general production |
+| **MCP server** | [`gitlaw_mcp/`](gitlaw_mcp/) | Working stdio and HTTP/SSE tools |
+| **Architecture** | [`wiki/Architecture.md`](wiki/Architecture.md) | Technical design and boundaries |
+| **Roadmap** | [`wiki/Roadmap.md`](wiki/Roadmap.md) | Current next steps and go-live gates |
 
-This distinction is deliberate: **live**, **pilot** and **not yet production-ready** are not treated as the same thing.
+## Current state — July 2026
 
----
+| Area | What works today | Boundary |
+| --- | --- | --- |
+| **Legal corpus** | 5,936 federal laws, paragraph-level normalization and cross-reference graph | Federal corpus only; source freshness must remain monitored |
+| **Research** | Exact lookup, BM25, semantic retrieval and related-paragraph navigation | Retrieval support, not legal advice |
+| **Citation verification** | Generated paragraph references can be resolved against the local corpus | `53/53` measures citation resolution cases, **not complete legal-answer accuracy** |
+| **Citizen experience** | Public search and explanation interface, with multiple UI languages | Explanations require source inspection and may still be incomplete |
+| **MCP and APIs** | Six legal search and verification tools | Consumers must preserve uncertainty and source metadata |
+| **GitLaw Pro** | Case checklists, document handling, deadlines, templates, exports and audit-oriented workflows | Closed beta; no claim of mature enterprise deployment |
+| **Security and operations** | Signed-session and role-boundary architecture exists | External security review, penetration testing and operational hardening remain open |
+
+> **Portfolio claim:** GitLaw is a substantial, live and testable solo-built system with a real pilot context. It is not yet a security-certified, scaled legal SaaS product.
 
 ## Proof at a glance
 
-| | |
-| --- | --- |
+| Metric | Current repository claim |
+| --- | ---: |
 | Federal laws indexed | **5,936** |
-| Legal paragraphs / graph nodes | **94,178** |
+| Paragraph / graph nodes | **94,178** |
 | Cross-references | **200,464** |
 | FAISS vectors | **98,367** |
-| Citation evaluation | **53/53 hand-labelled cases passing in CI** |
+| Hand-labelled citation-resolution cases passing | **53/53** |
 | Curated high-court principles | **40** |
-| Searchable decisions | **150K+** via OpenLegalData |
-| Citizen UI languages | **6** |
-| Pro intake languages | **5** |
+| Searchable decisions via OpenLegalData | **150K+** |
 
-Metrics are useful only when they support a real workflow. The central question remains: **can a user reach the right source, understand what is known and notice when the system is unsure?**
+Metrics are useful only when they support a real workflow. The important question is whether a user can reach the right source, understand what is known and see when the system cannot verify a claim.
 
----
-
-## One end-to-end workflow
+## What the product does
 
 A professional workflow can move through GitLaw like this:
 
-1. **Open or import a matter**
-2. **Classify the mandate type** and load the relevant required-document checklist
-3. **Upload a document** and extract its text or OCR a scan
-4. **Research the legal issue** with hybrid retrieval and graph navigation
-5. **Verify every cited paragraph** against the local corpus
-6. **Generate a reviewable status update or document**
-7. **Require human approval** before external use
-8. **Record the action and evidence** in the audit trail
+1. Open or import a matter.
+2. Load the relevant checklist and required-document structure.
+3. Extract text from supplied documents.
+4. Research the issue with hybrid retrieval and graph navigation.
+5. Resolve every cited paragraph against the corpus.
+6. Prepare an editable status update or document.
+7. Require qualified human review before external use.
+8. Record the action and supporting evidence.
 
-This is the product boundary: GitLaw assists research and preparation. It does not make final legal decisions or communicate externally without review.
-
----
+GitLaw assists research and preparation. It does **not** make final legal decisions or communicate externally without review.
 
 ## Architecture
 
@@ -90,7 +68,7 @@ This is the product boundary: GitLaw assists research and preparation. It does n
 German federal laws + case-law sources
                │
                ▼
-       ingestion + normalization
+      ingestion + normalization
                │
        ┌───────┴────────┐
        ▼                ▼
@@ -108,95 +86,22 @@ German federal laws + case-law sources
        ┌───────┴────────┐
        ▼                ▼
  citizen interface   Pro workflows
- React / TypeScript  case tools / exports
+ React / TypeScript  cases / exports
        │                │
        └───────┬────────┘
                ▼
        MCP tools + APIs + audit
 ```
 
-### Core design choices
+Core choices:
 
-- **Retrieval is separated from generation.** Search can be inspected without trusting the model.
-- **Citation verification is local and deterministic.** A generated citation must resolve against the corpus.
-- **Structured outputs constrain legal workflow states.** Invalid enum values fail instead of becoming plausible text.
-- **Professional actions remain bounded.** No automatic court or authority communication.
-- **Failures stay visible.** Missing paragraphs, provider errors and schema mismatches are represented differently.
+- Retrieval is inspectable separately from generation.
+- Citation verification is local and deterministic.
+- Structured outputs constrain workflow states.
+- Missing, unknown and superseded sources remain visible.
+- Professional outputs stay behind human review.
 
----
-
-## What I personally owned
-
-I took GitLaw from an open-ended problem to a live, testable system and made the main product and engineering decisions across:
-
-- product scope for citizens and the law-firm pilot
-- statute ingestion and paragraph-level normalization
-- BM25 + FAISS hybrid retrieval
-- citation graph construction and navigation
-- deterministic citation verification
-- MCP tool contracts and transports
-- FastAPI / serverless API boundaries
-- React and TypeScript workflows
-- evaluation cases and CI checks
-- signed sessions, auditability and privacy boundaries
-- Vercel, Fly.io and AWS deployment paths
-
-I have not yet led a large engineering team or a mature enterprise rollout. GitLaw demonstrates **end-to-end ownership of a substantial product**, while the remaining production gaps are documented rather than disguised.
-
----
-
-## Trust and evaluation
-
-A generated legal answer is useful only when the underlying evidence can be checked.
-
-```python
-# Example MCP result
-verify_citation("§ 999 StGB")
-
-{
-    "verified": False,
-    "reason": "paragraph_not_found",
-    "law": {
-        "name": "Strafgesetzbuch",
-        "abbreviation": "StGB"
-    },
-    "hint": "StGB exists, but § 999 was not found."
-}
-```
-
-The evaluation suite includes valid citations, missing paragraphs, repealed ranges and ambiguous forms. **53/53 hand-labelled cases currently pass in CI.**
-
-Additional reliability measures include:
-
-- JSON-schema validation for model outputs
-- retries with exponential backoff and jitter
-- separate validation errors and provider failures
-- token, cost, latency and request logging
-- PII minimization before model calls
-- role and human-review boundaries for professional workflows
-
----
-
-## GitLaw Pro
-
-GitLaw Pro extends research into a case-bound workflow for law firms. The current beta includes:
-
-- mandate-specific checklists and required documents
-- deadline and status tracking
-- multilingual intake and status templates
-- OCR-assisted document handling
-- verified research inside a client matter
-- editable Word and branded PDF exports
-- role-based access and signed sessions
-- audit trails and privacy controls
-
-The complete feature inventory lives in [wiki/Features.md](wiki/Features.md). Keeping it there makes this README a product and engineering overview rather than a catalogue.
-
----
-
-## MCP server
-
-The legal corpus and verification layer are exposed as Model Context Protocol tools:
+## MCP tools
 
 - `search_laws`
 - `hybrid_search`
@@ -205,36 +110,53 @@ The legal corpus and verification layer are exposed as Model Context Protocol to
 - `find_related_paragraphs`
 - `list_laws`
 
-Supported paths:
-
-- local `stdio`
-- HTTP/SSE deployment
-- AWS ECS/Fargate reference deployment with Terraform
-
 Run the API-key-free demonstration:
 
 ```bash
 python -m gitlaw_mcp.demo
 ```
 
-See [gitlaw_mcp/README.md](gitlaw_mcp/README.md) for setup and tool schemas.
+See [`gitlaw_mcp/README.md`](gitlaw_mcp/README.md) for setup and schemas.
 
----
+## What I personally owned
+
+I took GitLaw from an open-ended problem to a live system and made the main product and engineering decisions across:
+
+- corpus ingestion and paragraph normalization;
+- BM25 + FAISS hybrid retrieval;
+- citation graph construction;
+- deterministic citation verification;
+- MCP contracts and transports;
+- FastAPI / serverless boundaries;
+- React and TypeScript interfaces;
+- evaluations and CI checks;
+- auditability, privacy and human-review boundaries;
+- multiple deployment paths.
+
+I have not yet led a mature enterprise rollout or large engineering team. GitLaw demonstrates end-to-end ownership of a substantial product while keeping the remaining gaps explicit.
+
+## Next milestones
+
+1. **Pilot evaluation:** measure task success and citation usefulness with legal professionals on anonymized matters.
+2. **Authorization hardening:** expand tenant-isolation and role-boundary tests.
+3. **Operational readiness:** monitoring, incident procedures, deletion workflows and backup validation.
+4. **Independent review:** external privacy/security review and penetration test before broader professional use.
+5. **Evidence quality:** grow the retrieval and answer-evaluation corpus beyond citation resolution alone.
+
+The detailed plan and go-live gates live in [`wiki/Roadmap.md`](wiki/Roadmap.md).
 
 ## Stack
 
 | Layer | Technology |
 | --- | --- |
 | Frontend | React 19 · TypeScript · Vite · Tailwind |
-| Retrieval | BM25 · FAISS · OpenAI embeddings |
-| Backend | FastAPI · Vercel serverless functions · Upstash Redis |
+| Retrieval | BM25 · FAISS · embeddings |
+| Backend | FastAPI · serverless functions · Redis |
 | Agent interfaces | MCP · structured tool schemas |
 | Validation | Pydantic / JSON Schema · Zod |
 | Knowledge graph | 94K paragraph nodes · 200K references |
-| Deployment | GitHub Pages · Vercel · Fly.io · AWS ECS/Fargate · Terraform |
-| Reliability | CI evals · structured logs · retry policy · cost and latency tracking |
-
----
+| Deployment | GitHub Pages · Vercel · Fly.io · AWS reference path |
+| Reliability | CI evals · structured logs · retries · cost and latency tracking |
 
 ## Run locally
 
@@ -247,28 +169,24 @@ npm run dev
 # API and Pro workflows
 npx vercel dev
 
-# MCP demonstration without an API key
+# MCP demonstration
 python -m gitlaw_mcp.demo
 ```
 
-Full instructions: [wiki/Development.md](wiki/Development.md)
+Full instructions: [`wiki/Development.md`](wiki/Development.md)
 
----
-
-## Production boundaries
+## Production gates
 
 Before broader professional deployment, GitLaw still requires:
 
-- external security and privacy review
-- penetration testing
-- hardened multi-tenant authorization tests
-- operational monitoring and incident procedures
-- further user evaluation with legal professionals
-- clear contractual and data-processing agreements
+- external security and privacy review;
+- penetration testing;
+- hardened multi-tenant authorization tests;
+- operational monitoring and incident procedures;
+- broader evaluation with qualified legal professionals;
+- clear contractual and data-processing agreements.
 
 GitLaw is a research and workflow tool. **It does not replace legal advice.** Professional outputs require review by a qualified lawyer.
-
----
 
 ## Documentation
 
@@ -278,6 +196,8 @@ GitLaw is a research and workflow tool. **It does not replace legal advice.** Pr
 - [Development guide](wiki/Development.md)
 - [Roadmap](wiki/Roadmap.md)
 - [Changelog](CHANGELOG.md)
+
+Solo-built by [Michael Ninh](https://github.com/mikelninh) in Berlin.
 
 ## License
 
