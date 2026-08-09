@@ -1,0 +1,11 @@
+{
+  "id": "001-core-law-prior",
+  "date": "2026-08-09",
+  "hypothesis": "For broad citizen-law questions, core codices should rank above niche or legacy lexical lookalikes when both are already present in the retrieved candidate set.",
+  "mutation": "stable post-retrieval core-law prior; no access to gold citations or expected sources",
+  "baseline": {"hit@1": 0.25, "hit@3": 0.55, "hit@5": 0.65, "mrr@5": 0.406},
+  "candidate": {"hit@1": 0.40, "hit@3": 0.60, "hit@5": 0.65, "mrr@5": 0.496},
+  "hard_gate": "source recall@5 must not regress",
+  "decision": "KEEP",
+  "next_failure": "Recall@5 is still only 0.65; next experiments should improve candidate generation rather than further reranking."
+}
