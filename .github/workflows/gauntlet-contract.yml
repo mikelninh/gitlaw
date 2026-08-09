@@ -25,3 +25,7 @@ jobs:
           assert not set(p['mutable']) & set(p['forbidden']), 'mutable and forbidden overlap'
           print('Gauntlet contract OK:', p['system'])
           PY
+      - name: Replay frozen retrieval baseline
+        run: python gauntlet/run_retrieval_gauntlet.py
+      - name: Test one ranking mutation
+        run: python gauntlet/run_retrieval_gauntlet.py --mutation core-law-prior
