@@ -8,17 +8,16 @@ import MandantApp from './mandant/MandantApp.tsx'
 import IntakeForm from './pro/IntakeForm.tsx'
 import WelcomePersonal from './pro/WelcomePersonal.tsx'
 import ProPricing from './pro/ProPricing.tsx'
+import MietrechtResearchDesk from './MietrechtResearchDesk.tsx'
 
 /**
  * Top-level router (HashRouter — works on GitHub Pages without SPA fallback).
  *   /#/                        → citizen App (default)
+ *   /#/mietrecht              → public real-input Mietrecht research pilot
  *   /#/pro/*                   → Anwält:innen Pro tier (invite-gated)
  *   /#/intake/:slug            → Mandant:innen-Fragebogen (öffentlich)
  *   /#/preise                  → Pricing-Page (öffentlich)
  *   /#/{persona-slug}          → Personalized welcome (bao/rubin/werner/jasmin)
- *
- * Welcome-Pages stehen auf top-level damit die Shorter-URLs funktionieren:
- *   gitlaw-xi.vercel.app/#/bao   ← statt /pro/bao
  */
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -29,6 +28,7 @@ createRoot(document.getElementById('root')!).render(
         <Routes>
           <Route path="/intake/:slug" element={<IntakeForm />} />
           <Route path="/preise" element={<PricingShell />} />
+          <Route path="/mietrecht" element={<MietrechtResearchDesk />} />
           {/* Personalized welcome routes — public, no auth */}
           <Route path="/bao" element={<WelcomePersonal personaSlug="bao" />} />
           <Route path="/rubin" element={<WelcomePersonal personaSlug="rubin" />} />

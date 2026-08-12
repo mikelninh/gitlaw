@@ -11,8 +11,11 @@
   --color-gold: #C08B20;
   --color-gold-light: #F5ECD7;
   --color-green: #1B7A40;
+  --color-green-light: #EAF5EE;
   --color-blue: #2870B0;
   --color-blue-light: #E8F0F8;
+  --color-red: #B3261E;
+  --color-red-light: #FDECEA;
   /* Danger: ein eigener Token, nicht Tailwind-rot. Material-700, ernsthaft, nicht panisch. */
   --color-danger: #B3261E;
   --color-danger-bg: #FDECEA;
