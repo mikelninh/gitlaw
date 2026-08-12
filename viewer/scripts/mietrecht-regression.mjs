@@ -26,6 +26,10 @@ function normalize(text) {
     .trim()
 }
 
+function termMatches(question, term) {
+  return ` ${normalize(question)} `.includes(` ${normalize(term)} `)
+}
+
 function quotedStrings(text) {
   return [...text.matchAll(/['"]([^'"]+)['"]/g)].map(match => match[1])
 }
@@ -54,8 +58,7 @@ function parseTopics(ts) {
 }
 
 function matchTopics(question, topics) {
-  const q = normalize(question)
-  return topics.filter(topic => topic.terms.some(term => q.includes(normalize(term))))
+  return topics.filter(topic => topic.terms.some(term => termMatches(question, term)))
 }
 
 function routedSections(matched) {
@@ -110,7 +113,8 @@ for (const testCase of cases) {
 }
 
 console.table(rows)
-console.log(`\nMietrecht routing regression: ${cases.length - new Set(failures.map(line => line.split(':')[0])).size}/${cases.length} cases without routing failures.`)
+const failedCaseIds = new Set(failures.map(line => line.split(':')[0]))
+console.log(`\nMietrecht routing regression: ${cases.length - failedCaseIds.size}/${cases.length} cases without routing failures.`)
 console.log(`Cases flagged as needing case-law / fact review: ${cases.filter(row => row.needsCaseLaw).length}/${cases.length}.`)
 
 if (failures.length) {
