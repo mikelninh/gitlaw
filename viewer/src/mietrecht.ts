@@ -44,17 +44,73 @@ interface TopicHint {
   sections: string[]
 }
 
+// The order of sections is intentional: core rule first, then procedure / protection.
+// These are routing hints, not a claim that every listed section applies to every case.
 const topicHints: TopicHint[] = [
-  { id: 'rent-increase', label: 'Mieterhöhung', terms: ['mieterhöhung', 'mieterhoehung', 'miete erhöhen', 'miete erhoehen', 'mietspiegel', 'vergleichsmiete'], sections: ['558', '558a', '558b', '558c', '558d'] },
-  { id: 'own-use', label: 'Eigenbedarf und Kündigungsschutz', terms: ['eigenbedarf', 'eigenbedarfskündigung', 'eigenbedarfskuendigung'], sections: ['573', '573c', '574', '574a', '574b'] },
-  { id: 'deposit', label: 'Mietkaution', terms: ['kaution', 'mietkaution', 'kaution zurück', 'kaution zurueck'], sections: ['551'] },
-  { id: 'defect', label: 'Mangel und Mietminderung', terms: ['mietminderung', 'mangel', 'schimmel', 'heizung', 'warmwasser', 'wasserschaden', 'miete kürzen', 'miete kuerzen'], sections: ['535', '536', '536a', '536b', '536c'] },
-  { id: 'service-charge', label: 'Betriebs- und Nebenkosten', terms: ['nebenkosten', 'betriebskosten', 'nebenkostenabrechnung', 'betriebskostenabrechnung'], sections: ['556', '556a', '556b', '556c'] },
-  { id: 'termination', label: 'Kündigung des Mietverhältnisses', terms: ['kündigung', 'kuendigung', 'kündigen', 'kuendigen', 'rauswerfen', 'rausschmeißen', 'rausschmeissen'], sections: ['568', '569', '573', '573c', '574'] },
-  { id: 'modernisation', label: 'Modernisierung', terms: ['modernisierung', 'modernisieren', 'sanierung', 'energetisch'], sections: ['555b', '555c', '559', '559a', '559b'] },
-  { id: 'sublet', label: 'Untervermietung', terms: ['untervermietung', 'untervermieten', 'untermieter', 'wg zimmer', 'wg-zimmer'], sections: ['540', '553'] },
-  { id: 'rent-brake', label: 'Mietpreisbremse', terms: ['mietpreisbremse', 'zu hohe miete', 'anfangsmiete'], sections: ['556d', '556e', '556f', '556g'] },
-  { id: 'payment', label: 'Mietzahlung', terms: ['miete zahlen', 'mietrückstand', 'mietrueckstand', 'zahlungsverzug'], sections: ['556b', '543', '569'] },
+  {
+    id: 'rent-increase',
+    label: 'Mieterhöhung',
+    terms: [
+      'mieterhöhung', 'mieterhoehung', 'miete erhöhen', 'miete erhoehen',
+      'erhöhen', 'erhoehen', 'erhöht', 'erhoeht', 'kappungsgrenze',
+      'mietspiegel', 'vergleichsmiete', '20 %', '20 prozent',
+    ],
+    sections: ['558', '558a', '558b', '558c', '558d'],
+  },
+  {
+    id: 'own-use',
+    label: 'Eigenbedarf und Kündigungsschutz',
+    terms: ['eigenbedarf', 'eigenbedarfskündigung', 'eigenbedarfskuendigung'],
+    sections: ['573', '573c', '574', '574a', '574b'],
+  },
+  {
+    id: 'deposit',
+    label: 'Mietkaution',
+    terms: ['kaution', 'mietkaution', 'mietsicherheit', 'kaution zurück', 'kaution zurueck'],
+    sections: ['551'],
+  },
+  {
+    id: 'defect',
+    label: 'Mangel und Mietminderung',
+    terms: ['mietminderung', 'mangel', 'schimmel', 'heizung', 'warmwasser', 'wasserschaden', 'miete kürzen', 'miete kuerzen'],
+    sections: ['535', '536', '536a', '536b', '536c'],
+  },
+  {
+    id: 'service-charge',
+    label: 'Betriebs- und Nebenkosten',
+    terms: ['nebenkosten', 'betriebskosten', 'nebenkostenabrechnung', 'betriebskostenabrechnung'],
+    sections: ['556', '556a', '556b', '556c'],
+  },
+  {
+    id: 'termination',
+    label: 'Kündigung des Mietverhältnisses',
+    terms: ['kündigung', 'kuendigung', 'kündigen', 'kuendigen', 'gekündigt', 'gekuendigt', 'rauswerfen', 'rausschmeißen', 'rausschmeissen'],
+    sections: ['568', '569', '573', '573c', '574'],
+  },
+  {
+    id: 'modernisation',
+    label: 'Modernisierung',
+    terms: ['modernisierung', 'modernisieren', 'sanierung', 'energetisch'],
+    sections: ['555b', '555c', '559', '559a', '559b'],
+  },
+  {
+    id: 'sublet',
+    label: 'Untervermietung',
+    terms: ['untervermietung', 'untervermieten', 'untermieter', 'wg zimmer', 'wg-zimmer'],
+    sections: ['540', '553'],
+  },
+  {
+    id: 'rent-brake',
+    label: 'Mietpreisbremse',
+    terms: ['mietpreisbremse', 'zu hohe miete', 'anfangsmiete', 'mietbeginn'],
+    sections: ['556d', '556e', '556f', '556g'],
+  },
+  {
+    id: 'payment',
+    label: 'Mietzahlung',
+    terms: ['miete zahlen', 'mietrückstand', 'mietrueckstand', 'zahlungsverzug'],
+    sections: ['556b', '543', '569'],
+  },
 ]
 
 function normalize(text: string) {
@@ -64,6 +120,9 @@ function normalize(text: string) {
     .replace(/ö/g, 'oe')
     .replace(/ü/g, 'ue')
     .replace(/ß/g, 'ss')
+    .replace(/[^a-z0-9%]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
 }
 
 function cleanMarkdown(text: string) {
@@ -183,6 +242,17 @@ function buildLimitations(question: string, topics: TopicHint[]): string[] {
   return limits
 }
 
+function orderedPreferredBlocks(blocks: BgbBlock[], topics: TopicHint[]) {
+  const bySection = new Map(blocks.map(block => [block.sectionNumber, block]))
+  const orderedNumbers = topics
+    .flatMap(topic => topic.sections.map(section => section.toLowerCase()))
+    .filter((section, index, all) => all.indexOf(section) === index)
+
+  return orderedNumbers
+    .map(section => bySection.get(section))
+    .filter((block): block is BgbBlock => Boolean(block))
+}
+
 export async function retrieveMietrechtSources(question: string): Promise<{
   sources: MietrechtSource[]
   retrievalSignal: 'strong' | 'mixed' | 'weak'
@@ -190,36 +260,44 @@ export async function retrieveMietrechtSources(question: string): Promise<{
 }> {
   const blocks = await loadBgbBlocks()
   const topics = matchedTopics(question)
-  const preferredNumbers = new Set(topics.flatMap(topic => topic.sections).map(section => section.toLowerCase()))
 
-  const preferred = blocks.filter(block => preferredNumbers.has(block.sectionNumber))
-  const fuse = new Fuse(blocks, {
-    keys: [{ name: 'section', weight: 0.35 }, { name: 'text', weight: 0.65 }],
-    includeScore: true,
-    threshold: 0.55,
-    ignoreLocation: true,
-    minMatchCharLength: 3,
-  })
+  // Real-user lesson #1: if we know the legal topic, do not pad the answer with
+  // fuzzy-but-irrelevant sections just to display five sources. Precision first.
+  let selected: BgbBlock[] = []
+  if (topics.length > 0) {
+    selected = orderedPreferredBlocks(blocks, topics).slice(0, 5)
+  } else {
+    const fuse = new Fuse(blocks, {
+      keys: [{ name: 'section', weight: 0.35 }, { name: 'text', weight: 0.65 }],
+      includeScore: true,
+      threshold: 0.38,
+      ignoreLocation: true,
+      minMatchCharLength: 4,
+    })
 
-  const fuzzy = fuse.search(question).slice(0, 8).map(result => result.item)
-  const combined = [...preferred, ...fuzzy]
-    .filter((item, index, all) => all.findIndex(candidate => candidate.sectionNumber === item.sectionNumber) === index)
-    .slice(0, 5)
+    // Unknown topic: only keep genuinely close fuzzy results and show at most 3.
+    selected = fuse.search(question)
+      .filter(result => (result.score ?? 1) <= 0.38)
+      .slice(0, 3)
+      .map(result => result.item)
+  }
 
-  const sources = combined.map(block => {
+  const sources = selected.map(block => {
     const directTopic = topics.find(topic => topic.sections.some(section => section.toLowerCase() === block.sectionNumber))
     return {
       law: block.law,
       section: block.section,
       excerpt: block.text.slice(0, 760),
-      reason: directTopic ? `Direkter Themen-Treffer: ${directTopic.label}` : 'Textähnlichkeit zwischen deiner Frage und dieser BGB-Stelle',
+      reason: directTopic
+        ? `Direkter Themen-Treffer: ${directTopic.label}`
+        : 'Textähnlichkeit zwischen deiner Frage und dieser BGB-Stelle',
       officialUrl: officialUrl(block.sectionNumber),
     }
   })
 
   return {
     sources,
-    retrievalSignal: topics.length > 0 && sources.length >= 2 ? 'strong' : sources.length >= 2 ? 'mixed' : 'weak',
+    retrievalSignal: topics.length > 0 && sources.length > 0 ? 'strong' : sources.length > 0 ? 'mixed' : 'weak',
     limitations: buildLimitations(question, topics),
   }
 }
