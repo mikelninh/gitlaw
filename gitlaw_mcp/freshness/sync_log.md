@@ -90,3 +90,14 @@ Daily HEAD-check against gesetze-im-internet.de. Each section below lists laws t
 - **SGB X** — upstream `Last-Modified: Tue, 28 Jul 2026 19:55:35 GMT` (ETag `"ed00-657b138deb…`, was `"ed25-656330240f…`)
 - **SGB XI** — upstream `Last-Modified: Wed, 29 Jul 2026 19:55:16 GMT` (ETag `"304cc-657c55592…`, was `"30481-656330219…`)
 - **SGB XII** — upstream `Last-Modified: Fri, 31 Jul 2026 19:55:18 GMT` (ETag `"14d87-657ed9162…`, was `"14d61-6557df761…`)
+
+## 2026-08-12T06:43:33+00:00
+
+6 laws drifted upstream since last sync:
+
+- **AO** — upstream `Last-Modified: Mon, 10 Aug 2026 20:00:05 GMT` (ETag `"3325b-658b6cce9…`, was `"33295-656330138…`)
+- **AufenthG** — upstream `Last-Modified: Mon, 10 Aug 2026 20:00:14 GMT` (ETag `"2870c-658b6cd76…`, was `"2861b-657d972eb…`)
+- **SGB IV** — upstream `Last-Modified: Tue, 04 Aug 2026 19:55:29 GMT` (ETag `"1e167-6583e0971…`, was `"1df15-657c555fc…`)
+- **SGB V** — upstream `Last-Modified: Mon, 10 Aug 2026 20:00:10 GMT` (ETag `"98397-658b6cd33…`, was `"97fbf-657c5553c…`)
+- **SGB VI** — upstream `Last-Modified: Thu, 06 Aug 2026 19:55:10 GMT` (ETag `"416b0-6586643f1…`, was `"41582-657c555e1…`)
+- **SGB XI** — upstream `Last-Modified: Tue, 04 Aug 2026 19:55:21 GMT` (ETag `"3048a-6583e08f6…`, was `"304cc-657c55592…`)
