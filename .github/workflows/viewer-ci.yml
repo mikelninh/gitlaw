@@ -5,6 +5,7 @@ on:
     paths:
       - 'viewer/**'
       - 'api/**'
+      - 'laws/bgb.md'
       - '.github/workflows/viewer-ci.yml'
   push:
     branches:
@@ -12,6 +13,7 @@ on:
     paths:
       - 'viewer/**'
       - 'api/**'
+      - 'laws/bgb.md'
       - '.github/workflows/viewer-ci.yml'
 
 jobs:
@@ -28,6 +30,9 @@ jobs:
       - name: Install viewer dependencies
         working-directory: viewer
         run: npm install --no-audit --no-fund
+      - name: Run Mietrecht regression
+        working-directory: viewer
+        run: node scripts/mietrecht-regression.mjs
       - name: Build viewer
         working-directory: viewer
         run: npm run build

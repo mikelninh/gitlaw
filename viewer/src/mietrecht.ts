@@ -44,16 +44,16 @@ interface TopicHint {
   sections: string[]
 }
 
-// The order of sections is intentional: core rule first, then procedure / protection.
-// These are routing hints, not a claim that every listed section applies to every case.
+// Order matters: specific intents come before broad fallbacks.
+// Section order is also intentional: the most useful statutory anchor comes first.
 const topicHints: TopicHint[] = [
   {
     id: 'rent-increase',
     label: 'Mieterhöhung',
     terms: [
-      'mieterhöhung', 'mieterhoehung', 'miete erhöhen', 'miete erhoehen',
-      'erhöhen', 'erhoehen', 'erhöht', 'erhoeht', 'kappungsgrenze',
-      'mietspiegel', 'vergleichsmiete', '20 %', '20 prozent',
+      'mieterhöhung', 'mieterhoehung', 'mieterhöhungsverlangen', 'mieterhoehungsverlangen',
+      'miete erhöhen', 'miete erhoehen', 'erhöhen', 'erhoehen', 'erhöht', 'erhoeht',
+      'kappungsgrenze', 'mietspiegel', 'vergleichsmiete', '20 %', '20 prozent',
     ],
     sections: ['558', '558a', '558b', '558c', '558d'],
   },
@@ -70,10 +70,22 @@ const topicHints: TopicHint[] = [
     sections: ['551'],
   },
   {
+    id: 'defect-notice',
+    label: 'Mängelanzeige',
+    terms: [
+      'mängelanzeige', 'maengelanzeige', 'mangel melden', 'schimmel melden',
+      'wasserschaden entdeckt', 'vermieter sofort informieren', 'vermieter informieren',
+    ],
+    sections: ['536c', '536', '536a'],
+  },
+  {
     id: 'defect',
     label: 'Mangel und Mietminderung',
-    terms: ['mietminderung', 'mangel', 'schimmel', 'heizung', 'warmwasser', 'wasserschaden', 'miete kürzen', 'miete kuerzen'],
-    sections: ['535', '536', '536a', '536b', '536c'],
+    terms: [
+      'mietminderung', 'miete mindern', 'mangel', 'schimmel', 'heizung', 'warmwasser',
+      'wasserschaden', 'miete kürzen', 'miete kuerzen',
+    ],
+    sections: ['536', '536c', '536a', '535', '536b'],
   },
   {
     id: 'service-charge',
@@ -82,10 +94,48 @@ const topicHints: TopicHint[] = [
     sections: ['556', '556a', '556b', '556c'],
   },
   {
-    id: 'termination',
-    label: 'Kündigung des Mietverhältnisses',
-    terms: ['kündigung', 'kuendigung', 'kündigen', 'kuendigen', 'gekündigt', 'gekuendigt', 'rauswerfen', 'rausschmeißen', 'rausschmeissen'],
-    sections: ['568', '569', '573', '573c', '574'],
+    id: 'sublet',
+    label: 'Untervermietung',
+    terms: ['untervermietung', 'untervermieten', 'untermieter', 'wg zimmer', 'wg-zimmer'],
+    sections: ['553', '540'],
+  },
+  {
+    id: 'rent-arrears',
+    label: 'Mietrückstand und fristlose Kündigung',
+    terms: [
+      'mietrückstand', 'mietrueckstand', 'mietschulden', 'zahlungsverzug',
+      'zwei monatsmieten', 'miete im rückstand', 'miete im rueckstand',
+    ],
+    sections: ['543', '569', '556b'],
+  },
+  {
+    id: 'rent-payment',
+    label: 'Fälligkeit der Miete',
+    terms: [
+      'miete zahlen', 'monatsmiete', 'miete fällig', 'miete faellig',
+      'wann muss ich meine miete', 'mietzahlung',
+    ],
+    sections: ['556b'],
+  },
+  {
+    id: 'modernisation-rent',
+    label: 'Mieterhöhung nach Modernisierung',
+    terms: [
+      'modernisierung mieterhöhung', 'modernisierung mieterhoehung',
+      'mieterhöhung nach modernisierung', 'mieterhoehung nach modernisierung',
+      'modernisierungsumlage', 'nach einer modernisierung soll meine miete steigen',
+    ],
+    sections: ['559', '559b', '559a', '555b'],
+  },
+  {
+    id: 'modernisation-notice',
+    label: 'Modernisierungsankündigung',
+    terms: [
+      'modernisierung angekündigt', 'modernisierung angekuendigt',
+      'modernisierungsankündigung', 'modernisierungsankuendigung',
+      'ankündigung der modernisierung', 'ankuendigung der modernisierung',
+    ],
+    sections: ['555c', '555b'],
   },
   {
     id: 'modernisation',
@@ -94,22 +144,28 @@ const topicHints: TopicHint[] = [
     sections: ['555b', '555c', '559', '559a', '559b'],
   },
   {
-    id: 'sublet',
-    label: 'Untervermietung',
-    terms: ['untervermietung', 'untervermieten', 'untermieter', 'wg zimmer', 'wg-zimmer'],
-    sections: ['540', '553'],
-  },
-  {
     id: 'rent-brake',
     label: 'Mietpreisbremse',
     terms: ['mietpreisbremse', 'zu hohe miete', 'anfangsmiete', 'mietbeginn'],
     sections: ['556d', '556e', '556f', '556g'],
   },
   {
-    id: 'payment',
-    label: 'Mietzahlung',
-    terms: ['miete zahlen', 'mietrückstand', 'mietrueckstand', 'zahlungsverzug'],
-    sections: ['556b', '543', '569'],
+    id: 'tenant-termination',
+    label: 'Kündigung durch den Mieter',
+    terms: [
+      'als mieter kündigen', 'als mieter kuendigen', 'ich will als mieter kündigen',
+      'ich will als mieter kuendigen', 'kündigungsfrist mieter', 'kuendigungsfrist mieter',
+    ],
+    sections: ['573c', '568'],
+  },
+  {
+    id: 'termination',
+    label: 'Kündigung des Mietverhältnisses',
+    terms: [
+      'kündigung', 'kuendigung', 'kündigen', 'kuendigen', 'gekündigt', 'gekuendigt',
+      'rauswerfen', 'rausschmeißen', 'rausschmeissen',
+    ],
+    sections: ['568', '569', '573', '573c', '574'],
   },
 ]
 
@@ -123,6 +179,12 @@ function normalize(text: string) {
     .replace(/[^a-z0-9%]+/g, ' ')
     .replace(/\s+/g, ' ')
     .trim()
+}
+
+function termMatches(question: string, term: string) {
+  const q = ` ${normalize(question)} `
+  const needle = ` ${normalize(term)} `
+  return q.includes(needle)
 }
 
 function cleanMarkdown(text: string) {
@@ -218,8 +280,7 @@ async function loadExplanations(): Promise<Record<string, string>> {
 }
 
 function matchedTopics(question: string) {
-  const q = normalize(question)
-  return topicHints.filter(topic => topic.terms.some(term => q.includes(normalize(term))))
+  return topicHints.filter(topic => topic.terms.some(term => termMatches(question, term)))
 }
 
 function officialUrl(sectionNumber: string) {
@@ -317,7 +378,7 @@ async function sourceFirstAnswer(sources: MietrechtSource[]) {
   })
 
   return [
-    'Die AI-Erklärung ist gerade nicht erreichbar. Die Quellenrecherche selbst funktioniert aber und hat diese BGB-Stellen als Ausgangspunkt gefunden:',
+    'GitLaw hat diese BGB-Stellen als Ausgangspunkt gefunden. Die Kurzfassung unten stammt direkt aus hinterlegten Gesetzeserklärungen oder dem Originaltext:',
     '',
     ...summaries,
     '',
@@ -371,13 +432,13 @@ export async function askMietrechtResearchQuestion(question: string): Promise<Mi
       }
     }
   } catch {
-    // The source-first mode below keeps the pilot useful even if the model API is unavailable.
+    // Source-first mode below keeps the research desk useful without model availability.
   }
 
   return {
     answer: await sourceFirstAnswer(retrieval.sources),
     sources: retrieval.sources,
-    limitations: [...retrieval.limitations, 'Die AI-Erklärung war bei diesem Lauf nicht erreichbar; angezeigt wird deshalb bewusst nur die Quellenrecherche.'],
+    limitations: [...retrieval.limitations, 'Quellenmodus: Es wurde keine zusätzliche Modell-Erklärung verwendet; angezeigt werden verifizierte BGB-Quellen und hinterlegte Kurzfassungen.'],
     retrievalSignal: retrieval.retrievalSignal,
     durationMs: Math.round(performance.now() - started),
   }

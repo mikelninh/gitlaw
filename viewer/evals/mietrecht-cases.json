@@ -1,0 +1,162 @@
+[
+  {
+    "id": "rent-increase-20-percent",
+    "question": "Mein Vermieter will die Miete um 20 % erhöhen. Welche Regeln sollte ich prüfen?",
+    "expectedTopic": "rent-increase",
+    "expectedFirst": "558",
+    "expectedIncludes": ["558", "558a", "558b"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "rent-increase-mietspiegel",
+    "question": "Die Miete soll anhand des Mietspiegels erhöht werden. Was muss im Schreiben stehen?",
+    "expectedTopic": "rent-increase",
+    "expectedFirst": "558",
+    "expectedIncludes": ["558", "558a", "558c"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "rent-increase-too-soon",
+    "question": "Meine Miete wurde vor zehn Monaten erhöht. Darf sie jetzt schon wieder steigen?",
+    "expectedTopic": "rent-increase",
+    "expectedFirst": "558",
+    "expectedIncludes": ["558"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "own-use-basic",
+    "question": "Mein Vermieter kündigt wegen Eigenbedarf. Welche Paragraphen sind relevant?",
+    "expectedTopic": "own-use",
+    "expectedFirst": "573",
+    "expectedIncludes": ["573", "573c", "574"],
+    "needsCaseLaw": true
+  },
+  {
+    "id": "own-use-hardship",
+    "question": "Ich habe eine Eigenbedarfskündigung bekommen und bin schwer krank. Kann ich widersprechen?",
+    "expectedTopic": "own-use",
+    "expectedFirst": "573",
+    "expectedIncludes": ["573", "574", "574b"],
+    "needsCaseLaw": true
+  },
+  {
+    "id": "deposit-too-high",
+    "question": "Mein Vermieter verlangt vier Monatsmieten Kaution. Ist das erlaubt?",
+    "expectedTopic": "deposit",
+    "expectedFirst": "551",
+    "expectedIncludes": ["551"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "deposit-return-after-moveout",
+    "question": "Meine Kaution ist sechs Monate nach dem Auszug noch nicht zurück. Wo sollte ich anfangen?",
+    "expectedTopic": "deposit",
+    "expectedFirst": "551",
+    "expectedIncludes": ["551"],
+    "needsCaseLaw": true
+  },
+  {
+    "id": "mold-rent-reduction",
+    "question": "Im Schlafzimmer ist Schimmel. Darf ich die Miete mindern?",
+    "expectedTopic": "defect",
+    "expectedFirst": "536",
+    "expectedIncludes": ["536", "536c"],
+    "needsCaseLaw": true
+  },
+  {
+    "id": "heating-failure",
+    "question": "Die Heizung ist seit Tagen kaputt. Welche Rechte habe ich als Mieter?",
+    "expectedTopic": "defect",
+    "expectedFirst": "536",
+    "expectedIncludes": ["536", "536c"],
+    "needsCaseLaw": true
+  },
+  {
+    "id": "defect-notice",
+    "question": "Ich habe einen Wasserschaden entdeckt. Muss ich den Vermieter sofort informieren?",
+    "expectedTopic": "defect",
+    "expectedFirst": "536c",
+    "expectedIncludes": ["536c", "536"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "service-charge-late",
+    "question": "Die Nebenkostenabrechnung kam 15 Monate nach Ende des Abrechnungsjahres. Welche Regel gilt?",
+    "expectedTopic": "service-charge",
+    "expectedFirst": "556",
+    "expectedIncludes": ["556"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "service-charge-documents",
+    "question": "Darf ich die Belege zur Betriebskostenabrechnung sehen?",
+    "expectedTopic": "service-charge",
+    "expectedFirst": "556",
+    "expectedIncludes": ["556"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "sublet-room",
+    "question": "Ich möchte ein Zimmer meiner Wohnung untervermieten. Darf der Vermieter das verbieten?",
+    "expectedTopic": "sublet",
+    "expectedFirst": "553",
+    "expectedIncludes": ["553"],
+    "needsCaseLaw": true
+  },
+  {
+    "id": "rent-arrears-two-months",
+    "question": "Ich habe Mietrückstand von zwei Monatsmieten. Wann droht eine fristlose Kündigung?",
+    "expectedTopic": "rent-arrears",
+    "expectedFirst": "543",
+    "expectedIncludes": ["543", "569"],
+    "needsCaseLaw": true
+  },
+  {
+    "id": "rent-payment-due-date",
+    "question": "Wann muss ich meine Monatsmiete spätestens zahlen?",
+    "expectedTopic": "rent-payment",
+    "expectedFirst": "556b",
+    "expectedIncludes": ["556b"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "modernisation-notice",
+    "question": "Der Vermieter hat eine Modernisierung angekündigt. Welche Angaben und Fristen muss die Ankündigung enthalten?",
+    "expectedTopic": "modernisation-notice",
+    "expectedFirst": "555c",
+    "expectedIncludes": ["555c", "555b"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "modernisation-rent-increase",
+    "question": "Nach einer Modernisierung soll meine Miete steigen. Welche Regeln sollte ich prüfen?",
+    "expectedTopic": "modernisation-rent",
+    "expectedFirst": "559",
+    "expectedIncludes": ["559", "559b"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "rent-brake-new-lease",
+    "question": "Beim Mietbeginn ist die Miete deutlich höher als bei vergleichbaren Wohnungen. Gilt die Mietpreisbremse?",
+    "expectedTopic": "rent-brake",
+    "expectedFirst": "556d",
+    "expectedIncludes": ["556d", "556g"],
+    "needsCaseLaw": true
+  },
+  {
+    "id": "landlord-termination-whatsapp",
+    "question": "Mein Vermieter hat mir per WhatsApp gekündigt. Ist das wirksam?",
+    "expectedTopic": "termination",
+    "expectedFirst": "568",
+    "expectedIncludes": ["568"],
+    "needsCaseLaw": false
+  },
+  {
+    "id": "tenant-notice-period",
+    "question": "Ich will als Mieter kündigen. Welche Kündigungsfrist habe ich?",
+    "expectedTopic": "tenant-termination",
+    "expectedFirst": "573c",
+    "expectedIncludes": ["573c", "568"],
+    "needsCaseLaw": false
+  }
+]
