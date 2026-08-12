@@ -1,0 +1,33 @@
+name: Viewer CI
+
+on:
+  pull_request:
+    paths:
+      - 'viewer/**'
+      - 'api/**'
+      - '.github/workflows/viewer-ci.yml'
+  push:
+    branches:
+      - agent/mietrecht-research-desk
+    paths:
+      - 'viewer/**'
+      - 'api/**'
+      - '.github/workflows/viewer-ci.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: viewer/package-lock.json
+      - name: Install viewer dependencies
+        working-directory: viewer
+        run: npm ci
+      - name: Build viewer
+        working-directory: viewer
+        run: npm run build
