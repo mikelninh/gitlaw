@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-13",
+  "repo": "gitlaw",
+  "branch": "agent/law-watch-2026-08-13",
+  "window": "2026-08-06..2026-08-13",
+  "laws_new": 0,
+  "laws_amended": 2,
+  "highlights": [
+    "BGBl. I Nr. 233 (12.08.2026): TechModellBAusbV neu geordnet — ersetzt laws/modellbtechausbv.md, Inkrafttreten 01.08.2027.",
+    "BGBl. I Nr. 232 (12.08.2026): Friseur-MstrV neu gefasst — ersetzt laws/friseur-mstrv.md, Inkrafttreten 01.03.2027.",
+    "BGBl. I No. 233 (12.08.2026): TechModellBAusbV reorganised — replaces laws/modellbtechausbv.md, in force 01.08.2027.",
+    "BGBl. I Nr. 232 (12.08.2026): Friseur-MstrV renewed — replaces laws/friseur-mstrv.md, in force 01.03.2027."
+  ],
+  "sources": [
+    "https://www.recht.bund.de/bgbl/1/2026/233/VO.html?nn=197276",
+    "https://www.recht.bund.de/bgbl/1/2026/232/VO.html?nn=197276",
+    "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-1/bgbl-1_node.html",
+    "https://www.recht.bund.de/de/home/home_node.html"
+  ],
+  "actions_taken": [
+    "created branch agent/law-watch-2026-08-13",
+    "wrote agent-digests/law-watch-2026-08-13.md",
+    "wrote agent-logs/law-watch-2026-08-13.json",
+    "wrote data/law-watch-log.json",
+    "opened PR against main"
+  ]
+}
