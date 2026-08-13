@@ -12,14 +12,14 @@ GitLaw helps citizens and legal professionals find the relevant source, inspect 
 
 | Surface | Link | Honest status |
 | --- | --- | --- |
-| **Citizen app** | [Live app](https://gitlaw-xi.vercel.app/) · [GitHub Pages](https://mikelninh.github.io/gitlaw/) | Public research interface |
+| **Citizen app** | [Live app](https://mikelninh.github.io/gitlaw/) | Public research interface |
 | **Source code** | [GitHub repository](https://github.com/mikelninh/gitlaw) | Public, AGPL-3.0 |
 | **GitLaw Pro** | Closed-beta workflow tier | Pilot, not general production |
 | **MCP server** | [`gitlaw_mcp/`](gitlaw_mcp/) | Working stdio and HTTP/SSE tools |
 | **Architecture** | [`wiki/Architecture.md`](wiki/Architecture.md) | Technical design and boundaries |
 | **Roadmap** | [`wiki/Roadmap.md`](wiki/Roadmap.md) | Current next steps and go-live gates |
 
-## Current state — July 2026
+## Current state — August 2026
 
 | Area | What works today | Boundary |
 | --- | --- | --- |
