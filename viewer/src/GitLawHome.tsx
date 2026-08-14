@@ -10,7 +10,6 @@ import {
   Heart,
   Home,
   MessageCircle,
-  Scale,
   Search,
   ShieldCheck,
   ShoppingBag,
