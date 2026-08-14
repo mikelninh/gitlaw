@@ -373,17 +373,14 @@ export default function MietrechtResearchDesk() {
 
       <main>
         <section className="border-b border-border bg-gradient-to-b from-white to-bg-alt/60">
-          <div className="max-w-5xl mx-auto px-5 py-14 grid lg:grid-cols-[1.15fr_.85fr] gap-10 items-end">
-            <div>
-              <div className="inline-flex px-3 py-1 rounded-full border border-gold/20 bg-gold-light text-[11px] font-bold uppercase tracking-[0.18em] text-gold mb-5">Konzeptdemo · ohne Anmeldung</div>
-              <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl leading-[1.02] mb-5">Wissen, was jetzt zählt.</h1>
-              <p className="text-lg text-ink-soft max-w-2xl leading-relaxed">Bevor du zustimmst, zahlst oder eine Frist verpasst: Schildere deinen Mietfall. GitLaw zeigt dir den sinnvollsten nächsten Schritt, fehlende Unterlagen und die Quellen hinter der Einordnung.</p>
-            </div>
-            <div className="rounded-2xl border border-border bg-white p-5 text-sm text-ink-soft space-y-4">
-              <p className="text-[11px] font-bold uppercase tracking-widest text-gold">Was du bekommst</p>
-              <div className="flex gap-3"><span className="mt-0.5 w-7 h-7 rounded-full bg-gold-light text-gold grid place-items-center text-xs font-bold">1</span><p><strong className="text-ink block">Sofort-Orientierung</strong>Was ist wahrscheinlich das Problem und wie dringend ist es?</p></div>
-              <div className="flex gap-3"><span className="mt-0.5 w-7 h-7 rounded-full bg-gold-light text-gold grid place-items-center text-xs font-bold">2</span><p><strong className="text-ink block">Nächster Schritt heute</strong>Was kannst du jetzt tun — und was noch nicht vorschnell?</p></div>
-              <div className="flex gap-3"><span className="mt-0.5 w-7 h-7 rounded-full bg-gold-light text-gold grid place-items-center text-xs font-bold">3</span><p><strong className="text-ink block">Prüfbares Fallpaket</strong>Welche Unterlagen, Fragen und BGB-Quellen gehören in die menschliche Prüfung?</p></div>
+          <div className="max-w-3xl mx-auto px-5 py-12 text-center">
+            <div className="inline-flex px-3 py-1 rounded-full border border-gold/20 bg-gold-light text-[11px] font-bold uppercase tracking-[0.18em] text-gold mb-5">Konzeptdemo · ohne Anmeldung</div>
+            <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl leading-[1.02] mb-5">Wissen, was jetzt zählt.</h1>
+            <p className="text-lg text-ink-soft leading-relaxed">Schildere deinen Mietfall. GitLaw zeigt dir den nächsten sinnvollen Schritt — mit nachvollziehbaren Quellen und sichtbaren Grenzen.</p>
+            <div className="mt-6 flex flex-wrap justify-center gap-2 text-xs font-semibold text-ink-soft">
+              <span className="rounded-full border border-border bg-white px-3 py-1.5">Einordnung</span>
+              <span className="rounded-full border border-border bg-white px-3 py-1.5">Nächster Schritt</span>
+              <span className="rounded-full border border-border bg-white px-3 py-1.5">Fallpaket</span>
             </div>
           </div>
         </section>
@@ -402,114 +399,117 @@ export default function MietrechtResearchDesk() {
                 </button>
                 <span className="text-xs text-ink-muted">Keine Anmeldung · bitte keine personenbezogenen Daten eingeben</span>
               </div>
-              <div className="mt-5">
-                <p className="text-[10px] font-bold uppercase tracking-widest text-ink-muted mb-2">Oder Beispiel ausprobieren</p>
-                <div className="flex flex-wrap gap-2">
+              <details className="mt-5 text-sm">
+                <summary className="cursor-pointer text-ink-muted hover:text-gold">Mit einem Beispiel testen</summary>
+                <div className="mt-3 flex flex-wrap gap-2">
                   {examples.map(example => <button key={example} onClick={() => runResearch(example)} disabled={loading} className="text-left px-3 py-2 rounded-xl border border-border bg-bg-alt text-xs sm:text-sm text-ink-soft hover:border-gold/40 disabled:opacity-50">{example}</button>)}
                 </div>
-              </div>
+              </details>
             </div>
 
             {loading && <div className="p-10 text-center"><p className="font-medium">GitLaw ordnet deinen Fall ein …</p><p className="text-sm text-ink-muted mt-1">Quellen finden → Situation einordnen → Optionen sichtbar machen.</p></div>}
             {error && !loading && <div className="m-5 sm:m-7 rounded-2xl bg-red-light border border-red/10 p-5 text-sm text-red">{error}</div>}
 
             {result && decision && !loading && (
-              <div className="p-5 sm:p-7 space-y-8">
+              <div className="p-5 sm:p-7 space-y-5">
                 <section className="rounded-3xl border border-gold/20 bg-gold-light/35 p-5 sm:p-7">
-                  <div className="flex flex-wrap items-center gap-2 mb-3"><span className="text-[11px] font-bold uppercase tracking-widest text-gold">Vorläufige Einordnung · {decision.topic}</span><span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-white/70 border border-border">{signalLabel(result.retrievalSignal)}</span></div>
-                  <p className="text-lg sm:text-xl leading-relaxed text-ink">{decision.summary}</p>
-                </section>
-
-                <section className="grid lg:grid-cols-[1.2fr_.8fr] gap-4">
-                  <div className="rounded-3xl bg-ink text-white p-5 sm:p-7">
-                    <p className="text-[11px] font-bold uppercase tracking-widest text-gold-light mb-2">{decision.urgency}</p>
-                    <h2 className="font-display text-2xl sm:text-3xl mb-3">Dein nächster Schritt heute</h2>
-                    <p className="text-base sm:text-lg leading-relaxed text-white/85">{decision.today}</p>
+                  <div className="flex flex-wrap items-center gap-2 mb-4">
+                    <span className="text-[11px] font-bold uppercase tracking-widest text-gold">{decision.topic}</span>
+                    <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-white/70 border border-border">{signalLabel(result.retrievalSignal)}</span>
                   </div>
-                  <div className="rounded-3xl border border-gold/20 bg-gold-light/45 p-5 sm:p-7">
-                    <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-2">Noch nicht vorschnell tun</p>
-                    <p className="text-sm sm:text-base leading-relaxed text-ink-soft">{decision.avoid}</p>
-                  </div>
-                </section>
-
-                <section>
-                  <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-1">Was du danach tun kannst</p>
-                  <h2 className="font-display text-2xl sm:text-3xl mb-2">Deine nächsten Optionen</h2>
-                  <p className="text-sm text-ink-muted mb-4">Auf Basis deiner bisherigen Angaben — nicht als endgültige Rechtsberatung, sondern als begründete Handlungsorientierung.</p>
-                  <div className="grid lg:grid-cols-3 gap-3">
-                    {decision.options.map(option => {
-                      const refs = sourceRefs(result, option.sourceNumbers)
-                      return (
-                        <article key={option.title} className="rounded-2xl border border-border bg-white p-5 flex flex-col">
-                          <h3 className="font-display text-lg mb-2">{option.title}</h3>
-                          <p className="text-sm text-ink-soft leading-relaxed flex-1">{option.text}</p>
-                          {refs.length > 0 && <p className="mt-4 pt-3 border-t border-border text-[11px] text-ink-muted"><strong className="text-ink">Gestützt auf:</strong> {refs.join(', ')}</p>}
-                        </article>
-                      )
-                    })}
+                  <h2 className="font-display text-2xl sm:text-3xl mb-3">Das bedeutet für dich</h2>
+                  <p className="text-base sm:text-lg leading-relaxed text-ink-soft">{decision.summary}</p>
+                  <div className="mt-6 pt-6 border-t border-gold/15 grid md:grid-cols-[1.15fr_.85fr] gap-5">
+                    <div>
+                      <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-2">{decision.urgency}</p>
+                      <p className="text-base sm:text-lg font-medium leading-relaxed">{decision.today}</p>
+                    </div>
+                    <div className="md:border-l md:border-gold/15 md:pl-5">
+                      <p className="text-[11px] font-bold uppercase tracking-widest text-ink-muted mb-2">Noch nicht vorschnell</p>
+                      <p className="text-sm leading-relaxed text-ink-soft">{decision.avoid}</p>
+                    </div>
                   </div>
                 </section>
 
-                <section className="grid lg:grid-cols-[1fr_220px] gap-5 items-start">
-                  <div className="rounded-2xl border border-border bg-bg-alt p-5">
-                    <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-1">Damit die Einschätzung besser wird</p>
-                    <h2 className="font-display text-2xl mb-3">Was GitLaw noch wissen muss</h2>
-                    <ul className="space-y-2 text-sm text-ink-soft list-disc pl-5">{decision.missingFacts.map(fact => <li key={fact}>{fact}</li>)}</ul>
-                    <p className="text-xs text-ink-muted mt-4">{decision.note}</p>
-                  </div>
-                  <div className="rounded-2xl bg-bg-alt border border-border p-4"><FileSearch className="w-5 h-5 text-gold mb-3" /><p className="text-[10px] font-bold uppercase tracking-widest text-ink-muted mb-2">Gesetzliche Basis</p><p className="font-display text-2xl mb-1">{result.sources.length} BGB-Stellen</p><p className="text-xs text-ink-muted leading-relaxed">{result.durationMs} ms · Die Quellenanzahl ist kein Maß für juristische Richtigkeit.</p></div>
-                </section>
-
-                <section className="rounded-3xl border border-border bg-white p-5 sm:p-7 grid lg:grid-cols-[1fr_.85fr] gap-6 items-start">
-                  <div>
-                    <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-1">Konkretes Ergebnis</p>
-                    <h2 className="font-display text-2xl sm:text-3xl mb-3">Dein Fallpaket für die menschliche Prüfung</h2>
-                    <p className="text-sm text-ink-soft leading-relaxed">Statt mit einer Paragraphenliste allein zu bleiben, nimmst du eine strukturierte Zusammenfassung mit: Einordnung, nächster Schritt, offene Fragen, benötigte Unterlagen und überprüfbare Quellen.</p>
-                    <button onClick={copyCaseBrief} className="mt-5 inline-flex items-center justify-center gap-2 px-5 py-3 rounded-xl bg-ink text-white font-semibold hover:opacity-90">
+                <section className="rounded-3xl bg-ink text-white p-5 sm:p-7">
+                  <div className="grid lg:grid-cols-[1fr_auto] gap-6 items-center">
+                    <div>
+                      <p className="text-[11px] font-bold uppercase tracking-widest text-gold-light mb-2">Dein Ergebnis zum Mitnehmen</p>
+                      <h2 className="font-display text-2xl sm:text-3xl mb-2">Fallpaket für die Prüfung</h2>
+                      <p className="text-sm text-white/70 leading-relaxed">Einordnung, nächster Schritt, offene Fragen, benötigte Unterlagen und alle gefundenen Quellen — kompakt in einem Brief.</p>
+                    </div>
+                    <button onClick={copyCaseBrief} className="inline-flex items-center justify-center gap-2 px-5 py-3 rounded-xl bg-white text-ink font-semibold hover:bg-gold-light">
                       <FileSearch className="w-4 h-4" /> {caseCopied ? 'Fallpaket kopiert ✓' : 'Fallpaket kopieren'}
                     </button>
-                    <p className="text-xs text-ink-muted mt-3">Konzeptdemo ohne offizielle Verbindung zu CONNY. Das Fallpaket demonstriert eine mögliche Übergabe an qualifizierte menschliche Prüfung.</p>
                   </div>
-                  <div className="rounded-2xl bg-bg-alt border border-border p-5">
-                    <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-3">Für die Prüfung bereithalten</p>
-                    <ul className="space-y-2 text-sm text-ink-soft">
-                      {decision.documents.map(document => <li key={document} className="flex gap-2"><span className="text-gold">✓</span><span>{document}</span></li>)}
-                    </ul>
+                  <div className="mt-5 pt-4 border-t border-white/10 flex flex-wrap gap-x-5 gap-y-2 text-xs text-white/60">
+                    <span>{decision.documents.length} Unterlagen</span>
+                    <span>{decision.missingFacts.length} offene Fragen</span>
+                    <span>{result.sources.length} BGB-Quellen</span>
+                    <span>Keine offizielle Verbindung zu CONNY</span>
                   </div>
                 </section>
 
-                <section className="rounded-2xl border border-border bg-white p-5 sm:p-6">
-                  <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-2">Quellenbasierte Begründung</p>
-                  <div className="text-sm sm:text-base leading-relaxed whitespace-pre-wrap text-ink-soft">{result.answer}</div>
-                </section>
-
-                <div>
-                  <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-1">Originalquellen</p>
-                  <h2 className="font-display text-2xl mb-2">Die Regeln hinter der Einordnung</h2>
-                  <p className="text-sm text-ink-muted mb-4">Hier kannst du nachvollziehen, welche Gesetzesstellen GitLaw tatsächlich verwendet hat.</p>
-                  <div className="grid md:grid-cols-2 gap-3">
-                    {result.sources.map((source, index) => (
-                      <article key={`${source.section}-${index}`} className="rounded-2xl border border-border bg-white p-5">
-                        <div className="flex items-start justify-between gap-4 mb-3"><div><span className="text-[10px] font-bold uppercase tracking-widest text-gold">Quelle {index + 1}</span><h3 className="font-display text-lg mt-1">{source.section}</h3></div><a href={source.officialUrl} target="_blank" rel="noopener" className="text-ink-muted hover:text-gold" title="Offiziellen Gesetzestext öffnen"><ExternalLink className="w-4 h-4" /></a></div>
-                        <p className="text-sm text-ink-soft leading-relaxed">{source.excerpt.slice(0, 520)}{source.excerpt.length > 520 ? '…' : ''}</p>
-                        <div className="mt-4 pt-3 border-t border-border text-xs text-ink-muted"><strong className="text-ink">Warum diese Stelle:</strong> {source.reason}</div>
-                      </article>
-                    ))}
-                  </div>
-                </div>
-
-                <div className="rounded-2xl border border-gold/20 bg-gold-light/50 p-5"><p className="font-semibold mb-2">△ Was für eine belastbarere rechtliche Bewertung noch fehlt</p><ul className="space-y-1.5 text-sm text-ink-soft list-disc pl-5">{result.limitations.map(limit => <li key={limit}>{limit}</li>)}</ul><p className="text-xs text-gold mt-3 font-medium">Orientierung und Recherchehilfe, keine individuelle Rechtsberatung.</p></div>
-
-                <div className="rounded-3xl bg-ink text-white p-5 sm:p-7 grid lg:grid-cols-[1fr_.9fr] gap-6">
-                  <div><p className="text-[11px] font-bold uppercase tracking-widest text-gold-light mb-2">Hilf GitLaw besser zu werden</p><h2 className="font-display text-2xl sm:text-3xl mb-2">Hat dir die Einordnung bei deiner nächsten Entscheidung geholfen?</h2><p className="text-sm text-white/65">Wenn eine Option fehlt oder die Einordnung irreführend ist, sag es uns. Nutzerfehler werden zu neuen Tests, damit derselbe Fehler nicht einfach wiederkommt.</p></div>
-                  <div>
-                    <div className="grid grid-cols-3 gap-2">
-                      {([['helpful', '✓ Ja'], ['partial', '△ Teilweise'], ['missing', '✕ Etwas fehlt']] as [Rating, string][]).map(([value, label]) => <button key={value} onClick={() => submitFeedback(value)} className={`px-2 py-2.5 rounded-xl text-xs font-semibold border ${rating === value ? 'bg-white text-ink border-white' : 'border-white/15 text-white/75'}`}>{label}</button>)}
+                <details className="rounded-2xl border border-border bg-white overflow-hidden">
+                  <summary className="cursor-pointer px-5 py-4 font-semibold hover:bg-bg-alt">Weitere Optionen und offene Fragen</summary>
+                  <div className="border-t border-border p-5 sm:p-6 space-y-6">
+                    <div className="space-y-4">
+                      {decision.options.map(option => {
+                        const refs = sourceRefs(result, option.sourceNumbers)
+                        return (
+                          <article key={option.title}>
+                            <h3 className="font-semibold mb-1">{option.title}</h3>
+                            <p className="text-sm text-ink-soft leading-relaxed">{option.text}</p>
+                            {refs.length > 0 && <p className="mt-1 text-[11px] text-ink-muted">Quelle: {refs.join(', ')}</p>}
+                          </article>
+                        )
+                      })}
                     </div>
-                    <textarea value={note} onChange={event => setNote(event.target.value)} rows={3} placeholder="Optional: Was fehlt, ist falsch oder unklar?" className="mt-3 w-full rounded-xl border border-white/15 bg-white/5 px-3 py-3 text-sm text-white placeholder:text-white/35 focus:outline-none resize-y" />
-                    <div className="mt-3 flex flex-wrap gap-2"><button onClick={() => submitFeedback()} disabled={!rating} className="px-3 py-2 rounded-lg bg-white text-ink text-xs font-semibold disabled:opacity-40">{saved ? 'Feedback gespeichert ✓' : 'Feedback speichern'}</button><button onClick={copyRecord} className="px-3 py-2 rounded-lg border border-white/15 text-xs text-white/70">{copied ? 'Testdaten kopiert ✓' : 'Testdaten kopieren'}</button></div>
+                    <div className="rounded-2xl bg-bg-alt border border-border p-5">
+                      <p className="font-semibold mb-3">Was für eine genauere Prüfung noch fehlt</p>
+                      <ul className="space-y-2 text-sm text-ink-soft list-disc pl-5">{decision.missingFacts.map(fact => <li key={fact}>{fact}</li>)}</ul>
+                      <p className="text-xs text-ink-muted mt-4">{decision.note}</p>
+                    </div>
                   </div>
-                </div>
+                </details>
+
+                <details className="rounded-2xl border border-border bg-white overflow-hidden">
+                  <summary className="cursor-pointer px-5 py-4 font-semibold hover:bg-bg-alt">{result.sources.length} Gesetzesquellen und Grenzen ansehen</summary>
+                  <div className="border-t border-border p-5 sm:p-6 space-y-3">
+                    {result.sources.map((source, index) => (
+                      <details key={`${source.section}-${index}`} className="rounded-xl border border-border bg-bg-alt">
+                        <summary className="cursor-pointer p-4 text-sm font-semibold">{source.section}</summary>
+                        <div className="px-4 pb-4 text-sm text-ink-soft">
+                          <p className="leading-relaxed">{source.excerpt.slice(0, 520)}{source.excerpt.length > 520 ? '…' : ''}</p>
+                          <div className="mt-3 flex flex-wrap items-center justify-between gap-3 text-xs">
+                            <span><strong className="text-ink">Warum:</strong> {source.reason}</span>
+                            <a href={source.officialUrl} target="_blank" rel="noopener" className="inline-flex items-center gap-1 text-gold hover:underline">Original öffnen <ExternalLink className="w-3 h-3" /></a>
+                          </div>
+                        </div>
+                      </details>
+                    ))}
+                    <div className="pt-4">
+                      <p className="font-semibold text-sm mb-2">Was GitLaw nicht geprüft hat</p>
+                      <ul className="space-y-1.5 text-sm text-ink-soft list-disc pl-5">{result.limitations.map(limit => <li key={limit}>{limit}</li>)}</ul>
+                      <p className="text-xs text-gold mt-3">Orientierung und Recherchehilfe, keine individuelle Rechtsberatung.</p>
+                    </div>
+                  </div>
+                </details>
+
+                <details className="rounded-2xl border border-border bg-white overflow-hidden">
+                  <summary className="cursor-pointer px-5 py-4 text-sm font-semibold hover:bg-bg-alt">Feedback zur Einordnung geben</summary>
+                  <div className="border-t border-border p-5">
+                    <p className="text-sm text-ink-soft mb-3">Fehlt eine Option oder ist etwas unklar? Dein Feedback wird zu einem neuen Regressionstest.</p>
+                    <div className="flex flex-wrap gap-2">
+                      {([['helpful', '✓ Hilfreich'], ['partial', '△ Teilweise'], ['missing', '✕ Etwas fehlt']] as [Rating, string][]).map(([value, label]) => <button key={value} onClick={() => submitFeedback(value)} className={`px-3 py-2 rounded-xl text-xs font-semibold border ${rating === value ? 'bg-ink text-white border-ink' : 'border-border text-ink-soft'}`}>{label}</button>)}
+                    </div>
+                    <textarea value={note} onChange={event => setNote(event.target.value)} rows={2} placeholder="Optional: Was fehlt, ist falsch oder unklar?" className="mt-3 w-full rounded-xl border border-border bg-bg-alt px-3 py-3 text-sm focus:outline-none resize-y" />
+                    <div className="mt-3 flex flex-wrap gap-2">
+                      <button onClick={() => submitFeedback()} disabled={!rating} className="px-3 py-2 rounded-lg bg-ink text-white text-xs font-semibold disabled:opacity-40">{saved ? 'Feedback gespeichert ✓' : 'Feedback speichern'}</button>
+                      <button onClick={copyRecord} className="px-3 py-2 rounded-lg border border-border text-xs text-ink-muted">{copied ? 'Testdaten kopiert ✓' : 'Testdaten kopieren'}</button>
+                    </div>
+                  </div>
+                </details>
               </div>
             )}
           </div>
