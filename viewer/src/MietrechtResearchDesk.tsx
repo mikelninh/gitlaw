@@ -30,6 +30,10 @@ interface DecisionOption {
 interface DecisionSupport {
   topic: string
   summary: string
+  urgency: string
+  today: string
+  avoid: string
+  documents: string[]
   options: DecisionOption[]
   missingFacts: string[]
   note: string
@@ -74,6 +78,10 @@ function buildDecisionSupport(question: string, result: MietrechtResearchResult)
     return {
       topic: 'Mieterhöhung',
       summary: 'Das klingt nach einem Mieterhöhungsverlangen. Aus „20 %“ allein folgt noch nicht, ob die Erhöhung zulässig ist. Entscheidend sind unter anderem Vergleichsmiete bzw. Kappungsgrenze, der zeitliche Verlauf und die Begründung des Schreibens.',
+      urgency: 'Nicht vorschnell zustimmen',
+      today: 'Lege das Erhöhungsschreiben, die bisherige und die verlangte Nettokaltmiete sowie das Datum der letzten Erhöhung bereit. Damit lässt sich der Fall konkret prüfen.',
+      avoid: 'Stimme der Erhöhung nicht vorschnell zu und behandle die 20 % nicht allein als Beweis dafür, dass sie zulässig oder unzulässig ist.',
+      documents: ['Mieterhöhungsschreiben', 'Mietvertrag', 'Letzte Mieterhöhung', 'Aktuelle Nettokaltmiete', 'Mietspiegel oder Begründung des Vermieters'],
       options: [
         {
           title: '1. Nicht nur auf die 20 % schauen',
@@ -105,6 +113,10 @@ function buildDecisionSupport(question: string, result: MietrechtResearchResult)
     return {
       topic: 'Eigenbedarfskündigung',
       summary: 'Das klingt nach einer ordentlichen Kündigung wegen Eigenbedarfs. Entscheidend ist nicht nur das Wort „Eigenbedarf“, sondern ob der Kündigungsgrund nachvollziehbar angegeben ist, welche Frist gilt und ob bei dir besondere Härtegründe eine Rolle spielen.',
+      urgency: 'Zeitnah prüfen — hier können Fristen zählen',
+      today: 'Sichere das vollständige Kündigungsschreiben und notiere, wann es angekommen ist. Prüfe außerdem, zu welchem Datum das Mietverhältnis enden soll.',
+      avoid: 'Ignoriere das Schreiben nicht und triff keine endgültige Auszugsentscheidung, bevor Begründung, Frist und mögliche Härtegründe geprüft wurden.',
+      documents: ['Kündigungsschreiben', 'Mietvertrag', 'Nachweis des Zugangsdatums', 'Angaben zur Wohndauer', 'Nachweise möglicher Härtegründe'],
       options: [
         {
           title: '1. Begründung der Kündigung einordnen',
@@ -137,6 +149,10 @@ function buildDecisionSupport(question: string, result: MietrechtResearchResult)
     return {
       topic: 'Mietkaution',
       summary: 'GitLaw findet § 551 BGB als gesetzlichen Ausgangspunkt für die Mietkaution. Für die entscheidende Frage, wann und in welcher Höhe nach dem Auszug zurückgezahlt werden muss, reicht diese Norm allein aber oft nicht: Übergabe, mögliche Forderungen und Rechtsprechung können entscheidend sein.',
+      urgency: 'Einbehalt klären und Unterlagen sichern',
+      today: 'Bitte den Vermieter um eine nachvollziehbare Abrechnung oder Begründung und sammle die Unterlagen zur Wohnungsübergabe.',
+      avoid: 'Gehe nicht davon aus, dass § 551 allein eine feste Rückzahlungsfrist beantwortet. Übergabe, Gegenansprüche und Rechtsprechung können entscheidend sein.',
+      documents: ['Mietvertrag', 'Nachweis der Kautionszahlung', 'Übergabeprotokoll', 'Fotos bei Auszug', 'Schriftverkehr und Betriebskostenabrechnungen'],
       options: [
         {
           title: '1. Klären, was der Vermieter überhaupt zurückhält',
@@ -169,6 +185,10 @@ function buildDecisionSupport(question: string, result: MietrechtResearchResult)
     summary: refs.length
       ? `GitLaw hat ${refs.length} mögliche gesetzliche Anknüpfungspunkte gefunden. Mit den bisherigen Angaben wäre es aber zu früh, daraus eine eindeutige beste Option abzuleiten.`
       : 'GitLaw hat noch keine belastbare gesetzliche Grundlage für eine konkrete Empfehlung gefunden. Statt zu raten, braucht das Tool mehr Informationen.',
+    urgency: 'Erst Fakten klären, dann handeln',
+    today: 'Ergänze Datum, Schreiben, Beträge, mögliche Fristen und dein konkretes Ziel. So wird aus einer allgemeinen Frage ein prüfbarer Fall.',
+    avoid: 'Triff auf Basis der aktuellen Treffer noch keine weitreichende Entscheidung. GitLaw zeigt hier bewusst keine scheinbar sichere Empfehlung.',
+    documents: ['Relevante Schreiben', 'Mietvertrag', 'Daten und Fristen', 'Beträge', 'Notizen zu deinem gewünschten Ergebnis'],
     options: [
       {
         title: '1. Den Sachverhalt konkreter machen',
@@ -212,6 +232,8 @@ export default function MietrechtResearchDesk() {
   const [note, setNote] = useState('')
   const [saved, setSaved] = useState(false)
   const [copied, setCopied] = useState(false)
+  const [caseCopied, setCaseCopied] = useState(false)
+  const decision = result ? buildDecisionSupport(question, result) : null
 
   async function runResearch(nextQuestion?: string) {
     const query = (nextQuestion ?? question).trim()
@@ -224,6 +246,7 @@ export default function MietrechtResearchDesk() {
     setNote('')
     setSaved(false)
     setCopied(false)
+    setCaseCopied(false)
     try {
       setResult(await askMietrechtResearchQuestion(query))
     } catch (err) {
@@ -299,7 +322,40 @@ export default function MietrechtResearchDesk() {
     }
   }
 
-  const decision = result ? buildDecisionSupport(question, result) : null
+  async function copyCaseBrief() {
+    if (!result || !decision) return
+    const refs = sourceRefs(result)
+    const text = [
+      'GitLaw · Fallpaket zur menschlichen Prüfung',
+      '',
+      `Geschilderter Fall: ${question.trim()}`,
+      `Vorläufige Einordnung: ${decision.topic}`,
+      `Dringlichkeit: ${decision.urgency}`,
+      '',
+      `Nächster Schritt heute: ${decision.today}`,
+      `Noch nicht vorschnell tun: ${decision.avoid}`,
+      '',
+      'Mögliche nächste Schritte:',
+      ...decision.options.map(option => `- ${option.title.replace(/^\\d+\\.\\s*/, '')}: ${option.text}`),
+      '',
+      'Für die Prüfung bereithalten:',
+      ...decision.documents.map(document => `- ${document}`),
+      '',
+      'Noch offene Fragen:',
+      ...decision.missingFacts.map(fact => `- ${fact}`),
+      '',
+      `Gefundene BGB-Quellen: ${refs.join(', ') || 'noch keine belastbaren Quellen'}`,
+      '',
+      'Hinweis: Orientierung und Recherchehilfe, keine individuelle Rechtsberatung. Konzeptdemo ohne offizielle Verbindung zu CONNY.',
+    ].join('\n')
+    try {
+      await navigator.clipboard.writeText(text)
+      setCaseCopied(true)
+      window.setTimeout(() => setCaseCopied(false), 2200)
+    } catch {
+      setCaseCopied(false)
+    }
+  }
 
   return (
     <div className="min-h-screen bg-bg text-ink">
@@ -311,8 +367,7 @@ export default function MietrechtResearchDesk() {
           <div className="h-5 w-px bg-border" />
           <div className="flex items-center gap-2 font-semibold"><Scale className="w-4 h-4 text-gold" /> Mietrecht-Hilfe</div>
           <div className="flex-1" />
-          <a href="https://mikelninh.github.io/" className="hidden sm:block text-xs text-ink-muted hover:text-gold">Portfolio ↗</a>
-          <a href="https://github.com/mikelninh/gitlaw" target="_blank" rel="noopener" className="hidden sm:flex items-center gap-1 text-xs text-ink-muted hover:text-gold">Code <ExternalLink className="w-3 h-3" /></a>
+          <span className="hidden sm:block text-xs text-ink-muted">Orientierung · Quellen · menschliche Prüfung</span>
         </div>
       </header>
 
@@ -320,15 +375,15 @@ export default function MietrechtResearchDesk() {
         <section className="border-b border-border bg-gradient-to-b from-white to-bg-alt/60">
           <div className="max-w-5xl mx-auto px-5 py-14 grid lg:grid-cols-[1.15fr_.85fr] gap-10 items-end">
             <div>
-              <div className="inline-flex px-3 py-1 rounded-full border border-gold/20 bg-gold-light text-[11px] font-bold uppercase tracking-[0.18em] text-gold mb-5">Öffentlicher Prototyp · August 2026</div>
-              <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl leading-[1.02] mb-5">Was kannst du in deinem Mietrechtsfall jetzt tun?</h1>
-              <p className="text-lg text-ink-soft max-w-2xl leading-relaxed">Beschreibe, was passiert ist. GitLaw ordnet deinen Fall ein, findet die relevanten BGB-Regeln und zeigt dir auf dieser Basis mögliche nächste Schritte. Wenn entscheidende Fakten fehlen, sagt es dir konkret welche.</p>
+              <div className="inline-flex px-3 py-1 rounded-full border border-gold/20 bg-gold-light text-[11px] font-bold uppercase tracking-[0.18em] text-gold mb-5">Konzeptdemo · ohne Anmeldung</div>
+              <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl leading-[1.02] mb-5">Wissen, was jetzt zählt.</h1>
+              <p className="text-lg text-ink-soft max-w-2xl leading-relaxed">Bevor du zustimmst, zahlst oder eine Frist verpasst: Schildere deinen Mietfall. GitLaw zeigt dir den sinnvollsten nächsten Schritt, fehlende Unterlagen und die Quellen hinter der Einordnung.</p>
             </div>
             <div className="rounded-2xl border border-border bg-white p-5 text-sm text-ink-soft space-y-4">
               <p className="text-[11px] font-bold uppercase tracking-widest text-gold">Was du bekommst</p>
-              <div className="flex gap-3"><span className="mt-0.5 w-7 h-7 rounded-full bg-gold-light text-gold grid place-items-center text-xs font-bold">1</span><p><strong className="text-ink block">Eine Einordnung</strong>Was ist das wahrscheinlich für ein rechtliches Problem?</p></div>
-              <div className="flex gap-3"><span className="mt-0.5 w-7 h-7 rounded-full bg-gold-light text-gold grid place-items-center text-xs font-bold">2</span><p><strong className="text-ink block">Mögliche nächste Schritte</strong>Was kannst du jetzt sinnvoll tun — und in welcher Reihenfolge?</p></div>
-              <div className="flex gap-3"><span className="mt-0.5 w-7 h-7 rounded-full bg-gold-light text-gold grid place-items-center text-xs font-bold">3</span><p><strong className="text-ink block">Belege & Grenzen</strong>Welche BGB-Stellen tragen die Einordnung und was fehlt noch?</p></div>
+              <div className="flex gap-3"><span className="mt-0.5 w-7 h-7 rounded-full bg-gold-light text-gold grid place-items-center text-xs font-bold">1</span><p><strong className="text-ink block">Sofort-Orientierung</strong>Was ist wahrscheinlich das Problem und wie dringend ist es?</p></div>
+              <div className="flex gap-3"><span className="mt-0.5 w-7 h-7 rounded-full bg-gold-light text-gold grid place-items-center text-xs font-bold">2</span><p><strong className="text-ink block">Nächster Schritt heute</strong>Was kannst du jetzt tun — und was noch nicht vorschnell?</p></div>
+              <div className="flex gap-3"><span className="mt-0.5 w-7 h-7 rounded-full bg-gold-light text-gold grid place-items-center text-xs font-bold">3</span><p><strong className="text-ink block">Prüfbares Fallpaket</strong>Welche Unterlagen, Fragen und BGB-Quellen gehören in die menschliche Prüfung?</p></div>
             </div>
           </div>
         </section>
@@ -365,8 +420,20 @@ export default function MietrechtResearchDesk() {
                   <p className="text-lg sm:text-xl leading-relaxed text-ink">{decision.summary}</p>
                 </section>
 
+                <section className="grid lg:grid-cols-[1.2fr_.8fr] gap-4">
+                  <div className="rounded-3xl bg-ink text-white p-5 sm:p-7">
+                    <p className="text-[11px] font-bold uppercase tracking-widest text-gold-light mb-2">{decision.urgency}</p>
+                    <h2 className="font-display text-2xl sm:text-3xl mb-3">Dein nächster Schritt heute</h2>
+                    <p className="text-base sm:text-lg leading-relaxed text-white/85">{decision.today}</p>
+                  </div>
+                  <div className="rounded-3xl border border-gold/20 bg-gold-light/45 p-5 sm:p-7">
+                    <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-2">Noch nicht vorschnell tun</p>
+                    <p className="text-sm sm:text-base leading-relaxed text-ink-soft">{decision.avoid}</p>
+                  </div>
+                </section>
+
                 <section>
-                  <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-1">Was du jetzt tun kannst</p>
+                  <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-1">Was du danach tun kannst</p>
                   <h2 className="font-display text-2xl sm:text-3xl mb-2">Deine nächsten Optionen</h2>
                   <p className="text-sm text-ink-muted mb-4">Auf Basis deiner bisherigen Angaben — nicht als endgültige Rechtsberatung, sondern als begründete Handlungsorientierung.</p>
                   <div className="grid lg:grid-cols-3 gap-3">
@@ -391,6 +458,24 @@ export default function MietrechtResearchDesk() {
                     <p className="text-xs text-ink-muted mt-4">{decision.note}</p>
                   </div>
                   <div className="rounded-2xl bg-bg-alt border border-border p-4"><FileSearch className="w-5 h-5 text-gold mb-3" /><p className="text-[10px] font-bold uppercase tracking-widest text-ink-muted mb-2">Gesetzliche Basis</p><p className="font-display text-2xl mb-1">{result.sources.length} BGB-Stellen</p><p className="text-xs text-ink-muted leading-relaxed">{result.durationMs} ms · Die Quellenanzahl ist kein Maß für juristische Richtigkeit.</p></div>
+                </section>
+
+                <section className="rounded-3xl border border-border bg-white p-5 sm:p-7 grid lg:grid-cols-[1fr_.85fr] gap-6 items-start">
+                  <div>
+                    <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-1">Konkretes Ergebnis</p>
+                    <h2 className="font-display text-2xl sm:text-3xl mb-3">Dein Fallpaket für die menschliche Prüfung</h2>
+                    <p className="text-sm text-ink-soft leading-relaxed">Statt mit einer Paragraphenliste allein zu bleiben, nimmst du eine strukturierte Zusammenfassung mit: Einordnung, nächster Schritt, offene Fragen, benötigte Unterlagen und überprüfbare Quellen.</p>
+                    <button onClick={copyCaseBrief} className="mt-5 inline-flex items-center justify-center gap-2 px-5 py-3 rounded-xl bg-ink text-white font-semibold hover:opacity-90">
+                      <FileSearch className="w-4 h-4" /> {caseCopied ? 'Fallpaket kopiert ✓' : 'Fallpaket kopieren'}
+                    </button>
+                    <p className="text-xs text-ink-muted mt-3">Konzeptdemo ohne offizielle Verbindung zu CONNY. Das Fallpaket demonstriert eine mögliche Übergabe an qualifizierte menschliche Prüfung.</p>
+                  </div>
+                  <div className="rounded-2xl bg-bg-alt border border-border p-5">
+                    <p className="text-[11px] font-bold uppercase tracking-widest text-gold mb-3">Für die Prüfung bereithalten</p>
+                    <ul className="space-y-2 text-sm text-ink-soft">
+                      {decision.documents.map(document => <li key={document} className="flex gap-2"><span className="text-gold">✓</span><span>{document}</span></li>)}
+                    </ul>
+                  </div>
                 </section>
 
                 <section className="rounded-2xl border border-border bg-white p-5 sm:p-6">

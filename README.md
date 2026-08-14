@@ -13,11 +13,14 @@ GitLaw helps citizens and legal professionals find the relevant source, inspect 
 | Surface | Link | Honest status |
 | --- | --- | --- |
 | **Citizen app** | [Live app](https://mikelninh.github.io/gitlaw/) | Public research interface |
+| **German Mietrecht pilot** | [Try the tenant journey](https://mikelninh.github.io/gitlaw/#/mietrecht) | German by design; decision-support concept for German tenants |
 | **Source code** | [GitHub repository](https://github.com/mikelninh/gitlaw) | Public, AGPL-3.0 |
 | **GitLaw Pro** | Closed-beta workflow tier | Pilot, not general production |
 | **MCP server** | [`gitlaw_mcp/`](gitlaw_mcp/) | Working stdio and HTTP/SSE tools |
 | **Architecture** | [`wiki/Architecture.md`](wiki/Architecture.md) | Technical design and boundaries |
 | **Roadmap** | [`wiki/Roadmap.md`](wiki/Roadmap.md) | Current next steps and go-live gates |
+
+The tenant-facing Mietrecht pilot is intentionally German because it serves German tenants and German law; the engineering documentation remains English for an international technical audience.
 
 ## Current state — August 2026
 
