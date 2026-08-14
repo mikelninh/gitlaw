@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import { HashRouter, Route, Routes } from 'react-router-dom'
 import './index.css'
 import App from './App.tsx'
+import GitLawHome from './GitLawHome.tsx'
 import ProApp from './pro/ProApp.tsx'
 import MandantApp from './mandant/MandantApp.tsx'
 import IntakeForm from './pro/IntakeForm.tsx'
@@ -12,7 +13,8 @@ import MietrechtResearchDesk from './MietrechtResearchDesk.tsx'
 
 /**
  * Top-level router (HashRouter — works on GitHub Pages without SPA fallback).
- *   /#/                        → citizen App (default)
+ *   /#/                        → focused cross-domain GitLaw decision support
+ *   /#/research               → full citizen research interface
  *   /#/mietrecht              → public real-input Mietrecht research pilot
  *   /#/pro/*                   → Anwält:innen Pro tier (invite-gated)
  *   /#/intake/:slug            → Mandant:innen-Fragebogen (öffentlich)
@@ -39,8 +41,9 @@ createRoot(document.getElementById('root')!).render(
           <Route path="/pro/*" element={<ProApp />} />
           {/* Mandanten-Portal (auth-gated, getrennt von /pro) */}
           <Route path="/mandant/*" element={<MandantApp />} />
-          {/* Citizen app (default) */}
-          <Route path="/*" element={<App />} />
+          {/* Full research workspace remains available behind the focused entry experience. */}
+          <Route path="/research" element={<App />} />
+          <Route path="/*" element={<GitLawHome />} />
         </Routes>
       </HashRouter>
     )}

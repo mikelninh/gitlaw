@@ -146,7 +146,7 @@ const topicHints: TopicHint[] = [
   {
     id: 'rent-brake',
     label: 'Mietpreisbremse',
-    terms: ['mietpreisbremse', 'zu hohe miete', 'anfangsmiete', 'mietbeginn'],
+    terms: ['mietpreisbremse', 'zu hohe miete', 'miete zu teuer', 'zu teuer', 'anfangsmiete', 'mietbeginn', 'euro für', 'euro fuer', 'nettokaltmiete', 'quadratmeter'],
     sections: ['556d', '556e', '556f', '556g'],
   },
   {
