@@ -1,8 +1,8 @@
 # GitLaw ⚖️
 
-**Verified legal research and workflow infrastructure grounded in 5,936 German federal laws.**
+**Source-grounded legal decision support and workflow infrastructure across 5,936 German federal laws.**
 
-GitLaw helps citizens and legal professionals find the relevant source, inspect why it was retrieved and notice when the system is uncertain. It combines hybrid retrieval, a paragraph-level citation graph, deterministic citation checks, APIs, MCP tools and human-reviewable workflows.
+GitLaw turns unstructured everyday legal problems into checkable next steps. Citizens can see the likely issue, missing facts, immediate action and original sources; legal professionals can continue into human-reviewable research and workflow tools. The system combines curated decision paths, hybrid retrieval, a paragraph-level citation graph, deterministic citation checks, APIs and MCP tools.
 
 [![Citation resolution eval: 53/53](https://img.shields.io/badge/citation_resolution-53%2F53-brightgreen)](gitlaw_mcp/tests/cases.json)
 [![MCP CI](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml/badge.svg)](https://github.com/mikelninh/gitlaw/actions/workflows/mcp-ci.yml)
@@ -12,15 +12,16 @@ GitLaw helps citizens and legal professionals find the relevant source, inspect 
 
 | Surface | Link | Honest status |
 | --- | --- | --- |
-| **Citizen app** | [Live app](https://mikelninh.github.io/gitlaw/) | Public research interface |
-| **German Mietrecht pilot** | [Try the tenant journey](https://mikelninh.github.io/gitlaw/#/mietrecht) | German by design; decision-support concept for German tenants |
+| **Citizen decision support** | [Live app](https://mikelninh.github.io/gitlaw/) | Focused cross-domain entry with visible uncertainty and official sources |
+| **Full legal research** | [Open research workspace](https://mikelninh.github.io/gitlaw/#/research) | Search and explanation interface across the federal corpus |
+| **German Mietrecht pilot** | [Try the flagship deep-dive](https://mikelninh.github.io/gitlaw/#/mietrecht) | First deeper Legal Pack; German by design |
 | **Source code** | [GitHub repository](https://github.com/mikelninh/gitlaw) | Public, AGPL-3.0 |
 | **GitLaw Pro** | Closed-beta workflow tier | Pilot, not general production |
 | **MCP server** | [`gitlaw_mcp/`](gitlaw_mcp/) | Working stdio and HTTP/SSE tools |
 | **Architecture** | [`wiki/Architecture.md`](wiki/Architecture.md) | Technical design and boundaries |
 | **Roadmap** | [`wiki/Roadmap.md`](wiki/Roadmap.md) | Current next steps and go-live gates |
 
-The tenant-facing Mietrecht pilot is intentionally German because it serves German tenants and German law; the engineering documentation remains English for an international technical audience.
+The citizen experience and Mietrecht flagship are intentionally German because they serve people navigating German law; the engineering documentation remains English for an international technical audience. Mietrecht is the first deep vertical, not GitLaw's product boundary.
 
 ## Current state — August 2026
 
