@@ -51,7 +51,7 @@ export const legalScenarios: LegalScenario[] = [
     id: 'defective-purchase',
     title: 'Defekter Kauf oder verweigerte Reparatur',
     category: 'Verbraucherrecht',
-    terms: ['defekter laptop', 'laptop ist defekt', 'gerät ist defekt', 'geraet ist defekt', 'händler repariert nicht', 'haendler repariert nicht', 'gewährleistung', 'gewaehrleistung', 'ware kaputt', 'produkt kaputt'],
+    terms: ['defekter laptop', 'defekten laptop', 'laptop ist defekt', 'gerät ist defekt', 'geraet ist defekt', 'händler repariert nicht', 'haendler repariert nicht', 'gewährleistung', 'gewaehrleistung', 'ware kaputt', 'produkt kaputt', 'händler', 'haendler', 'reparieren'],
     summary: 'Bei einem mangelhaften Kauf kommen gesetzliche Gewährleistungsrechte in Betracht. Welche Forderung sinnvoll ist, hängt unter anderem von Kaufdatum, Mangel, Verkäufer und bisherigen Reparaturversuchen ab.',
     legalCore: 'GitLaw unterscheidet gesetzliche Gewährleistung von einer freiwilligen Garantie und prüft zuerst, ob Reparatur oder Ersatz verlangt werden kann.',
     nextSteps: [
