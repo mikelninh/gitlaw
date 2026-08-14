@@ -233,11 +233,11 @@ export function detectLegalScenario(question: string): LegalScenario | null {
 export function extractRecognizedFacts(question: string, scenario: LegalScenario) {
   const facts: string[] = []
   const normalizedQuestion = normalize(question)
-  const amountMatch = question.match(/(\d{3,4}(?:[.,]\d{1,2})?)\s*(?:€|euro)/i)
-  const areaMatch = question.match(/(\d{2,3}(?:[.,]\d{1,2})?)\s*(?:m²|qm2?|m2)/i)
+  const amountMatch = question.match(/(\d[\d.\s]*(?:,\d{1,2})?)\s*(?:€|euro)/i)
+  const areaMatch = question.match(/(\d{1,3}(?:[.,]\d{1,2})?)\s*(?:m²|qm2?|m2)/i)
 
   if (scenario.id === 'rent-check' && amountMatch && areaMatch) {
-    const amount = Number(amountMatch[1].replace(',', '.'))
+    const amount = Number(amountMatch[1].replace(/[.\s]/g, '').replace(',', '.'))
     const area = Number(areaMatch[1].replace(',', '.'))
     if (Number.isFinite(amount) && Number.isFinite(area) && area > 0) {
       facts.push(`${amount.toLocaleString('de-DE')} € ÷ ${area.toLocaleString('de-DE')} m² = ${(amount / area).toLocaleString('de-DE', { maximumFractionDigits: 2 })} €/m²`)
