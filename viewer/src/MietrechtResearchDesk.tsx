@@ -384,7 +384,7 @@ export default function MietrechtResearchDesk() {
     if (!result || !decision) return
     const refs = sourceRefs(result)
     const text = [
-      'GitLaw · Fallpaket zur menschlichen Prüfung',
+      'GitLaw · Zusammenfassung für eine Beratung',
       '',
       `Geschilderter Fall: ${question.trim()}`,
       `Vorläufige Einordnung: ${decision.topic}`,
@@ -438,7 +438,7 @@ export default function MietrechtResearchDesk() {
             <div className="mt-6 flex flex-wrap justify-center gap-2 text-xs font-semibold text-ink-soft">
               <span className="rounded-full border border-border bg-white px-3 py-1.5">Einordnung</span>
               <span className="rounded-full border border-border bg-white px-3 py-1.5">Nächster Schritt</span>
-              <span className="rounded-full border border-border bg-white px-3 py-1.5">Fallpaket</span>
+              <span className="rounded-full border border-border bg-white px-3 py-1.5">Beratungsbrief</span>
             </div>
           </div>
         </section>
@@ -493,11 +493,11 @@ export default function MietrechtResearchDesk() {
                   <div className="grid lg:grid-cols-[1fr_auto] gap-6 items-center">
                     <div>
                       <p className="text-[11px] font-bold uppercase tracking-widest text-gold-light mb-2">Dein Ergebnis zum Mitnehmen</p>
-                      <h2 className="font-display text-2xl sm:text-3xl mb-2">Fallpaket für die Prüfung</h2>
-                      <p className="text-sm text-white/70 leading-relaxed">Einordnung, nächster Schritt, offene Fragen, benötigte Unterlagen und alle gefundenen Quellen — kompakt in einem Brief.</p>
+                      <h2 className="font-display text-2xl sm:text-3xl mb-2">Zusammenfassung für eine Beratung</h2>
+                      <p className="text-sm text-white/70 leading-relaxed">Nimm deine Angaben, offenen Fragen, benötigten Unterlagen und Quellen mit — damit du bei einer Beratung nicht von vorn anfangen musst.</p>
                     </div>
                     <button onClick={copyCaseBrief} className="inline-flex items-center justify-center gap-2 px-5 py-3 rounded-xl bg-white text-ink font-semibold hover:bg-gold-light">
-                      <FileSearch className="w-4 h-4" /> {caseCopied ? 'Fallpaket kopiert ✓' : 'Fallpaket kopieren'}
+                      <FileSearch className="w-4 h-4" /> {caseCopied ? 'Zusammenfassung kopiert ✓' : 'Zusammenfassung kopieren'}
                     </button>
                   </div>
                   <div className="mt-5 pt-4 border-t border-white/10 flex flex-wrap gap-x-5 gap-y-2 text-xs text-white/60">
