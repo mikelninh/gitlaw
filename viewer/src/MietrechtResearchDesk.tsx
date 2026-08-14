@@ -75,10 +75,10 @@ function sourceRefs(result: MietrechtResearchResult, requested: string[] = []) {
 }
 
 function rentPerSquareMetre(question: string) {
-  const amountMatch = question.match(/(\\d{3,4}(?:[.,]\\d{1,2})?)\\s*(?:€|euro)/i)
-  const areaMatch = question.match(/(\\d{2,3}(?:[.,]\\d{1,2})?)\\s*(?:m²|qm2?|m2)/i)
+  const amountMatch = question.match(/(\d[\d.\s]*(?:,\d{1,2})?)\s*(?:€|euro)/i)
+  const areaMatch = question.match(/(\d{1,3}(?:[.,]\d{1,2})?)\s*(?:m²|qm2?|m2)/i)
   if (!amountMatch || !areaMatch) return null
-  const amount = Number(amountMatch[1].replace(',', '.'))
+  const amount = Number(amountMatch[1].replace(/[.\s]/g, '').replace(',', '.'))
   const area = Number(areaMatch[1].replace(',', '.'))
   if (!Number.isFinite(amount) || !Number.isFinite(area) || area <= 0) return null
   return {
