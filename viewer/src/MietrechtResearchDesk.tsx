@@ -3,9 +3,12 @@ import { ArrowLeft, ExternalLink, FileSearch, MessageCircle, Scale, Search } fro
 import { askMietrechtResearchQuestion, type MietrechtResearchResult } from './mietrecht'
 
 const examples = [
-  'Mein Vermieter will die Miete um 20 % erhöhen. Das Schreiben kam gestern. Was kann ich jetzt tun?',
+  'Ist meine Miete in Friedrichshain zu teuer? 2.000 Euro für 50 qm2.',
+  'Mein Vermieter will die Miete um 20 % erhöhen. Das Schreiben kam gestern.',
   'Mein Vermieter kündigt wegen Eigenbedarf. Welche Möglichkeiten habe ich?',
-  'Meine Kaution ist nach dem Auszug noch nicht zurückgezahlt. Was sind meine nächsten Schritte?',
+  'Meine Kaution ist nach dem Auszug noch nicht zurückgezahlt.',
+  'Meine Nebenkostenabrechnung ist viel höher als im Vorjahr.',
+  'In meiner Wohnung ist Schimmel. Was sollte ich zuerst tun?',
 ]
 
 type Rating = 'helpful' | 'partial' | 'missing'
@@ -71,8 +74,63 @@ function sourceRefs(result: MietrechtResearchResult, requested: string[] = []) {
     .filter((value, index, all) => all.indexOf(value) === index)
 }
 
+function rentPerSquareMetre(question: string) {
+  const amountMatch = question.match(/(\\d{3,4}(?:[.,]\\d{1,2})?)\\s*(?:€|euro)/i)
+  const areaMatch = question.match(/(\\d{2,3}(?:[.,]\\d{1,2})?)\\s*(?:m²|qm2?|m2)/i)
+  if (!amountMatch || !areaMatch) return null
+  const amount = Number(amountMatch[1].replace(',', '.'))
+  const area = Number(areaMatch[1].replace(',', '.'))
+  if (!Number.isFinite(amount) || !Number.isFinite(area) || area <= 0) return null
+  return {
+    amount,
+    area,
+    perSquareMetre: amount / area,
+  }
+}
+
 function buildDecisionSupport(question: string, result: MietrechtResearchResult): DecisionSupport {
   const q = normalizeQuestion(question)
+
+  if (['mietpreisbremse', 'zu hohe miete', 'miete zu teuer', 'zu teuer', 'anfangsmiete', 'euro fuer'].some(term => q.includes(term))) {
+    const rentFacts = rentPerSquareMetre(question)
+    const calculation = rentFacts
+      ? ` Aus den genannten Werten ergeben sich rechnerisch ${rentFacts.perSquareMetre.toLocaleString('de-DE', { maximumFractionDigits: 2 })} €/m² — aber nur dann als relevanter Vergleichswert, wenn ${rentFacts.amount.toLocaleString('de-DE')} € die Nettokaltmiete für ${rentFacts.area.toLocaleString('de-DE')} m² sind.`
+      : ''
+
+    return {
+      topic: 'Miete möglicherweise zu hoch',
+      summary: `Die Miethöhe wirkt prüfenswert. Ein hoher Betrag allein beweist aber noch keinen Verstoß gegen die Mietpreisbremse.${calculation} Entscheidend sind Mietbeginn, Nettokaltmiete, Mietspiegel und mögliche Ausnahmen.`,
+      urgency: 'Prüfenswert — noch keine Aussage zur rechtlichen Zulässigkeit',
+      today: 'Kläre zuerst, ob der genannte Betrag die Nettokalt- oder Warmmiete ist. Lege dann Mietvertrag, Mietbeginn, Wohnfläche, Lage und Baujahr bereit.',
+      avoid: 'Vergleiche die Warmmiete nicht direkt mit dem Mietspiegel und behandle den Quadratmeterpreis allein nicht als Beweis für eine zulässige oder unzulässige Miete.',
+      documents: ['Mietvertrag', 'Aufschlüsselung von Kaltmiete und Nebenkosten', 'Wohnfläche und Baujahr', 'Angaben zur Vormiete', 'Mietspiegelmerkmale'],
+      options: [
+        {
+          title: '1. Vergleichswert sauber bestimmen',
+          text: 'Der erste belastbare Schritt ist die Nettokaltmiete pro Quadratmeter. Betriebskosten, Möblierung und weitere Zuschläge müssen getrennt betrachtet werden.',
+          sourceNumbers: ['556d'],
+        },
+        {
+          title: '2. Mietbeginn und mögliche Ausnahmen prüfen',
+          text: 'Für die Mietpreisbremse können insbesondere der Zeitpunkt des Mietbeginns, die Vormiete sowie Neubau oder umfassende Modernisierung entscheidend sein.',
+          sourceNumbers: ['556e', '556f'],
+        },
+        {
+          title: '3. Mit Mietspiegeldaten konkret vergleichen',
+          text: 'Lage, Baujahr, Größe und Ausstattung bestimmen den relevanten Vergleich. Erst mit diesen Angaben wird aus dem auffälligen Preis ein prüfbarer Fall.',
+          sourceNumbers: ['556d'],
+        },
+      ],
+      missingFacts: [
+        'Sind die genannten 2.000 Euro Warmmiete oder Nettokaltmiete?',
+        'Wann begann das Mietverhältnis?',
+        'Wie lautet die genaue Wohnfläche, Lage und das Baujahr?',
+        'Ist die Wohnung möbliert, ein Neubau oder umfassend modernisiert?',
+        'Ist die Vormiete bekannt?',
+      ],
+      note: 'GitLaw berechnet erkennbare Werte deterministisch und nutzt RAG für die gesetzlichen Ausgangspunkte. Eine belastbare Mietspiegelprüfung benötigt zusätzliche Wohnungsmerkmale.',
+    }
+  }
 
   if (['mieterhoehung', 'miete um 20', 'miete erhoehen', 'kappungsgrenze', 'vergleichsmiete'].some(term => q.includes(term))) {
     return {
