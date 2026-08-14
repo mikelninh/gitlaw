@@ -1,14 +1,28 @@
 # GitLaw ⚖️
 
-**Source-grounded legal decision support across 5,936 German federal laws.**
+**Source-grounded legal AI across 5,936 German federal laws.**
 
 GitLaw turns an unstructured legal question into something a person can inspect: the likely issue, missing facts, relevant paragraphs, uncertainty and a practical next step.
 
-**[Try GitLaw](https://mikelninh.github.io/gitlaw/)** · **[Research workspace](https://mikelninh.github.io/gitlaw/#/research)** · **[Mietrecht pilot](https://mikelninh.github.io/gitlaw/#/mietrecht)**
+**[Try GitLaw →](https://mikelninh.github.io/gitlaw/)** · [Research workspace](https://mikelninh.github.io/gitlaw/#/research) · [Mietrecht pilot](https://mikelninh.github.io/gitlaw/#/mietrecht)
 
 ## What it proves
 
-- hybrid legal retrieval across the German federal-law corpus
+```text
+question
+   ↓
+exact + BM25 + semantic retrieval
+   ↓
+paragraph graph
+   ↓
+deterministic citation check
+   ↓
+structured answer + uncertainty
+   ↓
+human-reviewable next step
+```
+
+- hybrid retrieval across the German federal-law corpus
 - paragraph-level source links and cross-reference graph
 - deterministic citation resolution
 - structured outputs with visible uncertainty
@@ -24,87 +38,55 @@ GitLaw turns an unstructured legal question into something a person can inspect:
 | Paragraph / graph nodes | **94,178** |
 | Cross-references | **200,464** |
 | FAISS vectors | **98,367** |
-| Citation-resolution eval | **53/53** |
+| Citation-resolution eval | **53 / 53** |
 
 **Important:** 53/53 measures citation-resolution cases, not complete legal-answer accuracy.
 
-## How it works
-
-```text
-German federal laws + case-law sources
-                 ↓
-        ingest + normalize
-                 ↓
-       exact / BM25 / FAISS
-                 ↓
-          hybrid retrieval
-                 ↓
-      paragraph graph lookup
-                 ↓
- deterministic citation check
-                 ↓
-   explanation / workflow output
-                 ↓
-            human review
-```
-
-Retrieval and citation verification are inspectable separately from generation. Missing or unverifiable sources remain visible instead of being smoothed over by the model.
-
 ## Product surfaces
 
-### Citizen decision support
-Plain-language questions become a structured orientation: issue, relevant sources, missing facts, uncertainty and possible next steps.
+- **Citizen experience** — plain-language legal orientation with source links
+- **Research workspace** — search and inspect the broader federal corpus
+- **Mietrecht pilot** — a deeper decision-support flow for one legal vertical
+- **MCP + APIs** — legal search, lookup and citation-verification tools for agents
 
-### Legal research
-Search and navigation across the federal-law corpus with exact lookup, lexical retrieval, semantic retrieval and related-paragraph exploration.
-
-### Mietrecht pilot
-A deeper domain pack for German tenancy law that shows how a broad legal engine can gain stronger domain-specific workflows without pretending the whole product is only about tenancy.
-
-### MCP + APIs
-GitLaw exposes legal-search and verification primitives that other agents can compose rather than reimplementing legal retrieval themselves.
-
-Current MCP tools include:
-
-- `search_laws`
-- `hybrid_search`
-- `verify_citation`
-- `lookup_paragraph`
-- `find_related_paragraphs`
-- `list_laws`
+Mietrecht is the first deeper vertical, **not GitLaw’s product boundary**.
 
 ## Engineering choices
 
-- **Grounded:** outputs point back to inspectable sources.
-- **Bounded:** professional actions stay behind human review.
-- **Testable:** retrieval and citation failures become evaluation cases.
-- **Composable:** APIs and MCP expose small legal primitives.
-- **Honest:** unknown, stale or unsupported claims remain visible.
+```text
+German federal-law corpus
+          ↓
+ingest + normalize
+          ↓
+BM25 / exact / FAISS
+          ↓
+hybrid ranker
+          ↓
+paragraph graph lookup
+          ↓
+local citation verifier
+          ↓
+React UI + APIs + MCP
+```
+
+The core principle is simple: **retrieval, evidence and verification should remain inspectable separately from generation.**
 
 ## Stack
 
-`Python · FastAPI · React · TypeScript · BM25 · FAISS · embeddings · MCP · Pydantic · Zod · CI evals`
+**Python · FastAPI · React · TypeScript · BM25 · FAISS · embeddings · MCP · Pydantic · Zod · CI evals**
 
-## Run locally
+## Run the MCP demo
 
 ```bash
-# Citizen interface
-cd viewer
-npm install
-npm run dev
-
-# MCP demonstration
 python -m gitlaw_mcp.demo
 ```
 
-More detail lives in [`wiki/`](wiki/), including architecture, development, privacy boundaries and roadmap.
+## Boundary
 
-## Current boundary
+GitLaw assists research and preparation. It does **not** replace qualified legal advice or make consequential legal decisions autonomously.
 
-GitLaw is a substantial live prototype, not a security-certified legal SaaS product. Broader professional deployment still requires external security/privacy review, stronger operational controls and evaluation with qualified legal professionals on representative matters.
-
-**GitLaw supports research and preparation. It does not replace legal advice or make final legal decisions.**
+The next meaningful proof is broader evaluation with legal professionals on anonymised matters — not simply adding more features.
 
 ---
 
-Built by [Michael Ninh](https://github.com/mikelninh) in Berlin. · [AGPL-3.0](LICENSE)
+Solo-built by [Michael Ninh](https://mikelninh.github.io/) in Berlin. · AGPL-3.0
