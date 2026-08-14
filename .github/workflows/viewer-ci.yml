@@ -33,6 +33,9 @@ jobs:
       - name: Run Mietrecht regression
         working-directory: viewer
         run: node scripts/mietrecht-regression.mjs
+      - name: Run cross-domain routing regression
+        working-directory: viewer
+        run: node --experimental-strip-types scripts/legal-scenario-regression.mjs
       - name: Build viewer
         working-directory: viewer
         run: npm run build
