@@ -2,7 +2,7 @@
 
 **Abkürzung:** RuStAG
 **Ausfertigungsdatum:** 1913-07-22
-**Stand:** Zuletzt geändert durch Art. 3 G v. 22.12.2025 I Nr. 364; 2026 I Nr. 49
+**Stand:** Zuletzt geändert durch Art. 3 G v. 21.7.2026 I Nr. 221
 
 ---
 
@@ -212,7 +212,7 @@ Die Einbürgerung wird wirksam mit der Aushändigung der von der zuständigen St
 
 (2) Die deutsche Staatsangehörigkeit verliert auch ein Kind, rückwirkend zum Zeitpunkt des Erwerbs nach § 4 Absatz 1, 2 oder Absatz 3 Satz 1 oder nach § 6, wenn die Voraussetzungen für diesen Erwerb nicht mehr erfüllt sind. Die Rechtsfolge nach Satz 1 tritt ein, wenn
 
-1. die rückwirkende Entscheidung unanfechtbar ist über a)eine nach den deutschen Gesetzen wirksame Feststellung des Nichtbestehens der Vaterschaft,b)den Wegfall des in § 4 Absatz 3 Satz 1 Nummer 2 aufgeführten Aufenthaltsrechts des Elternteils, der für den Erwerb der deutschen Staatsangehörigkeit des Kindes maßgeblich ist,c)die Unwirksamkeit der Annahme als Kind oderd)den Verlust der deutschen Staatsangehörigkeit eines Elternteils nach § 35 Absatz 6oder eine nach den deutschen Gesetzen wirksame Feststellung des Nichtbestehens der Vaterschaft, den Wegfall des in § 4 Absatz 3 Satz 1 Nummer 2 aufgeführten Aufenthaltsrechts des Elternteils, der für den Erwerb der deutschen Staatsangehörigkeit des Kindes maßgeblich ist, die Unwirksamkeit der Annahme als Kind oder den Verlust der deutschen Staatsangehörigkeit eines Elternteils nach § 35 Absatz 6
+1. die rückwirkende Entscheidung unanfechtbar ist über a)eine nach den deutschen Gesetzen wirksame Feststellung des Nichtbestehens der Vaterschaft,b)die Rücknahme der Zustimmung der Ausländerbehörde zur Anerkennung der Vaterschaft gemäß § 85d Absatz 2 bis 4 des Aufenthaltsgesetzes oder die Rücknahme der Feststellung der Ausländerbehörde gemäß § 85d Absatz 5 des Aufenthaltsgesetzes jeweils in Verbindung mit § 1598 Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs,c)den Wegfall des in § 4 Absatz 3 Satz 1 Nummer 2 aufgeführten Aufenthaltsrechts des Elternteils, der für den Erwerb der deutschen Staatsangehörigkeit des Kindes maßgeblich ist,d)die Unwirksamkeit der Annahme als Kind odere)den Verlust der deutschen Staatsangehörigkeit eines Elternteils nach § 35 Absatz 6oder eine nach den deutschen Gesetzen wirksame Feststellung des Nichtbestehens der Vaterschaft, die Rücknahme der Zustimmung der Ausländerbehörde zur Anerkennung der Vaterschaft gemäß § 85d Absatz 2 bis 4 des Aufenthaltsgesetzes oder die Rücknahme der Feststellung der Ausländerbehörde gemäß § 85d Absatz 5 des Aufenthaltsgesetzes jeweils in Verbindung mit § 1598 Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs, den Wegfall des in § 4 Absatz 3 Satz 1 Nummer 2 aufgeführten Aufenthaltsrechts des Elternteils, der für den Erwerb der deutschen Staatsangehörigkeit des Kindes maßgeblich ist, die Unwirksamkeit der Annahme als Kind oder den Verlust der deutschen Staatsangehörigkeit eines Elternteils nach § 35 Absatz 6
 
 2. eine nach den deutschen Gesetzen wirksame Anerkennung der Vaterschaft eines Dritten, die das rückwirkende Nichtbestehen der bisherigen Vaterschaft zur Folge hat, wirksam wird oder
 

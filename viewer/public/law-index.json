@@ -1620,6 +1620,26 @@
     "file": "msptbeihilfeano.md"
   },
   {
+    "id": "aabeamtwidano",
+    "title": "Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden aus dem Beamtenverhältnis bezüglich Beamtinnen und Beamten des Auswärtigen Amtes auf das Bundesamt für Auswärtige Angelegenheiten",
+    "abbreviation": "AABeamtWidAnO",
+    "date": "2026-07-13",
+    "stand": "",
+    "sections": 4,
+    "lines": 25,
+    "file": "aabeamtwidano.md"
+  },
+  {
+    "id": "bfaabeamtwidano",
+    "title": "Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden aus dem Beamtenverhältnis bezüglich Beamtinnen und Beamten des Bundesamts für Auswärtige Angelegenheiten auf das Bundesamt für Auswärtige Angelegenheiten",
+    "abbreviation": "BfAABeamtWidAnO",
+    "date": "2026-07-13",
+    "stand": "",
+    "sections": 4,
+    "lines": 25,
+    "file": "bfaabeamtwidano.md"
+  },
+  {
     "id": "bmjgerwidano_2024",
     "title": "Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden in beamtenrechtlichen Angelegenheiten auf die Gerichte und Behörden im Geschäftsbereich des Bundesministeriums der Justiz",
     "abbreviation": "BMJGerWidAnO 2024",
@@ -2380,6 +2400,16 @@
     "file": "bfezustano.md"
   },
   {
+    "id": "bmasüzustwidvertrano",
+    "title": "Anordnung zur Übertragung von Zuständigkeiten nach dem Beamtenversorgungsgesetz, zur Übertragung von Zuständigkeiten nach dem Altersgeldgesetz, zur Übertragung von Zuständigkeiten für die Nachversicherung bei einem Ausscheiden aus dem Beamtenverhältnis, zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales",
+    "abbreviation": "BMASÜZustWidVertrAnO",
+    "date": "2026-07-22",
+    "stand": "",
+    "sections": 7,
+    "lines": 43,
+    "file": "bmasüzustwidvertrano.md"
+  },
+  {
     "id": "baupüano",
     "title": "Anordnung über Bauvorlagen, Bautechnische Prüfungen und Überwachung",
     "abbreviation": "BauPÜAnO",
@@ -3008,6 +3038,16 @@
     "sections": 7,
     "lines": 67,
     "file": "bmjvertrano_2013.md"
+  },
+  {
+    "id": "bmjvvertrano_2026",
+    "title": "Anordnung über die Vertretung der Bundesrepublik Deutschland im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz",
+    "abbreviation": "BMJVVertrAnO 2026",
+    "date": "2026-07-17",
+    "stand": "Ersetzt AnO 2030-13-18 v. 1.2.2013 I 167 (BMJVertrAnO 2013)",
+    "sections": 8,
+    "lines": 68,
+    "file": "bmjvvertrano_2026.md"
   },
   {
     "id": "bvertrbmbano",
@@ -13276,7 +13316,7 @@
     "date": "1961-10-02",
     "stand": "Neugefasst durch Bek. v. 16.4.1987 I 1218;",
     "sections": 24,
-    "lines": 320,
+    "lines": 330,
     "file": "bäo.md"
   },
   {
@@ -19470,6 +19510,16 @@
     "file": "stabwg.md"
   },
   {
+    "id": "anpvfabwg_2026",
+    "title": "Gesetz zur Abweichung von dem Anpassungsverfahren gemäß § 11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2026",
+    "abbreviation": "AnpVfAbwG 2026",
+    "date": "2026-07-16",
+    "stand": "",
+    "sections": 3,
+    "lines": 21,
+    "file": "anpvfabwg_2026.md"
+  },
+  {
     "id": "akg",
     "title": "Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen Reiches entstandener Schäden",
     "abbreviation": "AKG",
@@ -20188,6 +20238,16 @@
     "sections": 99,
     "lines": 1794,
     "file": "wpig.md"
+  },
+  {
+    "id": "abüfög",
+    "title": "Gesetz zur befristeten Förderung einer Aktivierung des Bauüberhangs",
+    "abbreviation": "ABüFöG",
+    "date": "2026-07-20",
+    "stand": "",
+    "sections": 2,
+    "lines": 19,
+    "file": "abüfög.md"
   },
   {
     "id": "aabg",
@@ -22280,6 +22340,16 @@
     "file": "lastg.md"
   },
   {
+    "id": "ki-mig",
+    "title": "Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz",
+    "abbreviation": "KI-MIG",
+    "date": "2026-07-22",
+    "stand": "",
+    "sections": 20,
+    "lines": 331,
+    "file": "ki-mig.md"
+  },
+  {
     "id": "müg_2021",
     "title": "Gesetz zur Marktüberwachung und zur Sicherstellung der Konformität von Produkten",
     "abbreviation": "MüG 2021",
@@ -23308,6 +23378,16 @@
     "sections": 140,
     "lines": 14725,
     "file": "sokasig_2.md"
+  },
+  {
+    "id": "stromvkg",
+    "title": "Gesetz zur Sicherung der Versorgungssicherheit Strom und zur Bereitstellung neuer Kapazitäten",
+    "abbreviation": "StromVKG",
+    "date": "2026-07-21",
+    "stand": "",
+    "sections": 95,
+    "lines": 1289,
+    "file": "stromvkg.md"
   },
   {
     "id": "oasg",
@@ -24604,7 +24684,7 @@
     "title": "Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets",
     "abbreviation": "AAÜG",
     "date": "1991-07-25",
-    "stand": "Zuletzt geändert durch Art. 4 G v. 6.10.2020 I 2072",
+    "stand": "Zuletzt geändert durch Art. 2 G v. 24.7.2026 I Nr. 227",
     "sections": 26,
     "lines": 382,
     "file": "aaüg.md"
@@ -26314,9 +26394,9 @@
     "title": "Gesetz über die allgemeine Freizügigkeit von Unionsbürgern",
     "abbreviation": "FreizügG/EU 2004",
     "date": "2004-07-30",
-    "stand": "Zuletzt geändert durch Art. 4 G v. 21.2.2024 I Nr. 54",
-    "sections": 23,
-    "lines": 352,
+    "stand": "Zuletzt geändert durch Art. 5 G v. 16.7.2026 I Nr. 213",
+    "sections": 24,
+    "lines": 356,
     "file": "freizügg_eu_2004.md"
   },
   {
@@ -31886,7 +31966,7 @@
     "date": "1986-04-19",
     "stand": "Neugefasst durch Bek. v. 30.10.2023 I Nr. 291",
     "sections": 33,
-    "lines": 536,
+    "lines": 538,
     "file": "paßg_1986.md"
   },
   {
@@ -33404,7 +33484,7 @@
     "title": "Staatsangehörigkeitsgesetz",
     "abbreviation": "RuStAG",
     "date": "1913-07-22",
-    "stand": "Zuletzt geändert durch Art. 3 G v. 22.12.2025 I Nr. 364; 2026 I Nr. 49",
+    "stand": "Zuletzt geändert durch Art. 3 G v. 21.7.2026 I Nr. 221",
     "sections": 46,
     "lines": 424,
     "file": "rustag.md"
@@ -37750,6 +37830,16 @@
     "file": "ehv_2030.md"
   },
   {
+    "id": "ehv_2030_2",
+    "title": "Verordnung zur Durchführung des Treibhausgas-Emissionshandelsgesetzes in der Handelsperiode 2021 bis 2030",
+    "abbreviation": "EHV 2030/2",
+    "date": "2026-07-10",
+    "stand": "Ersetzt V 2129-55-3 v. 29.4.2019 I 538 (EHV 2030)",
+    "sections": 36,
+    "lines": 424,
+    "file": "ehv_2030_2.md"
+  },
+  {
     "id": "trzollv",
     "title": "Verordnung zur Durchführung des Truppenzollgesetzes",
     "abbreviation": "TrZollV",
@@ -39188,6 +39278,16 @@
     "sections": 5,
     "lines": 125,
     "file": "bbfestv_2025.md"
+  },
+  {
+    "id": "bbfestv_2026",
+    "title": "Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2026",
+    "abbreviation": "BBFestV 2026",
+    "date": "2026-07-10",
+    "stand": "",
+    "sections": 5,
+    "lines": 125,
+    "file": "bbfestv_2026.md"
   },
   {
     "id": "ndwv",
@@ -42048,6 +42148,16 @@
     "sections": 22,
     "lines": 275,
     "file": "buttv_1997.md"
+  },
+  {
+    "id": "darlvermv",
+    "title": "Verordnung über Darlehensvermittlung",
+    "abbreviation": "DarlVermV",
+    "date": "2026-07-28",
+    "stand": "",
+    "sections": 18,
+    "lines": 235,
+    "file": "darlvermv.md"
   },
   {
     "id": "aktfov",
@@ -46040,6 +46150,16 @@
     "file": "isausbv_1997.md"
   },
   {
+    "id": "ausbaubausbv",
+    "title": "Verordnung über die Berufsausbildung in Ausbauberufen",
+    "abbreviation": "AusbauBAusbV",
+    "date": "2024-06-03",
+    "stand": "Geändert durch Art. 3 V v. 17.12.2024 I Nr. 425",
+    "sections": 109,
+    "lines": 2774,
+    "file": "ausbaubausbv.md"
+  },
+  {
     "id": "indelausbv_2007",
     "title": "Verordnung über die Berufsausbildung in den industriellen Elektroberufen",
     "abbreviation": "IndElAusbV 2007",
@@ -46098,6 +46218,26 @@
     "sections": 36,
     "lines": 442,
     "file": "see-bav.md"
+  },
+  {
+    "id": "hochbaubausbv",
+    "title": "Verordnung über die Berufsausbildung in Hochbauberufen",
+    "abbreviation": "HochbauBAusbV",
+    "date": "2024-06-03",
+    "stand": "Geändert durch Art. 2 V v. 17.12.2024 I Nr. 425",
+    "sections": 79,
+    "lines": 1896,
+    "file": "hochbaubausbv.md"
+  },
+  {
+    "id": "tiefbaubausbv",
+    "title": "Verordnung über die Berufsausbildung in Tiefbauberufen",
+    "abbreviation": "TiefbauBAusbV",
+    "date": "2024-06-03",
+    "stand": "Geändert durch Art. 1 V v. 17.12.2024 I Nr. 425",
+    "sections": 109,
+    "lines": 2694,
+    "file": "tiefbaubausbv.md"
   },
   {
     "id": "amausbv_2004",
@@ -46438,6 +46578,16 @@
     "sections": 20,
     "lines": 276,
     "file": "bankkflausbv.md"
+  },
+  {
+    "id": "bautechkonausbv",
+    "title": "Verordnung über die Berufsausbildung zum Bautechnischen Konstrukteur und zur Bautechnischen Konstrukteurin",
+    "abbreviation": "BautechKonAusbV",
+    "date": "2025-09-03",
+    "stand": "",
+    "sections": 39,
+    "lines": 645,
+    "file": "bautechkonausbv.md"
   },
   {
     "id": "bauzausbv_2002",
@@ -47308,6 +47458,16 @@
     "sections": 14,
     "lines": 257,
     "file": "marketkfmausbv.md"
+  },
+  {
+    "id": "mobverkkflausbv",
+    "title": "Verordnung über die Berufsausbildung zum Kaufmann für Mobilität und Verkehrsservice und zur Kauffrau für Mobilität und Verkehrsservice",
+    "abbreviation": "MobVerkKflAusbV",
+    "date": "2026-01-14",
+    "stand": "Ersetzt V 806-21-1-239 v. 24.6.1997 I 1583 (VServiceAusbV) u. V 806-21-1-270 v. 12.7.1999 I 1586 (VerkKfmAusbV 1999)",
+    "sections": 18,
+    "lines": 268,
+    "file": "mobverkkflausbv.md"
   },
   {
     "id": "spedkfmausbv_2004",
