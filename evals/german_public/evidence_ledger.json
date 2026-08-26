@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "status": "GERMAN_PUBLIC_EVIDENCE_IN_PROGRESS",
+  "principle": "Registration, executable adapter, executed benchmark and release-grade product evidence are distinct states.",
+  "benchmarks": {
+    "gerlayqa": {
+      "registration": "PINNED",
+      "adapter": "IMPLEMENTED",
+      "execution": "RUNNING_OR_PENDING_RESULT_FREEZE",
+      "frozen_result": null,
+      "claim_scope": "German BGB paragraph retrieval on pinned historical GerLayQA eval split",
+      "counts_as_product_gold": false
+    },
+    "gerdalir": {
+      "registration": "PINNED",
+      "adapter": "PENDING_DEDICATED_COMPUTE_RUNNER",
+      "execution": "PENDING",
+      "frozen_result": null,
+      "claim_scope": "German case-law retrieval only",
+      "counts_as_product_gold": false
+    },
+    "gerlerb": {
+      "registration": "REGISTERED_WITH_CHECKSUMS",
+      "adapter": "PENDING_LICENSE_CLEARANCE_AND_RUNNER",
+      "execution": "BLOCKED_LICENSE_STATUS_NOT_YET_VERIFIED",
+      "frozen_result": null,
+      "claim_scope": "German statute retrieval only",
+      "counts_as_product_gold": false
+    }
+  },
+  "summary": {
+    "registered": 3,
+    "adapters_implemented": 1,
+    "executed_suites": 0,
+    "strict_target_executed_suites": 3,
+    "lawyer_approved_product_gold_created_by_this_layer": 0
+  }
+}
