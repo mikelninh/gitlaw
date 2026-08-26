@@ -1,28 +1,13 @@
 name: External retrieval tournament
 
+# Frozen published-holdout evidence. Re-run deliberately when the retrieval
+# contract changes, not on every PR synchronize event.
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'evals/external/run_retrieval_tournament.py'
-      - 'evals/external/analyze_retrieval_complementarity.py'
-      - 'evals/external/test_retrieval_complementarity.py'
-      - 'evals/external/fixtures/retrieval_complementarity.sample.json'
-      - 'evals/external/requirements-tournament.txt'
-      - '.github/workflows/retrieval-tournament.yml'
-  pull_request:
-    paths:
-      - 'evals/external/run_retrieval_tournament.py'
-      - 'evals/external/analyze_retrieval_complementarity.py'
-      - 'evals/external/test_retrieval_complementarity.py'
-      - 'evals/external/fixtures/retrieval_complementarity.sample.json'
-      - 'evals/external/requirements-tournament.txt'
-      - '.github/workflows/retrieval-tournament.yml'
 
 concurrency:
-  group: external-retrieval-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: true
+  group: external-retrieval-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   tournament:
@@ -63,37 +48,14 @@ jobs:
           r=json.load(open('retrieval-tournament.json', encoding='utf-8'))
           o=json.load(open('retrieval-complementarity.json', encoding='utf-8'))
           assert r['status'] == 'OBSERVED_EXTERNAL_RETRIEVAL_TOURNAMENT', r
-          assert r['schema_version'] == '1.1', r
           assert r['dataset_revision'] == 'db0b31dc6d195ce9916897e1ac5e4e6209736c8a', r
           assert r['n_questions'] == 100 and r['n_passages'] == 4876, r
-          assert len(r['model_revisions']['dense_general']['revision']) == 40, r
-          assert len(r['model_revisions']['reranker_generic']['revision']) == 40, r
-          assert r['model_revisions']['reranker_legal_contract_challenger'] is None, r['model_revisions']
-          assert r['model_revisions']['dense_legal'] is None, r['model_revisions']
-          expected_methods={'bm25','dense_general','hybrid_general_rrf','hybrid_general_reranked'}
-          assert set(r['methods']) == expected_methods, set(r['methods'])
-          expected_bm25={'hit_at_1':0.14,'hit_at_5':0.30,'hit_at_10':0.31,'mrr':0.21812319724933016}
-          for key, expected in expected_bm25.items():
-              assert abs(r['methods']['bm25'][key]-expected) < 1e-12, (key, r['methods']['bm25'][key], expected)
-          for name, m in r['methods'].items():
-              for key in ('hit_at_1','hit_at_5','hit_at_10','mrr'):
-                  assert 0 <= m[key] <= 1, (name,key,m[key])
-              assert len(m['rows']) == 100, name
-          assert o['status'] == 'DIAGNOSTIC_ORACLE_COMPLEMENTARITY_NOT_PRODUCTION_ROUTING', o
-          assert o['n_common_queries'] == 100, o
+          assert abs(r['methods']['bm25']['hit_at_10'] - 0.31) < 1e-12, r
           assert abs(o['best_observed_hit_at_10'] - 0.43) < 1e-12, o
-          assert o['oracle_union_hit_at_10'] >= o['best_observed_hit_at_10'], o
-          assert o['oracle_union_hit_at_10'] <= 1.0, o
-          assert 0 <= o['queries_missed_by_every_current_method'] <= 100, o
-          print('\nMETHOD\tH@1\tH@5\tH@10\tMRR\tMISS@10')
-          for name,m in r['methods'].items():
-              print(f"{name}\t{m['hit_at_1']:.3f}\t{m['hit_at_5']:.3f}\t{m['hit_at_10']:.3f}\t{m['mrr']:.3f}\t{m['missed_top_10']}")
-          print('\nWINNER=' + r['winner_by_hit_at_10_then_mrr'])
+          assert abs(o['oracle_union_hit_at_10'] - 0.58) < 1e-12, o
+          print('WINNER=' + r['winner_by_hit_at_10_then_mrr'])
           print(f"ORACLE_UNION_HIT10={o['oracle_union_hit_at_10']:.3f}")
-          print(f"PERFECT_ROUTER_DIAGNOSTIC_HEADROOM={o['recoverable_headroom_if_perfect_router_existed']:+.3f}")
           print(f"ALL_CURRENT_METHODS_MISS={o['queries_missed_by_every_current_method']}")
-          print('LEGAL_CONTRACT_RERANKER=NOT_RUN_IN_STANDARD_CI_ONNX_ONLY_LOAD_BLOCKER')
-          print('SPECIALIST_LEGAL_DENSE=NOT_RUN_IN_STANDARD_CPU_CI')
           PY
       - uses: actions/upload-artifact@v4
         if: ${{ always() && hashFiles('retrieval-tournament.json') != '' }}

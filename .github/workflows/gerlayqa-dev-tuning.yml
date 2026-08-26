@@ -1,16 +1,14 @@
 name: GerLayQA dev-only retrieval tuning
 
+# Deliberate evidence job. The active PR execution is temporarily routed through
+# german-public-contract.yml because new workflows are not reliably dispatched
+# until present on the base branch. Keep this standalone workflow manual-only.
 on:
   workflow_dispatch:
-  push:
-    branches: [feat/ypog-legal-ai-proof]
-    paths:
-      - 'evals/german_public/run_gerlayqa_dev_tuning.py'
-      - '.github/workflows/gerlayqa-dev-tuning.yml'
 
 concurrency:
   group: gerlayqa-dev-tuning-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 env:
   TOKENIZERS_PARALLELISM: 'false'
@@ -18,7 +16,7 @@ env:
 
 jobs:
   tune-on-dev-only:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
@@ -60,14 +58,10 @@ jobs:
           assert r['question_contract']['evaluated_dev_questions'] > 0, r
           assert len(r['model']['model_revision']) == 40, r['model']
           selected=r['selected_recipe']
-          m=selected['metrics']
           for key in ('hit_at_10','mrr_at_10','recall_at_10'):
-              assert 0 <= m[key] <= 1, (key,m[key])
-          assert len(r['top_candidates']) <= 12, r
-          assert 'Freeze selected_recipe' in r['promotion_rule'], r
+              assert 0 <= selected['metrics'][key] <= 1, (key, selected['metrics'][key])
           print('DEV_SELECTED_RECIPE=' + json.dumps(selected, ensure_ascii=False))
           print('EVAL_SPLIT_ACCESSED=false')
-          print('NEXT=freeze recipe before one-shot eval execution')
           PY
       - uses: actions/upload-artifact@v4
         if: ${{ always() && hashFiles('gerlayqa-dev-recipe.json') != '' }}

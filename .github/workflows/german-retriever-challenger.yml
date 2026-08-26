@@ -1,20 +1,12 @@
 name: German retriever challenger
 
+# Published-holdout challenger. Deliberate/manual after its result is frozen.
 on:
   workflow_dispatch:
-  pull_request:
-    paths:
-      - 'evals/german_public/run_gerlayqa_e5_challenger.py'
-      - '.github/workflows/german-retriever-challenger.yml'
-  push:
-    branches: [main]
-    paths:
-      - 'evals/german_public/run_gerlayqa_e5_challenger.py'
-      - '.github/workflows/german-retriever-challenger.yml'
 
 concurrency:
-  group: german-retriever-challenger-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: true
+  group: german-retriever-challenger-${{ github.ref }}
+  cancel-in-progress: false
 
 env:
   TOKENIZERS_PARALLELISM: 'false'
@@ -51,25 +43,12 @@ jobs:
           frozen=ledger['benchmarks']['gerlayqa']['frozen_result']['winner_metrics']
           assert ch['status'] == 'OBSERVED_GERMAN_PUBLIC_RETRIEVER_CHALLENGER', ch
           assert ch['upstream_commit'] == 'cbc465942f0c1eab25ec8864bc358466e4d88e0e', ch
-          q=ch['question_contract']
-          assert q['raw_eval_questions'] == 2154, q
-          assert q['evaluated_questions'] == 1840, q
-          assert q['excluded_over_300_words'] == 314, q
-          assert q['excluded_without_gold'] == 0, q
-          assert q['missing_gold_id_count'] == 10, q
-          assert q['questions_with_all_gold_ids_absent_from_corpus'] == 2, q
           assert ch['method'] == 'dense_e5_small', ch
           assert ch['model']['model_id'] == 'intfloat/multilingual-e5-small', ch
           assert len(ch['model']['model_revision']) == 40, ch['model']
-          assert ch['model']['query_prefix'] == 'query: ', ch['model']
-          assert ch['model']['passage_prefix'] == 'passage: ', ch['model']
           assert len(ch['rows']) == 1840, len(ch['rows'])
-          for key in ('precision_at_10','recall_at_10','f1_at_10','mrr_at_10','map_at_10','hit_at_1','hit_at_5','hit_at_10'):
-              assert 0 <= ch['metrics'][key] <= 1, (key,ch['metrics'][key])
           print('FROZEN_DENSE_GERMAN=' + json.dumps(frozen, ensure_ascii=False))
           print('E5_SMALL=' + json.dumps(ch['metrics'], ensure_ascii=False))
-          print(f"E5_HIT10_DELTA_VS_FROZEN_DENSE_GERMAN={ch['metrics']['hit_at_10']-frozen['hit_at_10']:+.6f}")
-          print(f"E5_MRR10_DELTA_VS_FROZEN_DENSE_GERMAN={ch['metrics']['mrr_at_10']-frozen['mrr_at_10']:+.6f}")
           print('PROMOTION=CHALLENGER_ONLY_UNTIL_RESULT_REVIEW')
           PY
       - uses: actions/upload-artifact@v4

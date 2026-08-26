@@ -17,11 +17,11 @@ on:
 
 concurrency:
   group: german-public-contract-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   contract:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -30,7 +30,8 @@ jobs:
       - run: node scripts/german-public-benchmark-gate.mjs
 
   gerlayqa-dev-selection:
-    runs-on: ubuntu-latest
+    needs: contract
+    runs-on: ubuntu-22.04
     timeout-minutes: 90
     env:
       TOKENIZERS_PARALLELISM: 'false'
@@ -79,6 +80,7 @@ jobs:
               assert 0 <= selected['metrics'][key] <= 1, (key, selected['metrics'][key])
           print('DEV_SELECTED_RECIPE=' + json.dumps(selected, ensure_ascii=False))
           print('EVAL_SPLIT_ACCESSED=false')
+          print('NEXT=freeze recipe before one-shot eval execution')
           PY
       - uses: actions/upload-artifact@v4
         if: ${{ always() && hashFiles('gerlayqa-dev-recipe.json') != '' }}
