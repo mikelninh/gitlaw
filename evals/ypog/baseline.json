@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "status": "observed_baseline",
+  "source": "evals/results/rag_eval_20260518_205023.json",
+  "observed_at": "2026-05-18",
+  "n_questions": 20,
+  "metrics": {
+    "retrieval_at_1": 0.25,
+    "retrieval_at_3": 0.55,
+    "retrieval_at_5": 0.65,
+    "answer_faithfulness": null,
+    "answer_relevance": null
+  },
+  "interpretation": {
+    "retrieval": "blocked_for_production_claim",
+    "answer_quality": "not_measured",
+    "legal_accuracy": "not_measured",
+    "reason": "This historical run is useful as a failure baseline, not as evidence of production-ready legal quality."
+  },
+  "claim_boundaries": [
+    "Do not convert missing faithfulness/relevance measurements into zero-quality claims; they were not meaningfully evaluated in this run.",
+    "Do not use the 53/53 citation-resolution suite as a proxy for end-to-end legal answer accuracy.",
+    "Do not claim YPOG-ready legal quality until a larger lawyer-reviewed benchmark passes the release gates."
+  ]
+}
