@@ -6,13 +6,17 @@ on:
     paths:
       - 'docs/ypog/BENCHMARK_OPTIMIZATION_POLICY.md'
       - 'docs/ypog/LEGAL_RERANKER_CHALLENGER.md'
+      - 'evals/german_public/evidence_ledger.json'
       - 'scripts/benchmark-optimization-gate.py'
+      - 'scripts/benchmark-ceiling-gate.py'
       - '.github/workflows/benchmark-optimization.yml'
   pull_request:
     paths:
       - 'docs/ypog/BENCHMARK_OPTIMIZATION_POLICY.md'
       - 'docs/ypog/LEGAL_RERANKER_CHALLENGER.md'
+      - 'evals/german_public/evidence_ledger.json'
       - 'scripts/benchmark-optimization-gate.py'
+      - 'scripts/benchmark-ceiling-gate.py'
       - '.github/workflows/benchmark-optimization.yml'
 
 jobs:
@@ -24,3 +28,4 @@ jobs:
         with:
           python-version: '3.12'
       - run: python scripts/benchmark-optimization-gate.py
+      - run: python scripts/benchmark-ceiling-gate.py
