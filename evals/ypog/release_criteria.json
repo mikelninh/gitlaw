@@ -1,7 +1,7 @@
 {
-  "schema_version": "2.0",
+  "schema_version": "2.1",
   "gate_name": "gitlaw_strict_10_of_10_readiness",
-  "principle": "Engineering checks, external benchmark scores and legal production readiness are separate evidence layers. A 10/10 claim requires all layers.",
+  "principle": "Engineering checks, external benchmark scores, German public capability benchmarks and legal production readiness are separate evidence layers. A 10/10 claim requires all layers.",
   "minimum_dataset": {
     "lawyer_reviewed_cases": 500,
     "frozen_holdout_cases": 200,
@@ -20,6 +20,17 @@
     "must_run_and_report_failures": true,
     "may_replace_german_law_ground_truth": false,
     "may_be_claimed_as_german_law_accuracy": false
+  },
+  "german_public_benchmarks": {
+    "required": ["gerlayqa", "gerdalir", "gerlerb"],
+    "minimum_executed_suites": 3,
+    "must_include_statute_retrieval": true,
+    "must_include_case_law_retrieval": true,
+    "must_pin_source_or_dataset_revision": true,
+    "must_report_license_and_data_use_scope": true,
+    "must_publish_failure_level_results": true,
+    "may_replace_lawyer_approved_product_gold": false,
+    "may_replace_shadow_matters": false
   },
   "retrieval": {
     "critical_authority_recall_at_5_min": 0.97,
@@ -62,6 +73,6 @@
     "must_measure_material_correction_rate": true,
     "requires_security_review": true
   },
-  "current_status": "BLOCKED_PENDING_EXTERNAL_AND_LAWYER_EVIDENCE",
-  "note": "These are deliberately strict GitLaw 10/10 criteria, not YPOG requirements. Public benchmarks provide external comparability; German-law and law-firm evidence remain mandatory."
+  "current_status": "BLOCKED_PENDING_EXTERNAL_GERMAN_PUBLIC_AND_LAWYER_EVIDENCE",
+  "note": "These are deliberately strict GitLaw 10/10 criteria, not YPOG requirements. Public benchmarks provide capability comparability; lawyer-reviewed German product gold and governed law-firm shadow evidence remain mandatory."
 }
