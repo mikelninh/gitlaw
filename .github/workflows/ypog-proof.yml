@@ -12,6 +12,8 @@ on:
       - 'api/_agent.ts'
       - 'api/_auth.ts'
       - 'api/_llm.ts'
+      - 'api/_document_review_tools.ts'
+      - 'api/_document_review_tools.test.ts'
       - 'viewer/public/ypog/**'
       - 'README.md'
       - 'AGENTS.md'
@@ -26,6 +28,8 @@ on:
       - 'api/_agent.ts'
       - 'api/_auth.ts'
       - 'api/_llm.ts'
+      - 'api/_document_review_tools.ts'
+      - 'api/_document_review_tools.test.ts'
       - 'viewer/public/ypog/**'
       - 'README.md'
       - 'AGENTS.md'
@@ -49,7 +53,7 @@ jobs:
         run: npm ci
       - name: Runtime dependency audit — no critical production vulnerability
         run: npm audit --omit=dev --audit-level=critical
-      - name: Existing GitLaw tests
+      - name: Existing GitLaw + document-security tests
         run: npm test
       - name: Deterministic YPOG proof gate
         run: node scripts/ypog-proof-gate.mjs
@@ -57,15 +61,22 @@ jobs:
         run: pip install -r rag/requirements.txt
       - name: Fresh offline BM25 retrieval measurement
         run: python evals/ypog/run_offline_retrieval_eval.py --json-out /tmp/gitlaw-bm25.json
-      - name: Verify offline benchmark completed without turning it into a release claim
+      - name: Verify fresh BM25 measurement against frozen diagnostic baseline
         run: |
           python - <<'PY'
           import json
           report=json.load(open('/tmp/gitlaw-bm25.json', encoding='utf-8'))['summary']
-          assert report['n_questions'] == 20, report
+          frozen=json.load(open('evals/ypog/offline_bm25_baseline.json', encoding='utf-8'))
+          assert report['n_questions'] == frozen['n_questions'], (report, frozen)
           assert report['status'] == 'MEASURED_NOT_RELEASE_GATE', report
-          for k in ('retrieval@1','retrieval@3','retrieval@5','retrieval@10'):
-              assert 0 <= report[k] <= 1, (k, report[k])
+          mapping={
+            'retrieval@1':'retrieval_at_1',
+            'retrieval@3':'retrieval_at_3',
+            'retrieval@5':'retrieval_at_5',
+            'retrieval@10':'retrieval_at_10',
+          }
+          for measured, expected in mapping.items():
+              assert report[measured] == frozen['metrics'][expected], (measured, report[measured], frozen['metrics'][expected])
           print(json.dumps(report, ensure_ascii=False, indent=2))
           PY
       - name: Public proof claim contract
