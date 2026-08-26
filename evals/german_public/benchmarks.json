@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "principle": "Reuse strong public German legal benchmarks for capability evidence before spending scarce lawyer time on bespoke labels. Public benchmark evidence does not equal lawyer-approved product ground truth.",
+  "benchmarks": [
+    {
+      "id": "gerlayqa",
+      "name": "GerLayQA",
+      "upstream_repo": "trusthlt/eacl24-german-legal-questions",
+      "upstream_commit": "cbc465942f0c1eab25ec8864bc358466e4d88e0e",
+      "primary_layer": "german_statute_paragraph_retrieval_and_lay_qa",
+      "domain": "German civil law / BGB",
+      "evaluation_files": ["data/bgb.json", "data/bgb_eval.json"],
+      "expected_eval_questions": 2154,
+      "metrics": ["precision_at_10", "recall_at_10", "f1_at_10", "mrr_at_10", "map_at_10", "hit_at_1", "hit_at_5", "hit_at_10"],
+      "code_license": "Apache-2.0",
+      "data_use_policy": "NON_COMMERCIAL_SCIENTIFIC_RESEARCH_ONLY_PER_UPSTREAM_README",
+      "data_vendored": false,
+      "commercial_reuse_status": "BLOCKED_BY_UPSTREAM_DATA_USAGE_RESTRICTION",
+      "counts_as_public_german_capability_evidence": true,
+      "counts_as_lawyer_approved_product_gold": false,
+      "claim_scope": "German BGB paragraph retrieval on the pinned historical GerLayQA evaluation split only"
+    },
+    {
+      "id": "gerdalir",
+      "name": "GerDaLIR",
+      "upstream_repo": "lavis-nlp/GerDaLIR",
+      "upstream_commit": "a503c8486c2dc6f81be70e5e95a45f56200d888e",
+      "primary_layer": "german_case_law_information_retrieval",
+      "domain": "German court decisions",
+      "reported_queries": 122975,
+      "reported_relevance_labels": 144324,
+      "code_license": "MIT",
+      "data_license_policy": "VERIFY_UNDERLYING_DATA_TERMS_BEFORE_FULL_RUN_OR_REDISTRIBUTION",
+      "data_vendored": false,
+      "full_run_mode": "SCHEDULED_OR_DEDICATED_COMPUTE",
+      "counts_as_public_german_capability_evidence": true,
+      "counts_as_lawyer_approved_product_gold": false,
+      "claim_scope": "German case-law retrieval comparability only"
+    },
+    {
+      "id": "gerlerb",
+      "name": "GerLeRB",
+      "primary_layer": "german_statute_information_retrieval",
+      "domain": "German statutes across multiple law books",
+      "source": "Zenodo DOI 10.5281/zenodo.15745124",
+      "reported_questions": 367,
+      "reported_law_books": 58,
+      "data_vendored": false,
+      "license_status": "UNKNOWN_REVIEW_REQUIRED_BEFORE_DATA_EXECUTION_OR_REDISTRIBUTION",
+      "counts_as_public_german_capability_evidence": true,
+      "counts_as_lawyer_approved_product_gold": false,
+      "claim_scope": "German statute retrieval comparability only",
+      "known_file_checksums_md5": {
+        "corpus": "5a0cabd33eb10ad9eff18344872304ed",
+        "qrels": "646e02380336544a5baaa8cdcefac97b",
+        "topics": "a9b7d2201367691ea4c3e66bd8144844"
+      }
+    }
+  ],
+  "strict_layer_gate": {
+    "required_families": ["german_statute_retrieval", "german_lay_qa_or_paragraph_retrieval", "german_case_law_retrieval"],
+    "minimum_executed_public_german_suites_before_10_of_10": 3,
+    "may_replace_german_product_gold": false,
+    "may_replace_real_shadow_matters": false
+  }
+}
