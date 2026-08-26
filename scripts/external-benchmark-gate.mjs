@@ -9,7 +9,7 @@ const sha40 = /^[0-9a-f]{40}$/
 const manifest = readJson('evals/external/benchmarks.json')
 const criteria = readJson('evals/ypog/release_criteria.json')
 
-assert(manifest.schema_version === '1.0', 'External benchmark manifest schema drifted')
+assert(manifest.schema_version === '1.1', 'External benchmark manifest schema drifted')
 assert(Array.isArray(manifest.benchmarks) && manifest.benchmarks.length === 3, 'Expected exactly three pinned external benchmark families')
 
 const byId = new Map(manifest.benchmarks.map(b => [b.id, b]))
@@ -35,6 +35,10 @@ const lrgb = byId.get('legal-rag-bench')
 assert(lrgb.reported_questions === 100, 'Legal RAG Bench question count changed; review upstream before updating')
 assert(lrgb.reported_passages === 4876, 'Legal RAG Bench passage count changed; review upstream before updating')
 assert(lrgb.code_license === 'MIT', 'Legal RAG Bench code license expectation changed')
+assert(sha40.test(lrgb.dataset_revision), 'Legal RAG Bench dataset snapshot must be pinned')
+assert(lrgb.dataset_license_metadata === 'cc-by-nc-sa-4.0', 'Conservative Legal RAG Bench license metadata guard changed')
+assert(lrgb.license_metadata_conflict === true, 'License metadata/prose mismatch must stay visible until clarified')
+assert(lrgb.commercial_use_status === 'BLOCKED_PENDING_LICENSE_CLARIFICATION', 'Commercial benchmark reuse must remain blocked while license metadata conflicts')
 
 for (const required of criteria.external_benchmarks.required) {
   assert(byId.has(required), `10/10 gate requires unregistered external benchmark: ${required}`)
@@ -47,7 +51,7 @@ assert(manifest.gitlaw_specific_layers.law_firm_matters.minimum_independent_lawy
 
 console.log(JSON.stringify({
   external_benchmark_contract: 'PASS',
-  pinned_benchmarks: manifest.benchmarks.map(({id, upstream_commit, primary_layer, gitlaw_claim_scope}) => ({id, upstream_commit, primary_layer, gitlaw_claim_scope})),
+  pinned_benchmarks: manifest.benchmarks.map(({id, upstream_commit, dataset_revision, primary_layer, gitlaw_claim_scope}) => ({id, upstream_commit, dataset_revision: dataset_revision ?? null, primary_layer, gitlaw_claim_scope})),
   german_gold_target: manifest.gitlaw_specific_layers.german_gold,
   law_firm_target: manifest.gitlaw_specific_layers.law_firm_matters,
   legal_quality_release_gate: criteria.current_status
