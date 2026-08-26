@@ -5,24 +5,30 @@ on:
     branches: [main, 'feat/ypog-**']
     paths:
       - 'evals/ypog/**'
+      - 'evals/gitlaw_qa_set.json'
       - 'docs/ypog/**'
       - 'scripts/ypog-proof-gate.mjs'
+      - 'rag/**'
+      - 'api/_agent.ts'
+      - 'api/_auth.ts'
+      - 'api/_llm.ts'
       - 'viewer/public/ypog/**'
       - 'README.md'
       - 'AGENTS.md'
-      - 'docs/llm-gateway-multi-provider.md'
-      - 'docs/multi-tenant-architecture.md'
       - '.github/workflows/ypog-proof.yml'
   pull_request:
     paths:
       - 'evals/ypog/**'
+      - 'evals/gitlaw_qa_set.json'
       - 'docs/ypog/**'
       - 'scripts/ypog-proof-gate.mjs'
+      - 'rag/**'
+      - 'api/_agent.ts'
+      - 'api/_auth.ts'
+      - 'api/_llm.ts'
       - 'viewer/public/ypog/**'
       - 'README.md'
       - 'AGENTS.md'
-      - 'docs/llm-gateway-multi-provider.md'
-      - 'docs/multi-tenant-architecture.md'
       - '.github/workflows/ypog-proof.yml'
 
 jobs:
@@ -34,12 +40,32 @@ jobs:
         with:
           node-version: 22
           cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: rag/requirements.txt
       - name: Install root dependencies
         run: npm ci
       - name: Existing GitLaw tests
         run: npm test
       - name: Deterministic YPOG proof gate
         run: node scripts/ypog-proof-gate.mjs
+      - name: Install retrieval benchmark dependencies
+        run: pip install -r rag/requirements.txt
+      - name: Fresh offline BM25 retrieval measurement
+        run: python evals/ypog/run_offline_retrieval_eval.py --json-out /tmp/gitlaw-bm25.json
+      - name: Verify offline benchmark completed without turning it into a release claim
+        run: |
+          python - <<'PY'
+          import json
+          report=json.load(open('/tmp/gitlaw-bm25.json', encoding='utf-8'))['summary']
+          assert report['n_questions'] == 20, report
+          assert report['status'] == 'MEASURED_NOT_RELEASE_GATE', report
+          for k in ('retrieval@1','retrieval@3','retrieval@5','retrieval@10'):
+              assert 0 <= report[k] <= 1, (k, report[k])
+          print(json.dumps(report, ensure_ascii=False, indent=2))
+          PY
       - name: Public proof claim contract
         run: |
           grep -q 'BLOCKED pending a ≥100-case lawyer-reviewed frozen benchmark' viewer/public/ypog/index.html
