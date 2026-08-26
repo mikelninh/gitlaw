@@ -41,7 +41,9 @@ def resolve_model_revision(model_id: str) -> str:
 
 
 def row_text(row: dict[str, Any]) -> str:
-    for key in ("text", "question", "input"):
+    # LegalBench configs do not share a single input-column name. In particular,
+    # ucc_v_common_law uses `contract`; the other selected tasks use `text`.
+    for key in ("text", "contract", "question", "input"):
         value = row.get(key)
         if value is not None and str(value).strip():
             return str(value).strip()
