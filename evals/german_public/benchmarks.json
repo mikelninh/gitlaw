@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "principle": "Reuse strong public German legal benchmarks for capability evidence before spending scarce lawyer time on bespoke labels. Public benchmark evidence does not equal lawyer-approved product ground truth.",
   "benchmarks": [
     {
@@ -22,20 +22,28 @@
     },
     {
       "id": "gerdalir",
-      "name": "GerDaLIR",
-      "upstream_repo": "lavis-nlp/GerDaLIR",
-      "upstream_commit": "a503c8486c2dc6f81be70e5e95a45f56200d888e",
+      "name": "GerDaLIR / MTEB GerDaLIRSmall",
+      "original_upstream_repo": "lavis-nlp/GerDaLIR",
+      "original_upstream_commit": "a503c8486c2dc6f81be70e5e95a45f56200d888e",
+      "evaluation_dataset": "mteb/GerDaLIRSmall",
+      "evaluation_dataset_revision": "48327de6ee192e9610f3069789719788957c7abd",
       "primary_layer": "german_case_law_information_retrieval",
       "domain": "German court decisions",
-      "reported_queries": 122975,
-      "reported_relevance_labels": 144324,
-      "code_license": "MIT",
-      "data_license_policy": "VERIFY_UNDERLYING_DATA_TERMS_BEFORE_FULL_RUN_OR_REDISTRIBUTION",
+      "evaluation_queries": 12234,
+      "evaluation_documents": 9969,
+      "evaluation_relevance_labels": 14320,
+      "dataset_license": "MIT",
       "data_vendored": false,
-      "full_run_mode": "SCHEDULED_OR_DEDICATED_COMPUTE",
+      "full_run_mode": "DEDICATED_COMPUTE_OR_SCHEDULED",
+      "original_scale_reference": {
+        "reported_queries": 122975,
+        "reported_relevance_labels": 144324,
+        "reported_passages": 3095383,
+        "purpose": "scale stress test after the standardized MTEB-small capability run"
+      },
       "counts_as_public_german_capability_evidence": true,
       "counts_as_lawyer_approved_product_gold": false,
-      "claim_scope": "German case-law retrieval comparability only"
+      "claim_scope": "German case-law retrieval on the pinned MTEB GerDaLIRSmall test task only"
     },
     {
       "id": "gerlerb",
