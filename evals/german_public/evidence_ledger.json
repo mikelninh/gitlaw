@@ -1,7 +1,7 @@
 {
-  "schema_version": "1.4",
-  "status": "GERMAN_PUBLIC_EVIDENCE_PARTIALLY_FROZEN",
-  "principle": "Registration, executable adapter, executed benchmark and release-grade product evidence are distinct states. Benchmark-integrity ceilings are reported separately from model capability so corpus defects cannot be hidden or used to excuse genuine model misses.",
+  "schema_version": "1.5",
+  "status": "GERMAN_PUBLIC_EVIDENCE_TWO_STRICT_SUITES_FROZEN",
+  "principle": "Registration, executable adapter, executed benchmark and release-grade product evidence are distinct states. Benchmark-integrity ceilings and post-hoc oracle unions are reported separately from deployable model capability. Failed or weaker challengers are retained as evidence and never silently promoted.",
   "benchmarks": {
     "gerlayqa": {
       "registration": "PINNED",
@@ -38,6 +38,38 @@
           "dense_general_hit_at_10": 0.08804347826086957
         }
       },
+      "challengers": {
+        "multilingual_e5_small": {
+          "status": "EXECUTED_NOT_PROMOTED",
+          "github_actions_run_id": 32980437580,
+          "artifact_id": 9611476048,
+          "artifact_sha256": "10f062941167fb66d61873aa810d910fb6414e73bf15abeb8d0f7457863ba07d",
+          "model": "intfloat/multilingual-e5-small",
+          "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+          "metrics": {
+            "hit_at_1": 0.041304347826086954,
+            "hit_at_5": 0.11358695652173913,
+            "hit_at_10": 0.16902173913043478,
+            "recall_at_10": 0.12346381124913734,
+            "mrr_at_10": 0.0729757591442374,
+            "map_at_10": 0.05400574030940879
+          },
+          "hit_at_10_delta_vs_frozen_winner": -0.07119565217391305,
+          "mrr_at_10_delta_vs_frozen_winner": -0.0444673050379572,
+          "promotion": "REJECTED_AS_DEFAULT_ON_THIS_HOLDOUT"
+        }
+      },
+      "post_hoc_complementarity_diagnostic": {
+        "status": "DIAGNOSTIC_NOT_DEPLOYABLE_ROUTING",
+        "source_artifact_ids": [9607350164, 9611476048],
+        "e5_recovers_frozen_dense_german_misses": 97,
+        "e5_unique_top10_hits_vs_all_previous_methods": 67,
+        "previous_all_method_oracle_union_hit_at_10": 0.3163,
+        "all_method_oracle_union_with_e5_hit_at_10": 0.3527,
+        "previous_queries_missed_by_every_method": 1258,
+        "queries_missed_by_every_method_with_e5": 1191,
+        "claim_boundary": "This union is computed after observing holdout outcomes. It is a diagnostic upper bound only and must not be reported as deployable retrieval accuracy or used to hand-route the same eval questions."
+      },
       "known_benchmark_integrity_issue": "10 published gold paragraph ids are absent from the pinned BGB corpus; 2 evaluated questions have all published gold ids absent. They remain in the denominator and are reported explicitly rather than repaired after inspecting labels.",
       "claim_scope": "German BGB paragraph retrieval on pinned historical GerLayQA eval split",
       "counts_as_product_gold": false
@@ -45,9 +77,49 @@
     "gerdalir": {
       "registration": "PINNED",
       "adapter": "IMPLEMENTED_TOP200_CHUNKED_WITH_EQUIVALENCE_CHECKED_BM25",
-      "execution": "RUNNING_OR_PENDING_RESULT_FREEZE",
-      "frozen_result": null,
-      "resource_contract": "top-200 rankings retained; dense query-document scores chunked; optimized BM25 must pass rank_bm25 equivalence checks; completed methods checkpointed",
+      "execution": "EXECUTED_AND_INTEGRITY_VERIFIED",
+      "frozen_result": {
+        "github_actions_run_id": 32968628053,
+        "github_actions_job_id": 98177468270,
+        "artifact_id": 9612590641,
+        "artifact_sha256": "78e087237d509710319abbcf2c1a5a61c4f3243749c3cc37a943dd678259ea59",
+        "dataset_id": "mteb/GerDaLIRSmall",
+        "dataset_revision": "48327de6ee192e9610f3069789719788957c7abd",
+        "dataset_license": "MIT",
+        "counts": {
+          "documents": 9969,
+          "queries": 12234,
+          "positive_relevance_labels": 14320
+        },
+        "winner": "bm25",
+        "winner_metrics": {
+          "precision_at_10": 0.07600130783063593,
+          "recall_at_10": 0.655989,
+          "f1_at_10": 0.134353,
+          "mrr_at_10": 0.53224,
+          "map_at_10": 0.510668,
+          "hit_at_1": 0.456678,
+          "hit_at_5": 0.633317,
+          "hit_at_10": 0.680644
+        },
+        "comparison": {
+          "hybrid_german_rrf": {"hit_at_1": 0.196829, "hit_at_5": 0.434445, "hit_at_10": 0.573565, "mrr_at_10": 0.298379},
+          "dense_german": {"hit_at_1": 0.09024, "hit_at_5": 0.167893, "hit_at_10": 0.211542, "mrr_at_10": 0.124248},
+          "dense_general": {"hit_at_1": 0.015122, "hit_at_5": 0.029998, "hit_at_10": 0.039153, "mrr_at_10": 0.021769}
+        },
+        "models": {
+          "dense_general": {"model": "sentence-transformers/all-MiniLM-L6-v2", "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41"},
+          "dense_german": {"model": "PM-AI/bi-encoder_msmarco_bert-base_german", "revision": "e9f98f27a8a7ef4267c43ccffcba6374ce5ff9c2"}
+        },
+        "bm25_integrity": {
+          "implementation": "inverted_postings_rank_bm25_equivalent",
+          "equivalence_self_check": true,
+          "equivalence_actual_query_checks": 8,
+          "all_actual_query_checks_passed": true
+        },
+        "interpretation": "On the pinned German case-law task, lexical BM25 decisively beats both dense baselines and symmetric hybrid RRF. This is evidence for task-aware retrieval rather than a universal dense or universal hybrid default."
+      },
+      "resource_contract": "top-200 rankings retained; dense query-document scores chunked; optimized BM25 passes rank_bm25 equivalence checks; completed methods checkpointed",
       "claim_scope": "German case-law retrieval on pinned MTEB GerDaLIRSmall test task only",
       "counts_as_product_gold": false
     },
@@ -79,8 +151,29 @@
           "hybrid_german_rrf_hit_at_10": 0.755,
           "dense_german_hit_at_10": 0.45,
           "dense_general_hit_at_10": 0.2
-        },
-        "interpretation": "On this small German legal-document task, lexical BM25 is dramatically stronger than the current dense models. This is evidence against assuming semantic retrieval should replace lexical retrieval everywhere."
+        }
+      },
+      "challengers": {
+        "multilingual_e5_small": {
+          "status": "EXECUTED_COMPLEMENTARY_NOT_DEFAULT",
+          "github_actions_run_id": 32980437293,
+          "artifact_id": 9611404897,
+          "artifact_sha256": "49e080630d79c417cf6fdec8706ba058d33f90c1ffefb58f762f63d04f3687ee",
+          "model": "intfloat/multilingual-e5-small",
+          "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+          "metrics": {"hit_at_1": 0.34, "hit_at_5": 0.545, "hit_at_10": 0.63, "recall_at_10": 0.63, "mrr_at_10": 0.4301785714285715},
+          "hit_at_10_delta_vs_dense_german": 0.18,
+          "hit_at_10_delta_vs_bm25": -0.215
+        }
+      },
+      "post_hoc_complementarity_diagnostic": {
+        "status": "DIAGNOSTIC_NOT_DEPLOYABLE_ROUTING",
+        "source_artifact_id": 9611404897,
+        "bm25_plus_e5_oracle_union_hit_at_10": 0.93,
+        "all_baselines_plus_e5_oracle_union_hit_at_10": 0.94,
+        "e5_recovers_bm25_misses": 17,
+        "e5_unique_top10_hits_vs_all_previous_methods": 9,
+        "claim_boundary": "Post-hoc union uses test outcomes after the fact and is not deployable accuracy."
       },
       "mirror_declared_license": "CC-BY-4.0",
       "original_reference_repo_license_file_observed": false,
@@ -92,10 +185,12 @@
   },
   "summary": {
     "registered_strict_suites": 3,
-    "strict_suites_executed_and_frozen": 1,
+    "strict_suites_executed_and_frozen": 2,
     "strict_target_executed_suites": 3,
+    "strict_suites_remaining": ["gerlerb"],
     "additional_provenance_gated_candidates": 1,
     "provenance_gated_candidates_executed_and_frozen": 1,
-    "lawyer_approved_product_gold_created_by_this_layer": 0
+    "lawyer_approved_product_gold_created_by_this_layer": 0,
+    "next_scientific_step": "Select query sanitation and asymmetric rank-fusion recipe on GerLayQA DEV only, freeze it, then execute exactly once on the separate eval split."
   }
 }
