@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "status": "GERMAN_PUBLIC_EVIDENCE_IN_PROGRESS",
   "principle": "Registration, executable adapter, executed benchmark and release-grade product evidence are distinct states.",
   "benchmarks": {
@@ -8,15 +8,17 @@
       "adapter": "IMPLEMENTED",
       "execution": "RUNNING_OR_PENDING_RESULT_FREEZE",
       "frozen_result": null,
+      "known_benchmark_integrity_issue": "10 published gold paragraph ids are absent from the pinned BGB corpus; they remain in the denominator and are reported explicitly",
       "claim_scope": "German BGB paragraph retrieval on pinned historical GerLayQA eval split",
       "counts_as_product_gold": false
     },
     "gerdalir": {
       "registration": "PINNED",
-      "adapter": "PENDING_DEDICATED_COMPUTE_RUNNER",
-      "execution": "PENDING",
+      "adapter": "IMPLEMENTED_TOP200_CHUNKED",
+      "execution": "RUNNING_OR_PENDING_RESULT_FREEZE",
       "frozen_result": null,
-      "claim_scope": "German case-law retrieval only",
+      "resource_contract": "top-200 rankings retained; dense query-document scores chunked; no full 12234x9969 ranking matrix persisted",
+      "claim_scope": "German case-law retrieval on pinned MTEB GerDaLIRSmall test task only",
       "counts_as_product_gold": false
     },
     "gerlerb": {
@@ -30,7 +32,7 @@
   },
   "summary": {
     "registered": 3,
-    "adapters_implemented": 1,
+    "adapters_implemented": 2,
     "executed_suites": 0,
     "strict_target_executed_suites": 3,
     "lawyer_approved_product_gold_created_by_this_layer": 0
