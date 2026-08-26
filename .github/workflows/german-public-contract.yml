@@ -2,7 +2,7 @@ name: German public benchmark contract
 
 on:
   push:
-    branches: [main, 'feat/ypog-**']
+    branches: [main]
     paths:
       - 'evals/german_public/**'
       - 'evals/ypog/release_criteria.json'
@@ -14,6 +14,10 @@ on:
       - 'evals/ypog/release_criteria.json'
       - 'scripts/german-public-benchmark-gate.mjs'
       - '.github/workflows/german-public-contract.yml'
+
+concurrency:
+  group: german-public-contract-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
   contract:

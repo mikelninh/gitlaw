@@ -2,7 +2,7 @@ name: P0 adversarial system guards
 
 on:
   push:
-    branches: [main, 'feat/ypog-**']
+    branches: [main]
     paths:
       - 'api/_approval_state.ts'
       - 'api/_approval_state.test.ts'
@@ -20,6 +20,10 @@ on:
       - 'evals/ypog/p0_adversarial_matrix_spec.json'
       - 'evals/ypog/red_team_execution.json'
       - '.github/workflows/p0-adversarial.yml'
+
+concurrency:
+  group: p0-adversarial-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
   p0:

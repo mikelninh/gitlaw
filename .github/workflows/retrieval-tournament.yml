@@ -3,7 +3,7 @@ name: External retrieval tournament
 on:
   workflow_dispatch:
   push:
-    branches: ['feat/ypog-**']
+    branches: [main]
     paths:
       - 'evals/external/run_retrieval_tournament.py'
       - 'evals/external/requirements-tournament.txt'

@@ -2,7 +2,7 @@ name: German public retrieval tournament
 
 on:
   push:
-    branches: [main, 'feat/ypog-**']
+    branches: [main]
     paths:
       - 'evals/german_public/**'
       - '.github/workflows/german-retrieval.yml'
@@ -53,6 +53,7 @@ jobs:
           assert r['question_contract']['raw_eval_questions'] == 2154, r['question_contract']
           assert r['question_contract']['evaluated_questions'] > 2000, r['question_contract']
           assert r['data_vendored'] is False, r
+          assert r['benchmark_integrity_diagnostics']['missing_gold_id_count'] == 10, r['benchmark_integrity_diagnostics']
           methods=r['methods']
           for method in ('bm25','dense_general','dense_german','hybrid_german_rrf'):
               assert method in methods, method

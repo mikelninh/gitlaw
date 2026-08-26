@@ -2,7 +2,7 @@ name: YPOG Legal AI proof
 
 on:
   push:
-    branches: [main, 'feat/ypog-**']
+    branches: [main]
     paths:
       - 'evals/ypog/**'
       - 'evals/external/**'
@@ -42,6 +42,10 @@ on:
       - 'README.md'
       - 'AGENTS.md'
       - '.github/workflows/ypog-proof.yml'
+
+concurrency:
+  group: ypog-proof-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
   proof:

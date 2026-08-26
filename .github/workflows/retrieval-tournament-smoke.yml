@@ -3,7 +3,7 @@ name: Retrieval tournament smoke
 on:
   workflow_dispatch:
   push:
-    branches: ['feat/ypog-**']
+    branches: [main]
     paths:
       - 'evals/external/run_retrieval_tournament.py'
       - 'evals/external/requirements-tournament.txt'
@@ -13,6 +13,10 @@ on:
       - 'evals/external/run_retrieval_tournament.py'
       - 'evals/external/requirements-tournament.txt'
       - '.github/workflows/retrieval-tournament-smoke.yml'
+
+concurrency:
+  group: retrieval-smoke-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
   smoke:
@@ -42,7 +46,6 @@ jobs:
           r=json.load(open('retrieval-smoke.json', encoding='utf-8'))
           b=r['methods']['bm25']; d=r['methods']['dense_general']; h=r['methods']['hybrid_general_rrf']; rr=r['methods']['hybrid_general_reranked']
           assert abs(b['hit_at_10']-0.31) < 1e-12, b
-          # This is deliberately a weak anti-regression gate until the first semantic baseline is frozen.
           assert max(d['hit_at_10'], h['hit_at_10'], rr['hit_at_10']) > b['hit_at_10'], (b,d,h,rr)
           print(json.dumps({k:{m:v for m,v in x.items() if m!='rows'} for k,x in r['methods'].items()}, indent=2))
           PY
