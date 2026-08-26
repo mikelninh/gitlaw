@@ -219,6 +219,16 @@ def rank_bm25(corpus_texts: list[str], query_texts: list[str], depth: int) -> tu
     tokenized_corpus = [tokenize(text) for text in corpus_texts]
     model = BM25Okapi(tokenized_corpus)
     postings, doc_length_norm = build_bm25_postings(model)
+    actual_query_checks = min(8, len(query_texts))
+    for query in query_texts[:actual_query_checks]:
+        query_tokens = tokenize(query)
+        expected = np.asarray(model.get_scores(query_tokens), dtype=np.float64)
+        actual = bm25_postings_scores(model, postings, doc_length_norm, query_tokens)
+        if not np.allclose(actual, expected, rtol=1e-12, atol=1e-12):
+            delta = float(np.max(np.abs(actual - expected)))
+            raise RuntimeError(
+                f"inverted-postings BM25 diverged on pinned corpus; max_abs_delta={delta}"
+            )
     rankings: list[list[int]] = []
     for query in query_texts:
         scores = bm25_postings_scores(model, postings, doc_length_norm, tokenize(query))
@@ -227,6 +237,7 @@ def rank_bm25(corpus_texts: list[str], query_texts: list[str], depth: int) -> tu
     return rankings, {
         "implementation": "inverted_postings_rank_bm25_equivalent",
         "equivalence_self_check": True,
+        "equivalence_actual_query_checks": actual_query_checks,
         "rank_bm25_parameters": {
             "k1": float(model.k1),
             "b": float(model.b),

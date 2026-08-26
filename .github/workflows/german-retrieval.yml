@@ -140,7 +140,8 @@ jobs:
         run: pip install -r evals/german_public/requirements.txt
       - name: Execute pinned GerDaLIRSmall case-law retrieval tournament
         run: |
-          python evals/german_public/run_gerdalir_small_retrieval.py \
+          timeout --signal=INT --kill-after=2m 280m \
+            python evals/german_public/run_gerdalir_small_retrieval.py \
             --methods bm25,dense_general,dense_german,hybrid_german_rrf \
             --json-out gerdalir-small-retrieval.json
       - name: Verify GerDaLIRSmall result integrity
@@ -162,6 +163,7 @@ jobs:
           bm25_runtime=methods['bm25']['runtime']
           assert bm25_runtime['implementation'] == 'inverted_postings_rank_bm25_equivalent', bm25_runtime
           assert bm25_runtime['equivalence_self_check'] is True, bm25_runtime
+          assert bm25_runtime['equivalence_actual_query_checks'] == 8, bm25_runtime
           for method in ('dense_general','dense_german'):
               rev=methods[method]['runtime']['model_revision']
               assert len(rev) == 40 and all(c in '0123456789abcdef' for c in rev), (method,rev)
