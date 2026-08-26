@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "principle": "External benchmark scores are comparable evidence for the capability they measure, not proof of German-law or law-firm production readiness.",
   "benchmarks": [
     {
@@ -44,6 +44,11 @@
       "upstream_repo": "isaacus-dev/legal-rag-bench",
       "upstream_commit": "9e30a36d1ef58cd35ec4ed724ef3e5edc6b0d00b",
       "dataset": "isaacus/legal-rag-bench",
+      "dataset_revision": "db0b31dc6d195ce9916897e1ac5e4e6209736c8a",
+      "dataset_license_metadata": "cc-by-nc-sa-4.0",
+      "dataset_card_prose_license": "CC BY NC 4.0",
+      "license_metadata_conflict": true,
+      "commercial_use_status": "BLOCKED_PENDING_LICENSE_CLARIFICATION",
       "paper": "arXiv:2603.01710",
       "reported_questions": 100,
       "reported_passages": 4876,
@@ -53,8 +58,8 @@
       "code_license": "MIT",
       "gitlaw_claim_scope": "retrieval_vs_reasoning_decomposition_only",
       "counts_for_german_legal_release_gate": false,
-      "allowed_ci_mode": "oracle_decomposition_contract",
-      "notes": "Use the factorial/oracle methodology to attribute failures. Do not present Australian-law performance as German-law performance."
+      "allowed_ci_mode": "noncommercial_retrieval_diagnostic_and_oracle_contract",
+      "notes": "Use the pinned dataset revision for reproducibility. Treat structured license metadata as the conservative policy until the card prose/metadata mismatch is clarified. Do not present Australian-law performance as German-law performance."
     }
   ],
   "gitlaw_specific_layers": {
