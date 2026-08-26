@@ -1,21 +1,15 @@
 name: German public retrieval tournament
 
+# Full public German retrieval runs are deliberate evidence jobs, not ordinary PR CI.
+# The PR already has cheap benchmark/claim-integrity gates. Keeping this workflow
+# manual prevents GitHub pull_request path semantics from re-running multi-hour
+# case-law tournaments on every unrelated synchronize event.
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'evals/german_public/**'
-      - '.github/workflows/german-retrieval.yml'
-      - 'scripts/german-public-benchmark-gate.mjs'
-  pull_request:
-    paths:
-      - 'evals/german_public/**'
-      - '.github/workflows/german-retrieval.yml'
-      - 'scripts/german-public-benchmark-gate.mjs'
+  workflow_dispatch:
 
 concurrency:
-  group: german-retrieval-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: true
+  group: german-retrieval-${{ github.ref }}
+  cancel-in-progress: false
 
 env:
   TOKENIZERS_PARALLELISM: 'false'
