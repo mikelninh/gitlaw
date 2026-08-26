@@ -2,18 +2,14 @@ name: GerLayQA dev-only retrieval tuning
 
 on:
   workflow_dispatch:
-  pull_request:
-    paths:
-      - 'evals/german_public/run_gerlayqa_dev_tuning.py'
-      - '.github/workflows/gerlayqa-dev-tuning.yml'
   push:
-    branches: [main]
+    branches: [feat/ypog-legal-ai-proof]
     paths:
       - 'evals/german_public/run_gerlayqa_dev_tuning.py'
       - '.github/workflows/gerlayqa-dev-tuning.yml'
 
 concurrency:
-  group: gerlayqa-dev-tuning-${{ github.event.pull_request.number || github.ref }}
+  group: gerlayqa-dev-tuning-${{ github.ref }}
   cancel-in-progress: true
 
 env:
