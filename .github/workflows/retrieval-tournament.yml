@@ -64,6 +64,7 @@ jobs:
           print('\nWINNER=' + r['winner_by_hit_at_10_then_mrr'])
           PY
       - uses: actions/upload-artifact@v4
+        if: ${{ always() && hashFiles('retrieval-tournament.json') != '' }}
         with:
           name: legal-rag-bench-retrieval-tournament
           path: retrieval-tournament.json
