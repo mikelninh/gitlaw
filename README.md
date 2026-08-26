@@ -43,38 +43,97 @@ human-reviewable next step
 | FAISS vectors | **98,367** |
 | Citation-resolution eval | **53 / 53** |
 | Historical broad RAG Retrieval@5 | **0.65 / 20 questions** |
+| External benchmark families pinned | **3** |
+| Full external benchmark runs claimable | **0 / 3** |
+| Lawyer-approved German Gold | **0 / 500 strict target** |
 
 **Important:** 53/53 measures citation-resolution cases, not complete legal-answer accuracy. The historical 20-question broad RAG run is preserved as a **failure baseline**, not hidden: Retrieval@1 = 0.25, Retrieval@3 = 0.55, Retrieval@5 = 0.65, while answer faithfulness/relevance were not meaningfully measured in that run.
 
-## Production Legal AI proof
+## Evaluation first: reuse public ground truth
 
-The YPOG-oriented proof package separates **engineering integrity** from **legal-quality readiness**.
+GitLaw does **not** rebuild a benchmark when a strong public benchmark already measures the same capability. Public benchmarks give external comparability; scarce lawyer-review time is reserved for German-law and law-firm-specific evidence.
+
+```text
+PUBLIC EXTERNAL BENCHMARKS
+LegalBench-RAG · LegalBench · Legal RAG Bench
+                ↓
+         GERMAN LEGAL GOLD
+   500 reviewed · 200 frozen target
+                ↓
+      ADVERSARIAL / SECURITY
+          200-case target
+                ↓
+         LAW-FIRM SHADOW
+          100 matters target
+```
+
+The three public benchmark families are pinned to explicit upstream revisions:
+
+- **LegalBench-RAG** — retrieval comparability over legal contracts/privacy/M&A/NDA material; its character-span precision/recall scoring contract is implemented locally.
+- **LegalBench** — external legal-reasoning comparability; task licenses must be checked individually.
+- **Legal RAG Bench** — 100-question end-to-end RAG benchmark whose oracle/factorial methodology is used to separate retrieval failures from reasoning/context-use failures.
+
+**Claim boundary:** these external benchmarks are not German-law accuracy. They complement — never replace — lawyer-reviewed German ground truth.
+
+See [`docs/ypog/BENCHMARK_PYRAMID.md`](docs/ypog/BENCHMARK_PYRAMID.md) and [`evals/external/`](evals/external/).
+
+## Strict production Legal AI proof
+
+The proof package separates **engineering integrity**, **external benchmark evidence**, **German-law quality**, **agent safety** and **real-world usefulness**.
 
 Run:
 
 ```bash
 node scripts/ypog-proof-gate.mjs
+node scripts/external-benchmark-gate.mjs
+node scripts/german-gold-gate.mjs
 ```
 
 Expected current outcome:
 
 ```text
 engineering_gate: PASS
-legal_quality_release_gate: BLOCKED_PENDING_LAWYER_REVIEWED_BENCHMARK
+external benchmark registration: PASS
+German Gold anti-inflation contract: PASS
+legal_quality_release_gate: BLOCKED_PENDING_EXTERNAL_AND_LAWYER_EVIDENCE
 ```
 
-That blocker is intentional. A green CI build is not evidence of lawyer-grade legal accuracy.
+That blocker is intentional. Green CI, a public benchmark score or a synthetic trace is not evidence of lawyer-grade German-law accuracy.
 
-The package adds:
+### GitLaw's deliberately strict 10/10 bar
 
-- frozen baseline integrity checks;
-- proposed >=100-case lawyer-reviewed release criteria;
-- a 20-case adversarial seed suite;
+A 10/10 claim requires all mandatory layers, including:
+
+- **>=500** lawyer-reviewed German-law cases;
+- **>=200** cases frozen as an unseen holdout before tuning;
+- **>=12** distinct legal task families;
+- **>=5** independent lawyer reviewers;
+- critical-authority Recall@5 **>=97%** with **zero critical source omissions** on the release holdout;
+- citation precision **>=99.5%**;
+- unsupported material claims **<=0.2%**;
+- correct abstention **>=98%**;
+- **>=200** adversarial cases with zero P0 safety failures;
+- zero cross-tenant leaks, approval bypasses, stale approvals accepted or autonomous consequential releases;
+- **>=100** governed shadow matters comparing lawyer-alone vs GitLaw-assisted work;
+- no increase in critical legal miss rate, plus measured time-to-review-ready and material-correction rate.
+
+These are GitLaw's evidence criteria, **not YPOG requirements**.
+
+## Eval Lab
+
+The repo now contains:
+
+- frozen historical and component baselines;
+- pinned external benchmark manifest + evidence ledger;
+- LegalBench-RAG-compatible character-span scorer;
+- Oracle-vs-RAG failure decomposition;
+- German Legal Gold schema + anti-inflation ledger;
+- lawyer human-evaluation scorecard;
 - machine-readable supervised-agent policy;
-- a lawyer human-evaluation scorecard;
-- a multi-provider quality/latency/cost benchmark template;
-- an inspectable synthetic agent-trace fixture;
-- CI that runs the existing GitLaw tests and production viewer build alongside the proof gate.
+- adversarial case suite + execution ledger;
+- multi-provider quality/latency/cost benchmark template;
+- inspectable synthetic agent trace;
+- CI gates that keep benchmark claims, safety boundaries and evidence status from silently drifting.
 
 See [`docs/ypog/`](docs/ypog/) and the [public proof page](https://mikelninh.github.io/gitlaw/ypog/).
 
@@ -124,7 +183,7 @@ python -m gitlaw_mcp.demo
 
 GitLaw assists research and preparation. It does **not** replace qualified legal advice or make consequential legal decisions autonomously.
 
-The next meaningful proof is a frozen >=100-case benchmark reviewed by legal professionals, followed by executed red-team tests and realistic matter workflows — not simply adding more features.
+The next meaningful proof is not another feature. It is **executed external benchmarks + German lawyer-reviewed ground truth + adversarial evidence + governed shadow workflow evidence**.
 
 ---
 
