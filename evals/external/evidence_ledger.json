@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.1",
-  "status": "COMPONENT_EVIDENCE_EXISTS_FULL_EXTERNAL_SUITES_PENDING",
+  "schema_version": "1.2",
+  "status": "MULTIPLE_EXTERNAL_COMPONENT_RUNS_FULL_SUITES_PENDING",
   "principle": "A benchmark is not counted as evidence merely because its adapter or manifest exists. Component runs and full benchmark suites are counted separately.",
   "benchmarks": {
     "legalbench-rag": {
@@ -22,24 +22,32 @@
     "legal-rag-bench": {
       "registration": "PINNED_CODE_AND_DATASET",
       "adapter": "ORACLE_DECOMPOSITION_IMPLEMENTED",
-      "component_run": "EXECUTED_BM25_RETRIEVAL_DIAGNOSTIC",
-      "component_result": "evals/external/results/legal_rag_bench_bm25_20260826.json",
-      "component_metrics": {
-        "hit_at_1": 0.14,
-        "hit_at_5": 0.30,
-        "hit_at_10": 0.31,
-        "mrr": 0.21812319724933016
-      },
+      "component_runs": [
+        {
+          "type": "BM25_RETRIEVAL_DIAGNOSTIC",
+          "result": "evals/external/results/legal_rag_bench_bm25_20260826.json",
+          "metrics": {"hit_at_1": 0.14, "hit_at_5": 0.30, "hit_at_10": 0.31, "mrr": 0.21812319724933016}
+        },
+        {
+          "type": "GENERAL_SEMANTIC_RETRIEVAL_TOURNAMENT",
+          "result": "evals/external/results/legal_rag_bench_retrieval_smoke_20260826.json",
+          "winner": "hybrid_general_rrf",
+          "winner_metrics": {"hit_at_1": 0.16, "hit_at_5": 0.33, "hit_at_10": 0.43, "mrr": 0.2550817454048586},
+          "rejected_default": "hybrid_general_reranked",
+          "rejected_reason": "generic cross-encoder reduced Hit@10 from 0.43 to 0.32"
+        }
+      ],
+      "legal_domain_challenger": "RUNNING_OR_PENDING_RESULT_FREEZE",
       "full_run": "PENDING_GENERATIVE_AND_ORACLE_EXECUTION",
       "measured_full_score": null,
-      "claim_scope": "external retrieval component baseline plus retrieval-vs-reasoning methodology"
+      "claim_scope": "external retrieval component evidence plus retrieval-vs-reasoning methodology"
     }
   },
   "summary": {
     "registered": 3,
-    "component_runs_completed": 1,
+    "component_runs_completed": 2,
     "full_runs_completed": 0,
-    "external_component_scores_claimable_with_scope": 1,
+    "external_component_scores_claimable_with_scope": 2,
     "external_full_suite_scores_claimable": 0
   }
 }
