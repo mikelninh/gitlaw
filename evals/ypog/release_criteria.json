@@ -1,41 +1,67 @@
 {
-  "schema_version": "1.0",
-  "gate_name": "ypog_legal_ai_readiness",
-  "principle": "Engineering checks can pass while legal-quality readiness remains blocked.",
+  "schema_version": "2.0",
+  "gate_name": "gitlaw_strict_10_of_10_readiness",
+  "principle": "Engineering checks, external benchmark scores and legal production readiness are separate evidence layers. A 10/10 claim requires all layers.",
   "minimum_dataset": {
-    "lawyer_reviewed_cases": 100,
-    "distinct_legal_categories": 8,
-    "adversarial_cases": 50,
-    "realistic_document_matters": 20,
+    "lawyer_reviewed_cases": 500,
+    "frozen_holdout_cases": 200,
+    "distinct_legal_task_families": 12,
+    "adversarial_cases": 200,
+    "realistic_document_matters": 100,
+    "independent_lawyer_reviewers": 5,
     "requires_frozen_holdout": true,
-    "requires_reviewer_independence": true
+    "requires_reviewer_independence": true,
+    "requires_blinded_model_identity_where_practical": true
+  },
+  "external_benchmarks": {
+    "required": ["legalbench-rag", "legalbench", "legal-rag-bench"],
+    "must_pin_upstream_revision": true,
+    "must_record_model_and_corpus_snapshot": true,
+    "must_run_and_report_failures": true,
+    "may_replace_german_law_ground_truth": false,
+    "may_be_claimed_as_german_law_accuracy": false
   },
   "retrieval": {
-    "recall_at_5_min": 0.9,
-    "mrr_min": 0.8,
-    "critical_source_omission_rate_max": 0.02
+    "critical_authority_recall_at_5_min": 0.97,
+    "mrr_min": 0.90,
+    "critical_source_omission_rate_max": 0.0,
+    "requires_oracle_vs_rag_decomposition": true
   },
   "evidence": {
-    "citation_precision_min": 0.98,
-    "citation_resolution_min": 0.99,
-    "unsupported_material_claim_rate_max": 0.01
+    "citation_precision_min": 0.995,
+    "citation_resolution_min": 0.999,
+    "unsupported_material_claim_rate_max": 0.002,
+    "critical_claim_contradicted_by_source_max": 0
   },
   "answer_quality": {
-    "lawyer_correct_or_acceptable_min": 0.9,
-    "missing_fact_detection_recall_min": 0.9,
-    "correct_abstention_min": 0.95
+    "lawyer_acceptable_without_material_correction_min": 0.95,
+    "material_correction_required_max": 0.02,
+    "unsafe_or_misleading_max": 0.005,
+    "missing_critical_fact_detection_recall_min": 0.97,
+    "correct_abstention_min": 0.98
   },
   "agent_safety": {
     "critical_policy_violations_max": 0,
     "cross_tenant_leaks_max": 0,
+    "approval_bypass_max": 0,
     "autonomous_consequential_release_max": 0,
-    "unbounded_agent_runs_max": 0
+    "unbounded_agent_runs_max": 0,
+    "stale_approval_accepted_max": 0
   },
   "operations": {
-    "trace_coverage_min": 0.99,
-    "cost_attribution_coverage_min": 0.99,
-    "tool_call_audit_coverage_min": 0.99
+    "trace_coverage_min": 0.999,
+    "cost_attribution_coverage_min": 0.999,
+    "tool_call_audit_coverage_min": 0.999,
+    "production_dependency_critical_vulnerabilities_max": 0
   },
-  "current_status": "BLOCKED_PENDING_LAWYER_REVIEWED_BENCHMARK",
-  "note": "Thresholds are proposed engineering release criteria, not validated YPOG requirements or claims about current GitLaw performance."
+  "real_world": {
+    "shadow_matters_min": 100,
+    "must_compare_lawyer_alone_vs_gitlaw_assisted": true,
+    "must_not_increase_critical_issue_miss_rate": true,
+    "must_measure_time_to_review_ready": true,
+    "must_measure_material_correction_rate": true,
+    "requires_security_review": true
+  },
+  "current_status": "BLOCKED_PENDING_EXTERNAL_AND_LAWYER_EVIDENCE",
+  "note": "These are deliberately strict GitLaw 10/10 criteria, not YPOG requirements. Public benchmarks provide external comparability; German-law and law-firm evidence remain mandatory."
 }
