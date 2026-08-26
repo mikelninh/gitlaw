@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "status": "REGISTERED_NOT_YET_EXECUTED_END_TO_END",
+  "principle": "A benchmark is not counted as evidence merely because its adapter or manifest exists.",
+  "benchmarks": {
+    "legalbench-rag": {
+      "registration": "PINNED",
+      "adapter": "PLANNED_SCORER_CONTRACT",
+      "full_run": "PENDING_DATA_SETUP_AND_EXECUTION",
+      "measured_score": null,
+      "claim_scope": "external retrieval comparability only"
+    },
+    "legalbench": {
+      "registration": "PINNED",
+      "adapter": "PENDING_TASK_SELECTION_BY_LICENSE",
+      "full_run": "PENDING_MODEL_EXECUTION",
+      "measured_score": null,
+      "claim_scope": "external legal reasoning comparability only"
+    },
+    "legal-rag-bench": {
+      "registration": "PINNED",
+      "adapter": "ORACLE_DECOMPOSITION_IMPLEMENTED",
+      "full_run": "PENDING_DATA_AND_MODEL_EXECUTION",
+      "measured_score": null,
+      "claim_scope": "retrieval-vs-reasoning decomposition only"
+    }
+  },
+  "summary": {
+    "registered": 3,
+    "full_runs_completed": 0,
+    "external_scores_currently_claimable": 0
+  }
+}
