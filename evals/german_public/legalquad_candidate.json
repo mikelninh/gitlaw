@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "id": "legalquad",
+  "name": "LegalQuAD / MTEB mirror",
+  "evaluation_dataset": "mteb/LegalQuAD",
+  "evaluation_dataset_revision": "d9a3183ea8b7a592a5a0e008a50847377e719109",
+  "primary_layer": "german_legal_document_retrieval_candidate",
+  "domain": "German legal documents",
+  "expected_counts": {
+    "queries": 200,
+    "documents": 200,
+    "relevance_labels": 200
+  },
+  "mteb_mirror_declared_license": "CC-BY-4.0",
+  "original_reference_repo": "Christoph911/AIKE2021_Appendix",
+  "original_reference_repo_license_file_observed": false,
+  "rights_status": "UPSTREAM_RIGHTS_CONFIRMATION_REQUIRED_BEFORE_STRICT_GATE",
+  "data_vendored": false,
+  "counts_as_public_german_capability_candidate": true,
+  "counts_as_strict_third_german_suite": false,
+  "counts_as_lawyer_approved_product_gold": false,
+  "claim_scope": "German legal-document retrieval capability only; not current-law accuracy or product gold",
+  "why_not_strict_yet": "The processed MTEB mirror declares CC BY 4.0, but the referenced original repository exposes no explicit LICENSE file at its root. GitLaw will not infer upstream redistribution/use rights from the mirror label alone."
+}

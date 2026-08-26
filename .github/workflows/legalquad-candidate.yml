@@ -1,0 +1,79 @@
+name: LegalQuAD provenance-gated retrieval candidate
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'evals/german_public/run_legalquad_retrieval.py'
+      - 'evals/german_public/legalquad_candidate.json'
+      - 'evals/german_public/requirements.txt'
+      - '.github/workflows/legalquad-candidate.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'evals/german_public/run_legalquad_retrieval.py'
+      - 'evals/german_public/legalquad_candidate.json'
+      - 'evals/german_public/requirements.txt'
+      - '.github/workflows/legalquad-candidate.yml'
+
+concurrency:
+  group: legalquad-candidate-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+env:
+  TOKENIZERS_PARALLELISM: 'false'
+  HF_HUB_DISABLE_TELEMETRY: '1'
+
+jobs:
+  candidate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: legalquad-${{ runner.os }}-${{ hashFiles('evals/german_public/requirements.txt') }}
+          restore-keys: |
+            german-retrieval-${{ runner.os }}-
+            retrieval-models-${{ runner.os }}-
+      - name: Install retrieval dependencies
+        run: pip install -r evals/german_public/requirements.txt
+      - name: Execute pinned LegalQuAD tournament
+        run: |
+          python evals/german_public/run_legalquad_retrieval.py \
+            --json-out legalquad-retrieval.json
+      - name: Verify evidence and provenance boundary
+        run: |
+          python - <<'PY'
+          import json
+          r=json.load(open('legalquad-retrieval.json', encoding='utf-8'))
+          assert r['status'] == 'OBSERVED_GERMAN_LEGAL_RETRIEVAL_CANDIDATE', r
+          assert r['dataset_revision'] == 'd9a3183ea8b7a592a5a0e008a50847377e719109', r
+          assert r['counts_as_strict_third_german_suite'] is False, r
+          lp=r['license_provenance']
+          assert lp['mteb_mirror_declared_license'] == 'CC-BY-4.0', lp
+          assert lp['original_repo_license_file_observed'] is False, lp
+          assert lp['status'] == 'UPSTREAM_RIGHTS_CONFIRMATION_REQUIRED_BEFORE_STRICT_GATE', lp
+          assert r['source_files']['corpus.jsonl']['rows'] == 200, r['source_files']
+          assert r['source_files']['queries.jsonl']['rows'] == 200, r['source_files']
+          assert r['source_files']['qrels/test.jsonl']['rows'] == 200, r['source_files']
+          for method in ('bm25','dense_general','dense_german','hybrid_german_rrf'):
+              assert method in r['methods'], method
+              m=r['methods'][method]
+              for key in ('hit_at_1','hit_at_5','hit_at_10','recall_at_10','mrr_at_10'):
+                  assert 0 <= m[key] <= 1, (method,key,m[key])
+              assert len(m['rows']) == 200, method
+          print('LEGALQUAD_CANDIDATE_SCOREBOARD=' + json.dumps(r['scoreboard'], ensure_ascii=False))
+          print('STRICT_GATE_COUNTED=false')
+          PY
+      - uses: actions/upload-artifact@v4
+        if: ${{ always() && hashFiles('legalquad-retrieval.json') != '' }}
+        with:
+          name: legalquad-provenance-gated-candidate
+          path: legalquad-retrieval.json
+          if-no-files-found: error
+          retention-days: 30

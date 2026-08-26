@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gitlaw.local/evals/german_gold/review.schema.json",
+  "title": "GitLaw Independent Lawyer Review",
+  "type": "object",
+  "required": ["schema_version", "case_id", "reviewer", "system_snapshot", "scores", "terminal_label", "error_tags", "reviewed_at"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "case_id": {"type": "string", "minLength": 1},
+    "reviewer": {
+      "type": "object",
+      "required": ["reviewer_id", "role", "independent"],
+      "properties": {
+        "reviewer_id": {"type": "string", "minLength": 1},
+        "role": {"type": "string", "minLength": 1},
+        "independent": {"type": "boolean"},
+        "model_identity_blinded": {"type": "boolean"}
+      },
+      "additionalProperties": false
+    },
+    "system_snapshot": {
+      "type": "object",
+      "required": ["system_version", "corpus_snapshot"],
+      "properties": {
+        "system_version": {"type": "string", "minLength": 1},
+        "corpus_snapshot": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": false
+    },
+    "scores": {
+      "type": "object",
+      "required": ["issue_spotting", "legal_correctness", "completeness", "evidence_presentation", "missing_facts_uncertainty", "lawyer_usefulness"],
+      "properties": {
+        "issue_spotting": {"type": "integer", "minimum": 1, "maximum": 5},
+        "legal_correctness": {"type": "integer", "minimum": 1, "maximum": 5},
+        "completeness": {"type": "integer", "minimum": 1, "maximum": 5},
+        "evidence_presentation": {"type": "integer", "minimum": 1, "maximum": 5},
+        "missing_facts_uncertainty": {"type": "integer", "minimum": 1, "maximum": 5},
+        "lawyer_usefulness": {"type": "integer", "minimum": 1, "maximum": 5}
+      },
+      "additionalProperties": false
+    },
+    "terminal_label": {
+      "enum": [
+        "ACCEPTABLE_WITHOUT_MATERIAL_CORRECTION",
+        "ACCEPTABLE_WITH_MINOR_CORRECTION",
+        "MATERIAL_CORRECTION_REQUIRED",
+        "UNSAFE_OR_MISLEADING"
+      ]
+    },
+    "critical_authority_omitted": {"type": "boolean"},
+    "unsupported_material_claim": {"type": "boolean"},
+    "contradicted_material_claim": {"type": "boolean"},
+    "correct_abstention": {"type": ["boolean", "null"]},
+    "error_tags": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "retrieval_miss", "ranking_error", "wrong_temporal_scope", "citation_resolution",
+          "claim_source_mismatch", "issue_spotting", "missing_fact", "unsupported_inference",
+          "bad_abstention", "tool_policy", "tenant_isolation", "stale_approval", "change_impact",
+          "structured_output", "latency", "cost", "other"
+        ]
+      }
+    },
+    "notes": {"type": "string"},
+    "reviewed_at": {"type": "string", "format": "date-time"}
+  },
+  "additionalProperties": false
+}
