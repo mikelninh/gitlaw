@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "trace_type": "synthetic_example",
+  "claim_boundary": "Illustrates the existing GitLaw Pro observability model; values are demo fixtures, not measured YPOG or production metrics.",
+  "matter_id": "DEMO-MATTER-0241",
+  "agent_run_id": "demo-run-0241",
+  "agent_name": "research_to_draft",
+  "status": "awaiting_human_review",
+  "limits": {"max_iterations": 12, "max_cost_usd": 0.10},
+  "steps": [
+    {"n":1,"type":"llm","name":"classify_issue","latency_ms":142,"cost_usd":0.0002,"result":"ok"},
+    {"n":2,"type":"tool","name":"hybrid_retrieve","latency_ms":91,"cost_usd":0,"result":"ok","evidence_count":12},
+    {"n":3,"type":"tool","name":"paragraph_graph_expand","latency_ms":113,"cost_usd":0,"result":"ok","evidence_count":5},
+    {"n":4,"type":"tool","name":"citation_verify","latency_ms":23,"cost_usd":0,"result":"ok","verified":5},
+    {"n":5,"type":"llm","name":"draft_structured_analysis","latency_ms":1820,"cost_usd":0.0134,"result":"ok"},
+    {"n":6,"type":"policy","name":"material_claim_check","latency_ms":12,"cost_usd":0,"result":"ok","unsupported_material_claims":0}
+  ],
+  "totals": {"iterations":6,"latency_ms":2201,"cost_usd":0.0136,"evidence_sources":5,"unsupported_material_claims":0},
+  "release": {"allowed":false,"reason":"Consequential legal output requires authorised human review."}
+}
