@@ -19,3 +19,9 @@ gitlaw_mcp/data/citation_graph.json
 # Private Pilot-Kommunikation — nicht für public repo
 private/
 .env*.local
+
+# Law-firm pilot customer workspaces and local proofs — NEVER commit matter data
+deployments/gitlaw-law-firm-pilots/
+**/*.local.json
+**/*.local.html
+**/*.local.txt
