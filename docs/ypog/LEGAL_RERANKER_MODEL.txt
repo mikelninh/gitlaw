@@ -1,0 +1,5 @@
+datgacon/cuad-cross-encoder-v11
+license=apache-2.0
+purpose=optional Legal RAG Bench reranker challenger only
+base_model=cross-encoder/ms-marco-MiniLM-L6-v2
+claim_boundary=English legal-contract reranking evidence only; not German-law validation and not a default unless observed metrics improve

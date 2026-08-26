@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
 """Run a reproducible retrieval tournament on pinned Legal RAG Bench data.
 
-Methods:
+Core methods:
 - BM25 lexical baseline
 - generic dense embeddings
 - BM25 + dense reciprocal-rank fusion (RRF)
-- hybrid + cross-encoder reranking
-- open legal-domain dense embeddings
+- hybrid + generic cross-encoder reranking
+
+Optional challengers:
+- small legal-contract cross-encoder over the same hybrid candidates
+- open legal-domain dense embeddings (expensive on CPU; not standard CI)
 - BM25 + legal dense RRF
-- legal hybrid + cross-encoder reranking
+- legal hybrid + generic cross-encoder reranking
 
 The benchmark is external Australian-law retrieval evidence. It is not German-law
 accuracy and not an end-to-end legal-answer benchmark.
@@ -36,6 +39,7 @@ TOKEN_RE = re.compile(r"\b\w+\b", re.UNICODE)
 GENERAL_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 LEGAL_MODEL = "Hanno-Labs/dinghy-law-0.6b-v1"
 RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L6-v2"
+LEGAL_RERANKER_MODEL = "datgacon/cuad-cross-encoder-v11"
 
 
 def fetch_jsonl(filename: str, retries: int = 3) -> list[dict[str, Any]]:
@@ -61,9 +65,9 @@ def tokenize(text: str) -> list[str]:
 
 def resolve_revision(model_id: str) -> str:
     sha = HfApi().model_info(model_id).sha
-    if not sha or len(sha) < 12:
-        raise RuntimeError(f"Could not resolve immutable model revision for {model_id}")
-    return sha
+    if not sha or not re.fullmatch(r"[0-9a-f]{40}", str(sha)):
+        raise RuntimeError(f"Could not resolve immutable model revision for {model_id}: {sha}")
+    return str(sha)
 
 
 def bm25_rankings(texts: list[str], questions: list[str]) -> tuple[np.ndarray, float]:
@@ -153,7 +157,8 @@ def compact(result: dict[str, Any]) -> dict[str, Any]:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--json-out", type=Path)
-    ap.add_argument("--skip-legal", action="store_true", help="Run only the small general model path")
+    ap.add_argument("--skip-legal", action="store_true", help="Skip the expensive 0.6B legal dense path")
+    ap.add_argument("--legal-reranker-challenger", action="store_true", help="Evaluate a small legal-contract MiniLM reranker over the general hybrid candidates")
     ap.add_argument("--rerank-top-n", type=int, default=50)
     args = ap.parse_args()
 
@@ -169,6 +174,7 @@ def main() -> None:
 
     general_rev = resolve_revision(GENERAL_MODEL)
     reranker_rev = resolve_revision(RERANKER_MODEL)
+    legal_reranker_rev = resolve_revision(LEGAL_RERANKER_MODEL) if args.legal_reranker_challenger else None
     legal_rev = None if args.skip_legal else resolve_revision(LEGAL_MODEL)
 
     bm25, bm25_seconds = bm25_rankings(texts, questions)
@@ -189,6 +195,18 @@ def main() -> None:
     }
     sequence_limits = {"dense_general_max_seq_length": general_max_seq}
 
+    if legal_reranker_rev:
+        legal_reranked, legal_rerank_seconds = rerank(
+            general_hybrid,
+            questions,
+            texts,
+            LEGAL_RERANKER_MODEL,
+            legal_reranker_rev,
+            top_n=args.rerank_top_n,
+        )
+        method_rankings["hybrid_general_legal_contract_reranked"] = legal_reranked
+        timings["rerank_legal_contract_challenger_seconds_including_model_load"] = legal_rerank_seconds
+
     if not args.skip_legal and legal_rev:
         legal, legal_seconds, legal_max_seq = encode_model(LEGAL_MODEL, legal_rev, texts, questions, legal=True)
         legal_hybrid = rrf(bm25, legal)
@@ -208,7 +226,7 @@ def main() -> None:
     winner = max(results, key=lambda name: (results[name]["hit_at_10"], results[name]["mrr"]))
 
     output = {
-        "schema_version": "1.0",
+        "schema_version": "1.1",
         "status": "OBSERVED_EXTERNAL_RETRIEVAL_TOURNAMENT",
         "benchmark": "Legal RAG Bench",
         "dataset": DATASET,
@@ -217,7 +235,8 @@ def main() -> None:
         "n_passages": len(texts),
         "model_revisions": {
             "dense_general": {"model": GENERAL_MODEL, "revision": general_rev},
-            "reranker": {"model": RERANKER_MODEL, "revision": reranker_rev},
+            "reranker_generic": {"model": RERANKER_MODEL, "revision": reranker_rev},
+            "reranker_legal_contract_challenger": None if legal_reranker_rev is None else {"model": LEGAL_RERANKER_MODEL, "revision": legal_reranker_rev},
             "dense_legal": None if legal_rev is None else {"model": LEGAL_MODEL, "revision": legal_rev},
         },
         "configuration": {"rrf_k": 60, "rerank_top_n": args.rerank_top_n},
@@ -227,11 +246,12 @@ def main() -> None:
         "winner_by_hit_at_10_then_mrr": winner,
         "claim_boundary": (
             "This compares retrieval components on pinned Australian-law external ground truth. "
-            "It is not an end-to-end answer-quality score and not evidence of German-law accuracy."
+            "The legal-contract reranker is a challenger, not a default, and is accepted only if the observed metrics improve. "
+            "This is not an end-to-end answer-quality score and not evidence of German-law accuracy."
         ),
         "license_boundary": (
             "Source benchmark text is fetched at runtime and not vendored. Legal RAG Bench dataset licensing remains non-commercial/clarification-gated in GitLaw's manifest. "
-            "Model licenses are recorded separately; the two open embedding/reranking candidates used here are Apache-2.0 per their model cards."
+            "Open model candidates used in standard CI are recorded with immutable revisions; their model-card licences are tracked separately."
         ),
     }
 

@@ -1,0 +1,26 @@
+name: Benchmark optimization contract
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/ypog/BENCHMARK_OPTIMIZATION_POLICY.md'
+      - 'docs/ypog/LEGAL_RERANKER_CHALLENGER.md'
+      - 'scripts/benchmark-optimization-gate.py'
+      - '.github/workflows/benchmark-optimization.yml'
+  pull_request:
+    paths:
+      - 'docs/ypog/BENCHMARK_OPTIMIZATION_POLICY.md'
+      - 'docs/ypog/LEGAL_RERANKER_CHALLENGER.md'
+      - 'scripts/benchmark-optimization-gate.py'
+      - '.github/workflows/benchmark-optimization.yml'
+
+jobs:
+  contract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/benchmark-optimization-gate.py
