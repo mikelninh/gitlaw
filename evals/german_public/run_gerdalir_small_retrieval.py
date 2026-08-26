@@ -14,6 +14,7 @@ Memory contract:
 from __future__ import annotations
 
 import argparse
+import importlib.metadata
 import json
 import re
 import time
@@ -44,6 +45,25 @@ MODEL_IDS = {
 
 def tokenize(text: str) -> list[str]:
     return [m.group(0).lower() for m in TOKEN_RE.finditer(text)]
+
+
+def package_versions() -> dict[str, str]:
+    packages = (
+        "numpy",
+        "rank-bm25",
+        "sentence-transformers",
+        "huggingface-hub",
+        "datasets",
+        "transformers",
+        "torch",
+    )
+    versions: dict[str, str] = {}
+    for package in packages:
+        try:
+            versions[package] = importlib.metadata.version(package)
+        except importlib.metadata.PackageNotFoundError:
+            versions[package] = "NOT_INSTALLED"
+    return versions
 
 
 def resolve_model(model_id: str) -> tuple[str, str]:
@@ -122,14 +142,98 @@ def top_indices(scores: np.ndarray, depth: int) -> list[int]:
     return idx.tolist()
 
 
+def build_bm25_postings(
+    model: BM25Okapi,
+) -> tuple[dict[str, tuple[np.ndarray, np.ndarray]], np.ndarray]:
+    doc_length_norm = model.k1 * (
+        1.0
+        - model.b
+        + model.b * np.asarray(model.doc_len, dtype=np.float64) / float(model.avgdl)
+    )
+    posting_doc_ids: dict[str, list[int]] = defaultdict(list)
+    posting_tfs: dict[str, list[float]] = defaultdict(list)
+    for doc_idx, frequencies in enumerate(model.doc_freqs):
+        for token, tf in frequencies.items():
+            posting_doc_ids[token].append(doc_idx)
+            posting_tfs[token].append(float(tf))
+
+    postings = {
+        token: (
+            np.asarray(posting_doc_ids[token], dtype=np.int32),
+            np.asarray(posting_tfs[token], dtype=np.float64),
+        )
+        for token in posting_doc_ids
+    }
+    return postings, doc_length_norm
+
+
+def bm25_postings_scores(
+    model: BM25Okapi,
+    postings: dict[str, tuple[np.ndarray, np.ndarray]],
+    doc_length_norm: np.ndarray,
+    query_tokens: list[str],
+) -> np.ndarray:
+    scores = np.zeros(model.corpus_size, dtype=np.float64)
+    for token in query_tokens:
+        posting = postings.get(token)
+        if posting is None:
+            continue
+        doc_idx, tf = posting
+        idf = float(model.idf.get(token, 0.0))
+        scores[doc_idx] += idf * (
+            tf * (model.k1 + 1.0) / (tf + doc_length_norm[doc_idx])
+        )
+    return scores
+
+
+def verify_bm25_equivalence() -> None:
+    synthetic_corpus = [
+        ["alpha", "beta", "beta", "law"],
+        ["beta", "gamma", "court"],
+        ["alpha", "delta", "delta", "delta"],
+        ["court", "law", "law", "epsilon"],
+        ["zeta"],
+    ]
+    model = BM25Okapi(synthetic_corpus)
+    postings, doc_length_norm = build_bm25_postings(model)
+    synthetic_queries = [
+        ["alpha", "beta"],
+        ["missing", "law"],
+        ["beta", "beta", "gamma"],
+        ["court", "epsilon", "alpha"],
+        [],
+    ]
+    for query_tokens in synthetic_queries:
+        expected = np.asarray(model.get_scores(query_tokens), dtype=np.float64)
+        actual = bm25_postings_scores(model, postings, doc_length_norm, query_tokens)
+        if not np.allclose(actual, expected, rtol=1e-12, atol=1e-12):
+            delta = float(np.max(np.abs(actual - expected)))
+            raise RuntimeError(
+                f"inverted-postings BM25 diverged from rank_bm25 reference; max_abs_delta={delta}"
+            )
+
+
 def rank_bm25(corpus_texts: list[str], query_texts: list[str], depth: int) -> tuple[list[list[int]], dict[str, Any]]:
     started = time.perf_counter()
-    model = BM25Okapi([tokenize(text) for text in corpus_texts])
+    verify_bm25_equivalence()
+    tokenized_corpus = [tokenize(text) for text in corpus_texts]
+    model = BM25Okapi(tokenized_corpus)
+    postings, doc_length_norm = build_bm25_postings(model)
     rankings: list[list[int]] = []
     for query in query_texts:
-        rankings.append(top_indices(model.get_scores(tokenize(query)), depth))
+        scores = bm25_postings_scores(model, postings, doc_length_norm, tokenize(query))
+        rankings.append(top_indices(scores, depth))
     elapsed = time.perf_counter() - started
     return rankings, {
+        "implementation": "inverted_postings_rank_bm25_equivalent",
+        "equivalence_self_check": True,
+        "rank_bm25_parameters": {
+            "k1": float(model.k1),
+            "b": float(model.b),
+            "epsilon": float(model.epsilon),
+        },
+        "indexed_terms": len(postings),
+        "postings_entries": int(sum(len(doc_ids) for doc_ids, _ in postings.values())),
         "seconds": elapsed,
         "seconds_per_query_including_index_build": elapsed / max(len(query_texts), 1),
         "retained_depth": depth,
@@ -262,6 +366,31 @@ def evaluate(
     }
 
 
+def write_checkpoint(
+    path: Path,
+    base_result: dict[str, Any],
+    methods: dict[str, dict[str, Any]],
+    model_meta: dict[str, Any],
+    selected: set[str],
+) -> None:
+    scoreboard = sorted(
+        ({"method": name, **payload["metrics"]} for name, payload in methods.items()),
+        key=lambda row: (row["mrr_at_10"], row["recall_at_10"], row["hit_at_10"]),
+        reverse=True,
+    )
+    payload = {
+        **base_result,
+        "status": "PARTIAL_GERMAN_PUBLIC_RETRIEVAL_EVIDENCE",
+        "completed_methods": sorted(methods),
+        "selected_methods": sorted(selected),
+        "models": model_meta,
+        "scoreboard": scoreboard,
+        "methods": methods,
+    }
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--json-out", type=Path, required=True)
@@ -286,7 +415,7 @@ def main() -> None:
     load_seconds = time.perf_counter() - loaded_at
 
     base_result: dict[str, Any] = {
-        "schema_version": "1.0",
+        "schema_version": "1.1",
         "benchmark": "GerDaLIRSmall",
         "dataset_id": DATASET_ID,
         "dataset_revision": DATASET_REVISION,
@@ -297,7 +426,10 @@ def main() -> None:
             "queries": len(query_ids),
             "positive_relevance_labels": sum(len(v) for v in relevant.values()),
         },
-        "runtime": {"dataset_load_and_validation_seconds": load_seconds},
+        "runtime": {
+            "dataset_load_and_validation_seconds": load_seconds,
+            "package_versions": package_versions(),
+        },
         "memory_contract": {
             "retained_ranking_depth": RRF_DEPTH,
             "dense_query_chunk_size": args.query_chunk_size,
@@ -326,6 +458,7 @@ def main() -> None:
         rankings["bm25"] = ranked
         methods["bm25"] = evaluate("bm25", ranked, corpus_ids, query_ids, relevant)
         methods["bm25"]["runtime"] = runtime
+        write_checkpoint(args.json_out, base_result, methods, model_meta, selected)
 
     for method in ("dense_general", "dense_german"):
         need = method in selected or (method == "dense_german" and "hybrid_german_rrf" in selected)
@@ -345,6 +478,7 @@ def main() -> None:
         model_meta[method] = runtime
         methods[method] = evaluate(method, ranked, corpus_ids, query_ids, relevant)
         methods[method]["runtime"] = runtime
+        write_checkpoint(args.json_out, base_result, methods, model_meta, selected)
 
     if "hybrid_german_rrf" in selected:
         fused = [rrf_rank(a, b) for a, b in zip(rankings["bm25"], rankings["dense_german"])]
@@ -355,6 +489,7 @@ def main() -> None:
             "rrf_k": RRF_K,
             "input_depth": RRF_DEPTH,
         }
+        write_checkpoint(args.json_out, base_result, methods, model_meta, selected)
 
     scoreboard = sorted(
         ({"method": name, **payload["metrics"]} for name, payload in methods.items()),
@@ -363,6 +498,8 @@ def main() -> None:
     )
     base_result.update({
         "status": "OBSERVED_GERMAN_PUBLIC_RETRIEVAL_EVIDENCE",
+        "completed_methods": sorted(methods),
+        "selected_methods": sorted(selected),
         "models": model_meta,
         "scoreboard": scoreboard,
         "methods": methods,

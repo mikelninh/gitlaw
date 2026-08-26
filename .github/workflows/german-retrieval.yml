@@ -15,7 +15,7 @@ on:
 
 concurrency:
   group: german-retrieval-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 env:
   TOKENIZERS_PARALLELISM: 'false'
@@ -123,7 +123,7 @@ jobs:
   gerdalir-small:
     needs: gerdalir-small-preflight
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -151,6 +151,7 @@ jobs:
           assert r['status'] == 'OBSERVED_GERMAN_PUBLIC_RETRIEVAL_EVIDENCE', r
           assert r['dataset_revision'] == '48327de6ee192e9610f3069789719788957c7abd', r
           assert r['counts'] == {'documents': 9969, 'queries': 12234, 'positive_relevance_labels': 14320}, r['counts']
+          assert r['completed_methods'] == ['bm25','dense_general','dense_german','hybrid_german_rrf'], r['completed_methods']
           methods=r['methods']
           for method in ('bm25','dense_general','dense_german','hybrid_german_rrf'):
               assert method in methods, method
@@ -158,6 +159,9 @@ jobs:
               m=methods[method]['metrics']
               for key in ('precision_at_10','recall_at_10','f1_at_10','mrr_at_10','map_at_10','hit_at_1','hit_at_5','hit_at_10'):
                   assert 0 <= m[key] <= 1, (method,key,m[key])
+          bm25_runtime=methods['bm25']['runtime']
+          assert bm25_runtime['implementation'] == 'inverted_postings_rank_bm25_equivalent', bm25_runtime
+          assert bm25_runtime['equivalence_self_check'] is True, bm25_runtime
           for method in ('dense_general','dense_german'):
               rev=methods[method]['runtime']['model_revision']
               assert len(rev) == 40 and all(c in '0123456789abcdef' for c in rev), (method,rev)
