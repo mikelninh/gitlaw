@@ -100,6 +100,27 @@ jobs:
 
       - name: Install retrieval benchmark dependencies
         run: pip install -r rag/requirements.txt
+
+      - name: Execute public Legal RAG Bench BM25 diagnostic
+        run: |
+          python evals/external/run_legal_rag_bench_bm25.py --json-out legal-rag-bench-bm25.json
+          python - <<'PY'
+          import json
+          r=json.load(open('legal-rag-bench-bm25.json', encoding='utf-8'))
+          assert r['run_type'] == 'EXTERNAL_BM25_RETRIEVAL_DIAGNOSTIC', r
+          assert r['n_questions'] == 100, r
+          assert r['n_passages'] == 4876, r
+          for key in ('hit_at_1','hit_at_5','hit_at_10','mrr'):
+              assert 0 <= r['metrics'][key] <= 1, (key, r['metrics'][key])
+          print('LEGAL_RAG_BENCH_BM25_SUMMARY=' + json.dumps(r['metrics'], sort_keys=True))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: legal-rag-bench-bm25-diagnostic
+          path: legal-rag-bench-bm25.json
+          if-no-files-found: error
+          retention-days: 30
+
       - name: Fresh offline BM25 retrieval measurement
         run: python evals/ypog/run_offline_retrieval_eval.py --json-out /tmp/gitlaw-bm25.json
       - name: Verify fresh BM25 measurement against frozen diagnostic baseline
