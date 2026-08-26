@@ -28,3 +28,62 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/german-public-benchmark-gate.mjs
+
+  gerlayqa-dev-selection:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      TOKENIZERS_PARALLELISM: 'false'
+      HF_HUB_DISABLE_TELEMETRY: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: gerlayqa-dev-tuning-${{ runner.os }}-${{ hashFiles('evals/german_public/requirements.txt') }}
+          restore-keys: |
+            german-retrieval-${{ runner.os }}-
+            retrieval-models-${{ runner.os }}-
+      - name: Install German retrieval dependencies
+        run: pip install -r evals/german_public/requirements.txt
+      - name: Anti-leak source contract
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          src=Path('evals/german_public/run_gerlayqa_dev_tuning.py').read_text(encoding='utf-8')
+          forbidden='bgb_' + 'eval.json'
+          assert forbidden not in src, 'DEV tuner must never name/fetch the eval split'
+          assert 'DEV_PATH = "data/bgb_dev.json"' in src, 'DEV split pin missing'
+          print('GERLAYQA_DEV_ANTI_LEAK_CONTRACT=PASS')
+          PY
+      - name: Select retrieval recipe on development split only
+        run: |
+          python evals/german_public/run_gerlayqa_dev_tuning.py \
+            --json-out gerlayqa-dev-recipe.json
+      - name: Verify recipe-selection boundary
+        run: |
+          python - <<'PY'
+          import json
+          r=json.load(open('gerlayqa-dev-recipe.json', encoding='utf-8'))
+          assert r['status'] == 'GERLAYQA_DEV_ONLY_RETRIEVAL_RECIPE_SELECTION', r
+          assert r['upstream_commit'] == 'cbc465942f0c1eab25ec8864bc358466e4d88e0e', r
+          assert r['split'] == 'bgb_dev.json_ONLY', r
+          assert r['evaluation_split_accessed'] is False, r
+          assert r['question_contract']['evaluated_dev_questions'] > 0, r
+          assert len(r['model']['model_revision']) == 40, r['model']
+          selected=r['selected_recipe']
+          for key in ('hit_at_10','mrr_at_10','recall_at_10'):
+              assert 0 <= selected['metrics'][key] <= 1, (key, selected['metrics'][key])
+          print('DEV_SELECTED_RECIPE=' + json.dumps(selected, ensure_ascii=False))
+          print('EVAL_SPLIT_ACCESSED=false')
+          PY
+      - uses: actions/upload-artifact@v4
+        if: ${{ always() && hashFiles('gerlayqa-dev-recipe.json') != '' }}
+        with:
+          name: gerlayqa-dev-only-recipe-selection
+          path: gerlayqa-dev-recipe.json
+          if-no-files-found: error
+          retention-days: 30
