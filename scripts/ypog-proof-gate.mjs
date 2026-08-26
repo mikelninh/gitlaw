@@ -12,8 +12,9 @@ const red = readJson('evals/ypog/red_team_cases.json')
 const policy = readJson('evals/ypog/agent_policy.json')
 const criteria = readJson('evals/ypog/release_criteria.json')
 const trace = readJson('evals/ypog/agent_trace_example.json')
-const gateway = readText('docs/llm-gateway-multi-provider.md')
-const tenancy = readText('docs/multi-tenant-architecture.md')
+const agentCode = readText('api/_agent.ts')
+const authCode = readText('api/_auth.ts')
+const llmCode = readText('api/_llm.ts')
 const agentGuide = readText('AGENTS.md')
 
 // 1. Historical baseline integrity: documentation must match the frozen raw result.
@@ -51,11 +52,13 @@ assert(trace.totals.cost_usd <= trace.limits.max_cost_usd, 'Synthetic trace exce
 assert(trace.release.allowed === false, 'Synthetic legal analysis must still require human review')
 assert(trace.totals.unsupported_material_claims === 0, 'Demo trace should not showcase an unsupported material claim as acceptable')
 
-// 5. Current architecture claims must have a real code/docs anchor, not only a job-target landing page.
-for (const token of ['provider_failover', 'TransientLLMError', 'estimateCostUsd'])
-  assert(gateway.includes(token), `Multi-provider gateway proof missing token: ${token}`)
-for (const token of ['tenant_id', 'agent_runs', 'max_iterations', 'max_cost_usd', 'agent_run_id'])
-  assert(tenancy.includes(token), `GitLaw Pro observability/isolation proof missing token: ${token}`)
+// 5. Public architecture claims must stay anchored to executable production code.
+for (const token of ['aborted_budget', 'aborted_iterations', 'findCachedToolCall', 'persistToolCall', 'maxIterations', 'maxCostUsd', 'agent_runs', 'tool_calls'])
+  assert(agentCode.includes(token), `Agent observability/guard proof missing in api/_agent.ts: ${token}`)
+for (const token of ['tenantId', 'ROLE_RANK', 'timingSafeEqual', "process.env.VERCEL_ENV === 'production'", 'return {}'])
+  assert(authCode.includes(token), `Tenant/auth proof missing in api/_auth.ts: ${token}`)
+for (const token of ['TransientLLMError', "provider: 'auto'", 'estimateCostUsd', 'RETRY_STATUS'])
+  assert(llmCode.includes(token), `Multi-provider gateway proof missing in api/_llm.ts: ${token}`)
 assert(agentGuide.includes('lawyer remains the reviewer and final authority'), 'Agent guide must preserve lawyer authority')
 
 // 6. Release criteria are stricter than the current historical baseline.
@@ -74,6 +77,12 @@ const report = {
     retrieval_at_3: baseline.metrics.retrieval_at_3,
     retrieval_at_5: baseline.metrics.retrieval_at_5,
     answer_quality: 'NOT_MEASURED'
+  },
+  code_anchors: {
+    bounded_agent_loop: true,
+    tool_call_audit: true,
+    tenant_auth_boundary: true,
+    multi_provider_failover: true
   },
   red_team_seed_cases: red.cases.length,
   critical_red_team_seed_cases: red.cases.filter(c => c.critical).length,
