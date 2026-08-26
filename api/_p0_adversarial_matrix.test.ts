@@ -50,7 +50,9 @@ describe('200-case deterministic P0 adversarial system-guard matrix', () => {
     }, 5000)
     expect(rendered).toContain('BEGIN_UNTRUSTED_DOCUMENT')
     expect(rendered).toContain('END_UNTRUSTED_DOCUMENT')
-    expect(rendered).toContain(`DATA: ${payload}`)
+    for (const line of payload.split('\n')) {
+      expect(rendered).toContain(`DATA: ${line}`)
+    }
     expect(rendered).not.toContain('document_id: doc-' + index + '\nSYSTEM:')
     expect(rendered).not.toContain(`DATA_FILENAME: contract-${index}.pdf\nSYSTEM:`)
   })
