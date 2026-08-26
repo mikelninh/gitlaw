@@ -195,7 +195,8 @@ export function preflightPilot(config, cases) {
 export function nextAction(preflight) {
   if (preflight.ok) return { state: 'STARTEN', message: 'Alles vorhanden. Historischer Replay kann gestartet werden.' }
   const codes = new Set(preflight.errors.map((e) => e.code))
-  const stop = [...codes].some((c) => c.startsWith('PRIVACY_') || c.startsWith('CONFIDENTIALITY_') || c.startsWith('CONSENT_') || c.startsWith('LEGAL_') || c.startsWith('SAFETY_') || c.startsWith('SCOPE_') || c === 'COMMERCIAL_MODE')
+  const stopExact = new Set(['REVIEWER_NOT_LAWYER', 'PROVIDER_REVIEW', 'RETENTION_SCOPE', 'COMMERCIAL_MODE'])
+  const stop = [...codes].some((c) => stopExact.has(c) || c.startsWith('PRIVACY_') || c.startsWith('CONFIDENTIALITY_') || c.startsWith('CONSENT_') || c.startsWith('LEGAL_') || c.startsWith('SAFETY_') || c.startsWith('SCOPE_'))
   if (stop) return { state: 'STOPP', message: 'Nicht improvisieren. Zuständige anwaltliche/Privacy/Engineering-Person übernimmt.', errors: preflight.errors }
   const request = [...codes].some((c) => ['CASES_TOO_FEW', 'REVIEWER_MISSING', 'OPERATOR_MISSING'].includes(c))
   if (request) return { state: 'ANFORDERN', message: 'Es fehlen Kundeneingaben. Nur das konkret Fehlende anfordern.', errors: preflight.errors }
@@ -287,7 +288,7 @@ export function decidePilot({ review, citation, measurement, runtime = {} }) {
 }
 
 export function buildCustomerReport({ firmLabel, pilotId, review, citation, measurement, runtime, decision }) {
-  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[c]))
   const time = measurement.time_reduction_percent == null ? 'noch nicht belastbar gemessen' : `${measurement.time_reduction_percent}% weniger Bearbeitungszeit im gemessenen Schritt`
   return `<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>GitLaw Pro Pilot Ergebnis</title><style>body{font-family:Inter,system-ui;max-width:920px;margin:40px auto;padding:0 20px;color:#171717;background:#f6f3ec}.card{background:white;border:1px solid #ddd5c8;border-radius:18px;padding:24px;margin:14px 0}.big{font-size:42px;font-weight:900}.muted{color:#6b6860}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}@media(max-width:700px){.grid{grid-template-columns:1fr}}</style><body><p class="muted">GitLaw Pro · historischer Kanzlei-Pilot · ${esc(pilotId)}</p><h1>${esc(firmLabel)}: Funktioniert „Akte vorbereiten“?</h1><div class="card"><div class="big">${esc(decision.verdict)}</div><p>${esc(decision.reason)}</p></div><div class="grid"><div class="card"><b>Funktioniert es?</b><p>${review.usable_rate_percent}% der Fälle nach anwaltlichem Review brauchbar (richtig oder nach Änderung).</p></div><div class="card"><b>Sind die Quellen sauber?</b><p>${citation.verified}/${citation.total} erkannte Zitate gegen den GitLaw-Gesetzeskorpus verifiziert.</p></div><div class="card"><b>Spart es Zeit?</b><p>${esc(time)}.</p></div></div><div class="card"><h2>Safety</h2><p>Runtime-Fehler: ${runtime.runtime_errors ?? 0} · Execution-Versuche: ${runtime.execution_attempts ?? 0} · kritische Auslassungen: ${review.critical_omissions ?? 0} · unbelegte Aussagen: ${review.unsupported_claims ?? 0}</p><p class="muted">Dieses Ergebnis ist ein begrenzter historischer Replay-Test. Es ist kein Nachweis allgemeiner juristischer Richtigkeit und ersetzt keine anwaltliche Endkontrolle.</p></div></body></html>`
 }
