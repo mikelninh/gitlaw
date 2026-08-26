@@ -9,6 +9,7 @@ const sha40 = /^[0-9a-f]{40}$/
 const manifest = readJson('evals/external/benchmarks.json')
 const ledger = readJson('evals/external/evidence_ledger.json')
 const externalBaseline = readJson('evals/external/results/legal_rag_bench_bm25_20260826.json')
+const semanticBaseline = readJson('evals/external/results/legal_rag_bench_retrieval_smoke_20260826.json')
 const criteria = readJson('evals/ypog/release_criteria.json')
 
 assert(manifest.schema_version === '1.1', 'External benchmark manifest schema drifted')
@@ -43,12 +44,15 @@ assert(lrgb.license_metadata_conflict === true, 'License metadata/prose mismatch
 assert(lrgb.commercial_use_status === 'BLOCKED_PENDING_LICENSE_CLARIFICATION', 'Commercial benchmark reuse must remain blocked while license metadata conflicts')
 
 // Executed evidence is tracked separately from registered benchmark families.
-assert(ledger.schema_version === '1.1', 'External evidence ledger schema drifted')
+assert(ledger.schema_version === '1.2', 'External evidence ledger schema drifted')
 assert(ledger.summary.registered === 3, 'External evidence ledger must cover all registered benchmark families')
-assert(ledger.summary.component_runs_completed >= 1, 'At least the pinned Legal RAG Bench component baseline must remain executed')
+assert(ledger.summary.component_runs_completed >= 2, 'BM25 and semantic retrieval component runs must remain executed')
 assert(ledger.summary.full_runs_completed === 0, 'Do not claim a full external suite until generation/oracle or licensed suites actually run')
 assert(ledger.summary.external_full_suite_scores_claimable === 0, 'No full external suite score is claimable yet')
-assert(ledger.benchmarks['legal-rag-bench'].component_run === 'EXECUTED_BM25_RETRIEVAL_DIAGNOSTIC', 'Executed Legal RAG Bench component evidence missing')
+const lrgbRuns = ledger.benchmarks['legal-rag-bench'].component_runs
+assert(Array.isArray(lrgbRuns), 'Legal RAG Bench component evidence must be an array')
+assert(lrgbRuns.some(r => r.type === 'BM25_RETRIEVAL_DIAGNOSTIC'), 'Executed BM25 component evidence missing')
+assert(lrgbRuns.some(r => r.type === 'GENERAL_SEMANTIC_RETRIEVAL_TOURNAMENT'), 'Executed semantic retrieval tournament evidence missing')
 
 assert(externalBaseline.status === 'OBSERVED_EXTERNAL_COMPONENT_BASELINE', 'External BM25 result must remain an observed baseline')
 assert(externalBaseline.dataset_revision === lrgb.dataset_revision, 'External result dataset revision drifted from benchmark manifest')
@@ -57,6 +61,17 @@ assert(externalBaseline.metrics.hit_at_1 === 0.14, 'External BM25 Hit@1 changed 
 assert(externalBaseline.metrics.hit_at_5 === 0.30, 'External BM25 Hit@5 changed without explicit baseline update')
 assert(externalBaseline.metrics.hit_at_10 === 0.31, 'External BM25 Hit@10 changed without explicit baseline update')
 assert(Math.abs(externalBaseline.metrics.mrr - 0.21812319724933016) < 1e-15, 'External BM25 MRR changed without explicit baseline update')
+
+assert(semanticBaseline.status === 'OBSERVED_EXTERNAL_COMPONENT_BASELINE', 'Semantic retrieval tournament must remain an observed component baseline')
+assert(semanticBaseline.dataset_revision === lrgb.dataset_revision, 'Semantic tournament dataset revision drifted')
+assert(semanticBaseline.n_questions === 100 && semanticBaseline.n_passages === 4876, 'Semantic tournament sample/corpus count drifted')
+const winner = semanticBaseline.methods?.hybrid_general_rrf?.metrics
+assert(winner, 'Hybrid RRF winner metrics missing from semantic baseline')
+assert(winner.hit_at_10 === 0.43, 'Hybrid RRF Hit@10 changed without explicit baseline update')
+assert(Math.abs(winner.mrr - 0.2550817454048586) < 1e-15, 'Hybrid RRF MRR changed without explicit baseline update')
+const reranked = semanticBaseline.methods?.hybrid_general_reranked?.metrics
+assert(reranked && reranked.hit_at_10 === 0.32, 'Generic reranker regression evidence missing')
+assert(reranked.hit_at_10 < winner.hit_at_10, 'Generic reranker must not be promoted while it degrades the frozen external baseline')
 
 for (const required of criteria.external_benchmarks.required) {
   assert(byId.has(required), `10/10 gate requires unregistered external benchmark: ${required}`)
@@ -70,11 +85,10 @@ assert(manifest.gitlaw_specific_layers.law_firm_matters.minimum_independent_lawy
 console.log(JSON.stringify({
   external_benchmark_contract: 'PASS',
   pinned_benchmarks: manifest.benchmarks.map(({id, upstream_commit, dataset_revision, primary_layer, gitlaw_claim_scope}) => ({id, upstream_commit, dataset_revision: dataset_revision ?? null, primary_layer, gitlaw_claim_scope})),
-  executed_component_baseline: {
-    benchmark: externalBaseline.benchmark,
-    dataset_revision: externalBaseline.dataset_revision,
-    metrics: externalBaseline.metrics,
-    claim_boundary: externalBaseline.claim_boundary
+  executed_component_baselines: {
+    bm25: externalBaseline.metrics,
+    semantic_winner: winner,
+    rejected_generic_reranker: reranked
   },
   full_external_suites_completed: ledger.summary.full_runs_completed,
   german_gold_target: manifest.gitlaw_specific_layers.german_gold,
