@@ -1,11 +1,12 @@
 {
-  "schema_version": "1.0",
-  "status": "REGISTERED_NOT_YET_EXECUTED_END_TO_END",
-  "principle": "A benchmark is not counted as evidence merely because its adapter or manifest exists.",
+  "schema_version": "1.1",
+  "status": "COMPONENT_EVIDENCE_EXISTS_FULL_EXTERNAL_SUITES_PENDING",
+  "principle": "A benchmark is not counted as evidence merely because its adapter or manifest exists. Component runs and full benchmark suites are counted separately.",
   "benchmarks": {
     "legalbench-rag": {
       "registration": "PINNED",
-      "adapter": "PLANNED_SCORER_CONTRACT",
+      "adapter": "CHARACTER_SPAN_SCORER_IMPLEMENTED",
+      "component_run": "PENDING_LICENSED_DATA_SETUP",
       "full_run": "PENDING_DATA_SETUP_AND_EXECUTION",
       "measured_score": null,
       "claim_scope": "external retrieval comparability only"
@@ -13,21 +14,32 @@
     "legalbench": {
       "registration": "PINNED",
       "adapter": "PENDING_TASK_SELECTION_BY_LICENSE",
+      "component_run": "PENDING_MODEL_EXECUTION",
       "full_run": "PENDING_MODEL_EXECUTION",
       "measured_score": null,
       "claim_scope": "external legal reasoning comparability only"
     },
     "legal-rag-bench": {
-      "registration": "PINNED",
+      "registration": "PINNED_CODE_AND_DATASET",
       "adapter": "ORACLE_DECOMPOSITION_IMPLEMENTED",
-      "full_run": "PENDING_DATA_AND_MODEL_EXECUTION",
-      "measured_score": null,
-      "claim_scope": "retrieval-vs-reasoning decomposition only"
+      "component_run": "EXECUTED_BM25_RETRIEVAL_DIAGNOSTIC",
+      "component_result": "evals/external/results/legal_rag_bench_bm25_20260826.json",
+      "component_metrics": {
+        "hit_at_1": 0.14,
+        "hit_at_5": 0.30,
+        "hit_at_10": 0.31,
+        "mrr": 0.21812319724933016
+      },
+      "full_run": "PENDING_GENERATIVE_AND_ORACLE_EXECUTION",
+      "measured_full_score": null,
+      "claim_scope": "external retrieval component baseline plus retrieval-vs-reasoning methodology"
     }
   },
   "summary": {
     "registered": 3,
+    "component_runs_completed": 1,
     "full_runs_completed": 0,
-    "external_scores_currently_claimable": 0
+    "external_component_scores_claimable_with_scope": 1,
+    "external_full_suite_scores_claimable": 0
   }
 }
