@@ -1,3 +1,4 @@
+# DEV selection is intentionally serial, non-cancelling, and isolated from frozen holdouts.
 name: German public benchmark contract
 
 on:
