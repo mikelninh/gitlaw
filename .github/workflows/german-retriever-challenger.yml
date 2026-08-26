@@ -1,0 +1,81 @@
+name: German retriever challenger
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'evals/german_public/run_gerlayqa_e5_challenger.py'
+      - '.github/workflows/german-retriever-challenger.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'evals/german_public/run_gerlayqa_e5_challenger.py'
+      - '.github/workflows/german-retriever-challenger.yml'
+
+concurrency:
+  group: german-retriever-challenger-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+env:
+  TOKENIZERS_PARALLELISM: 'false'
+  HF_HUB_DISABLE_TELEMETRY: '1'
+
+jobs:
+  gerlayqa-e5-small:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: gerlayqa-e5-small-${{ runner.os }}-${{ hashFiles('evals/german_public/requirements.txt') }}
+          restore-keys: |
+            german-retrieval-${{ runner.os }}-
+            retrieval-models-${{ runner.os }}-
+      - name: Install German retrieval dependencies
+        run: pip install -r evals/german_public/requirements.txt
+      - name: Execute multilingual-E5-small GerLayQA challenger
+        run: |
+          python evals/german_public/run_gerlayqa_e5_challenger.py \
+            --json-out gerlayqa-e5-challenger.json
+      - name: Verify challenger and compare to frozen winner
+        run: |
+          python - <<'PY'
+          import json
+          ch=json.load(open('gerlayqa-e5-challenger.json', encoding='utf-8'))
+          ledger=json.load(open('evals/german_public/evidence_ledger.json', encoding='utf-8'))
+          frozen=ledger['benchmarks']['gerlayqa']['frozen_result']['winner_metrics']
+          assert ch['status'] == 'OBSERVED_GERMAN_PUBLIC_RETRIEVER_CHALLENGER', ch
+          assert ch['upstream_commit'] == 'cbc465942f0c1eab25ec8864bc358466e4d88e0e', ch
+          q=ch['question_contract']
+          assert q['raw_eval_questions'] == 2154, q
+          assert q['evaluated_questions'] == 1840, q
+          assert q['excluded_over_300_words'] == 314, q
+          assert q['excluded_without_gold'] == 0, q
+          assert q['missing_gold_id_count'] == 10, q
+          assert q['questions_with_all_gold_ids_absent_from_corpus'] == 2, q
+          assert ch['method'] == 'dense_e5_small', ch
+          assert ch['model']['model_id'] == 'intfloat/multilingual-e5-small', ch
+          assert len(ch['model']['model_revision']) == 40, ch['model']
+          assert ch['model']['query_prefix'] == 'query: ', ch['model']
+          assert ch['model']['passage_prefix'] == 'passage: ', ch['model']
+          assert len(ch['rows']) == 1840, len(ch['rows'])
+          for key in ('precision_at_10','recall_at_10','f1_at_10','mrr_at_10','map_at_10','hit_at_1','hit_at_5','hit_at_10'):
+              assert 0 <= ch['metrics'][key] <= 1, (key,ch['metrics'][key])
+          print('FROZEN_DENSE_GERMAN=' + json.dumps(frozen, ensure_ascii=False))
+          print('E5_SMALL=' + json.dumps(ch['metrics'], ensure_ascii=False))
+          print(f"E5_HIT10_DELTA_VS_FROZEN_DENSE_GERMAN={ch['metrics']['hit_at_10']-frozen['hit_at_10']:+.6f}")
+          print(f"E5_MRR10_DELTA_VS_FROZEN_DENSE_GERMAN={ch['metrics']['mrr_at_10']-frozen['mrr_at_10']:+.6f}")
+          print('PROMOTION=CHALLENGER_ONLY_UNTIL_RESULT_REVIEW')
+          PY
+      - uses: actions/upload-artifact@v4
+        if: ${{ always() && hashFiles('gerlayqa-e5-challenger.json') != '' }}
+        with:
+          name: gerlayqa-e5-small-challenger
+          path: gerlayqa-e5-challenger.json
+          if-no-files-found: error
+          retention-days: 30

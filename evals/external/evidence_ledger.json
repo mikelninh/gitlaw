@@ -1,7 +1,7 @@
 {
-  "schema_version": "1.3",
-  "status": "EXTERNAL_RETRIEVAL_COMPONENT_EVIDENCE_FROZEN_FULL_SUITES_PENDING",
-  "principle": "A benchmark is not counted as evidence merely because its adapter or manifest exists. Component runs and full benchmark suites are counted separately.",
+  "schema_version": "1.4",
+  "status": "EXTERNAL_COMPONENT_EVIDENCE_FROZEN_FULL_SUITES_PENDING",
+  "principle": "A benchmark is not counted as evidence merely because its adapter or manifest exists. Component runs and full benchmark suites are counted separately, and failed-to-load challengers never receive synthetic scores.",
   "benchmarks": {
     "legalbench-rag": {
       "registration": "PINNED",
@@ -13,11 +13,35 @@
     },
     "legalbench": {
       "registration": "PINNED",
-      "adapter": "PENDING_TASK_SELECTION_BY_LICENSE",
-      "component_run": "PENDING_MODEL_EXECUTION",
-      "full_run": "PENDING_MODEL_EXECUTION",
-      "measured_score": null,
-      "claim_scope": "external legal reasoning comparability only"
+      "adapter": "FOUR_TASK_LICENSED_SLICE_IMPLEMENTED",
+      "component_run": {
+        "status": "EXECUTED_FOUR_TASK_OPEN_BASELINE_SLICE",
+        "github_actions_run_id": 32977330014,
+        "artifact_id": 9610142063,
+        "dataset": "nguha/legalbench",
+        "dataset_revision": "daec8237410aa23e3faf4bc41ad8b3a7e1696826",
+        "github_upstream_commit": "b46bf4ffae90524b2b72aaa30e7745fe9db64481",
+        "tasks": ["hearsay", "proa", "overruling", "ucc_v_common_law"],
+        "task_license_contract": "CC-BY-4.0_PER_SELECTED_TASK",
+        "model": "google/flan-t5-small",
+        "model_revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab",
+        "model_role": "OPEN_BASELINE_HARNESS_PROOF_NOT_GITLAW_PRODUCT_MODEL",
+        "evaluation_mode": "ZERO_SHOT_DETERMINISTIC_GREEDY_GENERATION",
+        "n_tasks": 4,
+        "n_test_total": 2677,
+        "macro_accuracy": 0.49933166248955724,
+        "weighted_accuracy": 0.49308927904370564,
+        "weighted_parse_rate": 1.0,
+        "task_scores": {
+          "hearsay": {"n_test": 94, "accuracy": 0.5638297872340425, "test_rows_sha256": "b9d7def3c8227d6b9d2154e8a0cddaf9686732d648d094fb04d8eb5575d13f2f"},
+          "proa": {"n_test": 95, "accuracy": 0.5052631578947369, "test_rows_sha256": "8d924848bf232d25a436d2e937d5f4f04b9255ebe72410ea00cf565b19eef990"},
+          "overruling": {"n_test": 2394, "accuracy": 0.49206349206349204, "test_rows_sha256": "bdff0905f9bc637685c5e0872425b9cd900d7c7d02f46be54284bad5a169bafd"},
+          "ucc_v_common_law": {"n_test": 94, "accuracy": 0.43617021276595747, "test_rows_sha256": "000869a9c976cdbe12c4f92b5b864c12252345e2a7f48064d0779340b22ae425"}
+        }
+      },
+      "full_run": "PENDING_FULL_162_TASK_EXECUTION",
+      "measured_full_score": null,
+      "claim_scope": "four-task English external legal-reasoning harness evidence only; not product-model quality"
     },
     "legal-rag-bench": {
       "registration": "PINNED_CODE_AND_DATASET",
@@ -43,7 +67,15 @@
       "specialist_legal_dense_challenger": {
         "model": "Hanno-Labs/dinghy-law-0.6b-v1",
         "standard_cpu_ci_status": "NOT_RUN",
-        "reason": "observed CPU corpus encoding throughput projects to roughly multi-hour execution and exceeds the standard evidence-job budget; timeout is not scored as model quality"
+        "score": null,
+        "reason": "observed CPU corpus encoding throughput projects to multi-hour execution and exceeds the standard evidence-job budget; timeout is not scored as model quality"
+      },
+      "legal_contract_reranker_challenger": {
+        "model": "datgacon/cuad-cross-encoder-v11",
+        "github_actions_run_id": 32977330197,
+        "status": "BLOCKED_ONNX_ONLY_STANDARD_CROSSENCODER_LOAD",
+        "score": null,
+        "reason": "sentence-transformers CrossEncoder could not load the repository because the standard PyTorch/safetensors weight files it expects are absent. The run failed before prediction, so this is an integration blocker, not negative model-quality evidence."
       },
       "full_run": "PENDING_GENERATIVE_AND_ORACLE_EXECUTION",
       "measured_full_score": null,
@@ -52,9 +84,9 @@
   },
   "summary": {
     "registered": 3,
-    "component_runs_completed": 2,
+    "component_runs_completed": 3,
     "full_runs_completed": 0,
-    "external_component_scores_claimable_with_scope": 2,
+    "external_component_scores_claimable_with_scope": 3,
     "external_full_suite_scores_claimable": 0
   }
 }
