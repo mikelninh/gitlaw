@@ -62,16 +62,28 @@ assert(externalBaseline.metrics.hit_at_5 === 0.30, 'External BM25 Hit@5 changed 
 assert(externalBaseline.metrics.hit_at_10 === 0.31, 'External BM25 Hit@10 changed without explicit baseline update')
 assert(Math.abs(externalBaseline.metrics.mrr - 0.21812319724933016) < 1e-15, 'External BM25 MRR changed without explicit baseline update')
 
-assert(semanticBaseline.status === 'OBSERVED_EXTERNAL_COMPONENT_BASELINE', 'Semantic retrieval tournament must remain an observed component baseline')
+// The frozen semantic artifact predates the generic "component baseline" status label
+// and stores tournament scores under `metrics`. Keep the gate aligned to the observed
+// immutable artifact shape rather than rewriting evidence to satisfy the gate.
+assert(semanticBaseline.status === 'OBSERVED_EXTERNAL_RETRIEVAL_TOURNAMENT_BASELINE', 'Semantic retrieval tournament status drifted')
 assert(semanticBaseline.dataset_revision === lrgb.dataset_revision, 'Semantic tournament dataset revision drifted')
 assert(semanticBaseline.n_questions === 100 && semanticBaseline.n_passages === 4876, 'Semantic tournament sample/corpus count drifted')
-const winner = semanticBaseline.methods?.hybrid_general_rrf?.metrics
+const winner = semanticBaseline.metrics?.hybrid_general_rrf
 assert(winner, 'Hybrid RRF winner metrics missing from semantic baseline')
 assert(winner.hit_at_10 === 0.43, 'Hybrid RRF Hit@10 changed without explicit baseline update')
 assert(Math.abs(winner.mrr - 0.2550817454048586) < 1e-15, 'Hybrid RRF MRR changed without explicit baseline update')
-const reranked = semanticBaseline.methods?.hybrid_general_reranked?.metrics
+const reranked = semanticBaseline.metrics?.hybrid_general_reranked
 assert(reranked && reranked.hit_at_10 === 0.32, 'Generic reranker regression evidence missing')
 assert(reranked.hit_at_10 < winner.hit_at_10, 'Generic reranker must not be promoted while it degrades the frozen external baseline')
+const rerankFailure = semanticBaseline.pairwise_failure_analysis?.hybrid_general_reranked_vs_hybrid_general_rrf
+assert(rerankFailure?.rescued_top10 === 8 && rerankFailure?.lost_top10 === 19, 'Frozen reranker failure analysis drifted')
+for (const modelKey of ['dense_general', 'reranker']) {
+  const model = semanticBaseline.models?.[modelKey]
+  assert(model && sha40.test(model.revision), `${modelKey} model revision must remain pinned`)
+  assert(model.license === 'Apache-2.0', `${modelKey} model license expectation changed`)
+}
+assert(semanticBaseline.decision?.current_external_winner === 'hybrid_general_rrf', 'Frozen external winner drifted')
+assert(semanticBaseline.decision?.promote_generic_reranker === false, 'Regressing generic reranker must remain rejected')
 
 for (const required of criteria.external_benchmarks.required) {
   assert(byId.has(required), `10/10 gate requires unregistered external benchmark: ${required}`)
