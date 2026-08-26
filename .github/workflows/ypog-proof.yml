@@ -1,0 +1,58 @@
+name: YPOG Legal AI proof
+
+on:
+  push:
+    branches: [main, 'feat/ypog-**']
+    paths:
+      - 'evals/ypog/**'
+      - 'docs/ypog/**'
+      - 'scripts/ypog-proof-gate.mjs'
+      - 'viewer/public/ypog/**'
+      - 'README.md'
+      - 'AGENTS.md'
+      - 'docs/llm-gateway-multi-provider.md'
+      - 'docs/multi-tenant-architecture.md'
+      - '.github/workflows/ypog-proof.yml'
+  pull_request:
+    paths:
+      - 'evals/ypog/**'
+      - 'docs/ypog/**'
+      - 'scripts/ypog-proof-gate.mjs'
+      - 'viewer/public/ypog/**'
+      - 'README.md'
+      - 'AGENTS.md'
+      - 'docs/llm-gateway-multi-provider.md'
+      - 'docs/multi-tenant-architecture.md'
+      - '.github/workflows/ypog-proof.yml'
+
+jobs:
+  proof:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Install root dependencies
+        run: npm ci
+      - name: Existing GitLaw tests
+        run: npm test
+      - name: Deterministic YPOG proof gate
+        run: node scripts/ypog-proof-gate.mjs
+      - name: Public proof claim contract
+        run: |
+          grep -q 'BLOCKED pending a ≥100-case lawyer-reviewed frozen benchmark' viewer/public/ypog/index.html
+          grep -q '0.65' viewer/public/ypog/index.html
+          grep -q 'not answer accuracy' viewer/public/ypog/index.html
+          grep -q 'synthetic trace fixture' viewer/public/ypog/index.html
+          grep -q 'AI prepares and proposes' viewer/public/ypog/index.html
+      - name: Build viewer
+        working-directory: viewer
+        run: |
+          npm ci
+          npm run build
+      - name: Verify proof page shipped into dist
+        run: |
+          test -f viewer/dist/ypog/index.html
+          grep -q 'Legal AI proof' viewer/dist/ypog/index.html
