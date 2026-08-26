@@ -102,17 +102,20 @@ jobs:
         run: pip install -r rag/requirements.txt
 
       - name: Execute public Legal RAG Bench BM25 diagnostic
+        run: python evals/external/run_legal_rag_bench_bm25.py --json-out legal-rag-bench-bm25.json
+      - name: Verify public Legal RAG Bench diagnostic against frozen external baseline
         run: |
-          python evals/external/run_legal_rag_bench_bm25.py --json-out legal-rag-bench-bm25.json
           python - <<'PY'
           import json
-          r=json.load(open('legal-rag-bench-bm25.json', encoding='utf-8'))
-          assert r['run_type'] == 'EXTERNAL_BM25_RETRIEVAL_DIAGNOSTIC', r
-          assert r['n_questions'] == 100, r
-          assert r['n_passages'] == 4876, r
-          for key in ('hit_at_1','hit_at_5','hit_at_10','mrr'):
-              assert 0 <= r['metrics'][key] <= 1, (key, r['metrics'][key])
-          print('LEGAL_RAG_BENCH_BM25_SUMMARY=' + json.dumps(r['metrics'], sort_keys=True))
+          measured=json.load(open('legal-rag-bench-bm25.json', encoding='utf-8'))
+          frozen=json.load(open('evals/external/results/legal_rag_bench_bm25_20260826.json', encoding='utf-8'))
+          assert measured['run_type'] == 'EXTERNAL_BM25_RETRIEVAL_DIAGNOSTIC', measured
+          assert measured['dataset_revision'] == frozen['dataset_revision'], (measured['dataset_revision'], frozen['dataset_revision'])
+          assert measured['n_questions'] == frozen['n_questions'] == 100, (measured, frozen)
+          assert measured['n_passages'] == frozen['n_passages'] == 4876, (measured, frozen)
+          for key, expected in frozen['metrics'].items():
+              assert abs(measured['metrics'][key] - expected) < 1e-12, (key, measured['metrics'][key], expected)
+          print('LEGAL_RAG_BENCH_BM25_SUMMARY=' + json.dumps(measured['metrics'], sort_keys=True))
           PY
       - uses: actions/upload-artifact@v4
         with:
@@ -137,8 +140,8 @@ jobs:
             'retrieval@5':'retrieval_at_5',
             'retrieval@10':'retrieval_at_10',
           }
-          for measured, expected in mapping.items():
-              assert report[measured] == frozen['metrics'][expected], (measured, report[measured], frozen['metrics'][expected])
+          for measured_key, expected_key in mapping.items():
+              assert report[measured_key] == frozen['metrics'][expected_key], (measured_key, report[measured_key], frozen['metrics'][expected_key])
           print(json.dumps(report, ensure_ascii=False, indent=2))
           PY
 
