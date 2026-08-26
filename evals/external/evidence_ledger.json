@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.2",
-  "status": "MULTIPLE_EXTERNAL_COMPONENT_RUNS_FULL_SUITES_PENDING",
+  "schema_version": "1.3",
+  "status": "EXTERNAL_RETRIEVAL_COMPONENT_EVIDENCE_FROZEN_FULL_SUITES_PENDING",
   "principle": "A benchmark is not counted as evidence merely because its adapter or manifest exists. Component runs and full benchmark suites are counted separately.",
   "benchmarks": {
     "legalbench-rag": {
@@ -30,14 +30,21 @@
         },
         {
           "type": "GENERAL_SEMANTIC_RETRIEVAL_TOURNAMENT",
-          "result": "evals/external/results/legal_rag_bench_retrieval_smoke_20260826.json",
+          "github_actions_run_id": 32968627859,
+          "artifact_id": 9607085874,
+          "dataset_revision": "db0b31dc6d195ce9916897e1ac5e4e6209736c8a",
           "winner": "hybrid_general_rrf",
           "winner_metrics": {"hit_at_1": 0.16, "hit_at_5": 0.33, "hit_at_10": 0.43, "mrr": 0.2550817454048586},
           "rejected_default": "hybrid_general_reranked",
+          "rejected_metrics": {"hit_at_1": 0.07, "hit_at_5": 0.20, "hit_at_10": 0.32, "mrr": 0.1499631265079643},
           "rejected_reason": "generic cross-encoder reduced Hit@10 from 0.43 to 0.32"
         }
       ],
-      "legal_domain_challenger": "RUNNING_OR_PENDING_RESULT_FREEZE",
+      "specialist_legal_dense_challenger": {
+        "model": "Hanno-Labs/dinghy-law-0.6b-v1",
+        "standard_cpu_ci_status": "NOT_RUN",
+        "reason": "observed CPU corpus encoding throughput projects to roughly multi-hour execution and exceeds the standard evidence-job budget; timeout is not scored as model quality"
+      },
       "full_run": "PENDING_GENERATIVE_AND_ORACLE_EXECUTION",
       "measured_full_score": null,
       "claim_scope": "external retrieval component evidence plus retrieval-vs-reasoning methodology"

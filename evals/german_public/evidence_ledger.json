@@ -1,23 +1,45 @@
 {
-  "schema_version": "1.1",
-  "status": "GERMAN_PUBLIC_EVIDENCE_IN_PROGRESS",
+  "schema_version": "1.2",
+  "status": "GERMAN_PUBLIC_EVIDENCE_PARTIALLY_FROZEN",
   "principle": "Registration, executable adapter, executed benchmark and release-grade product evidence are distinct states.",
   "benchmarks": {
     "gerlayqa": {
       "registration": "PINNED",
       "adapter": "IMPLEMENTED",
-      "execution": "RUNNING_OR_PENDING_RESULT_FREEZE",
-      "frozen_result": null,
+      "execution": "EXECUTED_AND_INTEGRITY_VERIFIED",
+      "frozen_result": {
+        "github_actions_run_id": 32968628053,
+        "artifact_id": 9607350164,
+        "upstream_commit": "cbc465942f0c1eab25ec8864bc358466e4d88e0e",
+        "raw_eval_questions": 2154,
+        "evaluated_questions": 1840,
+        "excluded_over_300_words": 314,
+        "missing_gold_id_count": 10,
+        "winner": "dense_german",
+        "winner_metrics": {
+          "hit_at_1": 0.07065217391304347,
+          "hit_at_5": 0.1815217391304348,
+          "hit_at_10": 0.24021739130434783,
+          "recall_at_10": 0.1775066856452726,
+          "mrr_at_10": 0.1174430641821946,
+          "map_at_10": 0.08931570982861743
+        },
+        "comparison": {
+          "hybrid_german_rrf_hit_at_10": 0.19130434782608696,
+          "bm25_hit_at_10": 0.11684782608695653,
+          "dense_general_hit_at_10": 0.08804347826086957
+        }
+      },
       "known_benchmark_integrity_issue": "10 published gold paragraph ids are absent from the pinned BGB corpus; they remain in the denominator and are reported explicitly",
       "claim_scope": "German BGB paragraph retrieval on pinned historical GerLayQA eval split",
       "counts_as_product_gold": false
     },
     "gerdalir": {
       "registration": "PINNED",
-      "adapter": "IMPLEMENTED_TOP200_CHUNKED",
+      "adapter": "IMPLEMENTED_TOP200_CHUNKED_WITH_EQUIVALENCE_CHECKED_BM25",
       "execution": "RUNNING_OR_PENDING_RESULT_FREEZE",
       "frozen_result": null,
-      "resource_contract": "top-200 rankings retained; dense query-document scores chunked; no full 12234x9969 ranking matrix persisted",
+      "resource_contract": "top-200 rankings retained; dense query-document scores chunked; optimized BM25 must pass rank_bm25 equivalence checks; completed methods checkpointed",
       "claim_scope": "German case-law retrieval on pinned MTEB GerDaLIRSmall test task only",
       "counts_as_product_gold": false
     },
@@ -28,13 +50,25 @@
       "frozen_result": null,
       "claim_scope": "German statute retrieval only",
       "counts_as_product_gold": false
+    },
+    "legalquad_candidate": {
+      "registration": "PINNED_MTEB_MIRROR",
+      "adapter": "IMPLEMENTED_PROVENANCE_GATED_CANDIDATE",
+      "execution": "PENDING_CANDIDATE_RUN",
+      "frozen_result": null,
+      "mirror_declared_license": "CC-BY-4.0",
+      "original_reference_repo_license_file_observed": false,
+      "rights_status": "UPSTREAM_RIGHTS_CONFIRMATION_REQUIRED_BEFORE_STRICT_GATE",
+      "counts_as_strict_third_german_suite": false,
+      "claim_scope": "German legal-document retrieval capability candidate only",
+      "counts_as_product_gold": false
     }
   },
   "summary": {
-    "registered": 3,
-    "adapters_implemented": 2,
-    "executed_suites": 0,
+    "registered_strict_suites": 3,
+    "strict_suites_executed_and_frozen": 1,
     "strict_target_executed_suites": 3,
+    "additional_provenance_gated_candidates": 1,
     "lawyer_approved_product_gold_created_by_this_layer": 0
   }
 }
