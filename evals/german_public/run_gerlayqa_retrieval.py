@@ -13,13 +13,15 @@ Retrieval unit decision:
 - We keep one source document per id rather than copying the upstream baseline's
   long-document split loop, which can produce near-duplicate chunks.
 - SentenceTransformer truncation is model-native and recorded in the output.
+- Gold ids present in bgb_eval.json but absent from the pinned bgb.json corpus
+  remain in the denominator, matching the upstream evaluator's semantics. They
+  are reported explicitly rather than filtered or treated as a runner failure.
 """
 from __future__ import annotations
 
 import argparse
 import hashlib
 import json
-import math
 import re
 import time
 import urllib.request
@@ -272,8 +274,12 @@ def main() -> None:
 
     known_ids = set(corpus_ids)
     missing_gold = sorted({g for r in rows for g in gold_ids(r) if g not in known_ids})
-    if missing_gold:
-        raise RuntimeError(f"ground-truth paragraph ids absent from pinned BGB corpus: {missing_gold[:20]}")
+    missing_gold_rows = [
+        r for r in rows if any(g not in known_ids for g in gold_ids(r))
+    ]
+    all_gold_missing_rows = [
+        r for r in rows if gold_ids(r) and all(g not in known_ids for g in gold_ids(r))
+    ]
 
     methods: dict[str, dict[str, Any]] = {}
     rankings: dict[str, list[list[int]]] = {}
@@ -317,7 +323,7 @@ def main() -> None:
     )
 
     result = {
-        "schema_version": "1.0",
+        "schema_version": "1.1",
         "status": "OBSERVED_GERMAN_PUBLIC_RETRIEVAL_EVIDENCE",
         "benchmark": "GerLayQA",
         "upstream_repo": UPSTREAM_REPO,
@@ -334,12 +340,23 @@ def main() -> None:
             "evaluated_questions": len(rows),
             "excluded_over_300_words": len(excluded_long),
             "excluded_without_gold": len(excluded_no_gold),
+            "questions_with_any_gold_id_absent_from_corpus": len(missing_gold_rows),
+            "questions_with_all_gold_ids_absent_from_corpus": len(all_gold_missing_rows),
+        },
+        "benchmark_integrity_diagnostics": {
+            "gold_ids_absent_from_pinned_corpus": missing_gold,
+            "missing_gold_id_count": len(missing_gold),
+            "policy": (
+                "Retain these upstream gold ids in the evaluation denominator exactly as published. "
+                "They are unretrievable from the pinned corpus and are not filtered, remapped, or repaired by GitLaw."
+            ),
         },
         "models": model_meta,
         "scoreboard": scoreboard,
         "methods": methods,
         "claim_boundary": (
             "This is German BGB paragraph-retrieval capability on the pinned historical GerLayQA evaluation split. "
+            "Published gold ids absent from the pinned corpus remain in the denominator and are reported explicitly. "
             "It is not answer accuracy, not current-law validation, not a lawyer-approval score, and not product readiness."
         ),
     }
