@@ -1,0 +1,71 @@
+name: Law Firm Pilot CI
+
+on:
+  pull_request:
+    paths:
+      - 'pilot/law-firm/**'
+      - 'api/pro/pilot-replay.ts'
+      - 'api/_llm.ts'
+      - 'api/_audit.ts'
+      - 'api/_ratelimit.ts'
+      - 'gitlaw_mcp/citations.py'
+      - 'gitlaw_mcp/tests/**'
+      - 'laws/bgb.md'
+      - 'viewer/public/law-firm-pilot.html'
+      - '.gitignore'
+      - '.github/workflows/law-firm-pilot-ci.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'pilot/law-firm/**'
+      - 'api/pro/pilot-replay.ts'
+      - 'gitlaw_mcp/citations.py'
+      - 'viewer/public/law-firm-pilot.html'
+      - '.github/workflows/law-firm-pilot-ci.yml'
+
+jobs:
+  pilot-e2e:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install root and API dependencies
+        run: |
+          npm install --no-audit --no-fund
+          npm install --prefix api --no-audit --no-fund
+
+      - name: Run law-firm pilot edge cases
+        run: node --test pilot/law-firm/core.test.mjs
+
+      - name: Run assistant console HTTP end-to-end
+        run: node --test pilot/law-firm/ops-console.e2e.test.mjs
+
+      - name: Preserve GitLaw citation contract
+        run: python -m gitlaw_mcp.tests.test_eval
+
+      - name: Type-check pilot API boundary
+        run: npx tsc --noEmit --target ES2022 --module NodeNext --moduleResolution NodeNext --esModuleInterop --skipLibCheck api/pro/pilot-replay.ts
+
+      - name: Verify customer and assistant simplicity contracts
+        run: |
+          node - <<'NODE'
+          const fs=require('fs');
+          const customer=fs.readFileSync('viewer/public/law-firm-pilot.html','utf8');
+          const ops=fs.readFileSync('pilot/law-firm/ASSISTANT_ONE_PAGE.md','utf8');
+          const legal=fs.readFileSync('pilot/law-firm/LEGAL_GATES.md','utf8');
+          const api=fs.readFileSync('api/pro/pilot-replay.ts','utf8');
+          for(const text of ['20–30','Richtig','Ändern','Falsch','WEITER','VERBESSERN','STOPPEN','WEITER MESSEN']) if(!customer.includes(text)) throw new Error('customer contract missing '+text);
+          for(const text of ['STARTEN','ANFORDERN','WARTEN','STOPP']) if(!ops.includes(text)) throw new Error('ops contract missing '+text);
+          for(const text of ['§ 43e BRAO','§ 203 StGB','Art. 28 DSGVO','kein Rechtsgutachten']) if(!legal.includes(text)) throw new Error('legal contract missing '+text);
+          for(const text of ['GITLAW_PILOT_SERVICE_TOKEN','STOPP_PRIVACY','execution_allowed: false']) if(!api.includes(text)) throw new Error('api boundary missing '+text);
+          if(customer.includes('automatische Rechtsberatung')) throw new Error('unsafe customer claim');
+          console.log('customer/assistant/legal contracts: OK');
+          NODE
