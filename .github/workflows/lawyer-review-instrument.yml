@@ -10,6 +10,10 @@ on:
       - 'evals/german_gold/prepare_pilot_candidates.py'
       - 'evals/gitlaw_qa_set.json'
       - 'viewer/public/ypog/review/**'
+      - 'viewer/public/evals/lawyer-review-case.sample.json'
+      - 'viewer/src/LawyerReviewApp.tsx'
+      - 'viewer/src/lawyer-review.ts'
+      - 'viewer/src/main.tsx'
       - 'docs/ypog/REVIEWER_PILOT_RUNBOOK.md'
       - 'scripts/german-gold-gate.mjs'
       - '.github/workflows/lawyer-review-instrument.yml'
@@ -21,6 +25,10 @@ on:
       - 'evals/german_gold/prepare_pilot_candidates.py'
       - 'evals/gitlaw_qa_set.json'
       - 'viewer/public/ypog/review/**'
+      - 'viewer/public/evals/lawyer-review-case.sample.json'
+      - 'viewer/src/LawyerReviewApp.tsx'
+      - 'viewer/src/lawyer-review.ts'
+      - 'viewer/src/main.tsx'
       - 'docs/ypog/REVIEWER_PILOT_RUNBOOK.md'
       - 'scripts/german-gold-gate.mjs'
       - '.github/workflows/lawyer-review-instrument.yml'
@@ -40,6 +48,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
+          cache-dependency-path: viewer/package-lock.json
       - name: Prepare frozen 20-case unreviewed pilot packets
         run: |
           python evals/german_gold/prepare_pilot_candidates.py --out-dir /tmp/gitlaw-review-candidates
@@ -59,21 +69,27 @@ jobs:
               assert c['review']['frozen_holdout'] is False, path
           print('PILOT_CANDIDATE_PREP=PASS')
           PY
-      - name: Review aggregator unit contract
+      - name: Review aggregator + integrity tamper contract
         run: python evals/german_gold/test_review_aggregator.py
-      - name: German Gold + independent review anti-inflation gate
+      - name: German Gold + immutable review anti-inflation gate
         run: node scripts/german-gold-gate.mjs
-      - name: Static reviewer workbench safety contract
+      - name: Static legacy reviewer workbench safety contract
         run: |
           test -f viewer/public/ypog/review/index.html
           grep -q 'This does not create gold automatically' viewer/public/ypog/review/index.html
           grep -q 'Never paste confidential client data' viewer/public/ypog/review/index.html
           grep -q 'Everything on this page stays in the browser' viewer/public/ypog/review/index.html
           grep -q 'independent reviewer' viewer/public/ypog/review/index.html
+      - name: Build integrated Lawyer Review Lab
+        working-directory: viewer
+        run: |
+          npm ci --no-audit --no-fund
+          npm run build
       - name: Runbook anti-inflation contract
         run: |
           grep -q 'do not count as satisfying' docs/ypog/REVIEWER_PILOT_RUNBOOK.md
           grep -q 'A candidate is never promoted merely because a JSON review file exists' docs/ypog/REVIEWER_PILOT_RUNBOOK.md
+          grep -q 'payload SHA-256' docs/ypog/REVIEWER_PILOT_RUNBOOK.md
       - uses: actions/upload-artifact@v4
         with:
           name: german-gold-20-unreviewed-pilot-candidates

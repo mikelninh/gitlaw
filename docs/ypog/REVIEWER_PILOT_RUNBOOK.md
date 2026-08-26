@@ -12,30 +12,41 @@ Start with 20 frozen candidate cases across at least 4 task families and 2 indep
 
 ## Before review
 
-1. Freeze the candidate JSON and assign a stable `case_id`.
-2. Record the GitLaw system version and legal corpus snapshot used to produce the evaluated run.
+1. Freeze the candidate case and evaluated system run under a stable `case_id`.
+2. Record the GitLaw system version, trace ID where available and legal corpus snapshot used to produce the evaluated run.
 3. Remove model/vendor identity from the reviewer packet where practical.
-4. Use only synthetic, public, licensed or appropriately governed matter data. Do not place confidential client data in the public reviewer page.
+4. Use only synthetic, public, licensed or appropriately governed matter data. Do not place confidential client data in a public reviewer deployment.
 5. Give each reviewer the same case packet, source set and evaluation instructions.
+6. Prefer the integrated `/#/review` Lawyer Review Lab. The older `/gitlaw/ypog/review/` static workbench remains a lightweight fallback.
 
 ## Review flow
 
-Open `/gitlaw/ypog/review/` in the deployed viewer or serve the static file locally.
+Open the deployed viewer at `/#/review` or serve the viewer locally.
 
 For each case, the reviewer:
 
-- imports the frozen candidate JSON;
+- imports the frozen review-case JSON;
 - enters a pseudonymous reviewer ID and role;
-- confirms independence and whether model identity was blinded;
-- records the exact system and corpus snapshot;
-- scores issue spotting, legal correctness, completeness, evidence presentation, missing-fact/uncertainty handling and usefulness;
+- confirms independence while model identity remains blinded when practical;
+- reviews the exact frozen task, facts, system output and source set;
+- records the six core 1–5 scores used by the existing aggregator;
+- scores every expected issue 0–2;
+- adjudicates each material claim against its provided sources, including relevance, temporal validity and omissions;
+- records workflow/agent boundary checks;
 - records critical authority omissions and unsupported or contradicted material claims;
 - scores abstention when applicable;
 - selects one terminal correction/safety label;
 - tags failure modes and adds notes;
-- exports the review JSON.
+- finalizes the review, which computes case-snapshot, run-snapshot and canonical payload SHA-256 values;
+- exports the immutable review JSON.
 
-The browser workbench has no backend. Exported files remain local until deliberately placed in the governed evidence store.
+The browser workbench has no required backend. Exported files remain local until deliberately placed in the governed evidence store. The **payload SHA-256 proves that the exported review record has not changed; it does not prove that the legal judgment is correct.**
+
+## Integrity and provenance
+
+New integrated-review exports use `sorted-json-v1` canonicalization and SHA-256. The Python aggregator recomputes the canonical payload hash and rejects a modified integrity-bound review. Case and run snapshot hashes let reviewers detect when two purported reviews were actually made against different evidence.
+
+Legacy schema-1.0 reviews without integrity metadata remain readable for backward compatibility, but the strict German Gold programme should prefer integrity-bound reviews and report the integrity-bound review rate explicitly.
 
 ## Promotion rules
 
@@ -54,6 +65,7 @@ Disagreements are evidence. Do not average away a safety-relevant disagreement. 
 Before scaling beyond the first 20 cases, inspect:
 
 - reviewer completion rate and missing fields;
+- integrity-bound review rate and snapshot-hash mismatch cases;
 - disagreement on terminal labels;
 - disagreement on critical authority omissions;
 - disagreement on unsupported/contradicted material claims;

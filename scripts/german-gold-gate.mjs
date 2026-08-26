@@ -4,6 +4,10 @@ const manifest = JSON.parse(fs.readFileSync('evals/german_gold/manifest.json', '
 const schema = JSON.parse(fs.readFileSync('evals/german_gold/schema.json', 'utf8'))
 const reviewSchema = JSON.parse(fs.readFileSync('evals/german_gold/review.schema.json', 'utf8'))
 const criteria = JSON.parse(fs.readFileSync('evals/ypog/release_criteria.json', 'utf8'))
+const sample = JSON.parse(fs.readFileSync('viewer/public/evals/lawyer-review-case.sample.json', 'utf8'))
+const reviewUi = fs.readFileSync('viewer/src/LawyerReviewApp.tsx', 'utf8')
+const reviewLib = fs.readFileSync('viewer/src/lawyer-review.ts', 'utf8')
+const router = fs.readFileSync('viewer/src/main.tsx', 'utf8')
 const assert = (ok, msg) => { if (!ok) throw new Error(msg) }
 
 assert(schema.title === 'GitLaw German Legal Gold Case', 'German Gold schema missing')
@@ -23,6 +27,24 @@ for (const label of [
 assert(reviewSchema.properties.reviewer.properties.independent.type === 'boolean', 'Reviewer independence must be explicit')
 assert(reviewSchema.properties.system_snapshot.required.includes('system_version'), 'Review must pin system version')
 assert(reviewSchema.properties.system_snapshot.required.includes('corpus_snapshot'), 'Review must pin corpus snapshot')
+for (const field of ['case_snapshot_sha256', 'run_snapshot_sha256', 'issue_reviews', 'claim_reviews', 'workflow_checks', 'integrity']) {
+  assert(reviewSchema.properties[field], `Review audit field missing: ${field}`)
+}
+assert(reviewSchema.properties.integrity.properties.algorithm.const === 'SHA-256', 'Review integrity algorithm must be SHA-256')
+assert(reviewSchema.properties.integrity.properties.canonicalization.const === 'sorted-json-v1', 'Review canonicalization contract drifted')
+assert(reviewSchema.properties.integrity.required.includes('payload_sha256'), 'Review payload hash is required when integrity is present')
+
+assert(sample.schema_version === '1.0' && sample.case_id === 'SYN-MIET-001', 'Synthetic reviewer sample drifted')
+assert(sample.blinding?.hide_model_identity === true, 'Synthetic sample must be model-blinded')
+assert(String(sample.notes || '').includes('synthetisch'), 'Synthetic sample must be explicitly marked synthetic')
+assert(Array.isArray(sample.expected_issues) && sample.expected_issues.length >= 3, 'Synthetic sample needs expected issues')
+assert(Array.isArray(sample.claims) && sample.claims.length >= 3, 'Synthetic sample needs material claims')
+
+assert(reviewUi.includes('Review finalisieren & hashen'), 'Reviewer UI must expose immutable finalize step')
+assert(reviewUi.includes('Ein exportierter Review erzeugt niemals automatisch Gold'), 'Reviewer UI must preserve anti-inflation boundary')
+assert(reviewLib.includes("canonicalization: 'sorted-json-v1'"), 'Browser hash canonicalization contract missing')
+assert(reviewLib.includes("algorithm: 'SHA-256'"), 'Browser SHA-256 integrity contract missing')
+assert(router.includes('path="/review"'), 'Reviewer route missing')
 
 assert(manifest.counts.approved_gold <= manifest.counts.single_review + manifest.counts.approved_gold, 'Invalid gold counts')
 assert(manifest.counts.frozen_holdout <= manifest.counts.approved_gold, 'Frozen holdout cannot exceed approved gold')
@@ -37,6 +59,8 @@ if (manifest.counts.approved_gold === 0) {
 console.log(JSON.stringify({
   german_gold_contract: 'PASS',
   independent_review_instrument: 'PASS',
+  immutable_review_export: 'PASS',
+  reviewer_route: '/#/review',
   current_counts: manifest.counts,
   strict_targets: manifest.strict_targets,
   release_gate: criteria.current_status
