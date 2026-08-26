@@ -13,10 +13,17 @@ on:
       - '.github/workflows/german-retrieval.yml'
       - 'scripts/german-public-benchmark-gate.mjs'
 
+concurrency:
+  group: german-retrieval-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
 jobs:
   gerlayqa:
     runs-on: ubuntu-latest
     timeout-minutes: 45
+    env:
+      TOKENIZERS_PARALLELISM: 'false'
+      HF_HUB_DISABLE_TELEMETRY: '1'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
