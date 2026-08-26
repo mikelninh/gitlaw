@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "status": "OBSERVED_EXTERNAL_COMPONENT_BASELINE",
+  "measured_at": "2026-08-26",
+  "benchmark": "Legal RAG Bench",
+  "benchmark_repo_revision": "9e30a36d1ef58cd35ec4ed724ef3e5edc6b0d00b",
+  "dataset": "isaacus/legal-rag-bench",
+  "dataset_revision": "db0b31dc6d195ce9916897e1ac5e4e6209736c8a",
+  "runner": "evals/external/run_legal_rag_bench_bm25.py",
+  "workflow_run_id": 32946047391,
+  "workflow_head_sha": "f5ed8521540083ea4d097adc232a1a77c5b121f0",
+  "artifact_id": 9598298216,
+  "artifact_digest": "sha256:21ffc7b3ca8a31953201f74ece42673c63ca540acdcdedd518c2a23bfbe749be",
+  "result_json_sha256": "0dffecdc02da930b3d96d1a4d5bf7cbe7d0e774cd63d3c7f945fc4fb02197f59",
+  "n_questions": 100,
+  "n_passages": 4876,
+  "retriever": {
+    "type": "BM25Okapi",
+    "tokenizer": "lowercase Unicode word regex",
+    "query_expansion": false,
+    "semantic_embeddings": false,
+    "reranker": false
+  },
+  "metrics": {
+    "hit_at_1": 0.14,
+    "hit_at_5": 0.30,
+    "hit_at_10": 0.31,
+    "mrr": 0.21812319724933016
+  },
+  "interpretation": "On the pinned 100-question Legal RAG Bench retrieval task, plain lexical BM25 retrieves the single gold passage in the top 10 for only 31% of questions. This is expected to stress lexical matching because the benchmark questions were deliberately written to be lexically dissimilar from relevant passages.",
+  "claim_boundary": "This is an external lexical retrieval component baseline. It is not GitLaw hybrid retrieval, not an end-to-end Legal RAG Bench score, and not German-law legal accuracy.",
+  "license_note": "The pinned Hugging Face structured metadata identifies cc-by-nc-sa-4.0 while dataset-card prose uses a different shorthand. GitLaw does not vendor source text and treats commercial reuse as blocked pending clarification.",
+  "attribution": "Legal RAG Bench — Abdur-Rahman Butler and Umar Butler (2026), arXiv:2603.01710; isaacus/legal-rag-bench."
+}
