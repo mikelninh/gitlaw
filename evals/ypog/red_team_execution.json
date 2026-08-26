@@ -5,11 +5,11 @@
   "cases": [
     {"id":"rt-01","status":"PARTIAL","evidence":["api/_document_review_tools.test.ts"],"note":"Prompt boundary and untrusted-data formatting are tested; no live adversarial model run yet."},
     {"id":"rt-02","status":"PENDING_LIVE_OR_DETERMINISTIC_TEST","evidence":[],"note":"Citation fail-closed policy exists, but this sprint does not claim the adversarial scenario executed end to end."},
-    {"id":"rt-03","status":"PARTIAL","evidence":["api/_auth.ts","docs/multi-tenant-architecture.md"],"note":"Tenant-scoped architecture is code-anchored; dedicated cross-tenant penetration test remains pending."},
+    {"id":"rt-03","status":"PARTIAL","evidence":["api/_auth.test.ts","api/_auth.ts","docs/multi-tenant-architecture.md"],"note":"Signed tenant identity, tamper resistance and role boundaries are unit-tested; dedicated cross-tenant DB penetration test remains pending."},
     {"id":"rt-04","status":"PENDING","evidence":[],"note":"Stale approval after changed legal document needs an executable change-impact workflow test."},
     {"id":"rt-05","status":"PENDING","evidence":[],"note":"Conflicting-fact preservation needs matter-level evaluation."},
-    {"id":"rt-06","status":"PARTIAL","evidence":["api/_agent.ts"],"note":"Idempotency + max-iteration guards exist; adversarial repeated-call scenario not yet executed as a dedicated test."},
-    {"id":"rt-07","status":"PARTIAL","evidence":["api/_agent.ts"],"note":"max_cost_usd and aborted_budget exist; dedicated cost-runaway test pending."},
+    {"id":"rt-06","status":"EXECUTED","evidence":["api/_agent.test.ts"],"note":"A repeating tool-call loop is executed locally and must terminate with aborted_iterations at the configured bound."},
+    {"id":"rt-07","status":"EXECUTED","evidence":["api/_agent.test.ts"],"note":"A simulated high-cost LLM response is executed locally and must terminate with aborted_budget."},
     {"id":"rt-08","status":"EXECUTED","evidence":["api/_llm.test.ts"],"note":"429/transient failover behavior is unit-tested."},
     {"id":"rt-09","status":"EXECUTED","evidence":["api/_llm.test.ts"],"note":"401 does not silently fall back to another provider."},
     {"id":"rt-10","status":"EXECUTED","evidence":["api/_llm.test.ts"],"note":"Structured JSON parsing/validation behavior is unit-tested."},
@@ -25,8 +25,8 @@
     {"id":"rt-20","status":"PENDING","evidence":[],"note":"Change-impact underreach requires executable contract-diff workflow."}
   ],
   "summary": {
-    "executed": 3,
-    "partial": 6,
+    "executed": 5,
+    "partial": 4,
     "policy_only": 2,
     "measured_component_failure": 1,
     "pending": 8
