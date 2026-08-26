@@ -7,6 +7,8 @@ on:
       - 'evals/german_gold/review.schema.json'
       - 'evals/german_gold/review_aggregator.py'
       - 'evals/german_gold/test_review_aggregator.py'
+      - 'evals/german_gold/build_review_packet.py'
+      - 'evals/german_gold/test_build_review_packet.py'
       - 'evals/german_gold/prepare_pilot_candidates.py'
       - 'evals/gitlaw_qa_set.json'
       - 'viewer/public/ypog/review/**'
@@ -22,6 +24,8 @@ on:
       - 'evals/german_gold/review.schema.json'
       - 'evals/german_gold/review_aggregator.py'
       - 'evals/german_gold/test_review_aggregator.py'
+      - 'evals/german_gold/build_review_packet.py'
+      - 'evals/german_gold/test_build_review_packet.py'
       - 'evals/german_gold/prepare_pilot_candidates.py'
       - 'evals/gitlaw_qa_set.json'
       - 'viewer/public/ypog/review/**'
@@ -69,6 +73,8 @@ jobs:
               assert c['review']['frozen_holdout'] is False, path
           print('PILOT_CANDIDATE_PREP=PASS')
           PY
+      - name: Review packet packaging contract
+        run: python evals/german_gold/test_build_review_packet.py
       - name: Review aggregator + integrity tamper contract
         run: python evals/german_gold/test_review_aggregator.py
       - name: German Gold + immutable review anti-inflation gate
