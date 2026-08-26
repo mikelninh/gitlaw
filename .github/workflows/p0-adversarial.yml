@@ -1,0 +1,47 @@
+name: P0 adversarial system guards
+
+on:
+  push:
+    branches: [main, 'feat/ypog-**']
+    paths:
+      - 'api/_approval_state.ts'
+      - 'api/_approval_state.test.ts'
+      - 'api/_p0_adversarial_matrix.test.ts'
+      - 'api/_document_review_tools.ts'
+      - 'evals/ypog/p0_adversarial_matrix_spec.json'
+      - 'evals/ypog/red_team_execution.json'
+      - '.github/workflows/p0-adversarial.yml'
+  pull_request:
+    paths:
+      - 'api/_approval_state.ts'
+      - 'api/_approval_state.test.ts'
+      - 'api/_p0_adversarial_matrix.test.ts'
+      - 'api/_document_review_tools.ts'
+      - 'evals/ypog/p0_adversarial_matrix_spec.json'
+      - 'evals/ypog/red_team_execution.json'
+      - '.github/workflows/p0-adversarial.yml'
+
+jobs:
+  p0:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Execute 200-case deterministic P0 matrix
+        run: npx vitest run api/_p0_adversarial_matrix.test.ts api/_approval_state.test.ts
+      - name: Verify matrix accounting and claim boundary
+        run: |
+          node - <<'NODE'
+          const fs=require('fs')
+          const spec=JSON.parse(fs.readFileSync('evals/ypog/p0_adversarial_matrix_spec.json','utf8'))
+          if(spec.total_cases !== 200) throw new Error('P0 matrix must contain exactly 200 generated attack vectors')
+          const total=spec.groups.reduce((n,g)=>n+g.cases,0)
+          if(total !== 200) throw new Error(`P0 group accounting mismatch: ${total}`)
+          if(!spec.groups.every(g=>g.p0 === true)) throw new Error('All matrix groups must remain explicitly P0')
+          if(!spec.claim_boundary.includes('do not replace')) throw new Error('P0 claim boundary must preserve semantic/live-model limitations')
+          console.log(JSON.stringify({p0_matrix:'PASS',cases:total,groups:spec.groups.map(g=>g.id)},null,2))
+          NODE
