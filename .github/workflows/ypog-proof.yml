@@ -47,6 +47,8 @@ jobs:
           cache-dependency-path: rag/requirements.txt
       - name: Install root dependencies
         run: npm ci
+      - name: Runtime dependency audit — no critical production vulnerability
+        run: npm audit --omit=dev --audit-level=critical
       - name: Existing GitLaw tests
         run: npm test
       - name: Deterministic YPOG proof gate
@@ -73,10 +75,10 @@ jobs:
           grep -q 'not answer accuracy' viewer/public/ypog/index.html
           grep -q 'synthetic trace fixture' viewer/public/ypog/index.html
           grep -q 'AI prepares and proposes' viewer/public/ypog/index.html
-      - name: Build viewer
+      - name: Build viewer using repository's existing install contract
         working-directory: viewer
         run: |
-          npm ci
+          npm install --no-audit --no-fund
           npm run build
       - name: Verify proof page shipped into dist
         run: |
