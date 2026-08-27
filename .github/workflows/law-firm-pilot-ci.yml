@@ -66,7 +66,7 @@ jobs:
         run: python -m gitlaw_mcp.tests.test_eval
 
       - name: Type-check pilot API boundary
-        run: npx tsc --noEmit --target ES2022 --module NodeNext --moduleResolution NodeNext --esModuleInterop --skipLibCheck api/pro/pilot-replay.ts
+        run: npx tsc --noEmit --target ES2022 --module NodeNext --moduleResolution NodeNext --esModuleInterop --skipLibCheck --strictNullChecks true api/pro/pilot-replay.ts
 
       - name: Verify customer and assistant simplicity contracts
         run: |
