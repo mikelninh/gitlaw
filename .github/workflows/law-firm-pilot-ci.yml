@@ -49,10 +49,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install root, API and Python test dependencies
+      - name: Install root, API, viewer and Python test dependencies
         run: |
           npm install --no-audit --no-fund
           npm install --prefix api --no-audit --no-fund
+          npm install --prefix viewer --no-audit --no-fund
           python -m pip install --disable-pip-version-check pytest 'mcp<2'
 
       - name: Run law-firm pilot edge cases
@@ -61,8 +62,11 @@ jobs:
       - name: Run assistant console HTTP end-to-end
         run: node --test pilot/law-firm/ops-console.e2e.test.mjs
 
-      - name: Run migration document ground-truth contracts
-        run: npx vitest run pilot/law-firm/document-ground-truth.test.ts
+      - name: Run migration document and client-navigation contracts
+        run: npx vitest run pilot/law-firm/document-ground-truth.test.ts pilot/law-firm/mandant-navigation.test.ts
+
+      - name: Build client viewer
+        run: npm run build --prefix viewer
 
       - name: Preserve GitLaw citation contract
         run: python -m gitlaw_mcp.tests.test_eval
