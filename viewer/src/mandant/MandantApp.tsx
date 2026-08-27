@@ -9,10 +9,11 @@
  */
 
 import { useState } from 'react'
-import { Route, Routes, Navigate, useSearchParams } from 'react-router-dom'
+import { Route, Routes, Navigate, useSearchParams, Link } from 'react-router-dom'
 import MandantLogin from './MandantLogin'
 import MandantLayout from './MandantLayout'
 import MandantCheckliste from './MandantCheckliste'
+import MandantAkte from './MandantAkte'
 import MandantSachstand from './MandantSachstand'
 import MandantVollmacht from './MandantVollmacht'
 import type { MandantLang } from './mandant-i18n'
@@ -83,7 +84,38 @@ export default function MandantApp() {
         }
       >
         <Route index element={<Navigate to="akte" replace />} />
-        <Route path="akte" element={<MandantCheckliste mandantId={mandantId} backendToken={backendToken} lang={lang} />} />
+        <Route
+          path="akte"
+          element={
+            <>
+              <div className="mb-3 flex justify-end">
+                <Link
+                  to="/mandant/akte/details"
+                  className="text-xs font-semibold text-[var(--color-ink-soft)] underline-offset-4 hover:text-[var(--color-ink)] hover:underline"
+                >
+                  {lang === 'vi' ? 'Tài liệu & tổng quan hồ sơ →' : 'Dokumente & Aktenübersicht →'}
+                </Link>
+              </div>
+              <MandantCheckliste mandantId={mandantId} backendToken={backendToken} lang={lang} />
+            </>
+          }
+        />
+        <Route
+          path="akte/details"
+          element={
+            <>
+              <div className="mb-4">
+                <Link
+                  to="/mandant/akte"
+                  className="inline-flex min-h-10 items-center text-sm font-semibold text-[var(--color-ink-soft)] underline-offset-4 hover:text-[var(--color-ink)] hover:underline"
+                >
+                  {lang === 'vi' ? '← Quay lại bước tiếp theo' : '← Zurück zum nächsten Schritt'}
+                </Link>
+              </div>
+              <MandantAkte mandantId={mandantId} backendToken={backendToken} lang={lang} />
+            </>
+          }
+        />
         <Route path="status" element={<Navigate to="/mandant/sachstand" replace />} />
         <Route path="sachstand" element={<MandantSachstand mandantId={mandantId} backendToken={backendToken} lang={lang} />} />
         <Route path="vollmacht" element={<MandantVollmacht mandantId={mandantId} backendToken={backendToken} lang={lang} />} />
