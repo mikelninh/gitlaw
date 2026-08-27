@@ -12,7 +12,7 @@ import { useState } from 'react'
 import { Route, Routes, Navigate, useSearchParams } from 'react-router-dom'
 import MandantLogin from './MandantLogin'
 import MandantLayout from './MandantLayout'
-import MandantAkte from './MandantAkte'
+import MandantCheckliste from './MandantCheckliste'
 import MandantSachstand from './MandantSachstand'
 import MandantVollmacht from './MandantVollmacht'
 import type { MandantLang } from './mandant-i18n'
@@ -24,8 +24,6 @@ const TOKEN_SESSION_KEY = 'gitlaw.mandant.token'
 export default function MandantApp() {
   const [searchParams] = useSearchParams()
 
-  // Token-Auflösung: zuerst URL, dann sessionStorage (überlebt Navigation
-  // wenn React-Router die Query beim Navigate entfernt).
   const [backendToken] = useState<string | null>(() => {
     const fromUrl = searchParams.get('token') ?? null
     if (fromUrl && fromUrl !== 'MANDANT-DEMO') {
@@ -43,7 +41,6 @@ export default function MandantApp() {
   const [mandantId, setMandantId] = useState<string | null>(
     backendToken ? `backend:${backendToken}` : null,
   )
-  // Initial-Sprache aus URL ?lang=vi (von Bao gesetzt im Invite-Drawer)
   const [lang, setLang] = useState<MandantLang>(() => {
     const fromUrl = searchParams.get('lang')
     return fromUrl === 'vi' || fromUrl === 'de' ? fromUrl : 'de'
@@ -86,7 +83,7 @@ export default function MandantApp() {
         }
       >
         <Route index element={<Navigate to="akte" replace />} />
-        <Route path="akte" element={<MandantAkte mandantId={mandantId} backendToken={backendToken} lang={lang} />} />
+        <Route path="akte" element={<MandantCheckliste mandantId={mandantId} backendToken={backendToken} lang={lang} />} />
         <Route path="status" element={<Navigate to="/mandant/sachstand" replace />} />
         <Route path="sachstand" element={<MandantSachstand mandantId={mandantId} backendToken={backendToken} lang={lang} />} />
         <Route path="vollmacht" element={<MandantVollmacht mandantId={mandantId} backendToken={backendToken} lang={lang} />} />
