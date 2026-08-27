@@ -5,6 +5,7 @@ import './index.css'
 import App from './App.tsx'
 import GitLawHome from './GitLawHome.tsx'
 import ProApp from './pro/ProApp.tsx'
+import ProPortfolioDemo from './pro/ProPortfolioDemo.tsx'
 import MandantApp from './mandant/MandantApp.tsx'
 import IntakeForm from './pro/IntakeForm.tsx'
 import WelcomePersonal from './pro/WelcomePersonal.tsx'
@@ -16,6 +17,7 @@ import MietrechtResearchDesk from './MietrechtResearchDesk.tsx'
  *   /#/                        → focused cross-domain GitLaw decision support
  *   /#/research               → full citizen research interface
  *   /#/mietrecht              → public real-input Mietrecht research pilot
+ *   /#/pro-demo               → tokenless synthetic Pro portfolio demo
  *   /#/pro/*                   → Anwält:innen Pro tier (invite-gated)
  *   /#/intake/:slug            → Mandant:innen-Fragebogen (öffentlich)
  *   /#/preise                  → Pricing-Page (öffentlich)
@@ -31,6 +33,7 @@ createRoot(document.getElementById('root')!).render(
           <Route path="/intake/:slug" element={<IntakeForm />} />
           <Route path="/preise" element={<PricingShell />} />
           <Route path="/mietrecht" element={<MietrechtResearchDesk />} />
+          <Route path="/pro-demo" element={<ProPortfolioDemo />} />
           {/* Personalized welcome routes — public, no auth */}
           <Route path="/bao" element={<WelcomePersonal personaSlug="bao" />} />
           <Route path="/rubin" element={<WelcomePersonal personaSlug="rubin" />} />
@@ -56,40 +59,38 @@ function ProBridgePage() {
     <div className="min-h-screen bg-gradient-to-b from-[var(--color-gold-light)] via-white to-[var(--color-bg)]">
       <div className="max-w-3xl mx-auto px-4 py-16 text-center">
         <div className="inline-flex items-center rounded-full border border-gold/20 bg-white px-4 py-1 text-xs font-semibold uppercase tracking-[0.25em] text-[var(--color-gold)]">
-          Live Pro Bridge
-        </div>
-        <p className="text-xs uppercase tracking-[0.3em] text-[var(--color-ink-muted)] mb-4">
           GitLaw Pro
+        </div>
+        <p className="text-xs uppercase tracking-[0.3em] text-[var(--color-ink-muted)] mb-4 mt-5">
+          Kanzlei-Workspace
         </p>
         <h1 className="text-4xl md:text-5xl font-semibold mb-4" style={{ fontFamily: "'Georgia', serif" }}>
-          Für Anwält:innen und Kanzleien
+          Erst ausprobieren. Dann einloggen.
         </h1>
         <p className="text-lg text-[var(--color-ink-soft)] max-w-xl mx-auto leading-relaxed">
-          Wenn du die normale GitLaw-Seite nur als Bürger-Version siehst, bist du hier richtig.
-          Diese Seite führt direkt in die Pro-Variante.
+          Die Portfolio-Demo nutzt nur synthetische Daten und braucht keinen Beta-Token. Der echte Pilotbereich bleibt getrennt und geschützt.
         </p>
 
         <div className="mt-10 grid gap-4 max-w-md mx-auto">
           <a
-            href={`${baseUrl}#/preise`}
+            href={`${baseUrl}#/pro-demo`}
             className="rounded-2xl bg-[var(--color-ink)] text-white px-6 py-4 font-semibold shadow-lg hover:opacity-90"
           >
-            GitLaw Pro ansehen
+            Interaktive Portfolio-Demo öffnen
           </a>
           <a
-            href={`${baseUrl}#/pro?invite=BETA-NGUYEN&preset=nguyen`}
+            href={`${baseUrl}#/pro`}
             className="rounded-2xl border border-[var(--color-border)] bg-white px-6 py-4 font-semibold hover:border-[var(--color-gold)]"
           >
-            Pro direkt öffnen
+            Zum echten Pilot-Login
+          </a>
+          <a
+            href={`${baseUrl}#/preise`}
+            className="text-sm text-[var(--color-ink-soft)] underline"
+          >
+            Pilot-Angebot ansehen
           </a>
         </div>
-
-        <p className="mt-8 text-sm text-[var(--color-ink-muted)]">
-          Direktlink für Bao: <span className="font-mono">/#/pro?invite=BETA-NGUYEN&amp;preset=nguyen</span>
-        </p>
-        <p className="mt-2 text-xs text-[var(--color-ink-muted)]">
-          Bridge route: <span className="font-mono">/pro-beta</span>
-        </p>
       </div>
     </div>
   )
@@ -100,7 +101,7 @@ function PricingShell() {
     <div className="min-h-screen bg-[var(--color-bg)]">
       <header className="border-b border-[var(--color-border)] bg-white">
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-          <a href="#/pro" className="flex items-center gap-2 font-semibold">
+          <a href="#/pro-demo" className="flex items-center gap-2 font-semibold">
             <span className="text-[var(--color-gold)]">⚖</span>
             GitLaw <span className="text-[var(--color-gold)]">Pro</span>
           </a>
