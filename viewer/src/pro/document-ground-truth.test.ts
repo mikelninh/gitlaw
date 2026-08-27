@@ -15,7 +15,9 @@ import {
 
 const checklist: MandatsartChecklist = {
   id: 'migration-test',
-  label: 'Migration Test',
+  title: 'Migration Test',
+  category: 'migration',
+  description: 'Synthetische Test-Checkliste.',
   requiredDocuments: [
     { id: 'passport', label: 'Reisepass', level: 'required' },
     { id: 'permit', label: 'Aufenthaltstitel', level: 'required' },
@@ -40,7 +42,7 @@ function baseCase(): MandantCase {
       approvedBy: 'Lawyer',
       approvedByRole: 'anwalt',
     },
-  } as MandantCase
+  } as unknown as MandantCase
 }
 
 function doc(id: string, itemId: string, reviewStatus: 'pending' | 'approved' | 'rejected', uploadedBy: 'mandant' | 'staff' = 'mandant') {
