@@ -60,7 +60,7 @@ jobs:
         run: node --test pilot/law-firm/ops-console.e2e.test.mjs
 
       - name: Run migration document ground-truth contracts
-        run: node --test pilot/law-firm/migration-document-workflow.test.mjs
+        run: npx vitest run viewer/src/pro/document-ground-truth.test.ts
 
       - name: Preserve GitLaw citation contract
         run: python -m gitlaw_mcp.tests.test_eval
