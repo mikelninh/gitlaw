@@ -51,7 +51,7 @@ jobs:
         run: |
           npm install --no-audit --no-fund
           npm install --prefix api --no-audit --no-fund
-          python -m pip install --disable-pip-version-check pytest mcp
+          python -m pip install --disable-pip-version-check pytest 'mcp<2'
 
       - name: Run law-firm pilot edge cases
         run: node --test pilot/law-firm/core.test.mjs
@@ -79,6 +79,10 @@ jobs:
           const goLive=fs.readFileSync('pilot/law-firm/GO_LIVE_CHECKLIST.md','utf8');
           const clientDemo=fs.readFileSync('viewer/public/migration-client-demo.html','utf8');
           const officeDemo=fs.readFileSync('viewer/public/migration-office-demo.html','utf8');
+          const portal=fs.readFileSync('viewer/src/mandant/MandantCheckliste.tsx','utf8');
+          const portalApp=fs.readFileSync('viewer/src/mandant/MandantApp.tsx','utf8');
+          const changeApi=fs.readFileSync('api/mandant/checklist-change.ts','utf8');
+          const uploadApi=fs.readFileSync('api/mandant/upload.ts','utf8');
           const api=fs.readFileSync('api/pro/pilot-replay.ts','utf8');
           for(const text of ['20–30','Richtig','Ändern','Falsch','WEITER','VERBESSERN','STOPPEN','WEITER MESSEN']) if(!customer.includes(text)) throw new Error('customer contract missing '+text);
           for(const text of ['STARTEN','ANFORDERN','WARTEN','STOPP']) if(!ops.includes(text)) throw new Error('ops contract missing '+text);
@@ -87,6 +91,9 @@ jobs:
           for(const text of ['DEMO','keine echten Mandantendaten']) if(!clientDemo.includes(text)||!officeDemo.includes(text)) throw new Error('demo safety banner missing '+text);
           for(const text of ['DE','VI','Liste anpassen','Điều chỉnh danh sách','Upload','Tải lên']) if(!clientDemo.includes(text)) throw new Error('client bilingual/edit contract missing '+text);
           for(const text of ['PASST NICHT','ERGÄNZEN','ÄNDERUNG PRÜFEN','BEREIT FÜR ANWALT']) if(!officeDemo.includes(text)) throw new Error('office simplicity contract missing '+text);
+          for(const text of ['Liste anpassen','Điều chỉnh danh sách','not_applicable','add_document','uploadMandantDocument']) if(!portal.includes(text)) throw new Error('real portal contract missing '+text);
+          if(!portalApp.includes('MandantCheckliste')) throw new Error('simple checklist is not primary client portal');
+          for(const text of ['GITLAW_REAL_CLIENT_UPLOADS_ENABLED','REAL_CLIENT_MODE_DISABLED']) if(!changeApi.includes(text)||!uploadApi.includes(text)) throw new Error('real client fail-closed gate missing '+text);
           for(const text of ['Real-Client-Mode','AVV','Art. 9','Art. 10','EU']) if(!goLive.includes(text)) throw new Error('go-live gate missing '+text);
           for(const text of ['GITLAW_PILOT_SERVICE_TOKEN','STOPP_PRIVACY','execution_allowed: false']) if(!api.includes(text)) throw new Error('api boundary missing '+text);
           if(customer.includes('automatische Rechtsberatung')) throw new Error('unsafe customer claim');
