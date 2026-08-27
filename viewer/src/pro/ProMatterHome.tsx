@@ -102,7 +102,7 @@ export default function ProMatterHome() {
         <div className="pro-matter-flow" aria-label="GitLaw Pro Arbeitsfluss">
           {FLOW.map((stage, index) => {
             const Icon = stage.icon
-            let to = stage.to
+            let to: string = stage.to
             if (activeMatter && (index === 1 || index === 4 || index === 5)) to = matterUrl
             if (activeMatter && (index === 2 || index === 3)) to = researchUrl
             const routeForAccess = to.split('?')[0]
