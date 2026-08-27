@@ -1,0 +1,71 @@
+/* Final visual tune after review: keep the Pro workspace dark, but lift the graphite
+   enough that hierarchy and long research sessions feel less cave-like. */
+.pro-shell {
+  --color-bg: #111418;
+  --color-bg-alt: #181c21;
+  --color-card: #1d2228;
+  --color-border: #343b43;
+  background:
+    radial-gradient(circle at 78% -10%, rgba(214, 182, 109, 0.10), transparent 29rem),
+    radial-gradient(circle at 8% 22%, rgba(110, 145, 168, 0.08), transparent 26rem),
+    var(--color-bg);
+}
+
+.pro-shell .bg-white {
+  background-color: rgba(29, 34, 40, 0.97) !important;
+}
+
+.pro-shell .bg-slate-100 {
+  background-color: #282e35 !important;
+}
+
+.pro-shell > * > header:first-child {
+  background: rgba(17, 20, 24, 0.90) !important;
+  border-color: rgba(255, 255, 255, 0.10) !important;
+}
+
+.pro-shell > * > footer:last-child {
+  background: #12161a !important;
+}
+
+.pro-shell input,
+.pro-shell textarea,
+.pro-shell select {
+  background-color: #171b20;
+  border-color: #3b434c;
+}
+
+.pro-matter-command {
+  background:
+    linear-gradient(145deg, rgba(36, 41, 47, 0.99), rgba(24, 28, 33, 0.99)),
+    var(--color-card);
+  box-shadow: 0 20px 58px rgba(0, 0, 0, 0.22);
+}
+
+.pro-matter-current {
+  background: rgba(21, 25, 30, 0.76);
+  border-color: #454c54;
+}
+
+.pro-matter-flow {
+  background: rgba(20, 24, 29, 0.72);
+  border-top-color: #3a4149;
+}
+
+.pro-matter-stage {
+  border-right-color: #363d45;
+}
+
+.pro-matter-trustline {
+  border-top-color: #394048;
+}
+
+.pro-matter-stage-disabled {
+  opacity: 0.42;
+  cursor: not-allowed;
+  filter: saturate(0.65);
+}
+
+.pro-matter-stage-disabled:hover {
+  background: transparent;
+}

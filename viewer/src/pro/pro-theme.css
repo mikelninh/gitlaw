@@ -1,0 +1,377 @@
+/*
+ * GitLaw Pro — Matter / Research workspace skin.
+ *
+ * Scope is intentionally limited to .pro-shell so the citizen-facing GitLaw
+ * experience keeps its editorial paper/ink language. The Pro product is a
+ * darker, denser workspace where evidence, open questions and lawyer review
+ * read as first-class product states rather than chat affordances.
+ */
+
+.pro-shell {
+  --color-bg: #0b0d0f;
+  --color-bg-alt: #121519;
+  --color-card: #16191d;
+  --color-ink: #f2eee5;
+  --color-ink-soft: #c8c1b4;
+  --color-ink-muted: #8f8a80;
+  --color-border: #2b3036;
+  --color-gold: #d6b66d;
+  --color-gold-light: #262116;
+  --color-green: #63b883;
+  --color-green-light: #14251b;
+  --color-blue: #78aeda;
+  --color-blue-light: #162432;
+  --color-red: #e98078;
+  --color-red-light: #321a1a;
+  --color-danger: #e98078;
+  --color-danger-bg: #321a1a;
+  --color-danger-border: #633230;
+
+  min-height: 100vh;
+  color: var(--color-ink);
+  color-scheme: dark;
+  background:
+    radial-gradient(circle at 78% -10%, rgba(214, 182, 109, 0.09), transparent 27rem),
+    radial-gradient(circle at 8% 22%, rgba(97, 128, 148, 0.07), transparent 24rem),
+    var(--color-bg);
+}
+
+.pro-shell > * {
+  min-height: 100vh;
+}
+
+.pro-shell .min-h-screen {
+  background-color: transparent !important;
+}
+
+/* Existing light utility surfaces become quiet graphite cards inside Pro. */
+.pro-shell .bg-white {
+  background-color: rgba(22, 25, 29, 0.96) !important;
+}
+
+.pro-shell .bg-slate-100 {
+  background-color: #20242a !important;
+}
+
+.pro-shell .bg-amber-50,
+.pro-shell .bg-amber-100 {
+  background-color: #2b2416 !important;
+}
+
+.pro-shell .border-amber-200,
+.pro-shell .border-amber-300 {
+  border-color: #5b4a28 !important;
+}
+
+.pro-shell .text-amber-900,
+.pro-shell .text-amber-800 {
+  color: #e3c783 !important;
+}
+
+.pro-shell .text-slate-700 {
+  color: #cbc7bf !important;
+}
+
+.pro-shell .text-green-700 {
+  color: #79c493 !important;
+}
+
+.pro-shell [class*="bg-[var(--color-ink)]"] {
+  background-color: #e4d3a5 !important;
+  color: #121315 !important;
+}
+
+.pro-shell [class*="bg-[var(--color-ink)]"] svg {
+  color: currentColor;
+}
+
+.pro-shell [class*="bg-[var(--color-gold-light)]"] {
+  background-color: #262116 !important;
+}
+
+.pro-shell [class*="via-white"],
+.pro-shell [class*="to-white"] {
+  --tw-gradient-to: rgba(22, 25, 29, 0.35) var(--tw-gradient-to-position) !important;
+  --tw-gradient-via: rgba(22, 25, 29, 0.72) var(--tw-gradient-via-position) !important;
+}
+
+/* Shell chrome */
+.pro-shell > * > header:first-child {
+  background: rgba(11, 13, 15, 0.86) !important;
+  border-color: rgba(255, 255, 255, 0.08) !important;
+  backdrop-filter: blur(18px);
+  position: sticky;
+  top: 0;
+  z-index: 35;
+}
+
+.pro-shell > * > footer:last-child {
+  background: #0d0f12 !important;
+  border-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+.pro-shell nav a,
+.pro-shell button,
+.pro-shell input,
+.pro-shell textarea,
+.pro-shell select {
+  outline-offset: 3px;
+}
+
+.pro-shell a:focus-visible,
+.pro-shell button:focus-visible,
+.pro-shell input:focus-visible,
+.pro-shell textarea:focus-visible,
+.pro-shell select:focus-visible {
+  outline: 2px solid var(--color-gold);
+}
+
+.pro-shell input,
+.pro-shell textarea,
+.pro-shell select {
+  background-color: #121519;
+  border-color: #32373e;
+  color: var(--color-ink);
+}
+
+.pro-shell input::placeholder,
+.pro-shell textarea::placeholder {
+  color: #77746d;
+}
+
+.pro-shell .h-page {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 3vw, 2.65rem);
+  line-height: 1.04;
+  letter-spacing: -0.035em;
+  font-weight: 500;
+  color: var(--color-ink);
+}
+
+/* Matter-first home */
+.pro-matter-home {
+  animation: proReveal 380ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.pro-matter-command {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(214, 182, 109, 0.24);
+  border-radius: 26px;
+  background:
+    linear-gradient(145deg, rgba(28, 30, 33, 0.98), rgba(17, 19, 22, 0.98)),
+    var(--color-card);
+  box-shadow: 0 22px 70px rgba(0, 0, 0, 0.28);
+}
+
+.pro-matter-command::before {
+  content: '';
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(232, 204, 137, 0.75), transparent);
+}
+
+.pro-matter-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: #d7bd7d;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.pro-matter-title {
+  margin-top: 0.75rem;
+  max-width: 760px;
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  line-height: 1.02;
+  letter-spacing: -0.04em;
+  font-weight: 500;
+  color: #f5f0e7;
+}
+
+.pro-matter-copy {
+  margin-top: 0.9rem;
+  max-width: 720px;
+  color: #aaa59c;
+  font-size: 0.93rem;
+  line-height: 1.7;
+}
+
+.pro-matter-current {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  min-height: 2.4rem;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid #373b40;
+  border-radius: 12px;
+  background: rgba(9, 11, 13, 0.55);
+  color: #d7d2c8;
+  font-size: 0.8rem;
+  transition: border-color 160ms ease, transform 160ms ease, background 160ms ease;
+}
+
+.pro-matter-current:hover {
+  border-color: rgba(214, 182, 109, 0.55);
+  background: rgba(214, 182, 109, 0.07);
+  transform: translateY(-1px);
+}
+
+.pro-matter-flow {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  border-top: 1px solid #2d3136;
+  background: rgba(7, 9, 11, 0.38);
+}
+
+.pro-matter-stage {
+  position: relative;
+  min-height: 132px;
+  padding: 1.05rem 1rem 1rem;
+  border-right: 1px solid #2a2e33;
+  color: inherit;
+  text-decoration: none;
+  transition: background 160ms ease, transform 160ms ease;
+}
+
+.pro-matter-stage:last-child {
+  border-right: 0;
+}
+
+.pro-matter-stage:hover {
+  background: rgba(214, 182, 109, 0.07);
+}
+
+.pro-matter-stage:focus-visible {
+  z-index: 1;
+}
+
+.pro-matter-stage-number {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #77736b;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.66rem;
+  letter-spacing: 0.08em;
+}
+
+.pro-matter-stage-icon {
+  width: 1rem;
+  height: 1rem;
+  color: #b99b58;
+}
+
+.pro-matter-stage h3 {
+  margin-top: 1.05rem;
+  color: #ece7dd;
+  font-size: 0.86rem;
+  font-weight: 650;
+}
+
+.pro-matter-stage p {
+  margin-top: 0.35rem;
+  color: #88847c;
+  font-size: 0.72rem;
+  line-height: 1.45;
+}
+
+.pro-matter-trustline {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.78rem 1.1rem;
+  border-top: 1px solid #2b2f34;
+  color: #9b978f;
+  font-size: 0.73rem;
+}
+
+.pro-matter-trustline strong {
+  color: #d8d2c7;
+  font-weight: 600;
+}
+
+/* Existing Pro cards feel more like one workspace and less like independent tiles. */
+.pro-shell main section,
+.pro-shell main article {
+  scroll-margin-top: 6rem;
+}
+
+.pro-shell .rounded-2xl.bg-white,
+.pro-shell .rounded-xl.bg-white,
+.pro-shell [class*="rounded-[28px]"][class*="bg-white"] {
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.16);
+}
+
+.pro-shell .rounded-2xl.bg-white:hover {
+  border-color: rgba(214, 182, 109, 0.42) !important;
+}
+
+@keyframes proReveal {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 1024px) {
+  .pro-matter-flow {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .pro-matter-stage:nth-child(3) {
+    border-right: 0;
+  }
+
+  .pro-matter-stage:nth-child(-n + 3) {
+    border-bottom: 1px solid #2a2e33;
+  }
+}
+
+@media (max-width: 640px) {
+  .pro-matter-command {
+    border-radius: 20px;
+  }
+
+  .pro-matter-flow {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .pro-matter-stage {
+    min-height: 118px;
+  }
+
+  .pro-matter-stage:nth-child(3) {
+    border-right: 1px solid #2a2e33;
+  }
+
+  .pro-matter-stage:nth-child(2n) {
+    border-right: 0;
+  }
+
+  .pro-matter-stage:nth-child(-n + 4) {
+    border-bottom: 1px solid #2a2e33;
+  }
+
+  .pro-matter-title {
+    font-size: 2.25rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pro-matter-home,
+  .pro-shell .animate-fade-slide-up,
+  .pro-shell .animate-drawer-in,
+  .pro-shell .animate-backdrop-in {
+    animation: none !important;
+  }
+
+  .pro-matter-stage,
+  .pro-matter-current {
+    transition: none;
+  }
+}
