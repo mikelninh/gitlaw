@@ -19,6 +19,7 @@ import ProImport from './ProImport'
 import Intake from './Intake'
 import { canAccessRoute } from './access'
 import './pro-theme.css'
+import './pro-tone.css'
 // Welcome pages + Pricing live on top-level (main.tsx) for short URLs.
 // Don't import them here.
 
