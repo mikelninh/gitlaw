@@ -8,7 +8,7 @@
 import { Route, Routes, Navigate } from 'react-router-dom'
 import ProAuth from './ProAuth'
 import ProLayout from './ProLayout'
-import ProDashboard from './ProDashboard'
+import ProMatterHome from './ProMatterHome'
 import ProSettings from './ProSettings'
 import { ProCasesList, ProCaseDetail } from './ProCases'
 import ProResearch from './ProResearch'
@@ -18,28 +18,31 @@ import ProEingaenge from './ProEingaenge'
 import ProImport from './ProImport'
 import Intake from './Intake'
 import { canAccessRoute } from './access'
+import './pro-theme.css'
 // Welcome pages + Pricing live on top-level (main.tsx) for short URLs.
 // Don't import them here.
 
 export default function ProApp() {
   return (
-    <ProAuth>
-      <Routes>
-        <Route path="/" element={<ProLayout />}>
-          <Route index element={<ProDashboard />} />
-          <Route path="akten" element={<Guarded path="/pro/akten"><ProCasesList /></Guarded>} />
-          <Route path="akten/:id" element={<Guarded path="/pro/akten"><ProCaseDetail /></Guarded>} />
-          <Route path="recherche" element={<Guarded path="/pro/recherche"><ProResearch /></Guarded>} />
-          <Route path="schreiben" element={<Guarded path="/pro/schreiben"><ProTemplates /></Guarded>} />
-          <Route path="eingaenge" element={<Guarded path="/pro/eingaenge"><ProEingaenge /></Guarded>} />
-          <Route path="audit" element={<Guarded path="/pro/audit"><ProAudit /></Guarded>} />
-          <Route path="import" element={<Guarded path="/pro/import"><ProImport /></Guarded>} />
-          <Route path="triage" element={<Guarded path="/pro/triage"><Intake /></Guarded>} />
-          <Route path="einstellungen" element={<Guarded path="/pro/einstellungen"><ProSettings /></Guarded>} />
-        </Route>
-        <Route path="*" element={<Navigate to="/" replace />} />
-      </Routes>
-    </ProAuth>
+    <div className="pro-shell">
+      <ProAuth>
+        <Routes>
+          <Route path="/" element={<ProLayout />}>
+            <Route index element={<ProMatterHome />} />
+            <Route path="akten" element={<Guarded path="/pro/akten"><ProCasesList /></Guarded>} />
+            <Route path="akten/:id" element={<Guarded path="/pro/akten"><ProCaseDetail /></Guarded>} />
+            <Route path="recherche" element={<Guarded path="/pro/recherche"><ProResearch /></Guarded>} />
+            <Route path="schreiben" element={<Guarded path="/pro/schreiben"><ProTemplates /></Guarded>} />
+            <Route path="eingaenge" element={<Guarded path="/pro/eingaenge"><ProEingaenge /></Guarded>} />
+            <Route path="audit" element={<Guarded path="/pro/audit"><ProAudit /></Guarded>} />
+            <Route path="import" element={<Guarded path="/pro/import"><ProImport /></Guarded>} />
+            <Route path="triage" element={<Guarded path="/pro/triage"><Intake /></Guarded>} />
+            <Route path="einstellungen" element={<Guarded path="/pro/einstellungen"><ProSettings /></Guarded>} />
+          </Route>
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
+      </ProAuth>
+    </div>
   )
 }
 
