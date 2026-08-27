@@ -1,70 +1,41 @@
 <!doctype html>
 <html lang="de">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>GitLaw Pro · Mandanten-Unterlagen Demo</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GitLaw · Mandantenportal Demo</title>
 <style>
-:root{--bg:#f5f2eb;--paper:#fffdfa;--ink:#161715;--muted:#686962;--line:#ded8cd;--green:#e8f6e5;--greenInk:#236331;--amber:#fff3cf;--amberInk:#7d5711;--red:#ffe6e3;--redInk:#922f27;--blue:#e9f0fa;--blueInk:#315b87;--dark:#1e2720}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.wrap{width:min(760px,calc(100% - 28px));margin:20px auto 60px}.demo{background:#201d18;color:#fff4d8;border-radius:14px;padding:12px 15px;font-weight:800;font-size:13px}.hero,.card{background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:22px;margin:12px 0;box-shadow:0 5px 24px #5f50330b}.eyebrow{font-size:11px;font-weight:900;letter-spacing:.11em;text-transform:uppercase;color:var(--muted)}h1{font-size:36px;line-height:1.04;letter-spacing:-.045em;margin:9px 0 12px}.lead{font-size:17px;color:#44453f;margin:0}.summary{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-top:18px}.metric{border:1px solid var(--line);border-radius:14px;padding:12px;background:white}.metric b{display:block;font-size:25px}.metric span{font-size:12px;color:var(--muted)}.next{background:var(--amber);border-color:#ead79c}.next h2{margin:5px 0;font-size:21px}.button{display:inline-flex;align-items:center;justify-content:center;min-height:46px;border:0;border-radius:12px;padding:0 17px;font-weight:900;cursor:pointer;background:var(--dark);color:white}.secondary{background:white;color:var(--ink);border:1px solid var(--line)}.doc{display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center;border-top:1px solid var(--line);padding:16px 0}.doc:first-of-type{border-top:0}.doc h3{font-size:15px;margin:0 0 3px}.doc p{font-size:13px;color:var(--muted);margin:0}.pill{display:inline-block;border-radius:999px;padding:6px 9px;font-size:11px;font-weight:900;white-space:nowrap}.approved{background:var(--green);color:var(--greenInk)}.review{background:var(--blue);color:var(--blueInk)}.missing,.requested{background:var(--amber);color:var(--amberInk)}.rejected{background:var(--red);color:var(--redInk)}.done{opacity:.7}.notice{font-size:12px;color:var(--muted)}#toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:#1e2720;color:white;padding:12px 16px;border-radius:12px;display:none;max-width:90%;text-align:center}@media(max-width:600px){h1{font-size:31px}.summary{grid-template-columns:1fr 1fr}.doc{grid-template-columns:1fr}.pill{width:max-content}.button{width:100%}}
+:root{--bg:#f5f2ec;--paper:#fffdfa;--ink:#171915;--muted:#686b63;--line:#ded9cf;--green:#e8f6e5;--greenI:#236331;--blue:#e9f0fa;--blueI:#315b87;--amber:#fff2c8;--amberI:#79520c;--red:#ffe6e3;--redI:#922f27;--violet:#f0eaff;--violetI:#654399}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 Inter,system-ui,-apple-system,"Segoe UI",sans-serif}.wrap{width:min(760px,calc(100% - 28px));margin:18px auto 60px}.demo{background:#211f1a;color:#fff6df;border-radius:14px;padding:12px 14px;font-size:12px;font-weight:800}.top,.card{background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:20px;margin-top:12px;box-shadow:0 6px 24px #554b320b}.row{display:flex;gap:12px;align-items:center;justify-content:space-between}.lang{display:flex;border:1px solid var(--line);border-radius:10px;overflow:hidden}.lang button{border:0;background:#fff;padding:8px 11px;font-weight:800}.lang button.active{background:#1e2720;color:#fff}.eyebrow{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);font-weight:900}h1{font-size:30px;line-height:1.05;margin:7px 0}.sub{color:var(--muted);margin:0}.next{background:var(--amber);border-color:#ead89b}.next h2{margin:5px 0;font-size:21px}.metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.metric{background:#fff;border:1px solid var(--line);border-radius:14px;padding:12px}.metric b{font-size:24px;display:block}.metric span{font-size:11px;color:var(--muted)}.doc{padding:15px 0;border-top:1px solid var(--line)}.doc:first-child{border-top:0}.dochead{display:flex;gap:10px;align-items:flex-start;justify-content:space-between}.doc h3{font-size:15px;margin:0}.translation{font-size:12px;color:var(--muted);margin:2px 0}.note{font-size:12px;color:var(--muted);margin:4px 0 0}.pill{display:inline-block;border-radius:999px;padding:6px 8px;border:1px solid transparent;font-size:10px;font-weight:900;white-space:nowrap}.approved{background:var(--green);color:var(--greenI)}.review{background:var(--blue);color:var(--blueI)}.missing{background:var(--amber);color:var(--amberI)}.rejected{background:var(--red);color:var(--redI)}.change{background:var(--violet);color:var(--violetI)}button,.button{min-height:42px;border-radius:11px;border:1px solid var(--line);background:#fff;padding:0 13px;font-weight:800;cursor:pointer}.primary{background:#1e2720;color:#fff;border-color:#1e2720}.actions{display:flex;gap:7px;flex-wrap:wrap;margin-top:9px}.adjust{display:none;margin-top:14px}.adjust.show{display:block}textarea{width:100%;min-height:86px;border:1px solid var(--line);border-radius:12px;padding:11px;font:inherit;background:#fff}.small{font-size:12px;color:var(--muted)}#toast{display:none;position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:#1e2720;color:#fff;padding:11px 14px;border-radius:11px;max-width:90%;text-align:center}@media(max-width:600px){.dochead{display:block}.pill{margin-top:7px}.metrics{grid-template-columns:repeat(3,1fr)}.actions button,.actions label{flex:1}.top .row{align-items:flex-start}h1{font-size:27px}}
 </style>
 </head>
 <body>
 <main class="wrap">
-  <div class="demo">DEMO · synthetische Daten · bitte keine echten Mandantendaten verwenden oder hochladen</div>
-
-  <section class="hero">
-    <div class="eyebrow">Ihre digitale Akte</div>
-    <h1>Guten Morgen, Demo Mandant 👋</h1>
-    <p class="lead">Sie müssen nicht wissen, welche Unterlage wohin gehört. Wir zeigen Ihnen nur, <b>was noch fehlt</b> und was bereits erledigt ist.</p>
-    <div class="summary">
-      <div class="metric"><b id="confirmedCount">3</b><span>bestätigt</span></div>
-      <div class="metric"><b id="reviewCount">1</b><span>wird geprüft</span></div>
-      <div class="metric"><b id="missingCount">3</b><span>noch offen</span></div>
-    </div>
-  </section>
-
-  <section class="card next" id="nextCard">
-    <div class="eyebrow">Ihr nächster Schritt</div>
-    <h2 id="nextTitle">Bitte Meldebescheinigung hochladen</h2>
-    <p id="nextText">Ein Foto oder PDF reicht. In der echten Version ordnen wir es Ihrer Akte zu und die Kanzlei prüft es.</p>
-    <button class="button" onclick="simulateUpload('registration')">Demo-Upload simulieren</button>
-  </section>
-
-  <section class="card">
-    <div class="eyebrow">Unterlagen</div>
-    <div id="docs"></div>
-  </section>
-
-  <section class="card">
-    <div class="eyebrow">So einfach bleibt es</div>
-    <p><b>Gelb:</b> Sie müssen etwas tun. &nbsp; <b>Blau:</b> Kanzlei prüft. &nbsp; <b>Grün:</b> erledigt.</p>
-    <p class="notice">Diese Demo überträgt und speichert keine ausgewählten Dokumentdateien. Der echte Mandantenmodus ist getrennt und bleibt bis zur Datenschutz-/Berufsrechts-/Storage-Freigabe technisch deaktiviert.</p>
-  </section>
-</main>
-<div id="toast"></div>
+<div class="demo" data-de="DEMO · synthetische Daten · keine echten Mandantendaten verwenden oder hochladen" data-vi="DEMO · dữ liệu giả lập · không sử dụng hoặc tải lên dữ liệu khách hàng thật">DEMO · synthetische Daten · keine echten Mandantendaten verwenden oder hochladen</div>
+<section class="top"><div class="row"><div><div class="eyebrow" data-de="Meine Akte" data-vi="Hồ sơ của tôi">Meine Akte</div><h1 data-de="Guten Morgen, Linh 👋" data-vi="Xin chào, Linh 👋">Guten Morgen, Linh 👋</h1><p class="sub" data-de="Sie sehen nur, was Sie als Nächstes tun müssen." data-vi="Bạn chỉ cần xem việc tiếp theo cần làm.">Sie sehen nur, was Sie als Nächstes tun müssen.</p></div><div class="lang"><button id="de" class="active" onclick="setLang('de')">DE</button><button id="vi" onclick="setLang('vi')">VI</button></div></div></section>
+<section class="card next"><div class="eyebrow" data-de="Ihr nächster Schritt" data-vi="Việc tiếp theo">Ihr nächster Schritt</div><h2 id="nextTitle">Meldebescheinigung hochladen</h2><p id="nextText" data-de="Ein gut lesbares Foto oder PDF reicht. Danach prüft die Kanzlei." data-vi="Chỉ cần ảnh chụp rõ hoặc PDF. Sau đó văn phòng luật sư sẽ kiểm tra.">Ein gut lesbares Foto oder PDF reicht. Danach prüft die Kanzlei.</p><button class="primary" id="nextUpload" onclick="simulateUpload('registration')" data-de="Upload simulieren" data-vi="Mô phỏng tải lên">Upload simulieren</button></section>
+<section class="metrics"><div class="metric"><b id="okCount">2</b><span data-de="bestätigt" data-vi="đã xác nhận">bestätigt</span></div><div class="metric"><b id="reviewCount">1</b><span data-de="in Prüfung" data-vi="đang kiểm tra">in Prüfung</span></div><div class="metric"><b id="openCount">3</b><span data-de="noch offen" data-vi="còn mở">noch offen</span></div></section>
+<section class="card"><div class="eyebrow" data-de="Ihre Unterlagenliste" data-vi="Danh sách tài liệu">Ihre Unterlagenliste</div><p class="small" data-de="Upload oder sagen, wenn etwas nicht zu Ihrem Fall passt." data-vi="Tải lên hoặc báo cho chúng tôi nếu mục nào không phù hợp với trường hợp của bạn.">Upload oder sagen, wenn etwas nicht zu Ihrem Fall passt.</p><div id="docs"></div></section>
+<section class="card"><button style="width:100%;display:flex;justify-content:space-between;align-items:center" onclick="toggleAdjust()"><span data-de="Liste anpassen" data-vi="Điều chỉnh danh sách">Liste anpassen</span><span>+</span></button><div id="adjust" class="adjust"><p class="small" data-de="Fehlt etwas oder möchten Sie etwas erklären? Schreiben Sie es kurz. Die Kanzlei prüft den Wunsch, bevor die offizielle Liste geändert wird." data-vi="Thiếu mục nào hoặc bạn muốn giải thích điều gì? Hãy viết ngắn gọn. Văn phòng luật sư sẽ kiểm tra trước khi thay đổi danh sách chính thức.">Fehlt etwas oder möchten Sie etwas erklären? Schreiben Sie es kurz.</p><textarea id="adjustText" data-placeholder-de="Zum Beispiel: Ich bin geschieden / ich habe zusätzlich dieses Dokument…" data-placeholder-vi="Ví dụ: Tôi đã ly hôn / tôi có thêm tài liệu này…" placeholder="Zum Beispiel: Ich bin geschieden / ich habe zusätzlich dieses Dokument…"></textarea><div class="actions"><button class="primary" onclick="sendAdjust('add')" data-de="Ergänzung senden" data-vi="Gửi bổ sung">Ergänzung senden</button><button onclick="sendAdjust('question')" data-de="Frage senden" data-vi="Gửi câu hỏi">Frage senden</button></div></div></section>
+<section class="card small"><b data-de="Wichtig:" data-vi="Quan trọng:">Wichtig:</b> <span data-de="Ein Änderungswunsch entfernt keine Pflichtunterlage automatisch. Die Kanzlei prüft und bestätigt die Änderung." data-vi="Yêu cầu thay đổi không tự động xóa tài liệu bắt buộc. Văn phòng luật sư sẽ kiểm tra và xác nhận.">Ein Änderungswunsch entfernt keine Pflichtunterlage automatisch. Die Kanzlei prüft und bestätigt die Änderung.</span><br><br><span data-de="Diese Demo überträgt oder speichert keine ausgewählte Datei. Uploads und Änderungen sind nur simuliert." data-vi="Bản demo này không truyền hoặc lưu tệp đã chọn. Tải lên và thay đổi chỉ là mô phỏng.">Diese Demo überträgt oder speichert keine ausgewählte Datei. Uploads und Änderungen sind nur simuliert.</span></section>
+</main><div id="toast"></div>
 <script>
-const documents=[
-  {id:'passport',name:'Reisepass',status:'approved',note:'Von der Kanzlei bestätigt.'},
-  {id:'permit',name:'Aktueller Aufenthaltstitel',status:'review',note:'Ist angekommen. Sie müssen nichts tun.'},
-  {id:'registration',name:'Meldebescheinigung',status:'missing',note:'Bitte noch hochladen.'},
-  {id:'income',name:'Einkommensnachweis',status:'rejected',note:'Bitte erneut: Die letzte Seite war abgeschnitten.'},
-  {id:'insurance',name:'Krankenversicherungsnachweis',status:'requested',note:'Bereits angefragt. Noch nicht eingegangen.'},
-  {id:'photo',name:'Biometrisches Lichtbild',status:'approved',note:'Von der Kanzlei bestätigt.'},
-  {id:'form',name:'Antragsangaben',status:'approved',note:'Von der Kanzlei bestätigt.'}
-];
-const labels={approved:'BESTÄTIGT',review:'WIRD GEPRÜFT',missing:'BITTE HOCHLADEN',requested:'ANGEFRAGT',rejected:'BITTE ERNEUT'};
-function actionButton(d){if(d.status==='missing'||d.status==='rejected')return `<button class="button secondary" onclick="simulateUpload('${d.id}')">Demo-Upload</button>`;return `<span class="pill ${d.status}">${labels[d.status]}</span>`}
-function render(){
-  document.getElementById('docs').innerHTML=documents.map(d=>`<div class="doc"><div><h3>${d.name}</h3><p>${d.note}</p></div><div>${actionButton(d)}</div></div>`).join('');
-  const confirmed=documents.filter(d=>d.status==='approved').length,review=documents.filter(d=>d.status==='review').length,open=documents.length-confirmed-review;
-  confirmedCount.textContent=confirmed;reviewCount.textContent=review;missingCount.textContent=open;
-  const next=documents.find(d=>d.status==='rejected')||documents.find(d=>d.status==='missing');
-  if(next){nextTitle.textContent=(next.status==='rejected'?'Bitte erneut hochladen: ':'Bitte hochladen: ')+next.name;nextText.textContent=next.note}
-  else{nextCard.innerHTML='<div class="eyebrow">Ihr nächster Schritt</div><h2>Sie müssen gerade nichts tun ✓</h2><p>Alle benötigten Unterlagen sind eingegangen. Die Kanzlei prüft den Rest.</p>'}
-}
-function simulateUpload(id){const d=documents.find(x=>x.id===id);if(!d)return;d.status='review';d.note='Demo: Eingang bestätigt – die Kanzlei würde diese Unterlage jetzt prüfen.';show('Demo: Unterlage als eingegangen markiert. Es wurde keine Datei übertragen.');render()}
-function show(t){toast.textContent=t;toast.style.display='block';setTimeout(()=>toast.style.display='none',3000)}
+let lang='de';
+const docs=[
+{id:'passport',de:'Reisepass',vi:'Hộ chiếu',state:'approved'},
+{id:'permit',de:'Aktueller Aufenthaltstitel',vi:'Giấy phép cư trú hiện tại',state:'review'},
+{id:'registration',de:'Meldebescheinigung',vi:'Giấy đăng ký cư trú',state:'missing'},
+{id:'income',de:'Einkommensnachweis',vi:'Chứng minh thu nhập',state:'rejected',noteDe:'Bitte erneut: letzte Seite war abgeschnitten.',noteVi:'Vui lòng nộp lại: trang cuối bị cắt mất.'},
+{id:'insurance',de:'Krankenversicherungsnachweis',vi:'Chứng minh bảo hiểm y tế',state:'missing'},
+{id:'photo',de:'Biometrisches Lichtbild',vi:'Ảnh sinh trắc học',state:'approved'}];
+const stateLabels={approved:{de:'BESTÄTIGT',vi:'ĐÃ XÁC NHẬN'},review:{de:'WIRD GEPRÜFT',vi:'ĐANG KIỂM TRA'},missing:{de:'FEHLT',vi:'CÒN THIẾU'},rejected:{de:'BITTE ERNEUT',vi:'VUI LÒNG NỘP LẠI'},change:{de:'ÄNDERUNG WIRD GEPRÜFT',vi:'ĐANG KIỂM TRA THAY ĐỔI'}};
+function setLang(l){lang=l;document.documentElement.lang=l;de.classList.toggle('active',l==='de');vi.classList.toggle('active',l==='vi');document.querySelectorAll('[data-de]').forEach(el=>el.textContent=el.dataset[l]);const ta=document.getElementById('adjustText');ta.placeholder=ta.dataset['placeholder'+(l==='de'?'De':'Vi')];render()}
+function render(){docsEl=document.getElementById('docs');docsEl.innerHTML=docs.map(d=>{const label=lang==='vi'?d.vi:d.de;const trans=lang==='vi'?'DE: '+d.de:'VI: '+d.vi;const note=lang==='vi'?d.noteVi:d.noteDe;const action=(d.state==='missing'||d.state==='rejected')?`<button onclick="simulateUpload('${d.id}')">${lang==='vi'?'Tải lên':'Upload'}</button>`:'';const mismatch=(d.state!=='approved'&&d.state!=='change')?`<button onclick="notApplicable('${d.id}')">${lang==='vi'?'Không áp dụng':'Passt nicht'}</button>`:'';return `<div class="doc"><div class="dochead"><div><h3>${label}</h3><p class="translation">${trans}</p>${note?`<p class="note">${note}</p>`:''}</div><span class="pill ${d.state}">${stateLabels[d.state][lang]}</span></div><div class="actions">${action}${mismatch}</div></div>`}).join('');updateMetrics();updateNext()}
+function updateMetrics(){okCount.textContent=docs.filter(d=>d.state==='approved').length;reviewCount.textContent=docs.filter(d=>d.state==='review'||d.state==='change').length;openCount.textContent=docs.filter(d=>d.state==='missing'||d.state==='rejected').length}
+function updateNext(){const n=docs.find(d=>d.state==='rejected')||docs.find(d=>d.state==='missing');if(n){nextTitle.textContent=(n.state==='rejected'?(lang==='vi'?'Vui lòng tải lại: ':'Bitte erneut hochladen: '):(lang==='vi'?'Vui lòng tải lên: ':'Bitte hochladen: '))+(lang==='vi'?n.vi:n.de);nextUpload.style.display='inline-block';nextUpload.onclick=()=>simulateUpload(n.id)}else{nextTitle.textContent=lang==='vi'?'Hiện tại bạn không cần làm gì ✓':'Sie müssen gerade nichts tun ✓';nextUpload.style.display='none'}}
+function simulateUpload(id){const d=docs.find(x=>x.id===id);d.state='review';d.noteDe='Eingegangen – Kanzlei prüft.';d.noteVi='Đã nhận – văn phòng luật sư đang kiểm tra.';toastMsg(lang==='vi'?'Đã mô phỏng tải lên. Không có tệp nào được truyền.':'Upload simuliert. Es wurde keine Datei übertragen.');render()}
+function notApplicable(id){const d=docs.find(x=>x.id===id);d.state='change';toastMsg(lang==='vi'?'Đã gửi yêu cầu thay đổi cho văn phòng luật sư.':'Änderungswunsch an die Kanzlei gesendet.');render()}
+function toggleAdjust(){adjust.classList.toggle('show')}
+function sendAdjust(){if(!adjustText.value.trim())return;toastMsg(lang==='vi'?'Đã gửi. Văn phòng luật sư sẽ kiểm tra.':'Gesendet. Die Kanzlei prüft den Wunsch.');adjustText.value='';adjust.classList.remove('show')}
+function toastMsg(t){toast.textContent=t;toast.style.display='block';setTimeout(()=>toast.style.display='none',2600)}
 render();
 </script>
 </body></html>
