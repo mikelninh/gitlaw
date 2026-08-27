@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "dataset_id": "gitlaw-german-gold",
+  "status": "BLOCKED_NO_LAWYER_APPROVED_GOLD_YET",
+  "counts": {
+    "candidate_unreviewed": 0,
+    "single_review": 0,
+    "approved_gold": 0,
+    "frozen_holdout": 0,
+    "disputed": 0,
+    "retired": 0,
+    "independent_lawyer_reviewers": 0,
+    "task_families": 0
+  },
+  "strict_targets": {
+    "approved_gold": 500,
+    "frozen_holdout": 200,
+    "independent_lawyer_reviewers": 5,
+    "task_families": 12
+  },
+  "rules": [
+    "AI-generated or public-case-derived candidates may accelerate preparation but never count as approved_gold before qualified human review.",
+    "Frozen holdout cases must be designated before tuning against their outcomes.",
+    "Disputed cases are excluded from release metrics until adjudicated.",
+    "Reviewer identity may be pseudonymous in the public repo, but independence and qualification must be auditable in the controlled evidence pack.",
+    "Temporal scope is mandatory because legal correctness depends on the applicable legal state."
+  ]
+}

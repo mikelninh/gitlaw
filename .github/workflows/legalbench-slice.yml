@@ -1,0 +1,65 @@
+name: LegalBench open baseline slice
+
+# Frozen external reasoning-harness evidence; re-run deliberately when the
+# task/model contract changes rather than on every PR synchronize event.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: legalbench-slice-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  baseline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      HF_HUB_DISABLE_TELEMETRY: '1'
+      TOKENIZERS_PARALLELISM: 'false'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: evals/external/requirements-legalbench.txt
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: legalbench-flan-t5-small-v1-${{ runner.os }}
+      - name: Verify licensed slice manifest
+        run: |
+          python - <<'PY'
+          import json
+          m=json.load(open('evals/external/legalbench_slice.json', encoding='utf-8'))
+          assert m['github_revision'] == 'b46bf4ffae90524b2b72aaa30e7745fe9db64481', m
+          assert m['dataset_revision'] == 'daec8237410aa23e3faf4bc41ad8b3a7e1696826', m
+          assert [x['id'] for x in m['tasks']] == ['hearsay','proa','overruling','ucc_v_common_law'], m
+          assert all(x['license'] == 'CC-BY-4.0' for x in m['tasks']), m
+          print('LEGALBENCH_LICENSED_SLICE_MANIFEST=PASS')
+          PY
+      - name: Install pinned baseline dependencies
+        run: pip install -r evals/external/requirements-legalbench.txt
+      - name: Execute four-task open reasoning baseline
+        run: |
+          python evals/external/run_legalbench_slice.py \
+            --json-out legalbench-slice.json
+      - name: Verify result integrity and print scoreboard
+        run: |
+          python - <<'PY'
+          import json
+          r=json.load(open('legalbench-slice.json', encoding='utf-8'))
+          assert r['status'] == 'OBSERVED_EXTERNAL_LEGALBENCH_OPEN_BASELINE_SLICE', r
+          assert r['dataset_revision'] == 'daec8237410aa23e3faf4bc41ad8b3a7e1696826', r
+          assert r['summary']['n_tasks'] == 4, r
+          assert r['summary']['n_test_total'] == 2677, r
+          print('MACRO_ACCURACY=' + str(r['summary']['macro_accuracy']))
+          print('MODEL_ROLE=' + r['model_role'])
+          PY
+      - uses: actions/upload-artifact@v4
+        if: ${{ always() && hashFiles('legalbench-slice.json') != '' }}
+        with:
+          name: legalbench-open-baseline-slice
+          path: legalbench-slice.json
+          if-no-files-found: error
+          retention-days: 30

@@ -1,56 +1,23 @@
-name: Viewer CI
+name: GerLayQA dev-only retrieval tuning
 
+# Deliberate evidence job. The active PR execution is temporarily routed through
+# german-public-contract.yml because new workflows are not reliably dispatched
+# until present on the base branch. Keep this standalone workflow manual-only.
 on:
-  pull_request:
-    paths:
-      - 'viewer/**'
-      - 'api/**'
-      - 'laws/bgb.md'
-      - '.github/workflows/viewer-ci.yml'
-  push:
-    branches:
-      - agent/mietrecht-research-desk
-    paths:
-      - 'viewer/**'
-      - 'api/**'
-      - 'laws/bgb.md'
-      - '.github/workflows/viewer-ci.yml'
+  workflow_dispatch:
 
 concurrency:
-  group: viewer-ci-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: true
+  group: gerlayqa-dev-tuning-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  TOKENIZERS_PARALLELISM: 'false'
+  HF_HUB_DISABLE_TELEMETRY: '1'
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-          cache-dependency-path: viewer/package-lock.json
-      - name: Install viewer dependencies
-        working-directory: viewer
-        run: npm install --no-audit --no-fund
-      - name: Run Mietrecht regression
-        working-directory: viewer
-        run: node scripts/mietrecht-regression.mjs
-      - name: Run cross-domain routing regression
-        working-directory: viewer
-        run: node --experimental-strip-types scripts/legal-scenario-regression.mjs
-      - name: Build viewer
-        working-directory: viewer
-        run: npm run build
-
-  gerlayqa-dev-selection:
-    if: ${{ github.event_name == 'pull_request' && github.head_ref == 'feat/ypog-legal-ai-proof' }}
-    runs-on: ubuntu-24.04-arm
+  tune-on-dev-only:
+    runs-on: ubuntu-22.04
     timeout-minutes: 90
-    env:
-      TOKENIZERS_PARALLELISM: 'false'
-      HF_HUB_DISABLE_TELEMETRY: '1'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -59,13 +26,13 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface
-          key: gerlayqa-dev-tuning-arm64-${{ runner.os }}-${{ hashFiles('evals/german_public/requirements.txt') }}
+          key: gerlayqa-dev-tuning-${{ runner.os }}-${{ hashFiles('evals/german_public/requirements.txt') }}
           restore-keys: |
             german-retrieval-${{ runner.os }}-
             retrieval-models-${{ runner.os }}-
       - name: Install German retrieval dependencies
         run: pip install -r evals/german_public/requirements.txt
-      - name: Verify DEV-only anti-leak contract
+      - name: Anti-leak source contract
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -75,11 +42,11 @@ jobs:
           assert 'DEV_PATH = "data/bgb_dev.json"' in src, 'DEV split pin missing'
           print('GERLAYQA_DEV_ANTI_LEAK_CONTRACT=PASS')
           PY
-      - name: Select one retrieval recipe on DEV only
+      - name: Select retrieval recipe on development split only
         run: |
           python evals/german_public/run_gerlayqa_dev_tuning.py \
             --json-out gerlayqa-dev-recipe.json
-      - name: Verify frozen-selection boundary
+      - name: Verify recipe-selection boundary
         run: |
           python - <<'PY'
           import json

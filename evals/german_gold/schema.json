@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gitlaw.local/evals/german_gold/schema.json",
+  "title": "GitLaw German Legal Gold Case",
+  "type": "object",
+  "required": [
+    "case_id",
+    "task_family",
+    "jurisdiction",
+    "temporal_scope",
+    "facts",
+    "task",
+    "critical_issues",
+    "critical_authorities",
+    "missing_critical_facts",
+    "expected_abstention",
+    "review"
+  ],
+  "properties": {
+    "case_id": {"type": "string", "minLength": 1},
+    "task_family": {"type": "string", "minLength": 1},
+    "practice_area": {"type": ["string", "null"]},
+    "jurisdiction": {"const": "DE"},
+    "temporal_scope": {
+      "type": "object",
+      "required": ["as_of"],
+      "properties": {
+        "as_of": {"type": "string", "format": "date"},
+        "notes": {"type": ["string", "null"]}
+      },
+      "additionalProperties": false
+    },
+    "facts": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "fact_conflicts": {"type": "array", "items": {"type": "string"}, "default": []},
+    "task": {"type": "string", "minLength": 1},
+    "critical_issues": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "critical_authorities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_id", "critical"],
+        "properties": {
+          "source_id": {"type": "string"},
+          "critical": {"type": "boolean"},
+          "acceptable_alternatives": {"type": "array", "items": {"type": "string"}, "default": []},
+          "reason": {"type": ["string", "null"]}
+        },
+        "additionalProperties": false
+      },
+      "minItems": 1
+    },
+    "irrelevant_or_misleading_authorities": {"type": "array", "items": {"type": "string"}, "default": []},
+    "missing_critical_facts": {"type": "array", "items": {"type": "string"}},
+    "expected_abstention": {"type": "boolean"},
+    "gold_claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["claim_id", "proposition", "supporting_sources"],
+        "properties": {
+          "claim_id": {"type": "string"},
+          "proposition": {"type": "string"},
+          "supporting_sources": {"type": "array", "items": {"type": "string"}},
+          "material": {"type": "boolean", "default": true}
+        },
+        "additionalProperties": false
+      },
+      "default": []
+    },
+    "review": {
+      "type": "object",
+      "required": ["status", "reviewers"],
+      "properties": {
+        "status": {"enum": ["candidate_unreviewed", "single_review", "approved_gold", "disputed", "retired"]},
+        "reviewers": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["reviewer_id", "role", "decision"],
+            "properties": {
+              "reviewer_id": {"type": "string"},
+              "role": {"type": "string"},
+              "decision": {"enum": ["approve", "reject", "needs_revision"]},
+              "reviewed_at": {"type": ["string", "null"]}
+            },
+            "additionalProperties": false
+          }
+        },
+        "frozen_holdout": {"type": "boolean", "default": false}
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

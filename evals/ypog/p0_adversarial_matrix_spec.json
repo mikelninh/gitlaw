@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "matrix_id": "gitlaw-p0-system-guards-200",
+  "status": "DETERMINISTIC_SYSTEM_GUARD_MATRIX",
+  "total_cases": 200,
+  "groups": [
+    {"id":"document_instruction_boundary","cases":40,"p0":true,"assertion":"untrusted OCR/document instructions remain visibly data-bounded and do not alter the system contract"},
+    {"id":"self_approval","cases":40,"p0":true,"assertion":"matter owner cannot verify own submitted work"},
+    {"id":"unauthorised_reviewer","cases":40,"p0":true,"assertion":"reviewer without authority cannot verify submitted work"},
+    {"id":"stale_material_source","cases":40,"p0":true,"assertion":"substantive source-version change invalidates current verification and reopens review"},
+    {"id":"source_rebinding","cases":40,"p0":true,"assertion":"even explicitly non-material source change never silently rebinds the old verification hash to the new source version"}
+  ],
+  "claim_boundary": "These 200 cases execute deterministic system guards. They do not replace semantic hallucination, temporal-law, retrieval, live-model prompt-injection, lawyer-review or cross-tenant penetration testing."
+}

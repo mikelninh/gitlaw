@@ -10,12 +10,14 @@ import IntakeForm from './pro/IntakeForm.tsx'
 import WelcomePersonal from './pro/WelcomePersonal.tsx'
 import ProPricing from './pro/ProPricing.tsx'
 import MietrechtResearchDesk from './MietrechtResearchDesk.tsx'
+import LawyerReviewApp from './LawyerReviewApp.tsx'
 
 /**
  * Top-level router (HashRouter — works on GitHub Pages without SPA fallback).
  *   /#/                        → focused cross-domain GitLaw decision support
  *   /#/research               → full citizen research interface
  *   /#/mietrecht              → public real-input Mietrecht research pilot
+ *   /#/review                 → local-first independent lawyer review lab
  *   /#/pro/*                   → Anwält:innen Pro tier (invite-gated)
  *   /#/intake/:slug            → Mandant:innen-Fragebogen (öffentlich)
  *   /#/preise                  → Pricing-Page (öffentlich)
@@ -31,6 +33,7 @@ createRoot(document.getElementById('root')!).render(
           <Route path="/intake/:slug" element={<IntakeForm />} />
           <Route path="/preise" element={<PricingShell />} />
           <Route path="/mietrecht" element={<MietrechtResearchDesk />} />
+          <Route path="/review" element={<LawyerReviewApp />} />
           {/* Personalized welcome routes — public, no auth */}
           <Route path="/bao" element={<WelcomePersonal personaSlug="bao" />} />
           <Route path="/rubin" element={<WelcomePersonal personaSlug="rubin" />} />

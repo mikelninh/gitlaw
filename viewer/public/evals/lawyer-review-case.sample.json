@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "case_id": "SYN-MIET-001",
+  "practice_area": "Mietrecht",
+  "task": "Prüfe, ob die vorgeschlagene Mieterhöhung auf Basis der vorliegenden Angaben plausibel und review-ready begründet ist. Benenne fehlende Tatsachen und stütze materielle Aussagen mit den bereitgestellten Quellen.",
+  "facts": [
+    "Wohnung in Berlin, 72 m², Mietvertrag seit 2019.",
+    "Nettokaltmiete aktuell 720 EUR; Vermieter verlangt künftig 828 EUR.",
+    "Das Erhöhungsschreiben verweist auf den Berliner Mietspiegel, nennt aber im synthetischen Fall kein konkretes Mietspiegelfeld.",
+    "Eine frühere Mieterhöhung innerhalb der letzten 15 Monate ist im Fallpaket nicht dokumentiert."
+  ],
+  "expected_issues": [
+    {
+      "id": "issue-formal-basis",
+      "label": "Begründungsmittel und formelle Nachvollziehbarkeit",
+      "description": "Erkennt das System, dass die Begründung anhand der angegebenen Vergleichsgrundlage konkret nachvollziehbar sein muss?"
+    },
+    {
+      "id": "issue-cap",
+      "label": "Kappungs- und zeitliche Grenzen",
+      "description": "Erkennt das System, dass Zeitablauf und vorherige Erhöhungen für die Zulässigkeitsprüfung relevant sind?"
+    },
+    {
+      "id": "issue-missing-facts",
+      "label": "Fehlende entscheidungserhebliche Tatsachen",
+      "description": "Fordert das System fehlende Informationen an, statt sie zu erfinden?"
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-1",
+      "text": "Die verlangte Erhöhung beträgt 15 Prozent gegenüber der aktuellen Nettokaltmiete.",
+      "sources": [
+        {
+          "id": "src-letter",
+          "label": "Synthetisches Erhöhungsschreiben",
+          "citation": "720 EUR → 828 EUR",
+          "excerpt": "Die Nettokaltmiete soll von 720 EUR auf 828 EUR steigen."
+        }
+      ]
+    },
+    {
+      "id": "claim-2",
+      "text": "Für eine belastbare rechtliche Prüfung fehlen im Fallpaket Informationen zur konkreten Mietspiegeleinordnung und zu möglichen früheren Mieterhöhungen.",
+      "sources": [
+        {
+          "id": "src-case-facts",
+          "label": "Synthetischer Fall-Snapshot",
+          "citation": "Missing-facts record",
+          "excerpt": "Kein konkretes Mietspiegelfeld; frühere Mieterhöhung innerhalb der letzten 15 Monate nicht dokumentiert."
+        }
+      ]
+    },
+    {
+      "id": "claim-3",
+      "text": "Ohne diese fehlenden Tatsachen sollte das System keine definitive Aussage zur Wirksamkeit der Mieterhöhung treffen.",
+      "sources": [
+        {
+          "id": "src-review-policy",
+          "label": "GitLaw Review Policy — synthetische Testquelle",
+          "citation": "Abstention on material missing facts",
+          "excerpt": "Bei entscheidungserheblichen fehlenden Tatsachen muss die Ausgabe die Lücke kennzeichnen und darf keine definitive Schlussfolgerung vortäuschen."
+        }
+      ]
+    }
+  ],
+  "system": {
+    "system_version": "synthetic-review-demo-v1",
+    "corpus_snapshot": "synthetic-2026-08-26",
+    "trace_id": "trace-syn-miet-001",
+    "generated_at": "2026-08-26T12:00:00Z",
+    "model_identity": "SYNTHETIC-HIDDEN-MODEL-A",
+    "output": "Die Erhöhung von 720 EUR auf 828 EUR entspricht rechnerisch 15 %. Für eine belastbare Beurteilung reichen die vorliegenden Angaben jedoch noch nicht aus. Insbesondere fehlen die konkrete Einordnung in den herangezogenen Mietspiegel sowie Angaben dazu, ob und wann die Miete zuvor erhöht wurde. Diese Punkte können die rechtliche Bewertung verändern. Deshalb sollte die Wirksamkeit nicht abschließend bestätigt werden, bevor die fehlenden Informationen geprüft sind."
+  },
+  "blinding": {
+    "hide_model_identity": true
+  },
+  "notes": "Vollständig synthetischer Demonstrationsfall. Keine echten Mandant:innen- oder Kanzleidaten."
+}

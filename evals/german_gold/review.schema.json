@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gitlaw.local/evals/german_gold/review.schema.json",
+  "title": "GitLaw Independent Lawyer Review",
+  "description": "Backward-compatible review contract. Core fields feed the existing conservative aggregator; optional detail/provenance fields make the raw review auditable without promoting it to product gold.",
+  "type": "object",
+  "required": ["schema_version", "case_id", "reviewer", "system_snapshot", "scores", "terminal_label", "error_tags", "reviewed_at"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "review_id": {"type": "string", "minLength": 1},
+    "case_id": {"type": "string", "minLength": 1},
+    "case_snapshot_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "run_snapshot_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "reviewer": {
+      "type": "object",
+      "required": ["reviewer_id", "role", "independent"],
+      "properties": {
+        "reviewer_id": {"type": "string", "minLength": 1},
+        "role": {"type": "string", "minLength": 1},
+        "independent": {"type": "boolean"},
+        "model_identity_blinded": {"type": "boolean"}
+      },
+      "additionalProperties": false
+    },
+    "system_snapshot": {
+      "type": "object",
+      "required": ["system_version", "corpus_snapshot"],
+      "properties": {
+        "system_version": {"type": "string", "minLength": 1},
+        "corpus_snapshot": {"type": "string", "minLength": 1},
+        "trace_id": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": false
+    },
+    "scores": {
+      "type": "object",
+      "required": ["issue_spotting", "legal_correctness", "completeness", "evidence_presentation", "missing_facts_uncertainty", "lawyer_usefulness"],
+      "properties": {
+        "issue_spotting": {"type": "integer", "minimum": 1, "maximum": 5},
+        "legal_correctness": {"type": "integer", "minimum": 1, "maximum": 5},
+        "completeness": {"type": "integer", "minimum": 1, "maximum": 5},
+        "evidence_presentation": {"type": "integer", "minimum": 1, "maximum": 5},
+        "missing_facts_uncertainty": {"type": "integer", "minimum": 1, "maximum": 5},
+        "lawyer_usefulness": {"type": "integer", "minimum": 1, "maximum": 5}
+      },
+      "additionalProperties": false
+    },
+    "terminal_label": {
+      "enum": [
+        "ACCEPTABLE_WITHOUT_MATERIAL_CORRECTION",
+        "ACCEPTABLE_WITH_MINOR_CORRECTION",
+        "MATERIAL_CORRECTION_REQUIRED",
+        "UNSAFE_OR_MISLEADING"
+      ]
+    },
+    "critical_authority_omitted": {"type": "boolean"},
+    "unsupported_material_claim": {"type": "boolean"},
+    "contradicted_material_claim": {"type": "boolean"},
+    "correct_abstention": {"type": ["boolean", "null"]},
+    "error_tags": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "retrieval_miss", "ranking_error", "wrong_temporal_scope", "citation_resolution",
+          "claim_source_mismatch", "issue_spotting", "missing_fact", "unsupported_inference",
+          "bad_abstention", "tool_policy", "tenant_isolation", "stale_approval", "change_impact",
+          "structured_output", "latency", "cost", "other"
+        ]
+      }
+    },
+    "issue_reviews": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["issue_id", "label", "score"],
+        "properties": {
+          "issue_id": {"type": "string", "minLength": 1},
+          "label": {"type": "string", "minLength": 1},
+          "score": {"type": "integer", "minimum": 0, "maximum": 2},
+          "notes": {"type": "string"}
+        },
+        "additionalProperties": false
+      }
+    },
+    "claim_reviews": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["claim_id", "rating", "expected_source_found", "source_relevance", "temporal_validity", "important_source_omitted", "irrelevant_source_introduced"],
+        "properties": {
+          "claim_id": {"type": "string", "minLength": 1},
+          "rating": {"enum": ["supported", "partially_supported", "unsupported", "contradicted_by_source"]},
+          "expected_source_found": {"type": "boolean"},
+          "source_relevance": {"enum": ["yes", "no", "uncertain"]},
+          "temporal_validity": {"enum": ["yes", "no", "uncertain"]},
+          "important_source_omitted": {"type": "boolean"},
+          "irrelevant_source_introduced": {"type": "boolean"},
+          "notes": {"type": "string"}
+        },
+        "additionalProperties": false
+      }
+    },
+    "workflow_checks": {
+      "type": "object",
+      "properties": {
+        "necessary_tools_only": {"enum": ["yes", "no", "uncertain"]},
+        "within_iteration_cost_limits": {"enum": ["yes", "no", "uncertain"]},
+        "material_claims_traceable": {"enum": ["yes", "no", "uncertain"]},
+        "no_boundary_violation": {"enum": ["yes", "no", "uncertain"]},
+        "changed_source_reopened_review": {"enum": ["yes", "no", "uncertain"]},
+        "no_false_approval_state": {"enum": ["yes", "no", "uncertain"]},
+        "notes": {"type": "string"}
+      },
+      "additionalProperties": false
+    },
+    "integrity": {
+      "type": "object",
+      "required": ["algorithm", "canonicalization", "payload_sha256"],
+      "properties": {
+        "algorithm": {"const": "SHA-256"},
+        "canonicalization": {"const": "sorted-json-v1"},
+        "payload_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+      },
+      "additionalProperties": false
+    },
+    "notes": {"type": "string"},
+    "reviewed_at": {"type": "string", "format": "date-time"}
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,68 @@
+name: External retrieval tournament
+
+# Frozen published-holdout evidence. Re-run deliberately when the retrieval
+# contract changes, not on every PR synchronize event.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: external-retrieval-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  tournament:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      TOKENIZERS_PARALLELISM: 'false'
+      HF_HUB_DISABLE_TELEMETRY: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: evals/external/requirements-tournament.txt
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-retrieval-tournament-v2-${{ runner.os }}
+      - name: Install tournament dependencies
+        run: pip install -r evals/external/requirements-tournament.txt
+      - name: Verify complementarity analyzer contract
+        run: python evals/external/test_retrieval_complementarity.py
+      - name: Execute pinned Legal RAG Bench core tournament
+        run: |
+          python evals/external/run_retrieval_tournament.py \
+            --skip-legal \
+            --json-out retrieval-tournament.json
+      - name: Analyze retrieval complementarity and oracle ceiling
+        run: |
+          python evals/external/analyze_retrieval_complementarity.py \
+            retrieval-tournament.json \
+            --json-out retrieval-complementarity.json
+      - name: Verify tournament integrity and print scoreboard
+        run: |
+          python - <<'PY'
+          import json
+          r=json.load(open('retrieval-tournament.json', encoding='utf-8'))
+          o=json.load(open('retrieval-complementarity.json', encoding='utf-8'))
+          assert r['status'] == 'OBSERVED_EXTERNAL_RETRIEVAL_TOURNAMENT', r
+          assert r['dataset_revision'] == 'db0b31dc6d195ce9916897e1ac5e4e6209736c8a', r
+          assert r['n_questions'] == 100 and r['n_passages'] == 4876, r
+          assert abs(r['methods']['bm25']['hit_at_10'] - 0.31) < 1e-12, r
+          assert abs(o['best_observed_hit_at_10'] - 0.43) < 1e-12, o
+          assert abs(o['oracle_union_hit_at_10'] - 0.58) < 1e-12, o
+          print('WINNER=' + r['winner_by_hit_at_10_then_mrr'])
+          print(f"ORACLE_UNION_HIT10={o['oracle_union_hit_at_10']:.3f}")
+          print(f"ALL_CURRENT_METHODS_MISS={o['queries_missed_by_every_current_method']}")
+          PY
+      - uses: actions/upload-artifact@v4
+        if: ${{ always() && hashFiles('retrieval-tournament.json') != '' }}
+        with:
+          name: legal-rag-bench-retrieval-tournament
+          path: |
+            retrieval-tournament.json
+            retrieval-complementarity.json
+          if-no-files-found: error
+          retention-days: 30

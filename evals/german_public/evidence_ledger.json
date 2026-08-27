@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.5",
+  "status": "GERMAN_PUBLIC_EVIDENCE_TWO_STRICT_SUITES_FROZEN",
+  "principle": "Registration, executable adapter, executed benchmark and release-grade product evidence are distinct states. Benchmark-integrity ceilings and post-hoc oracle unions are reported separately from deployable model capability. Failed or weaker challengers are retained as evidence and never silently promoted.",
+  "benchmarks": {
+    "gerlayqa": {
+      "registration": "PINNED",
+      "adapter": "IMPLEMENTED",
+      "execution": "EXECUTED_AND_INTEGRITY_VERIFIED",
+      "frozen_result": {
+        "github_actions_run_id": 32968628053,
+        "artifact_id": 9607350164,
+        "upstream_commit": "cbc465942f0c1eab25ec8864bc358466e4d88e0e",
+        "raw_eval_questions": 2154,
+        "evaluated_questions": 1840,
+        "excluded_over_300_words": 314,
+        "missing_gold_id_count": 10,
+        "questions_with_all_gold_ids_absent_from_corpus": 2,
+        "winner": "dense_german",
+        "winner_metrics": {
+          "hit_at_1": 0.07065217391304347,
+          "hit_at_5": 0.1815217391304348,
+          "hit_at_10": 0.24021739130434783,
+          "recall_at_10": 0.1775066856452726,
+          "mrr_at_10": 0.1174430641821946,
+          "map_at_10": 0.08931570982861743
+        },
+        "benchmark_ceiling_analysis": {
+          "metric": "hit_at_10",
+          "ceiling_if_every_retrievable_question_were_solved": 0.9989130434782608,
+          "unavoidable_gap_from_two_all-gold-missing_rows": 0.0010869565217391304,
+          "observed_winner_to_corpus_ceiling_gap": 0.758695652173913,
+          "interpretation": "The corpus anomaly makes literal 100% impossible without altering the published benchmark, but explains only about 0.109 percentage points. Roughly 75.87 percentage points of Hit@10 gap remain genuine retriever headroom relative to this corpus ceiling."
+        },
+        "comparison": {
+          "hybrid_german_rrf_hit_at_10": 0.19130434782608696,
+          "bm25_hit_at_10": 0.11684782608695653,
+          "dense_general_hit_at_10": 0.08804347826086957
+        }
+      },
+      "challengers": {
+        "multilingual_e5_small": {
+          "status": "EXECUTED_NOT_PROMOTED",
+          "github_actions_run_id": 32980437580,
+          "artifact_id": 9611476048,
+          "artifact_sha256": "10f062941167fb66d61873aa810d910fb6414e73bf15abeb8d0f7457863ba07d",
+          "model": "intfloat/multilingual-e5-small",
+          "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+          "metrics": {
+            "hit_at_1": 0.041304347826086954,
+            "hit_at_5": 0.11358695652173913,
+            "hit_at_10": 0.16902173913043478,
+            "recall_at_10": 0.12346381124913734,
+            "mrr_at_10": 0.0729757591442374,
+            "map_at_10": 0.05400574030940879
+          },
+          "hit_at_10_delta_vs_frozen_winner": -0.07119565217391305,
+          "mrr_at_10_delta_vs_frozen_winner": -0.0444673050379572,
+          "promotion": "REJECTED_AS_DEFAULT_ON_THIS_HOLDOUT"
+        }
+      },
+      "post_hoc_complementarity_diagnostic": {
+        "status": "DIAGNOSTIC_NOT_DEPLOYABLE_ROUTING",
+        "source_artifact_ids": [9607350164, 9611476048],
+        "e5_recovers_frozen_dense_german_misses": 97,
+        "e5_unique_top10_hits_vs_all_previous_methods": 67,
+        "previous_all_method_oracle_union_hit_at_10": 0.3163,
+        "all_method_oracle_union_with_e5_hit_at_10": 0.3527,
+        "previous_queries_missed_by_every_method": 1258,
+        "queries_missed_by_every_method_with_e5": 1191,
+        "claim_boundary": "This union is computed after observing holdout outcomes. It is a diagnostic upper bound only and must not be reported as deployable retrieval accuracy or used to hand-route the same eval questions."
+      },
+      "known_benchmark_integrity_issue": "10 published gold paragraph ids are absent from the pinned BGB corpus; 2 evaluated questions have all published gold ids absent. They remain in the denominator and are reported explicitly rather than repaired after inspecting labels.",
+      "claim_scope": "German BGB paragraph retrieval on pinned historical GerLayQA eval split",
+      "counts_as_product_gold": false
+    },
+    "gerdalir": {
+      "registration": "PINNED",
+      "adapter": "IMPLEMENTED_TOP200_CHUNKED_WITH_EQUIVALENCE_CHECKED_BM25",
+      "execution": "EXECUTED_AND_INTEGRITY_VERIFIED",
+      "frozen_result": {
+        "github_actions_run_id": 32968628053,
+        "github_actions_job_id": 98177468270,
+        "artifact_id": 9612590641,
+        "artifact_sha256": "78e087237d509710319abbcf2c1a5a61c4f3243749c3cc37a943dd678259ea59",
+        "dataset_id": "mteb/GerDaLIRSmall",
+        "dataset_revision": "48327de6ee192e9610f3069789719788957c7abd",
+        "dataset_license": "MIT",
+        "counts": {
+          "documents": 9969,
+          "queries": 12234,
+          "positive_relevance_labels": 14320
+        },
+        "winner": "bm25",
+        "winner_metrics": {
+          "precision_at_10": 0.07600130783063593,
+          "recall_at_10": 0.655989,
+          "f1_at_10": 0.134353,
+          "mrr_at_10": 0.53224,
+          "map_at_10": 0.510668,
+          "hit_at_1": 0.456678,
+          "hit_at_5": 0.633317,
+          "hit_at_10": 0.680644
+        },
+        "comparison": {
+          "hybrid_german_rrf": {"hit_at_1": 0.196829, "hit_at_5": 0.434445, "hit_at_10": 0.573565, "mrr_at_10": 0.298379},
+          "dense_german": {"hit_at_1": 0.09024, "hit_at_5": 0.167893, "hit_at_10": 0.211542, "mrr_at_10": 0.124248},
+          "dense_general": {"hit_at_1": 0.015122, "hit_at_5": 0.029998, "hit_at_10": 0.039153, "mrr_at_10": 0.021769}
+        },
+        "models": {
+          "dense_general": {"model": "sentence-transformers/all-MiniLM-L6-v2", "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41"},
+          "dense_german": {"model": "PM-AI/bi-encoder_msmarco_bert-base_german", "revision": "e9f98f27a8a7ef4267c43ccffcba6374ce5ff9c2"}
+        },
+        "bm25_integrity": {
+          "implementation": "inverted_postings_rank_bm25_equivalent",
+          "equivalence_self_check": true,
+          "equivalence_actual_query_checks": 8,
+          "all_actual_query_checks_passed": true
+        },
+        "interpretation": "On the pinned German case-law task, lexical BM25 decisively beats both dense baselines and symmetric hybrid RRF. This is evidence for task-aware retrieval rather than a universal dense or universal hybrid default."
+      },
+      "resource_contract": "top-200 rankings retained; dense query-document scores chunked; optimized BM25 passes rank_bm25 equivalence checks; completed methods checkpointed",
+      "claim_scope": "German case-law retrieval on pinned MTEB GerDaLIRSmall test task only",
+      "counts_as_product_gold": false
+    },
+    "gerlerb": {
+      "registration": "REGISTERED_WITH_CHECKSUMS",
+      "adapter": "PENDING_LICENSE_CLEARANCE_AND_RUNNER",
+      "execution": "BLOCKED_LICENSE_STATUS_NOT_YET_VERIFIED",
+      "frozen_result": null,
+      "claim_scope": "German statute retrieval only",
+      "counts_as_product_gold": false
+    },
+    "legalquad_candidate": {
+      "registration": "PINNED_MTEB_MIRROR",
+      "adapter": "IMPLEMENTED_PROVENANCE_GATED_CANDIDATE",
+      "execution": "EXECUTED_AND_INTEGRITY_VERIFIED_CANDIDATE_ONLY",
+      "frozen_result": {
+        "github_actions_run_id": 32977330017,
+        "artifact_id": 9610149406,
+        "dataset_revision": "d9a3183ea8b7a592a5a0e008a50847377e719109",
+        "counts": {"corpus": 200, "queries": 200, "qrels": 200},
+        "source_sha256": {
+          "corpus.jsonl": "8386d84536438970005fa167ac2c455b21abbc038c94dc1acb1d805149fa092f",
+          "queries.jsonl": "374918cd3199ae3d59c55df5aa8b7e128a64b38abbe56aa2c7bdf4510cd1fc7e",
+          "qrels/test.jsonl": "455f7bc1f9142141dd266b496a54b490aa678cf9828f78d56f1e13d5b6d4485d"
+        },
+        "winner": "bm25",
+        "winner_metrics": {"hit_at_1": 0.665, "hit_at_5": 0.81, "hit_at_10": 0.845, "recall_at_10": 0.845, "mrr_at_10": 0.7223670634920636},
+        "comparison": {
+          "hybrid_german_rrf_hit_at_10": 0.755,
+          "dense_german_hit_at_10": 0.45,
+          "dense_general_hit_at_10": 0.2
+        }
+      },
+      "challengers": {
+        "multilingual_e5_small": {
+          "status": "EXECUTED_COMPLEMENTARY_NOT_DEFAULT",
+          "github_actions_run_id": 32980437293,
+          "artifact_id": 9611404897,
+          "artifact_sha256": "49e080630d79c417cf6fdec8706ba058d33f90c1ffefb58f762f63d04f3687ee",
+          "model": "intfloat/multilingual-e5-small",
+          "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+          "metrics": {"hit_at_1": 0.34, "hit_at_5": 0.545, "hit_at_10": 0.63, "recall_at_10": 0.63, "mrr_at_10": 0.4301785714285715},
+          "hit_at_10_delta_vs_dense_german": 0.18,
+          "hit_at_10_delta_vs_bm25": -0.215
+        }
+      },
+      "post_hoc_complementarity_diagnostic": {
+        "status": "DIAGNOSTIC_NOT_DEPLOYABLE_ROUTING",
+        "source_artifact_id": 9611404897,
+        "bm25_plus_e5_oracle_union_hit_at_10": 0.93,
+        "all_baselines_plus_e5_oracle_union_hit_at_10": 0.94,
+        "e5_recovers_bm25_misses": 17,
+        "e5_unique_top10_hits_vs_all_previous_methods": 9,
+        "claim_boundary": "Post-hoc union uses test outcomes after the fact and is not deployable accuracy."
+      },
+      "mirror_declared_license": "CC-BY-4.0",
+      "original_reference_repo_license_file_observed": false,
+      "rights_status": "UPSTREAM_RIGHTS_CONFIRMATION_REQUIRED_BEFORE_STRICT_GATE",
+      "counts_as_strict_third_german_suite": false,
+      "claim_scope": "German legal-document retrieval capability candidate only",
+      "counts_as_product_gold": false
+    }
+  },
+  "summary": {
+    "registered_strict_suites": 3,
+    "strict_suites_executed_and_frozen": 2,
+    "strict_target_executed_suites": 3,
+    "strict_suites_remaining": ["gerlerb"],
+    "additional_provenance_gated_candidates": 1,
+    "provenance_gated_candidates_executed_and_frozen": 1,
+    "lawyer_approved_product_gold_created_by_this_layer": 0,
+    "next_scientific_step": "Select query sanitation and asymmetric rank-fusion recipe on GerLayQA DEV only, freeze it, then execute exactly once on the separate eval split."
+  }
+}

@@ -1,0 +1,104 @@
+name: Lawyer review instrument
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'evals/german_gold/review.schema.json'
+      - 'evals/german_gold/review_aggregator.py'
+      - 'evals/german_gold/test_review_aggregator.py'
+      - 'evals/german_gold/build_review_packet.py'
+      - 'evals/german_gold/test_build_review_packet.py'
+      - 'evals/german_gold/prepare_pilot_candidates.py'
+      - 'evals/gitlaw_qa_set.json'
+      - 'viewer/public/ypog/review/**'
+      - 'viewer/public/evals/lawyer-review-case.sample.json'
+      - 'viewer/src/LawyerReviewApp.tsx'
+      - 'viewer/src/lawyer-review.ts'
+      - 'viewer/src/main.tsx'
+      - 'docs/ypog/REVIEWER_PILOT_RUNBOOK.md'
+      - 'scripts/german-gold-gate.mjs'
+      - '.github/workflows/lawyer-review-instrument.yml'
+  pull_request:
+    paths:
+      - 'evals/german_gold/review.schema.json'
+      - 'evals/german_gold/review_aggregator.py'
+      - 'evals/german_gold/test_review_aggregator.py'
+      - 'evals/german_gold/build_review_packet.py'
+      - 'evals/german_gold/test_build_review_packet.py'
+      - 'evals/german_gold/prepare_pilot_candidates.py'
+      - 'evals/gitlaw_qa_set.json'
+      - 'viewer/public/ypog/review/**'
+      - 'viewer/public/evals/lawyer-review-case.sample.json'
+      - 'viewer/src/LawyerReviewApp.tsx'
+      - 'viewer/src/lawyer-review.ts'
+      - 'viewer/src/main.tsx'
+      - 'docs/ypog/REVIEWER_PILOT_RUNBOOK.md'
+      - 'scripts/german-gold-gate.mjs'
+      - '.github/workflows/lawyer-review-instrument.yml'
+
+concurrency:
+  group: lawyer-review-instrument-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  review-instrument:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: viewer/package-lock.json
+      - name: Prepare frozen 20-case unreviewed pilot packets
+        run: |
+          python evals/german_gold/prepare_pilot_candidates.py --out-dir /tmp/gitlaw-review-candidates
+          python - <<'PY'
+          import json, pathlib
+          root=pathlib.Path('/tmp/gitlaw-review-candidates')
+          manifest=json.load(open(root/'manifest.json', encoding='utf-8'))
+          assert manifest['status'] == 'FROZEN_UNREVIEWED_PILOT_CANDIDATES', manifest
+          assert manifest['candidate_count'] == 20, manifest
+          assert manifest['approved_gold_count'] == 0, manifest
+          packets=[p for p in root.glob('DE-PILOT-*.json')]
+          assert len(packets) == 20, len(packets)
+          for path in packets:
+              c=json.load(open(path, encoding='utf-8'))
+              assert c['review']['status'] == 'candidate_unreviewed', path
+              assert c['review']['reviewers'] == [], path
+              assert c['review']['frozen_holdout'] is False, path
+          print('PILOT_CANDIDATE_PREP=PASS')
+          PY
+      - name: Review packet packaging contract
+        run: python evals/german_gold/test_build_review_packet.py
+      - name: Review aggregator + integrity tamper contract
+        run: python evals/german_gold/test_review_aggregator.py
+      - name: German Gold + immutable review anti-inflation gate
+        run: node scripts/german-gold-gate.mjs
+      - name: Static legacy reviewer workbench safety contract
+        run: |
+          test -f viewer/public/ypog/review/index.html
+          grep -q 'This does not create gold automatically' viewer/public/ypog/review/index.html
+          grep -q 'Never paste confidential client data' viewer/public/ypog/review/index.html
+          grep -q 'Everything on this page stays in the browser' viewer/public/ypog/review/index.html
+          grep -q 'independent reviewer' viewer/public/ypog/review/index.html
+      - name: Build integrated Lawyer Review Lab
+        working-directory: viewer
+        run: |
+          npm ci --no-audit --no-fund
+          npm run build
+      - name: Runbook anti-inflation contract
+        run: |
+          grep -q 'do not count as satisfying' docs/ypog/REVIEWER_PILOT_RUNBOOK.md
+          grep -q 'A candidate is never promoted merely because a JSON review file exists' docs/ypog/REVIEWER_PILOT_RUNBOOK.md
+          grep -q 'payload SHA-256' docs/ypog/REVIEWER_PILOT_RUNBOOK.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: german-gold-20-unreviewed-pilot-candidates
+          path: /tmp/gitlaw-review-candidates
+          if-no-files-found: error
+          retention-days: 30

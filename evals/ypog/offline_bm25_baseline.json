@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "status": "observed_diagnostic_baseline",
+  "measured_in_github_actions": "2026-08-26",
+  "runner": "evals/ypog/run_offline_retrieval_eval.py",
+  "dataset": "evals/gitlaw_qa_set.json",
+  "n_questions": 20,
+  "corpus_build": {
+    "law_files_loaded": 5984,
+    "chunks": 99262
+  },
+  "metrics": {
+    "retrieval_at_1": 0.0,
+    "retrieval_at_3": 0.05,
+    "retrieval_at_5": 0.05,
+    "retrieval_at_10": 0.05
+  },
+  "interpretation": "Sparse BM25 alone is insufficient on this small semantic legal-question seed set. This is a diagnostic component benchmark, not the GitLaw hybrid/semantic product quality and not a legal-quality release gate.",
+  "claim_boundary": "Do not compare this BM25-only number directly with the historical retrieval run as if both used the same retrieval strategy. Use it for reproducibility and component-regression analysis."
+}

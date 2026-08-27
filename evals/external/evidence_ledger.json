@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.5",
+  "status": "EXTERNAL_COMPONENT_EVIDENCE_FROZEN_WITH_COMPLEMENTARITY_FULL_SUITES_PENDING",
+  "principle": "A benchmark is not counted as evidence merely because its adapter or manifest exists. Component runs and full benchmark suites are counted separately. Failed-to-load challengers never receive synthetic scores, and post-hoc oracle unions are diagnostic ceilings rather than deployable accuracy.",
+  "benchmarks": {
+    "legalbench-rag": {
+      "registration": "PINNED",
+      "adapter": "CHARACTER_SPAN_SCORER_IMPLEMENTED",
+      "component_run": "PENDING_LICENSED_DATA_SETUP",
+      "full_run": "PENDING_DATA_SETUP_AND_EXECUTION",
+      "measured_score": null,
+      "claim_scope": "external retrieval comparability only"
+    },
+    "legalbench": {
+      "registration": "PINNED",
+      "adapter": "FOUR_TASK_LICENSED_SLICE_IMPLEMENTED",
+      "component_run": {
+        "status": "EXECUTED_FOUR_TASK_OPEN_BASELINE_SLICE",
+        "github_actions_run_id": 32977330014,
+        "artifact_id": 9610142063,
+        "dataset": "nguha/legalbench",
+        "dataset_revision": "daec8237410aa23e3faf4bc41ad8b3a7e1696826",
+        "github_upstream_commit": "b46bf4ffae90524b2b72aaa30e7745fe9db64481",
+        "tasks": ["hearsay", "proa", "overruling", "ucc_v_common_law"],
+        "task_license_contract": "CC-BY-4.0_PER_SELECTED_TASK",
+        "model": "google/flan-t5-small",
+        "model_revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab",
+        "model_role": "OPEN_BASELINE_HARNESS_PROOF_NOT_GITLAW_PRODUCT_MODEL",
+        "evaluation_mode": "ZERO_SHOT_DETERMINISTIC_GREEDY_GENERATION",
+        "n_tasks": 4,
+        "n_test_total": 2677,
+        "macro_accuracy": 0.49933166248955724,
+        "weighted_accuracy": 0.49308927904370564,
+        "weighted_parse_rate": 1.0,
+        "task_scores": {
+          "hearsay": {"n_test": 94, "accuracy": 0.5638297872340425, "test_rows_sha256": "b9d7def3c8227d6b9d2154e8a0cddaf9686732d648d094fb04d8eb5575d13f2f"},
+          "proa": {"n_test": 95, "accuracy": 0.5052631578947369, "test_rows_sha256": "8d924848bf232d25a436d2e937d5f4f04b9255ebe72410ea00cf565b19eef990"},
+          "overruling": {"n_test": 2394, "accuracy": 0.49206349206349204, "test_rows_sha256": "bdff0905f9bc637685c5e0872425b9cd900d7c7d02f46be54284bad5a169bafd"},
+          "ucc_v_common_law": {"n_test": 94, "accuracy": 0.43617021276595747, "test_rows_sha256": "000869a9c976cdbe12c4f92b5b864c12252345e2a7f48064d0779340b22ae425"}
+        }
+      },
+      "full_run": "PENDING_FULL_162_TASK_EXECUTION",
+      "measured_full_score": null,
+      "claim_scope": "four-task English external legal-reasoning harness evidence only; not product-model quality"
+    },
+    "legal-rag-bench": {
+      "registration": "PINNED_CODE_AND_DATASET",
+      "adapter": "ORACLE_DECOMPOSITION_AND_COMPLEMENTARITY_ANALYSIS_IMPLEMENTED",
+      "component_runs": [
+        {
+          "type": "BM25_RETRIEVAL_DIAGNOSTIC",
+          "result": "evals/external/results/legal_rag_bench_bm25_20260826.json",
+          "metrics": {"hit_at_1": 0.14, "hit_at_5": 0.30, "hit_at_10": 0.31, "mrr": 0.21812319724933016}
+        },
+        {
+          "type": "GENERAL_SEMANTIC_RETRIEVAL_TOURNAMENT_WITH_COMPLEMENTARITY",
+          "github_actions_run_id": 32980437210,
+          "artifact_id": 9611671887,
+          "artifact_sha256": "bb74898f9d460fcbf34e9f757dad9bdb5f00d307f9c676be9d61358d9f70d89a",
+          "dataset_revision": "db0b31dc6d195ce9916897e1ac5e4e6209736c8a",
+          "n_questions": 100,
+          "n_passages": 4876,
+          "models": {
+            "dense_general": {"model": "sentence-transformers/all-MiniLM-L6-v2", "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41"},
+            "reranker_generic": {"model": "cross-encoder/ms-marco-MiniLM-L6-v2", "revision": "233902d25c440f23af6f7d6e94d2946bac0bee0a"}
+          },
+          "winner": "hybrid_general_rrf",
+          "winner_metrics": {"hit_at_1": 0.16, "hit_at_5": 0.33, "hit_at_10": 0.43, "mrr": 0.2550817454048586},
+          "comparison": {
+            "bm25": {"hit_at_1": 0.14, "hit_at_5": 0.30, "hit_at_10": 0.31, "mrr": 0.21812319724933016},
+            "dense_general": {"hit_at_1": 0.08, "hit_at_5": 0.29, "hit_at_10": 0.35, "mrr": 0.18998425168010416},
+            "hybrid_general_reranked": {"hit_at_1": 0.07, "hit_at_5": 0.20, "hit_at_10": 0.32, "mrr": 0.1499631265079643}
+          },
+          "rejected_default": "hybrid_general_reranked",
+          "rejected_reason": "generic cross-encoder reduced Hit@10 from 0.43 to 0.32",
+          "post_hoc_complementarity_diagnostic": {
+            "status": "DIAGNOSTIC_ORACLE_COMPLEMENTARITY_NOT_PRODUCTION_ROUTING",
+            "oracle_union_hit_at_10": 0.58,
+            "best_observed_hit_at_10": 0.43,
+            "recoverable_headroom_if_perfect_router_existed": 0.15,
+            "queries_missed_by_every_current_method": 42,
+            "all_current_methods_miss_rate": 0.42,
+            "unique_top10_hits": {"bm25": 1, "dense_general": 6, "hybrid_general_rrf": 4, "hybrid_general_reranked": 5},
+            "best_pair": {"methods": ["dense_general", "hybrid_general_rrf"], "oracle_union_hit_at_10": 0.52},
+            "claim_boundary": "Oracle union uses test outcomes after the fact and is only a diagnostic upper bound. It is not deployable retrieval accuracy and cannot justify per-query routing on the same holdout."
+          }
+        }
+      ],
+      "specialist_legal_dense_challenger": {
+        "model": "Hanno-Labs/dinghy-law-0.6b-v1",
+        "standard_cpu_ci_status": "NOT_RUN",
+        "score": null,
+        "reason": "observed CPU corpus encoding throughput projects to multi-hour execution and exceeds the standard evidence-job budget; timeout is not scored as model quality"
+      },
+      "legal_contract_reranker_challenger": {
+        "model": "datgacon/cuad-cross-encoder-v11",
+        "github_actions_run_id": 32977330197,
+        "status": "BLOCKED_ONNX_ONLY_STANDARD_CROSSENCODER_LOAD",
+        "score": null,
+        "reason": "sentence-transformers CrossEncoder could not load the repository because the standard PyTorch/safetensors weight files it expects are absent. The run failed before prediction, so this is an integration blocker, not negative model-quality evidence."
+      },
+      "full_run": "PENDING_GENERATIVE_AND_ORACLE_EXECUTION",
+      "measured_full_score": null,
+      "claim_scope": "external retrieval component evidence plus retrieval-vs-reasoning methodology"
+    }
+  },
+  "summary": {
+    "registered": 3,
+    "component_runs_completed": 3,
+    "full_runs_completed": 0,
+    "external_component_scores_claimable_with_scope": 3,
+    "external_full_suite_scores_claimable": 0,
+    "retrieval_architecture_signal": "Existing methods have meaningful complementary coverage, but the 42% all-method miss rate shows new candidate-generation signal remains more important than routing alone."
+  }
+}

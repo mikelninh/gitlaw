@@ -1,0 +1,23 @@
+{
+  "benchmark": "synthetic",
+  "methods": {
+    "a": {"rows": [
+      {"question_index": 0, "rank": 1},
+      {"question_index": 1, "rank": null},
+      {"question_index": 2, "rank": 9},
+      {"question_index": 3, "rank": null}
+    ]},
+    "b": {"rows": [
+      {"question_index": 0, "rank": null},
+      {"question_index": 1, "rank": 3},
+      {"question_index": 2, "rank": null},
+      {"question_index": 3, "rank": null}
+    ]},
+    "c": {"rows": [
+      {"question_index": 0, "rank": 12},
+      {"question_index": 1, "rank": null},
+      {"question_index": 2, "rank": 4},
+      {"question_index": 3, "rank": null}
+    ]}
+  }
+}

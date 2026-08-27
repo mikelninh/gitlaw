@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f6f7f9">
+<title>GitLaw Pro × YPOG — Legal AI Proof</title>
+<meta name="description" content="GitLaw Pro proof package for production-oriented Legal AI: external benchmarks, German-law ground truth, agents, tracing, guardrails and human review.">
+<style>
+:root{--bg:#f6f7f9;--surface:#fff;--ink:#14213a;--soft:#36445d;--muted:#66758d;--line:#dde4ed;--blue:#2468e5;--blueSoft:#edf4ff;--green:#247a4b;--greenSoft:#eef8f2;--amber:#a96a0d;--amberSoft:#fff5e5;--red:#b64e47;--redSoft:#fff0ee;--radius:22px;--shadow:0 20px 60px rgba(20,33,58,.07)}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 50% -10%,#fff,transparent 38rem),var(--bg);color:var(--ink);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}a{color:inherit}.wrap{width:min(1160px,calc(100% - 28px));margin:auto}.top{height:72px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line)}.brand{font-weight:800;text-decoration:none;font-size:20px;letter-spacing:-.03em}.nav{display:flex;gap:14px;align-items:center}.nav a{font-size:14px;color:var(--muted);text-decoration:none}.pill{border:1px solid var(--line);padding:7px 11px;border-radius:999px;background:#fff}.hero{padding:68px 0 38px}.kicker{font-size:12px;font-weight:850;letter-spacing:.1em;text-transform:uppercase;color:var(--blue)}h1,h2,h3{letter-spacing:-.035em;line-height:1.08}.hero h1{font-size:clamp(44px,7vw,78px);margin:12px 0 18px;max-width:980px}.hero p{max-width:850px;font-size:20px;color:var(--muted);margin:0}.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:26px}.btn{display:inline-flex;padding:12px 16px;border-radius:13px;text-decoration:none;font-weight:760;border:1px solid var(--line);background:#fff}.btn.primary{background:var(--blue);color:#fff;border-color:var(--blue)}.truth{margin-top:30px;padding:18px 20px;border-radius:18px;background:var(--amberSoft);border:1px solid #efd8ad;color:#6f4b14;font-weight:650}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:28px 0 14px}.stat{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:20px;box-shadow:var(--shadow)}.stat strong{display:block;font-size:34px;letter-spacing:-.04em}.stat span{display:block;color:var(--muted);font-size:13px;margin-top:4px}.section{padding:38px 0}.head{display:flex;justify-content:space-between;gap:24px;align-items:end;margin-bottom:18px}.head h2{font-size:clamp(30px,4vw,46px);margin:5px 0 0}.head p{max-width:540px;color:var(--muted);margin:0}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:var(--shadow)}.card h3{font-size:24px;margin:4px 0 8px}.card p{color:var(--muted);margin:0}.flow{margin-top:18px;display:grid;gap:8px}.row{display:grid;grid-template-columns:145px 1fr auto;gap:12px;align-items:center;border-top:1px solid var(--line);padding:11px 0}.row:first-child{border-top:0}.row b{font-size:14px}.row span{color:var(--muted);font-size:13px}.tag{font-size:11px;font-weight:850;padding:5px 8px;border-radius:999px;background:var(--blueSoft);color:var(--blue);white-space:nowrap}.tag.auto{background:var(--greenSoft);color:var(--green)}.tag.human{background:var(--redSoft);color:var(--red)}.tag.block{background:var(--amberSoft);color:var(--amber)}.trace{background:#101827;color:#e9eef8;border-radius:22px;padding:22px;overflow:auto;font:13px/1.65 ui-monospace,SFMono-Regular,Menlo,monospace}.trace .dim{color:#8ea0bd}.trace .ok{color:#8bd9a9}.trace .money{color:#91b7ff}.gate{display:grid;grid-template-columns:1fr 1fr;gap:14px}.gate .pass{border-top:5px solid var(--green)}.gate .blocked{border-top:5px solid var(--amber)}ul{padding-left:20px;margin-bottom:0}.small{font-size:13px;color:var(--muted)}.metric{font-size:28px;font-weight:850;letter-spacing:-.04em;margin:12px 0 4px}.footer{margin-top:40px;border-top:1px solid var(--line);padding:30px 0 48px;color:var(--muted);font-size:13px;display:flex;justify-content:space-between;gap:20px}.redteam{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:16px}.attack{background:var(--redSoft);color:#8d3935;border:1px solid #f0d1ce;border-radius:12px;padding:11px;font-size:12px;font-weight:700}
+@media(max-width:900px){.grid3{grid-template-columns:1fr}.stats{grid-template-columns:1fr 1fr}.grid,.gate{grid-template-columns:1fr}.head{align-items:flex-start;flex-direction:column}.redteam{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.nav a:not(.pill){display:none}.hero{padding-top:46px}.hero p{font-size:18px}.stats{grid-template-columns:1fr}.row{grid-template-columns:1fr}.tag{justify-self:start}.footer{flex-direction:column}.actions .btn{width:100%;justify-content:center}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top"><a class="brand" href="../">GitLaw ⚖️</a><nav class="nav"><a href="../">Product</a><a href="https://github.com/mikelninh/gitlaw">GitHub</a><a class="pill" href="https://github.com/mikelninh/gitlaw/tree/main/docs/ypog">Proof data ↗</a></nav></header>
+<main>
+<section class="hero">
+<div class="kicker">GitLaw Pro × YPOG · production Legal AI proof</div>
+<h1>From legal question to evidence-backed lawyer action.</h1>
+<p>Hybrid retrieval, supervised agents, external benchmarks, German-law ground truth, inspectable tool traces and human review — with failure evidence shown as clearly as success.</p>
+<div class="actions"><a class="btn primary" href="../#/research">Try GitLaw →</a><a class="btn" href="https://github.com/mikelninh/gitlaw/tree/main/evals">Inspect eval lab</a></div>
+<div class="truth">Current legal-quality release status: <strong>BLOCKED pending external + lawyer evidence.</strong> Green CI, a public benchmark score, or a synthetic trace is not lawyer-grade German-law accuracy.</div>
+</section>
+
+<section class="stats">
+<div class="stat"><strong>3</strong><span>public benchmark families pinned</span></div>
+<div class="stat"><strong>0 / 3</strong><span>full external runs claimable today</span></div>
+<div class="stat"><strong>0 / 500</strong><span>lawyer-approved German Gold today / strict target</span></div>
+<div class="stat"><strong>0.65</strong><span>historical broad Retrieval@5 / 20 — not answer accuracy</span></div>
+</section>
+
+<section class="section">
+<div class="head"><div><div class="kicker">Benchmark pyramid</div><h2>Use public ground truth before inventing our own.</h2></div><p>Each benchmark is pinned to an upstream revision and only supports claims for the capability and jurisdiction it actually measures.</p></div>
+<div class="grid3">
+<article class="card"><div class="kicker">External retrieval</div><h3>LegalBench-RAG</h3><div class="metric">6,858</div><p>Reported legal retrieval examples. We use its character-span precision / recall contract for contract-style retrieval comparison.</p><div class="flow"><div class="row"><b>GitLaw scope</b><span>retrieval comparability</span><i class="tag">EXTERNAL</i></div><div class="row"><b>German-law claim</b><span>not German-law accuracy</span><i class="tag block">NO</i></div></div></article>
+<article class="card"><div class="kicker">External reasoning</div><h3>LegalBench</h3><div class="metric">162 tasks</div><p>Legal reasoning tasks contributed by legal and computational experts. Task-level licenses remain authoritative.</p><div class="flow"><div class="row"><b>GitLaw scope</b><span>reasoning comparability</span><i class="tag">EXTERNAL</i></div><div class="row"><b>License</b><span>select per task</span><i class="tag block">CHECK</i></div></div></article>
+<article class="card"><div class="kicker">Error decomposition</div><h3>Legal RAG Bench</h3><div class="metric">100 questions</div><p>4,876 passages with an oracle/factorial methodology to separate retrieval failures from reasoning/context-use failures.</p><div class="flow"><div class="row"><b>GitLaw scope</b><span>retrieval vs reasoning</span><i class="tag">EXTERNAL</i></div><div class="row"><b>Adapter</b><span>oracle decomposition implemented</span><i class="tag auto">CODE</i></div></div></article>
+</div>
+</section>
+
+<section class="section">
+<div class="head"><div><div class="kicker">German Legal Gold</div><h2>External benchmarks are the floor, not the finish line.</h2></div><p>English, US-oriented and Australian benchmarks cannot establish reliability for German legal work. Lawyer time is reserved for the evidence only we can build.</p></div>
+<div class="gate">
+<article class="card blocked"><div class="kicker">Current evidence</div><h3>0 approved gold cases</h3><ul><li>public/AI-generated candidates may accelerate preparation</li><li>unreviewed candidates never count as gold</li><li>temporal legal scope is mandatory</li><li>disputed labels stay out of release metrics</li></ul></article>
+<article class="card"><div class="kicker">Strict 10/10 target</div><h3>500 lawyer-reviewed · 200 frozen</h3><ul><li>≥12 legal task families</li><li>≥5 independent lawyer reviewers</li><li>critical authority Recall@5 ≥97%</li><li>critical source omissions = 0</li><li>correct abstention ≥98%</li></ul></article>
+</div>
+</section>
+
+<section class="section">
+<div class="head"><div><div class="kicker">System</div><h2>One matter. Narrow agents. Lawyer authority.</h2></div><p>GitLaw is the legal intelligence engine. GitLaw Pro wraps it in tenant-scoped workflow, auditability, cost controls and supervised release.</p></div>
+<div class="grid">
+<article class="card"><div class="kicker">Legal intelligence</div><h3>Research that can be inspected</h3><div class="flow">
+<div class="row"><b>Retrieve</b><span>exact + BM25 + semantic + graph</span><i class="tag auto">AUTO</i></div>
+<div class="row"><b>Verify</b><span>resolve and check citations separately</span><i class="tag auto">AUTO</i></div>
+<div class="row"><b>Draft</b><span>structured analysis with assumptions</span><i class="tag">COPILOT</i></div>
+<div class="row"><b>Release</b><span>consequential legal output</span><i class="tag human">LAWYER</i></div>
+</div></article>
+<article class="card"><div class="kicker">Agentic AI</div><h3>Automation where it earns trust</h3><div class="flow">
+<div class="row"><b>Document</b><span>parse, classify, OCR-quality flag</span><i class="tag auto">AUTO</i></div>
+<div class="row"><b>Intake</b><span>facts, conflicts, missing facts</span><i class="tag">REVIEW</i></div>
+<div class="row"><b>Change impact</b><span>contract diff + affected reviews</span><i class="tag">PROPOSE</i></div>
+<div class="row"><b>Approval</b><span>partner / authorised lawyer</span><i class="tag human">HUMAN</i></div>
+</div></article>
+</div>
+</section>
+
+<section class="section">
+<div class="head"><div><div class="kicker">Observability</div><h2>Inspect the agent, not just its prose.</h2></div><p>GitLaw Pro models agent runs, tool calls, latency, cost, idempotency and hard iteration/cost limits.</p></div>
+<div class="trace"><span class="dim">DEMO-MATTER-0241 · synthetic trace fixture</span><br>
+01 classify_issue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;142 ms&nbsp;&nbsp;<span class="money">€0.0002</span>&nbsp;&nbsp;<span class="ok">✓</span><br>
+02 hybrid_retrieve&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;91 ms&nbsp;&nbsp;deterministic&nbsp;&nbsp;<span class="ok">✓</span><br>
+03 graph_expand&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;113 ms&nbsp;&nbsp;deterministic&nbsp;&nbsp;<span class="ok">✓</span><br>
+04 citation_verify&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23 ms&nbsp;&nbsp;5 / 5 sources&nbsp;&nbsp;<span class="ok">✓</span><br>
+05 structured_draft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.82 s&nbsp;&nbsp;<span class="money">€0.0134</span>&nbsp;&nbsp;<span class="ok">✓</span><br>
+06 material_claim_check&nbsp;&nbsp;&nbsp;12 ms&nbsp;&nbsp;unsupported: 0&nbsp;&nbsp;<span class="ok">✓</span><br><br>
+<span class="dim">release:</span> BLOCKED → authorised lawyer review required</div>
+<p class="small">The trace above is an explicitly synthetic fixture demonstrating the observability contract, not measured YPOG or production performance.</p>
+</section>
+
+<section class="section">
+<div class="head"><div><div class="kicker">Strict release gate</div><h2>10/10 is a falsifiable bar.</h2></div><p>External scores, German-law quality, safety and real-world usefulness all have to pass. One cannot compensate for another.</p></div>
+<div class="gate"><article class="card pass"><div class="kicker">Engineering gate</div><h3>PASS when CI proves integrity</h3><ul><li>benchmark revisions and claim scopes cannot silently drift</li><li>tenant and approval boundaries remain hard guards</li><li>agent cost / iteration limits execute correctly</li><li>retrieval baselines and scorers are reproducible</li><li>viewer + existing test suite still build</li></ul></article><article class="card blocked"><div class="kicker">Legal quality gate</div><h3>BLOCKED today</h3><ul><li>500 lawyer-reviewed German-law cases required</li><li>200-case frozen holdout required</li><li>200 adversarial cases required</li><li>unsupported material claims ≤0.2%</li><li>citation precision ≥99.5%</li><li>critical safety failures = 0</li><li>100 governed shadow matters required</li></ul><p class="small">These are deliberately strict GitLaw criteria, not YPOG requirements.</p></article></div>
+</section>
+
+<section class="section">
+<div class="head"><div><div class="kicker">Red team</div><h2>Policies do not count as executed tests.</h2></div><p>The current ledger distinguishes executed, partial, policy-only, measured component failures and pending scenarios. The strict target is ≥200 adversarial cases with zero P0 failures.</p></div>
+<div class="redteam"><div class="attack">Prompt injection</div><div class="attack">Fake citation</div><div class="attack">Tenant leak</div><div class="attack">Stale approval</div><div class="attack">Tool loop</div><div class="attack">Cost runaway</div><div class="attack">Hidden DOCX prompt</div><div class="attack">Missing facts</div><div class="attack">Self approval</div><div class="attack">OCR uncertainty</div></div>
+</section>
+
+<section class="section">
+<div class="head"><div><div class="kicker">Model arena</div><h2>Quality first. Then latency and cost.</h2></div><p>The multi-provider gateway normalises OpenAI, Anthropic and Gemini and records provider / fallback / token cost. Selection happens only after route-specific quality and privacy gates pass.</p></div>
+<div class="card"><div class="flow"><div class="row"><b>Classification</b><span>cheapest model that clears quality threshold</span><i class="tag">BENCHMARK</i></div><div class="row"><b>Complex research</b><span>best evidence quality inside latency/cost budget</span><i class="tag">BENCHMARK</i></div><div class="row"><b>Citation verification</b><span>deterministic where possible</span><i class="tag auto">CODE</i></div><div class="row"><b>Provider failure</b><span>fail over only on defined transient errors</span><i class="tag auto">GUARD</i></div></div></div>
+</section>
+</main>
+<footer class="footer"><span>GitLaw Pro · source-grounded Legal AI</span><span>AI prepares and proposes. Qualified humans remain responsible for consequential legal work.</span></footer>
+</div>
+</body>
+</html>

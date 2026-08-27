@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "status": "template_no_measured_results",
+  "benchmark_id": "replace-with-frozen-benchmark-id",
+  "corpus_snapshot": "replace",
+  "dataset": {
+    "lawyer_reviewed_cases": null,
+    "holdout_frozen": true,
+    "reviewer_blinded_to_model": true
+  },
+  "models": [
+    {
+      "provider": "replace",
+      "model": "replace",
+      "route": "research_or_draft",
+      "quality": {
+        "retrieval_recall_at_5": null,
+        "citation_precision": null,
+        "unsupported_material_claim_rate": null,
+        "lawyer_acceptable_rate": null,
+        "correct_abstention_rate": null
+      },
+      "operations": {
+        "p50_latency_ms": null,
+        "p95_latency_ms": null,
+        "mean_cost_usd_per_matter": null,
+        "structured_output_failure_rate": null
+      },
+      "privacy_and_ops": {
+        "approved_data_region": null,
+        "retention_configuration_reviewed": null,
+        "fallback_allowed": null
+      }
+    }
+  ],
+  "selection_rule": "Choose the cheapest/fastest model that passes the route-specific quality, privacy and reliability threshold; do not select solely by benchmark headline score."
+}

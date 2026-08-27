@@ -1,0 +1,11 @@
+# Pinned benchmark runtime. These versions match the environment observed in the
+# 2026-08-26 GerDaLIRSmall evidence run and prevent silent scorer/model drift.
+numpy==2.5.2
+rank_bm25==0.2.2
+sentence-transformers==5.7.0
+huggingface-hub==0.36.2
+datasets==4.8.5
+transformers==4.57.6
+tokenizers==0.22.2
+torch==2.13.0
+safetensors==0.8.0

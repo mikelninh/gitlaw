@@ -1,0 +1,5 @@
+{"id":"pass","retrieval_hit":true,"rag_correct":true,"oracle_correct":true}
+{"id":"retrieval-miss","retrieval_hit":false,"rag_correct":false,"oracle_correct":true}
+{"id":"reasoning-miss","retrieval_hit":true,"rag_correct":false,"oracle_correct":true}
+{"id":"oracle-ceiling","retrieval_hit":true,"rag_correct":false,"oracle_correct":false}
+{"id":"lucky-answer","retrieval_hit":false,"rag_correct":true,"oracle_correct":true}

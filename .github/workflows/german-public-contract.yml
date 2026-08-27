@@ -1,51 +1,37 @@
-name: Viewer CI
+# DEV selection is intentionally serial and isolated from frozen holdouts.
+name: German public benchmark contract
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'evals/german_public/**'
+      - 'evals/ypog/release_criteria.json'
+      - 'scripts/german-public-benchmark-gate.mjs'
+      - '.github/workflows/german-public-contract.yml'
   pull_request:
     paths:
-      - 'viewer/**'
-      - 'api/**'
-      - 'laws/bgb.md'
-      - '.github/workflows/viewer-ci.yml'
-  push:
-    branches:
-      - agent/mietrecht-research-desk
-    paths:
-      - 'viewer/**'
-      - 'api/**'
-      - 'laws/bgb.md'
-      - '.github/workflows/viewer-ci.yml'
+      - 'evals/german_public/**'
+      - 'evals/ypog/release_criteria.json'
+      - 'scripts/german-public-benchmark-gate.mjs'
+      - '.github/workflows/german-public-contract.yml'
 
 concurrency:
-  group: viewer-ci-${{ github.event.pull_request.number || github.ref }}
+  group: german-public-contract-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+  contract:
+    runs-on: ubuntu-24.04-arm
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
-          cache-dependency-path: viewer/package-lock.json
-      - name: Install viewer dependencies
-        working-directory: viewer
-        run: npm install --no-audit --no-fund
-      - name: Run Mietrecht regression
-        working-directory: viewer
-        run: node scripts/mietrecht-regression.mjs
-      - name: Run cross-domain routing regression
-        working-directory: viewer
-        run: node --experimental-strip-types scripts/legal-scenario-regression.mjs
-      - name: Build viewer
-        working-directory: viewer
-        run: npm run build
+      - run: node scripts/german-public-benchmark-gate.mjs
 
   gerlayqa-dev-selection:
-    if: ${{ github.event_name == 'pull_request' && github.head_ref == 'feat/ypog-legal-ai-proof' }}
+    needs: contract
     runs-on: ubuntu-24.04-arm
     timeout-minutes: 90
     env:
@@ -65,7 +51,7 @@ jobs:
             retrieval-models-${{ runner.os }}-
       - name: Install German retrieval dependencies
         run: pip install -r evals/german_public/requirements.txt
-      - name: Verify DEV-only anti-leak contract
+      - name: Anti-leak source contract
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -75,11 +61,11 @@ jobs:
           assert 'DEV_PATH = "data/bgb_dev.json"' in src, 'DEV split pin missing'
           print('GERLAYQA_DEV_ANTI_LEAK_CONTRACT=PASS')
           PY
-      - name: Select one retrieval recipe on DEV only
+      - name: Select retrieval recipe on development split only
         run: |
           python evals/german_public/run_gerlayqa_dev_tuning.py \
             --json-out gerlayqa-dev-recipe.json
-      - name: Verify frozen-selection boundary
+      - name: Verify recipe-selection boundary
         run: |
           python - <<'PY'
           import json
@@ -95,6 +81,7 @@ jobs:
               assert 0 <= selected['metrics'][key] <= 1, (key, selected['metrics'][key])
           print('DEV_SELECTED_RECIPE=' + json.dumps(selected, ensure_ascii=False))
           print('EVAL_SPLIT_ACCESSED=false')
+          print('NEXT=freeze recipe before one-shot eval execution')
           PY
       - uses: actions/upload-artifact@v4
         if: ${{ always() && hashFiles('gerlayqa-dev-recipe.json') != '' }}

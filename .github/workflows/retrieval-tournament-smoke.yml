@@ -1,0 +1,57 @@
+name: Retrieval tournament smoke
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'evals/external/run_retrieval_tournament.py'
+      - 'evals/external/requirements-tournament.txt'
+      - '.github/workflows/retrieval-tournament-smoke.yml'
+  pull_request:
+    paths:
+      - 'evals/external/run_retrieval_tournament.py'
+      - 'evals/external/requirements-tournament.txt'
+      - '.github/workflows/retrieval-tournament-smoke.yml'
+
+concurrency:
+  group: retrieval-smoke-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      TOKENIZERS_PARALLELISM: 'false'
+      HF_HUB_DISABLE_TELEMETRY: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: evals/external/requirements-tournament.txt
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-retrieval-tournament-v1-${{ runner.os }}
+      - run: pip install -r evals/external/requirements-tournament.txt
+      - name: General dense + hybrid + reranker smoke
+        run: python evals/external/run_retrieval_tournament.py --skip-legal --json-out retrieval-smoke.json
+      - name: Guard baseline and require semantic lift
+        run: |
+          python - <<'PY'
+          import json
+          r=json.load(open('retrieval-smoke.json', encoding='utf-8'))
+          b=r['methods']['bm25']; d=r['methods']['dense_general']; h=r['methods']['hybrid_general_rrf']; rr=r['methods']['hybrid_general_reranked']
+          assert abs(b['hit_at_10']-0.31) < 1e-12, b
+          assert max(d['hit_at_10'], h['hit_at_10'], rr['hit_at_10']) > b['hit_at_10'], (b,d,h,rr)
+          print(json.dumps({k:{m:v for m,v in x.items() if m!='rows'} for k,x in r['methods'].items()}, indent=2))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: legal-rag-bench-retrieval-smoke
+          path: retrieval-smoke.json
+          if-no-files-found: error
+          retention-days: 30

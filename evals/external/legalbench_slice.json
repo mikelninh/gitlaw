@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "status": "PINNED_PERMISSIVE_LEGALBENCH_REASONING_SLICE",
+  "benchmark": "LegalBench",
+  "github_repo": "HazyResearch/legalbench",
+  "github_revision": "b46bf4ffae90524b2b72aaa30e7745fe9db64481",
+  "dataset": "nguha/legalbench",
+  "dataset_revision": "daec8237410aa23e3faf4bc41ad8b3a7e1696826",
+  "tasks": [
+    {
+      "id": "hearsay",
+      "license": "CC-BY-4.0",
+      "reasoning_type": "rule_application_rule_conclusion",
+      "task_type": "binary_classification",
+      "license_source": "tasks/hearsay/README.md"
+    },
+    {
+      "id": "proa",
+      "license": "CC-BY-4.0",
+      "reasoning_type": "statutory_interpretation",
+      "task_type": "binary_classification",
+      "license_source": "tasks/proa/README.md"
+    },
+    {
+      "id": "overruling",
+      "license": "CC-BY-4.0",
+      "reasoning_type": "case_law_rhetorical_analysis",
+      "task_type": "binary_classification",
+      "license_source": "tasks/overruling/README.md"
+    },
+    {
+      "id": "ucc_v_common_law",
+      "license": "CC-BY-4.0",
+      "reasoning_type": "contract_rule_application_conclusion",
+      "task_type": "binary_classification",
+      "license_source": "tasks/ucc_v_common_law/README.md"
+    }
+  ],
+  "excluded_from_automated_slice": {
+    "rule_qa": "open generation with manual gradebook; do not mix manual scoring into exact-match automated baseline"
+  },
+  "claim_boundary": "This is a four-task English/US-oriented LegalBench reasoning slice. It is not the full 162-task benchmark, not German-law evidence, and not a lawyer-quality score."
+}

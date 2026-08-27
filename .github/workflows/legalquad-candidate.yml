@@ -1,0 +1,66 @@
+name: LegalQuAD provenance-gated retrieval candidate
+
+# Frozen published-holdout capability evidence. Manual-only after the observed
+# baseline/E5 result is recorded; provenance remains blocked for strict gating.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: legalquad-candidate-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  TOKENIZERS_PARALLELISM: 'false'
+  HF_HUB_DISABLE_TELEMETRY: '1'
+
+jobs:
+  candidate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: legalquad-${{ runner.os }}-${{ hashFiles('evals/german_public/requirements.txt') }}
+          restore-keys: |
+            german-retrieval-${{ runner.os }}-
+            retrieval-models-${{ runner.os }}-
+      - name: Install retrieval dependencies
+        run: pip install -r evals/german_public/requirements.txt
+      - name: Execute frozen LegalQuAD baseline tournament
+        run: |
+          python evals/german_public/run_legalquad_retrieval.py \
+            --json-out legalquad-retrieval.json
+      - name: Execute multilingual-E5-small challenger
+        run: |
+          python evals/german_public/run_legalquad_e5_challenger.py \
+            --json-out legalquad-e5-challenger.json
+      - name: Verify evidence, provenance and challenger boundary
+        run: |
+          python - <<'PY'
+          import json
+          base=json.load(open('legalquad-retrieval.json', encoding='utf-8'))
+          ch=json.load(open('legalquad-e5-challenger.json', encoding='utf-8'))
+          assert base['status'] == 'OBSERVED_GERMAN_LEGAL_RETRIEVAL_CANDIDATE', base
+          assert base['dataset_revision'] == 'd9a3183ea8b7a592a5a0e008a50847377e719109', base
+          assert base['counts_as_strict_third_german_suite'] is False, base
+          assert ch['status'] == 'OBSERVED_GERMAN_LEGAL_RETRIEVER_CHALLENGER', ch
+          assert ch['dataset_revision'] == base['dataset_revision'], ch
+          assert ch['counts_as_strict_third_german_suite'] is False, ch
+          print('LEGALQUAD_BASELINE_SCOREBOARD=' + json.dumps(base['scoreboard'], ensure_ascii=False))
+          print('E5_SMALL=' + json.dumps({k:v for k,v in ch['metrics'].items() if k != 'rows'}, ensure_ascii=False))
+          print('STRICT_GATE_COUNTED=false')
+          PY
+      - uses: actions/upload-artifact@v4
+        if: ${{ always() && hashFiles('legalquad-retrieval.json') != '' }}
+        with:
+          name: legalquad-provenance-gated-candidate
+          path: |
+            legalquad-retrieval.json
+            legalquad-e5-challenger.json
+          if-no-files-found: error
+          retention-days: 30

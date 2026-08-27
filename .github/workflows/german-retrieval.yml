@@ -1,0 +1,172 @@
+name: German public retrieval tournament
+
+# Full public German retrieval runs are deliberate evidence jobs, not ordinary PR CI.
+# The PR already has cheap benchmark/claim-integrity gates. Keeping this workflow
+# manual prevents GitHub pull_request path semantics from re-running multi-hour
+# case-law tournaments on every unrelated synchronize event.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: german-retrieval-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  TOKENIZERS_PARALLELISM: 'false'
+  HF_HUB_DISABLE_TELEMETRY: '1'
+
+jobs:
+  gerlayqa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: german-retrieval-${{ runner.os }}-${{ hashFiles('evals/german_public/requirements.txt') }}
+          restore-keys: |
+            german-retrieval-${{ runner.os }}-
+            retrieval-models-${{ runner.os }}-
+      - name: Install German retrieval dependencies
+        run: pip install -r evals/german_public/requirements.txt
+      - name: Execute pinned GerLayQA BGB retrieval tournament
+        run: |
+          python evals/german_public/run_gerlayqa_retrieval.py \
+            --methods bm25,dense_general,dense_german,hybrid_german_rrf \
+            --json-out gerlayqa-retrieval.json
+      - name: Verify GerLayQA benchmark integrity
+        run: |
+          python - <<'PY'
+          import json
+          r=json.load(open('gerlayqa-retrieval.json', encoding='utf-8'))
+          assert r['benchmark'] == 'GerLayQA', r
+          assert r['upstream_commit'] == 'cbc465942f0c1eab25ec8864bc358466e4d88e0e', r
+          q=r['question_contract']
+          assert q['raw_eval_questions'] == 2154, q
+          assert q['evaluated_questions'] == 1840, q
+          assert q['excluded_over_300_words'] == 314, q
+          assert q['excluded_without_gold'] == 0, q
+          assert q['raw_eval_questions'] == q['evaluated_questions'] + q['excluded_over_300_words'] + q['excluded_without_gold'], q
+          assert r['data_vendored'] is False, r
+          assert r['benchmark_integrity_diagnostics']['missing_gold_id_count'] == 10, r['benchmark_integrity_diagnostics']
+          methods=r['methods']
+          for method in ('bm25','dense_general','dense_german','hybrid_german_rrf'):
+              assert method in methods, method
+              m=methods[method]['metrics']
+              for key in ('precision_at_10','recall_at_10','f1_at_10','mrr_at_10','map_at_10','hit_at_1','hit_at_5','hit_at_10'):
+                  assert 0 <= m[key] <= 1, (method,key,m[key])
+          for method in ('dense_general','dense_german'):
+              rev=methods[method]['runtime']['model_revision']
+              assert len(rev) == 40 and all(c in '0123456789abcdef' for c in rev), (method,rev)
+          print('GERLAYQA_SCOREBOARD=' + json.dumps(r['scoreboard'], ensure_ascii=False))
+          PY
+      - uses: actions/upload-artifact@v4
+        if: ${{ always() && hashFiles('gerlayqa-retrieval.json') != '' }}
+        with:
+          name: gerlayqa-german-retrieval-tournament
+          path: gerlayqa-retrieval.json
+          if-no-files-found: error
+          retention-days: 30
+
+  gerdalir-small-preflight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: gerdalir-small-${{ runner.os }}-${{ hashFiles('evals/german_public/requirements.txt') }}
+          restore-keys: |
+            gerdalir-small-${{ runner.os }}-
+            german-retrieval-${{ runner.os }}-
+      - name: Install German retrieval dependencies
+        run: pip install -r evals/german_public/requirements.txt
+      - name: Validate pinned GerDaLIRSmall snapshot before compute
+        run: |
+          python evals/german_public/run_gerdalir_small_retrieval.py \
+            --preflight-only \
+            --json-out gerdalir-small-preflight.json
+      - name: Verify GerDaLIRSmall preflight contract
+        run: |
+          python - <<'PY'
+          import json
+          r=json.load(open('gerdalir-small-preflight.json', encoding='utf-8'))
+          assert r['status'] == 'GERDALIR_SMALL_PREFLIGHT_PASS', r
+          assert r['dataset_id'] == 'mteb/GerDaLIRSmall', r
+          assert r['dataset_revision'] == '48327de6ee192e9610f3069789719788957c7abd', r
+          assert r['dataset_license'] == 'MIT', r
+          assert r['counts'] == {'documents': 9969, 'queries': 12234, 'positive_relevance_labels': 14320}, r['counts']
+          assert r['data_vendored'] is False, r
+          PY
+      - uses: actions/upload-artifact@v4
+        if: ${{ always() && hashFiles('gerdalir-small-preflight.json') != '' }}
+        with:
+          name: gerdalir-small-preflight
+          path: gerdalir-small-preflight.json
+          if-no-files-found: error
+          retention-days: 30
+
+  gerdalir-small:
+    needs: gerdalir-small-preflight
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: gerdalir-small-${{ runner.os }}-${{ hashFiles('evals/german_public/requirements.txt') }}
+          restore-keys: |
+            gerdalir-small-${{ runner.os }}-
+            german-retrieval-${{ runner.os }}-
+      - name: Install German retrieval dependencies
+        run: pip install -r evals/german_public/requirements.txt
+      - name: Execute pinned GerDaLIRSmall case-law retrieval tournament
+        run: |
+          timeout --signal=INT --kill-after=2m 280m \
+            python evals/german_public/run_gerdalir_small_retrieval.py \
+            --methods bm25,dense_general,dense_german,hybrid_german_rrf \
+            --json-out gerdalir-small-retrieval.json
+      - name: Verify GerDaLIRSmall result integrity
+        run: |
+          python - <<'PY'
+          import json
+          r=json.load(open('gerdalir-small-retrieval.json', encoding='utf-8'))
+          assert r['status'] == 'OBSERVED_GERMAN_PUBLIC_RETRIEVAL_EVIDENCE', r
+          assert r['dataset_revision'] == '48327de6ee192e9610f3069789719788957c7abd', r
+          assert r['counts'] == {'documents': 9969, 'queries': 12234, 'positive_relevance_labels': 14320}, r['counts']
+          assert r['completed_methods'] == ['bm25','dense_general','dense_german','hybrid_german_rrf'], r['completed_methods']
+          methods=r['methods']
+          for method in ('bm25','dense_general','dense_german','hybrid_german_rrf'):
+              assert method in methods, method
+              assert methods[method]['n_queries'] == 12234, (method, methods[method]['n_queries'])
+              m=methods[method]['metrics']
+              for key in ('precision_at_10','recall_at_10','f1_at_10','mrr_at_10','map_at_10','hit_at_1','hit_at_5','hit_at_10'):
+                  assert 0 <= m[key] <= 1, (method,key,m[key])
+          bm25_runtime=methods['bm25']['runtime']
+          assert bm25_runtime['implementation'] == 'inverted_postings_rank_bm25_equivalent', bm25_runtime
+          assert bm25_runtime['equivalence_self_check'] is True, bm25_runtime
+          assert bm25_runtime['equivalence_actual_query_checks'] == 8, bm25_runtime
+          for method in ('dense_general','dense_german'):
+              rev=methods[method]['runtime']['model_revision']
+              assert len(rev) == 40 and all(c in '0123456789abcdef' for c in rev), (method,rev)
+          print('GERDALIR_SMALL_SCOREBOARD=' + json.dumps(r['scoreboard'], ensure_ascii=False))
+          PY
+      - uses: actions/upload-artifact@v4
+        if: ${{ always() && hashFiles('gerdalir-small-retrieval.json') != '' }}
+        with:
+          name: gerdalir-small-german-case-law-tournament
+          path: gerdalir-small-retrieval.json
+          if-no-files-found: error
+          retention-days: 30

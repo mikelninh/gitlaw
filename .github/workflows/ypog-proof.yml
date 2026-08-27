@@ -1,0 +1,172 @@
+name: YPOG Legal AI proof
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'evals/ypog/**'
+      - 'evals/external/**'
+      - 'evals/german_gold/**'
+      - 'evals/gitlaw_qa_set.json'
+      - 'docs/ypog/**'
+      - 'scripts/ypog-proof-gate.mjs'
+      - 'scripts/external-benchmark-gate.mjs'
+      - 'scripts/german-gold-gate.mjs'
+      - 'rag/**'
+      - 'api/_agent.ts'
+      - 'api/_auth.ts'
+      - 'api/_llm.ts'
+      - 'api/_document_review_tools.ts'
+      - 'api/_document_review_tools.test.ts'
+      - 'viewer/public/ypog/**'
+      - 'README.md'
+      - 'AGENTS.md'
+      - '.github/workflows/ypog-proof.yml'
+  pull_request:
+    paths:
+      - 'evals/ypog/**'
+      - 'evals/external/**'
+      - 'evals/german_gold/**'
+      - 'evals/gitlaw_qa_set.json'
+      - 'docs/ypog/**'
+      - 'scripts/ypog-proof-gate.mjs'
+      - 'scripts/external-benchmark-gate.mjs'
+      - 'scripts/german-gold-gate.mjs'
+      - 'rag/**'
+      - 'api/_agent.ts'
+      - 'api/_auth.ts'
+      - 'api/_llm.ts'
+      - 'api/_document_review_tools.ts'
+      - 'api/_document_review_tools.test.ts'
+      - 'viewer/public/ypog/**'
+      - 'README.md'
+      - 'AGENTS.md'
+      - '.github/workflows/ypog-proof.yml'
+
+concurrency:
+  group: ypog-proof-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  proof:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: rag/requirements.txt
+
+      - name: Install root dependencies
+        run: npm ci
+      - name: Runtime dependency audit — no critical production vulnerability
+        run: npm audit --omit=dev --audit-level=critical
+      - name: Existing GitLaw + document-security tests
+        run: npm test
+
+      - name: Deterministic GitLaw strict readiness gate
+        run: node scripts/ypog-proof-gate.mjs
+      - name: External benchmark manifest / claim-scope gate
+        run: node scripts/external-benchmark-gate.mjs
+      - name: German Gold anti-inflation gate
+        run: node scripts/german-gold-gate.mjs
+
+      - name: Oracle-vs-RAG decomposition contract
+        run: |
+          python evals/external/oracle_vs_rag.py evals/external/fixtures/oracle_vs_rag.sample.jsonl --json-out /tmp/oracle.json
+          python - <<'PY'
+          import json
+          r=json.load(open('/tmp/oracle.json', encoding='utf-8'))
+          assert r['n'] == 5, r
+          assert r['failure_classes']['pass'] == 1, r
+          assert r['failure_classes']['retrieval_failure'] == 1, r
+          assert r['failure_classes']['reasoning_or_context_use_failure'] == 1, r
+          assert r['failure_classes']['reasoning_or_task_ceiling'] == 1, r
+          assert r['failure_classes']['correct_without_gold_retrieval_needs_review'] == 1, r
+          PY
+
+      - name: LegalBench-RAG compatible scorer contract
+        run: |
+          python evals/external/legalbenchrag_score.py evals/external/fixtures/legalbenchrag.sample.json evals/external/fixtures/legalbenchrag.retrieval.jsonl --json-out /tmp/lbr.json
+          python - <<'PY'
+          import json
+          r=json.load(open('/tmp/lbr.json', encoding='utf-8'))
+          assert r['scoring_contract'] == 'LEGALBENCH_RAG_CHARACTER_SPAN_OVERLAP', r
+          assert r['n'] == 2, r
+          assert abs(r['avg_recall'] - 0.75) < 1e-12, r
+          assert abs(r['avg_precision'] - 1.0) < 1e-12, r
+          PY
+
+      - name: Install retrieval benchmark dependencies
+        run: pip install -r rag/requirements.txt
+
+      - name: Execute public Legal RAG Bench BM25 diagnostic
+        run: python evals/external/run_legal_rag_bench_bm25.py --json-out legal-rag-bench-bm25.json
+      - name: Verify public Legal RAG Bench diagnostic against frozen external baseline
+        run: |
+          python - <<'PY'
+          import json
+          measured=json.load(open('legal-rag-bench-bm25.json', encoding='utf-8'))
+          frozen=json.load(open('evals/external/results/legal_rag_bench_bm25_20260826.json', encoding='utf-8'))
+          assert measured['run_type'] == 'EXTERNAL_BM25_RETRIEVAL_DIAGNOSTIC', measured
+          assert measured['dataset_revision'] == frozen['dataset_revision'], (measured['dataset_revision'], frozen['dataset_revision'])
+          assert measured['n_questions'] == frozen['n_questions'] == 100, (measured, frozen)
+          assert measured['n_passages'] == frozen['n_passages'] == 4876, (measured, frozen)
+          for key, expected in frozen['metrics'].items():
+              assert abs(measured['metrics'][key] - expected) < 1e-12, (key, measured['metrics'][key], expected)
+          print('LEGAL_RAG_BENCH_BM25_SUMMARY=' + json.dumps(measured['metrics'], sort_keys=True))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: legal-rag-bench-bm25-diagnostic
+          path: legal-rag-bench-bm25.json
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Fresh offline BM25 retrieval measurement
+        run: python evals/ypog/run_offline_retrieval_eval.py --json-out /tmp/gitlaw-bm25.json
+      - name: Verify fresh BM25 measurement against frozen diagnostic baseline
+        run: |
+          python - <<'PY'
+          import json
+          report=json.load(open('/tmp/gitlaw-bm25.json', encoding='utf-8'))['summary']
+          frozen=json.load(open('evals/ypog/offline_bm25_baseline.json', encoding='utf-8'))
+          assert report['n_questions'] == frozen['n_questions'], (report, frozen)
+          assert report['status'] == 'MEASURED_NOT_RELEASE_GATE', report
+          mapping={
+            'retrieval@1':'retrieval_at_1',
+            'retrieval@3':'retrieval_at_3',
+            'retrieval@5':'retrieval_at_5',
+            'retrieval@10':'retrieval_at_10',
+          }
+          for measured_key, expected_key in mapping.items():
+              assert report[measured_key] == frozen['metrics'][expected_key], (measured_key, report[measured_key], frozen['metrics'][expected_key])
+          print(json.dumps(report, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Public proof claim contract
+        run: |
+          grep -q 'BLOCKED pending external + lawyer evidence' viewer/public/ypog/index.html
+          grep -q '500 lawyer-reviewed' viewer/public/ypog/index.html
+          grep -q 'LegalBench-RAG' viewer/public/ypog/index.html
+          grep -q 'Legal RAG Bench' viewer/public/ypog/index.html
+          grep -q 'not German-law accuracy' viewer/public/ypog/index.html
+          grep -q '0.65' viewer/public/ypog/index.html
+          grep -q 'not answer accuracy' viewer/public/ypog/index.html
+          grep -q 'synthetic trace fixture' viewer/public/ypog/index.html
+          grep -q 'AI prepares and proposes' viewer/public/ypog/index.html
+
+      - name: Build viewer using repository's existing install contract
+        working-directory: viewer
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+      - name: Verify proof page shipped into dist
+        run: |
+          test -f viewer/dist/ypog/index.html
+          grep -q 'Legal AI proof' viewer/dist/ypog/index.html

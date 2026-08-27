@@ -1,0 +1,10 @@
+# Pinned to the environment observed in Legal RAG Bench run 32955578197/attempt 1.
+# Exact runtime pins keep the external evidence comparable across reruns.
+numpy==2.4.6
+rank_bm25==0.2.2
+sentence-transformers==5.7.0
+huggingface-hub==0.36.2
+transformers==4.57.6
+tokenizers==0.22.2
+torch==2.13.0
+safetensors==0.8.0

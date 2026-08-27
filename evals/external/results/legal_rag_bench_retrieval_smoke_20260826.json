@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "status": "OBSERVED_EXTERNAL_RETRIEVAL_TOURNAMENT_BASELINE",
+  "measured_at": "2026-08-26",
+  "benchmark": "Legal RAG Bench",
+  "dataset": "isaacus/legal-rag-bench",
+  "dataset_revision": "db0b31dc6d195ce9916897e1ac5e4e6209736c8a",
+  "workflow_run_id": 32947646225,
+  "workflow_head_sha": "e51f0789a35b0a155b5c67f12bb327001534f2d3",
+  "artifact_id": 9599135338,
+  "artifact_digest": "sha256:ae5339564b5f14b07d57ae13b1f1520dc8d4e312924b12baa06215bc884a82d3",
+  "result_json_sha256": "4cacf807df333c7a1f374a71af869ab297cb6a03cf6431221b8fd10b4485e77b",
+  "n_questions": 100,
+  "n_passages": 4876,
+  "models": {
+    "dense_general": {
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+      "license": "Apache-2.0"
+    },
+    "reranker": {
+      "model": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "revision": "233902d25c440f23af6f7d6e94d2946bac0bee0a",
+      "license": "Apache-2.0"
+    }
+  },
+  "configuration": {
+    "hybrid": "reciprocal rank fusion",
+    "rrf_k": 60,
+    "rerank_top_n": 50
+  },
+  "metrics": {
+    "bm25": {"hit_at_1": 0.14, "hit_at_5": 0.30, "hit_at_10": 0.31, "mrr": 0.21812319724933016, "missed_top_10": 69},
+    "dense_general": {"hit_at_1": 0.08, "hit_at_5": 0.29, "hit_at_10": 0.35, "mrr": 0.18998425168010416, "missed_top_10": 65},
+    "hybrid_general_rrf": {"hit_at_1": 0.16, "hit_at_5": 0.33, "hit_at_10": 0.43, "mrr": 0.2550817454048586, "missed_top_10": 57},
+    "hybrid_general_reranked": {"hit_at_1": 0.07, "hit_at_5": 0.20, "hit_at_10": 0.32, "mrr": 0.1499631265079643, "missed_top_10": 68}
+  },
+  "pairwise_failure_analysis": {
+    "dense_general_vs_bm25": {"rescued_top10": 17, "lost_top10": 13},
+    "hybrid_general_rrf_vs_bm25": {"rescued_top10": 13, "lost_top10": 1},
+    "hybrid_general_reranked_vs_hybrid_general_rrf": {"rescued_top10": 8, "lost_top10": 19}
+  },
+  "timings_on_github_ubuntu_cpu_seconds_including_model_load": {
+    "bm25": 4.01889586499999,
+    "dense_general": 106.55976088399999,
+    "rerank_general": 281.34643939399996
+  },
+  "decision": {
+    "current_external_winner": "hybrid_general_rrf",
+    "promote_generic_reranker": false,
+    "reason": "Generic MS-MARCO reranking reduced Hit@10 from 43% to 32% and lost 19 hybrid top-10 successes while rescuing only 8. It remains an experimental challenger, not a default GitLaw component.",
+    "next_challenger": "Hanno-Labs/dinghy-law-0.6b-v1 legal-domain embedder"
+  },
+  "claim_boundary": "External Australian-law retrieval component evidence only; not end-to-end answer quality and not German-law accuracy."
+}

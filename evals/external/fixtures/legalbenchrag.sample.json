@@ -1,0 +1,16 @@
+{
+  "tests": [
+    {
+      "query": "fixture one",
+      "snippets": [
+        {"file_path": "a.txt", "span": [10, 30]}
+      ]
+    },
+    {
+      "query": "fixture two",
+      "snippets": [
+        {"file_path": "b.txt", "span": [0, 10]}
+      ]
+    }
+  ]
+}
