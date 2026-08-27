@@ -5,6 +5,8 @@ on:
     paths:
       - 'pilot/law-firm/**'
       - 'api/pro/pilot-replay.ts'
+      - 'api/pro/capabilities.ts'
+      - 'api/pro/capabilities-contract.ts'
       - 'api/mandant/**'
       - 'api/_llm.ts'
       - 'api/_audit.ts'
@@ -25,6 +27,8 @@ on:
     paths:
       - 'pilot/law-firm/**'
       - 'api/pro/pilot-replay.ts'
+      - 'api/pro/capabilities.ts'
+      - 'api/pro/capabilities-contract.ts'
       - 'api/mandant/**'
       - 'gitlaw_mcp/citations.py'
       - 'viewer/src/pro/**'
@@ -62,8 +66,8 @@ jobs:
       - name: Run assistant console HTTP end-to-end
         run: node --test pilot/law-firm/ops-console.e2e.test.mjs
 
-      - name: Run migration document and client-navigation contracts
-        run: npx vitest run pilot/law-firm/document-ground-truth.test.ts pilot/law-firm/mandant-navigation.test.ts
+      - name: Run migration, client-navigation and agent-capability contracts
+        run: npx vitest run pilot/law-firm/document-ground-truth.test.ts pilot/law-firm/mandant-navigation.test.ts pilot/law-firm/agent-capabilities.test.ts
 
       - name: Build client viewer
         run: npm run build --prefix viewer
@@ -71,8 +75,8 @@ jobs:
       - name: Preserve GitLaw citation contract
         run: python -m gitlaw_mcp.tests.test_eval
 
-      - name: Type-check pilot API boundary
-        run: npx tsc --noEmit --target ES2022 --module NodeNext --moduleResolution NodeNext --esModuleInterop --skipLibCheck --strictNullChecks true api/pro/pilot-replay.ts
+      - name: Type-check pilot and agent API boundaries
+        run: npx tsc --noEmit --target ES2022 --module NodeNext --moduleResolution NodeNext --esModuleInterop --skipLibCheck --strictNullChecks true api/pro/pilot-replay.ts api/pro/capabilities.ts api/pro/capabilities-contract.ts
 
       - name: Verify customer, portal and legal simplicity contracts
         run: |
@@ -92,6 +96,7 @@ jobs:
           const uploadApi=fs.readFileSync('api/mandant/upload.ts','utf8');
           const caseStatus=fs.readFileSync('viewer/src/pro/case-status.ts','utf8');
           const api=fs.readFileSync('api/pro/pilot-replay.ts','utf8');
+          const capabilities=fs.readFileSync('api/pro/capabilities-contract.ts','utf8');
           for(const text of ['20–30','Richtig','Ändern','Falsch','WEITER','VERBESSERN','STOPPEN','WEITER MESSEN']) if(!customer.includes(text)) throw new Error('customer contract missing '+text);
           for(const text of ['STARTEN','ANFORDERN','WARTEN','STOPP']) if(!ops.includes(text)) throw new Error('ops contract missing '+text);
           for(const text of ['§ 43e BRAO','§ 203 StGB','Art. 28 DSGVO','kein Rechtsgutachten']) if(!legal.includes(text)) throw new Error('legal contract missing '+text);
@@ -107,6 +112,7 @@ jobs:
           for(const text of ['keine gesetzliche Bearbeitungsfrist','§ 75 VwGO']) if(!caseStatus.includes(text)) throw new Error('migration timing safeguard missing '+text);
           for(const text of ['Real-Client-Mode','AVV','Art. 9','Art. 10','EU']) if(!goLive.includes(text)) throw new Error('go-live gate missing '+text);
           for(const text of ['GITLAW_PILOT_SERVICE_TOKEN','STOPP_PRIVACY','execution_allowed: false']) if(!api.includes(text)) throw new Error('api boundary missing '+text);
+          for(const text of ['authority: \'outside_model\'','human_approval_for_writes','gitlaw.case.update','requiresHumanApproval: true']) if(!capabilities.includes(text)) throw new Error('agent capability contract missing '+text);
           if(customer.includes('automatische Rechtsberatung')) throw new Error('unsafe customer claim');
-          console.log('customer/portal/legal/document-workflow contracts: OK');
+          console.log('customer/portal/legal/document-workflow/agent-capability contracts: OK');
           NODE
