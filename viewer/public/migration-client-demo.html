@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GitLaw Pro · Mandanten-Unterlagen Demo</title>
+<style>
+:root{--bg:#f5f2eb;--paper:#fffdfa;--ink:#161715;--muted:#686962;--line:#ded8cd;--green:#e8f6e5;--greenInk:#236331;--amber:#fff3cf;--amberInk:#7d5711;--red:#ffe6e3;--redInk:#922f27;--blue:#e9f0fa;--blueInk:#315b87;--dark:#1e2720}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.wrap{width:min(760px,calc(100% - 28px));margin:20px auto 60px}.demo{background:#201d18;color:#fff4d8;border-radius:14px;padding:12px 15px;font-weight:800;font-size:13px}.hero,.card{background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:22px;margin:12px 0;box-shadow:0 5px 24px #5f50330b}.eyebrow{font-size:11px;font-weight:900;letter-spacing:.11em;text-transform:uppercase;color:var(--muted)}h1{font-size:36px;line-height:1.04;letter-spacing:-.045em;margin:9px 0 12px}.lead{font-size:17px;color:#44453f;margin:0}.summary{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-top:18px}.metric{border:1px solid var(--line);border-radius:14px;padding:12px;background:white}.metric b{display:block;font-size:25px}.metric span{font-size:12px;color:var(--muted)}.next{background:var(--amber);border-color:#ead79c}.next h2{margin:5px 0;font-size:21px}.button{display:inline-flex;align-items:center;justify-content:center;min-height:46px;border:0;border-radius:12px;padding:0 17px;font-weight:900;cursor:pointer;background:var(--dark);color:white}.secondary{background:white;color:var(--ink);border:1px solid var(--line)}.doc{display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center;border-top:1px solid var(--line);padding:16px 0}.doc:first-of-type{border-top:0}.doc h3{font-size:15px;margin:0 0 3px}.doc p{font-size:13px;color:var(--muted);margin:0}.pill{display:inline-block;border-radius:999px;padding:6px 9px;font-size:11px;font-weight:900;white-space:nowrap}.approved{background:var(--green);color:var(--greenInk)}.review{background:var(--blue);color:var(--blueInk)}.missing,.requested{background:var(--amber);color:var(--amberInk)}.rejected{background:var(--red);color:var(--redInk)}.done{opacity:.7}.notice{font-size:12px;color:var(--muted)}#toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:#1e2720;color:white;padding:12px 16px;border-radius:12px;display:none;max-width:90%;text-align:center}@media(max-width:600px){h1{font-size:31px}.summary{grid-template-columns:1fr 1fr}.doc{grid-template-columns:1fr}.pill{width:max-content}.button{width:100%}}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="demo">DEMO · synthetische Daten · bitte keine echten Mandantendaten verwenden oder hochladen</div>
+
+  <section class="hero">
+    <div class="eyebrow">Ihre digitale Akte</div>
+    <h1>Guten Morgen, Demo Mandant 👋</h1>
+    <p class="lead">Sie müssen nicht wissen, welche Unterlage wohin gehört. Wir zeigen Ihnen nur, <b>was noch fehlt</b> und was bereits erledigt ist.</p>
+    <div class="summary">
+      <div class="metric"><b id="confirmedCount">3</b><span>bestätigt</span></div>
+      <div class="metric"><b id="reviewCount">1</b><span>wird geprüft</span></div>
+      <div class="metric"><b id="missingCount">3</b><span>noch offen</span></div>
+    </div>
+  </section>
+
+  <section class="card next" id="nextCard">
+    <div class="eyebrow">Ihr nächster Schritt</div>
+    <h2 id="nextTitle">Bitte Meldebescheinigung hochladen</h2>
+    <p id="nextText">Ein Foto oder PDF reicht. In der echten Version ordnen wir es Ihrer Akte zu und die Kanzlei prüft es.</p>
+    <button class="button" onclick="simulateUpload('registration')">Demo-Upload simulieren</button>
+  </section>
+
+  <section class="card">
+    <div class="eyebrow">Unterlagen</div>
+    <div id="docs"></div>
+  </section>
+
+  <section class="card">
+    <div class="eyebrow">So einfach bleibt es</div>
+    <p><b>Gelb:</b> Sie müssen etwas tun. &nbsp; <b>Blau:</b> Kanzlei prüft. &nbsp; <b>Grün:</b> erledigt.</p>
+    <p class="notice">Diese Demo überträgt und speichert keine ausgewählten Dokumentdateien. Der echte Mandantenmodus ist getrennt und bleibt bis zur Datenschutz-/Berufsrechts-/Storage-Freigabe technisch deaktiviert.</p>
+  </section>
+</main>
+<div id="toast"></div>
+<script>
+const documents=[
+  {id:'passport',name:'Reisepass',status:'approved',note:'Von der Kanzlei bestätigt.'},
+  {id:'permit',name:'Aktueller Aufenthaltstitel',status:'review',note:'Ist angekommen. Sie müssen nichts tun.'},
+  {id:'registration',name:'Meldebescheinigung',status:'missing',note:'Bitte noch hochladen.'},
+  {id:'income',name:'Einkommensnachweis',status:'rejected',note:'Bitte erneut: Die letzte Seite war abgeschnitten.'},
+  {id:'insurance',name:'Krankenversicherungsnachweis',status:'requested',note:'Bereits angefragt. Noch nicht eingegangen.'},
+  {id:'photo',name:'Biometrisches Lichtbild',status:'approved',note:'Von der Kanzlei bestätigt.'},
+  {id:'form',name:'Antragsangaben',status:'approved',note:'Von der Kanzlei bestätigt.'}
+];
+const labels={approved:'BESTÄTIGT',review:'WIRD GEPRÜFT',missing:'BITTE HOCHLADEN',requested:'ANGEFRAGT',rejected:'BITTE ERNEUT'};
+function actionButton(d){if(d.status==='missing'||d.status==='rejected')return `<button class="button secondary" onclick="simulateUpload('${d.id}')">Demo-Upload</button>`;return `<span class="pill ${d.status}">${labels[d.status]}</span>`}
+function render(){
+  document.getElementById('docs').innerHTML=documents.map(d=>`<div class="doc"><div><h3>${d.name}</h3><p>${d.note}</p></div><div>${actionButton(d)}</div></div>`).join('');
+  const confirmed=documents.filter(d=>d.status==='approved').length,review=documents.filter(d=>d.status==='review').length,open=documents.length-confirmed-review;
+  confirmedCount.textContent=confirmed;reviewCount.textContent=review;missingCount.textContent=open;
+  const next=documents.find(d=>d.status==='rejected')||documents.find(d=>d.status==='missing');
+  if(next){nextTitle.textContent=(next.status==='rejected'?'Bitte erneut hochladen: ':'Bitte hochladen: ')+next.name;nextText.textContent=next.note}
+  else{nextCard.innerHTML='<div class="eyebrow">Ihr nächster Schritt</div><h2>Sie müssen gerade nichts tun ✓</h2><p>Alle benötigten Unterlagen sind eingegangen. Die Kanzlei prüft den Rest.</p>'}
+}
+function simulateUpload(id){const d=documents.find(x=>x.id===id);if(!d)return;d.status='review';d.note='Demo: Eingang bestätigt – die Kanzlei würde diese Unterlage jetzt prüfen.';show('Demo: Unterlage als eingegangen markiert. Es wurde keine Datei übertragen.');render()}
+function show(t){toast.textContent=t;toast.style.display='block';setTimeout(()=>toast.style.display='none',3000)}
+render();
+</script>
+</body></html>
