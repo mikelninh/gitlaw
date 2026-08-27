@@ -1,14 +1,10 @@
 /**
- * computeItemStatus — bestimmt den Review-Status eines Checklist-Items
- * aus der Perspektive des Anwalts/Refa.
+ * computeItemStatus — Review-Status eines Checklist-Items.
  *
- * Regeln (Priorität absteigend):
- * 1. 'approved'  — isItemComplete(c, item) UND jüngster nicht-gelöschter Doc = 'approved'
- * 2. 'rejected'  — jüngster nicht-gelöschter Doc hat reviewStatus='rejected'
- * 3. 'pending'   — mind. 1 nicht-gelöschter Doc mit reviewStatus='pending' (von Mandant)
- * 4. 'fehlt'     — kein nicht-gelöschter Doc vorhanden
- *
- * Anwalt-eigene Uploads (uploadedBy !== 'mandant') gelten als implizit 'approved'.
+ * Wichtige Ground-Truth-Regel:
+ * Ein Upload ist nur ein Eingang, niemals automatisch eine fachliche Freigabe.
+ * Das gilt gleich für Mandantenportal, E-Mail, WhatsApp, Brief-Scan und
+ * Kanzlei-Upload. Erst ein explizites Review setzt `reviewStatus=approved`.
  */
 
 import type { MandantCase, ChecklistItem } from './types'
@@ -23,31 +19,25 @@ export function computeItemStatus(c: MandantCase, item: ChecklistItem): ItemStat
 
   if (docs.length === 0) return 'fehlt'
 
-  // Jüngsten Doc bestimmen
   const sorted = docs.slice().sort((a, b) => {
     const ta = a.uploadedAt ? new Date(a.uploadedAt).getTime() : 0
     const tb = b.uploadedAt ? new Date(b.uploadedAt).getTime() : 0
     return tb - ta
   })
   const newest = sorted[0]
+  const newestStatus = newest.reviewStatus ?? 'pending'
 
-  // Effektiver reviewStatus: Anwalt-Uploads gelten immer als approved
-  function effectiveStatus(d: (typeof docs)[0]): 'approved' | 'pending' | 'rejected' {
-    if (d.uploadedBy !== 'mandant') return 'approved'
-    return d.reviewStatus ?? 'pending'
-  }
-
-  const newestStatus = effectiveStatus(newest)
-
+  // A rejected newest version means the current document must be replaced.
   if (newestStatus === 'rejected') return 'rejected'
 
-  // Gibt es irgendeinen pending Mandant-Upload?
-  const hasPending = docs.some(d => d.uploadedBy === 'mandant' && (d.reviewStatus ?? 'pending') === 'pending')
-  if (hasPending) return 'pending'
+  // Any unreviewed active document keeps the item in review. Staff uploads are
+  // deliberately included; provenance never bypasses human review.
+  if (docs.some(d => (d.reviewStatus ?? 'pending') === 'pending')) return 'pending'
 
-  // Alle Docs approved — prüfe ob Item vollständig
-  if (isItemComplete(c, item)) return 'approved'
+  // Only explicitly approved documents can satisfy completeness/count rules.
+  const allApproved = docs.every(d => d.reviewStatus === 'approved')
+  if (allApproved && isItemComplete(c, item)) return 'approved'
 
-  // Noch nicht genug approved Docs (z.B. 3 von 5 Seiten)
+  // Not enough usable/approved pages yet.
   return 'fehlt'
 }

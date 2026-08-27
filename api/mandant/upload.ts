@@ -7,10 +7,13 @@ import { resolveMandantInvite } from './_invite-resolver'
 import { getSql } from '../_db'
 
 /**
- * Items die nur Fotos (kein PDF) akzeptieren.
- * Wird parallel zu acceptedFormats in mandatsart-checklists.ts gepflegt.
- * Wenn ein neues image-only Item hinzukommt, hier eintragen.
+ * Real immigration-client uploads are deliberately fail-closed.
+ * Enable only after the firm's GO_LIVE_CHECKLIST has been approved for the
+ * concrete provider/auth/storage setup. Static demos never call this endpoint.
  */
+const REAL_CLIENT_UPLOADS_ENABLED = process.env.GITLAW_REAL_CLIENT_UPLOADS_ENABLED === 'true'
+
+/** Items that only accept images, not PDF. */
 const IMAGE_ONLY_ITEM_IDS = new Set([
   'biometrisches-lichtbild',
   'biometrisches-lichtbild-antragsteller',
@@ -21,6 +24,7 @@ const IMAGE_ONLY_ITEM_IDS = new Set([
 
 const redis = Redis.fromEnv()
 const MAX_BASE64_BYTES = 4_500_000
+// Legacy beta-vault TTL. This is NOT the long-term production storage policy.
 const TTL_SECONDS = 60 * 60 * 24 * 30
 
 function uid(): string {
@@ -50,12 +54,13 @@ async function appendDocumentToCase(
     serverDocumentId: string
     checksumSha256: string
     checklistItemId?: string
+    reviewStatus: 'pending'
+    sourceChannel: 'mandant_portal'
   },
   checklistItemId?: string,
 ): Promise<void> {
   const updatedAt = new Date().toISOString()
 
-  // 1. Individual-Key updaten (wenn vorhanden)
   const individualKey = `proEntity:${tenantId}:cases:${caseId}`
   const individual = await redis.get<StoredCase>(individualKey)
   if (individual) {
@@ -63,15 +68,13 @@ async function appendDocumentToCase(
       ...individual,
       documents: [...(Array.isArray(individual.documents) ? individual.documents : []), doc],
       checklistStates: checklistItemId
-        ? { ...(individual.checklistStates ?? {}), [checklistItemId]: 'received' }
+        ? { ...(individual.checklistStates ?? {}), [checklistItemId]: 'pending' }
         : (individual.checklistStates ?? {}),
       updatedAt,
     }
-    // TTL aus dem Bulk-Pattern: 90 Tage
     await redis.set(individualKey, updated, { ex: 60 * 60 * 24 * 90 })
   }
 
-  // 2. Bulk-Key updaten (den /pro liest)
   const bulkKey = `proEntity:${tenantId}:cases`
   const bulk = await redis.get<{ tenantId: string; collection: string; items: StoredCase[]; updatedAt: string; updatedBy: string }>(bulkKey)
   if (bulk?.items) {
@@ -82,7 +85,7 @@ async function appendDocumentToCase(
         ...caseEntry,
         documents: [...(Array.isArray(caseEntry.documents) ? caseEntry.documents : []), doc],
         checklistStates: checklistItemId
-          ? { ...(caseEntry.checklistStates ?? {}), [checklistItemId]: 'received' }
+          ? { ...(caseEntry.checklistStates ?? {}), [checklistItemId]: 'pending' }
           : (caseEntry.checklistStates ?? {}),
         updatedAt,
       }
@@ -98,14 +101,21 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (!corsAllowed) return res.status(403).json({ error: 'Origin not allowed' })
   if (req.method === 'OPTIONS') return res.status(200).end()
 
-  // Upload-Spam-Schutz (RATE_WRITE: 30 req/min/IP)
+  if (!REAL_CLIENT_UPLOADS_ENABLED) {
+    return res.status(503).json({
+      error: 'Real-Client-Mode ist noch nicht freigegeben.',
+      code: 'REAL_CLIENT_MODE_DISABLED',
+      hint: 'Nur synthetische Demo verwenden. Kanzlei muss Datenschutz-, Berufsrechts-, Auth- und Storage-Gates freigeben.',
+    })
+  }
+
   const rlOk = await applyRateLimit(req, res, RATE_WRITE)
   if (!rlOk) return
 
   if (!process.env.KV_REST_API_URL || !process.env.KV_REST_API_TOKEN) {
     return res.status(503).json({
       error: 'Upload-Vault ist nicht konfiguriert.',
-      hint: 'Upstash-Integration im Vercel-Dashboard verbinden.',
+      hint: 'Storage-Konfiguration durch Admin prüfen.',
     })
   }
 
@@ -127,22 +137,16 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       return res.status(400).json({ error: 'Nur Bilder und PDFs sind erlaubt' })
     }
 
-    // Für image-only Items (z.B. biometrisches Passfoto) PDF ablehnen
     if (
       typeof checklistItemId === 'string' &&
       IMAGE_ONLY_ITEM_IDS.has(checklistItemId) &&
       mimeType === 'application/pdf'
     ) {
-      return res.status(400).json({
-        error: 'Für dieses Dokument bitte ein Foto (JPG/PNG), kein PDF',
-      })
+      return res.status(400).json({ error: 'Für dieses Dokument bitte ein Foto (JPG/PNG), kein PDF' })
     }
 
     if (typeof base64 !== 'string' || base64.length > MAX_BASE64_BYTES) {
-      return res.status(413).json({
-        error: 'Datei zu groß',
-        limitBase64Bytes: MAX_BASE64_BYTES,
-      })
+      return res.status(413).json({ error: 'Datei zu groß', limitBase64Bytes: MAX_BASE64_BYTES })
     }
 
     const documentId = uid()
@@ -176,10 +180,15 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       id: documentId,
       originalName: fileName,
       internalName,
+      name: fileName,
+      type: mimeType,
+      size: sizeBytes,
       mimeType,
       sizeBytes,
       uploadedAt,
       uploadedBy: 'mandant',
+      sourceChannel: 'mandant_portal' as const,
+      reviewStatus: 'pending' as const,
       storageMode: 'server_vault',
       serverDocumentId: documentId,
       checksumSha256,
@@ -187,21 +196,13 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       photoSlotId: typeof photoSlotId === 'string' ? photoSlotId : undefined,
     }
 
-    await appendDocumentToCase(
-      invite.tenantId,
-      invite.caseId,
-      docRecord,
-      typeof checklistItemId === 'string' ? checklistItemId : undefined,
-    )
+    await appendDocumentToCase(invite.tenantId, invite.caseId, docRecord, typeof checklistItemId === 'string' ? checklistItemId : undefined)
 
-    // Cache-Invalidierung — Bao soll Mandant-Upload sofort sehen, nicht erst nach 5min Cache-TTL
     try {
       await redis.del(`proEntity:${invite.tenantId}:cases`)
       await redis.del(`proEntity:${invite.tenantId}:cases:${invite.caseId}`)
     } catch { /* non-blocking */ }
 
-    // Postgres mirror — Document zusätzlich in Postgres persistieren.
-    // Statischer Import oben (kein dynamic import in Vercel-Functions — failed silent).
     try {
       const sql = getSql()
       await sql`
@@ -211,9 +212,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
           kind, checklist_item_id, photo_slot_id, uploaded_by, uploaded_at
         )
         SELECT
-          ${documentId},
-          ${invite.caseId},
-          t.id,
+          ${documentId}, ${invite.caseId}, t.id,
           ${fileName}, ${internalName}, ${mimeType},
           ${sizeBytes}, ${checksumSha256}, 'upstash_redis', ${docKey},
           'mandant_upload',
@@ -223,13 +222,11 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         FROM tenants t WHERE t.slug = ${invite.tenantId}
         ON CONFLICT (id) DO NOTHING
       `
-      // checklist_states im cases-row updaten — der Mandant-Frontend liest das
-      // nicht (rechnet selbst), aber Pro-Side legacy-views schon
       if (typeof checklistItemId === 'string') {
         await sql`
           UPDATE cases
           SET checklist_states = COALESCE(checklist_states, '{}'::jsonb)
-              || jsonb_build_object(${checklistItemId}::text, 'received'::text),
+              || jsonb_build_object(${checklistItemId}::text, 'pending'::text),
               updated_at = now()
           WHERE id = ${invite.caseId}
         `
@@ -240,7 +237,6 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       console.error('[upload] Postgres mirror FAILED:', err instanceof Error ? err.message : err, 'docId=', documentId, 'caseId=', invite.caseId)
     }
 
-    // proSync-Snapshot aktualisieren (für /pro pullFromCloud-Sichtbarkeit)
     try {
       const snapKey = `proSync:${invite.tenantId}`
       const snap = await redis.get<any>(snapKey)
@@ -248,6 +244,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         const idx = snap.cases.findIndex((c: any) => c.id === invite.caseId)
         if (idx >= 0) {
           snap.cases[idx].documents = [...(snap.cases[idx].documents ?? []), docRecord]
+          snap.cases[idx].checklistStates = {
+            ...(snap.cases[idx].checklistStates ?? {}),
+            ...(typeof checklistItemId === 'string' ? { [checklistItemId]: 'pending' } : {}),
+          }
           snap.cases[idx].updatedAt = uploadedAt
           snap.exportedAt = uploadedAt
           await redis.set(snapKey, snap, { ex: 60 * 60 * 24 * 90 })
@@ -257,7 +257,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       console.warn('[mandant-sync] proSync update failed:', err instanceof Error ? err.message : err)
     }
 
-    return res.status(200).json({ ok: true, documentId, checksumSha256 })
+    return res.status(200).json({ ok: true, documentId, checksumSha256, reviewStatus: 'pending' })
   }
 
   return res.status(405).json({ error: 'Method not allowed' })

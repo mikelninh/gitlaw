@@ -29,15 +29,30 @@ export interface BackendCaseResponse {
   lang: 'de' | 'vi'
 }
 
+export type ChecklistChangeAction = 'not_applicable' | 'add_document' | 'question'
+
+export interface BackendChecklistChangeRequest {
+  id: string
+  caseId: string
+  checklistItemId?: string
+  action: ChecklistChangeAction
+  message?: string
+  createdAt: string
+  status: 'pending'
+  source: 'mandant_portal'
+}
+
+async function jsonError(resp: Response, fallback: string): Promise<never> {
+  const body = await resp.json().catch(() => ({})) as { error?: string }
+  throw new Error(body?.error ?? `${fallback} (HTTP ${resp.status})`)
+}
+
 export async function fetchMandantCase(token: string): Promise<BackendCaseResponse> {
   const resp = await fetch(
     `${API_URL}/api/mandant/case?token=${encodeURIComponent(token)}`,
     { headers: { 'Content-Type': 'application/json' } },
   )
-  if (!resp.ok) {
-    const body = await resp.json().catch(() => ({})) as { error?: string }
-    throw new Error(body?.error ?? `Akte konnte nicht geladen werden (HTTP ${resp.status})`)
-  }
+  if (!resp.ok) return jsonError(resp, 'Akte konnte nicht geladen werden')
   return (await resp.json()) as BackendCaseResponse
 }
 
@@ -50,10 +65,7 @@ export async function deleteMandantDocument(
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ token, documentId }),
   })
-  if (!resp.ok) {
-    const body = await resp.json().catch(() => ({})) as { error?: string }
-    throw new Error(body?.error ?? `Löschen fehlgeschlagen (HTTP ${resp.status})`)
-  }
+  if (!resp.ok) return jsonError(resp, 'Löschen fehlgeschlagen')
   return (await resp.json()) as { ok: true; deleted: true }
 }
 
@@ -92,9 +104,27 @@ export async function uploadMandantDocument(
     }),
   })
 
-  if (!resp.ok) {
-    const body = await resp.json().catch(() => ({})) as { error?: string }
-    throw new Error(body?.error ?? `Upload fehlgeschlagen (HTTP ${resp.status})`)
-  }
+  if (!resp.ok) return jsonError(resp, 'Upload fehlgeschlagen')
   return (await resp.json()) as { ok: true; documentId: string; checksumSha256: string }
+}
+
+export async function fetchChecklistChangeRequests(token: string): Promise<BackendChecklistChangeRequest[]> {
+  const resp = await fetch(`${API_URL}/api/mandant/checklist-change?token=${encodeURIComponent(token)}`)
+  if (!resp.ok) return jsonError(resp, 'Änderungswünsche konnten nicht geladen werden')
+  const body = await resp.json() as { ok: true; requests: BackendChecklistChangeRequest[] }
+  return body.requests ?? []
+}
+
+export async function submitChecklistChangeRequest(
+  token: string,
+  input: { action: ChecklistChangeAction; checklistItemId?: string; message?: string },
+): Promise<BackendChecklistChangeRequest> {
+  const resp = await fetch(`${API_URL}/api/mandant/checklist-change`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ token, ...input }),
+  })
+  if (!resp.ok) return jsonError(resp, 'Änderungswunsch konnte nicht gesendet werden')
+  const body = await resp.json() as { ok: true; request: BackendChecklistChangeRequest }
+  return body.request
 }
