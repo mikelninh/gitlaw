@@ -10,6 +10,7 @@ import {
   ShieldCheck,
 } from 'lucide-react'
 import ProDashboard from './ProDashboard'
+import { canAccessRoute } from './access'
 import { listCases } from './store'
 
 const FLOW = [
@@ -50,16 +51,19 @@ const FLOW = [
   },
   {
     number: '06',
-    label: 'Review',
-    detail: 'Anwaltlich prüfen und freigeben',
+    label: 'Anwaltlicher Review',
+    detail: 'Akte prüfen und offene Punkte klären',
     icon: FileCheck2,
-    to: '/pro/audit',
+    to: '/pro/akten',
   },
 ] as const
 
 export default function ProMatterHome() {
   const activeMatter = listCases().find(caseItem => caseItem.status === 'aktiv')
   const matterUrl = activeMatter ? `/pro/akten/${activeMatter.id}` : '/pro/akten'
+  const researchUrl = activeMatter
+    ? `/pro/recherche?case=${encodeURIComponent(activeMatter.id)}`
+    : '/pro/recherche'
 
   return (
     <div className="pro-matter-home space-y-8">
@@ -72,7 +76,7 @@ export default function ProMatterHome() {
                 Matter workspace · GitLaw Pro
               </p>
               <h1 id="matter-workspace-title" className="pro-matter-title">
-                Vom Sachverhalt zur anwaltlichen Freigabe.
+                Vom Sachverhalt zum anwaltlichen Review.
               </h1>
               <p className="pro-matter-copy">
                 GitLaw hält Fallkontext, Recherche, Quellen und offene Fragen in einem prüfbaren Arbeitsfluss zusammen.
@@ -98,15 +102,39 @@ export default function ProMatterHome() {
         <div className="pro-matter-flow" aria-label="GitLaw Pro Arbeitsfluss">
           {FLOW.map((stage, index) => {
             const Icon = stage.icon
-            const to = activeMatter && (index === 1 || index === 4) ? matterUrl : stage.to
-            return (
-              <Link key={stage.number} to={to} className="pro-matter-stage">
+            let to = stage.to
+            if (activeMatter && (index === 1 || index === 4 || index === 5)) to = matterUrl
+            if (activeMatter && (index === 2 || index === 3)) to = researchUrl
+            const routeForAccess = to.split('?')[0]
+            const allowed = canAccessRoute(routeForAccess)
+
+            const content = (
+              <>
                 <div className="pro-matter-stage-number">
                   <span>{stage.number}</span>
                   <Icon className="pro-matter-stage-icon" aria-hidden="true" />
                 </div>
                 <h3>{stage.label}</h3>
                 <p>{stage.detail}</p>
+              </>
+            )
+
+            if (!allowed) {
+              return (
+                <div
+                  key={stage.number}
+                  className="pro-matter-stage pro-matter-stage-disabled"
+                  aria-disabled="true"
+                  title="Für deine Rolle nicht freigeschaltet"
+                >
+                  {content}
+                </div>
+              )
+            }
+
+            return (
+              <Link key={stage.number} to={to} className="pro-matter-stage">
+                {content}
               </Link>
             )
           })}
@@ -115,7 +143,7 @@ export default function ProMatterHome() {
         <div className="pro-matter-trustline">
           <ShieldCheck className="h-3.5 w-3.5 text-[var(--color-gold)]" aria-hidden="true" />
           <span>
-            <strong>Human review by design.</strong> Quellen, Unsicherheit und offene Punkte bleiben bis zur Freigabe sichtbar.
+            <strong>Human review by design.</strong> Quellen, Unsicherheit und offene Punkte bleiben bis zur Prüfung sichtbar.
           </span>
         </div>
       </section>
