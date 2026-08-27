@@ -5,7 +5,7 @@ on:
     paths:
       - 'pilot/law-firm/**'
       - 'api/pro/pilot-replay.ts'
-      - 'api/mandant/upload.ts'
+      - 'api/mandant/**'
       - 'api/_llm.ts'
       - 'api/_audit.ts'
       - 'api/_ratelimit.ts'
@@ -24,7 +24,7 @@ on:
     paths:
       - 'pilot/law-firm/**'
       - 'api/pro/pilot-replay.ts'
-      - 'api/mandant/upload.ts'
+      - 'api/mandant/**'
       - 'gitlaw_mcp/citations.py'
       - 'viewer/src/pro/**'
       - 'viewer/src/mandant/**'
@@ -51,7 +51,7 @@ jobs:
         run: |
           npm install --no-audit --no-fund
           npm install --prefix api --no-audit --no-fund
-          python -m pip install --disable-pip-version-check pytest
+          python -m pip install --disable-pip-version-check pytest mcp
 
       - name: Run law-firm pilot edge cases
         run: node --test pilot/law-firm/core.test.mjs
@@ -60,7 +60,7 @@ jobs:
         run: node --test pilot/law-firm/ops-console.e2e.test.mjs
 
       - name: Run migration document ground-truth contracts
-        run: npx vitest run viewer/src/pro/document-ground-truth.test.ts
+        run: npx vitest run pilot/law-firm/document-ground-truth.test.ts
 
       - name: Preserve GitLaw citation contract
         run: python -m gitlaw_mcp.tests.test_eval
@@ -85,6 +85,8 @@ jobs:
           for(const text of ['§ 43e BRAO','§ 203 StGB','Art. 28 DSGVO','kein Rechtsgutachten']) if(!legal.includes(text)) throw new Error('legal contract missing '+text);
           for(const text of ['FEHLT','ANGEFRAGT','EINGEGANGEN','ZU PRÜFEN','BESTÄTIGT','NEU ANFORDERN','NICHT ERFORDERLICH','BEREIT FÜR ANWALT','AKTE FREIGEBEN']) if(!workflow.includes(text)) throw new Error('workflow contract missing '+text);
           for(const text of ['DEMO','keine echten Mandantendaten']) if(!clientDemo.includes(text)||!officeDemo.includes(text)) throw new Error('demo safety banner missing '+text);
+          for(const text of ['DE','VI','Liste anpassen','Điều chỉnh danh sách','Upload','Tải lên']) if(!clientDemo.includes(text)) throw new Error('client bilingual/edit contract missing '+text);
+          for(const text of ['PASST NICHT','ERGÄNZEN','ÄNDERUNG PRÜFEN','BEREIT FÜR ANWALT']) if(!officeDemo.includes(text)) throw new Error('office simplicity contract missing '+text);
           for(const text of ['Real-Client-Mode','AVV','Art. 9','Art. 10','EU']) if(!goLive.includes(text)) throw new Error('go-live gate missing '+text);
           for(const text of ['GITLAW_PILOT_SERVICE_TOKEN','STOPP_PRIVACY','execution_allowed: false']) if(!api.includes(text)) throw new Error('api boundary missing '+text);
           if(customer.includes('automatische Rechtsberatung')) throw new Error('unsafe customer claim');
