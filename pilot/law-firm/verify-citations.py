@@ -8,9 +8,17 @@ Writes verification JSON to stdout. No matter text is logged or persisted.
 from __future__ import annotations
 
 import json
+from pathlib import Path
 import re
 import sys
 from typing import Any
+
+# This file is executed directly from pilot/law-firm. Python therefore puts that
+# directory, not the repository root, on sys.path. Make the checked-in GitLaw
+# package importable deterministically in CI and on the Operations workstation.
+REPO_ROOT = Path(__file__).resolve().parents[2]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
 
 from gitlaw_mcp.citations import extract_paragraph, find_law_file, parse_citation
 
