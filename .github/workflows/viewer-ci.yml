@@ -39,3 +39,10 @@ jobs:
       - name: Build viewer
         working-directory: viewer
         run: npm run build
+      - name: Upload built viewer for visual QA
+        uses: actions/upload-artifact@v4
+        with:
+          name: gitlaw-viewer-preview
+          path: viewer/dist
+          if-no-files-found: error
+          retention-days: 1
