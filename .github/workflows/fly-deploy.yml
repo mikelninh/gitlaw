@@ -1,12 +1,13 @@
 # Fly.io push-to-deploy for the GitLaw MCP server.
 #
 # Triggers on every push to main that touches gitlaw_mcp/, fly.toml, laws/
-# or this workflow. Uses BuildKit cache via Fly's remote builder, so subsequent
-# deploys are typically <60s.
+# or this workflow. The deployment is optional: repositories without a
+# FLY_API_TOKEN must produce a clean skipped deployment rather than a false-red
+# workflow before any job starts.
 #
 # Setup once:
 #   1. flyctl auth login
-#   2. flyctl auth token              # generates an API token
+#   2. flyctl auth token
 #   3. Add it as repo secret FLY_API_TOKEN in GitHub → Settings → Secrets
 
 name: Fly Deploy (MCP server)
@@ -32,10 +33,19 @@ jobs:
   deploy:
     name: Deploy to Fly.io (Frankfurt)
     runs-on: ubuntu-latest
-    if: ${{ secrets.FLY_API_TOKEN != '' }}    # skip if token not set yet
+    env:
+      FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
     steps:
+      - name: Explain optional deployment when token is absent
+        if: ${{ env.FLY_API_TOKEN == '' }}
+        run: echo "FLY_API_TOKEN not configured; optional Fly.io deployment skipped cleanly."
+
       - uses: actions/checkout@v4
+        if: ${{ env.FLY_API_TOKEN != '' }}
+
       - uses: superfly/flyctl-actions/setup-flyctl@master
-      - run: flyctl deploy --remote-only
-        env:
-          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+        if: ${{ env.FLY_API_TOKEN != '' }}
+
+      - name: Deploy MCP server
+        if: ${{ env.FLY_API_TOKEN != '' }}
+        run: flyctl deploy --remote-only
