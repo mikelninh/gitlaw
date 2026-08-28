@@ -11,19 +11,21 @@ try {
   await page.getByText('Spielwiese mit 8 synthetischen Akten.').waitFor()
   assert.equal(await page.getByPlaceholder('Akte suchen …').count(), 1)
 
-  // Search/filter must narrow the synthetic matter list without losing navigation.
+  // Search/filter narrows the matter list while intentionally keeping the
+  // currently opened matter visible in the workspace on the right.
+  const matterList = page.locator('aside').filter({ has: page.getByPlaceholder('Akte suchen …') })
   const search = page.getByPlaceholder('Akte suchen …')
   await search.fill('Nguyen')
-  await page.getByText('Nguyen Familie', { exact: true }).waitFor()
-  assert.equal(await page.getByText('Jusuf Öztürk', { exact: true }).count(), 0)
+  await matterList.getByText('Nguyen Familie', { exact: true }).waitFor()
+  assert.equal(await matterList.getByText('Jusuf Öztürk', { exact: true }).count(), 0)
   await search.fill('')
-  await page.getByText('Jusuf Öztürk', { exact: true }).waitFor()
+  await matterList.getByText('Jusuf Öztürk', { exact: true }).waitFor()
 
   // Public demo must keep the review chain local and human-controlled.
   await page.getByRole('button', { name: 'Dokumente' }).click()
   await page.getByText('Eingegangen ≠ geprüft').waitFor()
   const docReviewButtons = page.getByRole('button', { name: 'Nach Sichtprüfung bestätigen' })
-  for (let i = 0; i < await docReviewButtons.count(); i++) await docReviewButtons.nth(i).click()
+  while (await docReviewButtons.count()) await docReviewButtons.first().click()
 
   await page.getByRole('button', { name: 'Quellen' }).click()
   await page.getByText('Quelle für Quelle reviewen').waitFor()
@@ -46,11 +48,19 @@ try {
   assert.equal(await release.isDisabled(), true)
 
   // Resolve only explicit human-review questions; no external action should happen.
-  const openQuestions = page.locator('section').filter({ hasText: 'Offene Tatsachenfragen' }).getByRole('button')
-  for (let i = 0; i < await openQuestions.count(); i++) {
-    const button = openQuestions.nth(i)
-    if ((await button.textContent())?.includes('Menschlich freigeben')) continue
-    if (await button.isEnabled()) await button.click()
+  const reviewPanel = page.locator('section').filter({ hasText: 'HUMAN REVIEW GATE' })
+  const openQuestions = reviewPanel.locator('button').filter({ hasNotText: 'Menschlich freigeben' })
+  while (await openQuestions.count()) {
+    const button = openQuestions.first()
+    await button.click()
+    if ((await button.getAttribute('class'))?.includes('line-through')) break
+    // React may keep the same buttons after state change, so stop after the
+    // number of explicit matter questions has been resolved by state text.
+    if (await reviewPanel.getByText('Alle Demo-Fragen menschlich geklärt.').count()) break
+  }
+  if (!(await reviewPanel.getByText('Alle Demo-Fragen menschlich geklärt.').count())) {
+    const unresolved = reviewPanel.locator('button').filter({ hasNotText: 'Menschlich freigeben' })
+    for (let i = 0; i < await unresolved.count(); i++) await unresolved.nth(i).click()
   }
   await page.getByText('Review-Gate bereit').waitFor()
   assert.equal(await release.isDisabled(), false)
