@@ -47,21 +47,11 @@ try {
   const release = page.getByRole('button', { name: 'Menschlich freigeben (Demo)' })
   assert.equal(await release.isDisabled(), true)
 
-  // Resolve only explicit human-review questions; no external action should happen.
-  const reviewPanel = page.locator('section').filter({ hasText: 'HUMAN REVIEW GATE' })
-  const openQuestions = reviewPanel.locator('button').filter({ hasNotText: 'Menschlich freigeben' })
-  while (await openQuestions.count()) {
-    const button = openQuestions.first()
-    await button.click()
-    if ((await button.getAttribute('class'))?.includes('line-through')) break
-    // React may keep the same buttons after state change, so stop after the
-    // number of explicit matter questions has been resolved by state text.
-    if (await reviewPanel.getByText('Alle Demo-Fragen menschlich geklärt.').count()) break
-  }
-  if (!(await reviewPanel.getByText('Alle Demo-Fragen menschlich geklärt.').count())) {
-    const unresolved = reviewPanel.locator('button').filter({ hasNotText: 'Menschlich freigeben' })
-    for (let i = 0; i < await unresolved.count(); i++) await unresolved.nth(i).click()
-  }
+  // Resolve the three explicit factual questions of the default synthetic matter.
+  await page.getByRole('button', { name: 'Exakte Zusammensetzung des behaupteten Rückstands' }).click()
+  await page.getByRole('button', { name: 'Kontoauszüge vollständig?' }).click()
+  await page.getByRole('button', { name: 'Nebenkostenforderung fällig und prüffähig?' }).click()
+  await page.getByText('Alle Demo-Fragen menschlich geklärt.').waitFor()
   await page.getByText('Review-Gate bereit').waitFor()
   assert.equal(await release.isDisabled(), false)
   await release.click()
