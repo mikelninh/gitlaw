@@ -69,3 +69,50 @@
 .pro-matter-stage-disabled:hover {
   background: transparent;
 }
+
+/* Tokenless Pro portfolio demo: prevent min-content sizing from widening the
+   single-column layout on tablets/phones. Keep filters and the full synthetic
+   matter list naturally reachable instead of nesting scroll areas. */
+div[class~="bg-[#22272a]"] div[class*="overflow-x-auto"] {
+  flex-wrap: wrap;
+  overflow-x: visible !important;
+}
+
+@media (max-width: 1279px) {
+  div[class~="bg-[#22272a]"] > div[class*="max-w-[1500px]"] > div[class~="grid"] {
+    grid-template-columns: minmax(0, 1fr) !important;
+    min-width: 0;
+    width: 100%;
+  }
+
+  div[class~="bg-[#22272a]"] aside,
+  div[class~="bg-[#22272a]"] main {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  div[class~="bg-[#22272a]"] aside div[class*="max-h-[62vh]"] {
+    max-height: none !important;
+    overflow: visible !important;
+  }
+}
+
+@media (max-width: 639px) {
+  div[class~="bg-[#22272a]"] {
+    overflow-x: hidden;
+  }
+
+  div[class~="bg-[#22272a]"] > div[class*="max-w-[1500px]"] {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+
+  div[class~="bg-[#22272a]"] header > div {
+    align-items: flex-start;
+  }
+
+  div[class~="bg-[#22272a]"] main section > div > div[class*="min-w-[260px]"] {
+    min-width: 0 !important;
+    width: 100%;
+  }
+}
