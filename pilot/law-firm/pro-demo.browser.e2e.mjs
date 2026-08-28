@@ -22,35 +22,35 @@ try {
   await matterList.getByText('Jusuf Öztürk', { exact: true }).waitFor()
 
   // Public demo must keep the review chain local and human-controlled.
-  await page.getByRole('button', { name: 'Dokumente' }).click()
+  await page.getByRole('button', { name: 'Dokumente', exact: true }).click()
   await page.getByText('Eingegangen ≠ geprüft').waitFor()
-  const docReviewButtons = page.getByRole('button', { name: 'Nach Sichtprüfung bestätigen' })
+  const docReviewButtons = page.getByRole('button', { name: 'Nach Sichtprüfung bestätigen', exact: true })
   while (await docReviewButtons.count()) await docReviewButtons.first().click()
 
-  await page.getByRole('button', { name: 'Quellen' }).click()
+  await page.getByRole('button', { name: 'Quellen', exact: true }).click()
   await page.getByText('Quelle für Quelle reviewen').waitFor()
-  const sourceReviewButtons = page.getByRole('button', { name: 'Als geprüft markieren (Demo)' })
+  const sourceReviewButtons = page.getByRole('button', { name: 'Als geprüft markieren (Demo)', exact: true })
   while (await sourceReviewButtons.count()) await sourceReviewButtons.first().click()
 
-  await page.getByRole('button', { name: 'Research' }).click()
+  await page.getByRole('button', { name: 'Research', exact: true }).click()
   await page.getByText('Mit Aktenkontext recherchieren').waitFor()
   const researchBox = page.locator('textarea').first()
   await researchBox.fill('Welche Punkte bleiben nach Akten- und Quellenprüfung offen?')
-  await page.getByRole('button', { name: 'Research starten' }).click()
+  await page.getByRole('button', { name: 'Research starten', exact: true }).click()
   await page.getByText('Synthetischer Research-Lauf').waitFor()
   await page.getByText('kein Live-LLM und keine Rechtsberatung').waitFor()
 
-  await page.getByRole('button', { name: 'Entwurf' }).click()
+  await page.getByRole('button', { name: 'Entwurf', exact: true }).click()
   await page.getByText('DRAFT — NICHT FREIGABE').waitFor()
-  await page.getByRole('button', { name: 'Zum Review →' }).click()
+  await page.getByRole('button', { name: 'Zum Review →', exact: true }).click()
   await page.getByText('Freigabe blockiert').waitFor()
-  const release = page.getByRole('button', { name: 'Menschlich freigeben (Demo)' })
+  const release = page.getByRole('button', { name: 'Menschlich freigeben (Demo)', exact: true })
   assert.equal(await release.isDisabled(), true)
 
   // Resolve the three explicit factual questions of the default synthetic matter.
-  await page.getByRole('button', { name: 'Exakte Zusammensetzung des behaupteten Rückstands' }).click()
-  await page.getByRole('button', { name: 'Kontoauszüge vollständig?' }).click()
-  await page.getByRole('button', { name: 'Nebenkostenforderung fällig und prüffähig?' }).click()
+  await page.getByRole('button', { name: 'Exakte Zusammensetzung des behaupteten Rückstands', exact: true }).click()
+  await page.getByRole('button', { name: 'Kontoauszüge vollständig?', exact: true }).click()
+  await page.getByRole('button', { name: 'Nebenkostenforderung fällig und prüffähig?', exact: true }).click()
   await page.getByText('Alle Demo-Fragen menschlich geklärt.').waitFor()
   await page.getByText('Review-Gate bereit').waitFor()
   assert.equal(await release.isDisabled(), false)
@@ -58,7 +58,7 @@ try {
   await page.getByText('In der Demo menschlich freigegeben').waitFor()
   await page.getByText('Keine externe Aktion wurde ausgeführt').waitFor()
 
-  await page.getByRole('button', { name: 'Audit' }).click()
+  await page.getByRole('button', { name: 'Audit', exact: true }).click()
   await page.getByText('Arbeitsstand menschlich freigegeben — keine externe Wirkung').waitFor()
 
   // Permanently lock the mobile-overflow regression found during visual QA.
