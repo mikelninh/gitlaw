@@ -1,0 +1,116 @@
+name: n8n live proof
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "n8n/outcome-engine-live-proof.json"
+      - ".github/workflows/n8n-live-proof.yml"
+  push:
+    branches:
+      - feat/n8n-outcome-engine
+    paths:
+      - "n8n/outcome-engine-live-proof.json"
+      - ".github/workflows/n8n-live-proof.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  execute-live-proof:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      N8N_DIAGNOSTICS_ENABLED: "false"
+      N8N_VERSION_NOTIFICATIONS_ENABLED: "false"
+      N8N_TEMPLATES_ENABLED: "false"
+      N8N_LOG_LEVEL: info
+      N8N_ENCRYPTION_KEY: outcome-engine-ci-only-encryption-key-2026
+      DB_TYPE: sqlite
+      DB_SQLITE_DATABASE: /tmp/n8n-outcome-engine.sqlite
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Install n8n
+        run: npm install --global n8n@2.30.5 --no-audit --no-fund
+
+      - name: Import proof workflow
+        run: n8n import:workflow --input=n8n/outcome-engine-live-proof.json --skipMigrationChecks
+
+      - name: Execute proof workflow
+        run: n8n execute --id outcome-engine-live-proof --rawOutput > /tmp/n8n-live-proof.json
+
+      - name: Assert and summarize evidence
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          raw_path = Path('/tmp/n8n-live-proof.json')
+          raw = raw_path.read_text()
+          json_start = raw.find('{')
+          if json_start < 0:
+              raise SystemExit('n8n execution output contained no JSON object')
+          data = json.loads(raw[json_start:])
+
+          matches = []
+          def walk(value):
+              if isinstance(value, dict):
+                  if value.get('passed') is True and isinstance(value.get('checks'), dict):
+                      matches.append(value)
+                  for child in value.values():
+                      walk(child)
+              elif isinstance(value, list):
+                  for child in value:
+                      walk(child)
+
+          walk(data)
+          if not matches:
+              raise SystemExit('No passed proof object found in n8n execution output')
+
+          proof = matches[-1]
+          required = {
+              'live_gateway': True,
+              'no_auto_send': True,
+              'structured_run_id': True,
+              'deadline_correct': True,
+              'three_documents': True,
+              'human_review_gate': True,
+          }
+          if proof.get('checks') != required:
+              raise SystemExit(f'Unexpected proof checks: {proof.get("checks")}')
+
+          summary = {
+              'result': 'PASS',
+              'runtime': 'n8n 2.30.5',
+              'checks': proof['checks'],
+              'backend_mode': proof.get('backend_mode'),
+              'agent_run_id': proof.get('agent_run_id'),
+              'deadline': proof.get('deadline'),
+              'documents': proof.get('documents'),
+              'tool_trace': proof.get('tool_trace'),
+              'elapsed_ms': proof.get('elapsed_ms'),
+              'auto_send': proof.get('auto_send'),
+          }
+          Path('/tmp/n8n-proof-summary.json').write_text(json.dumps(summary, indent=2, ensure_ascii=False))
+          print(json.dumps(summary, indent=2, ensure_ascii=False))
+          PY
+
+      - name: Preserve execution evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: n8n-live-proof-evidence
+          path: |
+            /tmp/n8n-live-proof.json
+            /tmp/n8n-proof-summary.json
+          if-no-files-found: warn
+          retention-days: 14
