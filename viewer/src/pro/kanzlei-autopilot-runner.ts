@@ -38,8 +38,7 @@ export function runSafeKanzleiAutopilot(now = new Date()): SafeAutopilotRunRepor
       if (doc.deletedAt || doc.ocrText) continue
       const existing = (c.documentJobs || []).some(job =>
         job.type === 'ocr' &&
-        (job.documentId === doc.id || job.attachmentInternalName === doc.internalName) &&
-        job.status !== 'failed',
+        (job.documentId === doc.id || job.attachmentInternalName === doc.internalName),
       )
       if (existing) continue
       const queued = queueDocumentJob(c.id, {
