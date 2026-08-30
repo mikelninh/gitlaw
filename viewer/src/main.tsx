@@ -20,9 +20,9 @@ import MietrechtResearchDesk from './MietrechtResearchDesk.tsx'
  *   /#/mietrecht              → public real-input Mietrecht research pilot
  *   /#/pro-demo               → tokenless synthetic Pro portfolio demo
  *   /#/bao                    → Bao's Autopilot-first invitation
- *   /#/pro/*                   → Anwält:innen Pro tier (invite-gated; includes Kanzlei Autopilot)
- *   /#/intake/:slug            → Mandant:innen-Fragebogen (öffentlich)
- *   /#/preise                  → Pricing-Page (öffentlich)
+ *   /#/pro/*                  → Anwält:innen Pro tier (invite-gated; includes Kanzlei Autopilot)
+ *   /#/intake/:slug           → Mandant:innen-Fragebogen (öffentlich)
+ *   /#/preise                 → Pricing-Page (öffentlich)
  */
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -37,6 +37,7 @@ createRoot(document.getElementById('root')!).render(
           <Route path="/pro-demo" element={<ProPortfolioDemo />} />
           {/* Personalized welcome routes — public, no case data */}
           <Route path="/bao" element={<BaoAutopilotWelcome />} />
+          <Route path="/willkommen/bao" element={<BaoAutopilotWelcome />} />
           <Route path="/rubin" element={<WelcomePersonal personaSlug="rubin" />} />
           <Route path="/werner" element={<WelcomePersonal personaSlug="werner" />} />
           <Route path="/jasmin" element={<WelcomePersonal personaSlug="jasmin" />} />
