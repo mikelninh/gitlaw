@@ -7,6 +7,7 @@ const routes = fs.readFileSync('viewer/src/pro/ProApp.tsx', 'utf8')
 const shadow = fs.readFileSync('viewer/src/pro/shadow-lock.ts', 'utf8')
 const sync = fs.readFileSync('viewer/src/pro/sync.ts', 'utf8')
 const ai = fs.readFileSync('viewer/src/pro/ai.ts', 'utf8')
+const auth = fs.readFileSync('viewer/src/pro/ProAuth.tsx', 'utf8')
 
 test('Friday pilot route stays inside authenticated Pro workspace', () => {
   assert.match(routes, /path="friday"/)
@@ -38,6 +39,16 @@ test('opening Friday console activates session Shadow Lock', () => {
   assert.match(shadow, /gitlaw\.pro\.shadowLock\.v1/)
   assert.match(shadow, /gitlaw\.pro\.cloudSync\.v1/)
   assert.match(shadow, /localStorage\.setItem\(CLOUD_SYNC_KEY, '0'\)/)
+})
+
+test('direct Friday login activates Shadow Lock before auth can enable cloud', () => {
+  assert.match(auth, /fridayShadowRouteRequested/)
+  const lock = auth.indexOf('if (fridayShadowRouteRequested()) enableShadowLock()')
+  const firstEnableCloud = auth.indexOf('setCloudSyncEnabled(true)', lock)
+  const firstPull = auth.indexOf('pullFromCloud()', lock)
+  assert.ok(lock >= 0)
+  assert.ok(firstEnableCloud > lock, 'Friday lock must be active before cloud preference changes')
+  assert.ok(firstPull > lock, 'Friday lock must be active before any cloud pull attempt')
 })
 
 test('Shadow Lock disables every normal cloud-sync path before network', () => {
