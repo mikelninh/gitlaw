@@ -20,6 +20,8 @@ const ACTIONS = Object.freeze({
   'document.ocr': { decision: DECISIONS.ALLOW, reason: 'Textextraktion ist vorbereitend.' },
   'document.classify': { decision: DECISIONS.ALLOW, reason: 'Dokumentart darf vorgeschlagen werden; Verwendbarkeit bleibt Review.' },
   'document.dedupe': { decision: DECISIONS.ALLOW, reason: 'Duplikaterkennung verändert keine rechtliche Bewertung.' },
+  'document.missing.request': { decision: DECISIONS.APPROVAL, reason: 'Routine-Nachforderung ist standardmäßig freigabepflichtig und kann nur unter allen geprüften Bedingungen ALLOW werden.' },
+  'client.routine_status.send': { decision: DECISIONS.APPROVAL, reason: 'Routine-Sachstand ist standardmäßig freigabepflichtig und kann nur unter allen geprüften Bedingungen ALLOW werden.' },
   'timeline.propose': { decision: DECISIONS.ALLOW, reason: 'Chronologie wird als überprüfbarer Vorschlag aktualisiert.' },
   'deadline.propose': { decision: DECISIONS.ALLOW, reason: 'Frist wird nur als Kandidat mit Quelle vorgeschlagen.' },
   'deadline.confirm': { decision: DECISIONS.APPROVAL, reason: 'Verbindliche Fristbestätigung bleibt menschliche Kanzleiautorität.' },
