@@ -57,6 +57,9 @@ jobs:
       - name: Prove zero-knowledge encrypted vault confidentiality
         run: node --experimental-strip-types --test pilot/law-firm/autopilot/secure-vault.test.mjs
 
+      - name: Prove Friday shadow pilot remains local-only
+        run: node --test pilot/law-firm/autopilot/friday-pilot.test.mjs
+
       - name: Prove auth and UI contract
         run: node --test pilot/law-firm/autopilot/ui-contract.test.mjs
 
