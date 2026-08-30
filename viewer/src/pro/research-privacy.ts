@@ -27,13 +27,12 @@ export function prepareResearchEgress(input: {
   forceRedaction?: boolean
 }): PreparedResearchEgress {
   const caseItem = input.caseItem
-  const linkedMatter = Boolean(caseItem)
   const sourceHadPii = hasPII(input.question)
-  const shouldRedact = linkedMatter || input.forceRedaction === true || sourceHadPii
+  const shouldRedact = Boolean(caseItem) || input.forceRedaction === true || sourceHadPii
   const redacted = shouldRedact ? anonymize(input.question) : { anonymized: input.question, replacements: [] }
   const questionForAi = redacted.anonymized
 
-  if (!linkedMatter) {
+  if (!caseItem) {
     const dataMode: ProPrivacyEnvelope['dataMode'] = shouldRedact ? 'redacted' : 'synthetic'
     // General research can use only non-matter memory. Case-specific memory is
     // never exported merely because no matter is selected in the UI.
