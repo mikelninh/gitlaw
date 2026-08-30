@@ -9,7 +9,7 @@ import ProPortfolioDemo from './pro/ProPortfolioDemo.tsx'
 import MandantApp from './mandant/MandantApp.tsx'
 import IntakeForm from './pro/IntakeForm.tsx'
 import WelcomePersonal from './pro/WelcomePersonal.tsx'
-import BaoAutopilotWelcome from './pro/BaoAutopilotWelcome.tsx'
+import BaoPreview from './pro/BaoPreview.tsx'
 import ProPricing from './pro/ProPricing.tsx'
 import MietrechtResearchDesk from './MietrechtResearchDesk.tsx'
 
@@ -19,10 +19,11 @@ import MietrechtResearchDesk from './MietrechtResearchDesk.tsx'
  *   /#/research               → full citizen research interface
  *   /#/mietrecht              → public real-input Mietrecht research pilot
  *   /#/pro-demo               → tokenless synthetic Pro portfolio demo
- *   /#/bao                    → Bao's Autopilot-first invitation
- *   /#/pro/*                  → Anwält:innen Pro tier (invite-gated; includes Kanzlei Autopilot)
- *   /#/intake/:slug           → Mandant:innen-Fragebogen (öffentlich)
- *   /#/preise                 → Pricing-Page (öffentlich)
+ *   /#/bao                    → synthetic Kanzlei Autopilot preview for Bao
+ *   /#/pro/*                  → Anwält:innen Pro tier (invite-gated)
+ *   /#/intake/:slug            → Mandant:innen-Fragebogen (öffentlich)
+ *   /#/preise                  → Pricing-Page (öffentlich)
+ *   /#/{persona-slug}          → Personalized welcome (rubin/werner/jasmin)
  */
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -35,9 +36,10 @@ createRoot(document.getElementById('root')!).render(
           <Route path="/preise" element={<PricingShell />} />
           <Route path="/mietrecht" element={<MietrechtResearchDesk />} />
           <Route path="/pro-demo" element={<ProPortfolioDemo />} />
-          {/* Personalized welcome routes — public, no case data */}
-          <Route path="/bao" element={<BaoAutopilotWelcome />} />
-          <Route path="/willkommen/bao" element={<BaoAutopilotWelcome />} />
+          {/* Bao preview is public and synthetic-only; no case-store access. */}
+          <Route path="/bao" element={<BaoPreview />} />
+          <Route path="/willkommen/bao" element={<BaoPreview />} />
+          {/* Other personalized welcome routes — public, no auth */}
           <Route path="/rubin" element={<WelcomePersonal personaSlug="rubin" />} />
           <Route path="/werner" element={<WelcomePersonal personaSlug="werner" />} />
           <Route path="/jasmin" element={<WelcomePersonal personaSlug="jasmin" />} />
