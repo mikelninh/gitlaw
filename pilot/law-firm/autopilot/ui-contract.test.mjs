@@ -9,13 +9,17 @@ const proApp = read('viewer/src/pro/ProApp.tsx')
 const dashboard = read('viewer/src/pro/BaoAutopilotDashboard.tsx')
 const runner = read('viewer/src/pro/kanzlei-autopilot-runner.ts')
 const welcome = read('viewer/src/pro/BaoAutopilotWelcome.tsx')
+const workPacket = read('viewer/src/pro/kanzlei-work-packet.ts')
+const workPacketPage = read('viewer/src/pro/BaoCaseWorkPacket.tsx')
 const core = read('pilot/law-firm/autopilot/core.mjs')
 
 test('real Kanzlei Autopilot is mounted only inside authenticated Pro app', () => {
   assert.doesNotMatch(main, /path="\/bao-autopilot"/)
   assert.match(proApp, /path="autopilot"/)
+  assert.match(proApp, /path="autopilot\/:caseId"/)
   assert.match(proApp, /<ProAuth>/)
   assert.match(proApp, /BaoAutopilotDashboard/)
+  assert.match(proApp, /BaoCaseWorkPacket/)
 })
 
 test('Bao public entry contains no case-store access and routes operational work into Pro', () => {
@@ -37,6 +41,17 @@ test('dashboard states the deadline and measurement boundaries', () => {
   assert.match(dashboard, /Fristen werden nie still bestätigt/)
   assert.match(dashboard, /Vorher-\/Nachher-Baseline bestätigt/)
   assert.match(dashboard, /runSafeKanzleiAutopilot/)
+  assert.match(dashboard, /60_000/)
+})
+
+test('case work packet prepares bilingual routine communication but never sends it', () => {
+  assert.match(workPacket, /missingDocumentsDe/)
+  assert.match(workPacket, /missingDocumentsVi/)
+  assert.match(workPacket, /keine rechtliche Bewertung/i)
+  assert.doesNotMatch(workPacket, /fetch\s*\(|sendEmail|whatsapp/i)
+  assert.match(workPacketPage, /noch nicht gesendet/i)
+  assert.match(workPacketPage, /Originalakte öffnen/)
+  assert.match(workPacketPage, /Der Autopilot bestätigt dieses Datum nicht als verbindliche Rechtsfrist/)
 })
 
 test('authority core separates preparation from consequential actions and blocks self-expansion', () => {
