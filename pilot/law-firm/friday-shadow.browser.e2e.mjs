@@ -56,19 +56,33 @@ try {
   assert.equal(initialState.cloud, '0')
   assert.equal(syncCalls.length, 0, 'Friday auth bootstrap must make zero cloud-sync calls')
 
-  // Try to reopen the old cloud preference. The active P1 session must still
-  // suppress it after navigation/reload.
+  // Try to reopen the old raw preference. A hash-only SPA transition may leave
+  // the stored preference at 1 because auth does not remount, but effective
+  // sync authority must remain OFF and produce zero network calls.
   await page.evaluate(() => localStorage.setItem('gitlaw.pro.cloudSync.v1', '1'))
   await page.goto(`${origin}#/pro/autopilot`, { waitUntil: 'networkidle' })
   await page.getByText('Bao, heute brauchst du nur hierhin.').waitFor()
-  assert.equal(syncCalls.length, 0, 'Shadow Lock must survive navigation and suppress cloud sync')
+  assert.equal(syncCalls.length, 0, 'Shadow Lock must suppress cloud sync even if raw preference is toggled')
 
-  const afterNavigation = await page.evaluate(() => ({
+  const afterSpaNavigation = await page.evaluate(() => ({
     shadow: sessionStorage.getItem('gitlaw.pro.shadowLock.v1'),
     cloud: localStorage.getItem('gitlaw.pro.cloudSync.v1'),
   }))
-  assert.equal(JSON.parse(afterNavigation.shadow).enabled, true)
-  assert.equal(afterNavigation.cloud, '0')
+  assert.equal(JSON.parse(afterSpaNavigation.shadow).enabled, true)
+  assert.equal(afterSpaNavigation.cloud, '1', 'test should prove raw preference can disagree with effective locked authority')
+
+  // On a full reload ProAuth runs again; because the session lock survives in
+  // sessionStorage, its ordinary setCloudSyncEnabled(true) is refused and the
+  // stale raw preference is normalized back to 0 before any pull can happen.
+  await page.reload({ waitUntil: 'networkidle' })
+  await page.getByText('Bao, heute brauchst du nur hierhin.').waitFor()
+  const afterReload = await page.evaluate(() => ({
+    shadow: sessionStorage.getItem('gitlaw.pro.shadowLock.v1'),
+    cloud: localStorage.getItem('gitlaw.pro.cloudSync.v1'),
+  }))
+  assert.equal(JSON.parse(afterReload.shadow).enabled, true)
+  assert.equal(afterReload.cloud, '0')
+  assert.equal(syncCalls.length, 0, 'Reload under Shadow Lock must still make zero cloud-sync calls')
 
   // Normal research UI must fail in-browser before /api/ask-pro while P1 is
   // active. The server Privacy Proof Center has a separate synthetic probe path.
