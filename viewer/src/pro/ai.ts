@@ -3,9 +3,11 @@
  *
  * There is deliberately NO direct browser LLM fallback and no VITE AI key.
  * Every call goes through the authenticated GitLaw server privacy gateway.
+ * P1 Shadow Lock adds a browser-side hard stop before even that request starts.
  */
 import type { ApprovedAnswerMemory } from './types'
 import { fetchWithProSession } from './pro-api'
+import { assertExternalAiAllowed } from './shadow-lock'
 
 export interface ProCitation {
   paragraph: string
@@ -45,6 +47,12 @@ export interface ProAskOptions {
 }
 
 export async function proAsk(question: string, options?: ProAskOptions): Promise<ProAnswer> {
+  // Friday P1 Shadow Mode is stronger than ordinary provider gating: while
+  // active, no research request may leave this browser at all. The Privacy
+  // Proof Center uses its own synthetic probe path so zero-egress API tests
+  // remain demonstrable without reopening real-case AI access.
+  assertExternalAiAllowed()
+
   const resp = await fetchWithProSession('/api/ask-pro', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
