@@ -4,6 +4,9 @@ import fs from 'node:fs'
 
 const ui = fs.readFileSync('viewer/src/pro/FridayPilotConsole.tsx', 'utf8')
 const routes = fs.readFileSync('viewer/src/pro/ProApp.tsx', 'utf8')
+const shadow = fs.readFileSync('viewer/src/pro/shadow-lock.ts', 'utf8')
+const sync = fs.readFileSync('viewer/src/pro/sync.ts', 'utf8')
+const ai = fs.readFileSync('viewer/src/pro/ai.ts', 'utf8')
 
 test('Friday pilot route stays inside authenticated Pro workspace', () => {
   assert.match(routes, /path="friday"/)
@@ -23,10 +26,41 @@ test('Friday shadow console has no network or external-action primitive', () => 
   ]) {
     assert.doesNotMatch(ui, forbidden)
   }
-  assert.match(ui, /LOCAL ONLY/)
+  assert.match(ui, /SHADOW LOCK ACTIVE/)
   assert.match(ui, /Externes AI/)
-  assert.match(ui, /Nachrichten senden/)
+  assert.match(ui, /Cloud-Sync/)
   assert.match(ui, /beA \/ Behörde/)
+})
+
+test('opening Friday console activates session Shadow Lock', () => {
+  assert.match(ui, /enableShadowLock\(\)/)
+  assert.match(shadow, /sessionStorage\.setItem/)
+  assert.match(shadow, /gitlaw\.pro\.shadowLock\.v1/)
+  assert.match(shadow, /gitlaw\.pro\.cloudSync\.v1/)
+  assert.match(shadow, /localStorage\.setItem\(CLOUD_SYNC_KEY, '0'\)/)
+})
+
+test('Shadow Lock disables every normal cloud-sync path before network', () => {
+  assert.match(sync, /import \{ isShadowLockEnabled \} from '\.\/shadow-lock'/)
+  assert.match(sync, /export function isCloudSyncEnabled\(\): boolean \{\s*if \(isShadowLockEnabled\(\)\) return false/)
+  assert.match(sync, /if \(on && isShadowLockEnabled\(\)\)/)
+  assert.match(sync, /export async function pushToCloud/)
+  assert.match(sync, /export async function pullFromCloud/)
+})
+
+test('Shadow Lock blocks normal external AI client before provider gateway request', () => {
+  const guard = ai.indexOf('assertExternalAiAllowed()')
+  const network = ai.indexOf("fetchWithProSession('/api/ask-pro'")
+  assert.ok(guard >= 0)
+  assert.ok(network > guard, 'AI lock guard must run before any ask-pro request')
+  assert.match(shadow, /P1 Shadow Lock aktiv: externer KI-Aufruf/)
+})
+
+test('ending Shadow Lock never silently re-enables cloud sync', () => {
+  assert.match(shadow, /export function disableShadowLock/)
+  const disableBody = shadow.slice(shadow.indexOf('export function disableShadowLock'))
+  assert.match(disableBody, /localStorage\.setItem\(CLOUD_SYNC_KEY, '0'\)/)
+  assert.doesNotMatch(disableBody, /localStorage\.setItem\(CLOUD_SYNC_KEY, '1'\)/)
 })
 
 test('Friday measurement is local and does not invent ROI', () => {
