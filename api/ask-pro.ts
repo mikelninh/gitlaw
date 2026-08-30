@@ -4,9 +4,6 @@
  * PRIVILEGED-DATA RULE:
  * The browser is never the authority boundary. Every request is evaluated
  * server-side by _lawyer-privacy BEFORE an external LLM call can happen.
- * Real mandate mode is fail-closed unless the provider/contract/TOM/DPIA/
- * retention gates are complete, mandate-specific consent + necessity are
- * attested, the payload is pseudonymised, and no raw identifier is detected.
  */
 
 import type { VercelRequest, VercelResponse } from '@vercel/node'
@@ -14,11 +11,7 @@ import { recordAudit } from './_audit'
 import { requireProSession } from './_auth'
 import { applyCors, applySecurityHeaders } from './_http'
 import { chat, estimateCostUsd } from './_llm'
-import {
-  createPrivacyReceipt,
-  evaluateLawyerAiEgress,
-  type LawyerPrivacyEnvelope,
-} from './_lawyer-privacy'
+import { createPrivacyReceipt, evaluateLawyerAiEgress, type LawyerPrivacyEnvelope } from './_lawyer-privacy'
 import { applyRateLimit, RATE_LLM, ipUserKey } from './_ratelimit'
 
 const BASE_PRO_PROMPT = `Du bist juristische Recherche-Assistenz für eine deutsche Rechtsanwältin oder einen deutschen Rechtsanwalt.
@@ -42,31 +35,22 @@ export type LawyerProfile = {
   firmContext?: string
 }
 
-type ApprovedAnswerMemory = {
-  question: string
-  approvedAnswer: string
-}
+type ApprovedAnswerMemory = { question: string; approvedAnswer: string }
 
 export function buildProSystemPrompt(profile?: LawyerProfile | null): string {
   if (!profile) return BASE_PRO_PROMPT
   const hints: string[] = []
   if (profile.practiceArea) hints.push(`• Schwerpunkt: ${sanitize(profile.practiceArea)}.`)
-  if (profile.jurisdictionFocus && profile.jurisdictionFocus !== 'DE') {
-    hints.push(`• Regionaler Fokus: ${sanitize(profile.jurisdictionFocus)}.`)
-  }
-  if (profile.citationStyle === 'ausführlich') hints.push('• Zitier-Stil: ausführlich.')
-  else hints.push('• Zitier-Stil: knapp.')
+  if (profile.jurisdictionFocus && profile.jurisdictionFocus !== 'DE') hints.push(`• Regionaler Fokus: ${sanitize(profile.jurisdictionFocus)}.`)
+  hints.push(profile.citationStyle === 'ausführlich' ? '• Zitier-Stil: ausführlich.' : '• Zitier-Stil: knapp.')
   if (profile.firmContext) hints.push(`• Kanzleikontext: ${sanitize(profile.firmContext)}`)
-  if (hints.length === 0) return BASE_PRO_PROMPT
   return `${BASE_PRO_PROMPT}\n\nPROFILKONTEXT\n${hints.join('\n')}`
 }
 
 function buildMemoryPrompt(memory?: ApprovedAnswerMemory[]): string {
-  if (!memory || memory.length === 0) return ''
+  if (!memory?.length) return ''
   return '\n\nKANZLEI-INTERNER ERFAHRUNGSSCHATZ\n' +
-    memory.slice(0, 3).map((m, i) =>
-      `Beispiel ${i + 1}\nFrage: ${sanitize(m.question)}\nFreigegebene Antwort: ${sanitize(m.approvedAnswer)}`
-    ).join('\n\n') +
+    memory.slice(0, 3).map((m, i) => `Beispiel ${i + 1}\nFrage: ${sanitize(m.question)}\nFreigegebene Antwort: ${sanitize(m.approvedAnswer)}`).join('\n\n') +
     '\n\nNutze diese Beispiele nur wenn sie sachlich zur aktuellen Frage passen.'
 }
 
@@ -78,20 +62,14 @@ const PRO_JSON_SCHEMA = {
   name: 'rechtsrecherche_antwort',
   strict: true,
   schema: {
-    type: 'object',
-    additionalProperties: false,
+    type: 'object', additionalProperties: false,
     properties: {
       antwort: { type: 'string' },
       zitate: {
         type: 'array',
         items: {
-          type: 'object',
-          additionalProperties: false,
-          properties: {
-            paragraph: { type: 'string' },
-            gesetz: { type: 'string' },
-            bedeutung: { type: 'string' },
-          },
+          type: 'object', additionalProperties: false,
+          properties: { paragraph: { type: 'string' }, gesetz: { type: 'string' }, bedeutung: { type: 'string' } },
           required: ['paragraph', 'gesetz', 'bedeutung'],
         },
       },
@@ -119,30 +97,19 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     approvedMemory?: ApprovedAnswerMemory[]
     privacy?: LawyerPrivacyEnvelope
   }
+  if (!question || typeof question !== 'string') return res.status(400).json({ error: 'Question (string) required' })
+  if (question.length > 12_000) return res.status(413).json({ error: 'Question too large for privileged research path' })
 
-  if (!question || typeof question !== 'string') {
-    return res.status(400).json({ error: 'Question (string) required' })
-  }
-  if (question.length > 12_000) {
-    return res.status(413).json({ error: 'Question too large for privileged research path' })
-  }
-
-  const requestedMemory = Array.isArray(req.body?.approvedMemory)
-    ? (req.body.approvedMemory as ApprovedAnswerMemory[]).slice(0, 3)
-    : []
-
-  const privacyDecision = evaluateLawyerAiEgress({
-    question,
-    approvedMemory: requestedMemory,
-    privacy,
-  })
+  const requestedMemory = Array.isArray(req.body?.approvedMemory) ? (req.body.approvedMemory as ApprovedAnswerMemory[]).slice(0, 3) : []
+  const privacyDecision = evaluateLawyerAiEgress({ question, approvedMemory: requestedMemory, privacy })
 
   if (privacyDecision.decision !== 'ALLOW') {
+    // This header is intentionally testable by the live Privacy Proof Center.
+    // It means the request was stopped before chat()/provider selection.
+    res.setHeader('X-Privacy-Provider-Calls', '0')
     const receipt = createPrivacyReceipt({ decision: privacyDecision, privacy })
     await recordAudit(session.tenantId, session.userId, {
-      action: 'ai.privacy.block',
-      entityType: 'privacy_receipt',
-      entityId: receipt.receiptDigest,
+      action: 'ai.privacy.block', entityType: 'privacy_receipt', entityId: receipt.receiptDigest,
       diff: {
         policyVersion: receipt.policyVersion,
         dataMode: receipt.dataMode,
@@ -151,6 +118,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         detectedClasses: receipt.detectedClasses,
         readinessDigest: receipt.readinessDigest,
         signed: Boolean(receipt.signature),
+        providerCalls: 0,
       },
     })
     return res.status(423).json({
@@ -162,19 +130,14 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     })
   }
 
-  // No reusable cross-matter memory is sent for redacted or real mandate calls.
   const safeMemory = privacyDecision.dataMode === 'synthetic' ? requestedMemory : []
-  const systemPrompt =
-    buildProSystemPrompt(lawyerProfile) +
+  const systemPrompt = buildProSystemPrompt(lawyerProfile) +
     '\n\nAUTORITÄTSKONTEXT\n• Menschliche anwaltliche Prüfung bleibt erforderlich.' +
     buildMemoryPrompt(safeMemory)
 
   try {
     const { content, model, usage, request_id, provider } = await chat(
-      [
-        { role: 'system', content: systemPrompt },
-        { role: 'user', content: question },
-      ],
+      [{ role: 'system', content: systemPrompt }, { role: 'user', content: question }],
       {
         provider: privacyDecision.provider,
         route: 'ask-pro-lawyer-privacy',
@@ -183,18 +146,11 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         response_format: { type: 'json_schema', json_schema: PRO_JSON_SCHEMA },
       },
     )
+    res.setHeader('X-Privacy-Provider-Calls', '1')
 
-    const receipt = createPrivacyReceipt({
-      decision: privacyDecision,
-      privacy,
-      providerRequestId: request_id,
-      model,
-    })
-
+    const receipt = createPrivacyReceipt({ decision: privacyDecision, privacy, providerRequestId: request_id, model })
     await recordAudit(session.tenantId, session.userId, {
-      action: 'ai.ask-pro',
-      entityType: 'research',
-      entityId: receipt.receiptDigest,
+      action: 'ai.ask-pro', entityType: 'research', entityId: receipt.receiptDigest,
       diff: {
         privacyPolicyVersion: receipt.policyVersion,
         privacyReceiptDigest: receipt.receiptDigest,
@@ -202,10 +158,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         dataMode: receipt.dataMode,
         provider,
         signedReceipt: Boolean(receipt.signature),
+        providerCalls: 1,
       },
       llm: {
-        model,
-        request_id,
+        model, request_id,
         prompt_tokens: usage?.prompt_tokens ?? 0,
         completion_tokens: usage?.completion_tokens ?? 0,
         total_tokens: usage?.total_tokens ?? 0,
@@ -220,12 +176,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       return res.status(502).json({ error: 'LLM returned invalid JSON' })
     }
   } catch (err) {
-    if (err instanceof Error && err.message === 'OpenAI key not configured') {
-      return res.status(500).json({ error: 'Approved AI provider is not configured' })
-    }
-    if (err instanceof Error && err.message === 'Empty LLM response') {
-      return res.status(502).json({ error: 'Empty LLM response' })
-    }
+    if (err instanceof Error && err.message === 'OpenAI key not configured') return res.status(500).json({ error: 'Approved AI provider is not configured' })
+    if (err instanceof Error && err.message === 'Empty LLM response') return res.status(502).json({ error: 'Empty LLM response' })
     return res.status(500).json({ error: 'Approved AI provider request failed' })
   }
 }
