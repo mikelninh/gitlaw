@@ -97,7 +97,10 @@ export function privacyReadiness(env = process.env): PrivacyReadiness {
 const SENSITIVE_PATTERNS: Array<{ cls: string; re: RegExp }> = [
   { cls: 'canary_secret', re: /MANDATE-CANARY-[A-Z0-9_-]{6,}/i },
   { cls: 'email', re: /\b[\w._%+-]+@[\w.-]+\.[A-Za-z]{2,}\b/ },
-  { cls: 'iban', re: /\b[A-Z]{2}\d{2}(?:[\s]?\d{4}){3,5}\b/ },
+  // ISO 13616 IBANs are 15–34 chars total. After country+check digits,
+  // accept 11–30 alphanumeric account characters with optional separators.
+  // This correctly catches the 22-char German format (DE + 20 chars).
+  { cls: 'iban', re: /\b[A-Z]{2}\d{2}(?:[\s-]?[A-Z0-9]){11,30}\b/ },
   { cls: 'phone', re: /\b(?:\+49|0049|0\d{2,4})[\s/.-]?\d{3,8}(?:[\s/.-]?\d{1,8})?\b/ },
   { cls: 'tax_id', re: /\b\d{11}\b/ },
   { cls: 'social_security_number', re: /\b\d{2}\s?\d{6}\s?[A-Z]\s?\d{3}\b/ },
