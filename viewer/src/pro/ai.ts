@@ -51,7 +51,8 @@ export async function proAsk(question: string, options?: ProAskOptions): Promise
     body: JSON.stringify({
       question,
       approvedMemory: options?.approvedMemory || [],
-      privacy: options?.privacy || { dataMode: 'synthetic', memoryScope: 'none' },
+      // Missing classification must never silently become demo/synthetic.
+      privacy: options?.privacy || { dataMode: 'real_mandate', memoryScope: 'none' },
     }),
   })
 
