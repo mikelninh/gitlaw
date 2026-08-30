@@ -1,12 +1,4 @@
-/**
- * Shared types for GitLaw Pro (Anwält:innen-Tier).
- *
- * Privacy rule: a matter without an explicit classification is treated as
- * REAL MANDATE data by the lawyer-safe helpers. Demo seed data must opt in
- * to `privacy.dataMode = 'synthetic'` explicitly; there is no implicit
- * "probably demo" downgrade for unknown cases.
- */
-
+/** Shared types for GitLaw Pro. Unknown matter privacy defaults to real mandate in privacy helpers. */
 export interface KanzleiSettings {
   name: string
   address: string
@@ -18,21 +10,14 @@ export interface KanzleiSettings {
 }
 
 export interface MatterPrivacyState {
-  /** Defaults to real_mandate when absent. */
   dataMode: 'synthetic' | 'real_mandate'
-  /** Evidence marker only — never store the signed consent document in this field. */
   externalAiConsentOnFile?: boolean
-  /** Opaque reference/hash/path to evidence kept in the Kanzlei record. */
+  /** Opaque evidence reference only; never the consent document contents. */
   externalAiConsentEvidenceRef?: string
-  /** Lawyer attestation that external AI is necessary for this workflow. */
   externalServiceNecessaryAttested?: boolean
-  /** Narrow purpose shown in the privacy receipt. */
   externalAiPurpose?: string
-  /** Non-identifying reference sent to the privacy gateway. */
   pseudonymousCaseRef?: string
-  /** ISO timestamp of the last lawyer privacy review for this matter. */
   reviewedAt?: string
-  /** User/lawyer identifier, not client PII. */
   reviewedBy?: string
 }
 
@@ -59,7 +44,6 @@ export interface MandantCase {
   statusHistory?: StatusHistoryEntry[]
   behoerde?: string
   behoerdePLZ?: string
-  /** Privileged-data classification and evidence gates for this matter. */
   privacy?: MatterPrivacyState
 }
 
@@ -256,26 +240,6 @@ export interface DocumentJob {
   note?: string
 }
 
-/** Fields below are unchanged domain helpers used by existing Pro modules. */
-export interface RelevantParagraph {
-  lawId: string
-  section: string
-  display: string
-  source?: string
-  addedAt?: string
-}
-
-export interface RechtsprechungsAlert {
-  id: string
-  lawId: string
-  section: string
-  title: string
-  summary: string
-  sourceUrl?: string
-  createdAt: string
-  read?: boolean
-}
-
 export interface ApprovedAnswerMemory {
   id: string
   tenantId?: string
@@ -283,6 +247,82 @@ export interface ApprovedAnswerMemory {
   question: string
   approvedAnswer: string
   practiceHint?: string
-  sourceResearchId?: string
   createdAt: string
+  sourceResearchId?: string
+}
+
+export interface ParagraphLookup {
+  found: boolean
+  lawId: string
+  section: string
+  text?: string
+}
+
+export interface RelevantParagraph {
+  lawId: string
+  section: string
+  display: string
+  source: string
+  addedAt: string
+}
+
+export interface RechtsprechungsAlert {
+  id: string
+  caseId?: string
+  paragraph: { lawId: string; section: string; display: string }
+  court: string
+  rulingDate: string
+  title: string
+  summary: string
+  url?: string
+  createdAt: string
+}
+
+export type MandatsartCategory =
+  | 'migration'
+  | 'strafrecht'
+  | 'familie'
+  | 'sozial'
+  | 'sonstiges'
+
+export type DocumentRequirementLevel = 'required' | 'optional' | 'conditional'
+
+export interface PhotoSlot {
+  id: string
+  label: string
+  labelVi?: string
+}
+
+export interface ChecklistItem {
+  id: string
+  label: string
+  labelVi?: string
+  description?: string
+  level: DocumentRequirementLevel
+  conditionalNote?: string
+  acceptedFormats?: string[]
+  typicalIssues?: string[]
+  category?:
+    | 'identitaet'
+    | 'aufenthalt'
+    | 'familie'
+    | 'wohnen'
+    | 'einkommen'
+    | 'gesundheit'
+    | 'sprache'
+    | 'biometrie'
+    | 'sonstiges'
+  requiredPhotoCount?: number
+  photoSlots?: PhotoSlot[]
+}
+
+export interface MandatsartChecklist {
+  id: string
+  title: string
+  titleVi?: string
+  category: MandatsartCategory
+  description: string
+  legalBasis?: string[]
+  typicalDuration?: string
+  requiredDocuments: ChecklistItem[]
 }
