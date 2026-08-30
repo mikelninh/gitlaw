@@ -33,11 +33,17 @@ jobs:
           cache: npm
           cache-dependency-path: viewer/package-lock.json
 
-      - name: Check Autopilot core syntax
-        run: node --check pilot/law-firm/autopilot/core.mjs
+      - name: Check Autopilot core and connector syntax
+        run: |
+          node --check pilot/law-firm/autopilot/core.mjs
+          node --check pilot/law-firm/autopilot/advoware-policy.mjs
+          node --check pilot/law-firm/autopilot/advoware-client.mjs
 
       - name: Prove authority and time-measurement boundaries
         run: node --test pilot/law-firm/autopilot/core.test.mjs
+
+      - name: Prove Advoware reads and exact write approvals
+        run: node --test pilot/law-firm/autopilot/advoware-client.test.mjs
 
       - name: Prove auth and UI contract
         run: node --test pilot/law-firm/autopilot/ui-contract.test.mjs
