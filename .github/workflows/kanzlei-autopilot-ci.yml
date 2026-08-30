@@ -4,15 +4,13 @@ on:
   pull_request:
     paths:
       - 'pilot/law-firm/autopilot/**'
-      - 'viewer/src/pro/BaoAutopilotDashboard.tsx'
-      - 'viewer/src/pro/BaoAutopilotWelcome.tsx'
-      - 'viewer/src/pro/BaoCaseWorkPacket.tsx'
-      - 'viewer/src/pro/kanzlei-autopilot.ts'
-      - 'viewer/src/pro/kanzlei-autopilot-runner.ts'
-      - 'viewer/src/pro/kanzlei-work-packet.ts'
-      - 'viewer/src/pro/ProApp.tsx'
-      - 'viewer/src/pro/ProMatterHome.tsx'
-      - 'viewer/src/main.tsx'
+      - 'viewer/src/pro/**'
+      - 'api/ask-pro.ts'
+      - 'api/_lawyer-privacy.ts'
+      - 'api/pro/privacy-readiness.ts'
+      - 'api/pro/secure-sync.ts'
+      - 'api/pro/sync.ts'
+      - 'docs/kanzlei-autopilot/**'
       - 'viewer/package.json'
       - 'viewer/package-lock.json'
       - '.github/workflows/kanzlei-autopilot-ci.yml'
@@ -24,7 +22,7 @@ permissions:
 jobs:
   verify:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -52,6 +50,12 @@ jobs:
 
       - name: Prove multi-channel intake, dedupe and real-data gate
         run: node --test pilot/law-firm/autopilot/channel-intake.test.mjs
+
+      - name: Prove lawyer privacy fail-closed egress and signed receipts
+        run: node --experimental-strip-types --test pilot/law-firm/autopilot/lawyer-privacy.test.mjs
+
+      - name: Prove zero-knowledge encrypted vault confidentiality
+        run: node --experimental-strip-types --test pilot/law-firm/autopilot/secure-vault.test.mjs
 
       - name: Prove auth and UI contract
         run: node --test pilot/law-firm/autopilot/ui-contract.test.mjs
