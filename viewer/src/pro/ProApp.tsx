@@ -14,6 +14,7 @@ import ProImport from './ProImport'
 import Intake from './Intake'
 import BaoAutopilotDashboard from './BaoAutopilotDashboard'
 import BaoCaseWorkPacket from './BaoCaseWorkPacket'
+import FridayPilotConsole from './FridayPilotConsole'
 import { canAccessRoute } from './access'
 import './pro-theme.css'
 import './pro-tone.css'
@@ -27,6 +28,7 @@ export default function ProApp() {
             <Route index element={<ProMatterHome />} />
             <Route path="autopilot" element={<Guarded path="/pro/akten"><BaoAutopilotDashboard /></Guarded>} />
             <Route path="autopilot/:caseId" element={<Guarded path="/pro/akten"><BaoCaseWorkPacket /></Guarded>} />
+            <Route path="friday" element={<Guarded path="/pro/akten"><FridayPilotConsole /></Guarded>} />
             <Route path="akten" element={<Guarded path="/pro/akten"><ProCasesList /></Guarded>} />
             <Route path="akten/:id" element={<Guarded path="/pro/akten"><ProCaseDetail /></Guarded>} />
             <Route path="recherche" element={<Guarded path="/pro/recherche"><SecureProResearch /></Guarded>} />
