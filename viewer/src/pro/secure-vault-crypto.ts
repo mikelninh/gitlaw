@@ -1,6 +1,7 @@
 export const SECURE_VAULT_VERSION = 'gitlaw-secure-vault/1' as const
 export const SECURE_VAULT_ITERATIONS = 600_000
 const AAD_PREFIX = 'gitlaw-pro-secure-vault-v1'
+const VAULT_DECRYPT_ERROR = 'Vault konnte nicht entschlüsselt werden: falsche Passphrase, falscher Tenant oder manipulierte Daten.'
 
 export interface SecureVaultEnvelope {
   version: typeof SECURE_VAULT_VERSION
@@ -81,11 +82,16 @@ export async function decryptVault<T>(envelope: SecureVaultEnvelope, passphrase:
   }
   if (envelope.iterations < SECURE_VAULT_ITERATIONS) throw new Error('Vault-KDF ist schwächer als die aktuelle Mindestanforderung.')
   if (envelope.tenantBindingDigest !== await sha256(tenantBinding)) throw new Error('Vault gehört nicht zu diesem Tenant-Kontext.')
-  const salt = base64ToBytes(envelope.salt)
-  const iv = base64ToBytes(envelope.iv)
-  const ciphertext = base64ToBytes(envelope.ciphertext)
-  const key = await deriveKey(passphrase, salt, envelope.iterations)
+
   try {
+    // Treat malformed base64, invalid crypto parameters, authentication-tag
+    // failures and invalid decrypted JSON as the same controlled integrity
+    // failure. This avoids leaking low-level parser/crypto errors and gives the
+    // caller one fail-closed contract for damaged or tampered vaults.
+    const salt = base64ToBytes(envelope.salt)
+    const iv = base64ToBytes(envelope.iv)
+    const ciphertext = base64ToBytes(envelope.ciphertext)
+    const key = await deriveKey(passphrase, salt, envelope.iterations)
     const plaintext = await crypto.subtle.decrypt(
       { name: 'AES-GCM', iv: exactArrayBuffer(iv), additionalData: exactArrayBuffer(aad(tenantBinding)), tagLength: 128 },
       key,
@@ -93,6 +99,6 @@ export async function decryptVault<T>(envelope: SecureVaultEnvelope, passphrase:
     )
     return JSON.parse(new TextDecoder().decode(plaintext)) as T
   } catch {
-    throw new Error('Vault konnte nicht entschlüsselt werden: falsche Passphrase, falscher Tenant oder manipulierte Daten.')
+    throw new Error(VAULT_DECRYPT_ERROR)
   }
 }
