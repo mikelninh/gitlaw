@@ -43,7 +43,9 @@ jobs:
         run: node --test pilot/law-firm/autopilot/ui-contract.test.mjs
 
       - name: Install viewer dependencies
-        run: npm ci --prefix viewer
+        working-directory: viewer
+        run: npm install --no-audit --no-fund
 
       - name: Build authenticated Kanzlei workspace
-        run: npm run build --prefix viewer
+        working-directory: viewer
+        run: npm run build
