@@ -1,19 +1,12 @@
 /**
- * Vercel Serverless Function — Pro-Tier RAG endpoint with structured output.
+ * Vercel Serverless Function — Pro-Tier legal research endpoint.
  *
- * OpenAI key stays server-side so the Pro frontend doesn't need VITE_OPENAI_API_KEY
- * in the browser bundle.
- *
- * Returns: { antwort: string, zitate: Array<{paragraph, gesetz, bedeutung}> }
- *
- * Dynamic prompt context (optional):
- *   - `lawyerProfile.practiceArea`   — e.g. "Mietrecht", "Familienrecht", "Steuerrecht"
- *   - `lawyerProfile.jurisdictionFocus` — e.g. "BY", "NRW", or omitted for nationwide
- *   - `lawyerProfile.citationStyle`  — "knapp" (default) | "ausführlich"
- *   - `lawyerProfile.firmContext`    — one-line extra context ("Kanzlei für Opferhilfe")
- *
- * Absent `lawyerProfile`, the prompt reduces to the legacy generic lawyer prompt —
- * so existing clients keep working unchanged.
+ * PRIVILEGED-DATA RULE:
+ * The browser is never the authority boundary. Every request is evaluated
+ * server-side by _lawyer-privacy BEFORE an external LLM call can happen.
+ * Real mandate mode is fail-closed unless the provider/contract/TOM/DPIA/
+ * retention gates are complete, mandate-specific consent + necessity are
+ * attested, the payload is pseudonymised, and no raw identifier is detected.
  */
 
 import type { VercelRequest, VercelResponse } from '@vercel/node'
@@ -21,9 +14,12 @@ import { recordAudit } from './_audit'
 import { requireProSession } from './_auth'
 import { applyCors, applySecurityHeaders } from './_http'
 import { chat, estimateCostUsd } from './_llm'
+import {
+  createPrivacyReceipt,
+  evaluateLawyerAiEgress,
+  type LawyerPrivacyEnvelope,
+} from './_lawyer-privacy'
 import { applyRateLimit, RATE_LLM, ipUserKey } from './_ratelimit'
-
-// ── Base (static) prompt ─────────────────────────────────────
 
 const BASE_PRO_PROMPT = `Du bist juristische Recherche-Assistenz für eine deutsche Rechtsanwältin oder einen deutschen Rechtsanwalt.
 
@@ -31,21 +27,19 @@ AUFGABE
 • Beantworte die Rechtsfrage knapp, präzise, professionell.
 • Strukturiere: einschlägige Tatbestände → kurze Prüfung → ggf. prozessuale Hinweise.
 • Kollegial, sachlich, ohne Mandant:innen-Ansprache. Maximal 10 Sätze Fließtext.
-• Fülle das Feld "zitate" mit jedem Paragraphen, den du im Fließtext genannt hast: reine Paragraphennummer (z. B. "238", "184i", "573"), Gesetzesabkürzung (z. B. "StGB", "BGB", "SGB V"), und eine knappe Relevanzbeschreibung.
+• Fülle das Feld "zitate" mit jedem Paragraphen, den du im Fließtext genannt hast: reine Paragraphennummer, Gesetzesabkürzung und knappe Relevanzbeschreibung.
 
 WICHTIG
 • Zitiere nur Paragraphen, die du sicher kennst. Erfinde keine Normen.
-• Wenn unsicher, schreibe im Fließtext "unsicher, mutmaßlich § X" und nimm den Paragraphen trotzdem ins Zitat-Array auf — die Antwort wird anwaltlich gegengeprüft.
-• Dies ist KEINE Rechtsberatung, sondern Recherche-Unterstützung.
-• Gesetz-Abkürzung in "zitate.gesetz" IMMER ohne "§"-Zeichen und ohne Paragraphennummer — nur die Abkürzung (Beispiel: "StGB", nicht "§ 238 StGB").`
-
-// ── Dynamic-prompt types + builder ────────────────────────────
+• Wenn unsicher, kennzeichne die Unsicherheit ausdrücklich — die Antwort wird anwaltlich gegengeprüft.
+• Dies ist Recherche-Unterstützung und keine autonome Rechtsentscheidung.
+• Gesetz-Abkürzung in "zitate.gesetz" immer ohne §-Zeichen und Nummer.`
 
 export type LawyerProfile = {
-  practiceArea?: string       // freie Textangabe: "Mietrecht", "Familienrecht", ...
-  jurisdictionFocus?: string  // ISO-Länder- oder Bundesland-Kürzel ("DE", "BY", "NRW")
+  practiceArea?: string
+  jurisdictionFocus?: string
   citationStyle?: 'knapp' | 'ausführlich'
-  firmContext?: string        // eine Zeile, z.B. "Kanzlei für Migrationsrecht seit 2012"
+  firmContext?: string
 }
 
 type ApprovedAnswerMemory = {
@@ -53,32 +47,18 @@ type ApprovedAnswerMemory = {
   approvedAnswer: string
 }
 
-/**
- * Build the system prompt for a specific lawyer. Falls through to the base
- * prompt when no profile fields are set — preserves legacy behaviour.
- */
 export function buildProSystemPrompt(profile?: LawyerProfile | null): string {
   if (!profile) return BASE_PRO_PROMPT
-
   const hints: string[] = []
-
-  if (profile.practiceArea) {
-    hints.push(`• Schwerpunkt der Anfragenden: ${profile.practiceArea}. Priorisiere diese Perspektive.`)
-  }
+  if (profile.practiceArea) hints.push(`• Schwerpunkt: ${sanitize(profile.practiceArea)}.`)
   if (profile.jurisdictionFocus && profile.jurisdictionFocus !== 'DE') {
-    hints.push(`• Regionaler Fokus: ${profile.jurisdictionFocus} — erwähne länder-/Bundesland-spezifische Besonderheiten.`)
+    hints.push(`• Regionaler Fokus: ${sanitize(profile.jurisdictionFocus)}.`)
   }
-  if (profile.citationStyle === 'ausführlich') {
-    hints.push('• Zitier-Stil: ausführlich — pro Paragraph 2–3 Sätze Relevanz im "bedeutung"-Feld.')
-  } else {
-    hints.push('• Zitier-Stil: knapp — im "bedeutung"-Feld höchstens ein Halbsatz pro Paragraph.')
-  }
-  if (profile.firmContext) {
-    hints.push(`• Kontext: ${sanitize(profile.firmContext)}`)
-  }
-
+  if (profile.citationStyle === 'ausführlich') hints.push('• Zitier-Stil: ausführlich.')
+  else hints.push('• Zitier-Stil: knapp.')
+  if (profile.firmContext) hints.push(`• Kanzleikontext: ${sanitize(profile.firmContext)}`)
   if (hints.length === 0) return BASE_PRO_PROMPT
-  return `${BASE_PRO_PROMPT}\n\nKONTEXT DIESES PROFILS\n${hints.join('\n')}`
+  return `${BASE_PRO_PROMPT}\n\nPROFILKONTEXT\n${hints.join('\n')}`
 }
 
 function buildMemoryPrompt(memory?: ApprovedAnswerMemory[]): string {
@@ -90,12 +70,9 @@ function buildMemoryPrompt(memory?: ApprovedAnswerMemory[]): string {
     '\n\nNutze diese Beispiele nur wenn sie sachlich zur aktuellen Frage passen.'
 }
 
-/** Strip newlines + collapse whitespace so injected user-strings can't split the prompt structure. */
 function sanitize(s: string): string {
   return s.replace(/[\r\n]+/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 200)
 }
-
-// ── JSON Schema (unchanged) ───────────────────────────────────
 
 const PRO_JSON_SCHEMA = {
   name: 'rechtsrecherche_antwort',
@@ -123,55 +100,112 @@ const PRO_JSON_SCHEMA = {
   },
 }
 
-// ── Handler ───────────────────────────────────────────────────
-
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   applySecurityHeaders(res)
+  res.setHeader('Cache-Control', 'no-store, max-age=0')
   const corsAllowed = applyCors(req, res, 'POST, OPTIONS')
   if (!corsAllowed) return res.status(403).json({ error: 'Origin not allowed' })
-
   if (req.method === 'OPTIONS') return res.status(200).end()
   if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' })
+
   const session = requireProSession(req, res, 'assistenz')
   if (!session) return
-
-  // KI-Cost-Schutz per User (RATE_LLM: 20 req/min/IP+user)
   const rlOk = await applyRateLimit(req, res, RATE_LLM, ipUserKey(req, session.userId))
   if (!rlOk) return
 
-  const { question, lawyerProfile } = req.body as {
+  const { question, lawyerProfile, privacy } = req.body as {
     question?: unknown
     lawyerProfile?: LawyerProfile
     approvedMemory?: ApprovedAnswerMemory[]
+    privacy?: LawyerPrivacyEnvelope
   }
 
   if (!question || typeof question !== 'string') {
     return res.status(400).json({ error: 'Question (string) required' })
   }
+  if (question.length > 12_000) {
+    return res.status(413).json({ error: 'Question too large for privileged research path' })
+  }
 
+  const requestedMemory = Array.isArray(req.body?.approvedMemory)
+    ? (req.body.approvedMemory as ApprovedAnswerMemory[]).slice(0, 3)
+    : []
+
+  const privacyDecision = evaluateLawyerAiEgress({
+    question,
+    approvedMemory: requestedMemory,
+    privacy,
+  })
+
+  if (privacyDecision.decision !== 'ALLOW') {
+    const receipt = createPrivacyReceipt({ decision: privacyDecision, privacy })
+    await recordAudit(session.tenantId, session.userId, {
+      action: 'ai.privacy.block',
+      entityType: 'privacy_receipt',
+      entityId: receipt.receiptDigest,
+      diff: {
+        policyVersion: receipt.policyVersion,
+        dataMode: receipt.dataMode,
+        provider: receipt.provider,
+        reasons: receipt.reasons,
+        detectedClasses: receipt.detectedClasses,
+        readinessDigest: receipt.readinessDigest,
+        signed: Boolean(receipt.signature),
+      },
+    })
+    return res.status(423).json({
+      error: 'Privileged AI privacy gate blocked this request',
+      code: 'LAWYER_PRIVACY_BLOCK',
+      reasons: privacyDecision.reasons,
+      detectedClasses: privacyDecision.detectedClasses,
+      privacyReceipt: receipt,
+    })
+  }
+
+  // No reusable cross-matter memory is sent for redacted or real mandate calls.
+  const safeMemory = privacyDecision.dataMode === 'synthetic' ? requestedMemory : []
   const systemPrompt =
     buildProSystemPrompt(lawyerProfile) +
-    `\n\nTENANT-KONTEXT\n• tenantId: ${session.tenantId}\n• role: ${session.role}` +
-    buildMemoryPrompt(req.body?.approvedMemory)
+    '\n\nAUTORITÄTSKONTEXT\n• Menschliche anwaltliche Prüfung bleibt erforderlich.' +
+    buildMemoryPrompt(safeMemory)
 
   try {
-    const { content, model, usage } = await chat(
+    const { content, model, usage, request_id, provider } = await chat(
       [
         { role: 'system', content: systemPrompt },
         { role: 'user', content: question },
       ],
       {
+        provider: privacyDecision.provider,
+        route: 'ask-pro-lawyer-privacy',
         max_tokens: 800,
         temperature: 0.2,
         response_format: { type: 'json_schema', json_schema: PRO_JSON_SCHEMA },
       },
     )
 
+    const receipt = createPrivacyReceipt({
+      decision: privacyDecision,
+      privacy,
+      providerRequestId: request_id,
+      model,
+    })
+
     await recordAudit(session.tenantId, session.userId, {
       action: 'ai.ask-pro',
       entityType: 'research',
+      entityId: receipt.receiptDigest,
+      diff: {
+        privacyPolicyVersion: receipt.policyVersion,
+        privacyReceiptDigest: receipt.receiptDigest,
+        readinessDigest: receipt.readinessDigest,
+        dataMode: receipt.dataMode,
+        provider,
+        signedReceipt: Boolean(receipt.signature),
+      },
       llm: {
         model,
+        request_id,
         prompt_tokens: usage?.prompt_tokens ?? 0,
         completion_tokens: usage?.completion_tokens ?? 0,
         total_tokens: usage?.total_tokens ?? 0,
@@ -181,20 +215,17 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
     try {
       const parsed = JSON.parse(content)
-      return res.status(200).json(parsed)
+      return res.status(200).json({ ...parsed, privacyReceipt: receipt })
     } catch {
-      return res.status(502).json({ error: 'LLM returned invalid JSON', raw: content.slice(0, 300) })
+      return res.status(502).json({ error: 'LLM returned invalid JSON' })
     }
   } catch (err) {
     if (err instanceof Error && err.message === 'OpenAI key not configured') {
-      return res.status(500).json({ error: 'OpenAI key not configured' })
+      return res.status(500).json({ error: 'Approved AI provider is not configured' })
     }
     if (err instanceof Error && err.message === 'Empty LLM response') {
       return res.status(502).json({ error: 'Empty LLM response' })
     }
-    return res.status(500).json({
-      error: 'OpenAI request failed',
-      detail: err instanceof Error ? err.message : 'unknown',
-    })
+    return res.status(500).json({ error: 'Approved AI provider request failed' })
   }
 }
