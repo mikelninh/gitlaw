@@ -38,9 +38,17 @@ jobs:
           node --check pilot/law-firm/autopilot/advoware-client.mjs
           node --check pilot/law-firm/autopilot/advoware-sync.mjs
           node --check pilot/law-firm/autopilot/channel-intake.mjs
+          node --check pilot/law-firm/autopilot/workflow-pack.mjs
+          node --check pilot/law-firm/autopilot/proof-week.mjs
 
       - name: Prove authority and time-measurement boundaries
         run: node --test pilot/law-firm/autopilot/core.test.mjs
+
+      - name: Prove reusable Workflow Packs, Proof Week economics and earned autonomy
+        run: node --test pilot/law-firm/autopilot/productization.test.mjs
+
+      - name: Prove local Proof Week UI and commercial truth boundary
+        run: node --test pilot/law-firm/autopilot/productization-ui.test.mjs
 
       - name: Prove Advoware reads and exact write approvals
         run: node --test pilot/law-firm/autopilot/advoware-client.test.mjs
