@@ -27,6 +27,10 @@ function base64ToBytes(value: string): Uint8Array {
   return out
 }
 
+function exactArrayBuffer(bytes: Uint8Array): ArrayBuffer {
+  return bytes.buffer.slice(bytes.byteOffset, bytes.byteOffset + bytes.byteLength) as ArrayBuffer
+}
+
 async function sha256(value: string): Promise<string> {
   const digest = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(value))
   return bytesToBase64(new Uint8Array(digest))
@@ -36,7 +40,7 @@ async function deriveKey(passphrase: string, salt: Uint8Array, iterations: numbe
   if (passphrase.length < 16) throw new Error('Vault-Passphrase muss mindestens 16 Zeichen lang sein.')
   const material = await crypto.subtle.importKey('raw', new TextEncoder().encode(passphrase), 'PBKDF2', false, ['deriveKey'])
   return crypto.subtle.deriveKey(
-    { name: 'PBKDF2', hash: 'SHA-256', salt: salt as BufferSource, iterations },
+    { name: 'PBKDF2', hash: 'SHA-256', salt: exactArrayBuffer(salt), iterations },
     material,
     { name: 'AES-GCM', length: 256 },
     false,
@@ -55,9 +59,9 @@ export async function encryptVault(plaintext: unknown, passphrase: string, tenan
   const key = await deriveKey(passphrase, salt, SECURE_VAULT_ITERATIONS)
   const encoded = new TextEncoder().encode(JSON.stringify(plaintext))
   const encrypted = await crypto.subtle.encrypt(
-    { name: 'AES-GCM', iv, additionalData: aad(tenantBinding), tagLength: 128 },
+    { name: 'AES-GCM', iv: exactArrayBuffer(iv), additionalData: exactArrayBuffer(aad(tenantBinding)), tagLength: 128 },
     key,
-    encoded,
+    exactArrayBuffer(encoded),
   )
   return {
     version: SECURE_VAULT_VERSION,
@@ -83,9 +87,9 @@ export async function decryptVault<T>(envelope: SecureVaultEnvelope, passphrase:
   const key = await deriveKey(passphrase, salt, envelope.iterations)
   try {
     const plaintext = await crypto.subtle.decrypt(
-      { name: 'AES-GCM', iv, additionalData: aad(tenantBinding), tagLength: 128 },
+      { name: 'AES-GCM', iv: exactArrayBuffer(iv), additionalData: exactArrayBuffer(aad(tenantBinding)), tagLength: 128 },
       key,
-      ciphertext,
+      exactArrayBuffer(ciphertext),
     )
     return JSON.parse(new TextDecoder().decode(plaintext)) as T
   } catch {
