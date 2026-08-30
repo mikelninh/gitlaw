@@ -9,7 +9,6 @@ import ProPortfolioDemo from './pro/ProPortfolioDemo.tsx'
 import MandantApp from './mandant/MandantApp.tsx'
 import IntakeForm from './pro/IntakeForm.tsx'
 import WelcomePersonal from './pro/WelcomePersonal.tsx'
-import BaoAutopilotDashboard from './pro/BaoAutopilotDashboard.tsx'
 import ProPricing from './pro/ProPricing.tsx'
 import MietrechtResearchDesk from './MietrechtResearchDesk.tsx'
 
@@ -19,8 +18,7 @@ import MietrechtResearchDesk from './MietrechtResearchDesk.tsx'
  *   /#/research               → full citizen research interface
  *   /#/mietrecht              → public real-input Mietrecht research pilot
  *   /#/pro-demo               → tokenless synthetic Pro portfolio demo
- *   /#/bao-autopilot          → exception-first Kanzlei Autopilot dashboard
- *   /#/pro/*                   → Anwält:innen Pro tier (invite-gated)
+ *   /#/pro/*                   → Anwält:innen Pro tier (invite-gated; includes Kanzlei Autopilot)
  *   /#/intake/:slug            → Mandant:innen-Fragebogen (öffentlich)
  *   /#/preise                  → Pricing-Page (öffentlich)
  *   /#/{persona-slug}          → Personalized welcome (bao/rubin/werner/jasmin)
@@ -38,7 +36,6 @@ createRoot(document.getElementById('root')!).render(
           <Route path="/pro-demo" element={<ProPortfolioDemo />} />
           {/* Personalized welcome routes — public, no auth */}
           <Route path="/bao" element={<WelcomePersonal personaSlug="bao" />} />
-          <Route path="/bao-autopilot" element={<BaoAutopilotDashboard />} />
           <Route path="/rubin" element={<WelcomePersonal personaSlug="rubin" />} />
           <Route path="/werner" element={<WelcomePersonal personaSlug="werner" />} />
           <Route path="/jasmin" element={<WelcomePersonal personaSlug="jasmin" />} />
