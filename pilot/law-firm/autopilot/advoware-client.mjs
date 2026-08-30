@@ -1,5 +1,6 @@
 import crypto from 'node:crypto'
-import { DECISIONS, decideAction, digest } from './core.mjs'
+import { DECISIONS, digest } from './core.mjs'
+import { decideAdvowareAction } from './advoware-policy.mjs'
 
 const CONFIG_URL = 'https://www2.advo-net.net/AdvonetConfigurator/api/Url'
 const PRODUCT_ID = 64
@@ -64,10 +65,16 @@ export function createAdvowareClient({
   let discovery = null
   let token = null
   let tokenExpiresAt = 0
+  let totalProviderCalls = 0
+
+  async function providerFetch(...args) {
+    totalProviderCalls += 1
+    return fetchImpl(...args)
+  }
 
   async function discover() {
     if (discovery) return discovery
-    const res = await fetchImpl(`${CONFIG_URL}?Kanzlei=${encodeURIComponent(kanzlei)}`, { method: 'GET', headers: { accept: 'application/json' } })
+    const res = await providerFetch(`${CONFIG_URL}?Kanzlei=${encodeURIComponent(kanzlei)}`, { method: 'GET', headers: { accept: 'application/json' } })
     if (!res.ok) throw new Error(`advoware_discovery_failed:${res.status}`)
     const data = await res.json()
     const apiBase = slashless(data.connectorUrl || data.relayUrl)
@@ -96,7 +103,7 @@ export function createAdvowareClient({
       HMAC512Signature,
       RequestTimeStamp: requestTimeStamp,
     }
-    const res = await fetchImpl(`${d.securityGateway}/api/v1/Token`, {
+    const res = await providerFetch(`${d.securityGateway}/api/v1/Token`, {
       method: 'POST',
       headers: { 'content-type': 'application/json', accept: 'application/json' },
       body: JSON.stringify(body),
@@ -114,7 +121,7 @@ export function createAdvowareClient({
     const spec = OPERATIONS[operation]
     if (!spec) return { status: 'blocked', decision: DECISIONS.BLOCK, reason: 'unknown_advoware_operation', providerCalls: 0 }
 
-    const authority = decideAction(spec.action, context)
+    const authority = decideAdvowareAction(spec.action, context)
     const expectedDigest = actionDigest({ operation, params, body })
 
     if (authority.decision === DECISIONS.BLOCK) {
@@ -131,6 +138,7 @@ export function createAdvowareClient({
       }
     }
 
+    const callsBefore = totalProviderCalls
     const d = await discover()
     const accessToken = await authenticate()
     const path = typeof spec.path === 'function' ? spec.path(params) : spec.path
@@ -144,16 +152,17 @@ export function createAdvowareClient({
       headers['content-type'] = 'application/json'
       init.body = JSON.stringify(body)
     }
-    const response = await fetchImpl(url.toString(), init)
+    const response = await providerFetch(url.toString(), init)
     const text = await response.text()
     let data = null
     try { data = text ? JSON.parse(text) : null } catch { data = text }
+    const providerCalls = totalProviderCalls - callsBefore
     if (!response.ok) {
       return {
         status: 'provider_failed',
         decision: authority.decision,
         action_digest: expectedDigest,
-        providerCalls: 3,
+        providerCalls,
         provider_status: response.status,
         data,
       }
@@ -162,7 +171,7 @@ export function createAdvowareClient({
       status: 'executed',
       decision: authority.decision,
       action_digest: expectedDigest,
-      providerCalls: 3,
+      providerCalls,
       provider_status: response.status,
       data,
     }
@@ -174,5 +183,6 @@ export function createAdvowareClient({
     getMatter: (id, options = {}) => execute('get_matter', { ...options, params: { id } }),
     getNewActivities: (query = {}, options = {}) => execute('new_activities', { ...options, params: { query } }),
     clearSession() { discovery = null; token = null; tokenExpiresAt = 0 },
+    getProviderCallCount() { return totalProviderCalls },
   }
 }
