@@ -1,0 +1,49 @@
+name: kanzlei-autopilot-ci
+
+on:
+  pull_request:
+    paths:
+      - 'pilot/law-firm/autopilot/**'
+      - 'viewer/src/pro/BaoAutopilotDashboard.tsx'
+      - 'viewer/src/pro/BaoAutopilotWelcome.tsx'
+      - 'viewer/src/pro/BaoCaseWorkPacket.tsx'
+      - 'viewer/src/pro/kanzlei-autopilot.ts'
+      - 'viewer/src/pro/kanzlei-autopilot-runner.ts'
+      - 'viewer/src/pro/kanzlei-work-packet.ts'
+      - 'viewer/src/pro/ProApp.tsx'
+      - 'viewer/src/pro/ProMatterHome.tsx'
+      - 'viewer/src/main.tsx'
+      - 'viewer/package.json'
+      - 'viewer/package-lock.json'
+      - '.github/workflows/kanzlei-autopilot-ci.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: viewer/package-lock.json
+
+      - name: Check Autopilot core syntax
+        run: node --check pilot/law-firm/autopilot/core.mjs
+
+      - name: Prove authority and time-measurement boundaries
+        run: node --test pilot/law-firm/autopilot/core.test.mjs
+
+      - name: Prove auth and UI contract
+        run: node --test pilot/law-firm/autopilot/ui-contract.test.mjs
+
+      - name: Install viewer dependencies
+        run: npm ci --prefix viewer
+
+      - name: Build authenticated Kanzlei workspace
+        run: npm run build --prefix viewer
