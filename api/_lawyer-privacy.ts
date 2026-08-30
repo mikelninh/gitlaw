@@ -1,6 +1,6 @@
 import crypto from 'node:crypto'
 
-export const LAWYER_PRIVACY_POLICY_VERSION = 'lawyer-privacy/0.1'
+export const LAWYER_PRIVACY_POLICY_VERSION = 'lawyer-privacy/0.2'
 export type LawyerDataMode = 'synthetic' | 'redacted' | 'real_mandate'
 export type LawyerProvider = 'openai'
 
@@ -56,7 +56,6 @@ export type PrivacyReceipt = {
 }
 
 const APPROVED_PROVIDER: LawyerProvider = 'openai'
-const on = (name: string) => process.env[name] === '1'
 const sha = (value: string) => crypto.createHash('sha256').update(value).digest('hex')
 const canonical = (value: unknown): string => {
   if (Array.isArray(value)) return `[${value.map(canonical).join(',')}]`
@@ -126,7 +125,8 @@ export function evaluateLawyerAiEgress(input: {
   const env = input.env || process.env
   const readiness = privacyReadiness(env)
   const privacy = input.privacy || {}
-  const dataMode: LawyerDataMode = privacy.dataMode || 'synthetic'
+  // SECURITY DEFAULT: missing classification is a real mandate, never demo data.
+  const dataMode: LawyerDataMode = privacy.dataMode || 'real_mandate'
   const provider = APPROVED_PROVIDER
   const promptDigest = sha(input.question)
   const memText = memoryText(input.approvedMemory)
@@ -151,7 +151,7 @@ export function evaluateLawyerAiEgress(input: {
   if (dataMode === 'redacted') {
     if (privacy.redactionApplied !== true) reasons.push('redaction_attestation_required')
     if (detectedClasses.length > 0) reasons.push('redacted_payload_still_contains_sensitive_identifiers')
-    if ((privacy.memoryScope || 'none') !== 'none' && memText.trim()) reasons.push('cross_prompt_memory_disabled_for_redacted_mode')
+    if ((privacy.memoryScope || 'none') !== 'none' || memText.trim()) reasons.push('cross_prompt_memory_disabled_for_redacted_mode')
   }
 
   if (dataMode === 'real_mandate') {
