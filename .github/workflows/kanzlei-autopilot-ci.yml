@@ -39,6 +39,7 @@ jobs:
           node --check pilot/law-firm/autopilot/advoware-policy.mjs
           node --check pilot/law-firm/autopilot/advoware-client.mjs
           node --check pilot/law-firm/autopilot/advoware-sync.mjs
+          node --check pilot/law-firm/autopilot/channel-intake.mjs
 
       - name: Prove authority and time-measurement boundaries
         run: node --test pilot/law-firm/autopilot/core.test.mjs
@@ -48,6 +49,9 @@ jobs:
 
       - name: Prove Advoware delta matching and morning brief
         run: node --test pilot/law-firm/autopilot/advoware-sync.test.mjs
+
+      - name: Prove multi-channel intake, dedupe and real-data gate
+        run: node --test pilot/law-firm/autopilot/channel-intake.test.mjs
 
       - name: Prove auth and UI contract
         run: node --test pilot/law-firm/autopilot/ui-contract.test.mjs
