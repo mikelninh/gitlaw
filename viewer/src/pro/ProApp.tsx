@@ -17,6 +17,7 @@ import ProAudit from './ProAudit'
 import ProEingaenge from './ProEingaenge'
 import ProImport from './ProImport'
 import Intake from './Intake'
+import BaoAutopilotDashboard from './BaoAutopilotDashboard'
 import { canAccessRoute } from './access'
 import './pro-theme.css'
 import './pro-tone.css'
@@ -30,6 +31,7 @@ export default function ProApp() {
         <Routes>
           <Route path="/" element={<ProLayout />}>
             <Route index element={<ProMatterHome />} />
+            <Route path="autopilot" element={<Guarded path="/pro/akten"><BaoAutopilotDashboard /></Guarded>} />
             <Route path="akten" element={<Guarded path="/pro/akten"><ProCasesList /></Guarded>} />
             <Route path="akten/:id" element={<Guarded path="/pro/akten"><ProCaseDetail /></Guarded>} />
             <Route path="recherche" element={<Guarded path="/pro/recherche"><ProResearch /></Guarded>} />
