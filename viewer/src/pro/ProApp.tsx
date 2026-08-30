@@ -15,6 +15,7 @@ import Intake from './Intake'
 import BaoAutopilotDashboard from './BaoAutopilotDashboard'
 import BaoCaseWorkPacket from './BaoCaseWorkPacket'
 import FridayPilotConsole from './FridayPilotConsole'
+import ProofWeekConsole from './ProofWeekConsole'
 import { canAccessRoute } from './access'
 import './pro-theme.css'
 import './pro-tone.css'
@@ -29,6 +30,7 @@ export default function ProApp() {
             <Route path="autopilot" element={<Guarded path="/pro/akten"><BaoAutopilotDashboard /></Guarded>} />
             <Route path="autopilot/:caseId" element={<Guarded path="/pro/akten"><BaoCaseWorkPacket /></Guarded>} />
             <Route path="friday" element={<Guarded path="/pro/akten"><FridayPilotConsole /></Guarded>} />
+            <Route path="proof-week" element={<Guarded path="/pro/akten"><ProofWeekConsole /></Guarded>} />
             <Route path="akten" element={<Guarded path="/pro/akten"><ProCasesList /></Guarded>} />
             <Route path="akten/:id" element={<Guarded path="/pro/akten"><ProCaseDetail /></Guarded>} />
             <Route path="recherche" element={<Guarded path="/pro/recherche"><SecureProResearch /></Guarded>} />
