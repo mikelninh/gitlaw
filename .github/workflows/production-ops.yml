@@ -1,0 +1,43 @@
+name: production-ops
+
+on:
+  pull_request:
+    paths:
+      - 'deploy/aws/**'
+      - 'deploy/PRODUCTION_READINESS.md'
+      - '.github/workflows/production-ops.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'deploy/aws/**'
+      - 'deploy/PRODUCTION_READINESS.md'
+      - '.github/workflows/production-ops.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-ops:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: '1.9.8'
+      - name: Terraform formatting
+        working-directory: deploy/aws
+        run: terraform fmt -check -recursive
+      - name: Terraform init without backend
+        working-directory: deploy/aws
+        run: terraform init -backend=false -input=false
+      - name: Terraform validate
+        working-directory: deploy/aws
+        run: terraform validate
+      - name: Verify operating truth gates
+        run: |
+          grep -q 'A configured backup without a successful restore drill does' deploy/PRODUCTION_READINESS.md
+          grep -q 'unauthorised consequential execution' deploy/PRODUCTION_READINESS.md
+          grep -q 'cross-tenant/matter data exposure' deploy/PRODUCTION_READINESS.md
+          grep -q 'Do not publish an SLA until' deploy/PRODUCTION_READINESS.md
+          grep -q 'External evidence gates that code cannot close' deploy/PRODUCTION_READINESS.md
