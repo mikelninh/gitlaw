@@ -1,0 +1,48 @@
+[
+  {
+    "date": "2026-08-31",
+    "laws_new": 2,
+    "laws_amended": 3,
+    "changes": [
+      {
+        "title": "Erste Verordnung zur Änderung der Vorsorgeregister-Verordnung",
+        "citation": "BGBl. 2026 I Nr. 238 vom 25.08.2026",
+        "status": "amended",
+        "corpus_gap": "Stammverordnung fehlt in laws/",
+        "effective": "nicht in Metadaten — Regelungstext-PDF prüfen",
+        "url": "https://www.recht.bund.de/bgbl/1/2026/238/VO.html"
+      },
+      {
+        "title": "BAS-Abschlussprüfungsverordnung (BASAPrV)",
+        "citation": "BGBl. 2026 I Nr. 239 vom 26.08.2026",
+        "status": "new",
+        "effective": "nicht in Metadaten — Regelungstext-PDF prüfen",
+        "url": "https://www.recht.bund.de/bgbl/1/2026/239/VO.html"
+      },
+      {
+        "title": "Verordnung zur Änderung der Verordnung über das Register über Unternehmensbasisdaten",
+        "citation": "BGBl. 2026 I Nr. 240 vom 27.08.2026",
+        "status": "amended",
+        "effective": "nicht in Metadaten — Regelungstext-PDF prüfen",
+        "url": "https://www.recht.bund.de/bgbl/1/2026/240/VO.html"
+      },
+      {
+        "title": "Verordnung zur Ablösung der 226. Durchführungsverordnung zur Luftverkehrs-Ordnung (Allendorf/Eder)",
+        "citation": "BGBl. 2026 I Nr. 241 vom 28.08.2026",
+        "status": "new",
+        "effective": "nicht in Metadaten — Regelungstext-PDF prüfen",
+        "url": "https://www.recht.bund.de/bgbl/1/2026/241/VO.html"
+      },
+      {
+        "title": "Bekanntmachung der Neufassung der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt (GGVSEB)",
+        "citation": "BGBl. 2026 I Nr. 242 vom 31.08.2026",
+        "status": "amended",
+        "corpus_file": "laws/ggvseb.md",
+        "corpus_stand": "Neugefasst durch Bek. v. 18.8.2023 I Nr. 227 (veraltet)",
+        "effective": "nicht in Metadaten — Regelungstext-PDF prüfen",
+        "url": "https://www.recht.bund.de/bgbl/1/2026/242/VO.html"
+      }
+    ],
+    "branch": "agent/law-watch-2026-08-31"
+  }
+]
