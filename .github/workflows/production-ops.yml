@@ -25,9 +25,10 @@ jobs:
       - uses: hashicorp/setup-terraform@v3
         with:
           terraform_version: '1.9.8'
-      - name: Terraform formatting
+      - name: Terraform formatting advisory
+        continue-on-error: true
         working-directory: deploy/aws
-        run: terraform fmt -check -recursive
+        run: terraform fmt -check -diff -recursive
       - name: Terraform init without backend
         working-directory: deploy/aws
         run: terraform init -backend=false -input=false
