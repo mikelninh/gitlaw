@@ -1,0 +1,58 @@
+name: Legal Trust Stack
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'api/_trust_chain.ts'
+      - 'api/_legal_authority.ts'
+      - 'api/_legal_findings.ts'
+      - 'api/_legal_findings_schema.ts'
+      - 'api/_legal_trust.test.ts'
+      - 'api/pro/legal-findings.ts'
+      - 'migrations/007_trust_findings.sql'
+      - 'laws/**'
+      - '.github/workflows/legal-trust-stack.yml'
+  pull_request:
+    paths:
+      - 'api/_trust_chain.ts'
+      - 'api/_legal_authority.ts'
+      - 'api/_legal_findings.ts'
+      - 'api/_legal_findings_schema.ts'
+      - 'api/_legal_trust.test.ts'
+      - 'api/pro/legal-findings.ts'
+      - 'migrations/007_trust_findings.sql'
+      - 'laws/**'
+      - '.github/workflows/legal-trust-stack.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  legal-trust:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Install root and API dependencies
+        run: |
+          npm install --no-audit --no-fund
+          npm install --prefix api --no-audit --no-fund
+      - name: Prove corpus-grounded trust chain and drift gates
+        run: npx vitest run api/_legal_trust.test.ts
+      - name: Type-check legal trust API boundary
+        run: >-
+          npx tsc --noEmit --target ES2022 --module NodeNext --moduleResolution NodeNext
+          --esModuleInterop --skipLibCheck --strictNullChecks true
+          api/_trust_chain.ts api/_legal_authority.ts api/_legal_findings.ts
+          api/_legal_findings_schema.ts api/pro/legal-findings.ts
+      - name: Verify immutable ledger and qualified-human boundary are present
+        run: |
+          grep -q "PRIMARY KEY (tenant_slug, decision_id)" migrations/007_trust_findings.sql
+          grep -q "requireProSession(req, res, 'anwalt')" api/pro/legal-findings.ts
+          grep -q "legal_corpus_snapshot_changed" api/_legal_findings.ts
+          grep -q "human_decision_pending" api/_trust_chain.ts
