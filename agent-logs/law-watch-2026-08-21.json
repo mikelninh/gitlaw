@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-21",
+  "laws_new": 0,
+  "laws_amended": 4,
+  "window": "2026-08-14..2026-08-21",
+  "highlights": [
+    "BGBl. 2026 I Nr. 237 — GAP-Anpassungsverordnung (EU 2025/2649), inkr. 19.08.2026",
+    "BGBl. 2026 I Nr. 236 — 1. BKrFQV-Änderungsverordnung (Prüfung in 9 Sprachen), inkr. 18.08.2026",
+    "BGBl. 2026 I Nr. 235 — Mindeststeuer-Bericht-Verordnung (MinStDV) neu gegliedert, inkr. 18.08.2026",
+    "BGBl. 2026 I Nr. 234 — 2. Agrarstatistikverordnung-ÄndV, inkr. 01.01.2027"
+  ],
+  "sources": [
+    "https://www.recht.bund.de/bgbl/1/2026/237/VO.html?nn=197276",
+    "https://www.recht.bund.de/bgbl/1/2026/236/VO.html?nn=197276",
+    "https://www.recht.bund.de/bgbl/1/2026/235/VO.html?nn=197276",
+    "https://www.recht.bund.de/bgbl/1/2026/234/VO.html?nn=197276",
+    "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-1/bgbl-1_node.html",
+    "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "https://dejure.org/BGBl"
+  ],
+  "actions_taken": [
+    "cloned mikelninh/gitlaw",
+    "checked out branch agent/law-watch-2026-08-21",
+    "researched BGBl Teil I issues 234-237 (window 2026-08-14..2026-08-21)",
+    "cross-referenced findings against laws/ corpus (all AMENDED)",
+    "wrote agent-digests/law-watch-2026-08-21.md",
+    "wrote agent-logs/law-watch-2026-08-21.json",
+    "wrote data/law-watch-log.json",
+    "committed artifacts",
+    "pushed branch agent/law-watch-2026-08-21",
+    "opened PR against main"
+  ],
+  "repo": "gitlaw",
+  "branch": "agent/law-watch-2026-08-21",
+  "note": "BGBl II Nr. 173 (21.08.2026) excluded: only treaty-scope announcements, no substantive federal-law change."
+}
