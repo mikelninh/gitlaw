@@ -12,6 +12,7 @@ import {
   persistLegalDecision,
   persistLegalFinding,
 } from '../_legal_findings'
+import { ensureLegalFindingSchema } from '../_legal_findings_schema'
 
 function idempotencyKey(req: VercelRequest): string | null {
   const raw = req.headers['x-idempotency-key']
@@ -33,6 +34,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   const action = typeof req.query.action === 'string' ? req.query.action.trim() : ''
 
   try {
+    await ensureLegalFindingSchema()
+
     if (req.method === 'POST' && action === 'decision') {
       const lawyer = requireProSession(req, res, 'anwalt')
       if (!lawyer) return
