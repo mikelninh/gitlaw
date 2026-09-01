@@ -1,222 +1,222 @@
 {
   "schema_version": "1.0",
-  "last_full_sync_at_utc": "2026-08-12T06:43:33+00:00",
+  "last_full_sync_at_utc": "2026-09-01T10:09:20+00:00",
   "snapshots": {
     "BGB": {
-      "etag": "\"7216a-657ed90ffb152\"",
-      "last_modified_upstream": "Fri, 31 Jul 2026 19:55:11 GMT",
+      "etag": "\"7219d-65957aa15513e\"",
+      "last_modified_upstream": "Tue, 18 Aug 2026 19:55:10 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:35+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:16+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:02+00:00"
     },
     "StGB": {
       "etag": "\"22fdb-655a62f2b8bb2\"",
       "last_modified_upstream": "Thu, 02 Jul 2026 19:55:04 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:35+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:17+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:03+00:00"
     },
     "GG": {
       "etag": "\"daa8-65128127ec2cb\"",
       "last_modified_upstream": "Wed, 06 May 2026 15:46:51 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:35+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:18+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:04+00:00"
     },
     "StPO": {
       "etag": "\"31a84-6568377a3a627\"",
       "last_modified_upstream": "Mon, 13 Jul 2026 19:55:08 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:36+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:18+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:05+00:00"
     },
     "ZPO": {
       "etag": "\"3b903-6557df3d8ef77\"",
       "last_modified_upstream": "Tue, 30 Jun 2026 19:55:10 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:36+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:19+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:06+00:00"
     },
     "HGB": {
       "etag": "\"35751-6563300b392bf\"",
       "last_modified_upstream": "Thu, 09 Jul 2026 19:55:15 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:36+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:20+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:06+00:00"
     },
     "AO": {
-      "etag": "\"3325b-658b6cce96819\"",
-      "last_modified_upstream": "Mon, 10 Aug 2026 20:00:05 GMT",
+      "etag": "\"3329a-65a5d2de457af\"",
+      "last_modified_upstream": "Mon, 31 Aug 2026 19:55:08 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:36+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:20+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:07+00:00"
     },
     "KSchG": {
       "etag": "\"2990-65128168f11b7\"",
       "last_modified_upstream": "Wed, 06 May 2026 15:47:59 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:36+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:21+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:08+00:00"
     },
     "BUrlG": {
       "etag": "\"13d0-5b1058e4629bb\"",
       "last_modified_upstream": "Tue, 06 Oct 2020 19:25:03 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:36+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:21+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:08+00:00"
     },
     "ArbZG": {
       "etag": "\"32d6-62a9787c4c13f\"",
       "last_modified_upstream": "Tue, 31 Dec 2024 21:22:46 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:36+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:22+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:09+00:00"
     },
     "ArbSchG": {
       "etag": "\"3c0a-651280fdb063f\"",
       "last_modified_upstream": "Wed, 06 May 2026 15:46:06 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:36+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:22+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:09+00:00"
     },
     "BetrVG": {
       "etag": "\"bdf3-656837758b233\"",
       "last_modified_upstream": "Mon, 13 Jul 2026 19:55:03 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:37+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:22+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:10+00:00"
     },
     "BEEG": {
       "etag": "\"520e-651283d380955\"",
       "last_modified_upstream": "Wed, 06 May 2026 15:58:47 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:37+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:23+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:10+00:00"
     },
     "AufenthG": {
       "etag": "\"2870c-658b6cd764777\"",
       "last_modified_upstream": "Mon, 10 Aug 2026 20:00:14 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:37+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:23+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:11+00:00"
     },
     "IfSG": {
       "etag": "\"14da2-655ba4d042de7\"",
       "last_modified_upstream": "Fri, 03 Jul 2026 19:55:04 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:37+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:24+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:11+00:00"
     },
     "BDSG": {
       "etag": "\"b177-6568377ee3c5a\"",
       "last_modified_upstream": "Mon, 13 Jul 2026 19:55:13 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:37+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:24+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:12+00:00"
     },
     "GwG": {
-      "etag": "\"13fc8-655a630678840\"",
-      "last_modified_upstream": "Thu, 02 Jul 2026 19:55:25 GMT",
+      "etag": "\"13fc0-65a5d2e4ae24f\"",
+      "last_modified_upstream": "Mon, 31 Aug 2026 19:55:15 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:37+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:24+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:12+00:00"
     },
     "NetzDG": {
       "etag": "\"e15-651283f5f903b\"",
       "last_modified_upstream": "Wed, 06 May 2026 15:59:24 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:37+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:25+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:13+00:00"
     },
     "BImSchG": {
       "etag": "\"11e1f-6550540a9690d\"",
       "last_modified_upstream": "Wed, 24 Jun 2026 19:55:08 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:37+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:25+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:13+00:00"
     },
     "StVG": {
       "etag": "\"1401c-656d3eebf69bc\"",
       "last_modified_upstream": "Fri, 17 Jul 2026 19:55:03 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:38+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:25+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:13+00:00"
     },
     "StVO": {
       "etag": "\"b541f-652d1fd6387b0\"",
       "last_modified_upstream": "Wed, 27 May 2026 19:55:13 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:38+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:26+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:14+00:00"
     },
     "TKG": {
       "etag": "\"265ef-6557df67c0fa5\"",
       "last_modified_upstream": "Tue, 30 Jun 2026 19:55:54 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:38+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:26+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:14+00:00"
     },
     "SGG": {
       "etag": "\"ccf2-6557df47fbf98\"",
       "last_modified_upstream": "Tue, 30 Jun 2026 19:55:21 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:38+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:27+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:14+00:00"
     },
     "VwGO": {
       "etag": "\"c30a-6557df35ebd7c\"",
       "last_modified_upstream": "Tue, 30 Jun 2026 19:55:02 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:38+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:27+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:15+00:00"
     },
     "LPartG": {
       "etag": "\"1b3c-6512820a6910b\"",
       "last_modified_upstream": "Wed, 06 May 2026 15:50:48 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:38+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:28+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:15+00:00"
     },
     "SGB I": {
       "etag": "\"58cf-657b1384c079d\"",
       "last_modified_upstream": "Tue, 28 Jul 2026 19:55:25 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:38+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:29+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:16+00:00"
     },
     "SGB II": {
       "etag": "\"12a4a-65697953f4eab\"",
       "last_modified_upstream": "Tue, 14 Jul 2026 19:55:04 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:38+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:29+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:16+00:00"
     },
     "SGB III": {
       "etag": "\"23a9b-657c5556e9c8b\"",
       "last_modified_upstream": "Wed, 29 Jul 2026 19:55:13 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:38+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:29+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:16+00:00"
     },
     "SGB IV": {
-      "etag": "\"1e167-6583e0971f66f\"",
-      "last_modified_upstream": "Tue, 04 Aug 2026 19:55:29 GMT",
+      "etag": "\"1e120-658f31501956c\"",
+      "last_modified_upstream": "Thu, 13 Aug 2026 19:55:12 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:39+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:30+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:17+00:00"
     },
     "SGB V": {
       "etag": "\"98397-658b6cd33814e\"",
       "last_modified_upstream": "Mon, 10 Aug 2026 20:00:10 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:39+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:30+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:17+00:00"
     },
     "SGB VI": {
-      "etag": "\"416b0-6586643f125c6\"",
-      "last_modified_upstream": "Thu, 06 Aug 2026 19:55:10 GMT",
+      "etag": "\"416bd-658f314dd05d1\"",
+      "last_modified_upstream": "Thu, 13 Aug 2026 19:55:10 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:39+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:31+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:17+00:00"
     },
     "SGB VII": {
       "etag": "\"18e85-6557df6263e61\"",
       "last_modified_upstream": "Tue, 30 Jun 2026 19:55:49 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:39+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:31+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:18+00:00"
     },
     "SGB VIII": {
       "etag": "\"12818-657ed912d785c\"",
       "last_modified_upstream": "Fri, 31 Jul 2026 19:55:14 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:39+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:32+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:18+00:00"
     },
     "SGB X": {
       "etag": "\"ed00-657b138deb367\"",
       "last_modified_upstream": "Tue, 28 Jul 2026 19:55:35 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:39+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:32+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:18+00:00"
     },
     "SGB XI": {
       "etag": "\"3048a-6583e08f6ca6b\"",
       "last_modified_upstream": "Tue, 04 Aug 2026 19:55:21 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:40+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:32+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:19+00:00"
     },
     "SGB XII": {
       "etag": "\"14d87-657ed9162a211\"",
       "last_modified_upstream": "Fri, 31 Jul 2026 19:55:18 GMT",
       "first_seen_at_utc": "2026-05-28T18:20:40+00:00",
-      "last_checked_at_utc": "2026-08-12T06:43:33+00:00"
+      "last_checked_at_utc": "2026-09-01T10:09:19+00:00"
     }
   }
 }

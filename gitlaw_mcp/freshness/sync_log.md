@@ -101,3 +101,13 @@ Daily HEAD-check against gesetze-im-internet.de. Each section below lists laws t
 - **SGB V** — upstream `Last-Modified: Mon, 10 Aug 2026 20:00:10 GMT` (ETag `"98397-658b6cd33…`, was `"97fbf-657c5553c…`)
 - **SGB VI** — upstream `Last-Modified: Thu, 06 Aug 2026 19:55:10 GMT` (ETag `"416b0-6586643f1…`, was `"41582-657c555e1…`)
 - **SGB XI** — upstream `Last-Modified: Tue, 04 Aug 2026 19:55:21 GMT` (ETag `"3048a-6583e08f6…`, was `"304cc-657c55592…`)
+
+## 2026-09-01T10:09:20+00:00
+
+5 laws drifted upstream since last sync:
+
+- **BGB** — upstream `Last-Modified: Tue, 18 Aug 2026 19:55:10 GMT` (ETag `"7219d-65957aa15…`, was `"7216a-657ed90ff…`)
+- **AO** — upstream `Last-Modified: Mon, 31 Aug 2026 19:55:08 GMT` (ETag `"3329a-65a5d2de4…`, was `"3325b-658b6cce9…`)
+- **GwG** — upstream `Last-Modified: Mon, 31 Aug 2026 19:55:15 GMT` (ETag `"13fc0-65a5d2e4a…`, was `"13fc8-655a63067…`)
+- **SGB IV** — upstream `Last-Modified: Thu, 13 Aug 2026 19:55:12 GMT` (ETag `"1e120-658f31501…`, was `"1e167-6583e0971…`)
+- **SGB VI** — upstream `Last-Modified: Thu, 13 Aug 2026 19:55:10 GMT` (ETag `"416bd-658f314dd…`, was `"416b0-6586643f1…`)
