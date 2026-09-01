@@ -1,0 +1,33 @@
+name: Gauntlet Contract
+
+on:
+  pull_request:
+  push:
+    branches: [feat/gauntlet-adapter]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Gauntlet programme
+        run: |
+          python - <<'PY'
+          import json
+          p=json.load(open('gauntlet/program.json'))
+          required={'version','system','objective','fitness','mutable','forbidden','starter_cases','acceptance'}
+          missing=required-set(p)
+          assert not missing, f'missing keys: {sorted(missing)}'
+          assert p['fitness'].get('primary'), 'fitness.primary required'
+          assert p['fitness'].get('hard_gates'), 'fitness.hard_gates required'
+          assert len(p['starter_cases']) >= 3, 'need >=3 frozen starter cases'
+          assert p['mutable'] and p['forbidden'], 'mutable/forbidden must be non-empty'
+          assert not set(p['mutable']) & set(p['forbidden']), 'mutable and forbidden overlap'
+          print('Gauntlet contract OK:', p['system'])
+          PY
+      - name: Verify promoted retrieval code
+        run: python -m py_compile rag/query.py gauntlet/run_retrieval_gauntlet.py
+      - name: Replay frozen retrieval baseline
+        run: python gauntlet/run_retrieval_gauntlet.py
+      - name: Reproduce winning ranking mutation
+        run: python gauntlet/run_retrieval_gauntlet.py --mutation core-law-prior
