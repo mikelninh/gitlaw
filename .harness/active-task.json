@@ -1,0 +1,20 @@
+{
+  "schema": "mikel-harness-task-v0.1",
+  "task_id": "legal-answer-benchmark",
+  "status": "in_progress",
+  "goal": "Build a representative legal-answer benchmark that tests GitLaw beyond citation resolution: answer framing, uncertainty, retrieval completeness and reviewer correction quality.",
+  "sources": [".harness/roadmap.json", "README.md", "tests/", "pilot/law-firm/", "gitlaw_mcp/"],
+  "outputs": ["representative benchmark set", "answer-quality rubric", "edge-case labels", "baseline benchmark results"],
+  "constraints": ["Use public or synthetic legal questions only.", "Keep legal authority with the human reviewer.", "Preserve inspectable retrieval and citations."],
+  "done_when": ["The benchmark covers representative legal-answer failure modes.", "Scoring separates citation correctness from answer quality and uncertainty handling.", "Baseline results identify the highest-value next regression fixes."],
+  "forbidden": ["Consequential legal action", "Unverifiable source claims", "Hidden authority widening"],
+  "risk_class": "A2",
+  "approval_required": false,
+  "max_retries": 3,
+  "current_step": "build_benchmark_set",
+  "evidence": [],
+  "failures": [],
+  "uncertainties": [],
+  "next_owner": "builder",
+  "next_step": "Build the first representative legal-answer benchmark and baseline GitLaw on it, then send the failure set to the verifier."
+}
