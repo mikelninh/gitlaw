@@ -1,0 +1,26 @@
+name: rag-contracts
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'rag/**'
+      - '.github/workflows/rag-contracts.yml'
+  pull_request:
+    paths:
+      - 'rag/**'
+      - '.github/workflows/rag-contracts.yml'
+
+jobs:
+  retrieval-contracts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install RAG dependencies
+        run: pip install -r rag/requirements.txt
+      - name: Run offline canonical retrieval contracts
+        run: python -m unittest rag.tests.test_retrieval

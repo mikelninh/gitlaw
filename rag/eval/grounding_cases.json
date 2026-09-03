@@ -1,0 +1,14 @@
+[
+  {"id":"gg-human-dignity","question":"Welcher Artikel schützt die Menschenwürde?","expected":{"law_id":"gg","section_prefix":"Art 1"}},
+  {"id":"gg-expression","question":"Wo ist die Meinungsfreiheit im Grundgesetz geregelt?","expected":{"law_id":"gg","section_prefix":"Art 5"}},
+  {"id":"gg-property","question":"Welcher Artikel des Grundgesetzes schützt Eigentum?","expected":{"law_id":"gg","section_prefix":"Art 14"}},
+  {"id":"stgb-self-defence","question":"In welchem Paragraphen ist Notwehr geregelt?","expected":{"law_id":"stgb","section_prefix":"§ 32"}},
+  {"id":"stgb-insult","question":"Welcher Paragraph regelt Beleidigung?","expected":{"law_id":"stgb","section_prefix":"§ 185"}},
+  {"id":"stgb-theft","question":"Wo ist Diebstahl im StGB geregelt?","expected":{"law_id":"stgb","section_prefix":"§ 242"}},
+  {"id":"stgb-fraud","question":"Welcher Paragraph regelt Betrug?","expected":{"law_id":"stgb","section_prefix":"§ 263"}},
+  {"id":"stgb-help","question":"Wo ist unterlassene Hilfeleistung geregelt?","expected":{"law_id":"stgb","section_prefix":"§ 323c"}},
+  {"id":"bgb-incapacity","question":"Welcher Paragraph regelt die Geschäftsunfähigkeit von Kindern unter sieben Jahren?","expected":{"law_id":"bgb","section_prefix":"§ 104"}},
+  {"id":"bgb-damages","question":"Welcher Paragraph regelt Schadensersatz wegen Pflichtverletzung?","expected":{"law_id":"bgb","section_prefix":"§ 280"}},
+  {"id":"bgb-sale","question":"Wo stehen die typischen Pflichten aus einem Kaufvertrag?","expected":{"law_id":"bgb","section_prefix":"§ 433"}},
+  {"id":"bgb-landlord-notice","question":"Welcher Paragraph regelt die ordentliche Kündigung eines Wohnraummietverhältnisses durch den Vermieter?","expected":{"law_id":"bgb","section_prefix":"§ 573"}}
+]

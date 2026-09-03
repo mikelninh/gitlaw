@@ -1,26 +1,19 @@
 """
-Query the GitLaw vector store with natural language questions.
+Query GitLaw with natural-language questions.
 
-LCEL-based RAG chain (LangChain 1.x compatible). Hybrid retrieval:
-FAISS dense + BM25 keyword, fused with Reciprocal Rank Fusion.
+The query layer delegates retrieval to ``rag.retrieval`` so CLI, API and tests
+share one canonical retrieval implementation. Hybrid retrieval (FAISS + BM25
+fused with RRF) is the default.
 
 CLI: python3 rag/query.py "Darf ich dazuverdienen?"
 """
 
-import pickle
-from pathlib import Path
-from typing import Iterable
-
-from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnableLambda, RunnablePassthrough
-from langchain_community.vectorstores import FAISS
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
 
-from rag.build_bm25 import BM25_PATH, tokenize
-
-VECTORSTORE_DIR = Path("rag/vectorstore")
+from rag.retrieval import retrieve
 
 PERSONAS = {
     "student": "Student/in, jung, wenig Einkommen, WG, eventuell BAföG",
@@ -55,78 +48,9 @@ FRAGE: {question}
 
 ANTWORT:"""
 
-RRF_K = 60
 
-_FAISS = None
-_BM25 = None
-
-
-def _faiss() -> FAISS:
-    global _FAISS
-    if _FAISS is None:
-        embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
-        _FAISS = FAISS.load_local(
-            str(VECTORSTORE_DIR), embeddings, allow_dangerous_deserialization=True
-        )
-    return _FAISS
-
-
-def _bm25() -> dict:
-    global _BM25
-    if _BM25 is None:
-        if not BM25_PATH.exists():
-            raise FileNotFoundError(
-                f"BM25 index not found at {BM25_PATH}. Run: python3 -m rag.build_bm25"
-            )
-        with open(BM25_PATH, "rb") as f:
-            _BM25 = pickle.load(f)
-    return _BM25
-
-
-def _doc_key(d: Document) -> tuple[str, str]:
-    return (d.metadata.get("law_id", ""), d.metadata.get("section", ""))
-
-
-def _bm25_search(question: str, k: int) -> list[Document]:
-    payload = _bm25()
-    bm25 = payload["bm25"]
-    chunks = payload["chunks"]
-    scores = bm25.get_scores(tokenize(question))
-    top_idx = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:k]
-    return [
-        Document(page_content=chunks[i]["page_content"], metadata=chunks[i]["metadata"])
-        for i in top_idx
-    ]
-
-
-def _rrf(
-    rankings: Iterable[tuple[list[Document], float]], k_top: int
-) -> list[Document]:
-    scores: dict[tuple[str, str], float] = {}
-    keep: dict[tuple[str, str], Document] = {}
-    for ranking, weight in rankings:
-        for rank, doc in enumerate(ranking):
-            key = _doc_key(doc)
-            scores[key] = scores.get(key, 0.0) + weight / (RRF_K + rank + 1)
-            if key not in keep:
-                keep[key] = doc
-    ordered = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
-    return [keep[key] for key, _ in ordered[:k_top]]
-
-
-def hybrid_retrieve(
-    question: str, k: int = 6, use_hybrid: bool = False
-) -> list[Document]:
-    """Retrieve top-k chunks. Hybrid = FAISS dense + BM25 fused with RRF."""
-    dense = _faiss().similarity_search(question, k=k * 3 if use_hybrid else k)
-    if not use_hybrid:
-        return dense[:k]
-    sparse = _bm25_search(question, k=k * 3)
-    return _rrf([(dense, 1.0), (sparse, 0.5)], k_top=k)
-
-
-def get_chain(persona: str | None = None, use_hybrid: bool = False, k: int = 6):
-    """Build an LCEL RAG chain returning {answer, sources}."""
+def get_chain(persona: str | None = None, use_hybrid: bool = True, k: int = 6):
+    """Build an LCEL RAG chain returning the answer plus retrieved sources."""
     persona_text = ""
     if persona and persona in PERSONAS:
         persona_text = (
@@ -139,14 +63,14 @@ def get_chain(persona: str | None = None, use_hybrid: bool = False, k: int = 6):
     )
     llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.2, max_tokens=400)
 
-    def _format_context(docs: list[Document]) -> str:
+    def _format_context(docs) -> str:
         return "\n\n---\n\n".join(
             f"[{d.metadata.get('abbreviation', '')}] {d.metadata.get('section', '')}\n"
             f"{d.page_content[:1500]}"
             for d in docs
         )
 
-    retrieve = RunnableLambda(lambda q: hybrid_retrieve(q, k=k, use_hybrid=use_hybrid))
+    retrieval = RunnableLambda(lambda q: retrieve(q, k=k, hybrid=use_hybrid))
 
     answer_chain = (
         {
@@ -158,17 +82,15 @@ def get_chain(persona: str | None = None, use_hybrid: bool = False, k: int = 6):
         | StrOutputParser()
     )
 
-    chain = {
+    return {
         "question": RunnablePassthrough(),
-        "docs": retrieve,
+        "docs": retrieval,
     } | RunnablePassthrough.assign(answer=answer_chain)
-    return chain
 
 
-def ask(question: str, persona: str | None = None, use_hybrid: bool = False) -> dict:
-    """Ask a legal question and get a RAG-powered answer."""
-    chain = get_chain(persona=persona, use_hybrid=use_hybrid)
-    result = chain.invoke(question)
+def ask(question: str, persona: str | None = None, use_hybrid: bool = True) -> dict:
+    """Ask a legal question; hybrid retrieval is on unless explicitly disabled."""
+    result = get_chain(persona=persona, use_hybrid=use_hybrid).invoke(question)
     sources = [
         {
             "law": d.metadata.get("law", ""),
@@ -200,5 +122,5 @@ if __name__ == "__main__":
     result = ask(question, persona)
     print(f"Antwort:\n{result['answer']}")
     print("\nQuellen:")
-    for s in result["sources"]:
-        print(f"  [{s['abbreviation']}] {s['section']}")
+    for source in result["sources"]:
+        print(f"  [{source['abbreviation']}] {source['section']}")
