@@ -3,24 +3,25 @@
   "project": "GitLaw",
   "north_star": "Make German legal research inspectable end to end so retrieval, citations, uncertainty and verification can be checked independently from generated prose.",
   "achieved": [
-    {"title": "Hybrid retrieval across 5,936 German federal laws", "evidence": ["README.md"]},
-    {"title": "Paragraph graph, deterministic citation resolution and 53/53 citation regression", "evidence": ["README.md", "tests/"]},
-    {"title": "Research APIs and MCP tools with explicit human authority boundaries", "evidence": ["README.md", "gitlaw_mcp/"]}
+    {"title": "Hybrid retrieval across 5,936 German federal laws", "label": "Hybrid retrieval", "evidence": ["README.md"]},
+    {"title": "Paragraph graph, deterministic citation resolution and 53/53 citation regression", "label": "Citation graph", "evidence": ["README.md", "tests/"]},
+    {"title": "Research APIs and MCP tools with explicit human authority boundaries", "label": "MCP / APIs", "evidence": ["README.md", "gitlaw_mcp/"]}
   ],
   "current": {
     "title": "Prove legal-answer quality beyond citation resolution",
+    "label": "Answer quality",
     "status": "active",
     "outcome": "Move from strong retrieval/citation infrastructure to representative evidence that legal researchers can rely on the answer workflow and uncertainty handling."
   },
   "next": [
-    {"title": "Build a broader representative legal-answer benchmark", "why": "Citation correctness is necessary but not sufficient evidence of answer quality."},
-    {"title": "Run a law-firm research pilot with real edge cases and reviewer corrections", "why": "Human reviewer evidence should expose where retrieval, framing or uncertainty still fails."},
-    {"title": "Turn every discovered research failure into a permanent regression", "why": "The system should become more trustworthy through falsification, not confidence claims."}
+    {"title": "Build a broader representative legal-answer benchmark", "label": "Answer benchmark", "why": "Citation correctness is necessary but not sufficient evidence of answer quality."},
+    {"title": "Run a law-firm research pilot with real edge cases and reviewer corrections", "label": "Law-firm pilot", "why": "Human reviewer evidence should expose where retrieval, framing or uncertainty still fails."},
+    {"title": "Turn every discovered research failure into a permanent regression", "label": "Failure regressions", "why": "The system should become more trustworthy through falsification, not confidence claims."}
   ],
   "later": [
-    "Expand source layers beyond federal statutes only when provenance remains inspectable.",
-    "Package legal research capabilities for bounded agent workflows through MCP/API contracts.",
-    "Prove repeatable professional usefulness without autonomous consequential legal action."
+    {"title": "Expand source layers beyond federal statutes only when provenance remains inspectable.", "label": "More sources"},
+    {"title": "Package legal research capabilities for bounded agent workflows through MCP/API contracts.", "label": "Agent contracts"},
+    {"title": "Prove repeatable professional usefulness without autonomous consequential legal action.", "label": "Professional proof"}
   ],
   "sources": ["README.md", "tests/", "pilot/law-firm/", "gitlaw_mcp/"],
   "updated_at": "2026-09-03"
