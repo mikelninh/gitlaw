@@ -16,5 +16,15 @@
   "failures": [],
   "uncertainties": [],
   "next_owner": "builder",
-  "next_step": "Build the first representative legal-answer benchmark and baseline GitLaw on it, then send the failure set to the verifier."
+  "next_step": "Build the first representative legal-answer benchmark and baseline GitLaw on it, then send the failure set to the verifier.",
+  "decision_estimate": {
+    "scale": "1-5",
+    "impact": 4.5,
+    "urgency": 3.5,
+    "unlock_value": 4.5,
+    "effort": 3,
+    "confidence": 4,
+    "rationale": "The benchmark converts a technically strong retrieval/citation system into measurable answer-quality evidence for legal users and hiring proofs.",
+    "source": "chief_estimate_v1"
+  }
 }
