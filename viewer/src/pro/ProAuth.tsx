@@ -26,6 +26,7 @@ import {
   saveSettings,
 } from './store'
 import { setCloudSyncEnabled, pullFromCloud, pushToCloud } from './sync'
+import { enableShadowLock } from './shadow-lock'
 import { isDemoLoaded, loadDemoData, getPreset, DEMO_MARKER, refreshDemoActivity } from './demo-data'
 import { exchangeInviteForSession, resumeSession } from './pro-api'
 import type { SessionResponse } from './pro-api'
@@ -33,6 +34,11 @@ import MagicLinkLogin from './MagicLinkLogin'
 
 interface Props {
   children: React.ReactNode
+}
+
+function fridayShadowRouteRequested(): boolean {
+  if (typeof window === 'undefined') return false
+  return window.location.hash.startsWith('#/pro/friday')
 }
 
 export default function ProAuth({ children }: Props) {
@@ -58,6 +64,11 @@ export default function ProAuth({ children }: Props) {
   // Auto-unlock if a previously saved token is still valid, OR if a fresh
   // token is in the URL (#/pro?invite=BETA-…&preset=rubin)
   useEffect(() => {
+    // SECURITY ORDERING: a direct Friday entry enters P1 before auth bootstrap
+    // can auto-enable/pull cloud state. setCloudSyncEnabled/pull/push all obey
+    // this session lock, so there is no transient cloud window.
+    if (fridayShadowRouteRequested()) enableShadowLock()
+
     const fromHash = searchParams.get('invite')
     const presetFromHash = searchParams.get('preset')
     // Also fall back to pre-hash query string, just in case someone shared
@@ -72,9 +83,8 @@ export default function ProAuth({ children }: Props) {
       bootstrapAccess(fromUrl)
         .then(async () => {
           log('login', 'via URL token')
-          // Cloud-Sync MUSS vor loadDemoData/createCase/updateCase aktiv sein,
-          // sonst landen frisch geseedete Demo-Akten nicht im Backend und der
-          // Mandanten-Link findet sie spaeter nicht in Redis.
+          // For ordinary demo/pilot routes this preference may be enabled.
+          // P1 Shadow Lock overrides it and keeps cloud sync hard OFF.
           setCloudSyncEnabled(true)
 
           if (presetFromUrl && getPreset(presetFromUrl)) {
@@ -95,8 +105,7 @@ export default function ProAuth({ children }: Props) {
             }
           }
 
-          // Erst pullen (was schon im Backend liegt mergen), dann pushen
-          // (lokale Demo-Akten ins Backend hochladen).
+          // P1 Shadow Lock makes both operations fail closed before network.
           await pullFromCloud().catch(() => { /* non-blocking */ })
           await pushToCloud().catch(() => { /* non-blocking */ })
           setUnlocked(true)
@@ -122,7 +131,7 @@ export default function ProAuth({ children }: Props) {
           setAccessContext(session.access)
           touchSessionActivity()
           log('login', 'via stored session')
-          // Auto-enable cloud sync for Pro users and pull latest data
+          // Shadow Lock prevents this preference from opening a cloud path.
           setCloudSyncEnabled(true)
           pullFromCloud().catch(() => { /* non-blocking */ })
           setUnlocked(true)
