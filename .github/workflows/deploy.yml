@@ -25,6 +25,11 @@ jobs:
         run: |
           pip install requests lxml
           python parser/build_index.py
+      - name: Generate agent security evidence
+        run: |
+          npm ci
+          npm run security:test
+          npm run security:report
       - name: Copy laws to viewer
         run: cp -r laws/ viewer/public/laws/
       - name: Build viewer
