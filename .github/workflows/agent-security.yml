@@ -1,0 +1,45 @@
+name: Agent Security Gauntlet
+
+on:
+  pull_request:
+    paths:
+      - 'security/**'
+      - 'api/pro/capabilities-contract.ts'
+      - 'api/_agent.ts'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/agent-security.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'security/**'
+      - 'api/pro/capabilities-contract.ts'
+      - 'api/_agent.ts'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/agent-security.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  adversarial-regression:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Run 50-case security gate
+        run: npm run security:test
+      - name: Generate evidence report
+        run: npm run security:report
+      - name: Upload security evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: agent-security-gauntlet-report
+          path: viewer/public/security/report.json
+          if-no-files-found: error
