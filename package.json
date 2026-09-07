@@ -6,7 +6,7 @@
     "migrate": "tsx scripts/migrate-redis-to-postgres.ts",
     "test": "vitest run",
     "test:watch": "vitest",
-    "security:test": "vitest run security/agent-security.test.ts",
+    "security:test": "vitest run security/agent-security.test.ts security/security-posture.test.ts",
     "security:report": "tsx security/run-security-gauntlet.ts"
   },
   "devDependencies": {
