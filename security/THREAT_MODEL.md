@@ -58,6 +58,7 @@ The model may propose an action. It does not grant itself authority to perform i
 - **Agent execution is bounded.** Excessive repeated tool calls are stopped.
 - **Missing or conflicting provenance produces review, not confident promotion.**
 - **Human professional authority remains final for consequential legal conclusions.**
+- **Critical vulnerabilities in production npm dependencies fail the security CI gate.**
 
 ## Attack surface mapped to OWASP Agentic Top 10 2026
 
@@ -66,7 +67,7 @@ The model may propose an action. It does not grant itself authority to perform i
 | ASI01 Agent Goal Hijack | hidden PDF/RAG instruction redirects workflow | untrusted-origin effects blocked outside model | does not prove injection detection |
 | ASI02 Tool Misuse & Exploitation | read tool repurposed as write/delete | typed capability/effect contract + allowlist | deeper parameter-level validation should grow with new tools |
 | ASI03 Identity & Privilege Abuse | cross-tenant read or low-role write | auth + tenant + role checks | production deployment must prove configuration/RLS |
-| ASI04 Agentic Supply Chain Vulnerabilities | compromised MCP/dependency | known-bad block + unverified review state | CI dependency/SBOM/signature evidence remains separate work |
+| ASI04 Agentic Supply Chain Vulnerabilities | compromised MCP/dependency | known-bad/unverified runtime states + CI critical-production dependency audit | SBOM, signatures and full provenance evidence remain separate work |
 | ASI05 Unexpected Code Execution | shell/eval/package installer invented by model | no execution capabilities declared; unknown tools blocked | sandboxing required if execution tools are ever introduced |
 | ASI06 Memory & Context Poisoning | poisoned RAG asks for mutation | provenance review + untrusted-origin write block | retrieval poisoning detection is not complete |
 | ASI07 Insecure Inter-Agent Communication | forged peer agent request | peer authentication state + no peer-authorised writes | signed message protocol not yet implemented |
@@ -126,7 +127,7 @@ The next maturity steps after this deterministic baseline are:
 1. live-model adversarial replay against the same golden cases,
 2. indirect prompt-injection fixtures in PDF/email/RAG inputs,
 3. parameter-level schemas for every tool effect,
-4. dependency scanning + SBOM + provenance evidence,
+4. SBOM + dependency provenance/signature evidence beyond the current critical-production audit gate,
 5. signed/authenticated inter-agent messages if multi-agent communication becomes real,
 6. production traces and anomaly alerts for denied actions, repeated calls and privilege violations,
 7. external security review before claiming production readiness.
