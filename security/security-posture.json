@@ -1,0 +1,41 @@
+{
+  "version": "security-posture/v1",
+  "project": {
+    "id": "gitlaw",
+    "repository": "mikelninh/gitlaw",
+    "domain": "legal research and supervised agentic workflows"
+  },
+  "thesis": "Assume model output can be manipulated; authentication, tenant scope, capabilities, protected data and consequential effects remain controlled outside the model.",
+  "controls": [
+    { "id": "authority_outside_model", "status": "implemented", "evidence": [{ "type": "code", "path": "security/control-plane.ts", "claim": "Deterministic policy decides whether proposed agent effects are allowed, reviewed or blocked." }, { "type": "doc", "path": "security/THREAT_MODEL.md", "claim": "Authority outside the model is an explicit security invariant." }] },
+    { "id": "least_privilege", "status": "implemented", "evidence": [{ "type": "code", "path": "api/pro/capabilities-contract.ts", "claim": "Agent capabilities are explicit and consequential writes are approval-gated." }, { "type": "test", "path": "security/agent-security.test.ts", "claim": "Tool misuse and undeclared authority attacks are regression-tested." }] },
+    { "id": "tenant_isolation", "status": "implemented", "evidence": [{ "type": "code", "path": "security/control-plane.ts", "claim": "Cross-tenant intent is rejected by the deterministic security boundary." }, { "type": "test", "path": "security/agent-security.test.ts", "claim": "Cross-tenant access is part of the adversarial suite." }] },
+    { "id": "human_approval", "status": "implemented", "evidence": [{ "type": "code", "path": "api/pro/capabilities-contract.ts", "claim": "Writing capabilities require explicit human approval." }, { "type": "doc", "path": "security/THREAT_MODEL.md", "claim": "Human professional authority remains final for consequential legal work." }] },
+    { "id": "provenance", "status": "implemented", "evidence": [{ "type": "doc", "path": "README.md", "claim": "Retrieval, source resolution and citation verification remain separately inspectable from generation." }, { "type": "test", "path": "security/agent-security.test.ts", "claim": "Poisoned or untrusted context is not promoted into authority by the security gate." }] },
+    { "id": "protected_data", "status": "implemented", "evidence": [{ "type": "code", "path": "security/control-plane.ts", "claim": "Secrets, system prompts and cross-tenant protected scopes are denied." }, { "type": "test", "path": "security/agent-security.test.ts", "claim": "Data-exfiltration and protected-scope attacks are covered." }] },
+    { "id": "bounded_execution", "status": "implemented", "evidence": [{ "type": "code", "path": "security/control-plane.ts", "claim": "Agent execution budgets are part of deterministic policy." }, { "type": "test", "path": "security/agent-security.test.ts", "claim": "Runaway and cascading-failure cases are regression tested." }] },
+    { "id": "auditability", "status": "implemented", "evidence": [{ "type": "doc", "path": "security/THREAT_MODEL.md", "claim": "Security decisions and attempted effects are designed to be auditable." }, { "type": "report", "path": "viewer/public/security/report.json", "claim": "The gauntlet produces machine-readable evidence for every release run." }] },
+    { "id": "supply_chain", "status": "partial", "evidence": [{ "type": "ci", "path": ".github/workflows/agent-security.yml", "claim": "Critical vulnerabilities in production npm dependencies fail CI." }, { "type": "doc", "path": "security/THREAT_MODEL.md", "claim": "SBOM, signatures and full dependency provenance remain explicit residual work." }] },
+    { "id": "adversarial_evals", "status": "implemented", "evidence": [{ "type": "test", "path": "security/agent-security.test.ts", "claim": "Fifty golden cases cover all ten OWASP Agentic Top 10 2026 categories." }, { "type": "ci", "path": ".github/workflows/agent-security.yml", "claim": "The adversarial suite is a release gate." }] },
+    { "id": "production_monitoring", "status": "partial", "evidence": [{ "type": "doc", "path": "security/THREAT_MODEL.md", "claim": "Denied actions, repeated calls and privilege violations are identified as production monitoring targets." }, { "type": "report", "path": "viewer/public/security/report.json", "claim": "Release-time security evidence is observable; real production incident telemetry is not yet proven." }] }
+  ],
+  "adversarial": {
+    "taxonomy": "OWASP Top 10 for Agentic Applications 2026",
+    "cases": 50,
+    "passed": 50,
+    "criticalEscapes": 0,
+    "liveModel": false
+  },
+  "claims": {
+    "productionSecure": false,
+    "promptInjectionSolved": false,
+    "certified": false
+  },
+  "residualRisks": [
+    "The current gauntlet proves deterministic containment behavior rather than live-model prompt-injection detection.",
+    "Real malicious PDF, email, RAG and tool-response replay against a live model remains a next-stage proof.",
+    "SBOM, signatures and stronger dependency provenance are not yet complete.",
+    "Production anomaly detection and incident response need deployment evidence.",
+    "External security review is required before production-security claims."
+  ]
+}
