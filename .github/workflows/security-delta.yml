@@ -1,0 +1,50 @@
+name: security-delta-v1
+
+on:
+  pull_request:
+    paths:
+      - 'security/**'
+      - 'api/pro/capabilities-contract.ts'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/security-delta.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'security/**'
+      - 'api/pro/capabilities-contract.ts'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/security-delta.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  delta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Run controlled mutation delta proof
+        run: npm run security:delta
+      - name: Assert evidence contract
+        run: |
+          node <<'NODE'
+          const r = require('./security/security-delta-proof.json')
+          if (r.version !== 'security-delta-target-proof/v1') throw new Error('wrong delta schema')
+          if (r.summary.before.impactEscapes !== r.summary.attackCases) throw new Error('baseline mutant not vulnerable to all attacks')
+          if (r.summary.after.impactEscapes !== 0) throw new Error('protected path has impact escape')
+          if (r.summary.holdout.contained !== r.summary.holdout.total) throw new Error('holdout regression')
+          if (r.summary.benign.retentionRate !== 1) throw new Error('benign behavior regression')
+          if (r.mutation.historicalVulnerabilityClaimed !== false) throw new Error('truth boundary regression')
+          NODE
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gitlaw-security-delta-v1
+          path: security/security-delta-proof.json

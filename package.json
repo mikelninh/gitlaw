@@ -7,7 +7,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "security:test": "vitest run security/agent-security.test.ts security/security-posture.test.ts",
-    "security:report": "tsx security/run-security-gauntlet.ts"
+    "security:report": "tsx security/run-security-gauntlet.ts",
+    "security:delta": "vitest run security/security-delta.test.ts && tsx security/security-delta.ts"
   },
   "devDependencies": {
     "tsx": "^4.19.2",
