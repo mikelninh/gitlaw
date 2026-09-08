@@ -205,9 +205,16 @@ export function buildSecurityDeltaProof() {
   return report
 }
 
-if (process.argv[1]?.replaceAll('\\', '/').endsWith('/security/security-delta.ts')) {
+async function main() {
   const output = process.argv[2] ?? 'security/security-delta-proof.json'
   const report = buildSecurityDeltaProof()
   await writeFile(output, `${JSON.stringify(report, null, 2)}\n`, 'utf8')
   console.log(`GitLaw security delta: ${report.summary.before.impactEscapes} -> ${report.summary.after.impactEscapes} impact escapes; benign retention=${report.summary.benign.retained}/${report.summary.benign.cases}; holdout=${report.summary.holdout.contained}/${report.summary.holdout.total}`)
+}
+
+if (process.argv[1]?.replaceAll('\\', '/').endsWith('/security/security-delta.ts')) {
+  void main().catch((error) => {
+    console.error(error)
+    process.exitCode = 1
+  })
 }
