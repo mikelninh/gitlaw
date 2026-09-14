@@ -118,3 +118,10 @@ Daily HEAD-check against gesetze-im-internet.de. Each section below lists laws t
 
 - **BGB** — upstream `Last-Modified: Wed, 09 Sep 2026 19:55:11 GMT` (ETag `"72154-65b123aa9…`, was `"7219d-65957aa15…`)
 - **SGB VI** — upstream `Last-Modified: Wed, 09 Sep 2026 19:55:21 GMT` (ETag `"416df-65b123b39…`, was `"416bd-658f314dd…`)
+
+## 2026-09-14T10:42:41+00:00
+
+2 laws drifted upstream since last sync:
+
+- **BGB** — upstream `Last-Modified: Thu, 10 Sep 2026 19:55:10 GMT` (ETag `"7213a-65b265871…`, was `"72154-65b123aa9…`)
+- **AufenthG** — upstream `Last-Modified: Thu, 10 Sep 2026 19:55:16 GMT` (ETag `"28709-65b2658ca…`, was `"2870c-658b6cd76…`)
