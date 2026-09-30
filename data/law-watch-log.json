@@ -1,0 +1,41 @@
+{
+  "description": "Von agent/law-watch erkannte BGBl.-Änderungen. Maintainer: nach jedem Eintrag betroffene laws/*.md neu parsen und Explainer regenerieren.",
+  "entries": [
+    {
+      "detected": "2026-08-30",
+      "bgbl": "BGBl. 2026 I Nr. 238 vom 25.08.2026",
+      "law": "Vorsorgeregister-Verordnung",
+      "corpus_file": "laws/vregv.md",
+      "action": "reparse",
+      "regenerate_explainer": true,
+      "url": "https://www.recht.bund.de/bgbl/1/2026/238/VO.html"
+    },
+    {
+      "detected": "2026-08-30",
+      "bgbl": "BGBl. 2026 I Nr. 240 vom 27.08.2026",
+      "law": "Verordnung über das Register über Unternehmensbasisdaten (UBRegV)",
+      "corpus_file": "laws/ubregv.md",
+      "action": "reparse",
+      "regenerate_explainer": true,
+      "url": "https://www.recht.bund.de/bgbl/1/2026/240/VO.html"
+    },
+    {
+      "detected": "2026-08-30",
+      "bgbl": "BGBl. 2026 I Nr. 239 vom 26.08.2026",
+      "law": "BAS-Abschlussprüfungsverordnung (BASAPrV)",
+      "corpus_file": null,
+      "action": "add",
+      "regenerate_explainer": true,
+      "url": "https://www.recht.bund.de/bgbl/1/2026/239/VO.html"
+    },
+    {
+      "detected": "2026-08-30",
+      "bgbl": "BGBl. 2026 I Nr. 241 vom 28.08.2026",
+      "law": "Verordnung zur Ablösung der 226. DVO zur Luftverkehrs-Ordnung (Allendorf/Eder)",
+      "corpus_file": null,
+      "action": "add-low-priority",
+      "regenerate_explainer": false,
+      "url": "https://www.recht.bund.de/bgbl/1/2026/241/VO.html"
+    }
+  ]
+}
