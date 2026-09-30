@@ -5,12 +5,14 @@ on:
     paths:
       - 'viewer/**'
       - 'pilot/law-firm/pro-demo.browser.e2e.mjs'
+      - 'pilot/law-firm/friday-shadow.browser.e2e.mjs'
       - '.github/workflows/pro-demo-e2e.yml'
   push:
     branches: [main]
     paths:
       - 'viewer/**'
       - 'pilot/law-firm/pro-demo.browser.e2e.mjs'
+      - 'pilot/law-firm/friday-shadow.browser.e2e.mjs'
       - '.github/workflows/pro-demo-e2e.yml'
   workflow_dispatch:
 
@@ -46,3 +48,5 @@ jobs:
           exit 1
       - name: Exercise Pro demo and mobile regression
         run: node pilot/law-firm/pro-demo.browser.e2e.mjs
+      - name: Exercise Friday P1 Shadow Lock in browser
+        run: node pilot/law-firm/friday-shadow.browser.e2e.mjs

@@ -15,6 +15,9 @@
  *    Für die finale Aktivierung muss `vercel kv create` ausgeführt und
  *    `KV_REST_API_URL` + `KV_REST_API_TOKEN` in den Vercel-Vars gesetzt
  *    werden — dann funktioniert es transparent.
+ *
+ * P1 Shadow Lock overrides the cloud preference. While active, every cloud
+ * path below fails closed before a network call.
  */
 
 import type {
@@ -28,6 +31,7 @@ import type {
   ResearchQuery,
 } from './types'
 import { fetchWithProSession } from './pro-api'
+import { isShadowLockEnabled } from './shadow-lock'
 
 export interface ProStateSnapshot {
   version: '1'
@@ -86,10 +90,18 @@ export function setKanzleiKey(key: string): void {
 }
 
 export function isCloudSyncEnabled(): boolean {
+  if (isShadowLockEnabled()) return false
   return localStorage.getItem(KEYS.cloudSync) === '1'
 }
 
 export function setCloudSyncEnabled(on: boolean): void {
+  // Shadow Lock can only be ended explicitly in the Friday console. A settings
+  // toggle must never silently reopen an egress path during a real-matter test.
+  if (on && isShadowLockEnabled()) {
+    localStorage.setItem(KEYS.cloudSync, '0')
+    setSyncState({ status: 'disabled', lastError: 'P1 Shadow Lock aktiv: Cloud-Sync bleibt aus.' })
+    return
+  }
   localStorage.setItem(KEYS.cloudSync, on ? '1' : '0')
 }
 
@@ -276,7 +288,7 @@ export function schedulePush(): void {
 
 export async function pushToCloud(): Promise<void> {
   if (!isCloudSyncEnabled()) {
-    setSyncState({ status: 'disabled' })
+    setSyncState({ status: 'disabled', lastError: isShadowLockEnabled() ? 'P1 Shadow Lock: kein Cloud-Egress.' : null })
     return
   }
   setSyncState({ status: 'pushing', lastError: null })
@@ -299,8 +311,9 @@ export async function pushToCloud(): Promise<void> {
 
 export async function pullFromCloud(): Promise<{ ok: boolean; counts?: ReturnType<typeof importSnapshot>; error?: string }> {
   if (!isCloudSyncEnabled()) {
-    setSyncState({ status: 'disabled' })
-    return { ok: false, error: 'Cloud-Sync ist nicht aktiv' }
+    const error = isShadowLockEnabled() ? 'P1 Shadow Lock aktiv: Cloud-Sync blockiert' : 'Cloud-Sync ist nicht aktiv'
+    setSyncState({ status: 'disabled', lastError: error })
+    return { ok: false, error }
   }
   setSyncState({ status: 'pulling', lastError: null })
   getKanzleiKey()
