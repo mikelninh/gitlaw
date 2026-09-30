@@ -1,0 +1,42 @@
+[
+  {
+    "run_date": "2026-08-21",
+    "window": "2026-08-14..2026-08-21",
+    "citation": "BGBl. 2026 I Nr. 237",
+    "title": "Verordnung zur Anpassung der GAP-Direktzahlungen-Verordnung, der GAPInVeKoS-Verordnung und der GAP-Konditionalitäten-Verordnung an die Vorgaben der Verordnung (EU) 2025/2649 sowie zur Entlastung der landwirtschaftlichen Betriebe",
+    "status": "amended",
+    "effective": "2026-08-19",
+    "corpus_files": ["laws/gapdzv.md", "laws/gapinvekosv.md", "laws/gapkondv.md"],
+    "source": "https://www.recht.bund.de/bgbl/1/2026/237/VO.html?nn=197276"
+  },
+  {
+    "run_date": "2026-08-21",
+    "window": "2026-08-14..2026-08-21",
+    "citation": "BGBl. 2026 I Nr. 236",
+    "title": "Erste Verordnung zur Änderung der Berufskraftfahrerqualifikationsverordnung und anderer straßenverkehrsrechtlicher Vorschriften",
+    "status": "amended",
+    "effective": "2026-08-18",
+    "corpus_files": ["laws/bkrfqv_2020.md"],
+    "source": "https://www.recht.bund.de/bgbl/1/2026/236/VO.html?nn=197276"
+  },
+  {
+    "run_date": "2026-08-21",
+    "window": "2026-08-14..2026-08-21",
+    "citation": "BGBl. 2026 I Nr. 235",
+    "title": "Verordnung zur Änderung der Mindeststeuer-Bericht-Verordnung",
+    "status": "amended",
+    "effective": "2026-08-18",
+    "corpus_files": ["laws/minstbv.md", "laws/minstg.md"],
+    "source": "https://www.recht.bund.de/bgbl/1/2026/235/VO.html?nn=197276"
+  },
+  {
+    "run_date": "2026-08-21",
+    "window": "2026-08-14..2026-08-21",
+    "citation": "BGBl. 2026 I Nr. 234",
+    "title": "Zweite Verordnung zur Änderung der Agrarstatistikverordnung",
+    "status": "amended",
+    "effective": "2027-01-01",
+    "corpus_files": ["laws/agrstatv_2015.md"],
+    "source": "https://www.recht.bund.de/bgbl/1/2026/234/VO.html?nn=197276"
+  }
+]
