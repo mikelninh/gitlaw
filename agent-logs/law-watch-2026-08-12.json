@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-12",
+  "laws_new": 1,
+  "laws_amended": 9,
+  "highlights": [
+    "VerpackDG (BGBl. 2026 I Nr. 207) in Kraft 12.08.2026 - VerpackG tritt zeitgleich ausser Kraft; laws/verpackdg.md fehlt im Corpus",
+    "KrWG, BioAbfV, EWKFondsG, GewAbfV, AbfAEV, EfbV, AbfBeauftrV, UStatG zum 12.08.2026 geaendert",
+    "ChemVerbotsV Aenderung in Kraft 07.08.2026 (BGBl. 2024 I Nr. 43 Art. 2)",
+    "Verkuendet: GKV-Beitragssatzstabilisierung (Nr. 228), GEG-Aenderung (Nr. 226), Verbraucherkredit-/Darlehensvermittlungs-VO (Nr. 229), KI-Durchfuehrungsgesetz (Nr. 223)"
+  ],
+  "sources": [
+    "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "https://www.recht.bund.de/eli/bund/BGBl_1/2026/207",
+    "https://www.recht.bund.de/eli/bund/BGBl_1/2026/228",
+    "https://www.recht.bund.de/eli/bund/BGBl_1/2026/226",
+    "https://www.recht.bund.de/eli/bund/BGBl_1/2026/229",
+    "https://www.recht.bund.de/eli/bund/BGBl_1/2026/223",
+    "https://www.buzer.de/z.htm",
+    "https://www.buzer.de/gesetz/17604/index.htm"
+  ],
+  "actions_taken": [
+    "fresh clone + branch agent/law-watch-2026-08-12",
+    "cross-checked findings against laws/ (5968 files)",
+    "wrote agent-digests/law-watch-2026-08-12.md",
+    "appended data/law-watch-log.json",
+    "opened PR for human review (no merge)"
+  ],
+  "repo": "gitlaw",
+  "branch": "agent/law-watch-2026-08-12"
+}
