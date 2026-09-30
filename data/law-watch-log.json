@@ -1,0 +1,48 @@
+{
+  "repo": "gitlaw",
+  "schema_version": "1.0",
+  "entries": [
+    {
+      "date": "2026-08-13",
+      "window": "2026-08-06..2026-08-13",
+      "laws_new": 0,
+      "laws_amended": 2,
+      "findings": [
+        {
+          "id": "bgbl-2026-1-233",
+          "title": "Verordnung zur Neuordnung der Berufsausbildung zum Technischen Modellbauer und zur Technischen Modellbauerin (TechModellBAusbV)",
+          "bgbl": "BGBl. 2026 I Nr. 233",
+          "published": "2026-08-12",
+          "effective": "2027-08-01",
+          "status": "amended",
+          "corpus_file": "laws/modellbtechausbv.md",
+          "source": "https://www.recht.bund.de/bgbl/1/2026/233/VO.html?nn=197276"
+        },
+        {
+          "id": "bgbl-2026-1-232",
+          "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Friseur-Handwerk (Friseur-MstrV)",
+          "bgbl": "BGBl. 2026 I Nr. 232",
+          "published": "2026-08-12",
+          "effective": "2027-03-01",
+          "status": "amended",
+          "corpus_file": "laws/friseur-mstrv.md",
+          "source": "https://www.recht.bund.de/bgbl/1/2026/232/VO.html?nn=197276"
+        }
+      ],
+      "actions_taken": [
+        "created branch agent/law-watch-2026-08-13",
+        "wrote agent-digests/law-watch-2026-08-13.md",
+        "wrote agent-logs/law-watch-2026-08-13.json",
+        "wrote data/law-watch-log.json",
+        "opened PR against main"
+      ],
+      "branch": "agent/law-watch-2026-08-13",
+      "sources": [
+        "https://www.recht.bund.de/bgbl/1/2026/233/VO.html?nn=197276",
+        "https://www.recht.bund.de/bgbl/1/2026/232/VO.html?nn=197276",
+        "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-1/bgbl-1_node.html",
+        "https://www.recht.bund.de/de/home/home_node.html"
+      ]
+    }
+  ]
+}
