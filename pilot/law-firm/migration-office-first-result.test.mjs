@@ -1,0 +1,30 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import vm from 'node:vm';
+import {readFileSync} from 'node:fs';
+const html=readFileSync(new URL('../../viewer/public/migration-office-demo.html',import.meta.url),'utf8');
+const script=html.match(/<script id="workflow-core">([\s\S]*?)<\/script>/)?.[1];
+assert.ok(script,'Test the exact model embedded in the delivered page');
+const ctx=vm.createContext({});vm.runInContext(script,ctx);const G=ctx.GitLawDemo;
+const run=(s,a)=>G.transition(s,a);
+function ready(){let s=G.initial();s=run(s,{type:'approve',id:'identity'});s=run(s,{type:'draft'});s=run(s,{type:'request'});s=run(s,{type:'receive',id:'additional'});s=run(s,{type:'approve',id:'additional'});return s;}
+function released(){return run(run(ready(),{type:'role',role:'lawyer'}),{type:'release'});}
+test('initially synthetic, incomplete, no release',()=>{const s=G.initial();assert.equal(s.synthetic,true);assert.equal(G.complete(s),false);assert.equal(s.releasedRevision,null);});
+test('receiving is never approving',()=>{let s=run(run(G.initial(),{type:'draft'}),{type:'request'});s=run(s,{type:'receive',id:'additional'});assert.equal(s.documents[2].status,'received');assert.equal(s.documents[2].reviewedVersion,null);assert.equal(G.complete(s),false);});
+test('only missing/rejected items appear in a request',()=>{assert.equal(G.outstanding(G.initial()).map(d=>d.id).join(','),'additional');});
+test('repeat request cannot be made after it is simulated',()=>{const s=run(run(G.initial(),{type:'draft'}),{type:'request'});assert.equal(G.outstanding(s).length,0);assert.throws(()=>run(s,{type:'request'}));});
+test('stale draft blocked following a document review',()=>{const s=run(run(G.initial(),{type:'draft'}),{type:'approve',id:'identity'});assert.throws(()=>run(s,{type:'request'}));});
+test('staff cannot make final rehearsal release',()=>assert.throws(()=>run(ready(),{type:'release'}),/Team/));
+test('lawyer cannot release incomplete pack',()=>assert.throws(()=>run(run(G.initial(),{type:'role',role:'lawyer'}),{type:'release'})));
+test('reviewed complete pack can be released by rehearsal lawyer',()=>{const s=released();assert.equal(s.releasedRevision,s.revision);});
+test('new document version invalidates prior release',()=>{const s=run(released(),{type:'receive',id:'identity'});assert.equal(s.releasedRevision,null);assert.equal(G.complete(s),false);assert.equal(s.documents[0].version,2);});
+test('rejecting an approved item invalidates prior release',()=>{const s=run(released(),{type:'reject',id:'identity',reason:'unreadable'});assert.equal(s.releasedRevision,null);assert.equal(G.complete(s),false);});
+test('reject requires bounded explicit reason',()=>assert.throws(()=>run(G.initial(),{type:'reject',id:'identity'})));
+test('checklist version change invalidates readiness and release',()=>{const s=run(released(),{type:'change_checklist'});assert.equal(G.complete(s),false);assert.equal(s.releasedRevision,null);});
+test('staff cannot approve changed checklist',()=>assert.throws(()=>run(run(ready(),{type:'change_checklist'}),{type:'approve_checklist'})));
+test('unknown actions and roles fail closed within the rehearsal',()=>{assert.throws(()=>run(G.initial(),{type:'send'}));assert.throws(()=>run(G.initial(),{type:'role',role:'admin'}));});
+test('failed operation leaves original state unchanged',()=>{const s=ready(),before=JSON.stringify(s);assert.throws(()=>run(s,{type:'release'}));assert.equal(JSON.stringify(s),before);});
+test('receipt never claims real outcome, revenue or time savings',()=>{const r=G.receipt(released(),{useful:'yes',again:'yes',friction:'none'},123);assert.equal(r.realAcceptedOutcomes,0);assert.equal(r.revenueEvidence,null);assert.equal(r.timeSavedEvidence,null);assert.equal(r.productionAuthorization,false);});
+test('receipt requires completion and bounded feedback',()=>{assert.throws(()=>G.receipt(G.initial(),{useful:'yes',again:'yes',friction:'none'},5));assert.throws(()=>G.receipt(released(),{useful:'',again:'yes',friction:'none'},5));});
+test('receipt rejects nonfinite duration and duplicate release',()=>{assert.throws(()=>G.receipt(released(),{useful:'yes',again:'yes',friction:'none'},Infinity));assert.throws(()=>run(released(),{type:'release'}));});
+test('page blocks network and has no real data input or storage API',()=>{assert.match(html,/connect-src 'none'/);assert.doesNotMatch(html,/<input|<textarea|fetch\(|XMLHttpRequest|localStorage|sessionStorage|sendBeacon|<script[^>]+src=/i);assert.match(html,/keine Anmeldung oder serverseitige Zugriffskontrolle/);assert.match(html,/kein dauerhafter oder manipulationssicherer Audit-Trail/);});
