@@ -125,3 +125,25 @@ Daily HEAD-check against gesetze-im-internet.de. Each section below lists laws t
 
 - **BGB** — upstream `Last-Modified: Thu, 10 Sep 2026 19:55:10 GMT` (ETag `"7213a-65b265871…`, was `"72154-65b123aa9…`)
 - **AufenthG** — upstream `Last-Modified: Thu, 10 Sep 2026 19:55:16 GMT` (ETag `"28709-65b2658ca…`, was `"2870c-658b6cd76…`)
+
+## 2026-11-02T13:32:00+00:00
+
+17 laws drifted upstream since last sync:
+
+- **BGB** — upstream `Last-Modified: Sat, 26 Sep 2026 19:55:12 GMT` (ETag `"72156-65c6835fc…`, was `"7213a-65b265871…`)
+- **StGB** — upstream `Last-Modified: Mon, 28 Sep 2026 20:00:05 GMT` (ETag `"23004-65c908324…`, was `"22fdb-655a62f2b…`)
+- **StPO** — upstream `Last-Modified: Fri, 30 Oct 2026 21:00:07 GMT` (ETag `"31ba4-65f1514c8…`, was `"31a84-6568377a3…`)
+- **ZPO** — upstream `Last-Modified: Wed, 30 Sep 2026 19:55:15 GMT` (ETag `"3be4c-65cb8ad8f…`, was `"3b903-6557df3d8…`)
+- **AO** — upstream `Last-Modified: Thu, 29 Oct 2026 21:00:09 GMT` (ETag `"3326f-65f00f707…`, was `"3329a-65a5d2de4…`)
+- **AufenthG** — upstream `Last-Modified: Tue, 27 Oct 2026 21:00:43 GMT` (ETag `"28766-65ed8bd62…`, was `"28709-65b2658ca…`)
+- **BImSchG** — upstream `Last-Modified: Mon, 26 Oct 2026 21:00:04 GMT` (ETag `"13b9f-65ec49d39…`, was `"11e1f-6550540a9…`)
+- **StVG** — upstream `Last-Modified: Thu, 29 Oct 2026 21:00:05 GMT` (ETag `"14598-65f00f6ca…`, was `"1401c-656d3eebf…`)
+- **TKG** — upstream `Last-Modified: Wed, 28 Oct 2026 21:00:08 GMT` (ETag `"267ce-65eecd91b…`, was `"265ef-6557df67c…`)
+- **SGG** — upstream `Last-Modified: Thu, 29 Oct 2026 21:00:10 GMT` (ETag `"cd8d-65f00f71a2…`, was `"ccf2-6557df47fb…`)
+- **VwGO** — upstream `Last-Modified: Thu, 29 Oct 2026 21:00:03 GMT` (ETag `"c397-65f00f6ad3…`, was `"c30a-6557df35eb…`)
+- **SGB II** — upstream `Last-Modified: Wed, 28 Oct 2026 21:00:11 GMT` (ETag `"12a58-65eecd94f…`, was `"12a4a-65697953f…`)
+- **SGB III** — upstream `Last-Modified: Thu, 01 Oct 2026 19:55:10 GMT` (ETag `"23a29-65ccccb0d…`, was `"23a9b-657c5556e…`)
+- **SGB V** — upstream `Last-Modified: Fri, 23 Oct 2026 19:55:10 GMT` (ETag `"9850d-65e875b97…`, was `"98397-658b6cd33…`)
+- **SGB VI** — upstream `Last-Modified: Tue, 20 Oct 2026 19:55:14 GMT` (ETag `"416d1-65e4b024a…`, was `"416df-65b123b39…`)
+- **SGB X** — upstream `Last-Modified: Tue, 20 Oct 2026 19:55:09 GMT` (ETag `"eeab-65e4b01ff8…`, was `"ed00-657b138deb…`)
+- **SGB XI** — upstream `Last-Modified: Thu, 01 Oct 2026 19:55:11 GMT` (ETag `"304b5-65ccccb2b…`, was `"3048a-6583e08f6…`)
