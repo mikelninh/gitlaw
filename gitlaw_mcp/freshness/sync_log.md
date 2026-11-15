@@ -156,3 +156,9 @@ Daily HEAD-check against gesetze-im-internet.de. Each section below lists laws t
 - **SGG** — upstream `Last-Modified: Mon, 09 Nov 2026 20:55:11 GMT` (ETag `"cd46-65fde2d8eb…`, was `"cd8d-65f00f71a2…`)
 - **VwGO** — upstream `Last-Modified: Mon, 09 Nov 2026 20:55:03 GMT` (ETag `"c360-65fde2d0ec…`, was `"c397-65f00f6ad3…`)
 - **SGB V** — upstream `Last-Modified: Thu, 12 Nov 2026 20:55:07 GMT` (ETag `"98491-6601a86cd…`, was `"9850d-65e875b97…`)
+
+## 2026-11-15T12:46:04+00:00
+
+1 laws drifted upstream since last sync:
+
+- **IfSG** — upstream `Last-Modified: Fri, 13 Nov 2026 20:55:05 GMT` (ETag `"14d84-6602ea48f…`, was `"14da2-655ba4d04…`)
