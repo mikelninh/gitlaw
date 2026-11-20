@@ -162,3 +162,10 @@ Daily HEAD-check against gesetze-im-internet.de. Each section below lists laws t
 1 laws drifted upstream since last sync:
 
 - **IfSG** — upstream `Last-Modified: Fri, 13 Nov 2026 20:55:05 GMT` (ETag `"14d84-6602ea48f…`, was `"14da2-655ba4d04…`)
+
+## 2026-11-20T14:02:15+00:00
+
+2 laws drifted upstream since last sync:
+
+- **BGB** — upstream `Last-Modified: Thu, 19 Nov 2026 20:55:12 GMT` (ETag `"728b0-660a75801…`, was `"72156-65c6835fc…`)
+- **BDSG** — upstream `Last-Modified: Thu, 19 Nov 2026 20:55:27 GMT` (ETag `"b642-660a758e0b…`, was `"b177-6568377ee3…`)
