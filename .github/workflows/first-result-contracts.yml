@@ -1,0 +1,22 @@
+name: First-result rehearsal and economics contracts
+on:
+  pull_request:
+    paths:
+      - 'viewer/public/migration-office-demo.html'
+      - 'pilot/law-firm/*first-result*'
+      - 'pilot/law-firm/outcome-economics*'
+      - '.github/workflows/first-result-contracts.yml'
+  push:
+    branches: ['codex/gitlaw-first-paid-outcome-20261006']
+permissions:
+  contents: read
+jobs:
+  bounded-contracts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test pilot/law-firm/migration-office-first-result.test.mjs pilot/law-firm/outcome-economics.test.mjs
