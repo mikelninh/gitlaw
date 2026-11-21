@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-11",
+  "window_start": "2026-08-04",
+  "window_end": "2026-08-11",
+  "repo": "gitlaw",
+  "branch": "agent/law-watch-2026-08-11",
+  "laws_new": 0,
+  "laws_amended": 1,
+  "bekanntmachungen": 2,
+  "highlights": [
+    "BGBl. 2026 I Nr. 231 — 74. EDDF-IFR-PV-ÄndV (LuftVO / EDDF-Frankfurt) inkraft 01.10.2026",
+    "BGBl. 2026 II Nr. 158 — Bekanntmachung Gemeinsamer Fonds für Rohstoffe (völkerrechtlich)",
+    "BGBl. 2026 II Nr. 159 — Bekanntmachung DE-Singapur militärische Verschlusssachen (völkerrechtlich)"
+  ],
+  "sources": [
+    "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-1/bgbl-1_node.html",
+    "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-2/bgbl-2_node.html",
+    "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "https://www.buzer.de/gesetz/17637/index.htm",
+    "https://www.recht.bund.de/bgbl/1/2026/231/VO.html?nn=197276",
+    "https://www.recht.bund.de/bgbl/2/2026/158/VO.html?nn=197278",
+    "https://www.recht.bund.de/bgbl/2/2026/159/VO.html?nn=197278"
+  ],
+  "actions_taken": [
+    "fresh clone of mikelninh/gitlaw",
+    "created branch agent/law-watch-2026-08-11",
+    "researched BGBl I/II issues 2026-08-04..2026-08-11",
+    "cross-referenced against corpus (LUFTVO tracked in laws/luftvo_2015.md)",
+    "wrote agent-digests/law-watch-2026-08-11.md",
+    "wrote agent-logs/law-watch-2026-08-11.json",
+    "wrote data/law-watch-log.json",
+    "committed and pushed branch; opened PR (no merge)"
+  ],
+  "items": [
+    {
+      "bgbl": "BGBl. 2026 I Nr. 231",
+      "title": "Vierundsiebzigste Verordnung zur Änderung der Zweihundertzwölften Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Frankfurt am Main)",
+      "short": "74. EDDF-IFR-PV-ÄndV",
+      "type": "Verordnung (Änderung)",
+      "effective_date": "2026-10-01",
+      "corpus_affected": "LUFTVO (laws/luftvo_2015.md tracked) — 212. DV LuftVO / EDDF-IFR-PV geändert",
+      "source_url": "https://www.recht.bund.de/bgbl/1/2026/231/VO.html?nn=197276"
+    },
+    {
+      "bgbl": "BGBl. 2026 II Nr. 158",
+      "title": "Bekanntmachung über das Inkrafttreten der Änderung des Übereinkommens zur Gründung des Gemeinsamen Fonds für Rohstoffe",
+      "type": "Bekanntmachung (völkerrechtlich)",
+      "effective_date": "siehe Bekanntmachungstext",
+      "corpus_affected": "kein",
+      "source_url": "https://www.recht.bund.de/bgbl/2/2026/158/VO.html?nn=197278"
+    },
+    {
+      "bgbl": "BGBl. 2026 II Nr. 159",
+      "title": "Bekanntmachung des deutsch-singapurischen Abkommens über die Übermittlung und den gegenseitigen Schutz militärischer Verschlusssachen",
+      "type": "Bekanntmachung (völkerrechtlich)",
+      "effective_date": "siehe Bekanntmachungstext",
+      "corpus_affected": "kein",
+      "source_url": "https://www.recht.bund.de/bgbl/2/2026/159/VO.html?nn=197278"
+    }
+  ]
+}
