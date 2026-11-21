@@ -1,0 +1,93 @@
+{
+  "id": "outcome-engine-live-proof",
+  "name": "Outcome Engine Live Proof — n8n → GitLaw Gateway",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "ac5fe04c-d6bc-4302-82cb-63b9f2c84fde",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [-600, 0]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "50c98c6d-e1cf-4bd7-a1a6-aeddb8b70042",
+              "name": "proof_goal",
+              "value": "Call the public Outcome Engine backend and verify a real structured result",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "187b70fb-164a-4200-b5ad-1b65cb837a88",
+      "name": "Proof Context",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [-380, 0]
+    },
+    {
+      "parameters": {
+        "url": "https://outcome-engine-live-mikel.vercel.app/api/analyze?run=sample",
+        "options": {"timeout": 120000}
+      },
+      "id": "e6ac920a-e26a-42c5-9e0d-a962d4913994",
+      "name": "Call Live Outcome Engine",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [-140, 0]
+    },
+    {
+      "parameters": {
+        "jsCode": "const r = $json;\nconst deadline = r.artefacts?.frist?.deadline_iso;\nconst docs = r.artefacts?.required_documents ?? [];\nconst trace = r.tool_trace ?? [];\nconst checks = {\n  live_gateway: r.gateway?.live === true,\n  no_auto_send: r.gateway?.auto_send === false,\n  structured_run_id: typeof r.agent_run_id === 'string' && r.agent_run_id.length > 8,\n  deadline_correct: deadline === '2026-07-30',\n  three_documents: docs.length === 3,\n  human_review_gate: trace.some(t => t.tool === 'human_review_gate'),\n};\nconst passed = Object.values(checks).every(Boolean);\nif (!passed) throw new Error('Proof failed: ' + JSON.stringify(checks));\nreturn [{json:{passed,checks,backend_mode:r.gateway.backend_mode,agent_run_id:r.agent_run_id,deadline,documents:docs.map(d=>d.name_de),tool_trace:trace.map(t=>t.tool),elapsed_ms:r.gateway.elapsed_ms,auto_send:r.gateway.auto_send}}];"
+      },
+      "id": "4e05460e-b508-470c-9ab8-1d6046115598",
+      "name": "Assert Real Outcome",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [100, 0]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "641c738e-b7ae-4c59-ac03-1948eaaf3941",
+              "name": "result",
+              "value": "PASS — n8n called the live backend and verified the structured outcome",
+              "type": "string"
+            },
+            {
+              "id": "0c93da5c-e6c2-478f-a27a-2cb8bff758fc",
+              "name": "proof",
+              "value": "={{$json}}",
+              "type": "object"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "d63a7a1a-7093-443d-bd2a-96580f0d9f5a",
+      "name": "Proof Complete",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [340, 0]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {"main": [[{"node": "Proof Context", "type": "main", "index": 0}]]},
+    "Proof Context": {"main": [[{"node": "Call Live Outcome Engine", "type": "main", "index": 0}]]},
+    "Call Live Outcome Engine": {"main": [[{"node": "Assert Real Outcome", "type": "main", "index": 0}]]},
+    "Assert Real Outcome": {"main": [[{"node": "Proof Complete", "type": "main", "index": 0}]]}
+  },
+  "pinData": {},
+  "active": false,
+  "settings": {"executionOrder": "v1"},
+  "versionId": "b90fb95d-7ae1-4cb1-bf61-dcc8936402fb",
+  "meta": {"templateCredsSetupCompleted": true},
+  "tags": []
+}

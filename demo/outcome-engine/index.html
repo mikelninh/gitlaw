@@ -1,0 +1,600 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Interaktive Demo: Dokument rein, Frist, Aufgaben und Entwürfe raus – mit menschlicher Freigabe." />
+  <title>Outcome Engine — Dokument rein. Arbeit erledigt.</title>
+  <style>
+    :root{
+      --bg:#f4f2ed;
+      --ink:#17201d;
+      --muted:#68716d;
+      --panel:rgba(255,255,255,.82);
+      --line:rgba(23,32,29,.12);
+      --accent:#176b57;
+      --accent-2:#b8f0d7;
+      --warn:#a85b00;
+      --danger:#a13c3c;
+      --shadow:0 24px 70px rgba(25,43,37,.12);
+      --radius:24px;
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{
+      margin:0;color:var(--ink);background:
+      radial-gradient(circle at 12% 10%,rgba(184,240,215,.65),transparent 28rem),
+      radial-gradient(circle at 88% 15%,rgba(231,219,181,.52),transparent 26rem),
+      var(--bg);
+      font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      min-height:100vh;
+    }
+    button,input,textarea{font:inherit}
+    button{cursor:pointer}
+    .shell{width:min(1440px,calc(100% - 32px));margin:auto;padding:20px 0 72px}
+    .topbar{
+      display:flex;align-items:center;justify-content:space-between;gap:16px;
+      padding:12px 16px;border:1px solid var(--line);border-radius:999px;
+      background:rgba(255,255,255,.68);backdrop-filter:blur(18px);position:sticky;top:12px;z-index:20;
+    }
+    .brand{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:-.03em}
+    .mark{width:34px;height:34px;border-radius:50%;background:var(--ink);color:white;display:grid;place-items:center}
+    .privacy{font-size:13px;color:var(--muted);display:flex;gap:8px;align-items:center}
+    .privacy::before{content:"";width:8px;height:8px;border-radius:50%;background:#22a06b;box-shadow:0 0 0 5px rgba(34,160,107,.12)}
+    .hero{padding:72px 8px 34px;display:grid;grid-template-columns:1.25fr .75fr;gap:48px;align-items:end}
+    .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:12px;font-weight:800;color:var(--accent)}
+    h1{font-size:clamp(48px,7vw,100px);line-height:.92;letter-spacing:-.075em;margin:16px 0 22px;max-width:1000px}
+    .hero p{font-size:clamp(18px,2vw,24px);line-height:1.5;color:var(--muted);max-width:760px;margin:0}
+    .hero-note{border-left:1px solid var(--line);padding-left:28px;color:var(--muted);line-height:1.6}
+    .hero-note strong{display:block;color:var(--ink);font-size:22px;margin-bottom:8px}
+    .stakeholders{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 22px}
+    .stakeholder{
+      border:1px solid var(--line);background:rgba(255,255,255,.65);padding:12px 16px;border-radius:999px;
+      color:var(--muted);font-weight:750;transition:.2s ease;
+    }
+    .stakeholder:hover,.stakeholder.active{background:var(--ink);color:white;transform:translateY(-1px)}
+    .app{
+      background:var(--panel);border:1px solid rgba(255,255,255,.92);border-radius:32px;
+      box-shadow:var(--shadow);overflow:hidden;backdrop-filter:blur(24px);
+    }
+    .app-head{
+      padding:20px 24px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;gap:16px;
+    }
+    .app-head h2{font-size:20px;margin:0;letter-spacing:-.03em}
+    .status{font-size:13px;color:var(--muted)}
+    .status strong{color:var(--accent)}
+    .workspace{display:grid;grid-template-columns:1.05fr .55fr 1fr;min-height:650px}
+    .pane{padding:24px;min-width:0}
+    .pane + .pane{border-left:1px solid var(--line)}
+    .pane-label{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px}
+    .pane-label span:first-child{font-size:12px;font-weight:850;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+    .tag{font-size:11px;border-radius:999px;padding:5px 8px;background:#ecf7f2;color:var(--accent);font-weight:800}
+    .document-title{font-weight:850;font-size:20px;margin:4px 0 4px;letter-spacing:-.025em}
+    .document-subtitle{color:var(--muted);font-size:13px;margin-bottom:14px}
+    textarea{
+      width:100%;height:410px;resize:vertical;border:1px solid var(--line);border-radius:18px;padding:18px;
+      color:var(--ink);background:rgba(255,255,255,.75);line-height:1.55;outline:none;
+      box-shadow:inset 0 1px 0 rgba(255,255,255,.8);
+    }
+    textarea:focus{border-color:rgba(23,107,87,.45);box-shadow:0 0 0 4px rgba(23,107,87,.08)}
+    .doc-actions{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap}
+    .primary,.secondary,.ghost,.review-btn{
+      border-radius:14px;border:1px solid transparent;padding:13px 16px;font-weight:850;transition:.18s ease;
+    }
+    .primary{background:var(--ink);color:white;flex:1}
+    .primary:hover{transform:translateY(-1px);box-shadow:0 10px 24px rgba(23,32,29,.18)}
+    .primary:disabled{opacity:.55;cursor:not-allowed;transform:none;box-shadow:none}
+    .secondary{background:white;border-color:var(--line);color:var(--ink)}
+    .ghost{background:transparent;border-color:var(--line);color:var(--muted)}
+    .flow{display:flex;flex-direction:column;justify-content:center;gap:12px;height:100%}
+    .step{position:relative;padding:14px 14px 14px 42px;border:1px solid var(--line);border-radius:16px;background:rgba(255,255,255,.55);color:var(--muted);font-size:13px;font-weight:750;transition:.25s ease}
+    .step::before{content:attr(data-step);position:absolute;left:12px;top:50%;transform:translateY(-50%);width:20px;height:20px;border-radius:50%;border:1px solid var(--line);display:grid;place-items:center;font-size:10px}
+    .step.active{border-color:rgba(23,107,87,.25);background:#edf8f3;color:var(--accent);transform:translateX(3px)}
+    .step.done::before{content:"✓";background:var(--accent);color:white;border-color:var(--accent)}
+    .step.active::before{animation:pulse 1s infinite;background:var(--accent-2);border-color:var(--accent)}
+    @keyframes pulse{50%{box-shadow:0 0 0 8px rgba(23,107,87,0)}0%,100%{box-shadow:0 0 0 2px rgba(23,107,87,.15)}}
+    .result-empty{height:100%;display:grid;place-items:center;text-align:center;color:var(--muted);padding:30px}
+    .result-empty .orb{width:90px;height:90px;border-radius:50%;border:1px dashed rgba(23,107,87,.35);display:grid;place-items:center;margin:auto auto 18px;font-size:34px}
+    .results{display:none}
+    .results.visible{display:block;animation:rise .35s ease both}
+    @keyframes rise{from{opacity:0;transform:translateY(8px)}}
+    .result-top{display:flex;align-items:start;justify-content:space-between;gap:16px;margin-bottom:18px}
+    .result-top h3{font-size:25px;letter-spacing:-.04em;margin:0 0 6px}
+    .confidence{font-size:12px;background:#edf8f3;color:var(--accent);border-radius:999px;padding:7px 10px;font-weight:850;white-space:nowrap}
+    .cards{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+    .card{border:1px solid var(--line);background:rgba(255,255,255,.7);border-radius:17px;padding:14px;min-height:96px}
+    .card.full{grid-column:1/-1}
+    .card-label{font-size:11px;text-transform:uppercase;letter-spacing:.1em;font-weight:850;color:var(--muted);margin-bottom:8px}
+    .card-value{font-size:16px;font-weight:850;line-height:1.35}
+    .card small{color:var(--muted);line-height:1.4;display:block;margin-top:5px}
+    .warning{margin:12px 0;border:1px solid rgba(168,91,0,.25);background:#fff7ea;color:#754000;border-radius:16px;padding:13px;font-size:13px;display:none}
+    .warning.visible{display:block}
+    .review{margin-top:16px;padding-top:16px;border-top:1px solid var(--line)}
+    .review h4{margin:0 0 10px;font-size:15px}
+    .review-actions{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:8px}
+    .review-btn{padding:11px 10px}
+    .approve{background:var(--accent);color:white}
+    .revise{background:#fff5df;color:#7a4b00;border-color:#efd49e}
+    .reject{background:white;color:var(--danger);border-color:rgba(161,60,60,.25)}
+    .outcome{display:none;margin-top:14px;border-radius:18px;padding:16px;background:var(--ink);color:white}
+    .outcome.visible{display:block;animation:rise .3s ease both}
+    .outcome-title{display:flex;justify-content:space-between;gap:12px;font-weight:850;margin-bottom:10px}
+    .outcome ul{list-style:none;padding:0;margin:0;display:grid;gap:8px}
+    .outcome li{font-size:13px;color:rgba(255,255,255,.78)}
+    .outcome li::before{content:"✓";color:var(--accent-2);margin-right:8px;font-weight:900}
+    .proof{margin-top:22px;display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px}
+    .proof-card{border:1px solid var(--line);border-radius:22px;padding:22px;background:rgba(255,255,255,.58)}
+    .proof-card .big{font-size:clamp(32px,4vw,52px);font-weight:900;letter-spacing:-.06em}
+    .proof-card p{color:var(--muted);line-height:1.5;margin:6px 0 0}
+    .calculator{margin-top:22px;border-radius:28px;padding:26px;background:var(--ink);color:white;display:grid;grid-template-columns:1fr 1.2fr;gap:30px;align-items:center}
+    .calculator h3{font-size:clamp(28px,4vw,50px);letter-spacing:-.055em;margin:0 0 10px}
+    .calculator p{color:rgba(255,255,255,.65);line-height:1.5}
+    .controls{display:grid;gap:18px}
+    .control label{display:flex;justify-content:space-between;gap:12px;font-size:13px;margin-bottom:8px;color:rgba(255,255,255,.7)}
+    input[type=range]{width:100%;accent-color:var(--accent-2)}
+    .value-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+    .value{padding:16px;border:1px solid rgba(255,255,255,.14);border-radius:17px;background:rgba(255,255,255,.06)}
+    .value strong{display:block;font-size:30px;letter-spacing:-.05em}
+    .value span{color:rgba(255,255,255,.58);font-size:12px}
+    .bottom{padding:52px 8px 6px;text-align:center}
+    .bottom h2{font-size:clamp(36px,5vw,70px);letter-spacing:-.06em;margin:0 auto 14px;max-width:900px}
+    .bottom p{color:var(--muted);font-size:18px}
+    .bottom .cta{display:inline-flex;margin-top:14px;padding:15px 20px;border-radius:999px;background:var(--ink);color:white;text-decoration:none;font-weight:850}
+    .fineprint{margin-top:18px;font-size:12px;color:var(--muted)}
+    @media(max-width:1080px){
+      .hero{grid-template-columns:1fr}.hero-note{border-left:0;padding-left:0;max-width:760px}
+      .workspace{grid-template-columns:1fr}.pane + .pane{border-left:0;border-top:1px solid var(--line)}
+      .flow{display:grid;grid-template-columns:repeat(3,1fr)}
+      textarea{height:300px}
+      .calculator{grid-template-columns:1fr}
+    }
+    @media(max-width:700px){
+      .shell{width:min(100% - 18px,1440px)}
+      .topbar{border-radius:20px}.privacy{display:none}
+      .hero{padding-top:50px}h1{font-size:52px}
+      .app-head{align-items:start;flex-direction:column}
+      .pane{padding:18px}.flow{grid-template-columns:1fr 1fr}
+      .cards,.proof,.value-grid{grid-template-columns:1fr}
+      .card.full{grid-column:auto}
+      .review-actions{grid-template-columns:1fr}
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <nav class="topbar" aria-label="Outcome Engine Navigation">
+      <div class="brand"><span class="mark">→</span> Outcome Engine</div>
+      <div class="privacy">Läuft lokal im Browser · nichts wird hochgeladen</div>
+    </nav>
+
+    <header class="hero">
+      <div>
+        <div class="eyebrow">Kein Chatbot. Ein fertiger Arbeitsablauf.</div>
+        <h1>Gib uns ein Dokument.<br>Sieh, wie daraus Arbeit wird.</h1>
+        <p>Wähle deine Rolle, teste einen echten Beispielprozess und entscheide danach, ob der Nutzen für dich stimmt.</p>
+      </div>
+      <div class="hero-note">
+        <strong>60-Sekunden-Selbsttest</strong>
+        Dokument erkennen, Frist finden, fehlende Unterlagen auflisten, Aufgaben und Antwort vorbereiten — mit menschlicher Freigabe vor jeder Aktion.
+      </div>
+    </header>
+
+    <div class="stakeholders" id="stakeholders" role="tablist" aria-label="Stakeholder auswählen"></div>
+
+    <main class="app">
+      <div class="app-head">
+        <h2 id="scenarioHeading">Workflow testen</h2>
+        <div class="status">Öffentliche Demo · <strong>kein automatischer Versand</strong></div>
+      </div>
+
+      <div class="workspace">
+        <section class="pane">
+          <div class="pane-label"><span>1 · Eingang</span><span class="tag">Beispiel oder eigener Text</span></div>
+          <div class="document-title" id="documentTitle"></div>
+          <div class="document-subtitle" id="documentSubtitle"></div>
+          <textarea id="documentText" aria-label="Dokumenttext"></textarea>
+          <div class="doc-actions">
+            <button class="secondary" id="sampleBtn">Beispiel zurücksetzen</button>
+            <button class="primary" id="runBtn">Outcome Engine starten →</button>
+          </div>
+        </section>
+
+        <section class="pane">
+          <div class="pane-label"><span>2 · Workflow</span><span class="tag">sichtbar & prüfbar</span></div>
+          <div class="flow" id="flow">
+            <div class="step" data-step="1">Dokument einlesen</div>
+            <div class="step" data-step="2">Dokumentart erkennen</div>
+            <div class="step" data-step="3">Frist & Fakten extrahieren</div>
+            <div class="step" data-step="4">Fehlendes & Aufgaben ableiten</div>
+            <div class="step" data-step="5">Antwort vorbereiten</div>
+            <div class="step" data-step="6">Menschlich freigeben</div>
+          </div>
+        </section>
+
+        <section class="pane">
+          <div class="pane-label"><span>3 · Ergebnis</span><span class="tag">entscheidungsbereit</span></div>
+          <div class="result-empty" id="resultEmpty">
+            <div>
+              <div class="orb">◎</div>
+              <strong>Noch nichts behauptet.</strong>
+              <p>Starte den Workflow und prüfe jedes Ergebnis selbst.</p>
+            </div>
+          </div>
+
+          <div class="results" id="results">
+            <div class="result-top">
+              <div><h3 id="resultType"></h3><div id="resultSummary" class="document-subtitle"></div></div>
+              <span class="confidence" id="confidence">Demo-Auswertung</span>
+            </div>
+            <div class="cards">
+              <div class="card"><div class="card-label">Frist</div><div class="card-value" id="deadline"></div><small id="deadlineNote"></small></div>
+              <div class="card"><div class="card-label">Dringlichkeit</div><div class="card-value" id="urgency"></div><small id="urgencyNote"></small></div>
+              <div class="card full"><div class="card-label">Benötigte Unterlagen</div><div class="card-value" id="documents"></div></div>
+              <div class="card full"><div class="card-label">Nächste Aktionen</div><div class="card-value" id="tasks"></div></div>
+              <div class="card full"><div class="card-label">Vorbereiteter Entwurf</div><div class="card-value" id="draft"></div><small>Entwurf — wird nicht automatisch versendet.</small></div>
+            </div>
+            <div class="warning" id="warning"></div>
+
+            <div class="review">
+              <h4>Deine Entscheidung</h4>
+              <div class="review-actions">
+                <button class="review-btn approve" id="approveBtn">Freigeben</button>
+                <button class="review-btn revise" id="reviseBtn">Korrigieren</button>
+                <button class="review-btn reject" id="rejectBtn">Ablehnen</button>
+              </div>
+            </div>
+
+            <div class="outcome" id="outcome">
+              <div class="outcome-title"><span id="outcomeTitle">Freigegebene Ergebnisse</span><span>✓</span></div>
+              <ul id="outcomeList"></ul>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <section class="proof" aria-label="Unmittelbarer Nutzen">
+      <article class="proof-card"><div class="big" id="minutesSaved">12 min</div><p>Beispielhafte manuelle Bearbeitungszeit, die auf eine kurze Prüfung schrumpft.</p></article>
+      <article class="proof-card"><div class="big">1 Review</div><p>Statt zwischen Postfach, Kalender, Aufgabenliste und Textvorlage zu springen.</p></article>
+      <article class="proof-card"><div class="big">0 Auto-Sends</div><p>Die Maschine bereitet vor. Der Mensch entscheidet. Gerade dort, wo Fehler teuer sind.</p></article>
+    </section>
+
+    <section class="calculator">
+      <div>
+        <div class="eyebrow" style="color:var(--accent-2)">Rechne mit deinen Zahlen</div>
+        <h3>Ist das für euch wirtschaftlich?</h3>
+        <p>Die Demo verspricht keine Fantasiezahlen. Passe das Volumen an und sieh, was der Zeitgewinn in deinem Team bedeuten könnte.</p>
+      </div>
+      <div class="controls">
+        <div class="control">
+          <label><span>Dokumente pro Monat</span><strong id="volumeLabel">250</strong></label>
+          <input id="volume" type="range" min="20" max="1500" step="10" value="250" />
+        </div>
+        <div class="control">
+          <label><span>Interner Stundenwert</span><strong id="rateLabel">45 €</strong></label>
+          <input id="rate" type="range" min="20" max="150" step="5" value="45" />
+        </div>
+        <div class="value-grid">
+          <div class="value"><strong id="hoursValue">50 h</strong><span>mögliche Zeitersparnis / Monat</span></div>
+          <div class="value"><strong id="moneyValue">2.250 €</strong><span>gebundene Arbeitszeit / Monat</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="bottom">
+      <h2>Erst testen. Dann entscheiden.</h2>
+      <p>Der nächste Schritt wäre kein Jahresvertrag, sondern ein begrenzter Pilot mit euren Dokumenten und euren Erfolgskriterien.</p>
+      <a class="cta" href="mailto:hallo.chupi@gmail.com?subject=Outcome%20Engine%20Pilot">Mit einem echten Dokument testen →</a>
+      <div class="fineprint">Diese Seite ist eine lokale interaktive Produktdemo. Die produktive Version nutzt n8n + GitLaw, tenant-getrennte Zugänge, Audit-Logs und echte System-Adapter.</div>
+    </section>
+  </div>
+
+  <script>
+    const scenarios = {
+      legal: {
+        label: "⚖️ Kanzlei",
+        heading: "Behördenpost → geprüfte Kanzlei-Aufgaben",
+        title: "Nachforderung · Landesamt für Einwanderung",
+        subtitle: "Migrationskanzlei · eingehender Behördenbrief",
+        manual: 14, review: 2, volume: 250,
+        text: `Landesamt für Einwanderung Berlin
+Aktenzeichen: LEA-4287/26
+Betreff: Nachforderung von Unterlagen
+
+Sehr geehrte Frau Nguyen,
+
+für die weitere Bearbeitung Ihres Antrags auf Verlängerung des Aufenthaltstitels reichen Sie bitte bis spätestens 30.07.2026 folgende Unterlagen ein:
+
+- vollständige Gehaltsnachweise der letzten drei Monate
+- aktuelle Meldebescheinigung
+- Nachweis über bestehenden Krankenversicherungsschutz
+
+Sollten die Unterlagen nicht fristgerecht eingehen, kann nach Aktenlage entschieden werden.
+
+Mit freundlichen Grüßen
+Landesamt für Einwanderung Berlin`,
+        fallback: {
+          type: "Nachforderung von Unterlagen",
+          summary: "Der Brief fordert drei Nachweise für eine laufende Aufenthaltssache.",
+          documents: ["Gehaltsnachweise (3 Monate)", "Meldebescheinigung", "Krankenversicherungsnachweis"],
+          tasks: ["Frist im Kalender vormerken", "Mandantin um drei Unterlagen bitten", "Antwort an LEA als Entwurf anlegen"],
+          draft: "Betreff: Fehlende Unterlagen für Ihren Aufenthaltstitel — bitte bis 27.07. einreichen."
+        }
+      },
+      public: {
+        label: "🏛️ Verwaltung",
+        heading: "Antragseingang → vollständige Fallbearbeitung",
+        title: "Förderantrag · fehlende Nachweise",
+        subtitle: "Kommunale Verwaltung / Stiftung · Antragsprüfung",
+        manual: 11, review: 1.5, volume: 400,
+        text: `Förderprogramm Digitale Teilhabe
+Vorgangsnummer: DT-2026-1184
+Eingang: 14.07.2026
+
+Sehr geehrte Damen und Herren,
+
+bei der Prüfung Ihres Antrags fehlen noch folgende Unterlagen:
+1. unterschriebener Finanzierungsplan
+2. aktueller Freistellungsbescheid
+3. Nachweis der Eigenmittel
+
+Bitte reichen Sie die Unterlagen bis zum 05.08.2026 über das Förderportal ein. Ohne vollständige Unterlagen kann der Antrag nicht abschließend geprüft werden.`,
+        fallback: {
+          type: "Unvollständiger Förderantrag",
+          summary: "Der Vorgang kann nach Eingang von drei Nachweisen weiterbearbeitet werden.",
+          documents: ["Finanzierungsplan", "Freistellungsbescheid", "Eigenmittelnachweis"],
+          tasks: ["Wiedervorlage zum Fristdatum", "Antragsteller informieren", "Vorgang auf 'Unterlagen fehlen' setzen"],
+          draft: "Betreff: Ihr Förderantrag DT-2026-1184 — drei Unterlagen fehlen noch."
+        }
+      },
+      hr: {
+        label: "👥 HR / People Ops",
+        heading: "Mitarbeiterdokument → sichere Folgeaktionen",
+        title: "Befristeter Vertrag · Verlängerungsentscheidung",
+        subtitle: "People Operations · Vertrags- und Fristenmanagement",
+        manual: 8, review: 1, volume: 300,
+        text: `Personalakte: Samira Kaya
+Vertragsbeginn: 01.10.2025
+Befristetes Vertragsende: 30.09.2026
+Team: Customer Success
+
+Die Teamleitung empfiehlt eine Verlängerung. Vor einer Entscheidung fehlen:
+- dokumentiertes Performance Review
+- Budgetfreigabe durch Finance
+- schriftliche Zustimmung der Bereichsleitung
+
+Bitte Entscheidung und gegebenenfalls Vertragsentwurf bis 31.08.2026 vorbereiten.`,
+        fallback: {
+          type: "Vertragsverlängerung",
+          summary: "Eine Verlängerungsentscheidung ist vor dem befristeten Vertragsende vorzubereiten.",
+          documents: ["Performance Review", "Budgetfreigabe", "Zustimmung der Bereichsleitung"],
+          tasks: ["Entscheidungsfrist vormerken", "Freigaben einsammeln", "Vertragsentwurf vorbereiten"],
+          draft: "Interner Entwurf: Verlängerungsentscheidung für Samira Kaya — offene Freigaben und nächste Schritte."
+        }
+      },
+      insurance: {
+        label: "🛡️ Versicherung",
+        heading: "Schadenmeldung → entscheidungsreifer Vorgang",
+        title: "Sachschaden · fehlende Belege",
+        subtitle: "Claims Operations · Schadenfall",
+        manual: 16, review: 2.5, volume: 500,
+        text: `Schadennummer: S-2026-77431
+Versicherungsnehmer: Daniel Weber
+Schadendatum: 12.07.2026
+Schadenart: Leitungswasserschaden
+
+Zur abschließenden Regulierung benötigen wir:
+- Fotos der beschädigten Räume
+- Rechnung des Installationsbetriebs
+- Aufstellung der beschädigten Gegenstände
+- Bankverbindung für die Auszahlung
+
+Bitte reichen Sie die Unterlagen innerhalb von 14 Tagen nach Erhalt dieses Schreibens ein.`,
+        fallback: {
+          type: "Schadenfall · Unterlagen fehlen",
+          summary: "Vier Belege fehlen, bevor der Schaden abschließend reguliert werden kann.",
+          documents: ["Schadenfotos", "Handwerkerrechnung", "Schadensaufstellung", "Bankverbindung"],
+          tasks: ["Unterlagen anfordern", "14-Tage-Wiedervorlage anlegen", "Regulierungsprüfung vorbereiten"],
+          draft: "Betreff: Schadennummer S-2026-77431 — diese Unterlagen benötigen wir noch."
+        }
+      }
+    };
+
+    const stakeholderWrap = document.getElementById("stakeholders");
+    const steps = [...document.querySelectorAll(".step")];
+    const els = Object.fromEntries([
+      "scenarioHeading","documentTitle","documentSubtitle","documentText","sampleBtn","runBtn","resultEmpty","results",
+      "resultType","resultSummary","confidence","deadline","deadlineNote","urgency","urgencyNote","documents","tasks",
+      "draft","warning","approveBtn","reviseBtn","rejectBtn","outcome","outcomeTitle","outcomeList","minutesSaved",
+      "volume","volumeLabel","rate","rateLabel","hoursValue","moneyValue"
+    ].map(id => [id, document.getElementById(id)]));
+
+    let currentKey = "legal";
+    let currentResult = null;
+
+    function renderStakeholders(){
+      stakeholderWrap.innerHTML = "";
+      Object.entries(scenarios).forEach(([key,s])=>{
+        const btn=document.createElement("button");
+        btn.className="stakeholder"+(key===currentKey?" active":"");
+        btn.textContent=s.label;
+        btn.setAttribute("role","tab");
+        btn.setAttribute("aria-selected",String(key===currentKey));
+        btn.onclick=()=>selectScenario(key);
+        stakeholderWrap.appendChild(btn);
+      });
+    }
+
+    function selectScenario(key){
+      currentKey=key;
+      const s=scenarios[key];
+      renderStakeholders();
+      els.scenarioHeading.textContent=s.heading;
+      els.documentTitle.textContent=s.title;
+      els.documentSubtitle.textContent=s.subtitle;
+      els.documentText.value=s.text;
+      els.volume.value=s.volume;
+      resetResults();
+      updateCalculator();
+    }
+
+    function resetResults(){
+      currentResult=null;
+      steps.forEach(step=>step.classList.remove("active","done"));
+      els.resultEmpty.style.display="grid";
+      els.results.classList.remove("visible");
+      els.outcome.classList.remove("visible");
+      els.warning.classList.remove("visible");
+      els.runBtn.disabled=false;
+      els.runBtn.textContent="Outcome Engine starten →";
+    }
+
+    function normaliseDate(raw){
+      if(!raw) return null;
+      const m=raw.match(/(\d{1,2})[.\-/](\d{1,2})[.\-/](\d{2,4})/);
+      if(!m) return null;
+      let year=m[3].length===2?"20"+m[3]:m[3];
+      return `${m[1].padStart(2,"0")}.${m[2].padStart(2,"0")}.${year}`;
+    }
+
+    function findDeadline(text){
+      const patterns=[
+        /(?:bis\s+(?:spätestens\s+)?(?:zum\s+)?)((?:\d{1,2})[.\-/](?:\d{1,2})[.\-/](?:\d{2,4}))/i,
+        /(?:frist|entscheidung)[^.\n]{0,45}?((?:\d{1,2})[.\-/](?:\d{1,2})[.\-/](?:\d{2,4}))/i
+      ];
+      for(const p of patterns){const m=text.match(p);if(m)return {date:normaliseDate(m[1]),relative:false};}
+      const relative=text.match(/innerhalb\s+von\s+(\d{1,2})\s+(tag|tagen|wochen)/i);
+      if(relative) return {date:`${relative[1]} ${relative[2]} ab Erhalt`,relative:true};
+      return {date:"Nicht eindeutig erkannt",relative:false,missing:true};
+    }
+
+    function extractDocs(text, fallback){
+      const catalogue=[
+        ["Gehaltsnachweise",/gehaltsnachweis|gehaltsnachweise|lohnabrechnung/i],
+        ["Meldebescheinigung",/meldebescheinigung/i],
+        ["Krankenversicherungsnachweis",/krankenversicherung/i],
+        ["Finanzierungsplan",/finanzierungsplan/i],
+        ["Freistellungsbescheid",/freistellungsbescheid/i],
+        ["Eigenmittelnachweis",/eigenmittel/i],
+        ["Performance Review",/performance review/i],
+        ["Budgetfreigabe",/budgetfreigabe|budget.*finance/i],
+        ["Zustimmung der Bereichsleitung",/zustimmung.*bereichsleitung/i],
+        ["Schadenfotos",/fotos?.*beschädigt|schadenfotos/i],
+        ["Handwerkerrechnung",/rechnung.*installations|handwerkerrechnung/i],
+        ["Schadensaufstellung",/aufstellung.*beschädigt/i],
+        ["Bankverbindung",/bankverbindung/i]
+      ];
+      const hits=catalogue.filter(([,rx])=>rx.test(text)).map(([name])=>name);
+      return hits.length?hits:fallback;
+    }
+
+    function classify(text,s){
+      const t=text.toLowerCase();
+      if(/nachforderung|fehlen noch|benötigen wir|reichen sie.*unterlagen/.test(t)) return s.fallback.type;
+      if(/vertragsende|verlängerung/.test(t)) return "Vertragsverlängerung";
+      if(/schaden/.test(t)) return "Schadenfall";
+      return s.fallback.type;
+    }
+
+    function makeResult(text){
+      const s=scenarios[currentKey];
+      const deadline=findDeadline(text);
+      const docs=extractDocs(text,s.fallback.documents);
+      const highRisk=/anhörung|ablehnung|klage|vertragsende|nicht fristgerecht|nicht abschließend|14 tage/i.test(text);
+      return {
+        type:classify(text,s),
+        summary:s.fallback.summary,
+        deadline,
+        docs,
+        tasks:s.fallback.tasks,
+        draft:s.fallback.draft,
+        urgency: deadline.missing ? "Manuell prüfen" : (highRisk?"Hoch":"Mittel"),
+        blocker: deadline.missing || deadline.relative,
+        warning: deadline.missing
+          ? "Keine eindeutige Frist erkannt. Der Workflow blockiert automatische Folgeaktionen, bis ein Mensch die Frist bestätigt."
+          : deadline.relative
+          ? "Relative Frist erkannt. Das tatsächliche Zugangsdatum muss vor der Freigabe bestätigt werden."
+          : highRisk
+          ? "Fristkritischer Vorgang: Originaldokument und Frist müssen vor der Freigabe gegengeprüft werden."
+          : ""
+      };
+    }
+
+    async function runWorkflow(){
+      const text=els.documentText.value.trim();
+      if(text.length<50){alert("Bitte füge einen aussagekräftigen Dokumenttext ein.");return;}
+      resetResults();
+      els.runBtn.disabled=true;
+      els.runBtn.textContent="Workflow läuft …";
+      for(let i=0;i<steps.length;i++){
+        if(i>0)steps[i-1].classList.remove("active");
+        steps[i].classList.add("active");
+        await new Promise(r=>setTimeout(r,i===0?330:420));
+        steps[i].classList.remove("active");
+        steps[i].classList.add("done");
+      }
+      currentResult=makeResult(text);
+      showResults(currentResult);
+      els.runBtn.disabled=false;
+      els.runBtn.textContent="Erneut analysieren";
+    }
+
+    function showResults(r){
+      els.resultEmpty.style.display="none";
+      els.results.classList.add("visible");
+      els.resultType.textContent=r.type;
+      els.resultSummary.textContent=r.summary;
+      els.deadline.textContent=r.deadline.date;
+      els.deadlineNote.textContent=r.deadline.relative?"Zugangsdatum erforderlich":"Aus dem Text extrahiert";
+      els.urgency.textContent=r.urgency;
+      els.urgencyNote.textContent=r.blocker?"Freigabe mit zusätzlicher Prüfung":"Bereit zur menschlichen Prüfung";
+      els.documents.innerHTML=r.docs.map(x=>`<span style="display:inline-block;margin:3px 5px 3px 0;padding:6px 9px;border-radius:999px;background:#edf8f3;color:#176b57;font-size:12px">${escapeHtml(x)}</span>`).join("");
+      els.tasks.innerHTML=r.tasks.map(x=>`<div style="margin:5px 0">→ ${escapeHtml(x)}</div>`).join("");
+      els.draft.textContent=r.draft;
+      if(r.warning){els.warning.textContent=r.warning;els.warning.classList.add("visible");}
+      else els.warning.classList.remove("visible");
+      els.outcome.classList.remove("visible");
+    }
+
+    function decision(kind){
+      if(!currentResult)return;
+      const map={
+        approve:{
+          title:currentResult.blocker?"Mit manueller Fristprüfung freigegeben":"Freigegebene Ergebnisse",
+          items:["Aufgabe im Zielsystem vorbereitet","Frist/Wiedervorlage angelegt","Antwort als Entwurf gespeichert","Entscheidung im Audit-Log dokumentiert"]
+        },
+        revise:{title:"Zur Korrektur markiert",items:["Original und Extraktion bleiben nebeneinander sichtbar","Korrektur wird als neue Version gespeichert","Keine Aktion wurde ausgelöst"]},
+        reject:{title:"Workflow sicher gestoppt",items:["Keine Aufgabe erstellt","Keine Frist geschrieben","Kein Entwurf versendet","Ablehnungsgrund kann ausgewertet werden"]}
+      };
+      const d=map[kind];
+      els.outcomeTitle.textContent=d.title;
+      els.outcomeList.innerHTML=d.items.map(x=>`<li>${escapeHtml(x)}</li>`).join("");
+      els.outcome.classList.add("visible");
+    }
+
+    function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));}
+
+    function updateCalculator(){
+      const s=scenarios[currentKey];
+      const volume=Number(els.volume.value);
+      const rate=Number(els.rate.value);
+      const hours=Math.max(0,(s.manual-s.review)*volume/60);
+      els.volumeLabel.textContent=volume.toLocaleString("de-DE");
+      els.rateLabel.textContent=rate.toLocaleString("de-DE")+" €";
+      els.hoursValue.textContent=Math.round(hours).toLocaleString("de-DE")+" h";
+      els.moneyValue.textContent=Math.round(hours*rate).toLocaleString("de-DE")+" €";
+      els.minutesSaved.textContent=(s.manual-s.review).toLocaleString("de-DE",{maximumFractionDigits:1})+" min";
+    }
+
+    els.sampleBtn.onclick=()=>{els.documentText.value=scenarios[currentKey].text;resetResults();};
+    els.runBtn.onclick=runWorkflow;
+    els.approveBtn.onclick=()=>decision("approve");
+    els.reviseBtn.onclick=()=>decision("revise");
+    els.rejectBtn.onclick=()=>decision("reject");
+    els.volume.oninput=updateCalculator;
+    els.rate.oninput=updateCalculator;
+
+    selectScenario("legal");
+  </script>
+</body>
+</html>
