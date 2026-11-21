@@ -1,0 +1,20 @@
+{
+  "log": [
+    {
+      "detected": "2026-08-12",
+      "changes": [
+        {"slug": "verpackdg", "status": "new", "title": "Verpackungsrecht-Durchführungsgesetz", "bgbl": "BGBl. 2026 I Nr. 207 (13.07.2026)", "in_force": "2026-08-12", "source": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/207", "action": "add to corpus"},
+        {"slug": "verpackg", "status": "repealed", "title": "Verpackungsgesetz", "bgbl": "BGBl. 2026 I Nr. 207 Art. 7", "in_force": "2026-08-12", "source": "https://www.buzer.de/gesetz/17604/index.htm", "action": "mark außer Kraft, rewrite explainers"},
+        {"slug": "krwg", "status": "amended", "in_force": "2026-08-12", "bgbl": "BGBl. 2026 I Nr. 207", "source": "https://www.buzer.de/gesetz/17604/index.htm"},
+        {"slug": "bioabfv", "status": "amended", "in_force": "2026-08-12", "bgbl": "BGBl. 2026 I Nr. 207", "source": "https://www.buzer.de/gesetz/17604/index.htm"},
+        {"slug": "ewkfondsg", "status": "amended", "in_force": "2026-08-12", "bgbl": "BGBl. 2026 I Nr. 207", "source": "https://www.buzer.de/gesetz/17604/index.htm"},
+        {"slug": "gewabfv", "status": "amended", "in_force": "2026-08-12", "bgbl": "BGBl. 2026 I Nr. 207", "source": "https://www.buzer.de/gesetz/17604/index.htm"},
+        {"slug": "abfaev", "status": "amended", "in_force": "2026-08-12", "bgbl": "BGBl. 2026 I Nr. 207", "source": "https://www.buzer.de/gesetz/17604/index.htm"},
+        {"slug": "efbv", "status": "amended", "in_force": "2026-08-12", "bgbl": "BGBl. 2026 I Nr. 207", "source": "https://www.buzer.de/gesetz/17604/index.htm"},
+        {"slug": "abfbeauftrv", "status": "amended", "in_force": "2026-08-12", "bgbl": "BGBl. 2026 I Nr. 207", "source": "https://www.buzer.de/gesetz/17604/index.htm"},
+        {"slug": "ustatg", "status": "amended", "in_force": "2026-08-12", "bgbl": "BGBl. 2026 I Nr. 207", "source": "https://www.buzer.de/gesetz/17604/index.htm"},
+        {"slug": "chemverbotsv", "status": "amended", "in_force": "2026-08-07", "bgbl": "BGBl. 2024 I Nr. 43 Art. 2", "source": "https://www.buzer.de/gesetz/12383/v309061-2026-08-07.htm"}
+      ]
+    }
+  ]
+}
