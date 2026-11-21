@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 import {
   ArrowRight,
   BookOpenCheck,
+  Bot,
   CircleHelp,
   FileCheck2,
   FolderOpen,
@@ -67,6 +68,21 @@ export default function ProMatterHome() {
 
   return (
     <div className="pro-matter-home space-y-8">
+      <section className="rounded-2xl border border-emerald-200 bg-gradient-to-br from-emerald-50 to-white p-5 sm:p-6">
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+          <div>
+            <p className="text-xs font-bold uppercase tracking-[.18em] text-emerald-800">Kanzlei Autopilot V1</p>
+            <h2 className="text-xl font-semibold mt-1">Nicht jede Akte öffnen. Nur Ausnahmen prüfen.</h2>
+            <p className="text-sm text-[var(--color-ink-soft)] mt-1 max-w-2xl">
+              Der Autopilot sortiert Fristen, ungeprüfte Recherche und andere anwaltliche Entscheidungen nach vorne. OCR, Dokument-Triage, fehlende Unterlagen, Timeline- und Draft-Vorbereitung bleiben darunter als Routinearbeit sichtbar.
+            </p>
+          </div>
+          <Link to="/pro/autopilot" className="inline-flex items-center justify-center gap-2 rounded-xl bg-[var(--color-ink)] text-white px-5 py-3 font-semibold shrink-0 hover:opacity-90">
+            <Bot className="w-4 h-4" /> Bao Today öffnen
+          </Link>
+        </div>
+      </section>
+
       <section className="pro-matter-command" aria-labelledby="matter-workspace-title">
         <div className="px-5 py-6 sm:px-7 sm:py-8 lg:px-9 lg:py-9">
           <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">

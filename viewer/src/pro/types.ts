@@ -1,97 +1,56 @@
-/**
- * Shared types for GitLaw Pro (Anwält:innen-Tier).
- *
- * Persistence is currently localStorage-only — server sync (Supabase / own
- * backend) follows once we have paying customers and a real Auftragsverarbeitungs-
- * vertrag with them.
- */
-
+/** Shared types for GitLaw Pro. Unknown matter privacy defaults to real mandate in privacy helpers. */
 export interface KanzleiSettings {
-  /** Display name shown on PDFs ("Kanzlei Müller & Partner mbB"). */
   name: string
-  /** Multi-line address block. */
   address: string
-  /** Optional contact line (phone, email, web). */
   contact: string
-  /** Data-URL of the uploaded logo (PNG/JPG). */
   logoDataUrl?: string
-  /** Anwält:in's name for the audit log + PDF signature line. */
   anwaltName: string
-  /** Bar registration ID, optional but useful in headers. */
   kammerId?: string
-  /**
-   * Bevorzugter Vorname für die Begrüßung im Dashboard. Überschreibt das
-   * automatische Parsing von `anwaltName` (das bei mehrteiligen Vornamen
-   * wie „Thai Bao Nguyen" sonst das falsche Wort wählen würde).
-   */
   firstName?: string
+}
+
+export interface MatterPrivacyState {
+  dataMode: 'synthetic' | 'real_mandate'
+  externalAiConsentOnFile?: boolean
+  /** Opaque evidence reference only; never the consent document contents. */
+  externalAiConsentEvidenceRef?: string
+  externalServiceNecessaryAttested?: boolean
+  externalAiPurpose?: string
+  pseudonymousCaseRef?: string
+  reviewedAt?: string
+  reviewedBy?: string
 }
 
 export interface MandantCase {
   id: string
-  /** Mandant:in display name (or pseudonym). */
   mandantName: string
-  /** Internal Aktenzeichen ("23/0142"). */
   aktenzeichen: string
-  /** Free-text matter description. */
   description: string
-  createdAt: string  // ISO
-  updatedAt: string  // ISO
-  /** Linked research queries. */
+  createdAt: string
+  updatedAt: string
   researchIds: string[]
-  /** Linked generated letters. */
   letterIds: string[]
   status: 'aktiv' | 'archiviert'
-  /** Optional deadline (Frist), ISO date. Drives dashboard warnings. */
   fristDatum?: string
-  /** What the deadline is for — e.g. "Widerspruchsfrist SGB II". */
   fristBezeichnung?: string
-  /** Optional Mandant:in email — used to prefill mailto: when sending letters. */
   mandantEmail?: string
-  /** Lightweight collaboration tasks for the case team. */
   tasks?: TeamTask[]
-  /** Local beta document records until server-side storage goes live. */
   documents?: CaseDocument[]
-  /** Lightweight document-processing jobs (OCR/translation) attached to the case. */
   documentJobs?: DocumentJob[]
-  /** Paragraphs cited in research or letters that are relevant for Rechtsprechungs-Alerts. */
   relevantParagraphs?: RelevantParagraph[]
-  /**
-   * ID of the assigned MandatsartChecklist (foreign key into mandatsart-checklists.ts).
-   * Optional — legacy cases without explicit mandatsart still work.
-   */
   mandatsartId?: string
-  /**
-   * Per-checklist-item state for THIS case. Map from item.id → state.
-   * Items not in the map are treated as 'pending'.
-   */
   checklistStates?: Record<string, 'received' | 'pending' | 'problem'>
-  /**
-   * Modul B — 8-Stati-Status-Modell (Sprint 1, Bao-Pilot).
-   * Corresponds to CaseStatus in case-status.ts.
-   * Defaults to 'unterlagen_fehlen' when not set.
-   */
   caseStatus?: string
-  /**
-   * Chronologische Liste aller Status-Wechsel fuer diese Akte.
-   * Wachst bei jedem Wechsel in StatusDropdown an.
-   */
   statusHistory?: StatusHistoryEntry[]
-  /**
-   * Konkrete Behörde, die diesen Fall bearbeitet — wird in
-   * Sachstands-Templates anstelle des generischen "zuständige Behörde"
-   * genutzt. Free-text, aber aus BehoerdenSelector befüllbar.
-   */
   behoerde?: string
-  /** PLZ-Präfix für Behörden-Suggestions (optional). */
   behoerdePLZ?: string
+  privacy?: MatterPrivacyState
 }
 
-/** Ein einzelner Eintrag im Status-Verlauf einer Akte. */
 export interface StatusHistoryEntry {
   status: string
-  changedAt: string  // ISO timestamp
-  changedBy: string  // anwaltName oder userId
+  changedAt: string
+  changedBy: string
 }
 
 export interface TeamTask {
@@ -102,10 +61,6 @@ export interface TeamTask {
   createdAt: string
   completedAt?: string
 }
-
-// ---------------------------------------------------------------------------
-// Modul D — Aufgaben pro Akte (Sprint 1)
-// ---------------------------------------------------------------------------
 
 export type CaseTaskType =
   | 'unterlagen_pruefen'
@@ -124,7 +79,7 @@ export interface CaseTask {
   caseId: string
   title: string
   type: CaseTaskType
-  dueDate?: string   // ISO date YYYY-MM-DD
+  dueDate?: string
   status: CaseTaskStatus
   createdAt: string
   completedAt?: string
@@ -150,34 +105,13 @@ export interface CaseDocument {
   ocrText?: string
   translatedTextDe?: string
   translationReviewed?: boolean
-  /** Wenn vom Mandanten zu einem konkreten Checklist-Item hochgeladen. */
   checklistItemId?: string
-  /**
-   * Optional slot ID within a multi-photo checklist item.
-   * Matches PhotoSlot.id from ChecklistItem.photoSlots.
-   */
   photoSlotId?: string
-  /**
-   * Dokumenttyp. 'vollmacht' = digital signierte Anwaltsvollmacht vom Mandanten.
-   * 'anwalt_upload' = direkt von RA/Refa per ProChecklistCard hochgeladen.
-   * Fehlt das Feld, wird 'standard' angenommen.
-   */
   kind?: 'vollmacht' | 'standard' | 'anwalt_upload'
-  /**
-   * Review-Status für Mandant-Uploads (uploadedBy === 'mandant').
-   * Default: 'pending'. Wird von RA/Refa in /pro gesetzt.
-   */
   reviewStatus?: 'pending' | 'approved' | 'rejected'
-  /** userId des RA/Refa, der das Dokument geprüft hat. */
   reviewedBy?: string
-  /** ISO-Timestamp der Review. */
   reviewedAt?: string
-  /** Optionaler Hinweis der Kanzlei an den Mandanten (sichtbar im Mandant-Portal). */
   reviewComment?: string
-  /**
-   * ISO-Timestamp wenn vom Mandanten gelöscht (Soft-Delete).
-   * Dokumente mit gesetztem deletedAt werden nicht angezeigt.
-   */
   deletedAt?: string
 }
 
@@ -186,41 +120,25 @@ export interface ResearchQuery {
   caseId?: string
   question: string
   answer: string
-  /** Cited paragraphs the AI claims to reference. */
   citations: Citation[]
   createdAt: string
-  /** Was the answer marked as "geprüft" by the Anwält:in? */
   reviewed: boolean
-  /** Optional lawyer-corrected final version used for memory building. */
   approvedAnswer?: string
 }
 
-/**
- * Why a citation could NOT be verified — surfaces as a structured signal
- * to the UI instead of a raw boolean. Lets the lawyer see *why* a citation
- * failed (paragraph repealed vs. law unknown vs. just couldn't parse), which
- * is materially different for legal research.
- */
 export type VerificationReason =
-  | 'law_not_found' // The abbreviation (StGB, BGB, ...) wasn't recognised
-  | 'paragraph_not_found' // Law exists, paragraph number doesn't (probably wrong)
-  | 'repealed' // Paragraph was found but explicitly marked "(weggefallen)" in the corpus
-  | 'could_not_parse' // Couldn't even parse the citation string
+  | 'law_not_found'
+  | 'paragraph_not_found'
+  | 'repealed'
+  | 'could_not_parse'
 
 export interface Citation {
-  /** "§ 573 BGB" — display string. */
   display: string
-  /** "bgb" — law file ID, used to deep-link. */
   lawId: string
-  /** "573" — paragraph number for anchor. */
   section: string
-  /** Whether we could verify the cited paragraph exists in our 5,936 laws. */
   verified: boolean
-  /** Excerpt of the actual paragraph text (when verified). */
   excerpt?: string
-  /** When verified=false, why. Surfaced as a tooltip + icon in the UI. */
   verificationReason?: VerificationReason
-  /** Human-readable explanation for the lawyer (matches the MCP tool's `hint`). */
   verificationHint?: string
 }
 
@@ -229,20 +147,15 @@ export interface GeneratedLetter {
   caseId?: string
   templateId: string
   templateTitle: string
-  /** Filled-in field values keyed by field id. */
   fields: Record<string, string>
-  /** Final rendered letter text. */
   body: string
   createdAt: string
 }
 
 export interface AuditEntry {
   id: string
-  /** ISO timestamp. */
   at: string
-  /** Anwält:in name (from settings). */
   actor: string
-  /** Type of action. */
   action:
     | 'login'
     | 'case.create'
@@ -261,41 +174,25 @@ export interface AuditEntry {
     | 'reminder.generate'
     | 'reminder.sent'
     | 'advoware.import'
-  /** Free-form payload for the action. */
   detail: string
-  /** Optional case context. */
   caseId?: string
-  /** Optional tenant context for future server-side audit correlation. */
   tenantId?: string
-  /** Optional role context for least-privilege tracing. */
   actorRole?: 'owner' | 'anwalt' | 'paralegal' | 'assistenz' | 'assistant' | 'read_only'
-  /** Hash-chain reference for tamper-evident audit verification. */
   prevHash?: string
   hash?: string
 }
 
-/**
- * Custom-Musterbrief: eigene Vorlage der Anwält:in, mit {{platzhalter}}-Syntax.
- * Wird neben den eingebauten 5+ Lawyer-Templates angezeigt.
- */
 export interface CustomTemplate {
   id: string
   title: string
   description?: string
-  /** Template-Body mit {{key}}-Platzhaltern, die beim Rendern ersetzt werden. */
   body: string
-  /** Abgeleitete Platzhalter aus body (z. B. ["mandant", "aktenzeichen"]). */
   placeholders: string[]
   createdAt: string
   updatedAt: string
 }
 
-/**
- * Persönliche Notiz pro Paragraph — baut über Zeit die Wissensdatenbank
- * der Anwält:in auf (z. B. „§ 573 BGB: BGH vom 29.03.2017 beachten!").
- */
 export interface ParagraphNote {
-  /** Zusammengesetzt aus lawId + ':' + section, z. B. "bgb:573". */
   key: string
   lawId: string
   section: string
@@ -303,35 +200,21 @@ export interface ParagraphNote {
   updatedAt: string
 }
 
-/**
- * Mandant:innen-Intake: eine vom Mandanten ausgefüllte Eingangsmeldung,
- * die die Anwält:in dann in eine Akte übernehmen kann.
- */
 export interface IntakeEntry {
   id: string
-  /** Welcher Akte zugeordnet (Kiosk-Modus) oder keine (Public-Modus). */
   caseId?: string
-  /** Anwält:in, an die das Intake gerichtet ist (für Public-Links per Slug). */
   targetSlug?: string
   submittedAt: string
-  /** Vom Mandant:in ausgefüllt. */
   name: string
   email?: string
   phone?: string
   anliegen: string
-  /** Optional: konkrete Forderung / gewünschter Ausgang. */
   gewuenschterAusgang?: string
-  /** Optional urgency provided by mandant for triage. */
   dringlichkeit?: 'niedrig' | 'mittel' | 'hoch' | 'akut'
-  /** Optional if the mandant indicates a known legal/official deadline exists. */
   fristBekannt?: boolean
-  /** Optional metadata for uploaded intake files/photos (no binary stored). */
   attachments?: IntakeAttachmentMeta[]
-  /** Source of the intake: 'form' (default) or 'email'. */
   source?: 'form' | 'email'
-  /** Original sender email when source is 'email'. */
   senderEmail?: string
-  /** True sobald Anwält:in es gelesen hat. */
   reviewed: boolean
 }
 
@@ -340,9 +223,7 @@ export interface IntakeAttachmentMeta {
   internalName: string
   mimeType: string
   sizeBytes: number
-  /** Optional lightweight classification from mandant input. */
   category?: 'foto' | 'bescheid' | 'vertrag' | 'chat' | 'sonstiges'
-  /** Optional language hint for OCR/translation pipeline planning. */
   languageHint?: 'de' | 'vi' | 'en' | 'tr' | 'ar' | 'other'
 }
 
@@ -370,7 +251,6 @@ export interface ApprovedAnswerMemory {
   sourceResearchId?: string
 }
 
-/** Simple wrapper for paragraph lookup result. */
 export interface ParagraphLookup {
   found: boolean
   lawId: string
@@ -378,17 +258,14 @@ export interface ParagraphLookup {
   text?: string
 }
 
-/** Paragraph reference tracked for Rechtsprechungs-Alerts. */
 export interface RelevantParagraph {
   lawId: string
   section: string
   display: string
-  /** Source: e.g. "research:abc123" or "letter:def456" */
   source: string
   addedAt: string
 }
 
-/** Weekly Rechtsprechungs-Alert for dashboard. */
 export interface RechtsprechungsAlert {
   id: string
   caseId?: string
@@ -401,13 +278,6 @@ export interface RechtsprechungsAlert {
   createdAt: string
 }
 
-// ---------------------------------------------------------------------------
-// Modul A: Mandatsart-Checklisten (Sprint 0 — Bao pilot foundation)
-// ---------------------------------------------------------------------------
-
-/**
- * Top-level grouping for Mandatsarten displayed in Bao's intake workflow.
- */
 export type MandatsartCategory =
   | 'migration'
   | 'strafrecht'
@@ -415,44 +285,23 @@ export type MandatsartCategory =
   | 'sozial'
   | 'sonstiges'
 
-/**
- * Whether a document is unconditionally required, optional, or only needed
- * under certain conditions (explained in `conditionalNote`).
- */
 export type DocumentRequirementLevel = 'required' | 'optional' | 'conditional'
 
-/**
- * A named slot within a multi-photo checklist item.
- * E.g. "Hauptseite mit Foto" and "Visa-Stempel-Seite" for a Reisepass.
- */
 export interface PhotoSlot {
   id: string
   label: string
-  /** Vietnamese label — TODO VI-review native speaker */
   labelVi?: string
 }
 
-/**
- * A single line-item in a Mandatsart checklist.
- * Both DE and VI labels are provided for Bao's bilingual workflow.
- */
 export interface ChecklistItem {
-  /** Stable slug used as a React key and future OCR-match target. */
   id: string
-  /** German label shown to Refa/Anwalt staff — be specific about copies, originals, etc. */
   label: string
-  /** Vietnamese label shown to Mandant — marked TODO if not fully reviewed. */
   labelVi?: string
-  /** Why this document is needed — shown as hover tooltip for staff. */
   description?: string
   level: DocumentRequirementLevel
-  /** For 'conditional' items: describes the condition when this document is needed. */
   conditionalNote?: string
-  /** Accepted file formats (default: all common image/PDF formats). */
   acceptedFormats?: string[]
-  /** Common problems Bao's team has seen — preemptive staff guidance. */
   typicalIssues?: string[]
-  /** Semantic bucket for grouping within the checklist UI. */
   category?:
     | 'identitaet'
     | 'aufenthalt'
@@ -463,37 +312,17 @@ export interface ChecklistItem {
     | 'sprache'
     | 'biometrie'
     | 'sonstiges'
-  /**
-   * Minimum number of photos/files required to complete this item.
-   * Defaults to 1 when not set. E.g. 5 for "Reisepass alle Seiten",
-   * 6 for "Kontoauszuege 6 Monate".
-   */
   requiredPhotoCount?: number
-  /**
-   * Optional named slots for each required photo.
-   * When set: one slot per page, each with its own label.
-   * When absent but requiredPhotoCount > 1: generic "Foto X von Y" labels.
-   */
   photoSlots?: PhotoSlot[]
 }
 
-/**
- * A complete Mandatsart-Checkliste: describes which documents are expected
- * for a given type of mandate, plus metadata for UI display and legal reference.
- */
 export interface MandatsartChecklist {
-  /** Stable slug — used as URL segment and OCR-match key. */
   id: string
-  /** German title shown in dropdown / Akte header. */
   title: string
-  /** Vietnamese title — for Mandant-facing portal (Phase 4). */
   titleVi?: string
   category: MandatsartCategory
-  /** When this Mandatsart applies and who it is for (shown in tooltip / info panel). */
   description: string
-  /** Canonical legal paragraphs / articles — reference for Pro users and AVV. */
   legalBasis?: string[]
-  /** Typical processing duration, citizen-facing ("8–12 Wochen"). */
   typicalDuration?: string
   requiredDocuments: ChecklistItem[]
 }
