@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-30",
+  "laws_new": 2,
+  "laws_amended": 2,
+  "window": "2026-08-24..2026-08-30",
+  "corpus_size": 5984,
+  "highlights": [
+    {
+      "title": "Erste Verordnung zur Änderung der Vorsorgeregister-Verordnung",
+      "status": "amended",
+      "bgbl": "BGBl. 2026 I Nr. 238 vom 25.08.2026",
+      "ausfertigung": "2026-08-17",
+      "fna": "303-1-1",
+      "corpus_file": "laws/vregv.md",
+      "corpus_action": "reparse",
+      "impact": "Betrifft Vorsorgevollmachten/Betreuungsverfügungen im Zentralen Vorsorgeregister der Bundesnotarkammer.",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/238/VO.html"
+    },
+    {
+      "title": "Verordnung zur Änderung der Verordnung über das Register über Unternehmensbasisdaten",
+      "status": "amended",
+      "bgbl": "BGBl. 2026 I Nr. 240 vom 27.08.2026",
+      "ausfertigung": "2026-08-17",
+      "corpus_file": "laws/ubregv.md",
+      "corpus_action": "reparse",
+      "impact": "Betrifft Basisdaten von Selbstständigen und Unternehmen im Unternehmensbasisdatenregister (Once-Only).",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/240/VO.html"
+    },
+    {
+      "title": "BAS-Abschlussprüfungsverordnung (BASAPrV)",
+      "status": "new",
+      "bgbl": "BGBl. 2026 I Nr. 239 vom 26.08.2026",
+      "ausfertigung": "2026-08-21",
+      "corpus_file": null,
+      "corpus_action": "add",
+      "impact": "Abschlussprüfung für Auszubildende im öffentlichen Dienst beim Bundesamt für Soziale Sicherung.",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/239/VO.html"
+    },
+    {
+      "title": "Verordnung zur Ablösung der 226. Durchführungsverordnung zur Luftverkehrs-Ordnung (Allendorf/Eder)",
+      "status": "new",
+      "bgbl": "BGBl. 2026 I Nr. 241 vom 28.08.2026",
+      "ausfertigung": "2026-08-14",
+      "corpus_file": null,
+      "corpus_action": "add-low-priority",
+      "impact": "Neue Flugverfahren am Verkehrslandeplatz Allendorf/Eder; lokal relevant (Fluglärm).",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/241/VO.html"
+    }
+  ],
+  "sources": [
+    "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-1/bgbl-1_node.html",
+    "https://www.recht.bund.de/de/home/home_node.html",
+    "https://www.recht.bund.de/bgbl/1/2026/238/VO.html",
+    "https://www.recht.bund.de/bgbl/1/2026/239/VO.html",
+    "https://www.recht.bund.de/bgbl/1/2026/240/VO.html",
+    "https://www.recht.bund.de/bgbl/1/2026/241/VO.html"
+  ],
+  "actions_taken": [
+    "Frischer Clone von mikelninh/gitlaw",
+    "BGBl. Teil I Nr. 238-241 (24.-30.08.2026) recherchiert und verifiziert",
+    "Abgleich gegen 5984 Korpus-Dateien in laws/ (vregv.md und ubregv.md als veraltet identifiziert)",
+    "Digest agent-digests/law-watch-2026-08-30.md erstellt (DE + EN)",
+    "data/law-watch-log.json fortgeschrieben",
+    "Branch agent/law-watch-2026-08-30 gepusht und PR geöffnet (kein Merge)"
+  ],
+  "notes": "Inkrafttretensdaten stehen in den Schlussvorschriften der Regelungstext-PDFs und wurden nicht maschinell extrahiert.",
+  "repo": "gitlaw",
+  "branch": "agent/law-watch-2026-08-30"
+}
