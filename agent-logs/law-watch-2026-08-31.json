@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-31",
+  "laws_new": 2,
+  "laws_amended": 3,
+  "window": "2026-08-25..2026-08-31",
+  "highlights": [
+    {
+      "title": "Erste Verordnung zur Änderung der Vorsorgeregister-Verordnung",
+      "citation": "BGBl. 2026 I Nr. 238 vom 25.08.2026",
+      "status": "amended",
+      "corpus_gap": "Stammverordnung fehlt in laws/",
+      "effective": "nicht in Metadaten — Regelungstext-PDF prüfen",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/238/VO.html"
+    },
+    {
+      "title": "BAS-Abschlussprüfungsverordnung (BASAPrV)",
+      "citation": "BGBl. 2026 I Nr. 239 vom 26.08.2026",
+      "status": "new",
+      "effective": "nicht in Metadaten — Regelungstext-PDF prüfen",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/239/VO.html"
+    },
+    {
+      "title": "Verordnung zur Änderung der Verordnung über das Register über Unternehmensbasisdaten",
+      "citation": "BGBl. 2026 I Nr. 240 vom 27.08.2026",
+      "status": "amended",
+      "effective": "nicht in Metadaten — Regelungstext-PDF prüfen",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/240/VO.html"
+    },
+    {
+      "title": "Verordnung zur Ablösung der 226. Durchführungsverordnung zur Luftverkehrs-Ordnung (Allendorf/Eder)",
+      "citation": "BGBl. 2026 I Nr. 241 vom 28.08.2026",
+      "status": "new",
+      "effective": "nicht in Metadaten — Regelungstext-PDF prüfen",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/241/VO.html"
+    },
+    {
+      "title": "Bekanntmachung der Neufassung der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt (GGVSEB)",
+      "citation": "BGBl. 2026 I Nr. 242 vom 31.08.2026",
+      "status": "amended",
+      "corpus_file": "laws/ggvseb.md",
+      "corpus_stand": "Neugefasst durch Bek. v. 18.8.2023 I Nr. 227 (veraltet)",
+      "effective": "nicht in Metadaten — Regelungstext-PDF prüfen",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/242/VO.html"
+    }
+  ],
+  "sources": [
+    "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-1/bgbl-1_node.html?cl2Categories_year=2026",
+    "https://www.recht.bund.de/bgbl/1/2026/238/VO.html",
+    "https://www.recht.bund.de/bgbl/1/2026/239/VO.html",
+    "https://www.recht.bund.de/bgbl/1/2026/240/VO.html",
+    "https://www.recht.bund.de/bgbl/1/2026/241/VO.html",
+    "https://www.recht.bund.de/bgbl/1/2026/242/VO.html"
+  ],
+  "actions_taken": [
+    "BGBl. Teil I Ausgaben Nr. 238-242 (25.-31.08.2026) erfasst",
+    "Gegen 5984 Dateien in laws/ abgeglichen (ggvseb.md veraltet, xbasisdatenv.md verwandt, Vorsorgeregister-VO fehlt)",
+    "Digest agent-digests/law-watch-2026-08-31.md erstellt (DE + EN)",
+    "data/law-watch-log.json angelegt/ergänzt",
+    "Branch gepusht und PR zur menschlichen Prüfung geöffnet — NICHT gemergt"
+  ],
+  "repo": "gitlaw",
+  "branch": "agent/law-watch-2026-08-31"
+}
