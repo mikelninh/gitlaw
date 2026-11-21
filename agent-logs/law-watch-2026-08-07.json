@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-07",
+  "window": "2026-07-31..2026-08-07",
+  "laws_new": 0,
+  "laws_amended": 3,
+  "highlights": [
+    {
+      "title": "Verordnung zur Umsetzung der Richtlinie (EU) 2023/2225 über Verbraucherkreditverträge im Gewerberecht",
+      "bgbl": "BGBl. 2026 I Nr. 229 vom 31.07.2026",
+      "ausfertigung": "2026-07-28",
+      "corpus_files": ["laws/gewo.md"],
+      "impact": "Erweiterte Informations- und Prüfpflichten für gewerbliche Kreditvermittler; mehr Transparenz bei Klein- und Onlinekrediten.",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/229/VO.html"
+    },
+    {
+      "title": "Anordnung zur Übertragung von Zuständigkeiten nach dem Beamtenversorgungsgesetz und dem Altersgeldgesetz (BMAS)",
+      "bgbl": "BGBl. 2026 I Nr. 230 vom 03.08.2026",
+      "ausfertigung": "2026-07-22",
+      "corpus_files": ["laws/beamtvg.md", "laws/altgg.md"],
+      "impact": "Geänderte Zuständigkeitsstelle für Versorgungs-, Altersgeld- und Widerspruchsverfahren im BMAS-Bereich.",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/230/VO.html"
+    },
+    {
+      "title": "74. Verordnung zur Änderung der 212. Durchführungsverordnung zur Luftverkehrs-Ordnung (Flughafen Frankfurt am Main)",
+      "bgbl": "BGBl. 2026 I Nr. 231 vom 05.08.2026",
+      "ausfertigung": "2026-07-23",
+      "corpus_files": ["laws/luftvo_2015.md"],
+      "impact": "Neue IFR-An-/Abflugverfahren FRA; relevant für Fluglärm- und Schallschutzansprüche von Anwohnern.",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/231/VO.html"
+    }
+  ],
+  "watchlist_just_outside_window": [
+    {"title": "GKV-Beitragssatzstabilisierungsgesetz", "bgbl": "BGBl. 2026 I Nr. 228 vom 29.07.2026", "url": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html"},
+    {"title": "Länder- und Kommunalentlastungsgesetz (LKEG)", "bgbl": "BGBl. 2026 I Nr. 227 vom 29.07.2026", "url": "https://www.recht.bund.de/bgbl/1/2026/227/VO.html"},
+    {"title": "Änderung des Gebäudeenergiegesetzes und des GEIG", "bgbl": "BGBl. 2026 I Nr. 226 vom 28.07.2026", "url": "https://www.recht.bund.de/bgbl/1/2026/226/VO.html"},
+    {"title": "Beschleunigung der Anerkennung ausländischer Berufsqualifikationen in Heilberufen", "bgbl": "BGBl. 2026 I Nr. 225 vom 28.07.2026", "url": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"},
+    {"title": "Infrastruktur-Zukunftsgesetz", "bgbl": "BGBl. 2026 I Nr. 224 vom 28.07.2026", "url": "https://www.recht.bund.de/bgbl/1/2026/224/VO.html"},
+    {"title": "Gesetz zur Durchführung der KI-Verordnung (EU) 2024/1689", "bgbl": "BGBl. 2026 I Nr. 223 vom 28.07.2026", "url": "https://www.recht.bund.de/bgbl/1/2026/223/VO.html"}
+  ],
+  "sources": [
+    "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-1/bgbl-1_node.html",
+    "https://www.bgbl.de",
+    "https://www.gesetze-im-internet.de"
+  ],
+  "actions_taken": [
+    "Fetched BGBl. Teil I chronological index (recht.bund.de) for 2026",
+    "Filtered issues published 2026-07-31 .. 2026-08-07 (Nr. 229, 230, 231)",
+    "Cross-referenced affected acts against local corpus (5968 law files) -> 4 files impacted",
+    "Wrote agent-digests/law-watch-2026-08-07.md",
+    "Appended entries to data/law-watch-log.json",
+    "Opened PR for human review (no merge)"
+  ],
+  "corpus_size": 5968,
+  "repo": "gitlaw",
+  "branch": "agent/law-watch-2026-08-07"
+}

@@ -1,0 +1,32 @@
+{
+  "description": "Rolling log of detected BGBl. changes affecting the GitLaw corpus. Appended by the law-watch agent. Maintainer uses this to regenerate explainers and Musterbriefe.",
+  "entries": [
+    {
+      "detected": "2026-08-07",
+      "bgbl": "BGBl. 2026 I Nr. 229 vom 31.07.2026",
+      "title": "Verordnung zur Umsetzung der Richtlinie (EU) 2023/2225 über Verbraucherkreditverträge im Gewerberecht",
+      "change_type": "amended",
+      "corpus_files": ["laws/gewo.md"],
+      "regenerate": ["explainer:gewo"],
+      "url": "https://www.recht.bund.de/bgbl/1/2026/229/VO.html"
+    },
+    {
+      "detected": "2026-08-07",
+      "bgbl": "BGBl. 2026 I Nr. 230 vom 03.08.2026",
+      "title": "Anordnung zur Übertragung von Zuständigkeiten nach dem Beamtenversorgungsgesetz und dem Altersgeldgesetz (BMAS)",
+      "change_type": "amended",
+      "corpus_files": ["laws/beamtvg.md", "laws/altgg.md"],
+      "regenerate": ["explainer:beamtvg", "explainer:altgg", "musterbrief:widerspruch-behoerde"],
+      "url": "https://www.recht.bund.de/bgbl/1/2026/230/VO.html"
+    },
+    {
+      "detected": "2026-08-07",
+      "bgbl": "BGBl. 2026 I Nr. 231 vom 05.08.2026",
+      "title": "74. Verordnung zur Änderung der 212. Durchführungsverordnung zur Luftverkehrs-Ordnung (Flughafen Frankfurt am Main)",
+      "change_type": "amended",
+      "corpus_files": ["laws/luftvo_2015.md"],
+      "regenerate": ["explainer:luftvo"],
+      "url": "https://www.recht.bund.de/bgbl/1/2026/231/VO.html"
+    }
+  ]
+}
