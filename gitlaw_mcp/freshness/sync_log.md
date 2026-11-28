@@ -176,3 +176,12 @@ Daily HEAD-check against gesetze-im-internet.de. Each section below lists laws t
 
 - **BGB** — upstream `Last-Modified: Fri, 20 Nov 2026 21:00:13 GMT` (ETag `"7288a-660bb87cc…`, was `"728b0-660a75801…`)
 - **BImSchG** — upstream `Last-Modified: Fri, 20 Nov 2026 21:00:02 GMT` (ETag `"13d78-660bb8721…`, was `"13b9f-65ec49d39…`)
+
+## 2026-11-28T14:14:49+00:00
+
+4 laws drifted upstream since last sync:
+
+- **ZPO** — upstream `Last-Modified: Fri, 27 Nov 2026 20:55:06 GMT` (ETag `"3be0c-66148465f…`, was `"3be4c-65cb8ad8f…`)
+- **AO** — upstream `Last-Modified: Mon, 23 Nov 2026 21:00:06 GMT` (ETag `"33275-660f7e0e3…`, was `"3326f-65f00f707…`)
+- **StVG** — upstream `Last-Modified: Wed, 25 Nov 2026 20:55:02 GMT` (ETag `"14685-661200a7a…`, was `"14598-65f00f6ca…`)
+- **TKG** — upstream `Last-Modified: Wed, 25 Nov 2026 20:55:12 GMT` (ETag `"267a9-661200b0a…`, was `"267ce-65eecd91b…`)
